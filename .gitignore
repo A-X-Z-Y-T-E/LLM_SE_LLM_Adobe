@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+*.dll
+*.dylib
 
 # Distribution / packaging
 .Python
@@ -137,6 +139,10 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.env.local
+.env.development
+.env.test
+.env.production
 .venv
 env/
 venv/
@@ -173,7 +179,11 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
 
 # Abstra
 # Abstra is an AI-powered process automation framework.
@@ -186,7 +196,8 @@ cython_debug/
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #  and can be added to the global gitignore or merged into this file. However, if you prefer, 
 #  you could uncomment the following to ignore the entire vscode folder
-# .vscode/
+.vscode/
+*.code-workspace
 
 # Ruff stuff:
 .ruff_cache/
@@ -205,3 +216,214 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.#*
+#*#
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Archive files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled source
+*.com
+*.class
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Node.js (in case the project uses any Node tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Configuration files with sensitive data
+config.ini
+config.yaml
+config.yml
+secrets.json
+credentials.json
+.secrets
+.credentials
+
+# Model files and large data files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+
+# Image files (if not essential to the project)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
+# Document files (if auto-generated)
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# IDE and editor files
+.sublime-project
+.sublime-workspace
+*.sublime-project
+*.sublime-workspace
+.atom/
+.brackets.json
+*.code-workspace
+
+# Git internals
+.git/
+.gitconfig
+.gitmodules
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+*.kubeconfig
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# AWS
+.aws/
+
+# Google Cloud
+.gcloud/
+.gsutil/
+
+# Azure
+.azure/
+
+# Monitoring and profiling
+.prof
+*.pprof
+.monitor/
+
+# Cache directories
+.cache/
+.temp/
+.tmp/
+cache/
+tmp/
+
+# Build artifacts
+build/
+dist/
+out/
+target/
+bin/
+
+# Security scanners
+.bandit
+.safety
+
+# Linting and formatting
+.flake8
+.pylint.d/
+.black
+.isort.cfg
+
+# Documentation builds
+docs/build/
+site/
+_site/
+
+# Misc
+.vagrant/
+Vagrantfile.local
+.sass-cache/
+connect.lock
+coverage/
+libpeerconnection.log
+testem.log
+typings/
+
+# Project specific files
+scripts.py
+uv.lock
+.python-version
+pyproject.toml
