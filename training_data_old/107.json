@@ -1,0 +1,700 @@
+{
+  "title": "A Principled Framework for Responsible Data Sharing Between Humanitarian Organizations and Donors",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "A Principled Framework for Responsible Data Sharing Between",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Organizations and Donors",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Data and Trust Initiative",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "March 2023",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Background",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "In September 2020, the Humanitarian Data and Trust Initiative (HDTI) initiated a dialogue",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "process related to responsible data sharing between humanitarian organizations and donors.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The goal was to examine and build a common understanding around the objectives, risks and",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "constraints related to this type of data sharing in humanitarian action in order to develop a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "framework for collective action in this area.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The dialogue consisted of two meetings convened through Wilton Park (in September 2020",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and in September 2021 ), two pieces of independent research (conducted by the Global Public",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Policy Institute and the University of Manchester in 2020-2021), and a series of stakeholder",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "consultations. This framework is the primary output of this process.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "II.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Rationale and Context",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian organizations increasingly recognize incentives to collect and share",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "disaggregated data from their operations for various purposes such as improved coordination,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "more efficient service provision, accountability and transparency. At the same time, they have to",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ensure that data is exclusively used for humanitarian purposes and does not cause harm to",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "vulnerable populations. This requires collective action to mitigate the risks related to sharing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "disaggregated data in and about humanitarian contexts. These risks include the risk of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "re-identification, violations of the rights to privacy and data protection, data breaches, and the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "potential use of data outside of humanitarian purposes.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "6 Fast, Larissa. 2022. Data Sharing Between Humanitarian Organizations and Donors: Toward Understanding and Articulating",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "5 Global Public Policy Institute, “Risks Associated with Humanitarian Data Sharing with Donors,” September 2021. Available here:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4 The Wilton Park Report is available here: https://www.wiltonpark.org.uk/wp-content/uploads/2021/07/WP1777V2-Report.pdf.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3 For more information on the September 2020 meeting, see: “Responsible Data Sharing with Donors: Accountability, Transparency",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2 Wilton Park is an executive agency of the UK Foreign, Commonwealth & Development Office (FCDO) providing a global forum for",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "strategic discussion.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1 The Humanitarian Data and Trust Initiative was launched in 2020 by the Government of Switzerland, the International Committee of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Donors have an important role in the humanitarian data ecosystem, both as drivers of increased",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "data collection and analysis, and as direct users of data. In recent years, donors have begun to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "increasingly request various forms of disaggregated data, such as household-level survey",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "results and data about the delivery of assistance disaggregated by demographics, geographical",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "location and/or group dimensions (e.g. ethnicity, protection status, etc.).",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Concerns around requests for such data have led humanitarian organizations and donors to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "develop new practices and frameworks that place more emphasis on data responsibility: the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "safe, ethical and effective management of data. Data responsibility requires humanitarian",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "organizations and donors to take actions that help minimize risks and maximize benefits of data.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "This is particularly challenging in cases where donors request personal and non-personal",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "sensitive data. This includes, for example, requests for personal data related to the screening of",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "aid recipients and requests for non-personal sensitive data for reporting on the delivery of",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "different forms of aid.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian actors and donors recognize the risks and benefits associated with sharing such",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "data, but the sector has yet to establish a common understanding of how to balance these risks",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and benefits effectively in the context of data sharing between humanitarians and donors. This",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "framework is designed to help advance data responsibility in this area.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "III.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The Framework",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Scope",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The framework applies to situations where humanitarian organizations share disaggregated",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "data with donors. Disaggregated data refers to data that is broken down by one or more",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "sub-categories; e.g. sex, age, disability, location, etc. The framework covers personal and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "non-personal sensitive data generated through or related to the delivery of humanitarian",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "assistance.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Objectives",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "This framework is designed to reinforce the overarching commitment to ‘do no harm’, while",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "minimizing the risks and maximizing the benefits of data in humanitarian action. It also aims to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "support collective action for more responsible data sharing practices between humanitarian",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "organizations and donors.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Individual entities are encouraged to adapt this framework to their own institutional context,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "including through relevant guidelines, procedures, templates and tools for data sharing where",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "appropriate. Adaptation and adoption of the framework should align with different donors’ and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "humanitarian organizations’ respective mandates, relevant legal, policy and regulatory",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "frameworks, and the decisions of governing bodies.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "7 A list of definitions for the interpretation of this framework can be found in Annex A.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Guidelines for Responsible Data Sharing Between Humanitarian Organizations and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Donors",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "The following guidelines build on and complement existing principles and guidance for data",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "responsibility (including data protection) in humanitarian action. This includes the Inter-Agency",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Standing Committee Operational Guidance on Data Responsibility and the ICRC Handbook on",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Data Protection in Humanitarian Action. They also accounts for other frameworks for principled",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitarian action, including the Good Humanitarian Donorship Initiative’s 24 Principles and",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Good Practice of Humanitarian Donorship",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Principles on Interoperability of Data Systems in Humanitarian Cash Programming.11",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Prioritize rights and needs of affected populations.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "b. Humanitarian organizations should ensure that data sharing processes are",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "d. Humanitarian organizations should inform affected people about the planned",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Specify and clearly communicate the purposes of data sharing and the type of",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "data required for these purposes in a given context.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "b. Donors should uphold data minimization by only requesting the information",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "11 Donor Cash Forum Statement and Guiding Principles on Interoperability of Data Systems in Humanitarian Cash Programming",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "8 IASC Operational Guidance on Data Responsibility in Humanitarian Action (2021)). Available here::",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian organizations should document all requests for data and ensure",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "d. Donors should avoid making ad hoc requests for data that falls outside the terms",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Clarify and formalize requirements for responsible data sharing and establish",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "appropriate agreements to support implementation in different contexts.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "b. Donors should monitor how these requirements are implemented in different",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Use a common approach for assessing and mitigating risks related to data",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "sharing specific to humanitarian contexts.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "b. Humanitarian organizations and donors should establish mitigation measures to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "12 This includes, inter alia, Third Party Monitors (TPMs), Financial Service Providers (FSPs), and individual and institutional",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Invest in the capacity required to develop and uphold sector-wide approaches for",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "data responsibility throughout the data lifecycle.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "b. Humanitarian organizations and donors should establish appropriate tools and",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "d. Humanitarian organizations and donors should offer financial and technical",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Contribute to joint advocacy, learning and development of additional guidelines",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "for responsible data sharing.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "b. Humanitarian organizations and donors should support learning and",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "d. Humanitarian organizations and donors should invest in research to close gaps in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Annex A: Definitions",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "For the purposes of this framework, the following definitions apply:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Data impact assessment” is a generic term that refers to multiple types of assessments. This includes",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Data Protection Impact Assessments (DPIAs), the established tool and process in data protection law that",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "should be used (specifically) to assess personal data protection risks. Many organizations have specific",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "policies, requirements and guidelines for how DIAs should be conducted.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Data Management” refers to the design of data management activities and subsequent collection or",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "receipt, storage, processing, analysis, sharing, use, and retention and destruction of data and information",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "by humanitarian actors. Such activities occur as part of humanitarian action throughout the planning and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "response cycle across clusters/sectors and include, but are not limited to, situational analysis, needs",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "assessments, population data management, registration and enrollment, case management,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "communicating with affected populations, protection monitoring, and response monitoring and evaluation.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Data Responsibility’’ refers to the safe, ethical and effective management of personal and non-personal",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "data in humanitarian action.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Data Sharing” includes all acts that make data accessible on paper, via electronic means or the internet,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "or through other methods to a recipient: a natural or legal person, public authority, agency or another",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "body, to which the personal data is disclosed.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Disaggregated data” refers to data that is broken down by one or more sub-categories; e.g. sex, age,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "disability, location, etc. The framework includes personal and non-personal sensitive data generated",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "through or related to the delivery of humanitarian assistance.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Donors” refers to entities who are major contributors to international and humanitarian organizations.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "This may include states, private foundations, and other entities that provide financial resources to support",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the delivery of humanitarian assistance.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "“Humanitarian Organizations” refers to entities with a mission to alleviate human suffering and support",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "affected populations in situations of conflict, natural disaster or socio-economic hardship.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Personal Data” means any information relating to an identified or identifiable natural person. An",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "an identifier such as a name, an identification number, location data, an online identifier or to one or more",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "natural person.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Sensitive non-personal data” means information whose unauthorized disclosure may cause very",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "serious harm to humanitarian organizations’ or donors’ operations, reputation, assets, staff, and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "interlocutors, or is very likely to result in regulatory action(s). Such information may also be defined as",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "sensitive due to its nature, regardless of the harm its unauthorized disclosure would cause to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian organizations’ or donors’.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "“Third party” means a natural or legal person, public authority, agency or body other than the data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "subject, controller, processor and persons who, under the direct authority of the controller or processor,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "are authorized to process personal data.",
+      "page": 6
+    }
+  ]
+}

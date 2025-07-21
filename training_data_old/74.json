@@ -1,0 +1,1210 @@
+{
+  "title": "Notas de Orientación: Control de La Divulgación Estadística",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "¿EN QUÉ CONSISTEN LOS MICRODATOS HUMANITARIOS?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Los datos sobre las características de unidades de población (por ejemplo, personas, hogares o",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "establecimientos) obtenidos mediante un censo, una encuesta o un experimento se denominan en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "estadística “microdatos”.1  En la respuesta humanitaria, este tipo de datos se reúne generalmente en las",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "encuestas de hogares y las evaluaciones de necesidades. En el sector humanitario, los microdatos generan",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "un gran volumen de información que no para de crecer y es fundamental para determinar las necesidades",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "y perspectivas de las personas afectadas por las crisis.2 Las organizaciones humanitarias tienen que saber",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cómo evaluar y gestionar la sensibilidad de este tipo de datos para poder garantizar que se utilicen de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "manera responsable en los diferentes contextos de respuesta.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1     Survey Design and Statistical Methodology Metadata, Software and Standards Management Branch, Systems Support Division, United States",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "CONTROL DE LA DIVULGACIÓN ESTADÍSTICA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "CONCLUSIONES FUNDAMENTALES:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t En el sector humanitario, los datos obtenidos en las encuestas de hogares, las evaluaciones",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de necesidades y otras modalidades de microdatos generan un gran volumen de información",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "que no para de crecer. Este tipo de datos son fundamentales para determinar las necesidades y",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "perspectivas de las personas afectadas por las crisis, pero también plantea riesgos específicos.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Incluso si una organización elimina de los microdatos los identificadores directos, como el",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "nombre o el número de teléfono de una persona, mediante la combinación de variables clave",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "como la ubicación o la etnia, sigue siendo posible reidentificar a las personas y los grupos",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "vulnerables.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t El control de la divulgación estadística (SDC, por sus siglas en inglés) es una técnica empleada",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "para evaluar y reducir el riesgo de reidentificación de una persona o un grupo en el análisis de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "los microdatos. La aplicación del proceso SDC a los microdatos permite a las organizaciones",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "compartir la información más ampliamente sin causar perjuicio alguno a las personas afectadas.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t El proceso SDC puede utilizarse para reducir el riesgo de reidentificación hasta un umbral",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "acordado, que puede variar dependiendo del contexto en el que tiene lugar la respuesta",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitaria. Dado que el uso de la técnica SDC afecta al valor informativo o a la utilidad de un",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "conjunto de datos, para garantizar un uso seguro, ético y eficaz de los datos es fundamental",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "buscar un equilibrio adecuado entre el riesgo de reidentificación y la pérdida de información.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Para poder empezar a utilizar la técnica SDC, las organizaciones deben invertir recursos en los",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "siguientes procesos: 1) elección de la herramienta adecuada, 2) integración del proceso SDC",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "en los flujos de trabajo de gestión de datos existentes, y 3) mejora de las prácticas mediante el",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "aprendizaje permanente.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "CONTROL DE LA DIVULGACIÓN ESTADÍSTICA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "El control de la divulgación estadística (SDC) es una técnica utilizada en estadística para evaluar y reducir el",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "riesgo4 de reidentificación de una persona o un grupo a partir de los resultados del análisis de una encuesta",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "o de datos administrativos, o tras la publicación de microdatos. Esta técnica ha sido utilizada principalmente",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "por las oficinas nacionales de estadística y otras organizaciones en este ámbito en relación con los datos de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "los censos.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Dado que la aplicación de la técnica SDC afecta al valor o la utilidad generales de un conjunto de datos, es",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "fundamental buscar un equilibrio adecuado entre el riesgo de reidentificación y la pérdida de información.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Para buscar un equilibrio adecuado entre el riesgo y la utilidad, las organizaciones deben considerar los",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "diversos usos posibles de un conjunto de datos y el contexto en el que se recopilaron los datos.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "La aplicación del proceso SDC para limitar el riesgo de divulgación en los microdatos consta de tres etapas:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1.\tEvaluar el riesgo de reidentificación",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "El primer paso consiste en llevar a cabo una evaluación del riesgo de divulgación para determinar",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "la probabilidad de que puedan divulgarse los datos de las personas encuestadas contenidos en un",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "determinado conjunto de datos.5 Si esta probabilidad (también conocida como porcentaje de riesgo) es",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "o no aceptable para un conjunto de datos dependerá del contexto en el que se hayan generado dichos",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "datos. Por ejemplo, en un entorno de conflicto, el porcentaje de riesgo permisible será generalmente",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "más bajo que en un entorno de respuesta ante un desastre natural.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3    Para obtener más información sobre el riesgo de divulgación y las consideraciones técnicas conexas para la evaluación y la gestión de dicho",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "RIESGO DE REIDENTIFICACIÓN Y DIVULGACIÓN",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Una cadena de puntos de datos puede permitir la reidentificación, ya sea de forma aislada o acompañada",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de una comprensión contextual básica. Las técnicas avanzadas de análisis de datos también pueden",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "extraer información más sensible de la que se puede obtener en los análisis básicos, aumentando así la",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sensibilidad de los microdatos en el sector humanitario.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Son tres las modalidades de riesgo de divulgación comúnmente reconocidas3 y cada una de ellas puede",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "manifestarse en relación con los microdatos en el sector humanitario:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "•\t Divulgación de identidad: cuando es posible asociar a una persona conocida con un registro de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "datos publicado",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "•\t Divulgación de atributos: cuando es posible determinar alguna característica nueva de una persona",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "a partir de la información contenida en los datos publicados",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "•\t Divulgación inferencial: cuando es posible determinar el valor de alguna característica de una",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "persona a partir de los datos publicados con mayor precisión de lo que hubiera sido posible de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "cualquier otro modo",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Los microdatos brutos pueden contener datos personales y no personales sobre una serie de temas,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "incluidos temas sensibles, como la violencia por razón de género, las enfermedades infecciosas y otra",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "información que puede estar registrada en campos de texto libre. La mayoría de las organizaciones",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitarias reconocen la sensibilidad de la información personal, como los nombres, los datos biométricos",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "o los números de documento de identidad, y, en consecuencia, es práctica habitual anonimizar los conjuntos",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de datos. Sin embargo, combinando diferentes puntos de datos puede ser posible reidentificar a personas",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "o divulgar información confidencial incluso después de aplicar la anonimización mencionada.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Desde el comienzo de 2018, el Centro de Datos Humanitarios (“el Centro”) ha llevado a cabo una",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "evaluación de riesgos de 59 conjuntos de datos cargados en la plataforma Humanitarian Data",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Exchange (HDX). El riesgo de divulgación de las identidades de las personas encuestadas en 38 de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "los 59 conjuntos de datos se consideró demasiado alto para su publicación en la plataforma HDX.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "El equipo HDX aplicó el proceso SDC a 14 de dichos conjuntos de datos, según lo acordado por sus",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "contribuyentes, con lo que el nivel de riesgo se redujo a un porcentaje aceptable (es decir, inferior",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "a un 5%7). Gracias a esta reducción, 5 de los 14 conjuntos de datos pudieron publicarse después de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "la anonimización, mientras que los 9 restantes se eliminaron o se compartieron en privado en la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "plataforma HDX, al igual que los 24 de alto riesgo, a los que sus contribuyentes se negaron a aplicar",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "la técnica SDC. Con respecto a estos 24 conjuntos de datos, muchas organizaciones adoptaron sus",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "propias medidas para reducir el riesgo de reidentificación, que en algunos casos consistieron en la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "eliminación total de variables sensibles no esenciales.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "APLICACIÓN DEL CONTROL DE LA DIVULGACIÓN ESTADÍSTICA EN EL MANEJO",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "DE DATOS HUMANITARIOS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "A principios de 2019, para conocer las actuales prácticas de gestión de microdatos, el Centro entrevistó a",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "miembros de siete organizaciones humanitarias que realizan encuestas y evaluaciones de necesidades.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Algunas de estas organizaciones, como el ACNUR (véase el estudio de caso que figura a continuación)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "aplican enfoques relativamente avanzados y cuenta con personal especializado suficiente para llevar a cabo",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "un control de la divulgación estadística en diferentes modalidades de microdatos. Sin embargo, la mayoría",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "de las organizaciones entrevistadas necesitan apoyo adicional para realizar este trabajo.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6    Podrá encontrar más información sobre el uso, por el Centro, de la técnica SDC y sobre el proceso global de aseguramiento de la calidad (AC) de",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2.\tReducir el riesgo de reidentificación",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "El siguiente paso consiste en someter al conjunto de datos al proceso SDC real, el cual reduce el riesgo",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "de reidentificación aplicando diferentes métodos de anonimización. Estos métodos pueden clasificarse",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "en dos categorías: métodos perturbativos, que no eliminan los valores contenidos en el conjunto de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "datos pero perturban (es decir, alteran) dichos valores para limitar el riesgo de divulgación, generando",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "incertidumbre en torno a los valores auténticos, y métodos no perturbativos, que reducen el nivel de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "detalle de la información mediante la generalización o supresión de determinados valores (es decir,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "enmascaramiento) sin distorsionar la estructura de los datos.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3.\tCuantificar la pérdida de información",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "El último paso consiste en medir la pérdida de información derivada de la aplicación del proceso SDC al",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "conjunto de datos. El objetivo que se persigue en este paso es comparar el valor de la información que",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "figura en el conjunto de datos original con el valor de la información final.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Mediante la utilización del proceso SDC para evaluar y reducir el riesgo de divulgación en los",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "microdatos, las organizaciones humanitarias pueden compartir de manera más responsable los datos",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "obtenidos en las encuestas y en las evaluaciones de necesidades para que sirvan de base a la labor de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "respuesta global.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Custodia y gestión responsables de microdatos sobre refugiados",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "El ACNUR recopila de manera rutinaria datos sobre los refugiados y otras poblaciones bajo su",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mandato. Estos datos se utilizan luego para evaluar las necesidades y vulnerabilidades de dichas",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "poblaciones, para que sirvan a base a los programas y para mejorar la asignación de la asistencia.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Aunque estos datos no se han retenido históricamente en formatos y ubicaciones que facilitaran su",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "posterior recuperación para ser utilizados en el futuro, el ACNUR se encuentra actualmente inmerso",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en el proceso de crear una biblioteca de microdatos interna y externa. Con la creación de estos",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "depósitos de datos en línea que proporcionarán a los usuarios internos y externos acceso público",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "a los microdatos, el ACNUR pretende posibilitar un uso más amplio de la información a las partes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "interesadas y prevenir la duplicación de las actividades de acopio de datos.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La difusión pública de microdatos proporciona numerosos beneficios pero también conlleva",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "posibles riesgos. Cuando se difunde información sin adoptar medidas adecuadas de control, existe",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "el riesgo de que posibles intrusos puedan identificar las entidades (personas u hogares) cuyos",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "datos se comparten, incluso cuando se han eliminado los identificadores directos, como nombres y",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "direcciones. De conformidad con la política de protección de datos del ACNUR, debe protegerse la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "identidad de las personas de interés para la organización y, por consiguiente, los conjuntos de datos",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "deben anonimizarse adecuadamente antes de compartirlos. Los datos del ACNUR son especialmente",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sensibles, dado que se refieren a grupos de personas especialmente vulnerables, cuya protección",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "reviste la máxima importancia.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Para garantizar la protección y difusión responsables de los microdatos, el ACNUR utiliza la aplicación",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sdcMicro en el entorno R para calcular los riesgos de reidentificación antes de su publicación. El",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "proceso es gestionado por el equipo de custodia del ACNUR, que trabaja conjuntamente con los",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "propietarios de los datos para identificar las variables clave, evaluar la sensibilidad de la información",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "y definir un nivel de riesgo aceptable para cada conjunto de datos. Una vez anonimizados, los datos",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "modificados se comparan con los originales y se examinan para evaluar la pérdida de información.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Si el propietario de los datos estima que determinadas variables modificadas son esenciales para los",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "usuarios, los métodos de control de la divulgación pueden ajustarse según proceda. Por ejemplo,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en el caso de las encuestas normalizadas ampliadas de nutrición (SENS, por sus siglas en inglés),",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "el equipo de custodia decidió no aplicar la agregación a grupos de edad a los que normalmente se",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "aplicaría, porque dichos grupos eran fundamentales para caracterizar la malnutrición de los niños por",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "años y meses de edad. El equipo mantuvo la variable de edad pero excluyó la fecha de nacimiento y",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "la fecha de la encuesta. Este método dio lugar a un escenario de riesgo aceptable y, al mismo tiempo,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mantuvo la utilidad de los datos para los nutricionistas.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "El ACNUR sigue invirtiendo recursos en este proceso y ha ampliado su equipo de custodia y ha",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "aumentado los conocimientos especializados en técnicas de anonimización que existen en la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "organización. En el marco del actual plan, para finales de 2019, la herramienta UNHCR Microdata",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Library estará totalmente operativa e incluirá microdatos sobre desplazamientos forzados.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Oportunidades y desafíos en relación con la incorporación del control de la divulgación",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "estadística en el flujo de trabajo de una organización",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Experiencia de la iniciativa REACH",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La iniciativa REACH empezó a explorar el potencial del control de la divulgación estadística en junio",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de 2018, cuando el equipo de la plataforma HDX aplicó por primera vez el paquete sdcMicro en el",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "entorno R a un conjunto de datos cargado en la plataforma. Los tipos de datos a los que el equipo",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "HDX aplicó el proceso SDC para REACH incluyen encuestas de hogares y entrevistas a informantes",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "clave (y los metadatos conexos). REACH todavía no ha aplicado directamente la técnica SDC pero sus",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "administradores están examinando los requisitos necesarios para hacerlo.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Basándose en la experiencia de REACH a día de hoy, las organizaciones que estén interesadas en",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "incorporar el proceso SDC en su flujo de trabajo deberían plantearse las siguientes preguntas:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Es esta la metodología adecuada para sus actuales procesos de gestión de microdatos?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Hasta qué punto la aplicación del proceso SDC reduce la validez y utilidad de los datos?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿En qué medida afecta a la transparencia la aplicación del proceso SDC?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Cómo se puede evitar que el personal confíe demasiado en los resultados de una evaluación",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "del riesgo de divulgación tras la aplicación del proceso SDC y garantizar que siga pensando de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "manera crítica en los posibles riesgos que plantean diferentes tipos de datos?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La iniciativa REACH considera que sería operacionalmente viable implementar con relativa facilidad",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "los aspectos técnicos del proceso SDC en la sede y sobre el terreno. En la sede, dicha implementación",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "exigiría ejecutar un programa en todos los conjuntos de datos generados o publicados por REACH.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Para la implementación sobre el terreno, los equipos en los países deben utilizar sdcMicro o una",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "herramienta similar con los conjuntos de datos generados en los países.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Más allá de los aspectos técnicos del proceso SDC, la iniciativa REACH ve un posible problema o",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "un cuello de botella en el componente manual del proceso, cuando el personal deba decidir si una",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "determinada técnica de control de la divulgación es adecuada, qué variables deben eliminarse u",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ocultarse y cómo interpretar o comunicar los resultados del proceso. Estas decisiones llevan tiempo y",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "exigen la comprensión del contexto con el que están relacionados los datos.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "A corto plazo, la iniciativa REACH seguirá colaborando con el equipo HDX en la aplicación del proceso",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "SDC a los datos de las encuestas y evaluaciones antes de su publicación en la plataforma HDX. Esta",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "experiencia permitirá a REACH determinar cuál es la mejor manera de incorporar en el futuro la",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "técnica SDC en sus propios flujos de trabajo a nivel mundial y nacional.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Mediante la colaboración con contribuyentes de datos, como la iniciativa REACH (véase el estudio de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "caso que figura a continuación) para desarrollar un modelo de servicio fiable y seguro para el proceso",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "SDC, el Centro pretende promover el intercambio responsable de esta información y demostrar el valor",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de técnicas más sólidas de evaluación del riesgo de divulgación y anonimización de datos. La experiencia",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "con estas técnicas también ayuda a las organizaciones humanitarias a determinar las herramientas y los",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "métodos que pueden incorporar en sus propios procesos de gestión de datos, al tiempo que contribuyen a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ampliar el caudal de conocimientos dentro del sector sobre la forma de gestionar y compartir microdatos",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de manera más responsable en los entornos humanitarios.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Para adoptar con éxito el proceso SDC, el Centro y sus colaboradores en la elaboración de la presente nota",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de orientación recomiendan a las organizaciones que inviertan recursos en los tres pasos enumerados a",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "continuación:",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1. Seleccionar la herramienta adecuada",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Para la implementación de la técnica SDC existen diversas herramientas gratuitas en línea. El Centro",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "y otras organizaciones humanitarias consultadas por éste durante su labor de investigación utilizan",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "actualmente sdcMicro. El Centro eligió sdcMicro por su escalabilidad y porque es un software gratuito",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "y de fuente abierta. Otras herramientas gratuitas y de fuente abierta son μArgus y ARX. A la hora de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "seleccionar la herramienta adecuada para el proceso SDC, las organizaciones deben tener en cuenta la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "flexibilidad para seleccionar las variables clave, la capacidad para tratar grandes conjuntos de datos,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "la funcionalidad para la elección entre riesgo y utilidad y la facilidad con la que el personal podría",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "navegar por la interfaz de usuario del software.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "2. Integrar el control de la divulgación estadística en los flujos de gestión de datos existentes",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Establecer un proceso para la aplicación de esta técnica a los flujos de gestión de datos existentes",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "es clave para adoptar este método de manera sostenible. La técnica SDC exige la participación de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "personal con diferentes conocimientos y competencias, incluido un especialista técnico para aplicar",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "los métodos estadísticos, y un especialista de programas con conocimiento del contexto de los datos",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "para determinar un equilibrio aceptable entre riesgo y utilidad. Un flujo de trabajo bien organizado",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ayudará a mejorar la eficacia del proceso y a prevenir errores de interpretación de los resultados del",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "proceso SDC y la excesiva dependencia de dichos resultados.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. Mejorar la práctica mediante el aprendizaje permanente",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A medida que las organizaciones vayan aplicando la técnica SDC, irán conociendo la sensibilidad",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de las variables clave, el nivel de riesgo que deben intentar establecer, el nivel aceptable de pérdida",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de información y otras consideraciones que exijan un equilibrio en el proceso. El mantenimiento",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de un registro de cada una de las aplicaciones del proceso SDC y la documentación de las lecciones",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "aprendidas contribuirá a perfeccionar dicho proceso de cara al futuro. Compartir internamente los",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "conocimientos adquiridos y, en su caso, con la comunidad humanitaria en general puede propiciar una",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "gestión más coherente y responsable de los microdatos en el sector.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Como parte de sus esfuerzos para promover una gestión y un intercambio más responsables de los datos",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "humanitarios, el Centro está mejorando su modelo de servicios8 para la aplicación de la técnica SDC.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Esta labor consiste en introducir un proceso automatizado de detección de riesgos para todos los datos",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "compartidos a través de la plataforma HDX, lo cual –cuando se realiza manualmente– puede llevar varias",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "horas en el caso de hojas de cálculo grandes. Mediante este proceso, se ejecutará un programa con toda la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "información cargada en la plataforma para identificar los microdatos y otros tipos de datos potencialmente",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "sensibles. Los datos de alto riesgo se enviarán a un flujo de trabajo exclusivo que se evaluará y, en caso",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "necesario, se modificará por medio del proceso SDC para reducir el riesgo de reidentificación antes de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "compartir los datos más ampliamente.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Para obtener más información sobre la labor del Centro en lo tocante al proceso SDC diríjase a",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "centrehumdata@un.org.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "RECOMENDACIONES PARA PROMOVER LA UTILIZACIÓN DEL CONTROL DE LA",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "DIVULGACIÓN ESTADÍSTICA EN ENTORNOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "8    Podrá encontrar más información sobre el enfoque del Centro en relación con el proceso SDC en el siguiente enlace: https://humanitarian.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "atlassian.net/wiki/spaces/HDXKB/pages/1381498881/.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "El Centro Para Los Datos Humanitarios (‘El Centro’), conjuntamente con sus principales asociados, publica",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "de directrices sobre la responsabilidad de los datos, elaborado por la OCHA Con esta serie, el Centro pretende",
+      "page": 7
+    }
+  ]
+}

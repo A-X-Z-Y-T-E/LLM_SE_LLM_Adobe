@@ -1,0 +1,1350 @@
+{
+  "title": "Note: L’éthique des données humanitaires",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "L’ÉTHIQUE DES DONNÉES HUMANITAIRES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t On entend par l’éthique l’étude de ce qui est moralement bien ou mal, ou un ensemble de",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "croyances sur ce qui est moralement bien ou mal. L’éthique contribue à jeter les bases des normes,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "peut être utilisée pour interpréter les normes établies et peut être appliquée directement comme",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "orientation dans les situations pour lesquelles les normes, les lois et les règlements ne fournissent",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "pas de direction.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t L’éthique humanitaire s’est développée en tant qu’une éthique fondée sur des principes, prenant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "appui sur les principes fondamentaux d’humanité, d’impartialité, de neutralité et d’indépendance",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "qui guident la fourniture de l’aide et de la protection humanitaires. Les cadres existant concernant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "l’éthique humanitaire doivent être élargis pour permettre au personnel et aux organisations de",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "relever les défis et de saisir les opportunités de l’ère numérique.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t L’éthique des données est la branche de l’éthique qui étudie et évalue les problèmes moraux",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "et offre des directives normatives liées aux données, aux algorithmes et aux pratiques",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "correspondantes. Les problématiques éthiques le plus souvent rencontrées dans la gestion des",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "données comprennent les questions de l’équité, de la validité, de la partialité, de l’ossification, de la",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "transparence et l’explicabilité, de l’anonymat, de la confidentialité, et de la propriété des données",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "et des informations.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t En outre, un certain nombre d’autres questions éthiques peuvent se poser dans les projets liés",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "aux données dans le secteur humanitaire, notamment : les préjudices potentiels de l’action",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "humanitaire, les difficultés d’association, la complicité et l’entrave  morale, l’obligation de diligence",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "envers le personnel humanitaire et le « casse-tête coût-efficacité ».",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Les organisations humanitaires peuvent améliorer la délibération et la prise de décision éthiques",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "dans la gestion des données en : (i) établissant des codes de conduite clairs pour la gestion des",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "données éthique ; (ii) apportant un soutien au personnel chargé d’identifier, de comprendre et",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "de débattre des questions éthiques à l’aide d’outils communs ; et (iii) introduisant des « audits",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "éthiques » en tant que procédure standard.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "La Responsabilité des données implique une gestion sécurisée, éthique et efficace des données.1 Cette note",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "met l’accent sur les aspects éthiques de la gestion des données humanitaires, allant des exercices standard",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "tels que la collecte et le traitement des données sur le terrain aux applications plus avancées de la science",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "des données, telles que l’analyse prédictive.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Cette note vise à aider les travailleurs humanitaires à identifier, évaluer et traiter les préoccupations éthiques",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "qui surgissent dans les projets liés aux données. Le document commence par un aperçu de l’éthique",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "humanitaire et de l’éthique des données, en mettant l’accent sur les valeurs qui mènent à la prise de",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "décisions éthiques dans les deux domaines. La note introduit ensuite quelques-unes des préoccupations et",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "enjeux éthiques communs auxquels les travailleurs humanitaires peuvent faire face en gestion de données.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Sont enfin fournies des recommandations aux organisations humanitaires qui cherchent à améliorer la",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "délibération éthique quant à l’utilisation et l’impact des données dans leurs opérations.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "L’éthique est définie comme l’étude de ce qui est moralement bien ou mal, ou un ensemble de croyances sur",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "ce qui est moralement bien ou mal.2 Le rôle de l’éthique dans l’orientation de la pratique est essentiel dans",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "un secteur tel que l’action humanitaire, où des individus issus d’une variété de milieux et de systèmes de",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "valeurs se réunissent dans la poursuite d’un objectif commun : aider et protéger les personnes touchées par",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "la guerre et les catastrophes.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2   Cambridge Dictionary, disponible ici : https://dictionary.cambridge.org/dictionary/english/ethics.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "L’éthique a un rôle particulièrement important à jouer dans le domaine de la gestion des données,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "car les outils techniques de gestion des données ont évolué plus rapidement que les instruments qui",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "régissent leur utilisation.Comme l’affirme le philosophe Luciano Floridi, « l’éthique en général et l’éthique",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "numérique en particulier ne peuvent pas être un simple complément (…) une fois que l’innovation",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "numérique s’est produite et que des solutions potentiellement mauvaises ont été mises en œuvre, des",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "alternatives moins bonnes ont été choisies ou des erreurs ont été commises. »4 Dans un secteur donné,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "les professionnels doivent identifier, évaluer et élaborer des stratégies pour atténuer les préoccupations",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "éthiques communes susceptibles de survenir dans la gestion des données. À mesure que ces questions",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "deviennent claires, ce qui est « bon » ou « bien » d’un point de vue éthique doit alors éclairer les politiques",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "et instruments juridiques émergents qui régissent finalement la gestion des données.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Préoccupations éthiques communes dans la gestion des données5",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Validité : Les données et/ou le modèle sont-ils représentatifs de ce que vous voulez mesurer ?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Biais et équité : Y a-t-il une distorsion systématique des données recueillies et/ou y a-t-il un préjudice",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "ou un favoritisme dans les données ou le modèle ? (par exemple, y a-t-il eu une surestimation ou une",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "sous-estimation de ce qui est mesuré ou certains membres de la population sont-ils plus ou moins",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "représentés que d’autres ?)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Ossification : Le modèle (ou les données sous-jacentes) codifie-t-il l’état actuel du monde et le rend-il",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "de fait plus difficile à changer ? (par exemple, sommes-nous en train de construire des modèles qui",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "perpétuent ou répètent les erreurs du passé)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Transparence et explicabilité : Existe-t-il une documentation claire sur le processus de gestion des",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "données et une visibilité sur le fonctionnement du modèle ou des algorithmes ? (par exemple, une",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "personne qui n’est pas directement impliquée dans le processus peut-elle expliquer ce qui se passe ?)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ÉTHIQUE HUMANITAIRE",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Comme l’explique Hugo Slim dans Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "« l’éthique humanitaire s’est développée en tant qu’une éthique fondée sur des principes … établie sur",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "les principes fondamentaux d’humanité, d’impartialité, de neutralité et d’indépendance qui guident la",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "fourniture de l’aide et de la protection humanitaire. »6 Dans la formulation de Slim, les principes servent",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "spécifiquement trois objectifs principaux dans l’éthique appliquée : affirmer les normes morales, agir comme",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "guides opérationnels constants pour la prise de décisions éthiques et générer des règles spécifiques.7",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Principes humanitaires",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Ces principes et règles connexes sont inscrits dans divers codes de conduite aujourd’hui largement",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "reconnus comme le fondement de la pratique humanitaire éthique, comme la Charte Humanitaire et",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Standards minimum de l’intervention humanitaire, y compris les Principes de protection et la Norme",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitaire fondamentale de Sphere 9, la Norme humanitaire fondamentale10, et le Code de conduite pour",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "la Croix-Rouge et les ONG.11 Bien que ces cadres servent de guides utiles à la prise de décisions éthiques,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "dans la pratique, ils ne peuvent pas être simplement appliqués à toute la gamme de contextes",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "où les travailleurs humanitaires fournissent une aide. Comme le note Slim, « ils sont généralement",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "interprétés dans une situation donnée. L’éthique humanitaire consiste donc en une lutte pour interpréter",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "les limites éthiques et équilibrer divers principes. »12",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6   Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 40.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Confidentialité et anonymat : Les données ou leur utilisation révèlent-elles l’identité d’un individu",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ou d’un groupe de personnes ?",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Propriété des données et des informations : Les droits à l’égard des données et des informations",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "associées sont-ils clairement définis ? (par exemple, la manière dont les décisions sont prises en ce",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "qui concerne la façon dont les données peuvent être utilisées et par qui, la manière dont les",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "problèmes liés aux données sont corrigés, et autres questions connexes sont-elles claires ?)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ÉTHIQUE DES DONNÉES",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "L’éthique des données est apparue ces dernières années en tant que domaine distinct des recherches et",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "enquêtes éthiques. Dans un livre blanc datant de 2017, l’Open Data Institute (ODI) souligne l’importance",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "croissante de l’éthique des données dans le discours public. « De plus en plus », observe l’ODI, « ceux qui",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "collectent, partagent et travaillent avec des données explorent l’éthique de leurs pratiques et, dans certains",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "cas, sont contraints de confronter cette éthique aux critiques du public. »13",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Selon Luciano Floridi et Mariarosario Taddeo, « l’éthique des données peut être définie comme une",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "branche de l’éthique qui étudie et évalue les problèmes moraux liés aux données (y rcompris la génération,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "l’enregistrement, la conservation, le traitement, la diffusion, le partage et l’utilisation), aux algorithmes (y",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "compris l’intelligence artificielle, les agents artificiels, l’apprentissage automatique et les robots) et aux",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "pratiques correspondantes (y compris l’innovation responsable, la programmation, le piratage et les codes",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "professionnels). »14 Dans la pratique, les institutions du secteur public abordent généralement l’éthique des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "données comme une « branche de l’éthique qui évalue les pratiques en matière de données avec le risque",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "d’avoir une incidence négative sur les personnes et la société - dans la collecte, le partage et l’utilisation des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "données ».15",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Les données étant devenues de plus en plus essentielles au fonctionnement des institutions publiques",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "et privées, les questions d’éthique se sont retrouvées plus fréquemment dans les débats sur l’impact des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "données et des technologies sur la société. Ceci est particulièrement visible dans les discussions au niveau",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "mondial quant à l’éthique de l’intelligence artificielle (IA). Une analyse des cadres éthiques internationaux",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "de l’IA publiée en septembre 2019 identifie une « convergence émergeant autour de cinq principes éthiques",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "(transparence, justice et équité, non-malfaisance, responsabilité et vie privée), avec des divergences",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "substantielles quant à la manière dont ces principes sont interprétés, pourquoi ils sont jugés importants, à",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "quel problème, domaine ou acteurs ils appartiennent et comment ils doivent être mis en œuvre ».16 La seule",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "présence de principes de haut niveau ne garantit toutefois pas une délibération éthique et une prise de",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "décision efficaces.17",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "L’éthique humanitaire constitue une base plus solide pour débattre de questions relatives à la gestion",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "éthique des données à des fins humanitaires que les différents cadres autonomes pour différents domaines",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "de l’éthique appliquée aux données. Les cadres existant concernant l’éthique humanitaire doivent être",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "élargis pour permettre au personnel et aux organisations humanitaires de relever les défis et de saisir les",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "opportunités de l’ère numérique.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "13  Open Data Institute, 2017. Helping organizations navigate ethical concerns in their data practices.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CONSIDÉRATIONS ÉTHIQUES RELATIVES À LA GESTION DES DONNÉES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITAIRES",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Les humanitaires sont confrontés à des choix difficiles pour fournir une assistance et une protection aux",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "populations en crise. Bien que ces différents types de dilemmes concernent l’action humanitaire dans son",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ensemble, beaucoup d’entre eux sont particulièrement proéminents ou exacerbés dans les projets liés",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "aux données. Le tableau ci-dessous présente certains types courants de dilemmes éthiques et offre des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "exemples de la façon dont ils peuvent se manifester dans la gestion des données humanitaires. Lors de",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "l’évaluation des dimensions éthiques d’un projet lié aux données, les humanitaires doivent tenir compte",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "des dilemmes décrits ci-dessous ainsi que des préoccupations communes en matière d’éthique des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "données (décrites plus en détail dans l’encadré ci-dessus), y compris : équité, validité, biais, ossification,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "transparence et explicabilité, anonymat, confidentialité et propriété des données et des informations.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "L’interprétation de ces principes devient à la fois plus complexe et plus essentielle dans les domaines",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "de l’action humanitaire où il manque des normes claires et des orientations sectorielles. La gestion des",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "données humanitaires en fait partie.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Difficultés d’association",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Des travaux passés avec des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Risque de préjudice ou de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "malfaisance de l’action",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "humanitaire",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Préjudice direct ou indirect",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Complicité et entrave  morale",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "En réalité, les organisations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Obligation de diligence envers",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "le personnel humanitaire",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Les organisations doivent",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Casse-tête coût-efficacité",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Les organisations se battent pour",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1. ÉTABLIR DES CODES DE CONDUITE CLAIRS POUR LA GESTION ÉTHIQUE DES DONNÉES",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Malgré l’existence de principes et de codes de conduite sectoriels, les humanitaires n’ont pas de directives",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "claires sur leurs obligations éthiques spécifiques vis-à-vis de la gestion des données. Les organisations",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "doivent clarifier et établir une compréhension collective autour de la manière dont les principes",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "humanitaires et les différentes valeurs institutionnelles s’appliquent au travail lié aux données.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "À ce jour, la plupart des organisations se sont concentrées sur l'établissement de politiques sur des",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "questions spécifiques telles que la protection et la confidentialité des données, tandis que l’ensemble",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "plus large de considérations éthiques reste mal défini et insuffisamment traité. Il existe deux exceptions",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "notables à ceci dont les organisations pourraient s’inspirer pour définir leurs propres codes de conduite",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "éthique en termes de gestion des données : la Note d’orientation du GNUD : « Confidentialité, éthique et",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "protection des données : Note d’orientation du GNUD concernant les mégadonnées à l’appui de la réalisation",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "du Programme 2030 » et20 le programme Signal Code sur la sécurité et la technologie humaines de la",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Harvard Humanitarian Initiative : « Ethical Obligations for Humanitarian Information Activities (obligations",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "éthiques fondamentales pour les activités d’information dans les contextes humanitaires) ».21",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t .La note d’orientation du GNUD offre une approche du Big Data basée non seulement sur la",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "confidentialité, mais aussi sur les obligations éthiques et morales concernant l’utilisation des",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "données dans les contextes de développement et d’aide humanitaires. Elle offre un ensemble de",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "principes que les organisations sont encouragées à adapter encore davantage sous la forme de",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "directives opérationnelles tenant compte de la mise en œuvre de leurs mandats respectifs ainsi que",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "de leurs règlements, règles et politiques existants relatives à la confidentialité, à la protection, à",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "l'éthique et à la sécurité des données.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t Le programme Signal Code traduit et applique les sources fondamentales de la pratique humanitaire",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "éthique aux activités dites d’information humanitaire (de l’anglais « Humanitarian Information",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Activities ou HIA »), y compris la collecte, le stockage et l’analyse des données. Il formule neuf",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "obligations conçues pour aider les organisations à comprendre les risques et à atténuer les préjudices",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "liés au cycle de vie des données, lorsqu’elles s’engagent dans ces activités.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "19 International Association of Professionals in Humanitarian Assistance and Protection (PHAP), Code of Ethics.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RECOMMANDATIONS EN VUE D’AMÉLIORER LA DÉLIBÉRATION ET LA PRISE DE",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "DÉCISION ÉTHIQUES DANS LA GESTION DES DONNÉES HUMANITAIRES",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Face aux différents dilemmes susceptibles de survenir dans les projets liés aux données, les humanitaires",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "doivent interpréter les limites éthiques et mettre en balance les différents  principes qui éclairent les bonnes",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "pratiques afin de déterminer le plan d’action approprié. Comme cela est reconnu dans le code d’éthique",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "et de déontologie de la PHAP (International Association of Professionals in Humanitarian Assistance and",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Protection), les « questions liées aux dilemmes éthiques seront mieux résolues par un examen réfléchi des",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "principes fondamentaux, que par un recours à des réglementations détaillées. »19",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Le Centre for Humanitarian Data (le « Centre ») recommande aux organisations d’investir dans trois do-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "maines pour améliorer la délibération et la prise de décisions éthiques dans la gestion des données humani-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "taires :",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1.\tÉtablir des codes de conduite clairs pour la gestion éthique des données.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.\tAider le personnel à identifier, à comprendre et à débattre des questions éthiques à l’aide d'outils",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "communs.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.\tIntroduire les « audits éthiques » en tant que pratique courante.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2. AIDER LE PERSONNEL À IDENTIFIER, À COMPRENDRE ET À DÉBATTRE DES QUESTIONS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "ÉTHIQUES À L’AIDE D'OUTILS COMMUNS",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "La plupart des organisations humanitaires n’ont pas de personnel chargé de veiller à ce que les",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "interventions soient conçues et réalisées de manière éthique. Le personnel au sein des organisations",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "humanitaires doit comprendre et respecter les principes humanitaires et les codes de conduite connexes",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "dans le cadre de leurs fonctions respectives, souvent sans formation ou orientation officielle sur le sujet.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Des mesures simples comme l’introduction d’une liste de contrôle relative aux aspects éthiques et le",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "soutien à l’utilisation d’outils de conception éthique peuvent permettre au personnel d’identifier, de",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "comprendre et de débattre avec plus de confiance les questions d’éthique susceptibles de survenir dans",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "leur travail.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Les humanitaires peuvent se poser les questions suivantes lorsqu’ils examinent les dimensions éthiques",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "d’une intervention donnée :22",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Respectons-nous les principes humanitaires fondamentaux et le Code de conduite ?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Sommes-nous susceptibles de multiplier les actions qui sont conformes à ou en violation du droit",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "international humanitaire, du droit des réfugiés ou du droit relatif aux catastrophes ?23",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Sommes-nous susceptibles d’augmenter ou de réduire la capacité des acteurs humanitaires à",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "respecter les normes Sphere ?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Sommes-nous susceptibles d’améliorer ou d’aggraver la dignité et les conditions de notre population",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "cible ?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Sommes-nous susceptibles d’augmenter ou de réduire notre capacité à respecter les principes de",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "bonne gestion humanitaire ?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Les populations concernées sont-elles susceptibles de comprendre et de respecter notre décision ?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Ces questions peuvent facilement être étendues aux projets de données humanitaires et servir de base",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "solide pour la délibération collective des questions éthiques qui peuvent y apparaître.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Les organisations peuvent également envisager des outils de conception éthique plus adaptés aux projets",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "liés aux données. On citera comme exemple le « Data Ethics Canvas » de l’Open Data Institute. Comme",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "l’explique l’ODI, « [l]e Data Ethics Canvas (ou canevas éthique des données) est un outil destiné à aider",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "quiconque collecte, partage ou utilise des données à identifier et à gérer les questions éthiques à toutes",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "les étapes d’un projet. Il est conçu en tant que cadre flexible pour développer des orientations éthiques",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "adaptées à tout contexte. »24 En tant que tel, il peut servir de point de départ utile aux organisations",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "humanitaires qui cherchent à gérer de façon plus systématique les questions éthiques dans le travail lié",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "aux données. »",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3. INTRODUIRE LES « AUDITS ÉTHIQUES » EN TANT QUE PRATIQUE COURANTE",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Pour compléter les délibérations éthiques plus solides au sein des équipes projet et des organisations",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "dans leur ensemble, envisagez d’introduire des mécanismes de contrôle de la qualité permettant de «",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "faire respecter » le processus de conception et de prise de décision éthiques par rapport à un ensemble",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "commun de critères. Il est possible pour ce faire d’introduire des « audits éthiques » dans le cadre des",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "pratiques standard de gestion des données. De tels audits sont particulièrement utiles dans des domaines",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "plus exploratoires de la science des données, pour lesquels des normes et standards professionnels sont",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "toujours en voie de développement, et pour lesquels les différents défis éthiques restent moins bien",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "compris.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Le Centre a établi un cadre d’examen par les pairs pour l’analyse prédictive dans la réponse  humanitaire.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "L’examen éthique consiste à identifier toutes les parties prenantes et les préoccupations liées à la façon dont",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Les organisations sont encouragées à partager leur expérience de la navigation des dilemmes éthiques dans",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "la gestion des données avec le Centre via centrehumdata@un.org.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Le Centre for Humanitarian Data, (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "des Nations Unies (UNOCHA) en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "TECHNOLOGY, AND SOCIETY (TILT); INTERNATIONAL ORGANIZATION FOR MIGRATION (IOM) DATA SCIENCE AND",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "ETHICS GROUP (DSEG).",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Comme l’explique une note d’orientation de 2017 de l’International Association of Privacy Professionals et",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "de UN Global Pulse, « des cadres existants peuvent compléter les processus décisionnels des organisations",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "pour aborder le nouveau domaine émergent de l’éthique des données. TCes cadres offrent différentes",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "perspectives et options de gouvernance aux organisations qui ont des enjeux éthiques importants sur les",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "données ou un traitement à grande échelle des données sensibles. »25 L’audit éthique peut être réalisé par",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "des organismes internes, des organismes externes ou une combinaison des deux.26",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Quelle que soit l’approche adoptée pour introduire ces audits éthiques, le processus doit comporter les",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "éléments suivants :27",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Identifier les parties prenantes touchées par l’exercice de gestion des données en question.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t .Faciliter un échange entre les personnes qui peuvent représenter les différents groupes de parties",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "prenantes et formuler des observations sur leurs préoccupations, positives comme négatives, quant",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "à l’exercice en question (par exemple, comment fonctionne l’algorithme dans un modèle prédictif,",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "comment ses données sont traitées dans un exercice d’enquête à grande échelle, etc.).",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Hiérarchiser les préoccupations en fonction des apports des parties prenantes.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Élaborer des lignes directrices et d’autres mesures pour répondre aux préoccupations identifiées et y",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "remédier.",
+      "page": 8
+    }
+  ]
+}

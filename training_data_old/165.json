@@ -1,0 +1,955 @@
+{
+  "title": "Note: Approches responsables en matière de partage des données",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "APPROCHES RESPONSABLES EN MATIÈRE DE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PARTAGE DES DONNÉES",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Un partage ouvert de données à jour et précises est indispensable à l’efficacité de la réponse",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitaire. La façon dont les organisations humanitaires abordent le partage des données est",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "directement liée à la confiance et à la coopération dans le secteur.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t À mesure que l’écosystème de données humanitaires se développe, les opportunités et les",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "risques liés au partage des données deviennent plus clairs, ce qui incite les entreprises à explorer",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "des approches de partage plus limitées.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les organisations humanitaires reconnaissent largement la sensibilité des données personnelles :",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "l’exposition de telles données est fortement susceptible d’entraîner diverses formes de préju-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dice. La majorité des données non personnelles peuvent être partagées ouvertement en toute",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sécurité, mais ces dernières peuvent également être sensibles et doivent être traitées avec pru-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dence.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les organisations humanitaires doivent prendre en compte quatre facteurs lorsqu’elles décident",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de partager ou non des données non personnelles : (i) l’utilité ; (ii) la sensibilité ; (iii) la capacité",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humaine et technique ; et (iv) la gouvernance.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les organisations humanitaires doivent identifier et comparer toutes les approches disponibles",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pour le partage des données, en considérant d’abord l'approche la plus ouverte et en travaillant à",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "des approches plus restrictives si nécessaire.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "L’utilisation et l’échange de données sont devenus des fonctions essentielles des organisations",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires. Les membres du personnel doivent régulièrement décider de partager ou non les données",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de leur organisation, même si leur rôle n’est pas principalement axé sur la gestion des données ou de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "l’information. Au-delà des organisations individuelles, le désir de partager et d’utiliser les données",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "générées dans l’action humanitaire s’est également amplifié. En réponse à cela, le secteur humanitaire a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "connu une augmentation de la production et du partage des données au cours des dernières années.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Un partage ouvert de données à jour et précises est indispensable à l’efficacité de la réponse humanitaire",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "et doit rester un objectif clé pour le secteur. Par exemple, les données épidémiologiques sur la COVID-191",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "compilées et partagées quotidiennement par le Johns Hopkins University Center for Systems Science and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Engineering ont été intégrées dans un certain nombre de tableaux de bord et de rapports de situation",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "pour les décideurs du secteur humanitaire depuis le début de la pandémie. En décembre 2020, ce jeu",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de données avait été téléchargé plus de 320 000 fois depuis la plateforme d’échange Humanitarian Data",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Exchange (HDX) depuis sa première publication en janvier de la même année. L’utilité des données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ouvertes pour les praticiens humanitaires est également soulignée par le fait que l’utilisation de HDX dans",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "les pays ayant un Plan de Réponse Humanitaire (« Humanitarian Response Plan » ou «HRP» en Anglais) en",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "place a augmenté beaucoup plus rapidement que son utilisation dans d’autres endroits.2",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "La façon dont les organisations humanitaires abordent le partage des données est directement liée à la",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "confiance et à la coopération dans le secteur. Le maintien de la confiance au sein de l’écosystème des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "données est essentiel à la durabilité du partage des données, et porte sur des questions telles que la",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "qualité, le niveau auquel les données seront sécurisées après le partage et l’utilisation responsable des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "données par le destinataire. Comme les données dans le secteur humanitaire concernent souvent les",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "populations les plus exposées au risque, la gestion et le partage de ces données justifient la prudence.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "De nombreuses organisations humanitaires ont élaboré ou mis à jour leurs directives, leur gouvernance",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "et leurs pratiques pour soutenir différents aspects de la Responsabilité des données : la gestion sécurisée,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "éthique et efficace des données. Le secteur a en outre constaté une multiplication des efforts collaboratifs",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "visant à améliorer la Responsabilité des données au-delà des organisations individuelles.3 Néanmoins, à",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "mesure que le système humanitaire apprend davantage sur les risques associés au partage des données,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "les organisations doivent faire face à des défis plus complexes en partageant ces données de manière",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "responsable.4",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "La présente note d’orientation vise à faciliter la prise de décisions concernant le partage de données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "non personnelles dans les milieux humanitaires. Elle explique la sensibilité des données, fournit des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "exemples courants de données sensibles non personnelles, et détaille l’approche adoptée en matière",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de classification de la sensibilité des informations et des données dans les milieux humanitaires. Elle",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "offre également un cadre que les organisations peuvent utiliser pour peser quatre facteurs qui aident à",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "déterminer si les données peuvent être partagées et explique les approches courantes pour le faire de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "manière responsable.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Options pour le partage de données sur la plateforme Humanitarian Data Exchange",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Lorsque la plateforme Humanitarian Data Exchange (HDX) a été lancée en 2014, elle regroupait près de 900",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "En 2017, l’équipe HDX a ajouté une autre option pour le partage des données : HDX Connect. Cette fonction",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Certaines des organisations utilisant HDX se sont davantage orientées vers un accès contrôlé à leurs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "COMPRENDRE LA SENSIBILITÉ DES DONNÉES",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations humanitaires reconnaissent largement la sensibilité des données personnelles6 :",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "l’exposition de telles données est fortement susceptible de nuire et d’entraîner diverses formes de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "préjudice. Cette compréhension est encore peu répandue au niveau des données non personnelles, qui",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "couvrent généralement les trois catégories suivantes dans les environnements humanitaires :",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1.\tDes données sur le contexte dans lequel une intervention a lieu (par exemple les cadres juridiques, les",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "conditions politiques, sociales et économiques, les infrastructures, etc.) et la situation humanitaire",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(par exemple, les incidents de sécurité, les risques de protection ou les facteurs à l’origine de la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "situation ou de la crise).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.\tDes données sur les populations affectées par la situation et leurs besoins, les menaces et les",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "vulnérabilités auxquelles elles sont confrontées et leurs capacités.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.\tDes données sur les acteurs de l’action humanitaire et leurs activités (par exemple, comme rapporté en",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3W/4W/5W).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "La plupart de ces données peuvent être partagées ouvertement en toute sécurité. Toutefois, les données",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "non personnelles peuvent également être sensibles. Des exemples de données sensibles non personnelles",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "comprennent des données sur les groupes victimes de violences basées sur le genre ou sur la localisation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "de minorités ethniques dans des situations des zones de conflit. De telles données sont considérées comme",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sensibles car elles permettent d’identifier des groupes d’individus via des facteurs déterminants sur le",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "plan démographique, tels que l’origine ethnique, le genre, l’âge, la profession, l’appartenance religieuse",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ou le lieu d’origine. Les données non personnelles peuvent également être sources de risques d’autres",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "manières, par exemple en exposant l’emplacement des structures médicales dans des zones où elles sont",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "particulièrement susceptibles d’être attaquées. À mesure que la prise de conscience des risques associés",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "au partage de ces données continue de croître, certaines organisations sont en train d’évoluer d’une",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "focalisation sur les données ouvertes vers un partage plus contrôlé.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "De nombreuses organisations ont des classifications de la sensibilité des informations et des données (voir",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "la figure 1 ci-dessous) qui définissent quelles données entrent dans quelle catégorie de sensibilité afin de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "faciliter une gestion responsable des données. Ces classifications peuvent également être élaborées en tant",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "qu’exercice collectif pour aider les organisations à s’aligner sur ce qui constitue des données sensibles dans",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "leur contexte, et à identifier les méthodes appropriées de divulgation ou de diffusion pour différents types",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "de données en fonction de leur sensibilité.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Classification de la Sensibilité des Informations et Données7",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Faible",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Publique",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Modérée",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Limitée",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Elevée",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Confidentielle",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Sévère",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Strictement",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Confidentielle",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les politiques organisationnelles et les instruments de gouvernance collective tels que les protocoles",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de partage de l’information (PPI) incluent souvent une classification de la sensibilité, et devraient être",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "les principales références pour déterminer la façon dont gérer les données sensibles. Toutefois, ces",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "documents restent discrets sur l’opportunité et la manière de les partager. Cela signifie que le partage des",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "données peut être influencé par des préférences et des compétences personnelles pouvant varier selon les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "organisations. En adoptant une approche plus cohérente du partage des données et en mettant en œuvre",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "les protections adéquates pour les données sensibles, les organisations peuvent instaurer la confiance et",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "contribuer à une action humanitaire plus efficace.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "QUATRE FACTEURS POUR DÉTERMINER S’IL FAUT PARTAGER DES DONNÉES NON",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PERSONNELLES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Il y a quatre facteurs que les organisations humanitaires doivent prendre en compte lorsqu’elles décident",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de partager ou non des données non personnelles.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.\t  Quelle est l’utilité des données pour les autres parties prenantes ?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "L’utilité des données dépend du niveau de détail, du nombre de personnes ou de la zone",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "géographique couverte, de leur actualité et de leur pertinence pour l’analyse et la prise de décisions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "dans la réponse humanitaire. Réaliser une analyse d’impact relative aux données pour aider à définir",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "l’utilité de données spécifiques.8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.\t   À quel point les données sont-elles sensibles ?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La sensibilité des données est fondée sur le risque associé à leur exposition dans un contexte",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "particulier.9 Dans certains contextes de réponse, les organisations, les clusters/secteurs et les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "structures de coordination à l’échelle du système ont également établi des classifications de",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sensibilité des données et des informations (voir ci-dessus) qui peuvent éclairer cette qualification.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Approches de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "partage",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Libre accès",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Accès limité",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Partage bilatéral",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Aucun partage de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "données",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Outils et",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "plateformes",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "communs",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La réalisation d’une analyse d’impact relative aux données peut également aider à déterminer",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "la sensibilité des données. Pour les résultats d’enquêtes et d’autres formes de microdonnées, la",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "sensibilité est étroitement liée au risque de réidentification, qui peut être déterminé en réalisant une",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "évaluation du risque de divulgation.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.\t Quelles sont les capacités humaines et techniques des organisations qui partagent et utilisent",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "les données ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "L’organisation qui partage les données et l’organisation qui les reçoit et les utilise doivent avoir une",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "capacité humaine et technique suffisante pour une gestion responsable des données, ce qui signifie :",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "la disponibilité du personnel, la diffusion de la culture des données, l’infrastructure technique et les",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ressources associées. Dans les environnements à faible connectivité, les méthodes de partage de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "données nécessitant une forte bande passante peuvent ne pas être appropriées. Pour les contextes",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "présentant des risques de sécurité connus, les données doivent généralement être partagées via des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approches plus restreintes.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4.\t Quels instruments de gouvernance s’appliquent ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les instruments courants de gouvernance des données comprennent les PPI, les accords de partage",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de données pour le partage bilatéral,10 et les licences ou les conditions d’utilisation pour le partage",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "public de données.11 Ces instruments doivent éclairer la façon dont les données sont partagées de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "manière sécurisée, éthique et efficace. Dans certains cas, une gouvernance devra être développée",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "spécifiquement pour l’approche choisie. Les instruments de gouvernance peuvent couvrir une large",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "gamme de sujets et de dispositions particulières, mais doivent toujours inclure les éléments suivants",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": (a) l’objectif et la portée du partage ; (b) les éventuelles limites à la façon dont les données doivent",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "être gérées après le partage ; (c) les rôles et responsabilités tout au long du processus de partage ; et",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(d) les procédures de gestion des incidents liés aux données.12",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "IDENTIFIER ET COMPARER LES APPROCHES",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations doivent définir la meilleure approche en matière de partage de données en fonction",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des quatre facteurs ci-dessus. Ces approches vont du partage ouvert pour maximiser les bénéfices des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "données, à des approches plus limitées comme le partage bilatéral des données ou le seul partage des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "informations issues des données. Le tableau ci-dessous donne un aperçu des différentes approches du",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "partage de données et offre des exemples de plateformes et d’outils couramment utilisés.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Rendre disponible la valeur des données sans les partager : L’approche de l’interrogation",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Une approche relativement nouvelle de l’utilisation des données sans transférer les données elles-mêmes",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dans la mise en œuvre d’une approche d’interrogation, il est essentiel d’établir une gouvernance sous la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Parmi les solutions commerciales permettant de mettre en place des approches d’interrogation, citons",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Méthodes de partage des données au Joint IDP Profiling Service",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "En étroite collaboration avec Flowminder et en s’appuyant sur leur Flowkit, JIPS a développé une",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations sont encouragées à partager leur expérience en matière de promotion du partage",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "responsable des données avec le Centre for Humanitarian Data via centrehumdata@un.org.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "En comparant ces différentes approches, considérez toujours l’approche la plus ouverte en premier et",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "travaillez vers des approches plus limitées si nécessaire. Différents types de données nécessitent différents",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "modes de partage. Par exemple, les fichiers de données volumineux nécessitent une infrastructure",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "spécialisée et les interfaces de programmation d’applications (API) sont adaptées aux données publiées",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "régulièrement dans le même format. Comme les technologies de partage des données continuent",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "d’évoluer, les organisations doivent régulièrement revoir et comparer les approches disponibles.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "des Nations Unies en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+      "page": 7
+    }
+  ]
+}

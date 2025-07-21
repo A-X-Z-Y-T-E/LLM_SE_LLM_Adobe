@@ -1,0 +1,790 @@
+{
+  "title": "Guidance Note: Responsible Approaches to Data Sharing",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "GUIDANCE NOTE SERIES",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RESPONSIBLE APPROACHES TO DATA SHARING",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "KEY TAKEAWAYS:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Open sharing of timely and accurate data is essential to effective and efficient humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "response. How humanitarian organizations approach data sharing directly relates to trust and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cooperation in the sector.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t As the humanitarian data ecosystem grows, the opportunities and risks of sharing data become",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "clearer, prompting organizations to explore more limited approaches to data sharing.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Humanitarian organizations widely recognize the sensitivity of personal data: its exposure has a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "high likelihood of causing harm. The majority of non-personal data is safe to share openly, but",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "non-personal data can also be sensitive and should be handled with caution.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Humanitarian organizations should take into account four factors when deciding whether to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "share non-personal data: (i) utility; (ii) sensitivity; (iii) human and technical capacity; and (iv)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "governance.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Humanitarian organizations should identify and compare all available approaches for data",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sharing, considering the most open approach first and working down to more limited approaches",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "as necessary.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The use and exchange of data have become core functions of humanitarian organizations. Staff regularly",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "need to decide whether and how to share their organization’s data, even if their role is not primarily",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "focused on data or information management. Beyond individual organizations, the interest in the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sharing and use of data generated in humanitarian action has also grown. In response to this interest, the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitarian sector has seen a surge in data generation and sharing in recent years.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Open sharing of timely and accurate data is essential to effective and efficient humanitarian response and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "should remain a key objective for the sector. For example, the COVID-19 epidemiological data1 compiled",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "and shared daily by the Johns Hopkins University Center for Systems Science and Engineering has been",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1   Access the Novel Coronavirus (COVID-19) Cases Data on HDX.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "integrated in a number of dashboards and situation reports for decision-makers across the humanitarian",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sector since the outset of the pandemic. By December 2020, this dataset had been downloaded more than",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "320,000 times from the Humanitarian Data Exchange (HDX) since it was first published on the platform in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "January that year. The utility of open data to humanitarian practitioners is further underlined by the fact",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "that usage of HDX in countries with a Humanitarian Response Plan (HRP) in place has grown much faster",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "than usage in other locations.2",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "How humanitarian organizations approach data sharing directly relates to trust and cooperation in the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sector. Maintaining trust within the data ecosystem is critical to the sustainability of data sharing and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "relates to issues such as the quality of the data, the level to which the data will be secured after sharing",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and the responsible use of data by the recipient. Because data in the humanitarian sector often relates to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the most at-risk populations, managing and sharing it warrants caution.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Many humanitarian organizations have developed or updated their guidance, governance and practices",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "to support different aspects of data responsibility: the safe, ethical and effective management of data. The",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sector has also seen an increasing number of collaborative efforts to improve data responsibility beyond",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "individual organizations.3 Still, as the humanitarian system learns more about the risks associated with",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "data sharing, organizations face more complex challenges in sharing this data responsibly.4",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "This guidance note aims to support decision-making around the sharing of non-personal data in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitarian settings. It explains data sensitivity, provides common examples of sensitive non-personal",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "data, and explains an approach to information and data sensitivity classification in humanitarian settings.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "It also offers a framework that organizations can use to weigh four factors that help determine whether",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "data can be shared and explains common approaches for doing so responsibly.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Options for Data Sharing on the Humanitarian Data Exchange",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "When the Humanitarian Data Exchange (HDX) was launched in 2014, it held close to 900 datasets, shared",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In 2017, the HDX team added another option for data sharing: HDX Connect. This feature enables",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "As part of its quality assurance process, the HDX team also runs a disclosure risk assessment on any",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Some organizations on HDX have become more oriented towards controlled access to their data, either",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "UNDERSTANDING DATA SENSITIVITY",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Humanitarian organizations widely recognize the sensitivity of personal data6: its exposure has a high",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "likelihood of causing harm. This understanding does not yet widely exist for non-personal data, which",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "typically covers the following three categories in humanitarian settings:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1.\tData about the context in which a response is taking place (e.g. legal frameworks, political, social",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and economic conditions, infrastructure, etc.) and the humanitarian situation (e.g security incidents,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "protection risks, drivers of the situation or crisis).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.\tData about the people affected by the situation and their needs, the threats and vulnerabilities they",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "face, and their capacities.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.\tData about humanitarian response actors and their activities (e.g. as reported in  3W/4W/5W).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The majority of this data is safe to share openly. However, non-personal data can also be sensitive.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Examples of sensitive non-personal data include data on groups experiencing gender-based violence or the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "location of ethnic minorities in conflict settings. Such data is considered sensitive because it enables the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "identification of groups of individuals by demographically defining factors, such as ethnicity, gender, age,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "occupation, religion or location of origin. Non-personal data can also create risk in other ways, for example",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "by exposing the location of medical facilities in areas where they are prone to attack. As the awareness of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the risk associated with sharing such data continues to grow, some organizations are turning from a focus",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "on open data to more controlled sharing.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Many organizations have information and data sensitivity classifications (see figure 1 below)  that define",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "which data falls into which category of sensitivity in order to facilitate responsible data management. These",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "classifications may also be developed as a collective exercise to help organizations align around what",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "constitutes sensitive data in their context and identify the appropriate disclosure or dissemination methods",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "for different data types depending on their sensitivity.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Information and Data Sensitivity Classification7",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Low or No",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Public",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Moderate",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Restricted",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "High",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Confidential",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Severe",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Strictly Confidential",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Organizational policies and collective governance instruments such as Information Sharing Protocols",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(ISPs) often include a sensitivity classification and should be the primary points of reference for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "determining how to manage sensitive data. However, these documents tend to leave room for discretion",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "regarding whether and how to share. This means data sharing can be influenced by personal preferences",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and skills and may vary across organizations. By taking a more consistent approach to data sharing and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ensuring adequate safeguards for sensitive data, organizations can build trust and contribute to more",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "efficient and effective humanitarian response.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "FOUR FACTORS FOR DETERMINING WHETHER TO SHARE NON-PERSONAL DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "There are four factors humanitarian organizations should take into account when deciding whether to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "share non-personal data.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1.\t  What is the utility of the data for other stakeholders?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The utility of data depends on the level of detail, the number of people or the geographical area",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "covered, its timeliness, and its relevance to analysis and decision-making in humanitarian response.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Conduct a Data Impact Assessment (DIA) to help determine the utility of specific data.8",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2.\t   How sensitive is the data?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The sensitivity of data is based on the risk associated with its exposure in a particular context.9 In",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "some response contexts, organizations, clusters/sectors, and system-wide coordination structures",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "also have established data and information sensitivity classifications (see above) that can inform this",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "determination. Conducting a DIA can also help determine the sensitivity of data. For survey results",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and other forms of microdata, sensitivity is closely linked to the risk of re-identification, which can",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "be determined by applying a disclosure risk assessment.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3.\t What human and technical capacity do the organizations sharing and using the data have?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Both the organization sharing data and the organization(s) receiving and using the data should",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "have sufficient human and technical capacity for responsible data management. This includes staff",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "availability, data literacy, technical infrastructure and related resources. In environments with low",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "connectivity, bandwidth-heavy data sharing methods may not be appropriate. For contexts with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "known security risks, data should typically be shared through more limited approaches.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4.\t Which governance instruments apply?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Common data governance instruments include ISPs, data sharing agreements for bilateral data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sharing and licenses or terms of use for public data sharing.11 These instruments should inform how",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "data is shared in a safe, ethical and effective manner. In some situations, governance will need to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "be developed for the selected data sharing approach. Governance instruments can address a range",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "of topics and special provisions, but should always include the following elements: (a) the purpose",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and scope of sharing; (b) any limitations to how data should be managed after sharing; (c) roles and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "responsibilities throughout the sharing process; and (d) procedures for data incident management.12",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "IDENTIFY AND COMPARE APPROACHES",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Organizations should determine the best approach to data sharing based on the four factors above. These",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approaches range from open sharing to maximize the benefit of data, to more limited approaches such",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "as bilateral data sharing or only sharing data insights. The table below contains an overview of different",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approaches to data sharing and offers examples of some commonly used tools and platforms.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Approaches to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Sharing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Open Access",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Limited Access",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bilateral Sharing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "No Data Sharing",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Common Tools",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "and Platforms",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "In comparing these different approaches, always consider the most open approach first and work down",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to more limited approaches as necessary. Different data types will require different ways of sharing. For",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "example, large datafiles will require specialized infrastructure and Application Programming Interfaces",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(APIs) are suitable for data that is published in the same format on a regular basis. Because technologies",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "for data sharing continue to evolve, organizations should regularly revisit and compare available data",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "sharing approaches.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The Centre for Humanitarian Data ('the Center'), together with key partners, is publishing a series of eight",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Unlocking Value from Data Without Sharing It: The Querying Approach",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A relatively new approach to utilizing data without transferring the data itself is ‘querying’. Querying",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "In implementing a querying approach, it is critical to establish governance in the form of instructions and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Commercial solutions to set up querying approaches include Aircloak Insights, which acts as a ‘proxy",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Algorithms (OPAL) platform. This tool was specifically developed for the humanitarian and development",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Data Sharing Methods at the Joint IDP Profiling Service",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "In close collaboration with Flowminder and building on their Flowkit, JIPS developed a prototype",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Organizations are encouraged to share their experience in promoting responsible data sharing with the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Centre for Humanitarian Data via centrehumdata@un.org.",
+      "page": 6
+    }
+  ]
+}

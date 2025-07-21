@@ -1,0 +1,510 @@
+{
+  "title": "untitled",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Research Program",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Springs in Peril: Have Changes in Groundwater Input Affected",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Oklahoma Springs?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Basic Information",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Publication",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Problem and Research Objectives",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Figure 2. Location of 24 springs sampled in 2002-3. Some of the indicated locations are",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Laboratory processing of biological samples. Fish samples were rinsed of",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Enhanced Life Cycle Assessment Demonstration at the Tar",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Creek Superfund Site",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Basic Information",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Publication",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Problem and Research Objectives:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Principal Findings and Significance:",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Resistance Tomographic Imaging, Digital Mapping, and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Immersion Visualization of Evaporite Karst in Western",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Oklahoma",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Basic Information",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Publication",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Problem and Research Objective",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Principal Findings and Significance",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Nescatunga Cave",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Endless Cave",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Endless Cave Survey",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Cave",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Nescatunga Cave Survey",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Nescatunga Cave GIS",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Cave",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Evaluating Cost Effective Technologies to Reduce Phosphorus",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Loading to Surface Waters in the Ozark Region",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Basic Information",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Publication",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "Evaluating Cost Effective Technologies to Reduce Phosphorus",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Final  Report",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Methodology: The Lake Eucha/Spavinaw Basin was modeled using Soil and Water",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "PART I",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "SWAT MODEL SETUP",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.1  Seamless Digital Elevation Model (DEM) for the Lake Eucha/Spavinaw Basin",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.2   Soil distribution in the Lake Eucha/Spavinaw basin.",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.3   Landsat Thematic Mapper derived land cover for the Lake Eucha/Spavinaw basin.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.4  Ground truth locations and selected images provided to Applied Analysis",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "Radar Derived Rainfall",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "Cooperative Observation Network",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.5 Example four kilometer resolution Next Generation Radar (NEXRAD) precipitation",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.6 National Weather Service Cooperative Observation (COOP) network precipitation",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.7 Four kilometer resolution Next Generation Radar (NEXRAD) grid cell centers used",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.8   The Lake Eucha/Spavinaw basin divided into 68 subbasins. This configuration was",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.9 Pasture HRU slope by subbasin. Derived from land cover and 30 m Digital Elevation",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.10   Subbasins in the Lake Eucha/Spavinaw basin assumed to have a significant number",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "Heat Units",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Litter",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Cattle Stocking Rate",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Row Crop",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "Forest",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Hayed Pastures",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "Over-grazed or Poorly Managed Pastures",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Brushy Rangeland",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.1 Estimates of the number of cattle in the basin derived from National Agricultural Statistics",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "Pasture - Soil Phosphorus Content",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Row Crop - Soil Phosphorus Content",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.2  Soil test phosphorus observations for row crops and small grains in Delaware county,",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.4  Annual poultry litter production by house in the Lake Eucha/Spavinaw Basin and",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.5   Poultry litter production in the Lake Eucha/Spavinaw Basin by operation type.",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.6  Average fraction nutrient concentration of poultry litter produced in Lake",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.13   Active U.S. Geographic Survey stream gage stations used to calibrate the SWAT",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.8   Observed average flow and baseflow fractions as determined by the HYSEP sliding",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Flow Estimation",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.14 City of Tulsa and US Geographic Survey water quality station locations.",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Nutrient Loading",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.11 Parameter modifications made to calibrate the hydrologic portion of the SWAT model.",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.16 Time-series comparison of stream flow at Spavinaw Creek gage for the period 8/1/1998",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.17 Time-series comparison of stream flow at Spavinaw Creek gage for the period 8/1/1998",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.13 Minimum C Factor and SWAT predicted sediment loss by land cover for the Lake",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Phosphorus",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.15 Management parameters used to calibrate the nutrient portion of the SWAT model.",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "PART II",
+      "page": 87
+    },
+    {
+      "level": "H2",
+      "text": "ECONOMIC ANALYSIS",
+      "page": 87
+    },
+    {
+      "level": "H3",
+      "text": "Economic Changes in the Region from 1980-2000",
+      "page": 88
+    },
+    {
+      "level": "H3",
+      "text": "Sources of Economic Growth from 1980 to 2000",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "Changes in Agricultural Structure, 1980 to 2000",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "Sources of Agricultural Sales in Current and Constant Prices",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "Legislative Overview",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Regulatory Overview",
+      "page": 96
+    },
+    {
+      "level": "H3",
+      "text": "Overview of Litigation Actions",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "Non-Point Source Phosphorus Abatement Technologies and Associated Abatement",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Reducing Litter Application Rate",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "Using Alum to Reduce Phosphorus Loading",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Litter Application According to Soil Test Phosphorus (STP)",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "Changes in Land Use Patterns Directed Towards Reduction of Phosphorus Loading",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "Point Source Phosphorus Abatement Technology and Associated Abatement Costs",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "STP Threshold of 120",
+      "page": 151
+    },
+    {
+      "level": "H3",
+      "text": "Other STP thresholds – 200, 250, 350",
+      "page": 155
+    },
+    {
+      "level": "H2",
+      "text": "APPENDIX",
+      "page": 182
+    },
+    {
+      "level": "H3",
+      "text": "Table A.2.1. Costs of Various Components of the Chemical Wastewater Treatment at the Point Source.",
+      "page": 183
+    },
+    {
+      "level": "H1",
+      "text": "Information Transfer Program",
+      "page": 235
+    },
+    {
+      "level": "H1",
+      "text": "USGS Summer Intern Program",
+      "page": 236
+    },
+    {
+      "level": "H1",
+      "text": "Student Support",
+      "page": 237
+    },
+    {
+      "level": "H1",
+      "text": "Notable Awards and Achievements",
+      "page": 237
+    },
+    {
+      "level": "H2",
+      "text": "Publications from Prior Projects",
+      "page": 237
+    }
+  ]
+}

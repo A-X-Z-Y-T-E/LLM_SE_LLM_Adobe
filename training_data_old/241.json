@@ -1,0 +1,740 @@
+{
+  "title": "INFORM Report 2023",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Welcome to the INFORM 2023 report.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Note: The geographical boundaries and names shown and the designations used in this report are",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The reuse policy of the European Commission is implemented by the Commission Decision 2011/833/",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "How to cite this report",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "How to obtain EU publications",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "INFORM SEVERITY INDEX",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Objectives",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The overall objective of the INFORM Severity Index is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ANALYTICAL FRAMEWORK",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "AND METHODOLOGY",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Using the Severity Index",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "RESULTS AND INTERPRETATION",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Inform Severity Index results",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Country level, March 2023",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "COUNTRY",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The INFORM Risk Index is the first global, objective and",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "INFORM RISK INDEX",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Use INFORM Risk",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "INFORM Risk is adaptable",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Results and limitations",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "How it works",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "CATEGORIES",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COMPONENTS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "VULNERABILITY",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "VULNERABLE",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COPING",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "CAPACITY",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "INFRASTRUCTURE",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "HUMAN",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "HAZARD",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Prioritise",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "countries by risk,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "reduce risk",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Monitor",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "INFORM Risk Index 2023 results",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Representative Concentration Pathways (RCPs)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Shared Socioeconomic Pathways (SSPs)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Non-climate and non-modelled hazards",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Socioeconomic Pathway",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Climate & Socioeconomic  Projections",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability gap",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "INFORM CLIMATE CHANGE",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Climate Change is based on the INFORM Risk",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "•\t INFORM Climate Change Risk Index baseline –",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "•\t INFORM Climate Change Risk Index – this shows",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "•\t Change in risk – this shows the change in the baseline",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "•\t Vulnerability Gap – this shows the change in",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "INFORM Climate Change Results",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Interpreting the results",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Change in risk (2050-baseline)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Change in risk (2050-baseline)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability gap",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability gap",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Optimistic climate and socio-economic scenario (RCP 4.5 + SSP1)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Climate Change scenario combinations",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "SSP3 envisages",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Pessimistic",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "SSP1 envisages",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "INFORM Climate Change Results",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "This table shows top level results from INFORM Climate Change: the current",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "COUNTRY",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "KEY",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "COUNTRY",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "COUNTRY",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "KEY",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "User example –",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Further information",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Funding Allocation",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "80% Quantitative information",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "User example –",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "WHO Dynamic Preparedness Metric",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Analysis of the number of countries in each WHO region in each risk class of the DPM for 5 different acute syndromes",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "A dynamic, evidence-based, risk-based",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "preparedness metric",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Interpreting DPM results",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Example analysis of country prioritisation",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Further information",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Neurological DPM Index",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Regional perspectives",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Number of crises by region in 2022",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Number of crises and their severity in 2022",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Increasing numbers of crises in 2022",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Number of crises in the INFORM Severity Index 2022",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Crises with the highest increases in severity in 2022",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3.0",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "VERY LOW",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Risk predicts the likelihood of a crisis and its severity",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Here we compare the INFORM Risk Index and INFORM Severity Index results. While the Risk Index can tell us about the",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Likelihood of a crisis",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Severity of a crisis",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Risk category of countries (according to INFORM Risk Index 2023) where actual crises occurred",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "(INFORM Severity Index Jul-Dec 2022)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Difference in category between INFORM Risk Index",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Population ratio (relative to total population) living in each risk class in 2014, 2019 and 2023",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Change in risk as measured by the INFORM Risk Index between 2014 and 2023. Countries that experienced a",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Countries experiencing a conflict or related event,",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Global trends in crisis risk",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Risk Index Average Trend",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Globally, crisis risk is increasing, despite improvements",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "in coping capacity",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.6",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Hazard & Exposure Index Average Trend",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability Index Average Trend",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.6",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Lack of Coping Capacity Index Average Trend",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "4.4",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Global trends in the INFORM Risk Index and its dimensions 2014-2023",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Climate change and socio-economic",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "trends will increase crisis risks",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability gap by income group 2050",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Africa and low income countries will be worst affected",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "by increasing climate change-related crisis risk",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Northern Europe",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Western Europe",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Southern Europe",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Change in risk by sub-region 2050 (pessimistic scenario RCP8.5-SSP3)",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Getting on the right path",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Comparison of recent crisis risk trends (2014-2013 INFORM Risk Index) and future vulnerability gap in 2050",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "Looking back, looking forward",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Regional and income class overview of recent crisis risk",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Historical risk trends and climate",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "change",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Risk increase in Africa and low income",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "countries",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Looking forward",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Climate change mitigation and sustainable agriculture reduce future aid needs",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Impact of the assessed scenarios on the INFORM Severity Index",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Severity Index",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Very Low",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Research example:",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Quantifying future crisis severity in Ethiopia",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Scenarios assessed and their impacts on people in need (PIN), funding requirements and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Severity Index value",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Increasing drought-related humanitarian needs",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "RECEIPT project and storylines",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Storyline development and the INFORM Severity Index",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Quantifying future changes in crisis severity and funding requirements",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Scenario",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "FACTUAL – February 2022 – early",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "February 2023 – severe drought and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "2050 – high greenhouse gas emissions",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "2050 – mid-range greenhouse gas",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "INFORM is a collaboration of the Inter-Agency Standing Committee and",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "INFORM Partners",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "INFORM Steering Group",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "For more information, go to https://drmkc.jrc.ec.europa.eu/inform-index",
+      "page": 22
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+INFO:final_extractor:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf
+INFO:final_extractor:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf in 0.02s, found 0 headings
+INFO:final_extractor:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file02.pdf
+INFO:final_extractor:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file02.pdf in 0.16s, found 2 headings
+INFO:final_extractor:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file03.pdf
+INFO:final_extractor:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file03.pdf in 0.09s, found 0 headings
+INFO:final_extractor:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file04.pdf
+INFO:final_extractor:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file04.pdf in 0.06s, found 0 headings
+INFO:final_extractor:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file05.pdf
+INFO:final_extractor:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file05.pdf in 0.02s, found 0 headings
+
+=== Testing file01.pdf ===
+Title match: True
+  Our: 'Application form for grant of LTC advance'
+  Expected: 'Application form for grant of LTC advance'
+Outline count match: True
+  Our: 0
+  Expected: 0
+
+=== Testing file02.pdf ===
+Title match: False
+  Our: 'ISTQB Expert Level Modules Overview'
+  Expected: 'Overview  Foundation Level Extensions'
+Outline count match: False
+  Our: 2
+  Expected: 17
+
+=== Testing file03.pdf ===
+Title match: False
+  Our: 'RFP: Request f'
+  Expected: 'RFP:Request for Proposal To Present a Proposal for Developing the Business Plan for the Ontario Digital Library'
+Outline count match: False
+  Our: 0
+  Expected: 39
+
+=== Testing file04.pdf ===
+Title match: True
+  Our: 'Parsippany -Troy Hills STEM Pathways'
+  Expected: 'Parsippany -Troy Hills STEM Pathways'
+Outline count match: False
+  Our: 0
+  Expected: 1
+
+=== Testing file05.pdf ===
+Title match: False
+  Our: 'TOPJUMP - PARTY INVITATION 20161003 V01.cdr'
+  Expected: ''
+Outline count match: False
+  Our: 0
+  Expected: 1
+
+=== FINAL SUMMARY ===
+Title matches: 2/5
+Outline matches: 1/5
+Overall accuracy: 3/10

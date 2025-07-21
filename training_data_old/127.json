@@ -1,0 +1,2365 @@
+{
+  "title": "OCHA Data Responsibility Guidelines 2021",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "TABLE OF CONTENTS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PREFACE                ...............................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. INTRODUCTION             ...................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2. PRINCIPLES FOR DATA RESPONSIBILITY IN HUMANITARIAN",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3. ACTIONS FOR DATA RESPONSIBILITY IN PRACTICE     ....",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4. ACCOUNTABILITY        ...................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5. SERVICES TO SUPPORT ADOPTION OF THE GUIDELINES ....",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX A - DEFINITIONS    .................................................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PREFACE",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "STRUCTURE OF THE GUIDELINES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Section 1: Introduction oﬀers an overview of key concepts related to data responsibility",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Section 2: Principles for Data Responsibility in Humanitarian Action introduces the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Section 3: Data Responsibility in Practice provides practical guidance on how OCHA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Section 4: Accountability outlines the key roles and responsibilities for ensuring the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Section 5: Services to Support Adoption of the Guidelines provides an overview of the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex A - Definitions provides definitions of key terms used in the Guidelines.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex B - Principles for Data Responsibility in Humanitarian Action provides a detailed",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex C - Data Responsibility in OCHA’s Data Management presents a set of steps that",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex D - Templates for Data Responsibility brings together the diﬀerent templates",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex E - Foundations for Data Responsibility at OCHA presents an overview of existing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Annex F - Additional Resources oﬀers a set of references related to data responsibility in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PREFACE",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "HOW TO USE THE GUIDELINES",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Scenario",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "PREFACE",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ACRONYMS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PREFACE",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1.  INTRODUCTION",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "DEFINITIONS",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Data responsibility is the safe, ethical and eﬀective management of personal and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Safe | Data management activities ensure the security of data at all times,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Ethical | Data management activities are aligned with the established",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Eﬀective | Data management activities achieve the purpose(s) for which they",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1. INTRODUCTION",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Data protection refers to the systematic application of a set of institutional, technical",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Data security is applicable to both personal and non-personal data and refers to",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Operational data management is the design of data management activities and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Personal data is any information relating to an identified or identifiable natural",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Non-personal data is any information which does not relate to a data subject.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sensitive Data is classified as such based on the likelihood and severity of potential",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1. INTRODUCTION",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1. INTRODUCTION",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’S ROLE IN HUMANITARIAN DATA",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "MANAGEMENT",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1. INTRODUCTION",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "SCOPE OF THE GUIDELINES",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.3",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Data about the context in which a response is taking place (e.g., legal frameworks,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Data about the people aﬀected by the situation and their needs, the threats and",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Data about the humanitarian response (e.g. 3W data, access data, community",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "2.  PRINCIPLES FOR DATA",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "RESPONSIBILITY IN",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "HUMANITARIAN ACTION",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLES FOR DATA RESPONSIBILITY IN",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITARIAN ACTION",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "PRINCIPLES FOR DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Accountability",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Coordination and Collaboration",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Defined Purpose, Necessity and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Human Rights-Based Approach",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Personal Data Protection",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Retention and Destruction",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "3.  IASC RECOMMENDED ACTIONS",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "FOR DATA RESPONSIBILITY IN",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "HUMANITARIAN RESPONSE",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "CONTEXTS",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DIAGNOSTIC",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA ECOSYSTEM MAP AND",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA ASSET REGISTRY",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA IMPACT ASSESSMENT",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DESIGNING FOR DATA",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "RESPONSIBILITY",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "INFORMATION SHARING",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "PROTOCOL AND DATA &",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "INFORMATION SENSITIVITY",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "CLASSIFICATION",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA SHARING",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "AGREEMENT",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA INCIDENT",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "MANAGEMENT",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "COORDINATION AND",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DECISION-MAKING ON",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "COLLECTIVE ACTION FOR",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "IASC RECOMMENDED ACTIONS FOR DATA RESPONSIBILITY IN HUMANITARIAN RESPONSE CONTEXTS",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’S ROLE IN SYSTEM-WIDE LEVEL ACTIONS",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "FOR DATA",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "3.1",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’s Role:",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "☐  Prepare a draf of the diagnostic based on information available using the IASC OG Data",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "☐  Circulate the draf to ICCG/ISCG and IMWG members for inputs.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "☐  Consolidate inputs and finalize the draf diagnostic for collective review and validation",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "☐  Share the final diagnostic with the HCT and oﬀer to provide a briefing on the key findings",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "☐  Ideally, share the diagnostic jointly with the data ecosystem map (see below).",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "IASC OG Data Responsibility Diagnostic Template",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "CONDUCT A SYSTEM-WIDE DATA RESPONSIBLITY",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "DIAGNOSTIC",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "3.1 OCHA'S ROLE",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "IN SYSTEM-WIDE",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "LEVEL ACTIONS",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’s Role:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "IASC OG Data Ecosystem Map and Asset Registry Template",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "GENERATE AND MAINTAIN A SYSTEM-WIDE DATA ECOSYSTEM",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "MAP",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.1 OCHA'S ROLE",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "IN SYSTEM-WIDE",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "LEVEL ACTIONS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’s Role:",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "IASC OG Information Sharing Protocol Template",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "NEGOTIATE AND MAINTAIN A SYSTEM-WIDE INFORMATION",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "SHARING PROTOCOL",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "3.1 OCHA'S ROLE",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "IN SYSTEM-WIDE",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "LEVEL ACTIONS",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’s Role:",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "IASC SOP for Data Incident Management Template",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "OCHA Data Incident Registry Template",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "MONITOR DATA INCIDENTS",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "3.1 OCHA'S ROLE",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "IN SYSTEM-WIDE",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "LEVEL ACTIONS",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’s Role:",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Briefing Pack on Data Responsibility, OCHA’s role and the IASC Operational Guidance",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "2-page high-level summary of the Guidelines for OCHA management",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "2-page high-level summary of the Guidelines for external use",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "SUPPORT COORDINATION AND DECISION-MAKING ON",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "COLLECTIVE ACTION",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "3.1 OCHA'S ROLE",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "IN SYSTEM-WIDE",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "LEVEL ACTIONS",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "OCHA’S ROLE IN CLUSTER/SECTOR LEVEL",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "ACTIONS FOR DATA RESPONSIBILITY",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "OCHA has no direct role in completing actions at this level but should raise awareness",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "3.2",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY WITHIN OCHA OFFICES",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "3.3",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "☐  The data responsibility diagnostic should be conducted jointly by a Humanitarian Aﬀairs",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "☐  Use the OCHA data responsibility diagnostic template to conduct a diagnostic at this level.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "☐  Update the diagnostic on an annual basis or when circumstances and/or OCHA’s own",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "OCHA Data Responsibility Diagnostic Template",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "CONDUCT A DATA RESPONSIBLITY DIAGNOSTIC FOR THE",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "OFFICE",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  The data asset registry should be developed and maintained by an IMO. All staﬀ involved",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  The data asset registry should at a minimum include the name of each dataset managed",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  Data sharing should also be recorded, either in the registry or in a separate data sharing",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  Note that data with low or no sensitivity should be retained and remain publicly available",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "OCHA Data Asset Registry Template",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "DEVELOP A DATA ASSET REGISTRY FOR THE OFFICE",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Purpose:",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  When designing a data management activity, responsible staﬀ should follow the tips along",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  These tips and related outputs help staﬀ identify and mitigate risks, select appropriate",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "☐  Contact the Centre for guidance on how to adapt these tips to suit the response",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "DESIGN DATA MANAGEMENT ACTIVITIES WITHIN THE OFFICE",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "FOR DATA RESPONSIBILITY",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  Establish data sharing agreements whenever sharing personal data or sensitive non-",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  Data sharing agreements should be developed jointly by an HAO and IMO and negotiated",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  Always consult OCHA’s Executive Oﬀice to review data sharing agreements before signing.",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "OCHA Data Sharing Agreement Template",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "ESTABLISH DATA SHARING AGREEMENTS",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Purpose:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  The SOP should be developed jointly by an HAO and IMO and be confirmed by the Head",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  The SOP should include a process for notification, classification, treatment, and closure",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  Establish a data incident registry is used to capture key details about the nature, severity",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "☐  OCHA oﬀices should share their experience in managing and mitigating data incidents",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "IASC SOP for Data Incident Management Template",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "OCHA Data Incident Registry Template",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "ESTABLISH A STANDARD OPERATING PROCEDURE FOR DATA",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "INCIDENT MANAGEMENT WITHIN THE OFFICE",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  Staﬀ involved in data management should indicate which tools they require. The Chief of",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  Use tools that are approved by the UN Oﬀice of Information and Communications",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  If a tool is not cleared and absolutely required for a given data management activity,",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  Confirm the use of specific tools with IMB’s Digital Services Section if needed.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Relevant Tool or Template:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "OCHA IMB SharePoint page on Technology Standards",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "ENSURE THE AVAILABILITY OF APPROPRIATE TOOLS FOR",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "DATA MANAGEMENT WITHIN THE OFFICE",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Purpose:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Recommended Approach:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  All colleagues involved in data management should contribute to the repository.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  Onboarding procedures for new staﬀ in the response should include reference to the",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "☐  Oﬀices are also encouraged to share these documents with the Centre to promote learning",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "SUPPORT KNOWLEDGE MANAGEMENT OF DATA",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "RESPONSIBILITY WITHIN THE OFFICE",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "3.3 DATA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "WITHIN OCHA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "OFFICES",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "3. IASC RECOMMENDED",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "ACTIONS FOR DATA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "HUMANITARIAN",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSE CONTEXTS",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "TIPS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OUTPUTS",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "RETAINING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "AND",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "DESTROYING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "EVALUATING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "PRESENTING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "SHARING",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "ANALYZING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "COLLECTING,",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "RECEIVING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "AND STORING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "ASSURING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "QUALITY",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "PLANNING",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "This involves incorporating insights from",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "This includes identifying and documenting",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "DATA RESPONSIBILITY IN OCHA'S DATA MANAGEMENT CYCLE",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "4.  ACCOUNTABILITY",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Unit Heads are responsible for ensuring the appropriate application of the Guidelines in",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Humanitarian Aﬀairs Oﬀicers and Information Management Oﬀicers are responsible for",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "ACCOUNTABILITY",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "4. ACCOUNTABILITY",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "ACCCOUNTABILITIES RELATED TO THE ADOPTION OF THE",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Group / Unit",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "4. ACCOUNTABILITY",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "5.  SERVICES TO SUPPORT",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "ADOPTION OF THE",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "GUIDELINES",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Introductory briefing",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Diagnostic and assessment exercise",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Ad-hoc advisory services",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Support missions",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Tools and templates",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Training",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Development of thematic guidance on data responsibility",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "5. SERVICES TO SUPPORT",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "ADOPTION OF THE",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "GUIDELINES",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "SERVICES TO SUPPORT ADOPTION OF THE",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "GUIDELINES",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "OCHA DATA RESPONSIBILITY GUIDELINES",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "ANNEX",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "DEFINITIONS",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Aggregate data:  Accumulated data acquired by combining individual-level data. It refers",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Consent: Consent is any freely given, specific and informed indication of an agreement by",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data: Re-interpretable representation of information in a formalized manner suitable for",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data asset: Data assets are a body of data or information, defined and managed as a single",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data asset registry: A data asset registry provides a summary of the key datasets being",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data breach: The loss, destruction, alteration, acquisition, or disclosure of information",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data cleaning: The process of detecting and correcting (or removing) corrupt or inaccurate",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data consumer: A person or organization that uses data to make decisions, take actions, or",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data ecosystem map: A data ecosystem map provides a summary of major data",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data impact assessment: A data impact assessment is a generic term to refer to a variety",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data incidents: Events involving data management, such as the loss, destruction,",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data management: The data management cycle consists of the following steps: planning,",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX A",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "Data processing: Any operation or set of operations which is performed on data or on",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data protection: The systematic application of a set of institutional, technical and physical",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data Protection Impact Assessment: A tool and process for assessing the protection",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data provider: A person or organization that shares data directly or on behalf of another",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data quality: A set of characteristics that make the data fit for the purpose for which it",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data responsibility: A set of principles, processes and tools that support the safe, ethical",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data security: A set of physical, technological and procedural measures that safeguard the",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data sensitivity: Classification of data based on the likelihood and severity of potential",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data sharing agreement: Agreement that establishes the terms and conditions that govern",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data source: The original collector of the data concerned.",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data subject: A natural person (i.e. an individual) whose personal data is subject to",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Data transfer: The act of transferring data or making it accessible to a partner using any",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX A - DEFINITIONS",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Information management: Gathering, sharing and using data and information,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Information product: Product derived from raw data that is organized in a way that",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Microdata: Observation data on the characteristics of statistical units of a population,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Non-personal data: Any information which does not relate to a data subject. Non-personal",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Operational data management: The design of data management activities and subsequent",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Personal data: Any information relating to an identified or identifiable natural person (‘data",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Primary data: Data that has been generated by the researcher himself/herself, surveys,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Privacy: No one shall be subjected to arbitrary or unlawful interference with his privacy,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Re-identification: A process by which de-identified (anonymized) data becomes re-",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX A - DEFINITIONS",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Secondary data: Data that was originally collected for a specific research purpose or",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Sensitive data: Data classified as sensitive based on the likelihood and severity of potential",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Statistical Disclosure Control: Technique used in statistics to assess and lower the risk",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX A - DEFINITIONS",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLES FOR DATA RESPONSIBILITY IN",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITARIAN ACTIONS47",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Accountability",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Confidentiality",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Coordination and Collaboration",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Data Security",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX B",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "Fairness and Legitimacy",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Human Rights-Based Approach",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "People-Centered and Inclusive",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Personal Data Protection",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX B - PRINCIPLES",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA RESPONSIBILITY",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "IN HUMANITARIAN ACTIONS",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Retention and Destruction",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Transparency",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX B - PRINCIPLES",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA RESPONSIBILITY",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "IN HUMANITARIAN ACTIONS",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY IN OCHA’S DATA",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "MANAGEMENT CYCLE",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX C",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "TIPS AND OUTPUTS FOR DATA RESPONSIBILITY ACROSS THE",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "DATA MANAGEMENT CYCLE",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "STEPS IN THE DATA",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "MANAGEMENT CYCLE",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "TIPS AND OUTPUTS FOR DATA RESPONSIBILITY",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "TIPS",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "TIPS",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "OUTPUTS",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX C - DATA",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSIBILITY IN OCHA'S",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "DATA MANAGEMENT",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "TEMPLATES FOR DATA RESPONSIBILITY",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Templates from the IASC Operational Guidance:",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Responsibility Diagnostic (System-Wide Level)",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Ecosystem Map and Asset Registry Template",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Information Sharing Protocol (including Information and Data Sensitivity",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Standard Operating Procedure for Data Incident Management",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Templates specific to OCHA:",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Responsibility Diagnostic (Oﬀice Level)",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Impact Assessment",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Asset Registry",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Sharing Agreement",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Data Incident Registry",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX D",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "FOUNDATIONS FOR DATA RESPONSIBILITY",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "AT OCHA",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Legal framework:",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Existing guidance from the UN Secretariat:",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX E",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX E - FOUNDATIONS",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "FOR DATA RESPONSIBILITY",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "AT OCHA",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "ADDITIONAL RESOURCES",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Humanitarian-specific sector guidance:",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX F",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX F - ADDITIONAL",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "RESOURCES",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "https://www.im-portal.org/blogs/data-protection-starter-kit-introduction-pack.",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Additional UN guidance:",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX F - ADDITIONAL",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "RESOURCES",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "ANNEX F - ADDITIONAL",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "RESOURCES",
+      "page": 49
+    }
+  ]
+}

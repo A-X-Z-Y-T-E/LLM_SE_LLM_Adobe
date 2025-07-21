@@ -1,0 +1,755 @@
+{
+  "title": "Guidance Note: Data Responsibility in Cash and Voucher Assistance",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GUIDANCE NOTE SERIES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "DATA RESPONSIBILITY IN CASH AND",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "VOUCHER ASSISTANCE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "KEY TAKEAWAYS:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Humanitarian actors have made considerable progress in promoting data responsibility in cash",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and voucher assistance (CVA) in recent years. However, gaps remain between global frameworks",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "for data responsibility and their practical application in the delivery of CVA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t There are many resources available on data protection in CVA programmes, but guidance and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "practical tools are lacking for the responsible management of sensitive non-personal data.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Common data-related benefits in CVA include: (i) improved understanding of beneficiary",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "priorities, needs and preferences; (ii) improved targeting of assistance, including deduplication",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "of beneficiary lists; (iii) increased efficiency and effectiveness of different delivery mechanisms;",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and (iv) enhanced transparency and accountability.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Common data-related risks in CVA include: (i) exposure of sensitive data that could lead to",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "various forms of harm for affected people and/or humanitarian staff; (ii) breaches in data",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "protection, data privacy and data security; (iii) potential misuse of data for non-humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "purposes by third parties; and (iv) loss of trust between affected people and humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "organizations.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Humanitarian organizations can improve data responsibility in CVA by taking the following",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "actions: (i) mapping the CVA data ecosystem; (ii) establishing an information sharing protocol",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "specific to CVA programmes; (iii) establishing data sharing agreements for the exchange of",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "personal data; (iv) conducting data impact assessments for all CVA interventions; (v) introducing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "data incident management procedures; and (vi) tracking issues and progress on data",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "responsibility in CVA through coordination structures.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "As digital tools become more central in the delivery of cash and voucher assistance (CVA), humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "organizations, financial service providers, and other stakeholders gather, store, use and share increasingly",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "large volumes of data. These trends have been accelerated in the response to COVID-19, for which cash",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "actors have scaled up and adapted their CVA programmes in line with the particular challenges posed by",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the pandemic, with a preference towards contactless electronic or mobile payments to reduce the risk of",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "transmission.1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "According to the 2020 State of the World’s Cash report, perceptions of digital and data management risks",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "have also increased in prominence in recent years.2 The following concerns have been acknowledged in",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "various CVA fora3: (i) there is a significant gap in practical resources to help practitioners marry the ethical",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "standards contained in data responsibility policies with the day-to-day pressure to deliver programmes; (ii)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "there are no mechanisms in place to enable collective sharing of, and learning from, critical data incident",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "management cases; and (iii) lower risk appetite in CVA, partially due to Anti-Money-Laundering/ Counter-",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Terrorism measures and the political economy of cash, which extends into the data management space.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian actors have made considerable progress in promoting data responsibility in CVA. A range",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "of initiatives4 aim to ensure the protection of aid recipients and support more efficient, collaborative and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "data-driven ways of working. Bilateral and multilateral engagements between humanitarian organizations,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "including global data sharing agreements and joint programme delivery strategies, complement these",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "collective efforts.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Nevertheless, gaps remain between global frameworks for data responsibility and their practical application",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "in the delivery of CVA. This guidance note aims to help fill these gaps by offering an overview of the common",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "data-related benefits and risks encountered by cash actors. It provides a set of actions that organizations",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "can take to improve data responsibility in the delivery of cash and voucher assistance.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "DATA MANAGEMENT FOR CASH AND VOUCHER ASSISTANCE",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CVA requires the collection of personal and non-personal data that would be considered sensitive in",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "most humanitarian settings. Personal data commonly collected in CVA programmes includes national ID",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "numbers, phone numbers and addresses, family members’ names, personal bank details, and biometric",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "data, among others. Common non-personal data in CVA programmes includes microdata from surveys and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "needs assessments, demographically identifiable information about different groups receiving assistance,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "location data for CVA distribution points, and anonymized and/or aggregated community feedback data,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "among others. The delivery of CVA also generates new forms of metadata5 that humanitarian organizations",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "previously have not had to manage, such as data about transactions with different financial service",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "providers and affected populations’ spending or consumption patterns.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Unlike other areas of humanitarian assistance, CVA involves a particularly wide and diverse range of actors.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The complexity of the flow of data between humanitarian organizations and different partners involved in",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "the delivery of CVA gives rise to data protection issues and other concerns, outlined in more detail below.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Different standards for data responsibility are applied in CVA programmes across organizations and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "contexts. This is due to (i) varying levels of familiarity with existing data responsibility guidance and related",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "capacity gaps among programme staff and (ii) evolving data risks related to new delivery mechanisms",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and partnership models for CVA. Existing guidance6 is primarily focused on the safe management and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "protection of personal data, and does not fully address concerns related to non-personal data that is",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "sensitive in many contexts and requires robust protections.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Practical Guidance for the Cash Community: CaLP’s Data Responsibility Toolkit",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CaLP’s Data Responsibility Toolkit offers detailed guidance on data responsibility in cash and voucher",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "assistance. The toolkit aims to better reflect the complexity of partner relations, operational delivery",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "models and associated data flows. It also aims to address elements of remote data collection that",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "emerged in early 2020 in light of COVID-19.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The toolkit highlights the need for an ecosystem approach and power analysis among those who",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "collect, use and share data from CVA recipients. It also notes the need for contextualization, creativity,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "capacity and collaboration among CVA actors and across organizational teams to ensure better",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "protection of data.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The toolkit includes in-depth consideration of some of the tensions among different actors with",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "regard to data, as well as orientation on data sharing, relationships between data controllers and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "data processors, privacy impact assessments, lawful bases for data collection (including consent and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "legitimate interests), preparing for possible critical data incidents or breaches, and communication",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "with affected populations about data collection and processing.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "It is structured around the different steps of a data lifecycle typical to CVA programmes and covers",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "both personal and non-personal data, while also incorporating new legal requirements stemming",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "from the European Union’s General Data Protection Regulation.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "DATA-RELATED BENEFITS AND RISKS IN CASH AND VOUCHER ASSISTANCE",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Data responsibility requires a clear understanding of both the benefits and the risks associated with data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "management. While they may vary from one setting to the next, there are commonly recognized data-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "related benefits and risks within the CVA community.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Benefits in CVA include:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Improved understanding of beneficiary priorities, needs and preferences.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Improved targeting of assistance, including deduplication of beneficiary lists.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Increased efficiency and effectiveness of different delivery mechanisms.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Enhanced transparency and accountability.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Risks in CVA include:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Exposure of sensitive data that could lead to various forms of harm for affected people and/or",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian staff.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Breaches in data protection, data privacy and data security.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Potential misuse of data for non-humanitarian purposes by third parties.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Loss of trust between affected people and humanitarian organizations.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Know Your Customer regulations, also known as customer due diligence, are designed to combat money laundering,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For more on KYC in humanitarian cash and voucher assistance, see elan's Tip Sheet on KYC Regulations and UNHCR",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and World Vision’s Know Your Customer Standards and Privacy Recommendations for Cash Transfers.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "RECOMMENDATIONS FOR IMPROVING DATA RESPONSIBILITY IN CASH AND",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "VOUCHER ASSISTANCE",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Data responsibility requires the implementation of principled actions at different levels of a humanitarian",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "response. This includes actions to ensure data protection and data security, as well as strategies to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "minimize risks while maximizing benefits of data management.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data (‘the Centre’), CaLP and NORCAP/Norwegian Refugee Council",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "recommend following actions to improve data responsibility in the delivery of cash and voucher assistance:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Map the CVA data ecosystem",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Establish an information sharing protocol specific to CVA programmes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Establish data sharing agreements for the exchange of personal data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Conduct data impact assessments for all CVA interventions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Introduce data incident management procedures",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Track issues and progress on data responsibility in CVA through coordination structures",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The table below provides a description of these actions and references to additional guidance and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "templates from different humanitarian organizations where available.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Action",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Map the CVA data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ecosystem",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Establish an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "information sharing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "protocol specific to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CVA programming",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Establish data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sharing agreements",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Conduct data",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "impact assessments",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "for all CVA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "interventions",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Introduce data",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "incident",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "management",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "procedures",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Track issues and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "progress on data",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "responsibility in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "CVA through",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "coordination",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "structures",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Organizations are encouraged to share their experience in promoting data responsibility in the delivery of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "cash and voucher assistance with the Centre via centrehumdata@un.org.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "This project is co-funded",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data ('the Center'), together with key partners, is publishing a series of eight",
+      "page": 5
+    }
+  ]
+}

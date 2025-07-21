@@ -1,0 +1,1930 @@
+{
+  "title": "Project 25 Compliance Assessment Program",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Summary Test Report",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Harris XG-25P UHF-L",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Test Item Description",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Manufacturer",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Manufacturer Contact",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Product Name",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Installed Options",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Installed Vocoder",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Test Description",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "P25-CAB-CAI_TEST_REQ – March 2010 , Section 2.1.1.1 – Project 25 Phase 1 Common Air Interface Conventional",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Subscriber Unit Performance",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "P25-CAB-CAI_TEST_REQ –March 2010 , Section 2.1.1.2 – Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Subscriber Unit Performance",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "P25-CAB-CAI_TEST_REQ - March 2010  , Section 2.1.3.2 – Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Subscriber Unit Interoperability",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Laboratory Information (Performance)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "P25 CAP Laboratory Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date(s) of Test",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Issue",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Laboratory Information",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "P25 CAP Laboratory Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date(s) of Test",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Issue",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Laboratory Information",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "P25 CAP Laboratory Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date(s) of Test",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Issue",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Laboratory Information",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "P25 CAP Laboratory Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date(s) of Test",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Issue",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Informative References",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Date",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Title",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "March 2010",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Other Devices Tested with Harris XG-25P UHF-L",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Manufacturer",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Product Name, Definition, and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "unique ID",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Installed Options",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Harris",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson Technologies",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tait",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Performance Testing",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_TEST_REQ – March 2010 , Section",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.1.1.1 – Project 25 Phase 1 Common Air Interface",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Conventional Subscriber Unit Performance",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP081017-2141112H",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "XG-25P UHF-L",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "RECEIVER TESTS-  UHF-L (P25 Conventional Mode)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Test Case",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.4",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.5",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.6",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.7",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.8",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.9",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.10",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.11",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.17",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1.18",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_TEST_REQ – March 2010 , Section",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.1.1.1 – Project 25 Phase 1 Common Air Interface",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Conventional Subscriber Unit Performance",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP081017-2141112H",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "XG-25P UHF-L",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "TRANSMITTER TESTS-  UHF-L  (P25 Conventional Mode)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Test Case",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.8",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.12",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.14",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.15",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.16",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2.18",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_TEST_REQ –March 2010 , Section 2.1.1.2",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "– Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Performance",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP081017-2141112H",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "XG-25P UHF-L",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "RECEIVER TESTS-  UHF-L (P25 Trunked Mode)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Test Case",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.4",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.5",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.6",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.9",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.10",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.1.11",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_TEST_REQ –March 2010 , Section 2.1.1.2",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "– Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Performance",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP081017-2141112H",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "XG-25P UHF-L",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "TRANSMITTER TESTS-  UHF-L  (P25 Trunked Mode)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Test Case",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.12",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.14",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.15",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.16",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.2.18",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Trunking Performance Testing",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_TEST_REQ –March 2010 , Section",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2.1.1.2 – Project 25 Phase 1 Common Air Interface",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Trunked  Subscriber Unit Performance",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP081017-2141112H",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "XG-25P UHF-L",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Trunked Subscriber Tests-  UHF-L",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Test",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Requirement",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.3.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.3.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.3.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.3.5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "* Harris base station and subscriber unit products operate with 37.5 ms ISP slot times, and do not support",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "45 ms ISP slot times.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Trunking Interoperability Testing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_Test_REQ- March 2010, Section 2.1.3.2 –",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Interoperability",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DTRP25CAP-081017-",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1120312H13",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP-081010-",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "13090501-Harris XG-25P",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "TAIT/TN9400/HARRIS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian/Harris",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Harris Model Class:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "XGP Software",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Harris MASTR V",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "SR10A",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson 3800",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Rel 1.1.1-5",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Tait N9400",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Ver 1.40",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Tait Cassidian P25 Core",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "EADS P25V11 06 E22",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Full registration",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1.4.1",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1.4.2",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1.4.3",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Group Voice Call",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.2.4.1",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.2.4.2",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_Test_REQ- March 2010, Section 2.1.3.2 –",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Interoperability",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "DTRP25CAP-081017-",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1120312H13",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP-081010-",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "13090501-Harris XG-25P",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "TAIT/TN9400/HARRIS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian/Harris",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Harris Model Class:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "XGP Software",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Harris MASTR V",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "SR10A",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson 3800",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Rel 1.1.1-5",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tait N9400",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Ver 1.40",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tait Cassidian P25 Core",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "EADS P25V11 06 E22",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.2.4.3",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Unit-to-Unit Voice Call",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.1",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.2",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.3",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_Test_REQ- March 2010, Section 2.1.3.2 –",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Interoperability",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "DTRP25CAP-081017-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1120312H13",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP-081010-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "13090501-Harris XG-25P",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "TAIT/TN9400/HARRIS",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian/Harris",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Harris Model Class:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "XGP Software",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Harris MASTR V",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "SR10A",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson 3800",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Rel 1.1.1-5",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tait N9400",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Ver 1.40",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tait Cassidian P25 Core",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "EADS P25V11_06 E22",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.4",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.5",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.6",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.3.4.7",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Broadcast Voice Call",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.4.4.1",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_Test_REQ- March 2010, Section 2.1.3.2 –",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Interoperability",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "DTRP25CAP-081017-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1120312H13",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP-081010-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "13090501-Harris XG-25P",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "TAIT/TN9400/HARRIS",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian/Harris",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Harris Model Class:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "XGP Software",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Harris MASTR V",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "SR10A",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson 3800",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Rel 1.1.1-5",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Tait N9400",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Ver 1.40",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Tait Cassidian P25 Core",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "EADS P25V11_06 E22",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.5",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Affiliation",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.5.4.1",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.5.4.2",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.6",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Announcement Group Call",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.6.4.1",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.7",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Emergency Alarm",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.2.7.4.1",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "P25-CAB-CAI_Test_REQ- March 2010, Section 2.1.3.2 –",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Phase 1 Common Air Interface Trunked",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Subscriber Unit Interoperability",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DTRP25CAP-081017-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1120312H13",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DTR-P25CAP-081010-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "13090501-Harris XG-25P",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "TAIT/TN9400/HARRIS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "DTR-TIMCO081016",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tait/Cassidian/Harris",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Harris Model Class:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "XGP Software",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Harris MASTR V",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "SR10A",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "EF Johnson 3800",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Rel 1.1.1-5",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tait N9400",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Ver 1.40",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tait Cassidian P25 Core",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Network",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "EADS P25V11_06 E22",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Test",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Case",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.8",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Emergency Group Call",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.8.4.1",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.10",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Encryption",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.10.4.1",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.11",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Intra-Location Registration Area Roaming",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.11.4.1",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Model Class Definition",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Model Class Definition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Applied to: P25-CAB-CAI_TEST_REQ – March 2010,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Section 2.1.3.2 – Project 25 Phase 1 Common Air",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Interface Trunked Subscriber Unit Interoperability",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Model Class Name",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Product Name, Definition, Unique ID",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Installed Options*",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "* Note:  In the installed option designation “XGP Rxx”, the “xx” denotes the inclusion of any revision number,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "indicating that all revisions of XGP software are included in the model class for the associated product.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Project 25 Compliance Assessment Program",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Summary Test Report",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Harris XG-25P UHF-L",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "STR-Harris-XG25PUHFL141112",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Test Case Result Definitions",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "No Test performed",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Test Does Not Apply to the Test Object",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Test Object Meets Requirements",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Test Object Does Not Meet Requirements",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Test Object is Not Conclusive",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Comments",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "P1: Device under test passes requirements for both C4FM and WCQPSK",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "P2: Device under test measured f 12.5 KHz for time intervals t1 and t3, though not a requirement for transmitter carrier output",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "power rating of 6 watts per TIA-102.CAAB-C section 3.2.18, last paragraph.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "N1: FNE does not support this feature",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The information contained herein has been provided by the manufacturer of the product with permission to",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "make the information publically available.  The Department of Homeland Security 9DHS) is making this",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "information available as a public service; however, DHS IS PROVIDING THE INFORMATION “AS IS.”  DHS",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "MAKES NO EXPRESS OR IMPLIED WARRANTIES AND SPECIFICALLY, DHS MAKES NO",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, REGARDING",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "THE ACCURACY OR USE OF THIS INFORMATION.  Reference to any specific commercial products,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "processes, or services by trade name, trademark, manufacturer, or otherwise does not constitute an",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "endorsement by or a recommendation from DHS.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "OMB NO: 1640-0015",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "EXPIRATION DATE: 07/31/2015",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Burden Statement",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "An agency may not conduct or sponsor information collection and a person is not required to respond to this",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "information collection unless it displays a current valid Office of Management and Budget control number",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and expiration date.  The control number for this collection is 1640-0015 and this form will expire on",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "07/31/2015.  The estimated average time to complete this form is 60 minutes per respondent.  If you have",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "any comments regarding the burden estimate you can write to Department of Homeland Security, Science",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and Technology Directorate, Washington, DC 20528.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "DHS FORM 10056 – June 2009",
+      "page": 12
+    }
+  ]
+}

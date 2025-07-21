@@ -1,0 +1,1225 @@
+{
+  "title": "Dymalloy:  A Composite Substrate for",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "June 29, 1995",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "This is a preprint of a paper intended for publication in a journal or proceedings.  Since",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "changes may be made before publication, this preprint is made available with the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "understanding that it will not be cited or reproduced without the permission of the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "author.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "UCRL-JC-121193",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PREPRINT",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "This paper was prepared for submittal to the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1995 International Symposium on Microelectronics",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Los Angeles, CA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "October 24-26, 1995",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Dymalloy:  A Composite Substrate for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "High Power Density Electronic Components",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "J. A. Kerns",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "N. J. Colella",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "D. Makowiecki",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H. L. Davidson",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Dymalloy",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "A Composite Substrate for High Power Density Electronic Components",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Abstract",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "operate below the maximum rated device junction temperature to ensure reliability. Junction temperatures are",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "determined by the amount of heat generated and the thermal resistance from junction to the ambient thermal",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "environment. Two of the largest contributions to this thermal resistance are the die attach interface and the package",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "base. A decrease in these resistances can allow increased component packing density in MCMs, reduction of heat",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sink volume in tightly packed systems, enable the use of higher performance circuit components, and improve",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "reliability.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sink. Present high power multichip modules and single chip packages use substrate materials such as silicon nitride",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "or copper tungsten that have thermal conductivity in the range of 200 W/mK. We have developed Dymalloy, a",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "copper-diamond composite, that has a thermal conductivity of 420 W/mK and an adjustable coefficient of thermal",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "expansion, nominally 5.5 ppm/C at 25 C, compatible with silicon and gallium arsenide. Because of the matched",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "coefficient of thermal expansion it is possible to use low thermal resistance hard die attach methods.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity of 600 to 1000 W/mK  in a metal matrix that has a thermal conductivity of 350 W/mK. The",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "region of chemical bonding between the matrix material and diamond is limited to approximately 100 A to maintain",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "a high effective thermal conductivity for the composite. The material may be fabricated in near net shapes.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "attractive candidate as an electronic component substrate material.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Key words: substrate, package base, composite material, diamond composite",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "power densities of 77 W/cm2 [1], and are",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "correct operation and adequate life it is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "necessary to limit the junction temperature to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "less than 200 C for discrete power",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "semiconductors, 125 C for military logic devices,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and as low as 70 C for some commercial logic",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "devices. For many high power density devices",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "much of the allowable temperature budget is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "expended in the package base and die attach",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "thermal resistances.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "would have infinite thermal conductivity and a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CTE perfectly matched to the semiconductor",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "material. The need for high thermal conductivity",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "is obvious. The good CTE match is required",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "because thermally induced shear stress at the die",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "bond is directly proportional to the mismatch in",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CTE and the length from the center of the die to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "a corner.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "in a naturally occurring material is about 2200",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "W/mK for good quality Type IIa diamond. Pure",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "copper has a thermal conductivity of 393",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "W/mK. Common package base materials such",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "as copper-tungsten, AlN, and BeO all have",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivities near 200 W/mK. The",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "new aluminum silicon carbide composites also",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "fall in this range. Copper diamond composite",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "material, called Dymalloy, made with 55 vol% of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "good quality Type I diamond has a thermal",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "conductivity of 420 W/mK.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "successfully employed as a heat spreader for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "laser diodes and some microwave devices, its",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CTE of 1.7 ppm/C, compared to 5.8 ppm/C for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "GaAs, limits its use with hard, high thermal",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "conductivity, die attach methods to die generally",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "less than 1 mm on a side. Dymalloy, made with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "55 vol% diamond, has a perfect CTE match to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "gallium arsenide. Note that siightly increasing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the diamond volume fraction allows the CTE to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "be adjusted to provide a perfect match to silicon.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Values of the thermal conductivity and CTE of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "common semiconductor and substrate materials",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "are shown in Table 1.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "power density of 100 W/cm2 attached to a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "substrate with a 65 µ bond line. Using a silver-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "filled epoxy die attach will result in a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "temperature rise of  29C. Using a Au-Sn bond",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "would result in a rise of 0.8 C. This is smaller",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "than the 4.4 C rise through a typical 625 µ thick",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "silicon die under these conditions. For extremely",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "high power density conditions combining",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Table 1. Properties of Common Semiconductor",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and Substrate Materials.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Table 2. Thermal conductivity of  Common Die",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Attach Materials.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Fabrication Considerations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "high thermal conductivity diamond-metal",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "composite, was developed to address both",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "technical and commercial requirements. The",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "technical challenge is to combine diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "powders with a metal to produce a composite",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "with high thermal conductivity. The commercial",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "requirements are to produce this composite in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "near net shape and to be cost competitive with",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "existing products. These two basic requirements",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "have guided the development of Dymalloy.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diamond powder and metal matrix material",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "must be readily available and both must have",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "high thermal conductivity. The ideal diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "powder material would be free from defects and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "contaminants. These requirements are",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approached by Type IIa diamonds that have a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "typical thermal conductivity of 2200 W/mK.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Type IIa diamonds are used for jewelry and are",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "unavailable in powder form. CVD diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "films are the next choice for the composite with a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity of 1400 W/mK. These",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "films could be crushed into powders for the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "composite but this process is not economically",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "feasible. The more common Type I diamond is",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "commercially available as powder and is used",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "for manufacturing operations such as grinding",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and lapping. Type I diamond has a measured",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity of 600 to 1000 W/mK and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "costs between $0.50 and $1.00 a carat. Type I",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diamond powder is used to make Dymalloy",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "because of its availability and cost.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diamond was measured on relatively large",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diamond samples and not on the diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "powder used for the composite.  The bulk",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity of a material is size",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "independent until the dimensions of the material",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "approach the mean free path of the heat",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "transport mechanism, electrons for metals and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "phonons for non-metals. The minimum size",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "diamond powder used in the composite was",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "estimated to be at least ten times the phonon",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "mean free path in the diamond or approximately",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1 µ.  Graebner et.al. [5] showed that diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "grain size affects the thermal conductivity of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "CVD diamond films. As the grainsize increases",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the thermal conductivity increases until the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "grains are larger than approximately 20 µ.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Dymalloy has been made with diamond",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "powders in the 6 to 50 µ size range.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Fabrication of Dymalloy",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of a carbide forming material overcoated with",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1000 A of brazeable material.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "powder can be packed into a form and vacuum",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "infiltrated with the metal matrix material to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "form a composite. Although composites have",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "been made using this technique, the diamond",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "powder with these very thin coatings are",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "difficult to form into a final shape before",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "infiltrating. Control samples made using",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "commercially available copper coated diamond",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "powder were not as difficult to form. The",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "commercial coated diamond powder has a",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "thicker copper coating, several microns thick,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "that flows during the forming process. Although",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the commercial powder is easier to form,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "examination of this powder shows that the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "diamond grains are entrapped, not bonded, in",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the copper. An electroless plating process is",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "used to increase the copper thickness to several",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "microns on the coated diamond powder used for",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "making Dymalloy. This added step makes the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "forming process easier.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "powder into a form, pressing the powder to the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "desired thickness, and infiltrating with the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "matrix material. This forming process was",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "developed using commercially available copper",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "coated diamond powder. The data from this",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "development is directly applicable to making",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Dymalloy. Experiments were made to determine",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the initial filling thickness of diamond powder,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the pressure necessary to compact the form, and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the amount of metal matrix material that is",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "needed for the infiltration process so that the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "final composite meets thickness and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "dimensional tolerances.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "diamond powder with a high thermal",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "conductivity material. We presently use a",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "copper-silver (20/80) alloy that has a thermal",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "conductivity of 354 W/mK and a melting point",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "of approximately 800 C. Other materials such as",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "copper with a thermal conductivity of 393",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "W/mK can be used, but the lower melting",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "temperature alloy avoids problems with",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "graphitization of the diamond.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "vacuum and capillary action allows the metal",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "braze to wick into the form. Using an amount of",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "braze material just sufficient to thoroughly wet",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the form ensures that the composite does not",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "deform upon cooling due to the differences in",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the coefficient of thermal expansion between the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Material Properties",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "thermal conductivity is 1000 W/mK and the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "diamond loading is 55 vol%. As the matrix",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity decreases the difference",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "between the upper and lower bound increases.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Estimates of the effective thermal conductivity",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "of a diamond composite correspond to the lower",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "bound  values. The measured thermal",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "conductivities of epoxy-silver and epoxy-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "diamond composites also agree with lower",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "bound estimates.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Keff  (W/mK)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1. Bounds of the effective thermal",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "conductivity if the composite as a function of",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "diamond thermal conductivity.  The matrix",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "thermal conductivity is 354 W/mK and the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "volume fraction of diamond is 55%.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "strain relation are difficult to estimate but they",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "were measured. Ultrasound techniques were",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "used to measure the speed of sound at 7000 m/s",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "in the copper diamond matrix material. This",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "sound speed is comparable to aluminum,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "molybdenum, titanium, tungsten carbide, and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "calcium fluoride. The stress strain relation for",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Dymalloy shows that the material does have",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "some plastic characteristics. Dymalloy has a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "linear stress-strain relation for stresses up to 40",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "kpsi and strains of approximately 0.1 to 0.2 %.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "After this linear region the stress increases and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "failure occurs between 50 and 60 kpsi at strains",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "of approximately 5.0 to 6.0 %.  Examination of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the fractured surfaces, shown in the magnified",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "portion of Figure 3, shows that brittle fracture",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "occurs in the diamonds and the matrix fails in a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "ductile manner. The stress-strain relation shows",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "that Dymalloy is not a brittle material but has",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Figure 2. Effective thermal conductivity of a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "diamond composite as a function of matrix",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "material thermal conductivity. The diamond",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "thermal conductivity is 1000 W/mK and the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "loading is 55vol%.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Conclusion",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3. The figure shows two magnified",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "views of the fracture surface of a Dymalloy",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "disk. The lower magnification picture shows",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the uniform distribution of diamond in the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "metal matrix. The higher magnification photo",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "at the bottom of the figure reveals high",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "strength cleavage failure in the diamond",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "particles.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Technical Information Department • Lawrence Livermore National Laboratory",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "University of California • Livermore, California  94551",
+      "page": 9
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "title": "Assessing The Technical Feasibility of Conflict Prediction for Anticipatory Action",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "TABLE OF CONTENTS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. INTRODUCTION    . ...............................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2. TYPES OF PREDICTION        .....................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3. OVERALL PERFORMANCE    .....................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4. RECOMMENDATIONS FOR FUTURE WORK    .................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5. CONCLUSION    . ..................................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "TECHNICAL ANNEX",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. TYPES OF PREDICTION    ........................................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2. MODEL PERFORMANCE    .......................................................................",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ACKNOWLEDGEMENTS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "EXECUTIVE SUMMARY",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1. INTRODUCTION",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.1 MOTIVATION",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.2 APPROACH",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "How accurate are conflict forecasts?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "How well can various sources predict different types of conflict in specific situations?",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2. TYPES OF PREDICTION",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2.1 MODELS IN THE HUMANITARIAN SECTOR",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "MODEL ASPECTS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "•\t Length of forecasting period: The temporal range of the forecast period. The length of forecast",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "•\t Geographic distribution: The geographic scope of the prediction exercise. Is the model global or",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "•\t Type: Type of the conflict being predicted, such as state vs. non-state actors.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. OVERALL PERFORMANCE",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.1 PREDICTED CONFLICT AND HUMANITARIAN IMPACT",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "4. RECOMMENDATIONS FOR FUTURE WORK",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3.2 ANTICIPATORY ACTION WITHOUT THRESHOLDS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Include many predictors of conflict in models",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.1 ADOPT MODELING BEST PRACTICES",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Consider ensemble methods",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Utilize superforecasters and prediction markets",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "4.2 EXPLORE AREAS THAT ARE UNDER RESEARCHED",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Incorporate local data and analysis",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Predict conflict shifts",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Predict risk, not events",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Predict the impact of conflict",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "4.3 PRACTICE TRANSPARENT DEVELOPMENT AND EVALUATION OF MODELS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "5. CONCLUSION",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "How accurate are conflict forecasts?",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "How well can various sources predict different types of conflict in specific situations?",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Utilize flexible models that do not pre-suppose a theoretical framework of conflict causality. Future",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Explore the use of human inputs through superforecasters or prediction markets and use local data",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "to improve model performance in specific contexts. Work should be done to include and validate the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "5.1 RECOMMENDATIONS AND NEXT STEPS",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Improve predictions on the humanitarian impact of conflict as opposed to conflict itself. Work on",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ensure that model development and evaluation is done in a reproducible and transparent way that",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "highlights the model performance in all relevant metrics. Humanitarian work on measuring risk,57",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Learn from the state-of-the-art research underway in the academic field and ensure that applied",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "research is relevant for humanitarian decision making. Significant time and resources will be required to",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "TECHNICAL ANNEX",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "1. TYPES OF PREDICTION",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "1.1 CLASSIFICATION",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "1.2 RISK PREDICTION",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "1.3 CONTINUOUS PREDICTION",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "1.4 MODEL USEFULNESS",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Calibration is how well the probabilities of a model match observed frequencies. Perfect calibration means",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "2. MODEL PERFORMANCE",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "MODEL PERFORMANCE METRICS",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "•\t Brier score: Measures how close predicted probabilities of conflict are to the observed truth.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "•\t Precision: The ability of the model to only predict true conflicts. Only applicable to classification",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "•\t Recall: The ability of the model to predict all conflicts. Only applicable to classification models",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "•\t F1: Balanced measure of the model based on precision and recall. Only applicable to",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Advancements in model performance",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "2.1 PERFORMANCE OF CLASSIFICATION MODELS",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Predictive power of conflict history",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Difficulty in predicting conflict onset",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Efficacy of classification models in predicting conflict",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "2.2 PERFORMANCE OF RISK PREDICTION",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Lack of validation on calibration",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Efficacy of risk models in predicting conflict",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "2.3 PERFORMANCE OF CONTINUOUS PREDICTION",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Burgeoning research but similar issues",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Efficacy of continuous prediction models in predicting conflict",
+      "page": 19
+    }
+  ]
+}

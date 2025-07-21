@@ -1,0 +1,760 @@
+{
+  "title": "PowerPoint Presentation",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "CORAL Acquisition Update:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "OLCF-4 Project",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Buddy Bland",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "OLCF Project Director",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Presented to:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Advanced Scientific Computing Advisory",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Committee",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "November 21, 2014",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "New Orleans",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2 ASCAC11/2014 - Bland",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Oak Ridge Leadership Computing Facility",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Providing world-leading computational and data resources",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and specialized services for the most computationally",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "intensive problems",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Providing stable hardware/software path of increasing scale",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "to maximize productive applications development",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Providing the resources to investigate otherwise inaccessible",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "systems at every scale: from galaxy formation to supernovae",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "to earth systems to automobiles to nanomaterials",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "With our partners, deliver transforming discoveries in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "materials, biology, climate, energy technologies, and basic",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "science",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mission: Deploy and operate the computational",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "resources required to tackle global challenges",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3 ASCAC11/2014 - Bland",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "CORAL System",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Our Science requires that we continue to",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "advance OLCF’s computational capability over",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "the next decade on the roadmap to Exascale.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Since clock-rate scaling ended in 2003,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "HPC performance has been achieved",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "through increased parallelism.  Jaguar",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "scaled to 300,000 cores.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Titan and beyond deliver hierarchical",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "parallelism with very powerful nodes.  MPI",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "plus thread level parallelism through",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "OpenACC or OpenMP plus vectors",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Jaguar: 2.3 PF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Multi-core CPU",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "7 MW",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "9 MW",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "10 MW",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4 ASCAC11/2014 - Bland",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Today’s Leadership System - Titan",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Hybrid CPU/GPU architecture, Hierarchical Parallelism",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Vendors: Cray™ / NVIDIA™",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "• 27 PF peak",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "• 18,688 Compute nodes, each with",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "• Cray Gemini 3-D Torus Interconnect",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "• 32 PB / 1 TB/s Lustre® file system",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5 ASCAC11/2014 - Bland",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Scientific Progress at all Scales",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Fusion Energy",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Turbomachinery",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Nuclear Reactors",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Earthquake Hazard",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Climate Science",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "6 ASCAC11/2014 - Bland",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Two Architecture Paths for",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Today and Future Leadership Systems",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Hybrid Multi-Core (like Titan)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• CPU / GPU hybrid systems",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• Likely to have multiple CPUs and",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• Small number of very powerful",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• Expect data movement issues to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "• Multiple levels of memory – on",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Many Core (like Sequoia/Mira)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Power concerns for large supercomputers are driving the largest",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "systems to either Hybrid or Many-core architectures",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7 ASCAC11/2014 - Bland",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Where do we go from here?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "• Provide the Leadership computing capabilities",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "needed for the DOE Office of Science mission",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "from 2018 through 2022",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "– Capabilities for INCITE and ALCC science projects",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "• CORAL was formed by grouping the three Labs",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "who would be acquiring Leadership computers in",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "the same timeframe (2017).",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "– Benefits include:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "8 ASCAC11/2014 - Bland",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "CORAL Collaboration ORNL, ANL, LLNL)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Approach",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Leadership Computers RFP requests >100 PF, 2 GB/core main memory, local",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Objective - Procure 3 leadership computers to be",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "9 ASCAC11/2014 - Bland",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "CORAL Evaluation Process",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "A buying team consisting of the management, technical,",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "and procurement leadership of the three CORAL labs",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "met to select the set of two proposals that provided the",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "best value to the government",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Evaluation Criteria:",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• DOE mission requirements - the best overall combination of solutions",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Technical proposal excellence; projected performance on the",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "applications is the single most important criterion",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Feasibility of schedule and performance",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Diversity",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Overall Price",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Supplier attributes",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "• Risk evaluation",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "10 ASCAC11/2014 - Bland",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Results of CORAL Procurement",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "RFP",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Two Diverse Architecture Paths",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IBM with",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "NVIDIA &",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Mellanox",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "To be",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "announced",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "11 ASCAC11/2014 - Bland",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "2017 OLCF Leadership System",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Hybrid CPU/GPU architecture",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Vendor: IBM (Prime) / NVIDIA™ / Mellanox Technologies®",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "At least 5X Titan’s Application Performance",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Approximately 3,400 nodes, each with:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Dual-rail Mellanox® EDR-IB full, non-blocking fat-tree interconnect",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "IBM Elastic Storage (GPFS™) - 1TB/s I/O and 120 PB disk capacity.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCING NVLINK AND STACKED MEMORY",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "NVLINK",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "GPU high speed interconnect",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Stacked (HBM) Memory",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "13 ASCAC11/2014 - Bland",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Summit’s High-Speed Interconnect",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Mellanox Technologies® Dual-Rail EDR Infiniband",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "InfiniBand Interconnect",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "• 3-Level Fat Tree",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "• 23 GB/s (dual plane",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "100Gb/s)",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "• 5 hops max",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "• Adaptive routing",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Three-level Fat Tree Interconnect",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "14 ASCAC11/2014 - Bland",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Summit Key Software Components",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "• System",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "• Programming Environment",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "15 ASCAC11/2014 - Bland",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "How does Summit compare to Titan",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Feature",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Summit",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Titan",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Number of Nodes",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Node performance",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Memory per Node",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "NVRAM per Node",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Node Interconnect",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "System Interconnect",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Interconnect Topology",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Processors",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Peak power consumption",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "16 ASCAC11/2014 - Bland",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Questions?AS@ornl.gov",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "GPU Hackathon October 2014",
+      "page": 16
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "title": "CHD_SOM_Technical_Note_Flood_Risk",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Somalia Flood Exposure Methodology Note",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Analysis for 2024 HNRP",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "This technical note summarises the methodology used to calculate the number of people",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "potentially exposed to flooding in Somalia in the 2024 Somalia Humanitarian Needs and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Response Plan (HNRP). The UN OCHA Centre for Humanitarian Data worked with a wide range",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "of technical partners to develop a methodology that was then endorsed by the Somalia ICCG",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and HCT.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Daily FloodScan (1998-2022) & WorldPop (2020 UN Adjusted) raster data was analysed to gain",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "understanding of flood conditions across Somalia for both March-April-May (MAM) and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "October-November-December (OND) seasons. FloodScan daily flood fraction Standard Flood",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Exposure Depiction (SFED) was aggregated to yearly seasonal maximum fraction composites",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "for both the MAM and OND seasons for all years of historical FloodScan data (1998-2022).",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The yearly seasonal SFED composites were then processed/reclassified in two distinct ways:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "All composites in both sets of processed yearly-seasonal flood fraction rasters were then",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "multiplied by the WorldPop (2020 UN Adjusted) population estimate raster to create two sets of",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "yearly",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "administrative level via zonal statistics (sum) to obtain the estimated population exposure per",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "district for each season across all years for each set. These estimates were converted to the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "percent of population exposed by dividing the estimates by the total population per district",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "(from World Pop raster). The percent exposure figure was then applied to the updated 2024",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "population data set (UN OCHA, UNFPA Methodology) to obtain updated population exposure",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "estimates. These data were further aggregated to administrative level 1.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Ranges for exposure were estimated using percentiles for both the MAM and OND seasons per",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "administrative level. As ECMWF seasonal forecast predicts an above average precipitation",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "season for MAM 2024, the range of population exposed was based on the 50th-95th percentile",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "levels. Since there was no available data to inform predictions for OND 2024, the 25-75th",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "percentile values were used to bound the range. The lower and upper limits of the ranges were",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "calculated at the administrative level using all of the historical yearly seasonal flood exposure",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "estimates. The two sets of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "maximum value for both the upper and lower bounds for each season.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Contact the OCHA Centre for Humanitarian Data via Leonardo Milano, Team Lead for Data",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Science at leonardo.milano@un.org with any questions or feedback.",
+      "page": 2
+    }
+  ]
+}

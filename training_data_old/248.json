@@ -1,0 +1,955 @@
+{
+  "title": "Note: La Responsabilité des données dans les transferts monétaires",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS LES",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "TRANSFERTS MONÉTAIRES",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Au cours des dernières années, les acteurs humanitaires ont accompli des progrès considérables",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dans la promotion de la Responsabilité des données dans les transferts monétaires («TM», en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "anglais « Cash and Voucher Assistance - CVA », à savoir les transferts en espèces et en coupons).",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Toutefois, il subsiste des écarts entre les cadres globaux pour la Responsabilité des données et",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "leur application pratique dans la distribution de ces TM.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Il existe de nombreuses ressources disponibles sur la protection des données dans les",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "programmes de TM, mais il manque des conseils et des outils pratiques pour la gestion",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "responsable des données sensibles non personnelles.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Parmi les bénéfices relatifs aux données dans les TM, on retiendra : (i) une meilleure",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "compréhension des priorités, des besoins et des préférences des bénéficiaires ; (ii) un meilleur",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ciblage de l’aide, y compris en évitant le dédoublement quant aux listes de bénéficiaires ; (iii) une",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "efficacité et une efficience accrues des différents mécanismes de distribution ; et (iv) une plus",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "grande transparence et redevabilité.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les risques courants relatifs aux données dans les TM sont : (i) la divulgation de données sensibles",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pouvant entraîner diverses formes de préjudice envers les personnes affectées et/ou le personnel",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitaire ; (ii) les violations de la protection des données, de la confidentialité et de la sécurité",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "des données ; (iii) l’utilisation abusive potentielle de données à des fins non humanitaires par des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tiers ; et (iv) la perte de confiance entre les populations affectées et les organisations humani-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "taires.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les organisations humanitaires peuvent améliorer la Responsabilité des données dans les TM en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "prenant les mesures suivantes : (i) cartographier l’écosystème des données du TM ; (ii) établir un",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "protocole de partage des informations spécifique aux programmes de TM ; (iii) établir des ac-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cords de partage des données pour l’échange de données personnelles ; (iv) réaliser des analyses",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "d’impact relatives aux données pour toutes les interventions de TM ; (v) introduire des procédures",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de gestion des incidents liés aux données ; et (vi) suivre les questions et les progrès réalisés en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "matière de Responsabilité des données dans les TM par le biais de structures de coordination.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "À mesure que les outils numériques occupent une place de plus en plus centrale dans la fourniture de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "transferts monétaires (TM), les organisations humanitaires, les prestataires de services financiers (PSF) et",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "d’autres parties prenantes recueillent, stockent, utilisent et partagent des volumes de données de plus en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "plus importants. Ces tendances ont été accélérées dans la réponse à la COVID-19, pour laquelle les acteurs",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "fournissant des aides en espèces ont augmenté et adapté leurs programmes de TM afin de mieux répondre",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "aux défis particuliers posés par la pandémie, avec une préférence pour les paiements électroniques ou",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "mobiles sans contact afin de réduire le risque de transmission.1",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Selon le rapport « La situation mondiale des transferts monétaires en 2020 » (2020 State of the World’s Cash",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Report), la perception des risques liés au numérique et à la gestion des données a également augmenté",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ces dernières années.2 Les préoccupations suivantes ont été reconnues dans divers forums sur les TM3 : (i) il",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "existe d’importantes lacunes en termes de ressources pratiques permettant aux praticiens de concilier les",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "normes éthiques contenues dans les politiques de Responsabilité des données avec la pression quotidienne",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "à fournir des programmes ; (ii) il n’y a aucun mécanisme en place pour permettre le partage collectif des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "cas critiques de gestion des incidents liés aux données, ou pour en tirer des enseignements ; et (iii) un",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "faible goût du risque en TM, notamment en raison des mesures de lutte contre le blanchiment d’argent, le",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "terrorisme, et de l’économie politique des espèces, qui s'étend dans l’espace de gestion des données.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Les acteurs humanitaires ont accompli des progrès considérables dans la promotion de la Responsabilité",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "des données dans les transferts monétaires («TM», en anglais « Cash and Voucher Assistance - CVA », à",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "savoir les transferts en espèces et en coupons). Une série d’initiatives4 visent à assurer la protection des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "bénéficiaires et à soutenir des façons de travailler plus efficaces, collaboratives et axées sur les données.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Les engagements bilatéraux et multilatéraux entre les organisations humanitaires, y compris les accords",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "globaux de partage des données et des stratégies conjointes d’exécution des programmes, complètent ces",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "efforts collectifs.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Toutefois, il subsiste des écarts entre les cadres globaux pour la Responsabilité des données et leur",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "application pratique dans la fourniture des TM. Cette note d’orientation vise à combler ces lacunes en",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "offrant une vue d’ensemble des bénéfices et des risques courants liés aux données rencontrés par les",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "acteurs monétaires. Elle détaille un ensemble de mesures que les organisations peuvent prendre pour",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "améliorer la Responsabilité des données dans la fourniture des transferts monétaires.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "LA GESTION DES DONNÉES POUR LES TRANSFERTS MONÉTAIRES",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Un transfert monétaire requiert la collecte en amont de données personnelles et non personnelles",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "qui seraient considérées comme sensibles dans la plupart des contextes humanitaires. Les données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "personnelles généralement recueillies dans le cadre des programmes de TM comprennent, entre autres,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "notamment les numéros d’identification nationaux, les numéros de téléphone et les adresses, les noms",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "des membres de la famille, les données bancaires personnelles et les données biométriques. Les données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "non personnelles couramment rencontrées dans les programmes de TM comprennent des microdonnées",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "provenant d’enquêtes et d’évaluations des besoins, des informations d’identification démographique",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sur différents groupes recevant de l’aide, des données de géolocalisation pour les points de distribution",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de TM et des données anonymes et/ou agrégées sur les retours des membres des communauté, entre",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "autres. La fourniture de TM génère également de nouvelles formes de métadonnées5 que les organisations",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires n’avaient pas auparavant à gérer, comme des données sur les transactions avec différents",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "prestataires de services financiers et les habitudes de consommation ou de dépenses des populations",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "affectées.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Contrairement à d’autres domaines de l’aide humanitaire, les TM impliquent un éventail particulièrement",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "large et diversifié d’acteurs. La complexité du flux de données entre les organisations humanitaires et les",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "différents partenaires impliqués dans la fourniture de TM donne lieu à des questions de protection des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "données et à d’autres préoccupations, décrites plus en détail ci-dessous.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "BÉNÉFICES ET RISQUES LIÉS AUX DONNÉES DANS L’ASSISTANCE SOUS FORME",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DE TRANSFERTS MONÉTAIRES",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "La Responsabilité des données exige une compréhension claire des bénéfices et des risques associés à la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "gestion des données. Bien qu’ils puissent varier d’un contexte à l’autre, il existe des bénéfices et des risques",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "communément reconnus liés aux données au sein de la communauté TM.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Parmi les bénéfices liés aux programmes de transferts monétaires, citons :",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Une compréhension accrue des priorités, des besoins et des préférences des bénéficiaires.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Un meilleur ciblage de l’aide, y compris en évitant le dédoublement quant aux listes de bénéficiaires.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Une amélioration de l’efficacité et de l’efficience des différents mécanismes de distribution.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Une amélioration de la transparence et de la redevabilité.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Parmi les risques liés aux programmes de transferts monétaires, citons :",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t L’exposition de données sensibles pouvant entraîner diverses formes de préjudice pour les personnes",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "affectées et/ou le personnel humanitaire.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Des violations de la protection des données, de la confidentialité et de la sécurité des données.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Une utilisation abusive potentielle des données à des fins non humanitaires par des tiers.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "•\t Une perte de confiance entre les personnes affectées et les organisations humanitaires.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Les réglementations « Know Your Customer », appelé aussi « diligence raisonnable envers les clients », sont conçues",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Pour en savoir plus sur les KYC dans les programmes de TM, consultez la fiche de conseils elan's Tip Sheet on KYC",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Regulations et les recommandations du HCR et World Vision : UNHCR and World Vision’s Know Your Customer Stan-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "dards and Privacy Recommendations for Cash Transfers.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Différentes normes relatives à la Responsabilité des données sont appliquées dans les programmes de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "TM en fonction des organisations et des contextes. Cela s’explique par (i) divers niveaux de connaissance",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "des directives existantes en matière de Responsabilité des données et en conséquence, des lacunes quant",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "aux capacités des équipes programme, et (ii) l’évolution des risques liés aux données par rapport aux",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "nouveaux mécanismes de distribution et modèles de partenariat pour les TM. Les directives existantes6",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sont principalement axées sur la gestion et la protection en toute sécurité des données personnelles, et",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ne traitent pas de manière exhaustive les préoccupations liées aux données non personnelles qui sont",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sensibles dans de nombreux contextes et qui nécessitent des protections solides.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6  Pour en savoir plus sur la protection des données dans les programmes de TM, consultez la section Protéger la vie privée des bénéficiaires, du",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "RECOMMANDATIONS POUR L’AMÉLIORATION DE LA RESPONSABILITÉ DES",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "DONNÉES EN MATIÈRE DE TRANSFERTS MONÉTAIRES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La Responsabilité des données exige la mise en œuvre d’actions fondées sur des principes à différents",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "niveaux d’une réponse humanitaire. Cela comprend des actions visant à assurer la protection et la sécurité",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "des données, ainsi que des stratégies visant à minimiser les risques tout en optimisant les bénéfices de la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "gestion des données.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Le Centre for Humanitarian Data (ci-après dénommé « le Centre »), CaLP et NORCAP/NRC recommandent",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "les mesures suivantes pour améliorer la Responsabilité des données dans la prestation de transferts",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "monétaires.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Cartographier l’écosystème de données pour les TM",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Établir un protocole de partage des informations propre aux programmes de transferts",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "monétaires",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Établir des accords de partage de données pour l’échange de données personnelles",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Effectuer des analyses d’impact relatives aux données pour toutes les interventions de TM",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Présenter les procédures de gestion des incidents liés aux données",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Suivre les questions et les progrès en matière de Responsabilité des données dans le secteur des",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "TM par le biais de structures de coordinations",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Le tableau ci-dessous fournit une description de ces actions et des références à des directives et des",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "modèles supplémentaires de différentes organisations humanitaires, le cas échéant.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Directives pratiques pour la communauté des TM  : Boîte à outils sur la gestion responsable",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "des données de CaLP",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La Boîte à outils sur la gestion responsable des données de CaLP offre des conseils détaillés sur la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Responsabilité des données en matière de transferts monétaires. La boîte à outils vise à mieux refléter",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "la complexité des relations avec les partenaires, des modèles opérationnels de distribution et des flux",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de données associés. Elle vise également à aborder les éléments de la collecte de données à distance",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "qui ont vu le jour au début de 2020 pendant la pandémie COVID-19.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La boîte à outils souligne la nécessité d’une approche écosystémique et d’une analyse du pouvoir",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "parmi ceux qui recueillent, utilisent et partagent des données des bénéficiaires de TM. Elle souligne",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "également la nécessité de contextualisation, de créativité, de capacité et de collaboration entre les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "acteurs des TM et les équipes des organisations afin d’assurer une meilleure protection des données.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La boîte à outils comprend une étude approfondie de certaines tensions entre les différents acteurs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en ce qui concerne les données, ainsi qu’une orientation sur : le partage des données, les relations",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "entre les responsables de traitement et les sous-traitants, les analyses d’impact sur la vie privée, les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "bases juridiques de la collecte de données (y compris le consentement et les intérêts légitimes), la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "préparation à d’éventuels incidents ou violations de données critiques, et la communication avec les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "populations affectées au sujet de la collecte et du traitement des données.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Elle est structurée autour des différentes étapes d’un cycle de vie des données typique des",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "programmes de TM et couvre à la fois les données personnelles et non personnelles, tout en intégrant",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de nouvelles exigences juridiques découlant du Règlement européen sur la protection des données.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "d’orientation sur les analyses d’impact relatives aux données par le Centre for Humanitarian Data, le CICR, Privacy International et l’initiative",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Action",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Cartographier",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "l’écosystème de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "données pour les",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Establish an",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "information sharing",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "protocol specific to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CVA programming",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Établir des accords",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "de partage de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "données",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Effectuer des",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "analyses d’impact",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "relatives aux",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "données pour",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "toutes les",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "interventions de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Introduire des",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "procédures de",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "gestion des",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "incidents liés aux",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "données",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Suivre les questions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "et les progrès",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "en matière de",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Responsabilité",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "des données dans",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "le secteur des",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "TM par le biais",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations sont encouragées à partager leur expérience quant à la promotion de la Responsabilité",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "des données dans la prestation de transferts monétaires avec le Centre via centrehumdata@un.org.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CONTRIBUTEURS : CALP AND NORCAP/NORWEGIAN REFUGEE COUNCIL.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "des Nations Unies en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+      "page": 6
+    }
+  ]
+}

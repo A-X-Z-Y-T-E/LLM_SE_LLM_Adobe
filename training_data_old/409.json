@@ -1,0 +1,245 @@
+{
+  "title": "FAS - Transfering an Asset to Another Agency",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "State of Idaho                                                                                                                     Fixed Asset System (FAS)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Office of the State Controller                                                                                                                    FAS Manual",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Division of Statewide Accounting",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "FAS Manual",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "FIXED ASSET MANUAL ..............................................................1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "TRANSFERRING AN ASSET TO ANOTHER AGENCY..............1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION ......................................................................................................... 1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS THAN $5,000........... 1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000 OR MORE.............. 2",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Rev. Date: 05/26/2005",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "State of Idaho                                                                                                  Capital Asset Management System",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Office of the State Controller                                                                                                                FAS Manual",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Division of Statewide Accounting",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "FIXED ASSET MANUAL",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "TRANSFERRING AN ASSET TO",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "ANOTHER AGENCY",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "INTRODUCTION",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The book value of the asset is an important factor in determining how to record the transaction.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "THAN $5,000",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. Type 35 at the FAS Main Menu and press ENTER.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2. Enter an A in the FUNCTION field, and enter the property number and component",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3. Enter the sequence number (usually 0001) in the SEQ NO field.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4. Enter the transaction code (FAS TC) for the class code of the property number being",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5. Enter the status code in the STATUS field.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "6. Enter a disposition code (e.g., S (if Sold), D (donated or scrapped), etc.) in the DSP",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MTH field. (Refer to FAS Descriptor Table 22 for more disposition codes.)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "7. Enter the amount of cash actually received in the ADT AMT field.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "8. Enter the three-digit number representing the percentage of the asset being disposed in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "9. Enter the disposition date in the ADT DATE field.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "FAS Manual",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Rev. Date: 05/26/2005",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "State of Idaho                                                                                                  Capital Asset Management System",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Office of the State Controller                                                                                                                FAS Manual",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Division of Statewide Accounting",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "10. Enter the quantity in the QTY field. For a full disposition, the quantity should equal that",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "11. Press F1 or ENTER to post the record to the FAS Property File.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The receiving agency should enter the acquisition using standard acquisition steps. Click here for",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "OR MORE",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "FAS Manual",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Rev. Date: 05/26/2005",
+      "page": 3
+    }
+  ]
+}

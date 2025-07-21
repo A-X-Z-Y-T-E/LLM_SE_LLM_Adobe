@@ -1,0 +1,245 @@
+{
+  "title": "We discuss some of the limits on the average and peak current in the",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "COHERENT INSTABILITIES IN THE 20 TeV RING*)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "E.D. Courant",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Brookhaven National Laboratory, Upton, NY and State University of New York, Stony Brook,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "C. Pellegrini",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Brookhaven National Laboratory, Upton, NY, USA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "herent instabilities. This investigation uses a simple model",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1imits, based on the asstunption that all low frequency instabilities, w < c/d, where d is",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the vacUlUn tank dimension, can be cured by feedback.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "one has to rely on Landau damping.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "this model.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "STABILITY CRITERIA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the microwave instability, and the other for transverse effects. They can be written as",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "where lill/E is the beam energy spread, I is the peak current in a btmch, a. is the momentum",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "compaction factor, E is the beam energy, e is the electron charge, v the betatron frequency,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "R the machine radius, /).V the betatron frequency spread providing Landau damping, (Z/n)eff is",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the longitudinal coupling impedance of the btmch to the surrotmding environment and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "y being the beam particle energy in rest energy lIDits, a the beam radius, d the vacuum tank",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "radius and 2 0 the vacuum impedance.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and can be neglected for our 20 TeV ring.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "tance",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the total average current",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and a bunch factor",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "(2)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In (8) we neglected the space charge contribution to the transverse impedance.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "stability limit and a large FB to raise the transverse limit.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "when the two limits are equal or",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "For FB < Fi we are limited by the transverse instability and for FB > F; by the longitudinal",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "one.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "APPLICATION TO 'I1IE 20 TeV RING",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "weak dependence on v and we will only evaluate (10), (11) for the case of the 'weak focusing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ring\".",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "where the current corresponds to a total of 10 1 5 circulating protons.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Equations (10), (11) become",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "In fact for a coasting beam at 1 TeV and for the assumed e1\\ the energy spread is very small",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "lillIE ::: 2.6 x 10- 5 •",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "dinal coupling impedance must satisfy the condition",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "This condition need only be satisfied in the frequency range w ~ cld where feedback cannot",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "be used.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "storage ring, PETRA.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "SYNQIROTRON RADIATION EFFECTS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "where p is the bending radius, ro the classical proton radius and mc 2 the proton rest energy.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For an energy of 20 TeV, y = 2.13 X 10\", p = 6.68 x 10 3 m we have",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Synchrotron radiation effects are not negligible and can influence the beam properties",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "in the storage configuration after a time of the order of ten hours.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "C.\u0001 Pellegrini and M. Sands, Phenomenological analysis of current limits in storage",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "M.\u0001 Sands, in Physics of Storage Rings, Internat. School of Phys. E. Fermi, Varenna,",
+      "page": 5
+    }
+  ]
+}

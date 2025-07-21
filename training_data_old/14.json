@@ -1,0 +1,355 @@
+{
+  "title": "Climate Guidance Series Observational Rainfall Data",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Observational rainfall data such as CHIRPS or ARC2 captures how much rain has fallen over a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t The rainfall is measured at weather stations or estimated through satellite or radar imagery.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t The data can be presented as the total amount of rainfall observed over the period of time,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Datasets that combine station data and satellite or radar imagery are the recommended",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Observational rainfall data can be analyzed to answer a range of questions, such as:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t What areas are currently affected by drought, and how severely?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t What was the duration of the longest dry spell during the past rainy season?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t How many days of heavy rainfall were there in the week leading up to the floods?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Which area received the most rain last month?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t How often does an area experience dry spells?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t How does this year’s rainfall compare to previous years?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Key takeaways",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "What is observational rainfall data?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Observational rainfall data captures how much rain fell over a defined period of time,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Observational rainfall data is produced by measuring the amount of rainfall at precise",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Figure 1. Weather Stations in Zambia (red stars). The grid superimposed onto the map consists of individual",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "In order to help correct for the inaccuracies and errors that are present in the two types of data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "observations are the recommended source of data for humanitarian purposes.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Observational precipitation data can be presented in various formats, each providing unique",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Common sources of observational rainfall data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Among the many sources of data available, we introduce here two common sources of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "COMPARISON OF CHIRPS AND ARC2 OBSERVATIONAL RAINFALL DATA",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Source",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CHIRPS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Format",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Geographical coverage",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Spatial granularity",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(also referred to as spatial",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "resolution)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Temporal granularity",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(aso referred to as temporal",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "resolution)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Historical coverage",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Publication",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Most common uses",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Questions to answer with observational rainfall data",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Observational rainfall data can be used to answer a number of questions and inform decision",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t How much rain fell in the past x days/weeks/months? Observational rainfall datasets",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Was the rainfall last month above or below normal? And by how much? Observational",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Were there more rainy days this month than last month? Observational rainfall data is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t How many dry spells were there during the past rainy season? How long was the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "longest dry spell and the heaviest rain streak this past rainy season? Observational",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t How often in the past decade were more than x millimeters of rainfall measured?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Which region received the most rain last month? Observational rainfall data can be",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Observational rainfall data cannot answer the following questions:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t How much will it rain during a period of time in the future? Observational rainfall data is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Is a severe flooding event about to occur? Are we going through a severe drought?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t How much rainfall from a given period of time in the past was due to specific tropical",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "storm or typhoon? It is hard to differentiate between the amount of rain caused by",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Common limitations with observations rainfall data",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Once you have identified how you want to use the data, it is important to bear in mind some",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1.\t Low-amount or short-duration rainfall may be underreported in certain geographical",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.\t There are fewer gauge stations in rural areas and certain developing countries, which",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.\t Observational rainfall data is usually provided as a raster dataset, where the geographic",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "included, or all cells touched etc.) will impact the results. This is especially true for lower",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "4.\t If using station data, it is important to bear in mind that stations are easily subject to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "5.\t For station data, differences exist between measuring instruments and quality of their",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Resources",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "•\t Learn more about the CHIRPS6 and ARC27 observational datasets and/or download data",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "•\t CHIRPS on HDX8: Download pre-computed tabular data (CSV format) on precipitation totals,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "•\t ARC29: Download 1-month or 10-day cumulative precipitation totals (raster, tabular, image",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "•\t OCHA AnticiPy10: Download raster (NetCDF) data directly from CHIRPS and ARC2 using a",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "6   https://www.chc.ucsb.edu/data/chirps",
+      "page": 7
+    }
+  ]
+}

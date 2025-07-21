@@ -1,0 +1,2580 @@
+{
+  "title": "OCHA-Bucky: A Covid-19 Model to Inform Humanitarian Operations",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Contents",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Contents",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Model Description",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2.1",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2.2",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2.3",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Model Initialization and Output",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Model Open Source Code and Documentation",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgements",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "This model methodology overview was produced by the United Nations Ofﬁce for the Coordination of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian Affairs (OCHA) Centre for Humanitarian Data, in partnership with the Johns Hopkins",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "University Applied Physics Laboratory (JHUAPL). Contributions to the model and corresponding",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "documentation were given by the following members of the JHUAPL Team: Matthew Kinsey, Kate",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tallaksen, R.F. Obrecht, Laura Asher, Cash Costello, Michael Kelbaugh, Howard Burkom, David Maxson,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Shelby Wilson, Jessica Dymond, and Jason Lee. Contributions were also given by the following members",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "of the OCHA Centre for Humanitarian Data: Leonardo Milano, Josée Poirier, and Tinka Valentijn, and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Monica Turner (on secondment from MapAction). This work was made possible with funding from The",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Rockefeller Foundation and the Governments of the Netherlands, Germany, Belgium, and the United",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 2",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Severe acute respiratory syndrome-coronavirus 2 (SARS-CoV2) emerged in Wuhan, China, in November",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2019. By October 2020, this virus had resulted in more than 41.5 million cases of COVID-19 and 1 million",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "deaths. The majority of COVID-19 cases currently being reported are predominantly in developed countries,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "such as the United States, Brazil, Russia, and France. Despite the increasing number of models and stud-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ies on COVID-19, there is very little information available to inform humanitarian response interventions,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the need for which may be unprecedented, particularly where infrastructure is lacking to effectively prevent",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "spread of transmission and treat affected patients.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "In late 2019, the United Nations (UN) Ofﬁce for the Coordination of Humanitarian Affairs (OCHA) Centre",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "for Humanitarian Data created a new workstream for predictive analytics. This was based on demand from",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OCHA’s leadership to “use data, and especially the tools of predictive analytics to get ahead, to be more an-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ticipatory, to predict what is about to happen and to trigger the response earlier.” This ambition aligns with",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the overall goal of the Centre, which is to increase the use and impact of data in the humanitarian sector.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The COVID-19 pandemic has brought into stark focus the need for data and the value of models to inform",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "response strategies. Anticipatory action is no longer an abstract idea but something populations are actively",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "doing by staying home and increasing the number of hospital beds to protect the most vulnerable popula-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "tions.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Epidemic forecasting is one tool through which we can gain an understanding of the ﬁnal outbreak size",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and indicators of when the COVID-19 epidemic peaks in a country. This provides decision-makers with the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "capability to plan, surge, and manage resources during a pandemic. UN OCHA and the Johns Hopkins Uni-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "versity Applied Physics Laboratory have therefore established a partnership to inform COVID-19 strategies",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "for humanitarian interventions by both national authorities and the humanitarian community in selected",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "high-priority countries, resulting in increased technical capacity to predict new and compounded humani-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "tarian needs, and use of data science to arrive at interventions to mitigate them.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This partnership developed a series of adjustments to a novel COVID-19 model (JHUAPL-Bucky) that in-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "corporates different vulnerability factors to provide insights on the scale of the crisis in priority countries",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "at national and sub-national levels, how different response interventions are expected to impact the epi-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "demic curve, and the duration of the crisis in speciﬁc locations. The resultant model (OCHA-Bucky) strati-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ﬁes COVID-19 dynamics by age and population vulnerability. Input to the model consists of geographically",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "distributed COVID-19 cases and deaths, as well as attributes such as inter-regional mobility, population vul-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "nerability, nonpharmaceutical interventions (NPIs) , and social contact matrices. Model output consists of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "future projections of these same quantities, as well as severe cases (deﬁned as a proportion of total cases).",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The model considers both inter-regional mobility of the population and time-varying NPIs. OCHA-Bucky has",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "been used to provide weekly projections to six OCHA country ofﬁces: Afghanistan, the Democratic Republic",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "of Congo, Iraq, Somalia, Sudan, and South Sudan.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The results of this model, when applied in the context of the United States, have been included in the Centers",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "for Disease Control and Prevention (CDC) COVID-19 Mathematical Modeling Forecasting Ensemble [1]. Here,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "we detail the modiﬁcations of the JHUAPL-Bucky model used to shift results to the context of countries in",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "receipt of humanitarian aid.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "A number of critical complementary components must be modiﬁed in order to perform accurate disease",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "modeling within this context. Namely, these include:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Estimating disease parameters;",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Acquiring data sources that accurately reﬂect both the current and historical states of the outbreak;",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Estimating mobility within a country;",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Estimating the impact of secondary/tertiary factors on the vulnerability of a given population;",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Estimations of the effects of measures taken by individuals and governments to curb the spread of",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the disease; and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 3",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "• Estimations of the effects of the above at both the sub-national and national levels.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The following sections describe the OCHA-Bucky model in detail. Section 2.1 gives an overview of the model",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and its components. Further details related to parameter estimation, data sourcing, and model initialization",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "are given in Sections 2.2 and 2.3, respectively. Section 3 details the model input and output. Lastly, this model",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "is publicly available; details about how to access the model as well as the corresponding documentation",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "are given in Section 4.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Model Description",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The JHUAPL-Bucky model is a COVID-19 metapopulation compartment model initially designed to estimate",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "medium-term (on the order of weeks) case incidence and healthcare usage at the second administrative",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(admin-2, ADM2) level (counties in the United States; cities or districts in various countries). These ADM2",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "regions are all coupled using mobility information to approximate the inter- and intra-regional contacts be-",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "tween the members of the populations. Using the historical case and death data, local demographic data,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and a set of parameters derived from empirical studies (Section 2.2.1), the model infers a number of local-",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "ized features (given in Table 1) that are related to the spread of COVID-19. Projecting forward in time, Bucky",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "then uses an age-stratiﬁed compartment model to estimate the case load as well as provide outputs relating",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "to the healthcare burden of each locality. These time forecasts are performed numerous times (Monte Carlo",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "experiments), with each individual simulation using minor modiﬁcations to the input parameters at random,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "scaled to the uncertainty of the estimates. The resulting collection of simulations is then used to obtain",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "probabilistic estimates for all output variables. A fork of JHUAPL-Bucky, the OCHA-Bucky model, addition-",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "ally includes a set of new features to properly handle the unique aspects of epidemic modeling in countries",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "beyond the United States. To this end, the OCHA-Bucky model includes a series of factors related to the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "relative vulnerability of local populations.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.1",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Model Overview",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "At its base, the OCHA-Bucky model is a spatially distributed SEIR model. SEIR models are a class of determin-",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "istic models used to demonstrate how infectious diseases that are spread by person-to-person transmission",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "in a population. The simplest versions of such models are systems of ordinary differential equations and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "are analysed mathematically [2].",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Within the context of an SEIR model, disease dynamics are modeled over time by moving the population",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "through a series of compartments (otherwise known as \"bins\" or \"states\"). Those states are as follows:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Susceptible (S): the fraction of the population that could be potentially subjected to the infection;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Exposed (E): the fraction of the population that has been infected but does not show symptoms yet;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Infectious (I): the fraction of the population that is infective after the latent period;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Recovered (R): the fraction of the population that has been infected and recovered from the infection.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The total population is represented by the sum of the compartments. Basic assumptions of this type of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "model:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Once the model is initialized, no individuals are added to the susceptible group. It follows that births",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and natural deaths are unaccounted for, migration into and out of the region is frozen for the duration",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of a simulation, and none of the population has been vaccinated or is immune to the pathogen;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• The population within each strata is uniform, and each pair of individuals within the strata are equally",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "likely to interact;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• The probability of interaction between individuals in the population is not rare;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "• Once infected, an individual cannot be reinfected with the virus.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 4",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1: Model Diagram. See Table 1 for a description of the compartments and transition parameters. Note",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "that the compartments E, Iasym, Imild, Ihosp and Rhosp are gamma-distributed with shape parameters speciﬁed",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "in the conﬁguration ﬁle.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The OCHA-Bucky model consists of a collection of coupled and stratiﬁed SEIR models. Since COVID-19",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "exhibits heavily age-dependent properties, wherein a majority of severe cases are in older individuals, SEIR",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "models are stratiﬁed via the age demographic structure of a geographic region to obtain accurate estimates",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of case severity and deaths. Additionally, to model the spatial dynamics of COVID spread, we consider a set",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of SEIR sub-models at the smallest geographic level for which we have appropriate data. (See Section 2.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "for a discussion of available data.)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The basic structure of the model is displayed in Figure 1. Age is denoted by index i, and geographic regions",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "are denoted by index j. Within each strata, OCHA-Bucky models the susceptible and exposed populations,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "followed by one of three possible infected states: asymptomatic (Iasym), mild (Imild), and severe (Ihosp). Mem-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "bers of the population who are either asymptomatic or exhibit mild symptoms recover from the virus at a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "rate γ. Those who exhibit severe symptoms and are in need of healthcare support will either recover after a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "period of illness at rate 1/τi or expire as a result of the virus at rate φiγ.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "A critical component of the OCHA-Bucky model is the parameterization of the model (Section 2.2). A number",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of parameters must be derived and/or estimated from their original data sources. These include, but are not",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "limited to, those listed in Table 1 as well as local estimates of local case doubling time, case reporting rate,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "case fatality rate, and case hospitalization rate. Further details of these quantities as well as how they are",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "estimated are given in Section 2.2. All parameter estimation for the model includes the basic assumption",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "that, once estimated and initialized, these parameters remain constant during the simulation period.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Coupling individual age and geographically stratiﬁed sub-models occurs across a number of dimensions",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "including disease state and pre-existing vulnerability. Sub-models are coupled together using both the spa-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "tial mobility matrix (see Section 2.3.3) and age-based contact matrices (see Section 2.3.5). Modeling of the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "overall interaction rates between geographic locations and age groups is an important component in ac-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "curately modeling non-pharmaceutical Interventions (NPIs). OCHA-Bucky accounts for the implementation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of NPIs (e.g., school closures, border closures, face mask wearing) via modifying either the social contact",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "matrices or the basic reproductive number, R0. Further details are given in Section 2.3.6.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Together, these components contribute to a model that is adaptable to a number of contexts. OCHA-Bucky",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "is calibrated to the uncertainties in the case data and the disease parameters, leading to a model that is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "robust to the quality and resolution of available input data.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 5",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Variable",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sij",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Eij",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Ihosp",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Imild",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Iasymp",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Rij",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Rhosp",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Dij",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Parameter",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "βij",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1/σ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ηi(νj)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1/γ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 1: Description of OCHA-Bucky model variables and parameters corresponding to Figure 1.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Model Parameterization",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Disease/Healthcare Parameters",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The CDC has published pandemic planning scenarios [3] that contain recommended parameters describing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "biological and epidemiological factors. Of these ﬁve planning scenarios, OCHA-Bucky uses scenario ﬁve,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "which contains the CDC’s current best estimates for disease severity and transmission. These parameters",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "are described in detail, based on information available from the CDC, and summarized in Table 2.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 6",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Parameter Description",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Bucky Variable Name",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Value (Interquartile Range)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Fraction of infections that are asymptomatic, α",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Relative infectiousness of asymptomatic indi-",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "viduals",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Fraction of transmission prior to symptom onset",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Mean serial interval (days)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Mean generation interval (days)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Case fatality ratio, φi",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Case hospitalization ratio, ηi",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Time from symptom onset to hospitalization",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(days)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Duration of hospitalization (days)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Time between death and reporting (days)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Disease Transmission",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The following parameters describe the transmissibility of the virus. The percentage of infections that are",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "asymptomatic (α) refers to the percentage of infections that will never develop symptoms. This is a difﬁcult",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "parameter to estimate due to logistical complications (individuals would need to be tested to ensure they",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "remain asymptomatic while infectious) and because the level of asymptomatic infections varies by age.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The best estimate for this parameter is the midpoint between the lower bound of [4], the upper bound of [5],",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "which corresponds to the estimates from [6].",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The relative infectiousness of asymptomatic individuals compared to symptomatic individuals (rel_inf_asym)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "is calculated using upper and lower bounds on the difference in viral dynamics between asymptomatic and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "symptomatic cases. The lower bound is derived from data indicating that more severe cases have higher",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "viral loads [7] and a study that indicates symptomatic cases shed for longer and have higher viral loads",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "than asymptomatic cases [8]. Other studies indicate that both symptomatic and asymptomatic cases have",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "similar duration and viral shedding [9], which is used as the upper bound.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The ﬁnal parameter relating to disease transmission is the fraction of transmission prior to symptom onset",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(frac_trans_before_sym), which corresponds to the percentage of new cases caused by transmission from",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "an individual before they become symptomatic. The lower bound is derived from [10], with the upper bound",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "derived from [11].",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 7",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2.1.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Disease Characteristics and Severity",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The mean serial interval, Ts, is the time in days from exposure to onset of symptoms and is taken from [12].",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The mean generation interval, Tg, is the period of time (in days) between symptom onset for one individual",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "and symptom onset for a person they have infected. This value is from [10].",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The case fatality ratio (CFR) is the number of individuals who will die of the disease; the case hospitalization-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "severity ratio (CHR) corresponds to the number of cases that are severe and necessitate hospitalization.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Within the context of the United States, this ratio corresponds to the individuals admitted to a hospital. In a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "context where access to medical care is limited, this ratio corresponds to the ratio of individuals who exhibit",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "severe disease symptoms.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Hospital-related parameters are derived using data from COVID-Net [13] and the CDC’s Data Collation and",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Integration for Public Health Event Response (DCIPHER). All data is taken from the period between March",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1, 2020 to July 15, 2020 unless otherwise noted. The time it takes from symptom onset to hospitalization",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "in days is denoted by I_to_H_time. The number of days an individual will be hospitalized is H_TIME. Finally,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the number of days between death and reporting is D_REPORT_TIME.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.2.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Approximated and Derived Parameters",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Unless otherwise noted, the model parameters that are derived from input parameters1 and the historical",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "data are estimated as the average value across the entire population of a region (i.e., they are not age-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "stratiﬁed). This limitation results from having a lack of age-stratiﬁed historical case and death data in most",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "regions. Additionally, some parameters are only derived at the national (ADM0) level due to sparse reporting",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "at the sub-national level (see footnotes).",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "• Local mean Case Fatality Ratio, φj;",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "We must begin by estimating the local overall CFR for each region based on the local demographics.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Since the fatality rate for COVID-19 is highly age dependent, this overall CFR will vary dramatically",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "between region with different age structure [15]. By contracting the CFR as a function of age with the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "local age demographics of each region, we can obtain the region overall estimate for the CFR,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "• Case Reporting Rate, ρj;",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "In order to estimate the local fraction of COVID-19 cases that are reported in the historical data, OCHA-",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Bucky uses a method similar to Russel et al. [16] based on the deviation from the expected CFR. Using",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the derived CFR and the historical case and death data, the OCHA-Bucky model ﬁrst estimates the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "overall case reporting rate for symptomatic cases at the ADM2 level. This is done using the assumption",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "that the ratio of the expected CFR for each region based on the local demographics, φj to the CFR",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "calculated from the cumulative historical data, φhist",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "In calculating φdata",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The estimated case reporting rate for each of the last X number of days is then calculated; the mean",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "value in each region is used.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "• Doubling Time, TD;",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1Throughout our discussion in this section we make use of Einstein notation[14] to describe the mathematics. This is owed to the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 8",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Rather then explicitly include a parameter controlling the transmission rate, Bucky uses the recent",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "historical data to estimate transmission at the local level 3. The local doubling time TD,j is estimated",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "by ﬁrst considering the historical data prior to the date in which the simulation will begin. Historical",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "data is used to calculate the doubling time for the seven days prior to simulation. These historical",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "doubling times are then averaged to yield the value of TD,j for a particular simulation. Once these",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "values are calculated, methods similar to those described in [17] can be used to estimate the latent",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "period, 1/σ, infectious period, 1/γ, as well as an estimate of the effective R0 value. These methods",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "also yield the shape parameters of the gamma-distributions corresponding to E, Iasym, Imild, and Ihosp",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "compartments.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "• Case Hospitalization Ratio with Vulnerability, ηi(νj);",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "To account for the inclusion of the vulnerability index in OCHA-Bucky, we rescale the population frac-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "tion requiring healthcare support (the CHR, ηi) based on the local fraction of vulnerable population,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "νj:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "where V is the relative severity among the vulnerable population (See 2.3.2 for how this is estimated).",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "• Contact rate between susceptible and infected individuals, βij;",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The quantity βij represents the average number of contacts per person per time, multiplied by the prob-",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "ability of disease transmission in a contact between a susceptible and an infectious subject. Within",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Bucky, this consists of the rate that an individual in age group i in location j gets infected by the virus.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "This depends on three quantities:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.3",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Data Sources",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.3.1",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Population Data",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "In order to estimate the age- and sex-disaggregated population for each ADM2 region two different datasets",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "are combined:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "• Administrative boundaries shapeﬁles at the ADM2 level from the Humanitarian Data Exchange (HDX);",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "• United Nations -adjusted WorldPop age and sex disaggregated population raster data.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Input consists of raster data with the administrative region polygons for the province/state (ADM1) and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "district/county (ADM2) to get total populations for each region, stratiﬁed by age and sex. Then, values are",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "scaled so that the total population is consistent with the regional UN-adjusted population.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.3.2",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Vulnerability Parameters",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The fraction of the population in an ADM2 region that is particularly vulnerable to COVID-19 is estimated by",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "calculating the proportion of the population effected by those factors described in Sections 2.3.2.1 – 2.3.2.4.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "To avoid confounding factors contributing to a population’s increased vulnerability, we select the maximum",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "of these proportions and consider this to be the proportion of the population that is at increased vulnerability",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "to the effects of COVID-19. Those in the population that are considered vulnerable have a higher risk of a",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "severe case or death (and hence a higher CHR and CFR) than non-vulnerable members of a region. Given",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "literature estimates, the vulnerable population is given a CHR that is 1.5 times greater than the average CHR",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "of a region (calculated via age and gender demographic information). 4",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "3In OCHA-Bucky, this estimation if performed at the nation level using WHO case data, similar to the estimation of reported CFR.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 9",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.3.2.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Urban/Rural disaggregation",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Although not a risk factor on its own, there are several vulnerabilities that scale differently with urban and",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "rural populations. The COVID-19 crisis has impacted urban areas signiﬁcantly more than rural areas, due",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "primarily to mobility and proximity to other ADM2 regions, which increase transmission rates. Urban/rural",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "stratiﬁcation is available in raster format from WorldPop. To calculate the urban-rural fraction for each ADM2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "region, data is taken from Global Human Settlement Layer. Based on the classiﬁcations available in [18]",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "anything denser than suburban (class 21 or above) is considered to be urban, and the rest to be rural.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.3.2.2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Food insecurity",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "There is evidence that weight impacts the severity of inﬂuenza and other respiratory viruses [19]. We have",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "used food security as an indicator of population weight and other factors that effect the populations base-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "line ability to respond to respiratory illness. Hence, we scale our our vulnerability factor, νj by levels of food",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "security within the region. Food insecurity data is obtained from the Integrated Food Security Phase Clas-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "siﬁcation (IPC) Global Platform. The proportion of individuals living in regions at IPC level 3 or greater are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "considered at-risk. The data tend to have a mix of information at the ADM1 and ADM2 levels; the most",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "granular data is utilized for this calculation.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.3.2.3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Indoor air pollution - indoor cooking fuels",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The use of indoor cooking fuels is a risk factor for COVID-19 whose prevalence depends on an urban or rural",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "setting. Data on the use of solid fuels is obtained from the World Health Organization. The total fraction of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the population using solid fuels is calculated by re-scaling at each location the urban/rural estimates from",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "WHO by the corresponding urban/rural population fraction estimated according to 2.3.2.1. There is evidence",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "linking indoor air pollution and respiratory illness [20]. Based on the available literature, we estimated that",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "those that used solid cooking fuels are 1.8 times more likely to develop a severe infection.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.3.2.4",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Medical comorbidities",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Medical co-morbidities, such as diabetes, cardiovascular disease, and tuberculosis, were considered as pos-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "sible additional vulnerability parameters for cases and deaths. However, the OCHA-Bucky model does not",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "use these parameters, as they are highly correlated with age and gender, and have little additional impact",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "on vulnerability and death rate estimates.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.3.3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Mobility Data and Matrix Generation",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "A required input of the model is the amount of interaction that occurs between different regions at the sub-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "national level. Mobility matrix data is used to simulate disease spread across different administrative units",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "of a country. The JHUAPL-Bucky model assumes contact between various regions through using a combi-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "nation of various sources of cell-phone based mobility estimates. In the OCHA-Bucky model, due to a lack",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "of mobile phone based estimates, contact between ADM2 regions is approximated through an analysis of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "road network data.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Road density data from Humanitarian OpenStreetMap (HOTOSM) is used to estimate the strength of the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "connection between all ADM2 regions considered. To create the mobility matrix using roads data, a roads",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "shapeﬁle is read, and roads that intersect with at least one ADM2 border are kept. For each road, a list is",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "then created of which ADM2 regions the road passes through. Completing this gives a list of region to re-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "gion pairs, for which geographic distance (between ADM2 geographic centroids) and road connectivity are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "calculated. To calculate road connectivity, road network lines are obtained from HOTOSM on HDX. The road",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "classiﬁcation system from HOTOSM is used to apply weights for each road type, calculated by multiplying",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the estimated typical speed and number of lanes for each road class; connectivity is deﬁned as the sum of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "all roads connecting the region pair.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Road connectivity, the motor vehicle ownership fraction, and the reciprocal geographic distance between",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "regions are all then multiplied together to give estimates of connectivity between ADM2 pairs. Adjacent",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "regions with many large road connections necessarily have higher connectivity values than those which",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "have few small or even no road connections. Long-range or non-adjacent interactions between regions are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "also considered, especially in cases where a road crosses more than two regional boundaries. However,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "the diminishing weakness of non-adjacent ADM2 pairs is captured through the reciprocal of the geographic",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 10",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "centroids; higher values indicate closer regions.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Within the model, the probability of the disease to spread from one ADM2 region to another is proportional",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "to the estimated weights in the mobility matrix.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.3.4",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19 Cases and Deaths",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Sub-national historical daily number of COVID-19 cases are obtained from HDX. In most countries of interest,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the source for COVID case counts is the nation’s Ministry of Public Health. Additional federal (ADM0) histor-",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "ical data is also obtained from the WHO. Data is usually available at the ADM1 level. To obtain ADM2-level",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "case counts, ADM1 case counts are scaled using the ADM2 population.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.3.5",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Contact Matrix",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Contact matrices quantify how much people from different age groups interact, and are extracted from Prem",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "et al. [21]. The contact matrices used are taken from the home, school, work, and other locations. For some",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "countries, the contact matrix is not directly available. In these instances, a country in the same region and",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "with similar socioeconomic indicators is used as a proxy.5",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.3.6",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Non-pharmaceutical Interventions (NPIs)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "NPIs are mitigations, apart from getting vaccinated and taking medicine, that people and communities can",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "take to help slow the spread of communicable diseases. As a vaccine for COVID-19 has yet to be deployed,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "NPIs are among the the best strategies for controlling the spread of the current COVID-19 virus. The struc-",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "ture of the OCHA-Bucky model allows for the incorporation of NPIs via the modiﬁcation of a combination",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "of the following : the basic reproduction number, local contact matrices, and inter-regional mobility matrices.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "For each country an initial list of NPIs was obtained from the ACAPS COVID-19 Government Measures",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Dataset. This dataset is complemented with additional qualitative information from in-country stakeholders.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The estimated compliance level are tailored to speciﬁc countries.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.3.6.1",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Implementation of Nonpharmaceutical Interventions",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "NPIs are categorized and implemented in OCHA-Bucky based on their classiﬁcation into three categories:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1. Contact-Matrix Based NPIs;",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "These NPIs are those that effect only certain age groups within the total population. These NPI effect",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the ratios relating the components of the contact matrices. The NPI that fall under this category are:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2. Mobility Based NPI;",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "This classiﬁcation is for those NPI that lead to changes in mobility/movement between administra-",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "tive districts (as opposed to movement within an administrative district). The NPI that fall under this",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "category are :",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3. Reproduction Number Based NPI;",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "This classiﬁcation is for those NPI that have an effect on the overall scaling of transmissibility. It",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "encompasses both intra-regional measures to reduce transmission as well as national level initiatives",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "designed to reduce transmission throughout the country. The NPI that fall under this category are :",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "5The model from The London School of Hygiene and Tropical Medicine also utilizes this strategy.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 11",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "A summary of the NPIs that are currently implemented in OCHA-Bucky are given in Table 3. This table in-",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "cludes the classiﬁcation, effects, and sources that are currently being used to approximate the effects of",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "various NPI.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "With the current implementation, we have the ability to distinguish between the effects of NPI within the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "categories mentioned above. For the case in which multiple NPI within category III are implemented, we",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "have implemented a value-added approach to calculating their effectiveness in reducing the basic repro-",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "duction number. In this case, we calculate the reduction in R0 based on the number of NPIs in place. If 1 NPI",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "is in place, R0 is reduced by 40%. If 2 NPI are in place, R0 is reduced by 60%. If 3 or more NPI are in place,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "then R0 is reduced by 70%.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "NPI Classiﬁcation",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Effect in Model",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Mean Reduction (SD)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Source",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Contact-based:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "School Closure",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Mobility-based",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Reproduction Number-based",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Model Initialization and Output",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Using the data sources and methods described in Sections 2.2 and 2.3, we are able to both estimate values",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "of parameters initialize the values of all the compartments in the model on the last date of the historical",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "data. This will serve as the initial state of our simulation.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "As output, OCHA-Bucky generates one data ﬁle per Monte Carlo run. The ﬁles contain data at the ADM2",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "level and are indexed by data and run ID. This data is post-processed to combine data across all the dates",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and simulations. It can then be aggregated at desired geographic levels. A separate ﬁle is created for each",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "administrative level, with each row indexed by date, admin ID, and quantile. The columns of this output ﬁle",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "are described in Table 4.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 12",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Index name",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "adm0, adm1, or adm2",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "date",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "quantile",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Column name",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "case_reporting_rate",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "active_asymptomatic_cases",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cumulative_cases",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cumulative_deaths",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cumulative_deaths_per_100k",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cumulative_reported_cases",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "cumulative_reported_cases_per_100k",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "current_hospitalizations",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "current_hospitalizations_per_100k",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "current_icu_usage",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "current_vent_usage",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "total_population",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "daily_cases",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "daily_deaths",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "daily_hospitalizations",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "daily_reported_cases",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "doubling_t",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "R_eff",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "∗indicates model outputs that are not calibrated/validated for the context of low-middle income countries.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Model Open Source Code and Documentation",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Further documentation and resources can be found in the following locations.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "• For documentation related to the United States version of the model (JHUAPL-Bucky) :",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "– The JHUAPL-Bucky model is available on Github at https://github.com/mattkinsey/bucky.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "– Documentation for JHUAPL-Bucky is available at https://docs.buckymodel.com/en/stable/.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "• For the latest resources on the international version of the model (OCHA-Bucky) :",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "– The OCHA-Bucky model is available on Github at https://github.com/OCHA-DAP/pa-ocha-bucky.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "– Documentation for OCHA-Bucky is available at",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 13",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[1] C. for Disease Control, Prevention, et al., “Covid-19 mathematical modeling forecasts,” URL:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "https://www.cdc.gov/coronavirus/2019-ncov/covid-data/mathematical-modeling.html Accessed Octo-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ber, vol. 18, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[2] H. W. Hethcote, Three Basic Epidemiological Models, pp. 119–144. Berlin, Heidelberg: Springer Berlin",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Heidelberg, 1989.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[3] C. for Disease Control, Prevention, et al., “Covid-19 pandemic planning scenarios,” URL: https://www.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "cdc. gov/coronavirus/2019-ncov/hcp/planning-scenarios. html Accessed May, vol. 29, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[4] O. Byambasuren, M. Cardona, K. Bell, J. Clark, M.-L. McLaws, and P. Glasziou, “Estimating the extent",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "of true asymptomatic covid-19 and its potential for community transmission: systematic review and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "meta-analysis,” Available at SSRN 3586675, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[5] P. Poletti, M. Tirani, D. Cereda, F. Trentini, G. Guzzetta, G. Sabatino, V. Marziano, A. Castroﬁno, F. Grosso,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "G. Del Castillo, et al., “Probability of symptoms and critical disease after sars-cov-2 infection,” arXiv",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "preprint arXiv:2006.08471, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[6] D. P. Oran and E. J. Topol, “Prevalence of asymptomatic sars-cov-2 infection: A narrative review,” Annals",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "of Internal Medicine, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[7] Y. Liu, L.-M. Yan, L. Wan, T.-X. Xiang, A. Le, J.-M. Liu, M. Peiris, L. L. Poon, and W. Zhang, “Viral dynamics",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "in mild and severe cases of covid-19,” The Lancet Infectious Diseases, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[8] J. Y. Noh, J. G. Yoon, H. Seong, W. S. Choi, J. W. Sohn, H. J. Cheong, W. J. Kim, and J. Y. Song, “Asymp-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "tomatic infection and atypical manifestations of covid-19: comparison of viral shedding duration,” The",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Journal of Infection, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[9] S. Lee, T. Kim, E. Lee, C. Lee, H. Kim, H. Rhee, S. Y. Park, H.-J. Son, S. Yu, J. W. Park, et al., “Clinical",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "course and molecular viral shedding among asymptomatic and symptomatic patients with sars-cov-2",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "infection in a community treatment center in the republic of korea,” JAMA internal medicine, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[10] X. He, E. H. Lau, P. Wu, X. Deng, J. Wang, X. Hao, Y. C. Lau, J. Y. Wong, Y. Guan, X. Tan, et al., “Temporal",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "dynamics in viral shedding and transmissibility of covid-19,” Nature medicine, vol. 26, no. 5, pp. 672–675,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[11] M. Casey, J. Grifﬁn, C. G. McAloon, A. W. Byrne, J. M. Madden, D. McEvoy, A. B. Collins, K. Hunt, A. Bar-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ber, F. Butler, et al., “Estimating pre-symptomatic transmission of covid-19: a secondary analysis using",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "published data,” medRxiv, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[12] C. McAloon, Á. Collins, K. Hunt, A. Barber, A. W. Byrne, F. Butler, M. Casey, J. Grifﬁn, E. Lane, D. McEvoy,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "et al., “Incubation period of covid-19: a rapid systematic review and meta-analysis of observational re-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "search,” BMJ open, vol. 10, no. 8, p. e039652, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[13] CDC, “The coronavirus disease 2019 (covid-19)-associated hospitalization surveillance network (covid-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "net).”",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[14] Wikipedia contributors, “Einstein notation,” 2020. [Online; accessed 14-October-2020].",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[15] A. Hauser, M. J. Counotte, C. C. Margossian, G. Konstantinoudis, N. Low, C. L. Althaus, and J. Riou, “Esti-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "mation of sars-cov-2 mortality during the early stages of an epidemic: A modeling study in hubei, china,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and six regions in europe,” PLoS medicine, vol. 17, pp. e1003189–e1003189, Jul 2020. 32722715[pmid].",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[16] T. W. Russell, N. Golding, J. Hellewell, S. Abbott, L. Wright, C. A. Pearson, K. van Zandvoort, C. I. Jarvis,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "H. Gibbs, Y. Liu, et al., “Reconstructing the early global dynamics of under-ascertained covid-19 cases",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "and infections,” medRxiv, 2020.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[17] M. Roberts and J. Heesterbeek, “Model-consistent estimation of the basic reproduction number from",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "the incidence of an emerging infection,” Journal of mathematical biology, vol. 55, no. 5-6, p. 803, 2007.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 14",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "[18] A. Florczyk, C. Corbane, D. Ehrlich, S. Freire, T. Kemper, L. Maffenini, M. Melchiorri, M. Pesaresi, P. Politis,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "M. Schiavina, F. Sabo, and L. Zanchetta, “Ghsl data package 2019,” 07 2019.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[19] J.-A. S. Moser, A. Galindo-Fraga, A. A. Ortiz-Hernández, W. Gu, S. Hunsberger, J.-F. Galán-Herrera, M. L.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Guerrero, G. M. Ruiz-Palacios, J. H. Beigel, L. R. I. . S. Group, et al., “Underweight, overweight, and obesity",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "as independent risk factors for hospitalization in adults and children from inﬂuenza and other respira-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "tory viruses,” Inﬂuenza and other respiratory viruses, vol. 13, no. 1, pp. 3–9, 2019.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[20] R. Pérez-Padilla, A. Schilmann, and H. Riojas-Rodriguez, “Respiratory health effects of indoor air pollu-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "tion,” The International Journal of Tuberculosis and Lung Disease, vol. 14, no. 9, pp. 1079–1086, 2010.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[21] K. Prem, A. R. Cook, and M. Jit, “Projecting social contact matrices in 152 countries using contact sur-",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "veys and demographic data,” PLoS computational biology, vol. 13, no. 9, p. e1005697, 2017.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[22] C. R. Wells, P. Sah, S. M. Moghadas, A. Pandey, A. Shoukat, Y. Wang, Z. Wang, L. A. Meyers, B. H. Singer,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "and A. P. Galvani, “Impact of international travel and border control measures on the global spread of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the novel 2019 coronavirus outbreak,” Proceedings of the National Academy of Sciences, vol. 117, no. 13,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "pp. 7504–7509, 2020.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[23] B. J. Cowling, S. T. Ali, T. W. Y. Ng, T. K. Tsang, J. C. M. Li, M. W. Fong, Q. Liao, M. Y. Kwan, S. L. Lee, S. S.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Chiu, J. T. Wu, P. Wu, and G. M. Leung, “Impact assessment of non-pharmaceutical interventions against",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "coronavirus disease 2019 and inﬂuenza in hong kong: an observational study,” The Lancet Public Health,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "vol. 5, pp. e279–e288, May 2020.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[24] C. I. Jarvis, K. Van Zandvoort, A. Gimma, K. Prem, P. Klepac, G. J. Rubin, and W. J. Edmunds, “Quantifying",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the impact of physical distance measures on the transmission of covid-19 in the uk,” BMC medicine,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "vol. 18, pp. 1–10, 2020.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "[25] L. C. Joseph, P.-S. Javier, A. S. Andrew, R. Andrea, and F. Jacques, “Assessing the impact of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "non-pharmaceutical interventions on sars-cov-2 transmission in switzerland,” Swiss Medical Weekly,",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "vol. 150, no. ARTICLE, p. w20295, 2020.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data centre.humdata.org | Join our mailing list: bit.ly/humdatamailing | Twitter: @humdata | Email: centrehumdata@un.org 15",
+      "page": 15
+    }
+  ]
+}

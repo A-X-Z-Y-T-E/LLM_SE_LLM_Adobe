@@ -1,0 +1,3410 @@
+{
+  "title": "The State of Open Humanitarian Data 2023",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "TABLE OF CONTENTS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1. INTRODUCTION    ····················································································    4",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2. KEY MESSAGES     ····················································································    6",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3. GLOBAL OVERVIEW    ···············································································    8",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4. COMPLETENESS BY LOCATION, CATEGORY AND SUB-CATEGORY   ·················     10",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5. COMPLETENESS BY LOCATION AND CATEGORY   ·········································    11",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "6. COMPLETENESS BY LOCATION AND SUB-CATEGORY    ·································    15",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "7. COUNTRY DEEP-DIVE: SOUTH SUDAN    ·····················································    17",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "8. ORGANIZATION DEEP-DIVE: HUMANITARIAN OPENSTREETMAP TEAM   ·········    19",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "9. CONTRIBUTING ORGANIZATIONS    ···························································     21",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "10. CLIMATE IMPACT DATA     ·······································································     22",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "11. CONCLUSION    ·····················································································     23",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX A: DATA GRID SUB-CATEGORY DEFINITIONS    ·····································     24",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX B: INCLUSION OF DATA IN THE DATA GRIDS    ······································    26",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX C: CHANGES TO THE DATA GRIDS    ····················································    28",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ACKNOWLEDGEMENTS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "This report was produced in February 2023 by the United Nations Oﬀice for the Coordination of Humanitarian Aﬀairs",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "(OCHA) Centre for Humanitarian Data, which manages the Humanitarian Data Exchange (HDX) platform. OCHA thanks",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "all of the organizations that have shared data through HDX, the donors who have supported this work over the years,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and the HDX users who are committed to ensuring humanitarian response is data-driven. For additional information,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "contact the Centre for Humanitarian Data at centrehumdata@un.org.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "LIST OF ABBREVIATIONS",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ACLED",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CH                                       Cadre Harmonisé",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CODs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "FAO",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "FTS                                     Financial Tracking Service",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "GAM",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "GIS                                      Geographic Information System",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "HDX",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "HOT                                    Humanitarian OpenStreetMap Team",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "HRP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IATI                                     International Aid Transparency Initiative",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IDP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IOM",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "IPC",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "NGO",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OCHA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OSM                                    OpenStreetMap",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "SAM                                    Severe Acute Malnutrition",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "UNESCO                           United Nations Educational, Scientific and Cultural Organization",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "UNHCR",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "UNFPA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "UNICEF",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "WFP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "WHO                                   World Health Organization",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1. INTRODUCTION",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "In our fourth year of producing \u001f\u001e\u001d\u001c\u001b\u001a\u0019\u001a\u001d\u001c\u0018\u0017\u001c\u0016\u0015\u001d\u0014\u001c\u0013\u0012\u0011\u0019\u0014\u0010\u001a\u0019\u000f\u0010\u0019\u0014\u001c\u000e\u0019\u001a\u0019, we can report the highest levels yet for data",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "availability across priority humanitarian operations. These gains can be attributed to the commitment of",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "organizations to sharing and maintaining their data publicly. There was also strong demand for data about the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "world’s largest humanitarian crises, from the war in Ukraine to drought and food insecurity in the Horn of Africa.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Our understanding of data availability and use comes from managing the Humanitarian Data Exchange (HDX), an",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "open platform for finding and sharing data across crises and organizations.1 In 2022, HDX was used by 1.5 million",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "people in 233 countries and territories, an increase of 8 percent compared with 2021. Organizations added 3,700",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "new and updated datasets, bringing the total to more than 20,400 datasets, which were downloaded over 1.8",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "million times. Although HDX includes data about all countries in the world, we concentrate here on 25 locations",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "with humanitarian response plans (HRPs).2 In 2022, 32 percent of all datasets downloaded from HDX were",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "related to an HRP location.3",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "At the start of 2023, we estimate that 73 percent of relevant, complete crisis data is available across 25",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian operations, based on the analysis of the HDX Data Grids (see criteria below). If we add the data that",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "is relevant but incomplete, the total is 93 percent. This leaves 7 percent of categories with data that does not",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "meet the criteria or with no data. The 25 Data Grids include 459 unique datasets, with a range of 13-22 datasets",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "per location.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "https://data.humdata.org/",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "HRPs are prepared by UN Humanitarian Country Teams in locations where there is an ongoing humanitarian emergency. HRPs are generally",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "We use Mixpanel, a third-party analytics service, to understand the behavior of users on the HDX platform. We do not send identifying information",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "73%",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Data Complete",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "73%",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Data Incomplete",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "20%",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "No Data",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "This report contains details on the data available for each location, category and sub-category covered in the Data",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Grids as of 31 December 2022. It includes a country deep-dive for South Sudan and showcases the work of the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian OpenStreetMap Team (HOT) on community mapping. It also provides examples of how climate",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "impact data is being used to predict the impacts of a hazard on lives and livelihoods and trigger actions to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "mitigate them.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "\u001b\u001a\u0019\u0018\u001c\u0017\u001a\u0019\u001d\u0016\u001a\u0019",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The HDX Data Grids narrow the focus within each HRP location to a limited set of foundational data needed to",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "understand a humanitarian context. They provide a comparable way to assess data availability across locations and",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "categories and are the basis for the analysis in this report.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Data Grids include six categories: aﬀected people; coordination and context; food security and nutrition;",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "geography and infrastructure; health and education; and population and socio-economy. (See Annex A for definitions.)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Data may be included in a Data Grid if it is relevant to the category and sub-national. The data is considered ‘complete’",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "if it has broad geographic coverage, is shared in a commonly used format, and is up-to-date. If any of those criteria are",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "not met, then it is considered ‘incomplete’. The sub-category is complete if it includes at least one dataset that is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "complete. If the sub-category contains only incomplete datasets, then that sub-category is considered incomplete. A",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "sub-category is empty if no data meets the above criteria or the data does not exist on HDX. (See Annex B for the Data",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Grid criteria and curation process.)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In 2022, HDX maintained Data Grids for 25 locations and 20 sub-categories. The number of locations decreased by two",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "from 2021 given that Zimbabwe and Pakistan no longer had humanitarian response plans in 2022. Two sub-categories",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "were removed – transportation status and aﬀected areas – and one was added for climate impact. (See Annex C for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "changes to the Data Grids.)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "We recognize the valuable contributions of all data-sharing organizations publishing data on HDX, and in",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "particular the 18 organizations that populate the Data Grids, with reference to 175 data sources. Datasets",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "included in the Data Grids are downloaded almost five times more than the average dataset on HDX.4 Trusted",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "partnerships and focused advocacy efforts have led to many new or updated datasets in the Data Grids this year,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "including:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• Global malnutrition prevalence rates disaggregated by province in Afghanistan, contributed by OCHA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Afghanistan and sourced to UNICEF.5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• The number of displaced people by sub-prefecture in the Central African Republic (CAR), validated by the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Commission des Mouvements de Population and shared by OCHA CAR.6",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• The impact of floods with disruption to aﬀected populations, destroyed infrastructure and vegetation in Niger,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "contributed by OCHA Niger and sourced to the Ministère de l'Action Humanitaire et de la Gestion des",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Catastrophes du Niger.7",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• Education facilities by type and location in Somalia, compiled by UNICEF and contributed by OCHA Somalia.8",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• Sub-national sex and age disaggregated population statistics for Sudan with updated projections for 2022,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "contributed by UNFPA and sourced to the Central Bureau of Statistics for Sudan.9",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "There were dozens of high-value datasets available on HDX throughout 2022 that go beyond the scope of the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Data Grids. A few examples include:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• The list of voyages completed under the Black Sea Grain Initiative since August 2022, compiled and shared by",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the Joint Coordination Centre.¹⁰",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• Acute food insecurity estimates, cross-border trade and staple food prices for 37 countries, shared by the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Famine Early Warning Systems Network.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• Historical typhoon impact data covering the number of people aﬀected and homes damaged from 2014 to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2020 in the Philippines, compiled and shared by the Netherlands Red Cross.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "• High-resolution population density maps and demographic estimates and the Facebook Social",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Connectedness Index, covering dozens of countries and shared by Meta.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/afghanistan-malnutrition-prevalence",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/statistiques-detaillees-des-sites-pdis-en-republique-centrafricaine",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/niger-situation-des-inondations",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/somalia-education-facilities",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/cod-ps-sdn",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/black-sea-grain-initiative-vessel-movements",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/organization/fewsnet",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/philippines-typhoon-impact-data-2014-2020",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/organization/facebook",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2. KEY MESSAGES",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• The availability of core data for priority humanitarian operations is at its highest levels in the past four years,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "but gaps remain with climate impact data, acute malnutrition prevalence and access constraints, among",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "other areas.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• Since 2019, when the Data Grids were first introduced on HDX, we have seen an increase in data completeness",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "from 54 percent to 73 percent in locations with humanitarian response plans. The categories with no data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "have fallen from 25 percent to 7 percent (see chart below).",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• These gains can be attributed to the strong commitment of organizations to sharing and maintaining their",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "data publicly through the HDX platform.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• There was strong demand for data about the world’s largest humanitarian crises, from the war in Ukraine to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "drought and food insecurity in the Horn of Africa. Data covering Ukraine, Ethiopia and Nigeria was the most",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "downloaded in 2022.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• In 2022, HDX was used by 1.5 million people in 233 countries and territories. Around 1.8 million datasets were",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "downloaded throughout the year.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• We estimate that 73 percent of relevant, complete crisis data is available across 25 locations with",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian operations, based on the analysis of the HDX Data Grids. If we add the data that is relevant but",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "incomplete, the total is 93 percent. This leaves about 7 percent of the Data Grids with no data.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• Over two dozen new organizations joined HDX in 2022, bringing the total to almost 300 organizations.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Eighteen organizations contribute data that is included in the Data Grids.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• The 25 Data Grids included 459 unique datasets, with a range of 13-22 datasets per location. Datasets included",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "in the Data Grids are downloaded almost five times more than the average dataset on HDX.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• South Sudan, Afghanistan and Somalia have the most complete Data Grids. Venezuela, Syria and Libya are the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "countries with the largest data gaps.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• The most complete Data Grid sub-categories are funding, administrative divisions, baseline population, IDPs,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "refugees and persons of concern, and food prices, owing to the work of OCHA, UNFPA, IOM, UNHCR, and WFP.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• Humanitarian crises are dynamic and so is the data needed to understand them. The availability and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "completeness of data will fluctuate year-to-year as new data requirements come into focus.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "• A priority for 2023 will be a continued focus on climate impact data, which is essential for understanding and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "predicting the future impacts of hazards on vulnerable populations. We will also explore implementing data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "quality grades or scores for some datasets included in the Data Grids.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Learn more about our process for statistical disclosure control:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "We call on partners to generate and share data that is missing or incomplete for many humanitarian crises,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "including:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• Access constraints on the delivery of humanitarian assistance (potential sources: national governments,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "access working groups, OCHA).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• Climate impact data covering the previous 10 years of hazards and their impact on people, infrastructure and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "vegetation (potential sources: national governments, disaster risk management agencies, humanitarian",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "partners).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• Global acute malnutrition prevalence rates by administrative division (potential sources: UNICEF, the Nutrition",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Cluster).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• The location of airports (potential sources: aviation authorities, national governments, the Logistics Cluster,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "WFP).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• The location of education facilities (potential sources: national governments, UNICEF, UNESCO, the Education",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Cluster).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "• The location of health facilities (potential sources: national governments, the Health Cluster, WHO).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "In cases where data is sensitive, organizations can use HDX Connect     to share only the metadata and make the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "underlying data available by request. Alternatively, an incomplete or aggregated version of the dataset that",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "removes sensitive information (such as locations) can be shared publicly.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "DATA GRID OVERALL COMPLETENESS  2019 - 2022",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "54%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "73%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "20%",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3. GLOBAL OVERVIEW",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Number of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Locations",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Number of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Categories",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Number of",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Sub-Categories",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Number of Contributing",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Organizations",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The boundaries and names shown and the designations used on this map do not imply oﬀicial endorsement or acceptance by the United Nations.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Data Complete",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "73%",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Data Incomplete",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "20%",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Total Percentage",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "No Data",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "AMERICAS",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "20%",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "73%",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "4. COMPLETENESS BY LOCATION, CATEGORY AND SUB-CATEGORY",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "\u001b\u001a\u0019\u0018\u0017\u0016\u0015",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "\u0001\u0016\u0015\u000e\f\u001d\u0019\u001a\u0016\t\u0010\u0010\u0016\u0011\u001a\u0016\u0013\u0011\u0016\t\u0016\u0012",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "BY LOCATION",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "BY CATEGORY",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "BY SUB-CATEGORY",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "By the end of 2022, there were improvements in data availability across location, category and sub-category. Six",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "countries – Afghanistan, CAR, Nigeria, Somalia, South Sudan and Sudan – no longer have any sub-categories with",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "missing data, although some data remains incomplete in geographic coverage or frequency. The geography and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure category become more complete with data added on populated places for a number of countries.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Overall, the sub-categories with no data decreased from 11 percent to 7 percent year on year.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CAMEROON",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "5. COMPLETENESS BY LOCATION AND CATEGORY",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan (100 percent), Afghanistan (95 percent) and Somalia (90 percent) are the countries with the highest",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "levels of data completeness. The next most-complete locations for data are the Central African Republic",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "(85 percent) and Mali (85 percent).",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Venezuela (40 percent of the sub-categories with no data), Syria (20 percent of the sub-categories with no data)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "and Libya (15 percent of the sub-categories with no data) are the countries with the largest data gaps.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The most complete categories are population and socio-economy (94 percent), aﬀected people (86 percent) and",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "food security and nutrition (81 percent). Health and education is the least complete category at 46 percent, owing",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "to incomplete data for the location of health and education facilities. The most popular category, in terms of total",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "dataset downloads, is geography and infrastructure.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "A total of 459 unique datasets are included in the 25 Data Grids. Each Data Grid includes between 13 to 22 datasets.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "IRAQ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "HAITI",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "SOUTH SUDAN",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "SOMALIA",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "STATE OF PALESTINE",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "MYANMAR",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "NIGERIA",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "VENEZUELA",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "UKRAINE",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "YEMEN",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Coordination & Context",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Food Security & Nutrition",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Geography & Infrastructure",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Health & Education",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Population & Socio-economy",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "6. COMPLETENESS BY LOCATION AND SUB-CATEGORY",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The most complete sub-categories are funding, administrative divisions and baseline population (all at 100",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "percent) followed by IDPs, refugees and persons of concern, and food prices (all at 96 percent), owing to the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "contributions of OCHA, UNFPA, IOM, UNHCR and WFP. Education facilities (32 percent), airports (36 percent) and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian access (40 percent) are the most challenging sub-categories to complete.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u001b\u001e\u001a\u0019\u0019\u0018\u0017\u0016\u0015\u0014\u0013\u0019\u001a\u0012\u001c\u0011\u0017\u0010\u001c\u001b\u0014\u000f\u001e\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u000e\u001c\r\f\u000b\u001c\u001c\u0014\u0017\n\u0017\u0010\u001c\u001b\u0014\u000f\u001e\u0014\u0017\u000f\r\u0017\t\u000f\u001e\u0012\u001c\u001b",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u000e\u001c\u001d\f\u001b\u001e\u001c\u001c\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\b\f\u0007\u001a\u001e\u0015\u001d\u001a\u001b\u0015\u001a\u001e\u0017\u0006\u001c\u001c\u0011\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\b\f\u0007\u001a\u001e\u0015\u001d\u001a\u001b\u0015\u001a\u001e\u0017\u0005\u0012\u0012\u001c\u0014\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0019\u0015\u0007\u001a\u001d\u001c\u0017\u001f\u0007\u0013\u001a\u0012",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0004\u000f\u000f\u0011\u0017\u0003\u001c\u0012\f\u001b\u0015\u001d\u0018",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0002\u0001\u0017\u0017\u0001\u000f\u0017\u0015\u0014\u0017\u0016\u000f\u0015\u001e\u000b\u0017\u0001\u001a\u001d\u0017\u0001\u001c\u001b",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0004\f\u001e\u0011\u0015",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u000f\u001e\r\u0019\u0015\u0012\u001d\u0017\u001c\u001e\u001d\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0005\u0012\f\u001d\u001c\u0017\u001a\u0019\u001e\f\u001d\u001b\u0015\u001d\u0015\u000f",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0004\u000f\u000f\u0011\u0017\u0010\u001b\u0015\u0012\u001c\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0005\u0011\u0007\u0015\u001e\u0015\u0014\u001d\u001b\u001a\u001d\u0015\u001c\u0017\u0016\u0015\u0015\u0014\u0015\u000f\u001e\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0011\f\u0012\u001a\u001d\u0015\u000f\u001e\u0017\u0004\u001a\u0012\u0015\u0019\u0015\u001d\u0015\u001c\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u001a\u0014\u001c\u0019\u0015\u001e\u001c\u0017\u0010\u000f\u0013\f\u0019\u001a\u001d\u0015\u000f",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0010\u000f\u0013\f\u0019\u001a\u001d\u001c\u0011\u0017\u0010\u0019\u001a\u0012\u001c\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u000e\u000f\u001a\u0011\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0005\u0015\u001b\u0013\u000f\u001b\u001d\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\b\u001c\u001a\u0019\u001d\u0017\u0004\u001a\u0012\u0015\u0019\u0015\u001d\u0015\u001c\u0014",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0010\u000f\u001c\u001b\u001d\u0018\u0017\u000e\u001a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u001b\u001a\u001e \u0019\u001a\u001a\u001e \u001d\u0018",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0019\u001a\u001a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0019\u001a\u001a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u0019\u001a\u001a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "AFFECTED PEOPLE",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Internally Displaced Persons",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan Displacement - [IDPs, Returnees] - Baseline",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Assessment [IOM DTM]",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "International Organization for Migration",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "7. COUNTRY DEEP-DIVE: SOUTH SUDAN",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Refugees & Persons of Concern",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Returnees",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan Displacement - [IDPs, Returnees] - Baseline",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Assessment [IOM DTM]",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "International Organization for Migration",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Humanitarian Needs",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan: Humanitarian Needs Overview",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "OCHA South Sudan",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "COORDINATION & CONTEXT",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3W - Who Is Doing What Where",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Funding",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Conflict Events",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian Access",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Climate Impact",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "There has been steady progress with the South Sudan Data Grid over the past year owing to the engagement of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the OCHA Country Oﬀice and humanitarian partners. South Sudan became the first location to reach 100 percent",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "completeness, up from 76 percent complete last year.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The Data Grid includes 20 unique datasets shared by nine organizations. Together, these datasets were",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "downloaded 8,348 times in 2022. The most popular dataset was the administrative boundaries for the country.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Another sought-afer dataset was the number of people aﬀected by flooding, by state and county, over the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "previous two years, which is included in the climate impact sub-category.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan - Data on forcibly displaced populations",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "and stateless persons  UNHCR - The UN Refugee Agency",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "FOOD SECURITY & NUTRITION",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Food Security",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan: Acute Food Insecurity Country Data",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Integrated Food Security Phase Classification",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Acute Malnutrition",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan: Nutrition GAM rates  UNICEF South Sudan",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Food Prices",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "GEOGRAPHY & INFRASTRUCTURE",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Administrative Divisions",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Populated Places",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Roads",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Airports",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "HEALTH & EDUCATION",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Health Facilities",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Health Facilities in Sub-Saharan Africa",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "OCHA South Sudan",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Education Facilities",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan - Village Assessment - Education Facilities",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "[IOM DTM] International Aid DTM",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "POPULATION & SOCIO-ECONOMY",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Baseline Population",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Poverty Rate",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "South Sudan - Food Prices  World Food Programme",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "8. ORGANIZATION DEEP-DIVE:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITARIAN OPENSTREETMAP TEAM",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "The Humanitarian OpenStreetMap Team, known by its acronym HOT, supports humanitarian action and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "community development through open mapping. When disaster strikes anywhere in the world, HOT is able to",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "mobilize thousands of volunteers who come together online and on the ground to create open data that enables",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "disaster responders to reach those in need.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "The data is derived from a crowdsourcing model that leverages OpenStreetMap (OSM), a free, open source,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "editable map of the world. The data is contributed to OSM in one of three ways:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "• In-person, mobile data collection that is focused on the location of specific infrastructure, such as education",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "and health facilities.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "• Remote sensing and digitization from satellite imagery or unmanned aerial vehicles to create building and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "road datasets.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "• Importing existing datasets from governments and organizations.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Given their commitment to open source data and tools, HOT became one of the first organizations to join HDX",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "when it launched in 2014. Since then, they have added over 4,400 datasets covering 249 countries and territories,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "which currently accounts for about 20 percent of all data on HDX. The data includes the essential ingredients for",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "map making: road networks; populated places; airport, railways and port locations; education and health",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "facilities; and rivers and waterways. These details are critical for humanitarians to understand the physical",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "geography and infrastructure of a country, and this data is consistently among the most downloaded on HDX.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "The humanitarian open mapping community, which is currently estimated to be around 423,000 people from",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "around the world,   is continuously updating the data on OpenStreetMap. The HOT and HDX teams realized early",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "on that it would be impossible to keep the datasets on HDX up-to-date without an automated process. In 2016,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "we worked together to build an extension to the HOT Export Tool – called the HOT Bot   – which sends the data to",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "HDX on a regular cycle. This eliminates the complex task of configuring a custom export in the HOT Export Tool",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "and pre-packages the data in common GIS data formats broken down by country and region.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "The datasets exported by HOT are included in the Data Grids if they are deemed to be the best available source for",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "a sub-category. This determination is made by the HDX team in collaboration with the Information Management",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Working Group in each country. In 2022, data attributed to HOT was included in the Data Grids for nine countries",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "covering three sub-categories – airports, populated places and roads.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Source: https://tasks.hotosm.org/",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/user/osm2hdx",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "AFGHANISTAN  AIRPORTS, POPULATED PLACES AND ROADS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "This includes:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Afghanistan (airports, populated places, roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Burkina Faso (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Burundi (populated places, roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Cameroon (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Central African Republic (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Democratic Republic of the Congo (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Libya (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Niger (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "• Ukraine (roads)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Open mapping data is not included in the Data Grids in cases when it is too sensitive to share (e.g., the location of",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "health facilities in an active conflict), or when there is a more complete version of the data available from an",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "oﬀicial source.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "For HOT, data quality is a primary concern. Additions and improvements are contributed by a large number of",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "partners in the humanitarian and development space, as well as commercial partners using OSM data in their",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "workflows and products. To complement existing data validation, HOT and HDX are working to provide additional",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "insights into factors such as data accuracy and completeness.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "In 2022, the data exported by HOT to HDX was downloaded almost 67,000 times by users in 194 countries and",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "territories. Road network data for Afghanistan, Ethiopia and Pakistan were among the most popular. Datasets",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "shared by HOT will continue to be in high demand at the onset of a new crisis, providing first responders with the",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "geographical awareness that is essential for humanitarian action.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "We are grateful to Humanitarian OpenStreetMap for being a steadfast data sharing partner. Visit their site    to",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "learn more about becoming part of the humanitarian open mapping community and explore how to request,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "create and use geospatial data for development and humanitarian purposes.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "https://www.hotosm.org/community/",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "9. CONTRIBUTING ORGANIZATIONS",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Out of the 293 organizations    sharing data on HDX, 18 contribute data that is included in the Data Grids, with",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "reference to 175 data sources. These 18 organizations are consistently among the top organizations on HDX with",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "the most datasets downloaded. OCHA is counted as a single organization even though over 30 field oﬀices    and",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "two entities at Headquarters contribute data to HDX. In total, OCHA field oﬀices contributed 214 datasets or 43",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "percent of all data in the Data Grids.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Armed Conflict Location & Event Data Project",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Food Security and Nutrition Working Group, West and Central Africa",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Global Healthsites Mapping Project",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Geo-Referenced Infrastructure and Demographic Data for Development",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian OpenStreetMap Team",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Insecurity Insight",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Integrated Food Security Phase Classification",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "International Aid Transparency Initiative",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "International Organization for Migration",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Myanmar Information Management Unit",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "United Nations Oﬀice for the Coordination of Humanitarian Aﬀairs",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "OurAirports",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Oxford Poverty & Human Development Initiative",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "REACH Initiative",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "United Nations Population Fund",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "United Nations High Commissioner for Refugees",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "United Nations Children’s Fund",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "World Food Programme",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "An organization on HDX can be a legal entity or an informal group and may be listed as the source or the contributor of the dataset. The entities listed in",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "https://www.unocha.org/where-we-work/ocha-presence",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "This covers UNICEF oﬀices in two countries: DRC and South Sudan.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "10. CLIMATE IMPACT DATA",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The most significant change to the Data Grids in 2022 was the inclusion of a new sub-category for climate impact",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "data. This data should contain the current and historical impacts of climate events relating to floods, droughts",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "and storms, as well as their location, date and impact on aﬀected populations, infrastructure and/or vegetation.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "By the end of the year, this sub-category was 68 percent complete with data missing for seven countries with",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian operations.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "With the climate crisis intensifying emergencies around the world, humanitarians are increasingly having to",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "incorporate climate data and forecasts into their analysis and planning. This is especially the case for anticipatory",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "action, which relies on models to predict the impacts of a hazard on lives and livelihoods and trigger actions to",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "mitigate them.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Since 2019, the Centre has supported OCHA’s anticipatory action pilots for various hazards in twelve countries.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "This has ranged from drought in Chad and Somalia to floods in Nepal and Bangladesh. Our technical support",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "involves conducting historical analysis of the hazard and its impact, assessing available models and forecasts,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "and designing trigger mechanisms for the release of funds. By the end of 2022, the UN Central Emergency",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Response Fund had released $89 million    in funding for anticipatory action based on trigger mechanisms",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "developed by the Centre and OCHA oﬀices.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Three types of climate data are used to build, evaluate and validate trigger mechanisms:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "•  data on what happened (the hazard)",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "•  data on the damage (the impact)",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "•  data on what is likely to happen next (the forecast)",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The data that is most ofen missing for this analysis is the impact data. Without it, we are not able to model the",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "expected impacts of future shocks.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "As an example, in Niger we used household survey data to understand the impact of seasonal rainfall levels on",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "livelihoods. Once we understood this, we were able to use seasonal rainfall forecasts to inform humanitarian",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "partners about the likely impact of a below average season. Similarly, in the Philippines    we worked with the",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Netherlands Red Cross to use historical typhoon track and rainfall data to train a model that estimates housing",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "damage caused by typhoons. This model is now being used to estimate the expected impact based on typhoon",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "forecasts provided by meteorological institutions. A historical typhoon impact dataset,    covering 2014 to 2020,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "is now available on HDX.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "By the end of 2022, eighteen climate impact datasets had been added to HDX and the Data Grids, in collaboration",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "with OCHA oﬀices and partners. A few examples include:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "• Mozambique: Data on the number of people aﬀected by cyclones at the district level from 2016 to 2022, shared",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "by OCHA Mozambique and produced by Instituto Nacional de Gestão e Redução do Risco de Desastres.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "• Mali: Data on the number of people aﬀected, houses destroyed, water and sanitation infrastructure damaged",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "and livestock lost as the results of seasonal floods, shared and maintained by OCHA Mali.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "• Burundi: Data on the impact from floods and heavy rains on populations, infrastructure and/or vegetation,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "shared by IOM via OCHA Burundi.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://centre.humdata.org/anticipatory-action/",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "The $89 million has been allocated for drought in Niger, Somalia and Ethiopia; for flooding in Bangladesh, South Sudan and Nepal; and for",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://centre.humdata.org/peer-review-of-510s-typhoon-model-and-its-use-in-the-philippines/",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/philippines-typhoon-impact-data-2014-2020",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/impact-of-cyclones-2016-to-2022",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/mali-suivi-des-inondations",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dataset/burundi-emergencies-tracking-tool-ett",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "11. CONCLUSION",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "BURUNDI: CLIMATE IMPACT TRENDS 2018-2022",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Beyond the Data Grids, we are also looking to make a wider set of climate data more accessible to the HDX",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "community. For example, WFP recently shared earth observation datasets    on rainfall and vegetation health",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "covering 33 countries with either a humanitarian response plan or an anticipatory action framework. With this",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "data, humanitarians can assess current drought conditions and also analyze historical trends to anticipate the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "impact of rainy seasons.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Despite this progress, climate impact data remains scarce for certain types of climate shocks and locations and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "the historical time period is ofen limited. In the year ahead, we plan to share practical guidance on how to",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "interpret and use common forecasts, such as seasonal rainfall forecasts or riverine flood projections. And we are",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "developing tools    to make it easier for humanitarians to use climate data.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/organization/wfp?q=climate",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "https://github.com/OCHA-DAP/ocha-anticipy",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "https://data.humdata.org/dashboards/overview-of-data-grids",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "We will continue to update the Data Grids throughout the year as organizations share new, relevant data. The",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "current status for each location is always available on HDX, both on the relevant location page and on the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Overview of Data Grids page.    As part of our internal Data Grid Governance Group, we will regularly review the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "categories and sub-categories to see if they should be removed or expanded.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "A priority for 2023 will be a continued focus on climate impact data, which is essential for understanding and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "predicting the future impacts of hazards on vulnerable populations. We will also explore implementing data",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "quality grades or scores for some datasets included in the Data Grids.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "We welcome feedback on possible improvements. Please be in touch with questions or comments at",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "centrehumdata@un.org.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX A: DATA GRID SUB-CATEGORY DEFINITIONS",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Aﬀected People",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Coordination &",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Context",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Internally Displaced Persons",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Refugees and Persons of Concern",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Returnees",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian Needs",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "3W - Who is doing What Where",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Funding",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Conflict Events",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian Access",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Climate Impact",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "CATEGORY",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Food Security &",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Nutrition",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Food Security",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Acute Malnutrition",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Food Prices",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Geography &",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Infrastructure",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Health & Education",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Population &",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Socio-economy",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "CATEGORY",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Administrative Divisions",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Populated Places",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Roads",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Airports",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Health Facilities",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Education Facilities",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Baseline Population",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Poverty Rate",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX B: INCLUSION OF DATA IN THE DATA GRIDS",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Data Grid curation involves the careful evaluation of datasets on HDX for inclusion in one or more of the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "sub-categories in accordance with our standard criteria. The HDX team conducts this evaluation when a dataset is",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "newly added or updated on HDX.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The HDX team supports the Data Grids in three ways:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "1. Reviewing whether any dataset on HDX could be added to a Data Grid;",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "2. Conducting targeted outreach with humanitarian organizations to find relevant datasets; and",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "3. Identifying potential datasets with partners in the research community, academia and/or government",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "agencies.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The first step in determining whether a dataset should be included in a Data Grid is to check whether the dataset",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "meets the thematic requirement defined in Annex A. Datasets that are not considered relevant are automatically",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "excluded.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The second step is to determine if the dataset is sub-national. To fulfill this requirement the data must be",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "disaggregated to at least the first administrative division. If the data is only available at the national level, it is",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "typically excluded. The sub-national requirement has been partially or completely waived for three datasets:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "UNHCR’s data on forcibly displaced populations and stateless persons; OCHA FTS’s requirements and funding",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "data; and IATI activities data.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The third step is to assess whether a thematically relevant, sub-national data set is complete or incomplete. A",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "dataset is considered complete if it satisfies all of the following criteria:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "1. Broad geographic coverage;",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "2. Available in commonly used formats; and",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "3. Timely (full definitions are given below).",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "If the dataset does not satisfy one or more of these criteria, it is considered incomplete.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Finally, the dataset is compared against existing datasets for that location to determine if it should be added to",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the Data Grid. If the sub-category is empty, or if the data would complement other datasets in a sub-category, the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "HDX team will add it to the Data Grid. A complementary dataset is one that adds unique and useful information to",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the sub-category.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The IATI datasets are a good example of a complementary dataset as they add unique and useful information to",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the 3W sub-category. Another example is a dataset that provides data for a geographic area not covered by the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "existing dataset. If there is already a complete dataset available for the sub-category, the HDX team will reach out",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "to in-country partners to determine which dataset is being used operationally and that dataset will be included in",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the Data Grid.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The sub-category is considered complete if it has at least one complete dataset available for the sub-category. If",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "the sub-category contains only incomplete datasets, then that sub-category is considered incomplete. Overall",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "category completeness refers to the proportion of sub-categories in the category that are complete. Similarly,",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "completeness for a location refers to the proportion of sub-categories that are complete in the location.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Sub-categories are considered empty if no datasets on HDX meet the above-mentioned criteria. In general, data",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "can be missing for three reasons:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "See Annex C of The State of Open Humanitarian Data 2022 for the information on the decision-making process for sub-national dataset waivers:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "https://bit.ly/3YbKeDM",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "1. It is not collected (e.g., because nobody is present to do so, because it is unsafe to access areas to collect",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "it, because it requires investment and resources that are not available, or because nobody prioritizes it",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "as a gap to fill).",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "2. It is collected but not publicly shared (e.g., because the collecting organization does not have an open",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "data policy, because the data is sensitive and should not be shared, because the collecting entity fears",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "sharing the data with actors they do not know and trust, or because of a lack of resources to clean and",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "share it).",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "3. It is collected and shared but is not shared on HDX, or known about by the HDX team.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "DETAILED COMPLETENESS CRITERIA",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "The criteria for evaluating completeness for relevant, sub-national data are detailed below:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Does the data have broad geographic coverage with explicit location information?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "•  Is the dataset geographically comprehensive, or as comprehensive as possible? If the dataset is",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "disaggregated by administrative divisions, does it cover all of them? If it does not, is the meaning of a",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "missing administrative division defined in the metadata? If there is no comprehensive list to compare",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "against (for example, with spontaneous displacement locations), does the dataset make it clear if it",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "attempts to be comprehensive or not?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "•  Are location references defined? The dataset should contain explicit geographic data (i.e., Geographic",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Information System data or tabular data with latitude and longitude fields). If not, the dataset should be",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "joinable to an available dataset that defines those locations.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Is the data in commonly-used formats?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "•  Is it stored in a common file format? We include CSV, XLS, XLSX, SHP, GEOJSON, etc. Formats like GPKG",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "and others that are more diﬀicult for the typical humanitarian data specialist would be marked",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "‘incomplete.’",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "•  Is the data tidy? Field names and data rows should be easy to determine. There should not be sub-total",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "rows interspersed with data rows. The required data for the category should be in a single table on the",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "same tab. For tabular data with coordinates, the x and y columns (usually longitude and latitude) should",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "be in decimal degree format and separated into two columns.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Is the data timely?",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "•  Has the dataset become out of date? Depending on how frequently the dataset is expected to be",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "updated, the HDX team considers the age of the data and whether the dataset should have been",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "superseded.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data   centre.humdata.org    |    Join our mailing list   bit.ly/humdatamailing    |    Twitter   @humdata    |    Email   centrehumdata@un.org",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "ANNEX C: CHANGES TO THE DATA GRIDS",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Over the last year, we have continued to solicit feedback from OCHA field oﬀices and our partners to ensure that",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "the sub-category definitions and curation criteria reflect data needs in humanitarian operations. The Data Grid",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Governance Group discusses the feedback that we receive and makes decisions around changes to the Data",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Grids.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "In 2022, the Data Grid Governance Group met three times and approved the following changes:",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "1) Adding a sub-category for climate impact",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "We expanded the Data Grids to include a new sub-category for climate impact which covers current and historical",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "hazards and their impact on people, infrastructure and/or vegetation. Read more about this decision in our blog",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "post from November 2022.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "2) Removing sub-categories for transportation status and aﬀected areas",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "a. Transportation status: The diﬀerence between the transportation status and roads sub-categories was",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "ofen unclear. In more than 35 percent of locations, the same dataset was used for both sub-categories.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "b. Aﬀected areas: The definition for the aﬀected areas sub-category focused on the type and/or severity of",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "geographical impacts. This was interpreted diﬀerently across locations, making it an inconsistent",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "measure for data availability. When the sub-category was complete, it was a mix of data on the impact of",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "climate events and the severity estimates included in a Humanitarian Needs Overview dataset.",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "https://centre.humdata.org/prioritizing-climate-impact-data/",
+      "page": 26
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "BENEFIT-COST ANALYSIS TOOLKIT V5.1 SYSTEM REQUIREMENTS",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "BENEFIT-COST ANALYSIS TOOLKIT V5.1 SYSTEM REQUIREMENTS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "You need to have full local administrative rights on the computer on which you will install the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "software, or have someone who has adequate rights perform the installation for you.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Additionally, manually perform a Microsoft (MS) Windows update to ensure that you have latest",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "service packs and security patches prior to performing the installation.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The following are the minimum system requirements to run the BCA software successfully:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Processor",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "32-Bit Systems: 1-Gigahertz (GHz) or faster processor recommended.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "64-Bit Systems: 2-GHz or faster processor recommended.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Framework",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "If the following items are not already installed, the BCA installation program will attempt to install",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "them.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Microsoft .NET Framework 2.0 and 3.5",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SQL Server Express 2008",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Operating Systems",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Windows XP with Service Pack 2 or later",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Vista (32-bit or 64-bit) with Service Pack 2 or later",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Windows 7 (32-bit or 64-bit) with Service Pack 1 or later",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Windows 8 with Service Pack 1 or later",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Windows 8.1",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Memory",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1 gigabyte (GB) minimum; 2 or more GBs recommended.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Hard Disk",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Approximately 2 GB of available hard-disk space for the recommended installation.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Display",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Super VGA (1,024x768 pixels) or higher-resolution video adapter and monitor.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Other Requirements",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. Microsoft Internet Explorer 6.0 Service Pack 1 or later.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. PDF reader, such as Adobe Reader 7.0 or later.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3. An unzip utility.",
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,6775 @@
+{
+  "title": "Microsoft Word - 331-234_3-9-04_CCC_for_Small_Water_Systems.doc",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Guidance Document:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Cross-Connection Control",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "for Small Water Systems",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "March 2004",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "DOH PUB. #331-234",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Guidance Document:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Cross-Connection Control",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "for Small Water Systems",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "March 2004",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For more information or additional copies of this publication contact:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Contents",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Foreword…………………………….………………………………………….viii",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgement……………………………………………………………..viii",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1.0 Purpose………………………………………………………………….…..1",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2.0 Introduction",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "3.0 State and Federal Regulations and Jurisdictions",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.0 Cross-Connection Control Regulations for Public Water",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Systems in Washington State",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "5.0 Reasons for Cross-Connection Control Programs",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "6.0 Starting a Program",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "7.0 Implementing a Cross-Connection Control Program",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "8.0 Cross-Connection Control Regulations and Related Materials",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Appendices",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Appendix A Example Cross-Connection Control Program and Legal",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Appendix B Example Cross-Connection Control Program and Legal",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Appendix C Backflow Incident Response Plan for a Small Water",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Appendix D Program Administration Documents ..................................207",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Appendix E Annual Summary Report Forms.........................................231",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Appendix F Cross-Connection Control Resource Information..............243",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Illustrations",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Backsiphonage Backflow Hazard...........................................................................4",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Tables",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "General Installation Guide for Premises Isolation ...............................................10",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Figures",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Regulation of Drinking Water...............................................................................12",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Foreword",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgement",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 1. Purpose",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 2. Introduction",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "2.1",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "1. The potable water supply piping must be unprotected (or improperly protected) from a cross",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2. A physical cross connection must be made between the potable water supply piping and a",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3. Backflow conditions must occur.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Backflow is the flow of water (or other solid, liquid, or gas from any source) back into the potable",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "2.2",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Backsiphonage is backflow caused by a negative pressure (vacuum or partial vacuum) in the supply",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Illustration 1",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "2.3",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Backpressure is backflow caused by pressure in the customer's plumbing being greater than the",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1. The fire department withdraws water from a hydrant.  This reduces the pressure in the",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2. A customer served by the public water system installed a lawn irrigation system.  The",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3. On the day of the fire flow situation, the normally closed valve between the household",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "4. Backflow wouldn’t normally occur at this customer’s connection, because the pressure in",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5. When the fire flow ends, pressure in the public water system water main increases, and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "2.4",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1. An approved air gap (AG) that provides a physical separation between the contaminant and",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2. Mechanical devices or assemblies that prevent backflow from occurring.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "created equal.  Thus, not all mechanical devices and assemblies provide equivalent backflow",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "protection.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "1. Backflow application conditions;",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "2. Degree of hazard;",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "3. Design;",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "4. Approval requirements; and",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "5. Use for premises isolation.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "1. Devices",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "2. Assemblies",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "1. Air gaps (AG);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "2. Reduced-pressure backflow assemblies (RPBA);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "3. Reduced-pressure detector assemblies (RPDA);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "4. Double-check valve assemblies (DCVA);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "5. Double-check detector assemblies (DCDA);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6. Pressure vacuum breaker assemblies (PVBA);",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "7. Spill-resistant vacuum breaker assemblies (SVBA); and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "8. Atmospheric vacuum breakers (AVB).",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Degree of Health Hazard",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Approved",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Backflow",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Preventer Type",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 3. State and Federal Regulations and Jurisdictions",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "3.1",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "The 1974 Safe Drinking Water Act and subsequent amendments (through 2002) do not",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "specifically address the topic of cross-connection control.  However, the U.S. Environmental",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Confusion about cross-connection control has arisen, due to the belief by some purveyors that,",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "However, under the SDWA, purveyors are only responsible for the water quality delivered to",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "customers at the meter.  The purveyor is not responsible for contaminants added to the water by",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Under the SDWA, the federal government may grant state governments \"primacy\" for the",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Washington is a primacy state.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "State",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 43 of the Revised Code of Washington assigns to DOH the responsibility to \"Review and",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "water system as “any system, excluding a system serving only one single-family residence and a",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "facilities under control of the purveyor and used primarily in connection with the system.\"  This",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "3.2",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "The following discussion provides basic information about the respective jurisdictions of DOH, the",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "Figure 2",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Washington State",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Washington State",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "3.2.1 Washington State Department of Health Regulates Cross-Connection",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "3.2.2 Other State Agencies with Plumbing-Related Cross-Connection Control",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Washington State Building Code Council",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Washington State Department of Labor and Industries",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Summary",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "In summary, a DOH-certified BAT must test any assembly that the purveyor relies upon to protect",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Illustration 3",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "PWS",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "3.3",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 246-290 WAC is the primary document currently used by DOH to administer the RCWs",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 4.  Cross-Connection Control Regulations for Public Water",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Systems in Washington State",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "4.1",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "4.2",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Note:  No public health protection is obtained when a system develops but fails to",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "1. Require purveyors to use good engineering and public health protection practices.",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "2. Give purveyors the option to use as guidance the most recently published editions of the",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "3. Give purveyors the option to establish CCC program requirements that are more stringent",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "1. Premises Isolation Program, where all backflow prevention assemblies that protect the",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "2. Combination program, where premises isolation backflow preventers are installed for high",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "In summary, under WAC 246-290-490, purveyors are only required to maintain records on the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "1. Cross connection exists and is not controlled commensurate with the degree of hazard;",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "2. Customer fails to comply with the purveyor's requirements for installation, inspection,",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "1. Denying or discontinuing water service to the non-complying customer;",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "2. Requiring the customer to install an approved backflow preventer commensurate with the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "3. Installing an approved backflow preventer for premises isolation.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Backflow results in the unintended return of used water, i.e., water that has left the control of the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "4.3",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Element 1:  Establish Legal Authority",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "1. Establishes the purveyor's legal authority to implement a CCC program;",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "2. Describes the operating policies and technical provisions of the purveyor's CCC program;",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "3. Describes the corrective actions used to ensure that consumers comply with the purveyor's",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Element 2:  Procedures/Schedules for Hazard Evaluations",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "1. For new connections made on or after the effective date of the DOH CCC regulations (i.e.,",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "2. For existing connections made prior to the effective date of the DOH CCC regulations",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 3:  Procedures/Schedules to Eliminate/Control Cross Connections",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "1. Cross connections are eliminated whenever possible;",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "2. Cross connections are controlled by installation of approved backflow preventers",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "3. Approved backflow preventers are installed in accordance with the requirements of WAC",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 4:  Provide Qualified Personnel",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 5:  Procedures/Schedules for Backflow Preventer Inspection and Testing",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 6:  Assembly Testing Quality Assurance/Quality Control (QA/QC)",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 7:  Backflow Incident Response Plan",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Element 8:  Public Education",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Element 9:  Establish/Maintain Cross-Connection Control Records",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "1. A master list of service connections and/or consumer's premises where the purveyor",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "2. Inventory information on:",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "3. Cross-connection program annual summary reports and backflow incident reports",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Element 10:  Meet Additional Reclaimed Water Requirements",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 5. Reasons for Cross-Connection Control Programs",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "5.1",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "The greatest health risk to consumers served by public water systems lies in the introduction of a",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "1. Microbiological contaminants;",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "2. Chemical contaminants; and",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "3. Physical contaminants.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Figure 3",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "5.1.1 Microbiological Contaminants",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "In cross-connection control, waterborne diseases are the primary public health concern (e.g.,",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "1. Type of organism;",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2. Quantity ingested; and",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "3. Strength of the person's immune system.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "1. Source water quality.  The quality of the source water, if poor, may enhance bacterial",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "2. Condition of distribution system piping.  The condition of distribution system piping, if",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "5.1.2 Chemical Contaminants",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "Acute toxic conditions from chemical contaminants are of most concern in cross-connection",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "1. Type of chemical;",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "2. Quantity ingested; and",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "3. Immune system of the person exposed.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "5.1.3 Physical Hazards",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "5.2",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Protection Afforded Through the Purveyor’s Programs",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Cross-Connection Control Programs.  These programs help protect the public water",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Public Health Protection Afforded Through the Plumbing Code and Plumber Certification Law",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "In addition to the plumbing code, in Washington, there are also laws and regulations that",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "through backflow often results in immediate adverse health effects (illness or death of one or",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "However, cross-connection control programs are an integral barrier in the multiple barrier",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "5.3",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "In general, the purveyor's liability may flow from the following sources:",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "1. Fine or imprisonment for a breach of a statute; and/or",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Section RCW 70.54.020 Furnishing Impure Water - Penalty",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "1. Complies with regulatory requirements set forth in the drinking water regulations (WAC",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "2. Follows the \"standards\" of the water industry for the application of backflow assemblies;",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "3. Includes the installation of approved backflow prevention assemblies;",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "4. Includes the installation of backflow assemblies and devices in accordance with industry",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "6. Includes the testing of backflow assemblies by certified testers (the certification establishes a",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "7. Includes procedures for investigating backflow incidents and restoring water quality after an",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "In the absence of specific contract terms to limit liability, all parties involved in cross-connection",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "1. Knew (or ought to have known) about the dangerous condition; and",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "2. Took reasonable steps within his/her control to prevent contamination of the water system.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 6. Starting a Program",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "6.1",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "1. Combination Programs",
+      "page": 51
+    },
+    {
+      "level": "H2",
+      "text": "2. Premises Isolation Programs",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "3. Joint Purveyor and Local Administrative Authority Programs",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "4. Non-Community System Programs",
+      "page": 52
+    },
+    {
+      "level": "H2",
+      "text": "6.2",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "1. Program Type (e.g., premises isolation only);",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "2. Extent of Coordination (with Local Administrative Authority);",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "3. Corrective Action;",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "4. Service Agreements;",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "6. Cross-Connection Specialist Options;",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "7. Testing of Assembly Options; and",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "8. Cost Recovery.",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "6.2.1 Types of Programs",
+      "page": 53
+    },
+    {
+      "level": "H2",
+      "text": "For all CCC program types, mandatory premises isolation is required for high health hazard",
+      "page": 53
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "Agricultural (farms and dairies)",
+      "page": 54
+    },
+    {
+      "level": "H2",
+      "text": "+RPBAs for connections serving these premises are acceptable only when used in combination with an in-plant",
+      "page": 54
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "When establishing a cross-connection control program, the purveyor must first determine",
+      "page": 55
+    },
+    {
+      "level": "H2",
+      "text": "Premises Isolation Programs",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "1. Identifying all customers of the high health hazard type such as those categories listed in",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "2. Ensuring the installation of the required RPBA or AG.",
+      "page": 55
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "The minimum premises isolation program offers the purveyor the minimum level of public health",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "Combination Programs (Reliance on Premises Isolation and In-Premises Assemblies)",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "In a combination program, the purveyor may rely on in-premises backflow assemblies (at the",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "plumbing fixture) for all non high-hazard connections (i.e., where premises isolation is not",
+      "page": 56
+    },
+    {
+      "level": "H2",
+      "text": "connection increases.",
+      "page": 56
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "1. Complex plumbing arrangements or plumbing potentially subject to frequent changes that",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "2. A repeat history of cross connections being established or reestablished; or",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "3. Cross-connection hazards that are unavoidable or not correctable, such as, but not limited to",
+      "page": 57
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "The above sections have discussed two major types of cross-connection programs that purveyors",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Table 3",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Type of Program",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Premises Isolation Only",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "Purveyors can use the following table to document the policy decision made regarding what type of",
+      "page": 58
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Type of Program (check one)",
+      "page": 58
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 59
+    },
+    {
+      "level": "H2",
+      "text": "6.2.2 Extent of Coordination",
+      "page": 59
+    },
+    {
+      "level": "H2",
+      "text": "Exchange of Information Program",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "1. Notify the Local Administrative Authority (local building official/plumbing inspector) of the",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "2. Request to be notified by the Local Administrative Authority of all permits for new",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "3. Notify the Local Administrative Authority of any enforcement action in which water service",
+      "page": 59
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 60
+    },
+    {
+      "level": "H2",
+      "text": "Interaction Level of Coordination",
+      "page": 60
+    },
+    {
+      "level": "H2",
+      "text": "Combined/Joint Program Level of Coordination",
+      "page": 60
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Table 4",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "Extent of Coordination – Recommended Application",
+      "page": 61
+    },
+    {
+      "level": "H2",
+      "text": "Information Exchange",
+      "page": 61
+    },
+    {
+      "level": "H2",
+      "text": "Written Agreements",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "1. Define the purpose of the joint program;",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "2. Identify the parties to the agreement;",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "3. Define terms used in the agreement (e.g., health hazard);",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "4. Cite the regulations that the combined program is based upon (e.g., WAC 246-290, UPC);",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "5. Cite the authority (e.g., ordinance or council vote) to enter into a written agreement and",
+      "page": 61
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "7. Describe the general policy regarding type of program to be implemented (e.g., premises",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "8. Delineate the respective responsibilities of the purveyor and Local Administrative",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "9. Identify the responsibilities that have been delegated to or by the purveyor and Local",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "10. Describe administration procedures;",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "11. Designate the entity/person ultimately responsible for overall program supervision (i.e., who",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "12. Provide detailed operating procedures for:",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "13. Include procedures for responding to:",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "14. Describe enforcement procedures for:",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "15. Identify certified backflow assembly tester (BAT) and CCS requirements;",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "16. Include procedures for record-keeping and notifying customers for testing, etc.;",
+      "page": 62
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "18. Contain provisions for amending and/or canceling the written agreement; and",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "19. Delineate responsibilities for various program costs, cost recovery and transfer of funds",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "The purveyor can use the following table to document the decision made regarding the extent of",
+      "page": 63
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Extent of Coordination (check one)",
+      "page": 63
+    },
+    {
+      "level": "H2",
+      "text": "6.2.3 Relationship to Customer",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Legally binding conditions of service; and",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "Remedy afforded to the purveyor for the customer's breach of contract.",
+      "page": 63
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "1. Be in writing and signed by the customer or authorized agent of the customer;",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "2. Be short, but explicit (in that the customer agrees to the service policy of the purveyor",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "3. Clearly state the corrective action the purveyor will take, when the customer fails to comply",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "4. Include by attachment the purveyor's written service policy and standards.",
+      "page": 64
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "1. Discontinue water service, if the customer failed to comply with the requirement for testing,",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "2. Require the customer to install a backflow preventer for premises isolation on the service",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "3. Install a backflow preventer for premises isolation on the customer’s service line, if the",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "1. Request for a new or additional connection;",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "2. Change in ownership of premises; and/or",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "3. Change of water use on the premises (e.g., through building expansion, change from",
+      "page": 65
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "Table 5 summarizes the major advantages and disadvantages of having written service agreements.",
+      "page": 66
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Relationship with Customers",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Service Agreements",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "Purveyors can use the following table to document whether their business relationship with",
+      "page": 67
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Relationship with Customers",
+      "page": 67
+    },
+    {
+      "level": "H2",
+      "text": "6.2.4 Enforcement of Corrective Actions [Element 1]",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "1. Fails to test or maintain the assemblies; or",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "2. Makes a change to the plumbing system that necessitates the installation of additional",
+      "page": 67
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "The failure of a customer to comply with purveyor's requirement for inspection, testing, etc., may",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "1. A significant financial loss to the customer;",
+      "page": 68
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "3. A public health hazard to employees and/or residents of the premises (e.g., apartment",
+      "page": 69
+    },
+    {
+      "level": "H2",
+      "text": "For situations other than the public health emergencies cited above, rather than face the",
+      "page": 69
+    },
+    {
+      "level": "H2",
+      "text": "burden of proof, the purveyor may wish to take an alternate corrective action, i.e., installing a",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "Table 6 summarizes the advantages and disadvantages of the two main corrective action options",
+      "page": 69
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Type of Corrective Action",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Shut Off Water Service",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 70
+    },
+    {
+      "level": "H2",
+      "text": "*  Purveyors choosing this type of corrective action have the option to install and own the premises isolation assembly",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "Purveyors may use the following table to document their decisions regarding enforcement of their",
+      "page": 70
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Enforcement Action",
+      "page": 70
+    },
+    {
+      "level": "H2",
+      "text": "6.2.5 Initial Assessment and Periodic Re-Assessment of Hazard [Element 2]",
+      "page": 70
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "1. Assessment conducted prior to service being initiated for a new service connection; or",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "2. First time an assessment is performed for an existing service connection.",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "1. The purveyor's certified CCS (on staff or contractor) makes the initial assessment of degree",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "2. Each customer is required to hire a private CCS (contractor) to conduct the hazard survey",
+      "page": 71
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "Initial Assessment and Re-Assessment of Hazard",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "By Purveyor’s CCS",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "The purveyor can use the following table to document the decision regarding whose CCS will be",
+      "page": 72
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Assessment & Re-Assessment of Hazard",
+      "page": 72
+    },
+    {
+      "level": "H2",
+      "text": "6.2.6 Location and Ownership of Premises Isolation Assemblies [Element 3]",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "1. Purveyor and installed with the meter on the public right-of-way (ROW) or in a utility",
+      "page": 72
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 73
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 74
+    },
+    {
+      "level": "H2",
+      "text": "Illustration 5",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "PWS",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "JURISDICTION",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "DOH",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Preventer",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "JURISDICTION",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "DOH Regulations",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Water Meter and",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Water",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "Water",
+      "page": 74
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "* No connections between the meter and premises isolation assembly, unless the connection is specifically approved",
+      "page": 75
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors face an increased risk when they accept a customer-installed premises isolation",
+      "page": 75
+    },
+    {
+      "level": "H2",
+      "text": "assembly at a location other than immediately downstream of the purveyor's meter (i.e., at the",
+      "page": 75
+    },
+    {
+      "level": "H2",
+      "text": "while the purveyor accepts the increased risk.",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "JURISDICTION",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "DOH Regulations",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Preventer for",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "Water",
+      "page": 75
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 76
+    },
+    {
+      "level": "H2",
+      "text": "Mandatory/Supplemental Premises Isolation Assembly Location Options",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Location of Assembly for Premises Isolation",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "The purveyor can use the following table to document the decision regarding location and",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "Decision - Location & Ownership of Premises Isolation Assembly (check one)",
+      "page": 76
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 77
+    },
+    {
+      "level": "H2",
+      "text": "6.2.7 Cross-Connection Specialist Options [Element 4]",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "1. Purveyor's staff member obtains CCS certification;",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "2. Purveyor contracts with another water utility or agency (e.g., the Local Administrative",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "3. Purveyor contracts with an independent CCS to provide services.",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Table 9",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Purveyor’s Program – CCS Options",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 77
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 78
+    },
+    {
+      "level": "H2",
+      "text": "Decision - Cross-Connection Control Specialist (CSS) Option to",
+      "page": 78
+    },
+    {
+      "level": "H2",
+      "text": "Implement the Purveyor's Program Management",
+      "page": 78
+    },
+    {
+      "level": "H2",
+      "text": "6.2.8 Assembly Testing Options [Element 5]",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "1. Purveyor's backflow assembly tester (BAT), on staff or a contractor, tests all assemblies; or",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2. Purveyor requires the customer to hire a BAT.",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "Having the purveyor's BAT (staff or contractor) perform the tests has the advantage of:",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "1. Increased reliability (quality control over testing) and thus, decreased potential liability",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "2. Less administrative cost for the purveyor (notification letters, quality assurance, etc.); and",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "3. Good public relations, because the customer is not responsible for the task.",
+      "page": 78
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "1. Possible liability for an assembly failure; and",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "2. Increased costs for staff.",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Table 10",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Testing of Assemblies",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "Purveyors can use the following table to document the policy decision made regarding assembly",
+      "page": 79
+    },
+    {
+      "level": "H2",
+      "text": "Decision -- Testing of Assemblies (check one)",
+      "page": 79
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 80
+    },
+    {
+      "level": "H2",
+      "text": "6.2.9 Cost Recovery",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "1. Assess the general administrative cost of the cross-connection program to all customers, or",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "2. Require each customer to directly bear the costs of the hazard surveys and costs associated",
+      "page": 80
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 81
+    },
+    {
+      "level": "H2",
+      "text": "Table 11",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Recovery of Program Costs",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Major Advantages",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Major Disadvantages",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "The purveyor can use the following table to select the desired method of recovering costs for",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Decision - Program Cost Recovery (check one)",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "Table 12 identifies all the major policy decisions that need to be made by purveyors:",
+      "page": 81
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 82
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "Summary of Purveyor’s Program Decisions",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "Program Decision Item",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "1.  Type of Program  [General, WAC 246-290-490(2)(e)]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "2.  Extent of Coordination with Local Administrative Authority  [WAC 246-",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "290-490(2)(d)]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "3.  Relationship with Customer  [WAC 246-290-490(3)(b), Element 1]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "4.  Enforcement of Corrective Action [WAC 246-290-490(3)(b), Element 1]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "5.  Hazard Assessment/Reassessment [WAC 246-290-490(3)(c), Element 2]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "6.  Premises Isolation Assembly Ownership/Location [WAC 246-290-490(3)(d),",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "Element 3]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "7.  CCS Program Manager Option [WAC 246-290-490(3)(e), Element 4]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "8.  Testing of Assemblies [WAC 246-290-490(3)(f), Element 5]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "9.  Cost Recovery [WAC 246-290-100(4)(h) and –105(4)(p)]",
+      "page": 83
+    },
+    {
+      "level": "H2",
+      "text": "*Suggested options for small utilities serving mostly single-family residences.",
+      "page": 83
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 84
+    },
+    {
+      "level": "H2",
+      "text": "6.3",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "1. Non-transient non-community systems; and",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2. Transient non-community systems.",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "1. A non-transient non-community system (NTNC) is a public water system that provides",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "2. A transient non-community system (TNC) is a public water system that serves:",
+      "page": 84
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "1. Source protection, if a single building or water user is supplied (e.g., provide a DCVA at the",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "2. Area or building isolation (particularly if a Table 9 of WAC 246-290-490 premises is",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "3. Equivalent in-building protection through installation of backflow preventers at hazardous",
+      "page": 85
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 86
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 87
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 7. Implementing a Cross-Connection Control Program",
+      "page": 87
+    },
+    {
+      "level": "H2",
+      "text": "7.1",
+      "page": 87
+    },
+    {
+      "level": "H2",
+      "text": "7.1.1 Overall Management",
+      "page": 87
+    },
+    {
+      "level": "H2",
+      "text": "The purveyor should designate one individual, i.e., the CCC Program Manager, to provide",
+      "page": 87
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 88
+    },
+    {
+      "level": "H2",
+      "text": "The Cross-Connection Control Program Manager will be responsible for the day-to-day",
+      "page": 88
+    },
+    {
+      "level": "H2",
+      "text": "contact with customers, the general public, state and local government, etc., on cross-",
+      "page": 88
+    },
+    {
+      "level": "H2",
+      "text": "CCSs.",
+      "page": 88
+    },
+    {
+      "level": "H2",
+      "text": "7.1.2 Purveyor's Policy Statement/Ordinance",
+      "page": 88
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 89
+    },
+    {
+      "level": "H2",
+      "text": "7.1.3 Personnel",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "1. Workshops sponsored and/or provided by DOH or technical associations, such as the Pacific",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "2. Operator training manuals, such as Small Water System Operation and Maintenance,",
+      "page": 89
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 90
+    },
+    {
+      "level": "H2",
+      "text": "For the CCS employed by the purveyor (on staff or by contract), specialized training is",
+      "page": 90
+    },
+    {
+      "level": "H2",
+      "text": "connection control program (either on staff, inter-agency agreement, or contract CCS),",
+      "page": 90
+    },
+    {
+      "level": "H2",
+      "text": "purveyors should follow procedures normally used for selecting a contractor or consultant.",
+      "page": 90
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 91
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors should carefully check references to obtain information about the quality of service",
+      "page": 91
+    },
+    {
+      "level": "H2",
+      "text": "specialists who advocate an in-premises protection only strategy, since this approach doesn’t",
+      "page": 91
+    },
+    {
+      "level": "H2",
+      "text": "provide adequate public health protection and doesn’t comply with the current cross-connection",
+      "page": 91
+    },
+    {
+      "level": "H2",
+      "text": "control regulations.",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "If the feedback from references is positive, purveyors may wish to request a sample contract from",
+      "page": 91
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 92
+    },
+    {
+      "level": "H2",
+      "text": "Small water systems might want to consider contracting with a cross-connection control",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "WAC 246-290-490 specifies a number of program tasks that must be performed by a DOH-certified",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "1. Development and implementation of the CCC program;",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "2. Hazard assessments and determination of the appropriate backflow protection;",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "3. Granting of exceptions to the mandatory premises isolation requirements and completion of",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "4. Inspection of backflow preventer installations to ensure that backflow protection provided is",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "5. Inspection of AG installations for compliance with the AG definition; and",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "6. Inspection of backflow assemblies for correct installation and approval status.",
+      "page": 92
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 93
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "Cross-Connection Control Program Task",
+      "page": 94
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 95
+    },
+    {
+      "level": "H2",
+      "text": "7.1.4 Water Service Agreements",
+      "page": 95
+    },
+    {
+      "level": "H3",
+      "text": "1. Request that the customer sign an agreement; or",
+      "page": 95
+    },
+    {
+      "level": "H3",
+      "text": "2. Reaffirm the terms of service by asking the customer to sign an agreement as a condition of",
+      "page": 95
+    },
+    {
+      "level": "H2",
+      "text": "7.1.5 Backflow Assembly Installation Standards",
+      "page": 95
+    },
+    {
+      "level": "H3",
+      "text": "These requirements were established, because an improper installation decreases the assembly’s",
+      "page": 95
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 96
+    },
+    {
+      "level": "H3",
+      "text": "Manufacturers provide recommendations for the proper installation of their assemblies, and it is",
+      "page": 96
+    },
+    {
+      "level": "H2",
+      "text": "the more stringent installation requirements of DOH and the water purveyor take precedence",
+      "page": 96
+    },
+    {
+      "level": "H3",
+      "text": "Systems that need to establish installation standards for their program plans can consult technical",
+      "page": 96
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 97
+    },
+    {
+      "level": "H2",
+      "text": "7.2",
+      "page": 97
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 98
+    },
+    {
+      "level": "H2",
+      "text": "7.2.1 Schedule of Initial Risk Assessment",
+      "page": 98
+    },
+    {
+      "level": "H2",
+      "text": "The purveyor must establish procedures and schedules for assessing the cross-connection",
+      "page": 98
+    },
+    {
+      "level": "H2",
+      "text": "New Customers",
+      "page": 98
+    },
+    {
+      "level": "H2",
+      "text": "Existing Customers",
+      "page": 98
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 99
+    },
+    {
+      "level": "H2",
+      "text": "Setting Priorities",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "1. High Priority:  Customers of the type listed on Table 9 of WAC 246-290-490 as a high",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "2. Medium Priority:  Customers included in the purveyor's supplemental list for mandatory",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "3. Low Priority:  The remaining customers.",
+      "page": 99
+    },
+    {
+      "level": "H2",
+      "text": "Initial Hazard Assessment Schedule",
+      "page": 99
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Hazard Assessment Task",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "Purveyor may use their billing records, business license information, and/or the telephone book",
+      "page": 100
+    },
+    {
+      "level": "H2",
+      "text": "Exceptions",
+      "page": 100
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "1. Require premises isolation from the start, based on the potential for a change in tenants/use;",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "2. Grant an exception to premises isolation and frequently re-assess the hazard to detect a",
+      "page": 101
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors don’t have to obtain DOH concurrence to grant an exception to mandatory",
+      "page": 101
+    },
+    {
+      "level": "H2",
+      "text": "premises isolation for a high-hazard category of customer of the type listed in Table 9 of WAC",
+      "page": 101
+    },
+    {
+      "level": "H2",
+      "text": "Customer Notification",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "Once the initial hazard assessment is complete, purveyors must notify their customers of the results.",
+      "page": 101
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "Hazard Notification Category",
+      "page": 102
+    },
+    {
+      "level": "H2",
+      "text": "7.2.2 Schedule for Periodic Re-Assessment",
+      "page": 102
+    },
+    {
+      "level": "H2",
+      "text": "customers other than those with premises isolation AGs or RPBAs, as long as annual test",
+      "page": 102
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "1. Non-residential customers:",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "2. Residential customers (the water use questionnaire can be used for re-assessments).",
+      "page": 103
+    },
+    {
+      "level": "H2",
+      "text": "Per the WAC, a re-assessment is also required whenever there is a change in the use of the",
+      "page": 103
+    },
+    {
+      "level": "H2",
+      "text": "Table 16",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "Hazard Re-Assessment Task",
+      "page": 103
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 104
+    },
+    {
+      "level": "H2",
+      "text": "7.2.3 Schedule for Backflow Prevention Assemblies Installation",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "It is not possible to eliminate all cross connections on",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "A hazard assessment determines if the customer's cross connections are \"controlled\" to the",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "1. Install an approved backflow preventer for premises isolation;",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "2. Get the customer to install an approved backflow preventer for premises isolation; or",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "3. Get the customer to install in-premises approved backflow preventers (for fixture protection",
+      "page": 104
+    },
+    {
+      "level": "H2",
+      "text": "preventers should be installed as soon as possible after the need for a preventer is identified.",
+      "page": 104
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "The installation of backflow prevention assemblies may be a significant cost to the purveyor and/or",
+      "page": 105
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Preventer Installation Category",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "Table 18 is an example summary task schedule that should be included in the purveyor's written",
+      "page": 106
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Example Summary Task Schedule to Include in",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Task",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Conduct hazard assessment for new customers",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Notify existing high hazard customers of hazard assessment",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Ensure backflow preventers are installed for existing high",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Conduct hazard assessments for existing, non-high hazard,",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Notify existing non-high hazard commercial customers of",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Ensure backflow preventers are installed on connections to",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Re-assess non-high hazard commercial customers",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Notify residential customers of hazard assessment results and",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Ensure that backflow preventers are installed on residential",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "Re-assess residential customers",
+      "page": 107
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 108
+    },
+    {
+      "level": "H2",
+      "text": "7.2.4 Communication with Customers",
+      "page": 108
+    },
+    {
+      "level": "H2",
+      "text": "7.2.5 Requirements of Existing Customers",
+      "page": 108
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "1. The purveyor should notify the customer:",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "2. The purveyor should notify the Local Administrative Authority (LAA) (plumbing",
+      "page": 109
+    },
+    {
+      "level": "H2",
+      "text": "7.2.6 Cross Connections in Purveyor's System",
+      "page": 109
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "1. Water treatment plant including:",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "2. Distribution system including:",
+      "page": 110
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 111
+    },
+    {
+      "level": "H2",
+      "text": "7.2.7 Common Cross Connections Associated with Small Water Systems",
+      "page": 111
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Description of Hazard or Premises",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Boiler",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Hydroponics, non-commercial greenhouse",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "Water softeners with discharge to sewer (through AG)",
+      "page": 112
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "Description of Hazard or Premises",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "High schools with laboratories (with internal RPBA for area",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "Elementary schools",
+      "page": 113
+    },
+    {
+      "level": "H2",
+      "text": "7.3",
+      "page": 113
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 114
+    },
+    {
+      "level": "H2",
+      "text": "7.3.1 Washington State Requirements for Fire Protection Systems",
+      "page": 114
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "However, if the customer does not install the required",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "Table 21 provides guidance for scheduling the installation of backflow preventers on fire sprinkler",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "Table 21",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "Fire System Hazard Category",
+      "page": 115
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 116
+    },
+    {
+      "level": "H2",
+      "text": "7.3.2 Purveyor's Additional Requirements",
+      "page": 116
+    },
+    {
+      "level": "H2",
+      "text": "7.4",
+      "page": 116
+    },
+    {
+      "level": "H2",
+      "text": "Testing Frequency",
+      "page": 116
+    },
+    {
+      "level": "H3",
+      "text": "1. At the time of installation;",
+      "page": 116
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 117
+    },
+    {
+      "level": "H3",
+      "text": "3. After a backflow incident; and",
+      "page": 117
+    },
+    {
+      "level": "H3",
+      "text": "4. After an assembly is repaired, reinstalled, or relocated (or an AG is re-plumbed).",
+      "page": 117
+    },
+    {
+      "level": "H2",
+      "text": "Test Procedures",
+      "page": 117
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "As discussed in Section 6.2.7, purveyors have the option of testing the assembly (purveyor's",
+      "page": 118
+    },
+    {
+      "level": "H2",
+      "text": "Testing Notification",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "1. Notify the customer in writing and allow at least one month from the date of notification for",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "2. Include, in the testing notification letter, a statement affirming the understanding that service",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "3. Specify the acceptable field testing method (e.g., the DOH field test procedures);",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "4. Provide a list of local testers (BATs); and",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "5. Provide a test report form for each assembly owned by the customer.",
+      "page": 118
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 119
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 120
+    },
+    {
+      "level": "H2",
+      "text": "purveyor communication about testing and surveys should be with the customer, not with the",
+      "page": 120
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 121
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 122
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors should consider coordinating their test notices with the test notices issued by the",
+      "page": 122
+    },
+    {
+      "level": "H2",
+      "text": "7.4.1 Approved Backflow Assembly Testers",
+      "page": 122
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 123
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 124
+    },
+    {
+      "level": "H2",
+      "text": "7.4.2 Quality Assurance Program",
+      "page": 124
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 125
+    },
+    {
+      "level": "H2",
+      "text": "7.5",
+      "page": 125
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors should be pro-active and establish their enforcement policies before any",
+      "page": 125
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 126
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 127
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 128
+    },
+    {
+      "level": "H2",
+      "text": "7.6",
+      "page": 128
+    },
+    {
+      "level": "H2",
+      "text": "Purveyors should keep all original records (correspondence, plans, etc.) in the water system's",
+      "page": 128
+    },
+    {
+      "level": "H3",
+      "text": "Original records should always be kept in the",
+      "page": 128
+    },
+    {
+      "level": "H2",
+      "text": "7.6.1 Record of Risk Assessment",
+      "page": 128
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 129
+    },
+    {
+      "level": "H2",
+      "text": "7.6.2 Inventory of Backflow Preventers",
+      "page": 129
+    },
+    {
+      "level": "H2",
+      "text": "7.6.3 Inventory of Backflow Preventer Test/Inspection Reports",
+      "page": 129
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 130
+    },
+    {
+      "level": "H2",
+      "text": "7.6.4 Correspondence",
+      "page": 130
+    },
+    {
+      "level": "H2",
+      "text": "7.6.5 Washington State Department of Health Reporting Requirements",
+      "page": 130
+    },
+    {
+      "level": "H2",
+      "text": "7.6.6 Spreadsheets and Computer Database Software",
+      "page": 130
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 131
+    },
+    {
+      "level": "H2",
+      "text": "7.6.7 Backflow Incident Reports",
+      "page": 131
+    },
+    {
+      "level": "H2",
+      "text": "7.7",
+      "page": 131
+    },
+    {
+      "level": "H2",
+      "text": "7.7.1 Type of Effort",
+      "page": 131
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 132
+    },
+    {
+      "level": "H2",
+      "text": "7.7.2 Frequency",
+      "page": 132
+    },
+    {
+      "level": "H2",
+      "text": "7.8",
+      "page": 132
+    },
+    {
+      "level": "H3",
+      "text": "Don't wait until a backflow incident occurs to",
+      "page": 132
+    },
+    {
+      "level": "H3",
+      "text": "Appendix C contains a sample Backflow Incident Response Plan for a small water system.",
+      "page": 132
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 133
+    },
+    {
+      "level": "H2",
+      "text": "7.9",
+      "page": 133
+    },
+    {
+      "level": "H2",
+      "text": "Reclaimed Water",
+      "page": 133
+    },
+    {
+      "level": "H2",
+      "text": "For connections where both reclaimed water and potable water are provided on the",
+      "page": 133
+    },
+    {
+      "level": "H2",
+      "text": "customer's premises, per Table 9 of WAC 246-290-490, premises isolation at the water meter",
+      "page": 133
+    },
+    {
+      "level": "H2",
+      "text": "Greywater",
+      "page": 133
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 134
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 135
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 8.  Cross-Connection Control Regulations",
+      "page": 135
+    },
+    {
+      "level": "H3",
+      "text": "and Related Materials",
+      "page": 135
+    },
+    {
+      "level": "H2",
+      "text": "8.1   Acronyms and Abbreviations",
+      "page": 135
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 136
+    },
+    {
+      "level": "H2",
+      "text": "8.2",
+      "page": 136
+    },
+    {
+      "level": "H2",
+      "text": "8.2.1  Definitions Related to Cross-Connection Control",
+      "page": 136
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 137
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 138
+    },
+    {
+      "level": "H3",
+      "text": "\"Cross-connection control summary report\" means the annual report that describes the status",
+      "page": 138
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 139
+    },
+    {
+      "level": "H2",
+      "text": "Abbreviations and Acronyms",
+      "page": 139
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 140
+    },
+    {
+      "level": "H2",
+      "text": "8.2.2 WAC 246-290-490  Cross-Connection Control.",
+      "page": 140
+    },
+    {
+      "level": "H2",
+      "text": "(1) Applicability, purpose, and responsibility.",
+      "page": 140
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 141
+    },
+    {
+      "level": "H2",
+      "text": "(2) General program requirements.",
+      "page": 141
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 142
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 143
+    },
+    {
+      "level": "H2",
+      "text": "(3) Minimum elements of a cross-connection control program.",
+      "page": 143
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 144
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 145
+    },
+    {
+      "level": "H2",
+      "text": "(4) Approved backflow preventer selection.",
+      "page": 145
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 146
+    },
+    {
+      "level": "H3",
+      "text": "Degree of Hazard",
+      "page": 146
+    },
+    {
+      "level": "H3",
+      "text": "Low health",
+      "page": 146
+    },
+    {
+      "level": "H3",
+      "text": "(b) Premises isolation requirements.",
+      "page": 146
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 147
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 148
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 149
+    },
+    {
+      "level": "H2",
+      "text": "(5) Approved backflow preventers.",
+      "page": 149
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 150
+    },
+    {
+      "level": "H2",
+      "text": "(6) Approved backflow preventer installation.",
+      "page": 150
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 151
+    },
+    {
+      "level": "H2",
+      "text": "(7) Approved backflow preventer inspection and testing.",
+      "page": 151
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 152
+    },
+    {
+      "level": "H3",
+      "text": "(e) The purveyor shall ensure that results of backflow prevention assembly inspections and",
+      "page": 152
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 153
+    },
+    {
+      "level": "H2",
+      "text": "(8) Recordkeeping and reporting.",
+      "page": 153
+    },
+    {
+      "level": "H3",
+      "text": "(d) The purveyor shall complete the cross-connection control program summary report",
+      "page": 153
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 154
+    },
+    {
+      "level": "H2",
+      "text": "8.3",
+      "page": 154
+    },
+    {
+      "level": "H2",
+      "text": "Section 1",
+      "page": 154
+    },
+    {
+      "level": "H3",
+      "text": "Do all non-community systems have to develop and implement Cross-Connection",
+      "page": 154
+    },
+    {
+      "level": "H3",
+      "text": "How do the minimum elements in Section 3 of Washington Administrative Code",
+      "page": 154
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 155
+    },
+    {
+      "level": "H2",
+      "text": "Section 2",
+      "page": 155
+    },
+    {
+      "level": "H3",
+      "text": "Do alternate references have to be acceptable to Washington State Department of",
+      "page": 155
+    },
+    {
+      "level": "H3",
+      "text": "Will the department develop a \"public listing\" of Washington State Department of",
+      "page": 155
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 156
+    },
+    {
+      "level": "H3",
+      "text": "What does “coordination” with Local Administrative Authority (LAA) mean?",
+      "page": 156
+    },
+    {
+      "level": "H3",
+      "text": "Coordination is explained in detail in Chapter 6.  Coordination may range from a minimal",
+      "page": 156
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 157
+    },
+    {
+      "level": "H3",
+      "text": "Must a Cross-Connection Control program be submitted to Washington State",
+      "page": 157
+    },
+    {
+      "level": "H3",
+      "text": "Can a purveyor rely solely upon a premises isolation program or rely solely upon an",
+      "page": 157
+    },
+    {
+      "level": "H3",
+      "text": "Are purveyors required to shut-off or deny water service to customers that fail to",
+      "page": 157
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 158
+    },
+    {
+      "level": "H3",
+      "text": "Why is it necessary to notify the Local Administrative Authority (LAA), before I shut",
+      "page": 158
+    },
+    {
+      "level": "H3",
+      "text": "Why is it necessary to prevent the intentional return of water to the distribution",
+      "page": 158
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 159
+    },
+    {
+      "level": "H2",
+      "text": "Section 3",
+      "page": 159
+    },
+    {
+      "level": "H3",
+      "text": "Do the regulations specify when purveyors need to complete their initial hazard",
+      "page": 159
+    },
+    {
+      "level": "H3",
+      "text": "When must the purveyor start installing backflow prevention assemblies?",
+      "page": 159
+    },
+    {
+      "level": "H3",
+      "text": "What is an acceptable time frame for submission of a test report?",
+      "page": 159
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 160
+    },
+    {
+      "level": "H3",
+      "text": "What is the purpose of the quality assurance/quality control (QA/QC) program?",
+      "page": 160
+    },
+    {
+      "level": "H2",
+      "text": "Section 4",
+      "page": 160
+    },
+    {
+      "level": "H3",
+      "text": "Are purveyors limited to the categories in Table 9 of Washington Administrative Code",
+      "page": 160
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 161
+    },
+    {
+      "level": "H3",
+      "text": "Which irrigation systems require premises isolation?",
+      "page": 161
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 162
+    },
+    {
+      "level": "H3",
+      "text": "As an \"alternate location acceptable to the purveyor,” how far downstream of the",
+      "page": 162
+    },
+    {
+      "level": "H3",
+      "text": "Must backflow protection for all existing fire sprinkler systems with chemical addition",
+      "page": 162
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 163
+    },
+    {
+      "level": "H3",
+      "text": "How can the customer obtain water to test plumbing, before backflow preventers are",
+      "page": 163
+    },
+    {
+      "level": "H2",
+      "text": "Section 5",
+      "page": 163
+    },
+    {
+      "level": "H3",
+      "text": "Where do I obtain a current list of Washington State Department of Health (DOH)",
+      "page": 163
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 164
+    },
+    {
+      "level": "H2",
+      "text": "Section 6",
+      "page": 164
+    },
+    {
+      "level": "H3",
+      "text": "What are the requirements for installation?",
+      "page": 164
+    },
+    {
+      "level": "H3",
+      "text": "Can a double-check valve assembly (DCVA) be installed in a below-ground pit?  What",
+      "page": 164
+    },
+    {
+      "level": "H2",
+      "text": "Section 7",
+      "page": 164
+    },
+    {
+      "level": "H3",
+      "text": "Must a cross-connection control specialist (CCS) inspect an atmospheric vacuum",
+      "page": 164
+    },
+    {
+      "level": "H3",
+      "text": "Annual assembly testing is a Washington State Department of Health (DOH)",
+      "page": 164
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 165
+    },
+    {
+      "level": "H2",
+      "text": "Section 8",
+      "page": 165
+    },
+    {
+      "level": "H3",
+      "text": "What documentation must be kept?",
+      "page": 165
+    },
+    {
+      "level": "H3",
+      "text": "When should records of test reports be kept in electronic format (i.e., other than",
+      "page": 165
+    },
+    {
+      "level": "H3",
+      "text": "________________________________________________________________________________________________",
+      "page": 166
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 167
+    },
+    {
+      "level": "H3",
+      "text": "APPENDICES",
+      "page": 167
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 168
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 169
+    },
+    {
+      "level": "H3",
+      "text": "Appendix A",
+      "page": 169
+    },
+    {
+      "level": "H3",
+      "text": "Example Cross-Connection Control Program and",
+      "page": 169
+    },
+    {
+      "level": "H3",
+      "text": "Legal Instrument for a Community System",
+      "page": 169
+    },
+    {
+      "level": "H2",
+      "text": "Contents",
+      "page": 169
+    },
+    {
+      "level": "H2",
+      "text": "How to Use Appendix A",
+      "page": 169
+    },
+    {
+      "level": "H2",
+      "text": "Instructions",
+      "page": 169
+    },
+    {
+      "level": "H3",
+      "text": "1. Download the example program file (in Microsoft Word format) from the web site or ob-",
+      "page": 169
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 170
+    },
+    {
+      "level": "H2",
+      "text": "Requirement for Program",
+      "page": 170
+    },
+    {
+      "level": "H2",
+      "text": "{Insert public water system name}, {insert public water system identification number},",
+      "page": 170
+    },
+    {
+      "level": "H3",
+      "text": "1. Establishment of legal authority and program policies;",
+      "page": 170
+    },
+    {
+      "level": "H3",
+      "text": "1. Coordination with the Local Administrative Authority (LAA), i.e., the local building or",
+      "page": 170
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 171
+    },
+    {
+      "level": "H3",
+      "text": "1. Reasonably reduce the risk of contamination of the public water distribution system; and",
+      "page": 171
+    },
+    {
+      "level": "H2",
+      "text": "Summary of Program Decisions",
+      "page": 171
+    },
+    {
+      "level": "H2",
+      "text": "PWS name} water system.  The items in the table represent CCC program areas that have more",
+      "page": 171
+    },
+    {
+      "level": "H2",
+      "text": "“Decision” in the following table.)",
+      "page": 171
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 172
+    },
+    {
+      "level": "H3",
+      "text": "CCC Program Decision Summary Table for the",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "Decision Item",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "1. Type of Program [General, WAC 246-290-490(2)(e)]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "2.  Extent of Coordination with LAA [WAC 246-290-490(2)(d)]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "3.  Relationship with Customer [Element 1]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "4.  Enforcement of Corrective Action [Element 1]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "5.  Assessment and Re-assessment of Hazard [Element 2]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "6.  Location and Ownership of Premises Isolation Assembly [Element 3]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "7.  CCS Option – Purveyor’s Program Management [Element 4]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "8.  Testing of Assemblies [Element 5]",
+      "page": 172
+    },
+    {
+      "level": "H2",
+      "text": "9.  Cost Recovery [WAC 246-290-100(4)(h) and –105(4)(p)]",
+      "page": 172
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 173
+    },
+    {
+      "level": "H3",
+      "text": "The drinking water regulations for Group A public water systems in Washington, WAC 246-290,",
+      "page": 173
+    },
+    {
+      "level": "H2",
+      "text": "Element 1: Adoption of a written legal instrument authorizing the establishment and",
+      "page": 173
+    },
+    {
+      "level": "H2",
+      "text": "approach: “by the water system, and the cost thereof to be billed to the customer.” (see Decision",
+      "page": 173
+    },
+    {
+      "level": "H2",
+      "text": "decisions made by the PWS.)",
+      "page": 173
+    },
+    {
+      "level": "H2",
+      "text": "(The Purveyor should complete and include the following schedule for adoption of a legal",
+      "page": 173
+    },
+    {
+      "level": "H2",
+      "text": "instrument, if not already adopted:",
+      "page": 173
+    },
+    {
+      "level": "H3",
+      "text": "Legal Instrument Status",
+      "page": 173
+    },
+    {
+      "level": "H3",
+      "text": "Schedules may vary depending on governing body procedures.)",
+      "page": 173
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 174
+    },
+    {
+      "level": "H2",
+      "text": "Element 2:",
+      "page": 174
+    },
+    {
+      "level": "H2",
+      "text": "Initial Cross-Connection Hazard Surveys",
+      "page": 174
+    },
+    {
+      "level": "H3",
+      "text": "1. For all new non-residential services, the Purveyor will require that the customer submit",
+      "page": 174
+    },
+    {
+      "level": "H3",
+      "text": "2. For all new residential services, the Purveyor will require that the customer submit with the",
+      "page": 174
+    },
+    {
+      "level": "H3",
+      "text": "3. For all existing non-residential services, the Purveyor will require the customer to submit to",
+      "page": 174
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "5. For all existing services, should the customer fail to supply the required information for a",
+      "page": 175
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Hazard Survey Schedule for Initial Hazard Assessments",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "Initial Assessment Task",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "Identification and assessment of hazardous premises",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "Identification of residential connections with special",
+      "page": 175
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Hazard Survey Schedule for Subsequent Hazard Re-Assessments",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "1. For residential services, the Purveyor will require the customer to submit to the Purveyor,",
+      "page": 175
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 176
+    },
+    {
+      "level": "H3",
+      "text": "Type of Service",
+      "page": 176
+    },
+    {
+      "level": "H2",
+      "text": "[Combination or Joint Program Alternative: Commercial",
+      "page": 176
+    },
+    {
+      "level": "H3",
+      "text": "Residential services with DCVA installed for premises",
+      "page": 176
+    },
+    {
+      "level": "H3",
+      "text": "The Purveyor will inform the customer that the Purveyor's survey of a customer's premises (whether",
+      "page": 176
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 177
+    },
+    {
+      "level": "H2",
+      "text": "Element 3:",
+      "page": 177
+    },
+    {
+      "level": "H2",
+      "text": "Backflow Preventer Requirements",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "1. The Purveyor will require that water service to all non-residential customers be isolated at",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "[Optional Combination or Joint Program Alternative: “In lieu of isolation with a DCVA,",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "2. The Purveyor will require all residential customers with facilities of the type described in",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "3. [Optional addition: “Additional premises requiring premises isolation.  The Purveyor has",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "4. [Optional addition: “All remaining residential customers will be isolated at the meter by a",
+      "page": 177
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 178
+    },
+    {
+      "level": "H3",
+      "text": "6. Customers without written contracts are considered to have an implied contract that",
+      "page": 178
+    },
+    {
+      "level": "H3",
+      "text": "7. Approved Backflow Preventers and Installation",
+      "page": 178
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 179
+    },
+    {
+      "level": "H3",
+      "text": "8. Schedule for Installation of Backflow Preventers",
+      "page": 179
+    },
+    {
+      "level": "H3",
+      "text": "Type of Service",
+      "page": 179
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 180
+    },
+    {
+      "level": "H2",
+      "text": "Element 4:",
+      "page": 180
+    },
+    {
+      "level": "H3",
+      "text": "1. Program Administration: The responsibility for administration of the CCC Program rests",
+      "page": 180
+    },
+    {
+      "level": "H3",
+      "text": "2. The Purveyor will employ or have on staff at least one person certified by DOH as a CCS to",
+      "page": 180
+    },
+    {
+      "level": "H3",
+      "text": "3. The following cross-connection related tasks will be performed by or under the direction of",
+      "page": 180
+    },
+    {
+      "level": "H3",
+      "text": "4. The Purveyor may delegate other CCC program activities to other personnel who are not",
+      "page": 180
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 181
+    },
+    {
+      "level": "H3",
+      "text": "Name of CCS",
+      "page": 181
+    },
+    {
+      "level": "H2",
+      "text": "Element 5:",
+      "page": 181
+    },
+    {
+      "level": "H2",
+      "text": "1. Inspection and Testing of Backflow Preventers",
+      "page": 181
+    },
+    {
+      "level": "H2",
+      "text": "2. Frequency of Inspection and Testing",
+      "page": 181
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 182
+    },
+    {
+      "level": "H2",
+      "text": "3. Responsibility for Inspection and Testing",
+      "page": 182
+    },
+    {
+      "level": "H2",
+      "text": "4. Approved Test Procedures",
+      "page": 182
+    },
+    {
+      "level": "H3",
+      "text": "[Optional: “The Purveyor will require all assembly tests to be reported on the form shown",
+      "page": 182
+    },
+    {
+      "level": "H2",
+      "text": "5. Notification of Inspection and/or Testing",
+      "page": 182
+    },
+    {
+      "level": "H2",
+      "text": "6. Enforcement",
+      "page": 182
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 183
+    },
+    {
+      "level": "H2",
+      "text": "Element 6:",
+      "page": 183
+    },
+    {
+      "level": "H2",
+      "text": "1. [Recommended Option: “List of Pre-Approved BATs",
+      "page": 183
+    },
+    {
+      "level": "H3",
+      "text": "[Optional addition: The Purveyor will also maintain a list of local DOH-certified CCSs that",
+      "page": 183
+    },
+    {
+      "level": "H2",
+      "text": "2. [Recommended Option: “Pre-Approval Qualifications",
+      "page": 183
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 184
+    },
+    {
+      "level": "H3",
+      "text": "[Optional: “The Purveyor may consider the inclusion of the applicant on a current list",
+      "page": 184
+    },
+    {
+      "level": "H2",
+      "text": "3. Quality Assurance",
+      "page": 184
+    },
+    {
+      "level": "H2",
+      "text": "Element 7:",
+      "page": 184
+    },
+    {
+      "level": "H2",
+      "text": "1. Backflow Incident Response Plan",
+      "page": 184
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 185
+    },
+    {
+      "level": "H2",
+      "text": "2. Technical Resources",
+      "page": 185
+    },
+    {
+      "level": "H2",
+      "text": "Element 8:",
+      "page": 185
+    },
+    {
+      "level": "H2",
+      "text": "1. Customer Education",
+      "page": 185
+    },
+    {
+      "level": "H2",
+      "text": "2. [Optional: “Public Outreach",
+      "page": 185
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 186
+    },
+    {
+      "level": "H2",
+      "text": "Element 9:",
+      "page": 186
+    },
+    {
+      "level": "H2",
+      "text": "1. Types of Records and Data to be Maintained",
+      "page": 186
+    },
+    {
+      "level": "H3",
+      "text": "[Add for Joint Program (Optional)]: “By inter-agency agreement, the Purveyor will also",
+      "page": 186
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 187
+    },
+    {
+      "level": "H2",
+      "text": "2. Reports to be Prepared and Submitted to DOH",
+      "page": 187
+    },
+    {
+      "level": "H3",
+      "text": "[Recommended Option 1: “The Purveyor’s CCS will prepare and sign all CCC-related",
+      "page": 187
+    },
+    {
+      "level": "H3",
+      "text": "[Option 2: “The Purveyor’s CCS will review all CCC-related reports for correctness.”]",
+      "page": 187
+    },
+    {
+      "level": "H3",
+      "text": "[Optional addition: “The manager of the public water system shall sign the CCC reports",
+      "page": 187
+    },
+    {
+      "level": "H2",
+      "text": "Element 10:",
+      "page": 187
+    },
+    {
+      "level": "H2",
+      "text": "[Alternative if PWS receives/distributes reclaimed water: “The {Insert PWS name} waters sys-",
+      "page": 187
+    },
+    {
+      "level": "H2",
+      "text": "E. Other Provisions",
+      "page": 187
+    },
+    {
+      "level": "H2",
+      "text": "1. Coordination with Local Administrative Authority",
+      "page": 187
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 188
+    },
+    {
+      "level": "H2",
+      "text": "2. [Recommended Option, if no PWS/LAA written agreement exists: “Written Agreement",
+      "page": 188
+    },
+    {
+      "level": "H2",
+      "text": "3. [Add for Joint Program: “This CCC program has been developed in cooperation with the",
+      "page": 188
+    },
+    {
+      "level": "H2",
+      "text": "4. Prohibition of Return of Used Water.  The PWS must prohibit the intentional return of used",
+      "page": 188
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 189
+    },
+    {
+      "level": "H2",
+      "text": "(Optional Additional Provisions: Purveyors may want to consider including the following",
+      "page": 189
+    },
+    {
+      "level": "H2",
+      "text": "5. [Recommended Optional Provision: “Unapproved Auxiliary Supplies.  All water supplies",
+      "page": 189
+    },
+    {
+      "level": "H2",
+      "text": "6. [Recommended Optional Provision: “Tanker Trucks.  The Purveyor may allow tanker",
+      "page": 189
+    },
+    {
+      "level": "H2",
+      "text": "7. [Recommended Optional Provision: “Temporary Water Connections.  The Purveyor will",
+      "page": 189
+    },
+    {
+      "level": "H2",
+      "text": "8. [Recommended Optional Provision: “Interties and Wholesale Water Customers.  The",
+      "page": 189
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 190
+    },
+    {
+      "level": "H3",
+      "text": "[Optional: “The Purveyor may waive or reduce the level of protection at the intertie, if the",
+      "page": 190
+    },
+    {
+      "level": "H3",
+      "text": "Relationship to Other Planning and Operations Program Requirements",
+      "page": 190
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 191
+    },
+    {
+      "level": "H2",
+      "text": "Finding of Fact",
+      "page": 191
+    },
+    {
+      "level": "H2",
+      "text": "Definitions",
+      "page": 191
+    },
+    {
+      "level": "H2",
+      "text": "Prevention of Contamination",
+      "page": 191
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 192
+    },
+    {
+      "level": "H2",
+      "text": "Conditions for Providing Service",
+      "page": 192
+    },
+    {
+      "level": "H3",
+      "text": "1. The customer agrees to take all measures necessary to prevent the contamination of the",
+      "page": 192
+    },
+    {
+      "level": "H3",
+      "text": "2. The customer agrees to install, operate, and maintain at all times his plumbing system in",
+      "page": 192
+    },
+    {
+      "level": "H3",
+      "text": "3. For cross-connection control or other public health-related surveys, the customer agrees to",
+      "page": 192
+    },
+    {
+      "level": "H3",
+      "text": "4. The customer agrees to install all backflow prevention assemblies requested by the Purveyor",
+      "page": 192
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "6. The customer agrees to bear all costs for the aforementioned installation, testing, repair,",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "7. At the time of application for service, if required by the Purveyor, the customer agrees to",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "8. For classes of customers other than single-family residential, when required by the",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "9. Within 30 days of a request by the Purveyor, a residential customer shall agree to complete",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "10. The customer agrees to obtain the prior approval from the Purveyor for all changes in water",
+      "page": 193
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "12. The customer acknowledges the right of the Purveyor to discontinue the water supply within",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "13. [Add for Combination or Joint Program: “The Purveyor will require premises isolation for",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "14. Where the Purveyor imposes mandatory premises isolation in compliance with DOH",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "15. The customer agrees to indemnify and hold harmless the Purveyor for all contamination of",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "16. The customer agrees that, in the event legal action is required and commenced between the",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "17. The customer acknowledges that the Purveyor's survey of a customer's premises is for the",
+      "page": 194
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "18. The customer acknowledges the right of the Purveyor, in keeping with changes to",
+      "page": 195
+    },
+    {
+      "level": "H2",
+      "text": "Implementation of the Cross-Connection Control Policy",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "1. Cross-Connection Control Manual, Accepted Procedures and Practice, published by the",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "2. Manual of Cross-Connection Control, published by the Foundation for Cross-Connection",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "3. Cross-Connection Control Guidance Manual for Small Water Systems, published by the",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "4. [Optional addition:  add additional references here, if applicable].",
+      "page": 195
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 196
+    },
+    {
+      "level": "H2",
+      "text": "WSP is not required: “Small Water System Management Program”] and will submit the plan to",
+      "page": 196
+    },
+    {
+      "level": "H3",
+      "text": "Resolution Passed: _______________________",
+      "page": 196
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 197
+    },
+    {
+      "level": "H3",
+      "text": "Appendix B",
+      "page": 197
+    },
+    {
+      "level": "H3",
+      "text": "Example Cross-Connection Control Program",
+      "page": 197
+    },
+    {
+      "level": "H3",
+      "text": "for a Non-Community System",
+      "page": 197
+    },
+    {
+      "level": "H2",
+      "text": "Contents",
+      "page": 197
+    },
+    {
+      "level": "H2",
+      "text": "How to Use Appendix B",
+      "page": 197
+    },
+    {
+      "level": "H2",
+      "text": "Description of Typical Non-Community Systems",
+      "page": 197
+    },
+    {
+      "level": "H2",
+      "text": "Examples of Non-Community Water Systems",
+      "page": 197
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 198
+    },
+    {
+      "level": "H2",
+      "text": "Community Systems with Non-Community System Characteristics",
+      "page": 198
+    },
+    {
+      "level": "H2",
+      "text": "Non-Community Systems with Community System Characteristics",
+      "page": 198
+    },
+    {
+      "level": "H2",
+      "text": "Instructions",
+      "page": 198
+    },
+    {
+      "level": "H3",
+      "text": "1. Copy the example program file into Word (download from the web-site or obtain from",
+      "page": 198
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "Requirement for Program",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "All public water systems are required to develop and implement cross-connection control (CCC)",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "1. Establishment of legal authority and program policies;",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "1. Coordination with the Local Administrative Authority (LAA), i.e. the local building or",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "Program Objectives",
+      "page": 199
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "Summary of Program Decisions",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "PWS name} Water System.  [Since the Purveyor and the “customer” are the same entity in a non-",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "boxes under “Decision” in the following table.}]",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "Summary of Program Decisions for the",
+      "page": 200
+    },
+    {
+      "level": "H3",
+      "text": "Decision Item",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "1.  Assessment and Re-Assessment of Cross-Connection Hazards (Element 2)",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "2.  CCS Option - purveyor’s CCC Program Management (Element 4)",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "3.  Testing of Assemblies (Element 5)",
+      "page": 200
+    },
+    {
+      "level": "H2",
+      "text": "sions)  [WAC 246-290-490 (2)(d)",
+      "page": 200
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 201
+    },
+    {
+      "level": "H2",
+      "text": "Element 1:",
+      "page": 201
+    },
+    {
+      "level": "H2",
+      "text": "body}”], the Purveyor is authorized and mandated to protect the water system from",
+      "page": 201
+    },
+    {
+      "level": "H2",
+      "text": "Element 2:",
+      "page": 201
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Hazard Assessments",
+      "page": 201
+    },
+    {
+      "level": "H3",
+      "text": "1. Initial Hazard Assessment",
+      "page": 201
+    },
+    {
+      "level": "H3",
+      "text": "2. Periodic Resurveys – The Purveyor will ensure that a DOH-certified CCS periodically",
+      "page": 201
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 202
+    },
+    {
+      "level": "H2",
+      "text": "Element 3:",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "1. Mandatory Premises Isolation for High-hazard Buildings, Facilities or Systems – The",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "2. Compliance with Uniform Plumbing Code/Additional Premises Isolation Requirements –",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "3. Plumbing/Water System Design – The Purveyor will ensure that the design of the plumbing",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "4. Approved Backflow Assemblies - The Purveyor will ensure that DOH-approved backflow",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "5. Installation Standards – The Purveyor will ensure that all approved backflow preventers are",
+      "page": 202
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 203
+    },
+    {
+      "level": "H2",
+      "text": "Element 4:",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "1. Program Administration - The Purveyor or his authorized agent is responsible for",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "2. DOH-Certified CCS – The Purveyor will employ, or have available on staff, at least one",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "3. CCS Duties – The Purveyor will ensure that a DOH-certified CCS does the following:",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "4. Current CCS Information – The following table(s) shows information related to the CCS(s)",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "Name of CCS",
+      "page": 203
+    },
+    {
+      "level": "H2",
+      "text": "{Insert or attach additional tables, if the Purveyor has more than one CCS that is involved",
+      "page": 203
+    },
+    {
+      "level": "H2",
+      "text": "with CCC program implementation.}",
+      "page": 203
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 204
+    },
+    {
+      "level": "H2",
+      "text": "Element 5:",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "1. Backflow Preventer Inspection and Testing – The Purveyor will ensure that all backflow",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "2. DOH-Approved Test Procedures - Per WAC 246-290-490 (7)(d), the Purveyor will ensure",
+      "page": 204
+    },
+    {
+      "level": "H2",
+      "text": "Element 6:",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "1. DOH-Certified Backflow Assembly Tester (BAT) Required - The Purveyor will ensure that",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "2. BAT Documentation Requirements - Prior to engaging a BAT to test assemblies within the",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "3. Alternate BAT Approach - In lieu of the above documentation, the Purveyor will engage a",
+      "page": 204
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 205
+    },
+    {
+      "level": "H2",
+      "text": "Element 7:",
+      "page": 205
+    },
+    {
+      "level": "H3",
+      "text": "1. Backflow Incident Response Plan - The Purveyor will develop a Backflow Incident",
+      "page": 205
+    },
+    {
+      "level": "H2",
+      "text": "[Optional Alternative:  The Purveyor has developed a Backflow Incident Response Plan and it",
+      "page": 205
+    },
+    {
+      "level": "H3",
+      "text": "2. Technical Resources - The Purveyor will use {Optional Alternative: “has used”} the",
+      "page": 205
+    },
+    {
+      "level": "H2",
+      "text": "Element 8 :",
+      "page": 205
+    },
+    {
+      "level": "H3",
+      "text": "1. Public Education Program - The Purveyor’s public education program for the Purveyor will",
+      "page": 205
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "2. Educational Materials - The Purveyor has adapted {Optional language: “will adapt”}",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "3. Frequency - The Purveyor will distribute, every two to three years, [Optional language:",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "4. Public Education Implementation – The Purveyor will document who has received public",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "Method",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "Brochure",
+      "page": 206
+    },
+    {
+      "level": "H2",
+      "text": "Element 9:",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "1. Required CCC Records - The Purveyor will maintain records of the following types of",
+      "page": 206
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 207
+    },
+    {
+      "level": "H3",
+      "text": "2. CCC Reports Required to be Prepared and Submitted - The Purveyor will prepare the",
+      "page": 207
+    },
+    {
+      "level": "H3",
+      "text": "3. CCS Review - The Purveyor’s CCS will complete and/or review the CCC reports for",
+      "page": 207
+    },
+    {
+      "level": "H2",
+      "text": "Element 10:",
+      "page": 207
+    },
+    {
+      "level": "H2",
+      "text": "[Alternative Option, if PWS receives/distributes reclaimed water: “The {Insert PWS name} Wa-",
+      "page": 207
+    },
+    {
+      "level": "H3",
+      "text": "Other Provisions",
+      "page": 207
+    },
+    {
+      "level": "H3",
+      "text": "1. Coordination With Local Administrative Authority: Both WAC 246-290-490 and the",
+      "page": 207
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 208
+    },
+    {
+      "level": "H3",
+      "text": "CCC",
+      "page": 208
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 209
+    },
+    {
+      "level": "H3",
+      "text": "Relationship to Other Planning and Program Operations",
+      "page": 209
+    },
+    {
+      "level": "H3",
+      "text": "1. The design of the water distribution system (and plumbing system) provides for expected",
+      "page": 209
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 210
+    },
+    {
+      "level": "H2",
+      "text": "Legal Instrument for a Non-community Water System CCC Program",
+      "page": 210
+    },
+    {
+      "level": "H2",
+      "text": "Background",
+      "page": 210
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 211
+    },
+    {
+      "level": "H2",
+      "text": "Finding of Fact:",
+      "page": 211
+    },
+    {
+      "level": "H2",
+      "text": "A.  Definitions",
+      "page": 211
+    },
+    {
+      "level": "H2",
+      "text": "B.  Administrative Provisions",
+      "page": 211
+    },
+    {
+      "level": "H3",
+      "text": "1. The Purveyor shall engage the services of a Department of Health (DOH) certified cross-",
+      "page": 211
+    },
+    {
+      "level": "H3",
+      "text": "2. The Purveyor, under the direction of the CCS as provided for in B-1, shall prepare a written",
+      "page": 211
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "4. The Purveyor shall incorporate the written program plan into the Water System Plan or",
+      "page": 212
+    },
+    {
+      "level": "H2",
+      "text": "C.  Technical Provisions",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "1. The Purveyor’s CCS shall perform hazard assessments of all water system and water-using",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "2. The Purveyor shall eliminate all cross-connections that are discovered by the CCS.  Where it",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "3. When a facility or building owned or served by the Purveyor is of a type included on Table",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "4. Cross-connection hazards found within buildings owned by the Purveyor will be protected",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "5. All backflow preventers owned by the Purveyor shall be inspected and/or tested in",
+      "page": 212
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 213
+    },
+    {
+      "level": "H3",
+      "text": "6. The Purveyor shall maintain records of hazard assessments, backflow preventers, and",
+      "page": 213
+    },
+    {
+      "level": "H3",
+      "text": "7. The Purveyor shall allocate resources as necessary to implement the provisions of this",
+      "page": 213
+    },
+    {
+      "level": "H2",
+      "text": "D.  Other Provisions",
+      "page": 213
+    },
+    {
+      "level": "H3",
+      "text": "_____________________________________________________________________________________________",
+      "page": 214
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "Appendix C",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Incident Response Plan",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "for a Small Water System",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "General",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "1. A backflow incident has occurred (i.e., drinking water supply has been contaminated) or",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "2. The complaint can’t be explained as a \"normal\" aesthetic problem.",
+      "page": 215
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 216
+    },
+    {
+      "level": "H2",
+      "text": "1. Customer Notification",
+      "page": 216
+    },
+    {
+      "level": "H2",
+      "text": "2. Identification of Source of Contamination",
+      "page": 216
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 217
+    },
+    {
+      "level": "H2",
+      "text": "3. Isolation of Contaminated Portion of System",
+      "page": 217
+    },
+    {
+      "level": "H2",
+      "text": "4. Public Health Impacts",
+      "page": 217
+    },
+    {
+      "level": "H2",
+      "text": "5. Cleaning/Disinfecting the Distribution System",
+      "page": 217
+    },
+    {
+      "level": "H2",
+      "text": "C.  Additional Information on Cleaning/Disinfecting the Distribution System",
+      "page": 217
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________________________",
+      "page": 218
+    },
+    {
+      "level": "H3",
+      "text": "1.  Physically clean the affected area using foam swabs (pigs); and/or",
+      "page": 218
+    },
+    {
+      "level": "H3",
+      "text": "2. Alter the form of the chemical contaminant (e.g., through oxidation using chlorination or",
+      "page": 218
+    },
+    {
+      "level": "H2",
+      "text": "the wrong chemical could make the contaminant more toxic to customers and/or more",
+      "page": 218
+    },
+    {
+      "level": "H2",
+      "text": "difficult to remove from the distribution system.",
+      "page": 218
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 219
+    },
+    {
+      "level": "H3",
+      "text": "Appendix D",
+      "page": 219
+    },
+    {
+      "level": "H3",
+      "text": "Program Administration Documents",
+      "page": 219
+    },
+    {
+      "level": "H3",
+      "text": "Appendix D contains sample forms, letters and standard installation drawings.  Purveyors may use any or",
+      "page": 219
+    },
+    {
+      "level": "H2",
+      "text": "Sample Forms",
+      "page": 219
+    },
+    {
+      "level": "H2",
+      "text": "Sample Letters",
+      "page": 219
+    },
+    {
+      "level": "H2",
+      "text": "Sample Standard Installation Drawings",
+      "page": 219
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "Application for Water Service (Service Agreement)",
+      "page": 220
+    },
+    {
+      "level": "H2",
+      "text": "Owner's Name: ___________________________________Phone: _______________________",
+      "page": 220
+    },
+    {
+      "level": "H2",
+      "text": "Mailing Address: _______________________________________________________________",
+      "page": 220
+    },
+    {
+      "level": "H2",
+      "text": "Location Address: ______________________________________________________________",
+      "page": 220
+    },
+    {
+      "level": "H2",
+      "text": "Legal Description: ______________________________________________________________",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "1. The undersigned applicant hereby applies for a water connection to the above-described property.",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "2. The applicant is the owner of the described property or the authorized agent of the owner.",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "3. As a condition of the {Insert PWS Name}, hereinafter referred to as the Purveyor, providing and continuing",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "4. The property owner specifically agrees:",
+      "page": 220
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "Applicant's Signature ______________________________Date __________________",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "Attachments received (have customer initial):",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "Water Rates/Charges _______________",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "Service Connection Information _____________",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "Water Service Policy ________________",
+      "page": 221
+    },
+    {
+      "level": "H2",
+      "text": "For Purveyor Use Only",
+      "page": 221
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "PWS ID  _______________ WATER SYSTEM NAME ______________________________________________ COUNTY ___________________",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "SERVICE ADDRESS                                                                                              CITY",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "CONTACT PERSON",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "LOCATION OF ASSEMBLY",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "DOWNSTREAM PROCESS",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "MAKE OF ASSEMBLY",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "INITIAL",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "TEST",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "PASSED  ",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "FAILED  ",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "NEW",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "PARTS",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "AND",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "REPAIRS",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "TEST AFTER",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "REPAIRS",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "PASSED  ",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "FAILED   ",
+      "page": 222
+    },
+    {
+      "level": "H3",
+      "text": "AIR GAP INSPECTION: Required minimum air gap separation provided?  Yes    No   Detector Meter Reading ____________",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "REMARKS: ______________________________________________________________________ LINE PRESSURE ______PSI",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "I certify that this report is accurate, and I have used WAC 246-290-490 approved test methods and test equipment.",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "TESTERS SIGNATURE: ____________________________________ CERT. NO. _____________DATE _____ /_______/_____",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "TESTERS NAME PRINTED: _________________________________ TESTERS PHONE # (           ) _____________________",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "REPAIRED BY: _____________________________________________________________________DATE ____/______/______",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "FINAL TEST BY:",
+      "page": 222
+    },
+    {
+      "level": "H2",
+      "text": "(SPECIALTY) PLUMBER CERT. NO. _____________________  CONTRACTOR LICENSE NO. _______________________",
+      "page": 222
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Backflow Prevention Assembly Test/Air Gap Inspection Report",
+      "page": 223
+    },
+    {
+      "level": "H3",
+      "text": "File Record",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "PWS Assigned Inventory Number: ___________",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Name of Premises:",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Premises Address:",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Location of Assembly:",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Type of Hazard Isolated:",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Assembly Type:                                                                  Assembly Size (inches):",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Make:                                    Model:                                 Serial No.:",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Date Installed:                                                                     DOH-Approved?            Y          N",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Date",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Test Notice",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Issued",
+      "page": 223
+    },
+    {
+      "level": "H3",
+      "text": "BAT",
+      "page": 223
+    },
+    {
+      "level": "H3",
+      "text": "Results",
+      "page": 223
+    },
+    {
+      "level": "H3",
+      "text": "+Attach all Backflow Assembly Test/AG Inspection Report forms.",
+      "page": 223
+    },
+    {
+      "level": "H2",
+      "text": "Comments/Notes (attach additional sheets if necessary):",
+      "page": 223
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 224
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Assembly Testers Pre-Approved for",
+      "page": 224
+    },
+    {
+      "level": "H3",
+      "text": "Submitting Test Reports to the {Insert PWS name}",
+      "page": 224
+    },
+    {
+      "level": "H3",
+      "text": "The following table lists Backflow Assembly Testers (BATs) that are pre-approved to test backflow",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "certification of the quality of services they provide.",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "additional requirements here such as business licenses, etc.}",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "However, only a currently DOH-certified BAT may test the assemblies that protect the public water system",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "from contamination.",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "Name of Tester",
+      "page": 224
+    },
+    {
+      "level": "H2",
+      "text": "Company Name and Address",
+      "page": 224
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Preliminary Cross-Connection Control Hazard Assessment Form",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Name of Customer or Business:  __________________________________________________",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Address:  ____________________________________________________________________",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Phone Number:  ___________________________________",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Description of Business:  ________________________________________________________",
+      "page": 225
+    },
+    {
+      "level": "H3",
+      "text": "Agricultural (farm or dairy)",
+      "page": 225
+    },
+    {
+      "level": "H3",
+      "text": "Film processing facility",
+      "page": 225
+    },
+    {
+      "level": "H3",
+      "text": "*e.g., parks, playgrounds, golf courses, cemeteries, estates, etc.",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Note to Customer: This form is used for preliminary assessment only.  The water purveyor may",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "This form was completed by (print name):  _________________________ Date:  _________",
+      "page": 225
+    },
+    {
+      "level": "H2",
+      "text": "Please return completed form by {insert date} and send to: {insert name/address}.",
+      "page": 225
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 226
+    },
+    {
+      "level": "H3",
+      "text": "Cross-Connection Control Hazard Survey Report",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Survey date: ____________",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Customer Information",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Water Service and Backflow Prevention Assembly (BPA) Size/Type",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Service",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Type",
+      "page": 226
+    },
+    {
+      "level": "H3",
+      "text": "BPA",
+      "page": 226
+    },
+    {
+      "level": "H3",
+      "text": "BPA",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Domestic",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Fire",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Irrigation",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Other",
+      "page": 226
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Control Specialist (CCS) Information",
+      "page": 226
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 227
+    },
+    {
+      "level": "H2",
+      "text": "Survey Results",
+      "page": 227
+    },
+    {
+      "level": "H3",
+      "text": "Item",
+      "page": 227
+    },
+    {
+      "level": "H3",
+      "text": "Attach additional sheets if needed.",
+      "page": 227
+    },
+    {
+      "level": "H2",
+      "text": "Surveyor's Comments",
+      "page": 227
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 228
+    },
+    {
+      "level": "H2",
+      "text": "Surveyor's Recommendations",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "1. I found the following type(s) of premises isolation backflow preventer(s):",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "2. The existing backflow preventer(s) is/are properly installed.",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "3. The existing backflow preventer(s) is/are commensurate with the degree of hazard:.",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "4. Since no backflow preventer was installed for premises isolation, the premises owner should install a",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "5. The premises owner should replace the existing premises isolation backflow preventer(s) with the",
+      "page": 228
+    },
+    {
+      "level": "H2",
+      "text": "CCS Signature: _________________________________Date: ______________",
+      "page": 228
+    },
+    {
+      "level": "H2",
+      "text": "Signature: _______________________________________Date: ____________",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "Note: Customers and regulatory agencies should be aware that the Purveyor's requirement for this cross-",
+      "page": 228
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "Water Use Questionnaire",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "Customer Account Number (optional)",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "Please indicate whether the special plumbing or activities listed below apply to your premises:",
+      "page": 229
+    },
+    {
+      "level": "H2",
+      "text": "Yes",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "*  Based on their knowledge of residential connections served, public water systems may “customize”",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "Completed by (print name): ___________________________",
+      "page": 229
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 230
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Incident Report Form",
+      "page": 230
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 231
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Incident Report Form",
+      "page": 231
+    },
+    {
+      "level": "H3",
+      "text": "Reporting Agency: ____________________________________ Report Date: _______________",
+      "page": 231
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "_______________________________________________________________________________",
+      "page": 232
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 233
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 234
+    },
+    {
+      "level": "H2",
+      "text": "Letter Requesting Customer to Complete Water Use Questionnaire",
+      "page": 234
+    },
+    {
+      "level": "H2",
+      "text": "Please complete the attached questionnaire by checking the applicable boxes on the table; and",
+      "page": 234
+    },
+    {
+      "level": "H2",
+      "text": "return the completed, signed questionnaire by {insert date} to the address shown on the letterhead {or insert",
+      "page": 234
+    },
+    {
+      "level": "H2",
+      "text": "address if different}.",
+      "page": 234
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 235
+    },
+    {
+      "level": "H2",
+      "text": "Notice of Survey of Premises (Non-Residential/Multi-Family Residential)",
+      "page": 235
+    },
+    {
+      "level": "H2",
+      "text": "Customer-Employed Cross-Connection Control Specialist",
+      "page": 235
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 235
+    },
+    {
+      "level": "H2",
+      "text": "A cross-connection survey needs to be conducted for us to make the hazard assessment for your premises.",
+      "page": 235
+    },
+    {
+      "level": "H2",
+      "text": "Please arrange for the attached survey form to be completed and returned to this office by {insert date}.  A",
+      "page": 235
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 236
+    },
+    {
+      "level": "H2",
+      "text": "Request to Install Backflow Prevention Assembly",
+      "page": 236
+    },
+    {
+      "level": "H2",
+      "text": "purpose of this letter is to inform you of a requirement to install a backflow assembly.",
+      "page": 236
+    },
+    {
+      "level": "H2",
+      "text": "Department of Health-approved {insert type of assembly} is required to be installed on your service line (at a",
+      "page": 236
+    },
+    {
+      "level": "H2",
+      "text": "location downstream of the water meter).",
+      "page": 236
+    },
+    {
+      "level": "H2",
+      "text": "number}.",
+      "page": 236
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 236
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 237
+    },
+    {
+      "level": "H2",
+      "text": "Request To Submit Test of Backflow Prevention Assembly",
+      "page": 237
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 237
+    },
+    {
+      "level": "H3",
+      "text": "Dear ________ Water System Customer:",
+      "page": 237
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 237
+    },
+    {
+      "level": "H3",
+      "text": "Enclosures:",
+      "page": 237
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 238
+    },
+    {
+      "level": "H2",
+      "text": "Second Notice to Test Backflow Prevention Assembly",
+      "page": 238
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 238
+    },
+    {
+      "level": "H3",
+      "text": "Dear ________ Water System Customer:",
+      "page": 238
+    },
+    {
+      "level": "H2",
+      "text": "today’s date, you have not submitted the requested Assembly Test Report(s).  If you believe this is in error,",
+      "page": 238
+    },
+    {
+      "level": "H2",
+      "text": "of the date of this letter.",
+      "page": 238
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 238
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 239
+    },
+    {
+      "level": "H2",
+      "text": "Standard Installation Drawings",
+      "page": 239
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 240
+    },
+    {
+      "level": "H3",
+      "text": "Premises Isolation",
+      "page": 240
+    },
+    {
+      "level": "H3",
+      "text": "Alternate2: purveyor Accepts Back-",
+      "page": 240
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 241
+    },
+    {
+      "level": "H3",
+      "text": "Purveyor Approved",
+      "page": 241
+    },
+    {
+      "level": "H3",
+      "text": "__________________________________________________________________________________________________",
+      "page": 242
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "Appendix E",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "Annual Summary Report Forms",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "Appendix E contains sample cross-connection control (CCC) Annual Summary Report forms.",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "1. Cross-Connection Control Activities Annual Summary Report",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "2. Cross-Connection Control Program Summary Report",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "3. Exceptions to High Health Hazard Premises Isolation Requirements",
+      "page": 243
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "Annual Summary Report for Year 2003",
+      "page": 244
+    },
+    {
+      "level": "H2",
+      "text": "Part 1: Public Water System (PWS) and Cross-Connection Control Specialist (CCS) Information",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "PWS ID:",
+      "page": 244
+    },
+    {
+      "level": "H2",
+      "text": "Part 2: Status of Cross-Connection Control (CCC) Program",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "Program",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "Element",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "Number",
+      "page": 244
+    },
+    {
+      "level": "H2",
+      "text": "Part 3A: System Characteristics at End of 2003",
+      "page": 244
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 245
+    },
+    {
+      "level": "H2",
+      "text": "Part 3B: Cross-Connection Control for High-Hazard Premises or Systems Served by the PWS",
+      "page": 245
+    },
+    {
+      "level": "H2",
+      "text": "If PWS does not serve any high-hazard premises or systems, check here",
+      "page": 245
+    },
+    {
+      "level": "H2",
+      "text": "Type of High-Hazard Premises or Systems",
+      "page": 245
+    },
+    {
+      "level": "H2",
+      "text": "Totals",
+      "page": 245
+    },
+    {
+      "level": "H3",
+      "text": "additional sheet giving same information as requested by table.",
+      "page": 245
+    },
+    {
+      "level": "H2",
+      "text": "Part 4A: Backflow Preventer Inventory and Testing Data During Year 2003",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "Count only the backflow preventers that the PWS relies upon for protection of the distribution system.  If your records do not distinguish between premises isolation",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "and in-premises protection preventers, enter all data in Premises Isolation section and check the box.",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Preventer Category and Testing/",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "RPBA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "RPDA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "DCVA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "DCDA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "PVBA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "SVBA",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "AVB",
+      "page": 246
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Part 4B: Other Implementation Activities in 2003",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "New services connections evaluated for cross-connection hazards to PWS in 2003.",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "New services connections requiring backflow protection to protect PWS.1",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Existing services connections evaluated for cross-connection hazards to PWS in 2003.",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Existing services connections requiring backflow protection to protect PWS.1, 2",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Part 5: Backflow Incidents, Risk Factors and Indicators during 2003",
+      "page": 247
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Incidents, Risk Factors and Indicators during 2003",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Backflow Incidents during 2003",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "only.5",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Risk Factors for Backflow during 2003",
+      "page": 247
+    },
+    {
+      "level": "H2",
+      "text": "Indicators of Possible Backflow during 2003",
+      "page": 247
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 248
+    },
+    {
+      "level": "H2",
+      "text": ".Part 6: Comments and Clarifications",
+      "page": 248
+    },
+    {
+      "level": "H2",
+      "text": "Note for on-screen completion: Comments will not “wordwrap” from one line to the next.  Press <Enter> to con-",
+      "page": 248
+    },
+    {
+      "level": "H2",
+      "text": "Part No.",
+      "page": 248
+    },
+    {
+      "level": "H2",
+      "text": "Part 7: Report Completion Information",
+      "page": 248
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 249
+    },
+    {
+      "level": "H3",
+      "text": "Cross-Connection Control Program Summary",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "Describe the characteristics of the PWS’s CCC Program at the end of the 2003 reporting year.",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "Part 1: Public Water System (PWS) Identification",
+      "page": 249
+    },
+    {
+      "level": "H3",
+      "text": "PWS ID:",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "Part 2: Cross-Connection Control (CCC) Program Characteristics",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "A. Type of Program Currently Implemented",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "Type of Program",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "B. Coordination with Local Administrative Authority (LAA) on Cross-Connection Issues",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "LAA",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "No.",
+      "page": 249
+    },
+    {
+      "level": "H3",
+      "text": "1 If more than 5 LAAs, attach separate sheet giving the above information.",
+      "page": 249
+    },
+    {
+      "level": "H2",
+      "text": "C. Corrective or Enforcement Actions Available to the Purveyor",
+      "page": 249
+    },
+    {
+      "level": "H3",
+      "text": "Type of Corrective Action",
+      "page": 249
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "D. CCC Program Typical Responsibilities",
+      "page": 250
+    },
+    {
+      "level": "H3",
+      "text": "Customer",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "E. Backflow Protection for Fire Protection Systems",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "Please remember to enter number of days allowed if you require retrofitting.",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "F. Backflow Protection for Irrigation Systems",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "Minimum level of backflow prevention required on irrigation",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "G. Used Water",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "H. Backflow Protection for Unapproved Auxiliary Water Supplies1 NOT Interconnected with PWS",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "Existing service connections.",
+      "page": 250
+    },
+    {
+      "level": "H2",
+      "text": "New service connections.",
+      "page": 250
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "I. Backflow Protection for Tanker Trucks and Temporary Water Connections",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "Minimum level of backflow protection (installed",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "Minimum level of backflow protection required for",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "J. Backflow Protection for Non-Residential Connections",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "minimum level of premises isolation backflow protection required (whether or not PWS currently has that type of",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "Type of Connection",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "K. Backflow Protection for Wholesale Customers",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "Type of",
+      "page": 251
+    },
+    {
+      "level": "H2",
+      "text": "Intertie",
+      "page": 251
+    },
+    {
+      "level": "H3",
+      "text": "Existing",
+      "page": 251
+    },
+    {
+      "level": "H3",
+      "text": "New",
+      "page": 251
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 252
+    },
+    {
+      "level": "H2",
+      "text": "Part 3: CCC Program Record-Keeping and Inventory",
+      "page": 252
+    },
+    {
+      "level": "H2",
+      "text": "Part 4: Comments and Clarifications",
+      "page": 252
+    },
+    {
+      "level": "H2",
+      "text": "Note for on-screen completion : Comments will not “wordwrap” from one line to the next.  Press <Enter> to con-",
+      "page": 252
+    },
+    {
+      "level": "H2",
+      "text": "Part No.",
+      "page": 252
+    },
+    {
+      "level": "H2",
+      "text": "Part 5: CCC Program Summary Completion Information",
+      "page": 252
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "For 2003 Annual Summary Report",
+      "page": 253
+    },
+    {
+      "level": "H2",
+      "text": "Exceptions forms must be completed and submitted to the Department of Health (DOH) with the",
+      "page": 253
+    },
+    {
+      "level": "H2",
+      "text": "Annual Summary Report per WAC 246-290-490(4)(b)(iii).",
+      "page": 253
+    },
+    {
+      "level": "H2",
+      "text": "Part 1: Public Water System (PWS) Information",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "PWS ID:",
+      "page": 253
+    },
+    {
+      "level": "H2",
+      "text": "Part 2: Premises Information",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "Name of Premises",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "Service Address",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "Premises Type or Category – Refer to Table 9",
+      "page": 253
+    },
+    {
+      "level": "H2",
+      "text": "Part 3: Information Regarding Exception to Premises Isolation",
+      "page": 253
+    },
+    {
+      "level": "H3",
+      "text": "Name of Premises: ______________________________________________________",
+      "page": 254
+    },
+    {
+      "level": "H3",
+      "text": "______________________________________________________________________________________________________",
+      "page": 254
+    },
+    {
+      "level": "H2",
+      "text": "Part 4: Justification for not Requiring Premises Isolation Using AG, RPBA or RPDA",
+      "page": 254
+    },
+    {
+      "level": "H2",
+      "text": "Reason that the Premises Do Not Pose a High Health Hazard to",
+      "page": 254
+    },
+    {
+      "level": "H3",
+      "text": "PWS",
+      "page": 254
+    },
+    {
+      "level": "H3",
+      "text": "Medical/Health Services Facility not having laboratory or similar",
+      "page": 254
+    },
+    {
+      "level": "H2",
+      "text": "Part 5: Form Completion Information",
+      "page": 254
+    },
+    {
+      "level": "H2",
+      "text": "Appendix F",
+      "page": 255
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Control Resource Information",
+      "page": 255
+    },
+    {
+      "level": "H3",
+      "text": "Cross Connection Control Manual,",
+      "page": 255
+    },
+    {
+      "level": "H2",
+      "text": "Summary of Backflow Incidents",
+      "page": 255
+    },
+    {
+      "level": "H3",
+      "text": "Backflow Incident Investigation",
+      "page": 255
+    },
+    {
+      "level": "H2",
+      "text": "Local, Regional and National Cross-Connection Control Organizations",
+      "page": 256
+    },
+    {
+      "level": "H2",
+      "text": "Within Washington",
+      "page": 256
+    },
+    {
+      "level": "H3",
+      "text": "Western Washington Cross-",
+      "page": 256
+    },
+    {
+      "level": "H3",
+      "text": "Spokane Regional Cross-Connection",
+      "page": 256
+    },
+    {
+      "level": "H2",
+      "text": "Organization Information",
+      "page": 257
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 257
+    },
+    {
+      "level": "H2",
+      "text": "Resources Available",
+      "page": 257
+    },
+    {
+      "level": "H2",
+      "text": "(Publications in Italics)",
+      "page": 257
+    },
+    {
+      "level": "H3",
+      "text": "Washington Environmental Training",
+      "page": 257
+    },
+    {
+      "level": "H3",
+      "text": "Evergreen Rural Water of Washing-",
+      "page": 257
+    },
+    {
+      "level": "H2",
+      "text": "Regional",
+      "page": 257
+    },
+    {
+      "level": "H2",
+      "text": "Organization Information",
+      "page": 258
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 258
+    },
+    {
+      "level": "H2",
+      "text": "Resources Available",
+      "page": 258
+    },
+    {
+      "level": "H2",
+      "text": "(Publications in Italics)",
+      "page": 258
+    },
+    {
+      "level": "H3",
+      "text": "CCC Committee",
+      "page": 258
+    },
+    {
+      "level": "H3",
+      "text": "Clackamas Community College",
+      "page": 258
+    },
+    {
+      "level": "H2",
+      "text": "National",
+      "page": 258
+    },
+    {
+      "level": "H2",
+      "text": "Organization Information",
+      "page": 259
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 259
+    },
+    {
+      "level": "H2",
+      "text": "Resources Available",
+      "page": 259
+    },
+    {
+      "level": "H2",
+      "text": "(Publications in Italics)",
+      "page": 259
+    },
+    {
+      "level": "H3",
+      "text": "University of Southern California",
+      "page": 259
+    },
+    {
+      "level": "H3",
+      "text": "Drinking Water and Backflow Pre-",
+      "page": 259
+    },
+    {
+      "level": "H2",
+      "text": "Cross-Connection Control Software",
+      "page": 260
+    },
+    {
+      "level": "H3",
+      "text": "BMI",
+      "page": 260
+    },
+    {
+      "level": "H2",
+      "text": "Software Program Title",
+      "page": 261
+    },
+    {
+      "level": "H2",
+      "text": "Company Name and Address",
+      "page": 261
+    },
+    {
+      "level": "H2",
+      "text": "Contact Information",
+      "page": 261
+    },
+    {
+      "level": "H3",
+      "text": "Smart Water Systems",
+      "page": 261
+    },
+    {
+      "level": "H2",
+      "text": "Smart Water Systems",
+      "page": 261
+    },
+    {
+      "level": "H2",
+      "text": "(No website at present)",
+      "page": 261
+    }
+  ]
+}

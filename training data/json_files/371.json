@@ -1,0 +1,80 @@
+{
+  "title": "PowerPoint Presentation",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Buddy Bland",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "OLCF Project Director",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Presented to:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Since clock-rate scaling ended in 2003,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Jaguar: 2.3 PF",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Vendors: Cray™ / NVIDIA™",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Hybrid Multi-Core (like Titan)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Approach",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Evaluation Criteria:",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "RFP",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Vendor: IBM (Prime) / NVIDIA™ / Mellanox Technologies®",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "NVLINK",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Stacked (HBM) Memory",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "InfiniBand Interconnect",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Feature",
+      "page": 15
+    }
+  ]
+}

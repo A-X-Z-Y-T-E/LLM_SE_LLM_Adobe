@@ -1,0 +1,2220 @@
+{
+  "title": "local_run_dir_tmp/plots//run16167101_p1.ps: L2 Times",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "FirstDSM -> LastDSM (including BTOW & ETOW if in run)  (Run 16167101)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "201.2",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "109.7",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "FirstDSM -> LastDSM (including BTOW & ETOW if in run)  (Run 16167101)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "lastDSM -> trg",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "5.316",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.371",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "lastDSM -> trg",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "L2 algorithm time (Total) (trg -> evtacc)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "5.23",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "0.9513",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "L2 algorithm time (Total) (trg -> evtacc)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Accept or Abort (evtacc -> accsent)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "12.66",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2.545",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Accept or Abort (evtacc -> accsent)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Release (accsent -> relsent)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.409",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "1.918",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Release (accsent -> relsent)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "percent of run",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "input rate",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "input rate",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "firstDSM->accept (or abort) sent",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "227.2",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "110.9",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "firstDSM->accept (or abort) sent",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "lastDSM -> accept (or abort)  (L2 processing time)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.566",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "lastDSM -> accept (or abort)  (L2 processing time)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800 -600 -400 -200",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BBC times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "8.713",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "25.57",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BBC times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800 -600 -400 -200",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BC1 times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "45.98",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "29.13",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BC1 times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800 -600 -400 -200",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BCE times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "34.74",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "28.87",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BCE times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800 -600 -400 -200",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BCW times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "53.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "29.95",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "BCW times (relative to L1)",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "BBQ times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "149.3",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "103.8",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "BBQ times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800-600-400-200 0 200400600800",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "FMS times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "70.54",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "109.1",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "FMS times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "-1000-800 -600 -400 -200",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "MIX times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "21.6",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "26.86",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "MIX times (relative to L1)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "-1400-1200-1000-800 -600 -400 -200",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "L1 times (relative to lastDSMin)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "-188",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "108.2",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "L1 times (relative to lastDSMin)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT1 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "101.4",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "112.5",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT1 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT2 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "118.7",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "113.1",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT2 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT3 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "120.4",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT3 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT4 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "105.1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "112.2",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "QT4 times (relative to L1)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "-1000",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "-500",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "MXQ times (relative to L1)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "80.61",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "58.28",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "MXQ times (relative to L1)",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1010.00001",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00002",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00003",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00004",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00005",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00006",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00007",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00008",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.00009",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "FEQ times (relative to L1)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "FEQ times (relative to L1)",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "BTOW arrival (relative to L1)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "BTOW arrival (relative to L1)",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "ETOW arrival (relative to L1)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "ETOW arrival (relative to L1)",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "BTOW arrival (relative to firstDSM)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "BTOW arrival (relative to firstDSM)",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ETOW arrival (relative to firstDSM)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ETOW arrival (relative to firstDSM)",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "BTOW compute done (relative to firstDSM)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "BTOW compute done (relative to firstDSM)",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "ETOW compute done (relative to firstDSM)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "ETOW compute done (relative to firstDSM)",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "-0.5",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "0.5",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "BTOW calibrate time",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "BTOW calibrate time",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "-0.5",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "0.5",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "ETOW calibrate time",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "ETOW calibrate time",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "-0.5",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "0.5",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "BTOW calibrate time",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "BTOW calibrate time",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "-0.5",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "0.5",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "BTOW compute time",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "BTOW compute time",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "BTOW (Last DSM - Compute Done) times cut at 300us",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "BTOW (Last DSM - Compute Done) times cut at 300us",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "ETOW (Last DSM - Compute Done) times cut at 300us",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "ETOW (Last DSM - Compute Done) times cut at 300us",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "BTOW (Last DSM - Compute Done) Full timescale",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Entries",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "BTOW (Last DSM - Compute Done) Full timescale",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "10.000010.0000210.0000310.0000410.0000510.0000610.0000710.0000810.00009",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "ETOW (Last DSM - Compute Done) Full timescale",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "ETOW (Last DSM - Compute Done) Full timescale",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "-0.5",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 1",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Mean",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "RMS",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 1",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "-0.5",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 2",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 2",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "-0.5",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 3",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "L1 Time 3",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg1",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg1",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg2",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "4.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg2",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg3",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg3",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg4",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "alg4",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg6",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg6",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg7",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg7",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg9",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg9",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg10",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg10",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg11",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg11",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg12",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg12",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg13",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg13",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg14",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg14",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "10 12 14 16 18 20",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg15",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg15",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg16",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "alg16",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg17",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg17",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg18",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg18",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg19",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg19",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg20",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Entries",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Mean",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "RMS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "alg20",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg21",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg21",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg22",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg22",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg23",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg23",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg24",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg24",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg25",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg25",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg26",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg26",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg27",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg27",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2 2.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "3 3.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "4 4.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg28",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg28",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg29",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg29",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "2.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "3.5",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg30",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg30",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "0 0.2 0.4 0.6 0.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "1 1.2 1.4 1.6 1.8",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg31",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg31",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg32",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "alg32",
+      "page": 18
+    }
+  ]
+}

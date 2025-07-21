@@ -1,0 +1,940 @@
+{
+  "title": "Notas de Orientación: Responsabilidad de Datos en La  \rAsistencia en Efectivo y Mediante Vales (CVA)",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "RESPONSABILIDAD DE LOS DATOS EN LA RESPUESTA HUMANITARIA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RESPONSABILIDAD DE DATOS EN LA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ASISTENCIA EN EFECTIVO Y MEDIANTE VALES",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "(CVA)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CONCLUSIONES FUNDAMENTALES:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t En los últimos años los agentes humanitarios han hecho un progreso considerable al promover",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "la responsabilidad de datos en asistencia en efectivo y mediante vales (CVA). Sin embargo,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "existen brechas entre los marcos de responsabilidad de datos y su aplicación práctica en la",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ejecución de la CVA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Hay muchos recursos disponibles en la protección de datos en los programas de CVA, pero",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "existe una falta de orientación y herramientas prácticas en el manejo responsable de datos no",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "personales que son confidenciales.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Los beneficios más comunes relacionados con los datos en CVA incluyen: (i) mayor comprensión",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "de prioridades, necesidades y preferencia; (ii) mejora de asistencia, incluyendo la deduplicación",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "de listas de beneficiarios; (iii) incremento de eficiencia y efectividad de diferentes mecanismos de",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "distribución; y (iv) fomentar la transparencia y responsabilidad.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Los riesgos más comunes relacionados con los datos: (i) la exposición de datos sensibles",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "que  pueden llegar a dañar a personas afectadas y/o al personal humanitario; (ii) brechas en",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "la protección de datos, privacidad de datos y seguridad de datos con fines humanitarios por",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "terceras partes; y (iv) pérdida de confianza entre las personas afectadas y las organizaciones",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitarias.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Las organizaciones humanitarias pueden mejorar la responsabilidad de datos en la CVA al llevar",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "los siguientes pasos: (i) esquematizar ecosistemas de datos de la CVA (ii) el establecimiento de un",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "protocolo de intercambio de información específico para los programas de CVA; (iii) el",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "establecimiento de acuerdos de intercambio de datos personales; (iv) la realización de",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "evaluaciones del impacto de los datos en todas las intervenciones de CVA; (v) la introducción de",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "procedimientos de gestión de incidentes de datos; y (vi) el seguimiento de las cuestiones y los",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "progresos en la responsabilidad de datos a través de las estructuras de coordinación.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCCIÓN",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "A medida que las herramientas digitales se convierten cada vez más importantes en la prestación de",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "asistencia en efectivo y mediante vales (CVA), las organizaciones humanitarias, proveedores de servicios",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "financieros, y otras partes interesadas se reúnen, almacenan, usan y comparten volúmenes de datos cada",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "vez más grandes. Estas tendencias se han acelerado en respuesta al COVID-19, para que los agentes del",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "efectivo han ampliado y adaptado sus programas de CVA en función de los retos particulares que plantea",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "la pandemia, con una preferencia hacia pagos electrónicos o pagos hechos mediante el celular para reducir",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "el riesgo de contagio.1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "De acuerdo con el reporte del 2020 State of the World’s Cash (Estado del Efectivo Mundial 2020), la",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "percepción de los riesgos digitales y de gestión de datos ha aumentado también su importancia en",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "los últimos años.2 En varios foros de CVA se han reconocido las siguientes preocupaciones3: (i) existe",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "una importante carencia de recursos prácticos para ayudar a los profesionales a conciliar las normas",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "éticas contenidas en las políticas de responsabilidad de los datos con la presión diaria para ejecutar los",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "programas; (ii) no existen mecanismos que permitan compartir colectivamente y aprender de los casos",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "de gestión de incidentes de datos críticos; y (iii) la disminución de tolerancia al riesgo en el CVA, en parte",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "debido a las medidas contra el lavado de dinero, el terrorismo y a la economía política del efectivo, que se",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "extiende al espacio de la gestión de datos.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Los agentes humanitarios han hecho un progreso considerable en promover la responsabilidad de datos",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "en el CVA. Con ayuda de una serie de iniciativas4 que tienen como objetivo garantizar la protección de",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "los beneficiarios que brindan ayuda y también apoyar formas de trabajo más eficientes, colaborativas y",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "basadas en datos. Los acuerdos bilaterales y multilaterales entre las organizaciones humanitarias, incluidos",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "los acuerdos globales de intercambio de datos y las estrategias de ejecución de programas conjuntos,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "complementando estos esfuerzos colectivos.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Sin embargo, siguen existiendo brechas entre los marcos globales de responsabilidad de los datos y su",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "aplicación práctica en la prestación de CVA. El propósito de esta nota orientativa es ayudar al ofrecer una",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "visión general de los beneficios y riesgos comunes relacionados con los datos que encuentran los agentes",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "del efectivo. También ofrece un conjunto de acciones que las organizaciones pueden llevar a cabo para",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "mejorar la responsabilidad de los datos en la prestación de asistencia en efectivo y mediante vales.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "GESTIÓN DE DATOS PARA LA AYUDA EN EFECTIVO Y MEDIANTE VALES",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "La CVA necesita una recolección de datos personal y no personal que podrían considerarse datos sensibles",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "en la mayoría de los contextos humanitarios. Los datos personales que normalmente se recolectan en",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "los programas de CVA incluyen números de identificación nacional, números telefónicos, direcciones,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "nombres de familiares, detalles personales del banco, datos biométricos, entre otros. Los datos no",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "personales más comunes en los programas de CVA incluyen micro datos de encuestas, evaluaciones de",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "necesidades, información demográfica identificable sobre los diferentes grupos que reciben asistencia,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "datos de localización de los puntos de distribución de CVA y datos anónimos y/o agregados de las opiniones",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "de la comunidad, entre otros. El suministro de CVA también genera nuevas formas de metadatos5 que las",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "organizaciones humanitarias que anteriormente no han gestionado, como los datos sobre las transacciones",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "con diferentes proveedores de servicios financieros y los patrones de gasto o consumo de las poblaciones",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "afectadas.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "A diferencia de otros ámbitos de la asistencia humanitaria, el CVA involucra a una gama especialmente",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "amplia y diversa de agentes. La complejidad del flujo de datos entre las organizaciones humanitarias y los",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "diferentes socios que participan en la prestación del CVA da lugar a problemas de protección de datos y a",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "otras preocupaciones, que se exponen con más detalle a continuación.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "En los programas de CVA se aplican diferentes criterios sobre la responsabilidad de los datos según las",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "organizaciones y los contextos. Esto se debe a (i) la variación de los distintos niveles de familiaridad con",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "las orientaciones existentes sobre la responsabilidad de los datos y las correspondientes deficiencias de",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "capacidad entre el personal de los programas y (ii) la evolución de los riesgos de datos relacionados a",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "nuevas formas de distribución de mecanismos y modelos de colaboración en la CVA. Principalmente las",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "DATOS RELACIONADOS CON BENEFICIOS Y RIEGOS EN LA ASISTENCIA EN",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "EFECTIVO Y MEDIANTE VALES",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "La responsabilidad de datos requiere un claro entendimiento de ambos, los beneficios y los riegos",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "asociados con la gestión de datos. Aunque pueden variar de un entorno a otro, hay beneficios y riesgos",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "relacionados con los datos que se reconocen comúnmente en la comunidad de CVA.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Los beneficios que incluye el CVA:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Mayor comprensión de prioridades, necesidades y preferencias.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Mejora de asistencia, incluyendo la deduplicación de listas de beneficiarios.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Incremento de eficacia y efectividad de diferentes mecanismos de distribución.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Fomentar la transparencia y responsabilidad.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Los riesgos que incluye el CVA:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t La exposición de datos sensibles que pueden llegar a dañar a personas afectadas y/o al personal",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "humanitario.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Brechas en la protección de datos, privacidad de datos y seguridad de estos.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Uso indebido por terceras partes de los datos con fines humanitarios.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Pérdida de confianza entre las personas afectadas.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Reglamento de \"Conocimiento del cliente\", conocido también como diligencia debida con respecto al cliente, él cual",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Para más información sobre KYC en la asistencia humanitaria en efectivo y mediante vales, vea, \"La hoja de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "consejos de Elan sobre el Reglamento de KYC” y Normas de ACNUR y World Vision sobre conocimiento del cliente y",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "recomendaciones de privacidad para las transferencias de efectivo”.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6  Para más información sobre la protección de datos en la asistencia con dinero en efectivo y mediante vales. Veáse Protecting Beneficiary de",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "orientativas existentes6 se centran en la gestión segura y la protección de los datos personales, y no",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "abordan plenamente las preocupaciones relacionadas con los datos no personales, que son sensibles en",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "muchos contextos y requieren una sólida protección.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "RECOMENDACIONES PARA MEJORAR LA RESPONSABILIDAD DE DATOS EN LA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ASISTENCIA EN EFECTIVO Y MEDIANTE VALES",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "La responsabilidad de datos requiere la implementación de acciones basadas en diferentes niveles de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "respuestas humanitarias. Esto incluye acciones para garantizar la protección y la seguridad de los datos, así",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "como estrategias para minimizar los riesgos y maximizar los beneficios de la gestión de datos.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "El centro humanitario de datos, CaLP and NORCAP/Consejo Noruego de Refugiados",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "recomiendan el seguimiento de acciones para mejorar la responsabilidad de datos en la prestación de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "asistencia en efectivo y mediante vales:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Esquematizar ecosistemas de datos de la CVA.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t El establecimiento de un protocolo de intercambio de información específico para los programas",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de CVA.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t El establecimiento de acuerdos en intercambio de datos personales.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t La realización de evaluaciones de impacto de datos en todas las intervenciones de CVA.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t La introducción de procedimientos de gestión de incidentes de datos.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t El seguimiento de las cuestiones y los progresos en la responsabilidad de datos a través de las",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "estructuras de coordinación.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "La siguiente tabla ofrece una descripción de estas acciones y referencias de una orientación adicional y",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "plantillas de diferentes organizaciones humanitarias, cuando estén disponibles.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Orientación práctica para la Comunidad de Efectivo: Conjunto de herramientas de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "responsabilidad de datos del CaLP",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Conjunto de herramientas de responsabilidad de datos del CaLp ofrece una guía detallada sobre",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "responsabilidad de los datos en la asistencia con dinero en efectivo y mediante vales. El conjunto de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "herramientas pretende reflejar mejor la complejidad de las relaciones con los socios, los modelos",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "de prestación de servicios operativos y los flujos de datos asociados. También pretende abordar los",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "elementos de la recolección de datos a distancia que surgieron a principios del año 2020 en vista del",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "El conjunto de herramientas destaca la necesidad de un enfoque ecosistémico y de un análisis de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "poder entre quienes recolectan, utilizan y comparten los datos de los beneficiarios del CVA. También",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "señala la necesidad de contextualización, creatividad, capacidad y colaboración entre los agentes del",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CVA y entre los equipos organizativos para garantizar una mejor protección de los datos.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "El conjunto de herramientas incluye una profunda consideración de algunas de las dificultades entre",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "los diferentes agentes con respecto a los datos, así como orientación sobre el intercambio de datos,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "las relaciones entre los controladores y los procesadores de datos,  las evaluaciones de impacto",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "sobre la privacidad, las bases legales para la recolección de datos (incluyendo el consentimiento y",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "los intereses legítimos), la preparación para posibles incidentes críticos de datos o violaciones, y la",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "comunicación con las poblaciones afectadas sobre la recolección y el procesamiento de datos.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Está estructurado en torno a las diferentes etapas de un ciclo de vida de los datos típico de los",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "programas de CVA y abarca tanto los datos personales como los no personales, al tiempo que",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "incorpora los nuevos requisitos legales derivados del Reglamento General de Protección de Datos de",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "la Unión Europea.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Acción",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Esquematizar",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ecosistemas de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "datos de la CVA.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "El establecimiento",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de un protocolo",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de intercambio",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de información",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "específico para los",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "programas de CVA.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "El establecimiento",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de acuerdos en",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "intercambio de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "datos personales.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La realización",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de evaluaciones",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de impacto de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "datos en todas las",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "intervenciones de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "CVA.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "La introducción de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "procedimientos",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de gestión de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "incidentes de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "datos.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "El seguimiento de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "las cuestiones y",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "los progresos en la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "responsabilidad de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "datos a través de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "las estructuras de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "coordinación.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Las organizaciones son alentadas a compartir su experiencia al promover la responsabilidad de datos en la",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "prestación de asistencia en efectivo y mediante vales con el centro por medio de centrehumdata@un.org.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Este proyecto esta",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "El Centro Para Los Datos Humanitarios ('El Centro'), junto con socios importantes, está publicando una serie",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2020. La serie de notas de orientación sigue a la publicación del borrador de trabajo de las Directrices de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Responsabilidad en marzo del 2019. A través de esta serie, el Centro pretende proporcionar orientación adicional",
+      "page": 6
+    }
+  ]
+}

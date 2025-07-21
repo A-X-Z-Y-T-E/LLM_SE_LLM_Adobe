@@ -1,0 +1,1290 @@
+{
+  "title": "Notas de Orientación: Ética de Los Datos Humanitarios",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ÉTICA DE LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CONCLUSIONES FUNDAMENTALES:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t La ética se define como el estudio de lo que es moralmente correcto e incorrecto, o un conjunto",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "de creencias sobre lo que es moralmente correcto e incorrecto. La ética ayuda a sentar las bases",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "de las normas, puede utilizarse para interpretar las normas establecidas y puede aplicarse",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "directamente como guía en situaciones para las que las normas, las leyes y los reglamentos no",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "brinden orientación alguna.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t La ética humanitaria se ha desarrollado como una ética basada en principios, fundamentada",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "en los principios de humanidad, imparcialidad, neutralidad e independencia que guían",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "la prestación de asistencia y protección humanitarias. Los marcos existentes para la ética",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "humanitaria deben ampliarse para que el personal y las organizaciones puedan afrontar los",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "retos y las oportunidades de la era digital.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t La ética de los datos es la rama de la ética que estudia y evalúa los problemas morales y ofrece",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "orientación normativa relacionada con el uso de datos, algoritmos y las prácticas asociadas. Los",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "problemas éticos más comunes en la gestión de datos incluyen cuestiones de imparcialidad,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "validez, sesgo, osificación, transparencia y explicabilidad, anonimato, privacidad y propiedad de",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "los datos y la información.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Además, pueden surgir otras cuestiones éticas en los proyectos relacionados con los datos en el",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "sector humanitario, como pueden ser el daño potencial de la acción humanitaria, las dificultades",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "de asociación, la complicidad y la trampa moral, la obligación de proteger al personal",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "humanitario y el \"dilema coste-efectividad”.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Las organizaciones humanitarias pueden mejorar la deliberación y la toma de decisiones",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "éticas en la gestión de datos estableciendo códigos de conducta claros para la gestión ética de",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "los datos, apoyando al personal para que identifique, comprenda y analice cuestiones éticas",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "utilizando herramientas comunes y, por último, incorporando \"auditorías éticas\" como parte de",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "la práctica habitual.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCCIÓN",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "La responsabilidad de datos es la gestión segura, ética y eficaz de los mismos.1 Esta guía se centra en los",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "aspectos éticos de la gestión de datos humanitarios, desde actividades habituales como la recopilación y el",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "procesamiento de datos sobre el terreno, hasta aplicaciones más avanzadas de tecnología de datos, como",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "el análisis predictivo.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "El objetivo de esta guía es ayudar a los agentes humanitarios a identificar, evaluar y abordar los problemas",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "éticos que surgen en los proyectos en los que se hace uso de datos. Comienza con una visión general de la",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ética humanitaria y la ética de los datos, centrándose en los valores que impulsan la toma de decisiones",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "éticas en ambos campos. A continuación, presenta algunas de las preocupaciones y desafíos éticos más",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "comunes a los que pueden enfrentarse los agentes humanitarios en la gestión de datos. Por último, ofrece",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "recomendaciones para las organizaciones humanitarias que buscan hacer una mejor interpretación ética",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "del uso y el impacto de los datos en sus operaciones.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "La ética se define como el estudio de lo que es moralmente correcto e incorrecto, o un conjunto de",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "creencias sobre lo que es moralmente correcto e incorrecto.2 El papel de la ética como guía se hace esencial",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "en el contexto de una profesión como la de la acción humanitaria, en la que individuos de diversos orígenes",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "y sistemas de valores coinciden en la búsqueda de un objetivo común: ayudar y proteger a las personas",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "afectadas por la guerra y las catástrofes.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Problemas éticos más comunes en la gestión de datos5",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Validez: ¿son los datos y/o el modelo representativos de lo que se quiere medir?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Sesgo e imparcialidad: ¿existe un sesgo sistemático de los datos recogidos y/o hay prejuicio o",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "favoritismo en los datos o el modelo? Por ejemplo, ¿se ha producido una sobreestimación o",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "subestimación de lo que se está midiendo o están algunos miembros de la población más o menos",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "representados que otros?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Osificación: ¿el modelo (o los datos que lo sustentan) copia el estado actual del mundo y, por lo",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "tanto, dificulta el cambio? Por ejemplo, ¿estamos construyendo modelos que perpetúan o repiten",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "errores pasados?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Transparencia y explicabilidad: ¿está claramente documentado el proceso de gestión de datos y se",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "sabe cómo funciona el modelo o el algoritmo? Por ejemplo, ¿puede alguien que no esté",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "directamente implicado en el proceso explicar el procedimiento?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Privacidad y anonimato: ¿los datos o su uso revelan la identidad de un individuo o grupo de",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "personas?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Propiedad de los datos y la información: ¿están claramente definidos los derechos sobre los datos",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "y la información relacionada? Por ejemplo, ¿está claro cómo se toman las decisiones sobre cómo y",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "quién puede utilizar los datos, cómo deben subsanarse los problemas relacionados con los datos",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "y otras cuestiones relacionadas?).",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2   Cambridge Dictionary, disponible aquí: https://dictionary.cambridge.org/dictionary/english/ethics.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "La ética tiene un papel especialmente importante en el campo de la gestión de datos, ya que las",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "herramientas técnicas de gestión de datos han evolucionado más rápidamente que las herramientas que",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "rigen su uso. Como afirma el filósofo Luciano Floridi, \"la ética en general y la ética digital en particular no",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "pueden ser un mero complemento […] cuando ya ha tenido lugar la innovación digital y posiblemente se",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "han aplicado malas soluciones, se han elegido alternativas menos buenas o se han cometido errores”4. En",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "cada sector, los especialistas deben identificar, evaluar y desarrollar estrategias para mitigar los problemas",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "éticos más comunes que pueden presentarse en la gestión de datos. A medida que estas cuestiones se",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "van aclarando, lo que es \"bueno\" o \"correcto\" desde una perspectiva ética debe servir de base para los",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "instrumentos políticos y jurídicos que, en última instancia, rigen la gestión de datos en el sector.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ÉTICA HUMANITARIA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Como explica Hugo Slim en Humanitarian Ethics: A Guide to the Morality of Aid in War and Disasters, “la ética",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitaria se ha desarrollado como una ética basada en principios... fundamentada en los principios de",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanidad, imparcialidad, neutralidad e independencia que se han desarrollado para guiar la prestación",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "de asistencia y protección humanitaria”6. Según Slim, los principios sirven específicamente para tres",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "propósitos principales en la ética aplicada: ratificar normas morales, actuar como guías operativas en la",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "toma de decisiones éticas y para elaborar reglas específicas.7",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Principios humanitarios",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Estos principios y las reglas relacionadas con ellos están recogidos en varios códigos de conducta",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ampliamente reconocidos como los fundamentos de la práctica humanitaria ética, como la Carta",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Humanitaria y las Normas Mínimas de Respuesta Humanitaria, que incluyen las Normas Esfera y los",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Principios de Protección9, la Norma Humanitaria Esencial10 y el Código de Conducta de la Cruz Roja y las",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ONG11. Aunque estos principios sirven como guías útiles para la toma de decisiones éticas, lo cierto es que",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "no pueden aplicarse de manera sencilla en la compleja gama de entornos en los que el personal humanitario",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "presta asistencia. Más bien, como señala Slim, \"suelen interpretarse desde dentro de una situación. Por lo",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "tanto, la ética humanitaria consiste en luchar por interpretar los límites éticos y equilibrar varios principios\"12",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "La interpretación de estos principios se hace más compleja y esencial en los ámbitos de la acción",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitaria en los que faltan normativas claras y orientación específica para el sector. La gestión de datos",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitarios es uno de esos ámbitos.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6   Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 40.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ÉTICA DE DATOS",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "La ética de datos ha surgido en los últimos años como un área específica de investigación y reflexión ética.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "En un informe de 2017, el Open Data Institute (ODI) señaló la creciente importancia de la ética de los datos",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "en el discurso público. \"Cada vez más\", observa el ODI, \"los que recopilan, comparten y trabajan con datos",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "están explorando la ética de sus prácticas y, en algunos casos, se ven obligados a enfrentarse a esa ética",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ante la opinión pública”13.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ASegún Luciano Floridi y Mariarosario Taddeo, \"la ética de datos puede definirse como una rama de la",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ética que estudia y evalúa los problemas morales relacionados con datos (incluyendo su generación,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "registro, conservación, procesamiento, difusión, intercambio y uso), algoritmos (incluyendo inteligencia",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "artificial, agentes artificiales, aprendizaje automático y robots) y sus correspondientes aplicaciones",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "(incluyendo innovación responsable, programación, piratería y códigos profesionales)”14. En la práctica, las",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "instituciones del sector público suelen enfocar la ética de datos como \"una rama de la ética que evalúa el",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "impacto potencial de los datos sobre las personas y la sociedad, ya sea en su recopilación, difusión o uso”15.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "A medida que los datos se han ido convirtiendo en un elemento central del funcionamiento de las",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "instituciones públicas y privadas, las cuestiones relativas a la ética de datos se han hecho más comunes en",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "los debates sobre el impacto de los datos y la tecnología en la sociedad. Esto se aprecia sobre todo en los",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "debates mundiales sobre la ética de la Inteligencia Artificial (IA). En un análisis sobre el panorama de los",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "enfoques éticos de la IA a nivel mundial, publicado en septiembre de 2019, se identificó una \"convergencia",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "emergente en torno a cinco principios éticos (transparencia, justicia e imparcialidad, no maleficencia,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "responsabilidad y privacidad), con una divergencia sustantiva en relación con la forma en que se",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "interpretan estos principios, por qué se consideran importantes, a qué tema, dominio o actores pertenecen",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "y cómo deben aplicarse”16. Sin embargo, por sí sola, la existencia de principios de alto nivel no garantiza",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "una reflexión y toma de decisiones éticas eficaces17.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "La ética humanitaria constituye una base más sólida para debatir las cuestiones relativas a la gestión ética",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "de datos con fines humanitarios que los diversos enfoques independientes de los distintos ámbitos de la",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ética de datos aplicada. Los actuales modelos de ética humanitaria deben ampliarse para que el personal",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "y las organizaciones humanitarias puedan hacer frente a las nuevas complejidades que presenta la gestión",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "de datos.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "13  Open Data Institute, 2017. Helping organizations navigate ethical concerns in their data practices.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "CONSIDERACIONES ÉTICAS PARA LA GESTIÓN DE DATOS HUMANITARIOS",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "El personal humanitario se enfrenta a decisiones difíciles a la hora de prestar asistencia y proporcionar",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "protección a los grupos de población en crisis. Si bien estos problemas afectan a la acción humanitaria en su",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "conjunto, muchos de ellos son especialmente importantes o se agravan en los proyectos relacionados con",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "datos. En la tabla que sigue se presentan algunos tipos comunes de dilemas éticos y se ofrecen ejemplos de",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "cómo pueden presentarse en la gestión de datos humanitarios. Al evaluar las dimensiones éticas de un",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "proyecto relacionado con datos, el personal humanitario debe tener en cuenta las dificultades que se",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "exponen a continuación, así como los problemas más comunes en materia de ética de datos (descritos con",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "más detalle en el recuadro anterior), entre las que se incluyen: imparcialidad, validez, sesgo, osificación,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "transparencia y explicabilidad, anonimato, privacidad y propiedad de datos e información.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Dificultad de asociación",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "El hecho de haber colaborado",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Potencial daño o perjuicio de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "la acción humanitaria",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Daño directo o indirecto",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Complicidad y trampa moral",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Las organizaciones participan de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Obligación de proteger al",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "personal humanitario",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Las organizaciones deben",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Dilema coste-efectividad",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Las organizaciones se esfuerzan",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1. ESTABLECER CÓDIGOS DE CONDUCTA CLAROS PARA LA GESTIÓN ÉTICA DE DATOS",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "A pesar de la existencia de principios y códigos de conducta aplicables a todos los sectores, el personal",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "humanitario carece de una orientación clara sobre sus obligaciones éticas específicas en relación con la",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "gestión de datos. Las organizaciones necesitan aclarar y conseguir el entendimiento colectivo sobre cómo",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "se aplican los principios humanitarios y los diferentes valores institucionales al trabajo relacionado con",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "datos.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Hasta la fecha, la mayoría de las organizaciones se han centrado en establecer políticas sobre cuestiones",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "específicas como la protección y la privacidad de datos, mientras que el conjunto más amplio de",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "consideraciones éticas sigue estando mal definido y no se aborda de manera suficiente. Dos notables",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "excepciones a esto que pueden servir de inspiración para las organizaciones en la definición de sus",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "propios códigos de conducta ética para la gestión de datos son la nota orientativa del Grupo de las",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Naciones Unidas para el Desarrollo (UNDG) sobre \"Confidencialidad, ética y protección de datos: big",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "data para el logro de la agenda 203020\", y el Código Signal: obligaciones éticas para actividades",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "humanitarias21 del programa Signal de seguridad y tecnología humana.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t La nota orientativa de UNDG ofrece un enfoque de big data basado no solo en la privacidad, sino",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "también en las obligaciones éticas y morales relativas al uso de datos en contextos humanitarios y de",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "desarrollo. Ofrece un conjunto de principios y anima a las organizaciones a adaptarlos bajo la forma",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "de directrices operativas que tengan en cuenta la aplicación de sus respectivos protocolos, así como",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "sus reglamentos, normas y políticas existentes en relación con la privacidad, la protección, la ética y la",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "seguridad de datos.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t El Código Signal traduce y aplica las bases de la práctica humanitaria ética a las denominadas",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "actividades de información humanitaria, que incluyen la recogida, el almacenamiento y el análisis",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "de datos. Enuncia nueve obligaciones diseñadas para ayudar a las organizaciones a comprender los",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "riesgos y mitigar los daños relacionados con el ciclo de vida de los datos cuando participan en dichas",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "actividades de información humanitaria.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "19 Asociación Internacional de Profesionales en Asistencia y Protección Humanitaria (PHAP), Code of Ethics.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RECOMENDACIONES PARA MEJORAR LA REFLEXIÓN ÉTICA Y LA TOMA DE",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "DECISIONES EN LA GESTIÓN DE DATOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Cuando se enfrentan a los diferentes dilemas que pueden surgir en los proyectos relacionados con datos,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "los agentes humanitarios deben interpretar los límites éticos y equilibrar los diversos principios en los que",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "se basa la buena práctica para determinar el curso de acción adecuado. Como se reconoce en el Código",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "de Ética y Conducta Profesional de la Asociación Internacional de Profesionales en Asistencia y Protección",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Humanitaria (PHAP), \"la mejor manera de responder a las cuestiones relacionadas con los dilemas éticos es",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "mediante la reflexión de los principios fundamentales, en lugar de basarse en regulaciones detalladas”19.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "El Centro de Datos Humanitarios (el Centro) recomienda que las organizaciones inviertan en tres áreas para",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "mejorar la reflexión ética y la toma de decisiones en la gestión de datos humanitarios:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1.\tEstablecer códigos de conducta claros para la gestión ética de datos.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.\tApoyar al personal para que identifique, comprenda y analice temas éticos utilizando",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "herramientas comunes.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.\tImplementar \"auditorías éticas\" como parte de la práctica habitual.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3. IMPLEMENTAR “AUDITORÍAS ÉTICAS” COMO PARTE DE LA PRÁCTICA HABITUAL",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Para complementar el proceso de reflexión ética en los equipos de trabajo y en el conjunto de la",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "organización, hay que contemplar la posibilidad de establecer mecanismos de control de calidad que",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ayuden a \" hacer cumplir\" el procedimiento de diseño y toma de decisiones éticas en función de un",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "conjunto de criterios comunes. Una forma de hacerlo es implementar \"auditorías éticas\" como parte de las",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "prácticas estándar de gestión de datos. Estas auditorías son especialmente útiles en las áreas de la ciencia",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "de datos más innovadoras, para las que todavía están surgiendo normas y estándares profesionales y para",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "las que los diferentes desafíos éticos no son tan conocidos.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Como se explica en una nota orientativa de 2017 de la Asociación Internacional de Profesionales de la",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Privacidad y UN Global Pulse, “existen varios modelos que pueden complementar los procesos de toma",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "de decisiones de las organizaciones para abordar este nuevo campo de la ética de datos. Estos modelos",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ofrecen diferentes perspectivas y opciones de gestión a las organizaciones que se enfrentan a cuestiones",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2. APOYAR AL PERSONAL PARA QUE IDENTIFIQUE, COMPRENDA Y ANALICE TEMAS ÉTICOS",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "UTILIZANDO HERRAMIENTAS COMUNES",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "La mayoría de las organizaciones humanitarias no cuentan con personal responsable de garantizar que",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "las intervenciones se diseñen y realicen de forma ética. Se espera que el personal de las organizaciones",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "humanitarias comprenda y respete los principios humanitarios y los códigos de conducta relacionados",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "con ellos en el desempeño de sus respectivas funciones, a menudo sin ninguna formación u orientación",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "formal sobre el tema. Medidas sencillas como establecer un listado de control ético y apoyar el uso de",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "herramientas de diseño ético pueden ayudar al personal a identificar, comprender y analizar con más",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "confianza las cuestiones éticas que puedan surgir en su trabajo.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "El personal humanitario puede utilizar las siguientes preguntas a la hora de considerar las dimensiones",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "éticas de una determinada intervención22:",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t ¿Estamos respetando los principios humanitarios fundamentales y el Código de Conducta?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t .¿Es probable que potenciemos acciones que se ajusten o incumplan el Derecho Internacional",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Humanitario, el derecho de los refugiados y el derecho de catástrofes23?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t .¿Es probable que incrementemos o disminuyamos la capacidad de los profesionales humanitarios de",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "cumplir las Normas Esfera?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t ¿Es probable que mejoremos o empeoremos la dignidad y las condiciones de la población objetivo?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t ¿Es probable que incrementemos o disminuyamos nuestra capacidad de cumplir con los principios",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "de la buena gestión humanitaria?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t ¿Podrán los afectados entender y respetar nuestra decisión?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Estas preguntas pueden aplicarse fácilmente a los proyectos de datos humanitarios y servir de base sólida",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "para la deliberación colectiva de las cuestiones éticas que puedan surgir en ellos.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Las organizaciones también pueden considerar utilizar herramientas de diseño ético más adaptadas a los",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "proyectos relacionados con datos. Un ejemplo es el \"Data Ethics Canvas\" del Open Data Institute. Como",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "explica el ODI, “el Data Ethics Canvas es una herramienta que ayuda a cualquiera que recopile, comparta o",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "utilice datos a identificar y gestionar las cuestiones éticas en todas las fases de un proyecto. Está diseñado",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "como un marco flexible para desarrollar una orientación ética que se adapte a cualquier contexto”24. Como",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tal, puede ser un punto de partida útil para las organizaciones humanitarias que deseen gestionar de",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "forma más sistemática los aspectos éticos del trabajo relacionado con datos.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "El Centro ha establecido un marco de revisión por pares para el análisis predictivo en la respuesta",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "humanitaria. El objetivo del proceso de revisión por pares es crear normas y procesos para el uso de modelos en",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "La revisión ética implica identificar a todas las partes interesadas y sus inquietudes en relación con la forma en",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "del trabajo de Cathy O'Neil28.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Se anima a las organizaciones a que compartan con el Centro su experiencia en la resolución de dilemas",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "éticos en la gestión de datos a través de centrehumdata@un.org.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "éticas de peso o al tratamiento a gran escala de datos sensibles”25. éticas de peso o al tratamiento a gran",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "escala de datos sensibles”25. Las auditorías éticas pueden realizarse a través de organismos internos,",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "externos o una combinación de ambos26.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Independientemente del enfoque que se adopte para implementar las auditorías éticas, el proceso debe",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "incluir los siguientes elementos27:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t .Identificar a las partes interesadas afectadas por la gestión de datos en cuestión.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Promover una conversación entre personas que puedan representar a los distintos grupos de",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "interesados y comentar sus preocupaciones, positivas y negativas, sobre la práctica en cuestión (por",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "ejemplo, cómo funciona el algoritmo de un modelo predictivo, cómo se procesan sus datos en una",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "encuesta a gran escala, etc.).",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Priorizar las preocupaciones en función de las aportaciones de las partes interesadas.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "•\t Desarrollar pautas y otras medidas para abordar y remediar las preocupaciones identificadas.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Responsabilidad de Datos de la OCHA en marzo de 2019.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "El Centro pretende, a través de estas guías, proporcionar orientación adicional sobre cuestiones, procesos",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "FOR LAW, TECHNOLOGY, AND SOCIETY (TILT); INTERNATIONAL ORGANIZATION FOR MIGRATION (IOM) DATA",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "SCIENCE AND ETHICS GROUP (DSEG).",
+      "page": 9
+    }
+  ]
+}

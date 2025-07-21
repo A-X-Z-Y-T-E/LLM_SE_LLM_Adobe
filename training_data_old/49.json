@@ -1,0 +1,1195 @@
+{
+  "title": "Note: La Responsabilité des données dans les partenariats public-privé",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS LES",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PARTENARIATS PUBLIC-PRIVÉ",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les organisations humanitaires et le secteur privé collaborent régulièrement sur des initiatives",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "liées aux technologies de l’information et des communications (TIC) et liées aux données. Les types",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "les plus courants de tels partenariats public-privé (PPP) dans ce domaine comprennent (i) des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "contributions financières, (ii) la fourniture de technologies, (iii) un soutien technique en nature, (iv)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "le développement technologique conjoint et (v) le partage de données et la collaboration.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t La Responsabilité des données est la gestion sécurisée, éthique et efficace des données. Cela",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "est souvent négligé ou insuffisamment reflété dans la conception de partenariats entre les",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "organisations humanitaires et le secteur privé.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les cadres existants de collaboration avec le secteur privé doivent être améliorés par des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "considérations supplémentaires et des mesures pratiques visant à faire valoir la Responsabilité des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "données dans les partenariats axés sur les TIC et les données.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les défis communs liés à la gestion responsable des données dans les PPP incluent : (i) le risque",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "de réputation, (ii) l’efficacité de la technologie, (iii) la sensibilité et l’utilisation des données,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(iv) l’incertitude quant aux nouvelles sources de données, (v) la propriété intellectuelle et (vi) la",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dépendance et la déférence.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les recommandations visant à améliorer la Responsabilité des données sont les suivantes : (i)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "élaborer des objectifs communs, (ii) faire preuve de diligence raisonnable, (iii) effectuer une",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "évaluation bénéfices-risques, (iv) structurer les partenariats au moyen d’accords appropriés et (v)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "concevoir la technologie de manière responsable.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "LES PARTENARIATS PUBLIC-PRIVÉ DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations humanitaires et le secteur privé collaborent régulièrement à des initiatives liées aux",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "technologies de l’information et des communications (TIC)1, et aux données. Pour les acteurs humanitaires,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ces partenariats public-privé (PPP)2 offrent un accès à de nouveaux domaines d’expertise et de nouvelles",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "technologies, avec la possibilité d’améliorer l’efficacité et la rapidité des réponses. Pour le secteur privé, les",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "partenariats humanitaires offrent un accès à de nouveaux marchés et contribuent, entre autres avantages,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "à la réalisation des objectifs de responsabilité sociale des entreprises.3 À ces avantages escomptés se",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "rajoutent cependant toute une gamme de risques distincts liés à la gestion des données. Les acteurs des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "secteurs public et privé ont tenu un certain nombre de réunions et d’événements sur ce sujet, mais il",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "n’existe toujours pas d’interprétation commune des exigences en matière de Responsabilité des données",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "TYPES COURANTS DE PARTENARIATS LIÉS AUX TIC ET AUX DONNÉES",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "L’initiative Connecting Business (CBi) d’OCHA résume l’état des PPP comme suit : « Malgré une tendance des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "organismes d’aide à considérer les entreprises comme des bailleurs potentiels, leur plus grande contribution",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "directe a été apportée sous la forme de nouvelles technologies et d’autres innovations, ainsi que du partage",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "de l’expertise technique. Des éléments entiers de l’action humanitaire, y compris les transferts monétaires,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "les télécommunications et la logistique, ont été transformés à mesure que les entreprises se sont davantage",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "impliquées. »7",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Il existe cinq types courants de partenariats du secteur privé liés aux TIC et aux données :",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t La contribution financière : Le transfert de fonds d’une entité du secteur privé à des organisations",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires pour des livrables spécifiques, ou le parrainage direct par le secteur privé d’un",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "événement ou d’une autre activité humanitaire.8",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t La fourniture de technologies : L’offre gratuite ou subventionnée (« pro bono » ou « low bono ») de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "matériel ou de logiciels commerciaux pour être utilisés par les organisations humanitaires.9",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t L’.assistance technique en nature : Le détachement d’experts techniques pour aider les organisations",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires à exploiter les TIC et les données de nouvelles façons.10",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Le développement technologique conjoint : Soutien en nature du secteur privé au développement",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "collaboratif de solutions TIC sur mesure avec des organisations humanitaires.11",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Le partage de données public-privé : Mise à la disposition des organisations humanitaires de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "données ou informations détenues de façon privée, ou les rendre publiques.12",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4    En mai 2019, le Centre for Humanitarian Data, en collaboration avec Wilton Park, a organisé l’évènement « La Responsabilité des données dans l’action",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "dans les PPP.4 La Responsabilité des données dans l’action humanitaire est la gestion sécurisée, éthique et",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "efficace des données personnelles et non personnelles pour la réponse opérationnelle.5 La présente note",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "d’orientation donne un aperçu des enjeux communs à l’égard des partenariats liés aux TIC et aux données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "dans le secteur humanitaire, et propose un ensemble de recommandations pour aider les organisations",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires et le secteur privé à les gérer plus efficacement.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "LES BASES DES PARTENARIATS FONDÉS SUR DES PRINCIPES",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Divers cadres encouragent des partenariats fondés sur des principes pour l’action humanitaire (voir la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "liste ci-dessous). De même, de nombreuses organisations humanitaires ont mis en place des processus de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "diligence raisonnable avant d’établir de nouveaux partenariats. Les cadres et principes suivants sont utiles",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "à titre de référence pour évaluer les partenaires technologiques potentiels du secteur privé (le contenu des",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "liens ci-dessous est majoritairement en Anglais):",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t UN Secretary-General’s High-Level Panel on Digital Cooperation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Principes du Pacte mondial des Nations Unies",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t GSMA Big Data for Social Good Initiative Sustainable Business Models Report",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t World Economic Forum Principles on Public-Private Cooperation in Humanitarian Cash Payments",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t The World Economic Forum and OCHA Guiding Principles for Public-Private Collaboration for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian Action",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t The UN Secretary-General’s Guidelines on Cooperation between the United Nations and the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Business Sector",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Ces ressources constituent une base solide pour le développement de partenariats axés sur les TIC et les",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "données. Cependant, elles ne peuvent pas répondre à des questions spécifiques liées à la Responsabilité",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "des données. Les exigences relatives à la gestion sécurisée, éthique et efficace des données dans les PPP ne",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sont pas bien comprises et ne sont donc pas traitées de façon cohérente dans ces cadres.13",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "LES ENJEUX LIÉS À LA RESPONSABILITÉ DES DONNÉES DANS LES PARTENARIATS",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PUBLIC-PRIVÉ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Les cinq types de partenariats mentionnés ci-dessus sont caractérisés par un ensemble commun d’enjeux",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "liés à la Responsabilité des données. Au nombre de six, ils couvrent le risque de réputation, une technologie",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "inadaptée, la sensibilité et l’utilisation des données, l’incertitude quant aux nouvelles sources de données,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "la propriété intellectuelle, et la dépendance et la déférence.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Chaque enjeu est basé sur des exemples réels de PPP liés aux TIC ou aux données. Compte tenu de la",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "sensibilité de ces cas, les sous-sections ci-dessous décrivent les enjeux individuels en termes généraux. La",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "matrice ci-dessous indique les enjeux les plus courants pour les acteurs humanitaires, les partenaires du",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "secteur privé ou les deux, dans les types de partenariat énumérés ci-dessus.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Les enjeux communs de la Responsabilité des données dans différents types de partenariats public-privé",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Contributions",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "RISQUE DE RÉPUTATION",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les risques réputationnels peuvent survenir pour diverses raisons, notamment l’éventualité que les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "données sensibles puissent être partagées avec des acteurs du secteur privé tiers ou que les données ne",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "soient pas stockées de manière sécurisée. Pour les acteurs humanitaires, une mise à mal de la réputation",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "peut se produire si un partenaire du secteur privé a été associé à des violations des droits de l’homme par",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "le passé ou est perçu comme ayant des intentions de « blanchiment » en collaborant avec un partenaire",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humanitaire. Cela peut conduire à des restrictions d’accès et à une érosion de la confiance de la part des",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "populations affectées, et donc compromettre la capacité de l’organisation humanitaire à fournir de l’aide.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "TECHNOLOGIE INADAPTÉE",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La plupart des TIC prêtes à l’emploi ne satisferont pas pleinement aux exigences d’une situation de crise.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les acteurs humanitaires ne disposent peut-être pas de l’expertise interne nécessaire pour déterminer",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "si une solution est appropriée dans un contexte particulier. L’incertitude entourant les exigences de",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "déploiement et l’utilisation efficace d’un outil donné peut dissuader le secteur privé de s’engager dans",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "un partenariat. En outre, les données humanitaires peuvent être insuffisantes ou incomplètes pour les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "capacités d’analyse offertes par les outils du secteur privé. Une préoccupation commune pour les deux",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "parties sera de maintenir un niveau adéquat de sécurité des données afin de prévenir les dommages, et",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "d’assurer une forte protection des systèmes et des données impliqués dans le partenariat.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "SENSIBILITÉ ET UTILISATION DES DONNÉES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Il est possible que les partenaires du secteur privé et les organisations humanitaires aient des perspectives",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "différentes sur la sensibilité des données gérées. Pour les acteurs humanitaires, les données sont",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "considérées comme sensibles en fonction de la probabilité et de la gravité des dommages potentiels",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "que leur divulgation ou leur mauvaise utilisation peut causer aux personnes affectées, au personnel",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humanitaire ou à l’organisation dans un contexte donné. Par exemple, les emplacements d’installations",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "médicales peuvent être considérés comme étant des données très sensibles dans une situation de conflit",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "actif, alors que l’information peut être partagée publiquement en cas d’intervention en réponse à une",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "catastrophe naturelle. Pour le secteur privé, les préoccupations relatives à la sensibilité des données sont",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "souvent liées à la nature ou à la valeur exclusive de ces dernières. Le fait de ne pas établir une interprétation",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "commune de la sensibilité et de l’utilisation responsable des données dès le début d’un partenariat peut",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "donner lieu à une divulgation inappropriée des données, ou à l’utilisation de données ou de connaissances",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "à des fins autres que les objectifs spécifiés de la collaboration.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "INCERTITUDE QUANT AUX NOUVELLES SOURCES DE DONNÉES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations humanitaires peuvent collaborer avec le secteur privé pour accéder à de nouveaux flux",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de données, tels que les enregistrements détaillés des appels, le contenu des réseaux sociaux ou les images",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "satellites haute résolution. Ces données peuvent être utilisées pour générer des informations pertinentes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "pour la réponse humanitaire, mais les humanitaires peuvent avoir du mal à articuler une question ou",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "un sujet d’analyse clair. Les humanitaires peuvent également manquer de l’expertise nécessaire pour",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "comprendre ce que ces sources de données peuvent apporter et comment les utiliser de manière",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "responsable. La connaissance limitée des sources de données du secteur privé et leur utilisation potentielle",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "peuvent faire hésiter les humanitaires quant au fait de se fier aux informations générées à partir de ces",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "données. De même, les partenaires du secteur privé peuvent ne pas comprendre pleinement les contextes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires dans lesquels leurs données pourraient être utilisées. Ensemble, ces enjeux peuvent susciter",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "des réticences et une sous-utilisation des données du secteur privé.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "PROPRIÉTÉ INTELLECTUELLE",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les enjeux liés à la propriété intellectuelle peuvent être sources de tensions au stade de la conception,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ainsi que vers la finalisation d’un partenariat si les droits ne sont pas clairement définis au départ. Le",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "secteur privé et les organisations humanitaires ont des exigences et des attentes différentes à cet égard, ce",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "qui peut être incompatible avec un partenariat efficace et durable. La diffusion d’informations exclusives",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "et concurrentielles susceptibles de mettre en danger la position de l’entreprise sur le marché est une",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "préoccupation commune du point de vue du secteur privé. Des inquiétudes sont également suscitées",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "au sujet de la propriété de données humanitaires gérées ou générées par le biais d’un partenariat, en",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "particulier lorsque l’acteur du secteur privé pourrait utiliser ces données à des fins non humanitaires",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(par exemple, si un acteur du secteur privé utilise des données sur les dépenses des ménages dans un",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "environnement de réfugiés pour la commercialisation de produits ou services commerciaux).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "DÉPENDANCE ET DÉFÉRENCE",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Le déséquilibre de forces entre les organisations humanitaires et leurs partenaires du secteur privé",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "peut entraîner une dépendance et une déférence envers les experts du secteur privé en ce qui a trait",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "aux décisions relatives à la conception et à la mise en œuvre d’un partenariat. Cette dépendance est",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "particulièrement problématique dans les situations où les partenaires du secteur privé proposent",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "initialement un produit TIC gratuit ou à faible coût, puis commencent à facturer des frais ultérieurement.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "L’engagement exclusif ou la dépendance à un seul outil, service ou partenaire peut également nuire à la",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "durabilité et à l’efficacité des opérations humanitaires.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La déférence envers les experts du secteur privé sur les questions liées au traitement des données",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des bénéficiaires ou d’autres données sensibles peut entraîner une plus grande exposition ou un plus",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "grand risque que ce que les organisations humanitaires accepteraient normalement. Par exemple, les",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "experts techniques du secteur privé peuvent offrir des gains d’efficacité et de ciblage de l’assistance",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "importants grâce à l’utilisation d’analyses de données avancées, qui exigent un accès à des données plus",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "granulaires sur les bénéficiaires. Les acteurs humanitaires peuvent être tentés d’accorder un tel accès sans",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "comprendre pleinement les implications (par exemple, la forte probabilité des avantages escomptés mais",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "aussi des risques associés).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "RECOMMANDATIONS VISANT À AMÉLIORER LA RESPONSABILITÉ DES DONNÉES",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "DANS LES PARTENARIATS PUBLIC-PRIVÉ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les enjeux décrits ci-dessus créent un risque de réticence se traduisant par des occasions manquées",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de fournir une meilleure réponse humanitaire. Le Centre for Humanitarian Data (le « Centre ») et les",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "contributeurs à la présente note d’orientation recommandent aux organisations humanitaires et à leurs",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "partenaires du secteur privé de se concentrer sur les domaines suivants afin d’améliorer la Responsabilité",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des données dans les PPP :",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Développer des objectifs communs",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Lors de la conception de partenariats, les deux parties doivent se poser les questions suivantes :",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t .Quels enjeux et problématiques actuels devrions-nous aborder ensemble pour répondre à un",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "besoin humanitaire spécifique ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t Comment créer de la valeur partagée ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t Comment rendre notre collaboration unique et la distinguer des autres ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t Quelles opérations existantes le partenariat pourrait-il soutenir ?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t Quelles sont les capacités et les engagements requis des différentes parties pour atteindre ces",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "objectifs ?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2. Faire preuve de diligence raisonnable",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Il faudrait que les organisations humanitaires utilisent une procédure de filtrage14 pour évaluer une",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "entreprise du secteur privé : ses partenariats, ses valeurs, ses affiliations et sa réputation, passés et",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "actuels. Doivent être inclus l’impact des amendes ou autres litiges réglementaires précédemment",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "rencontrées par l’entité du secteur privé, les affiliations avec des groupes qui ne respectent pas les",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "principes humanitaires et tous autres facteurs potentiellement préjudiciables. En s’appuyant sur",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "les cadres et processus existants mentionnés ci-dessus, les entreprises peuvent s’assurer que les",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "considérations clés relatives à la Responsabilité des données sont incluses dans la pratique standard",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de diligence raisonnable. La transparence concernant les critères et les processus de diligence",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "raisonnable peut être utile pour prévenir les atteintes à la réputation, faisant preuve ainsi d’un",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "engagement dans l’examen rigoureux des nouveaux partenaires. Les acteurs du secteur privé peuvent",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "également exercer une diligence raisonnable lors de leur association à de nouvelles organisations",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. Effectuer une évaluation « bénéfices-risques »",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Les avantages escomptés et les risques potentiels d’un partenariat doivent être définis et équilibrés",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "les uns par rapport aux autres.15 Cela peut aider les organisations humanitaires et le secteur privé",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "à clarifier les attentes et à concevoir conjointement des mesures qui maximiseront les avantages",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "et minimiseront les risques. La communication publique des résultats d’une évaluation bénéfices-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "risques peut contribuer à instaurer la confiance et à améliorer la perception du public à l’égard du",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "partenariat. Il est tout aussi important de communiquer sur la façon dont les données - en particulier",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "les données des bénéficiaires ou d’autres données sensibles - seront gérées au sein du partenariat.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4. Structurer les partenariats au moyen d’accords appropriés",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Le degré auquel les partenariats doivent être formalisés plutôt que de rester des arrangements",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "informels et flexibles, n’est souvent pas clair, ni appliqué de manière cohérente dans l’ensemble des",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "engagements. La création d’un accord de partenariat global (par le biais d’un protocole d’entente",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "par exemple) ainsi que d’accords de partage ou de transfert de données plus spécifiques peut aider à",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "clarifier les attentes.16",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Lors de la formalisation de l’accord de partenariat global, les parties doivent consulter leurs points",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "focaux juridiques, techniques et de gestion des risques, et tenir compte des questions suivantes :",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "a.   Objectifs généraux du partenariat en termes concrets, avec engagements connexes (activités,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "produits et résultats clés) pour les deux parties.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "b.   Restrictions de propriété intellectuelle concernant l’utilisation future de la technologie ou des",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "connaissances développées entre l’organisation humanitaire et le partenaire du secteur privé.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "c.   Responsabilités mutuelles en matière de gestion des données tout au long du partenariat, y",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "compris les considérations relatives à la sensibilité des données, à la sécurité et à la propriété",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "des données, ainsi qu’à la conservation et à la destruction des données.17",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "14  Voir par exemple l’outil des Nations Unies, United Nations Global Pulse Due Diligence Tool for Working with Prospective Technology Partners.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5. Concevoir la technologie de manière responsable",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "La conception collaborative et itérative, ou l’adaptation de la technologie peuvent contribuer",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "à s’assurer que les outils et les plateformes sont adaptés à différents contextes de réponse. Les",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "organisations doivent permettre l’essai et l’affinage des solutions dans des environnements sûrs",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "avant de les déployer sur le terrain, et, le cas échéant, elles doivent s’assurer d’une approche centrée",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "sur l’utilisateur dans la conception des solutions.18 Les outils doivent toujours être conçus en tenant",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "compte de la confidentialité et de la protection des données. Positionner ce type de conception",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "responsable et sensible à la valeur19 comme élément central des partenariats peut contribuer à attirer",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "l’attention, à instaurer la confiance et même à attirer des investissements supplémentaires.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Communiquez avec le Centre à l’adresse suivante : centrehumdata@un.org pour partager des études de",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "cas de partenariats fructueux.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COLLABORATEURS : KAREN SMITH DE L’INITIATIVE CONNECTING BUSINESS ET WILLIAM HOFFMAN DU FORUM",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "ÉCONOMIQUE MONDIAL. LE CENTRE D’INNOVATION DE L’UNIVERSITÉ LEIDEN ET LE TILBURG INSTITUTE FOR LAW,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "TECHNOLOGY AND SOCIETY.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "des Nations Unies (UNOCHA) en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "18 « Une approche axée sur l’utilisateur est une approche créative favorisant la résolution de problèmes, utilisée pour concevoir des produits, des services",
+      "page": 7
+    }
+  ]
+}

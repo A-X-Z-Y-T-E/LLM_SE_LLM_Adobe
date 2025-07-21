@@ -1,0 +1,1775 @@
+{
+  "title": "Microsoft Word - 2000-0421",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "AIAA 2000-0421",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ADVANCEMENT OF BI-LEVEL INTEGRATED SYSTEM",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "SYNTHESIS (BLISS)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Bi-Level Integrated System Synthesis (BLISS) is a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "method for optimization of an engineering system, e.g.,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "an aerospace vehicle.  BLISS consists of optimizations",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "at the subsystem (module) and system levels to divide",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "the overall large optimization task into sets of smaller",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ones that can be executed concurrently.  In the initial",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "version of BLISS that was introduced and documented",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "in previous publications, analysis in the modules was",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "_____________________________",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "* Manager, Computational AeroSciences, and Multidisciplinary",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Graduate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "à 1",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "¤ Professor, George Washington University, Joint Institute for",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Copyright Ó 2000 by the American Institute of Aeronautics, Inc.  No",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(CO) (Braun et al, 1965), the Concurrent SubSpace",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Optimization (CSSO) (Sobieszczanski-Sobieski, 1988,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Bloebaum et al, 1992), and the Concurrent Design",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Optimization (Wujek et al, 1995).",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The distinguishing features of BLISS are the use of the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "system objective (e.g., the aircraft range) as the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "optimization objective in each of the subsystems and at",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "system",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "optimizations at the system and subsystem levels by",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the optimum sensitivity derivatives with respect to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "parameters.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The overall architecture of BLISS as a method does not",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "depend on the fidelity of the analyses performed in each",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "module.  Consequently, in principle at least, BLISS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "may be used in any design phase from conceptual,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "through",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "appropriate level of analysis is implemented in the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "modules.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "The BLISS method was introduced in (Sobieszczanski-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Sobieski et al, 1998a) and documented in detail in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Sobieszczanski-Sobieski et al, 1998b",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "that prototype is referred to as the original BLISS.  In",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "its original form BLISS modules were kept very simple",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "corresponding to the early conceptual design phase.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Satisfactory results from the initial trials of BLISS on a",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "test case of a business jet encouraged next step in the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "BLISS development - upgrading its structural analysis",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and aerodynamic drag analysis modules - and validating",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "on the same test case.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "This paper reports on the above BLISS upgrade and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "results of the testing that advance the methods toward",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "becoming a tool suitable for practical applications.  The",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "report provides a synopsis of the BLISS method,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "describes the salient features of the two upgraded",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "modules, presents satisfactory convergence results, and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "summarizes the BLISS development status and the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "future development direction.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Notation",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ARHT Ð tail aspect ratio",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ARW Ð wing aspect ratio",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "BBi Ð black box",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CD Ð coefficient of drag",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Cf Ð skin friction coefficient",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "D Ð drag",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ESF Ð engine scale factor",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "h Ð altitude",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "* The 1998a and 1998b references are also available at",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "http://techreports.larc.nasa.gov/ltrs/",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Synopsis of BLISS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "After a best guess initialization, the first step in the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "BLISS begins with the system analysis and sensitivity",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "analysis in which Y and the derivatives of Y with",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "respect to Z and X are computed.  A linear",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "approximation to the system objective (an element of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Y) as a function of Z and X is established using the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "above derivatives.  That approximation is adopted as",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the objective function in subdomain optimizations that",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "follow next.  In each subdomain (module, or black",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "box), the Z and Y variables are frozen and an",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "improvement in the objective function is sought by the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "local optimizations that use local X separately in each",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "module.  The frozen Z and Y are constant parameters in",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "each module optimization and the module optimization",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "is followed by computation of the derivatives of the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "optimum with respect to these parameters.  The second",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "step achieves improvement through the system-level",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "variables Z and is linked to the first step by the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "derivatives of optimum with respect to parameters Z",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and Y.  The derivatives are used to extrapolate each",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "subdomain optimum as a function of Z and Y.  The",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "functional relation Y=Y(Z) is",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "extrapolation based on the system sensitivity analysis.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "These steps alternate until convergence.  A flowchart of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "the method is shown in Figure 2.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "System Analysis",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Opportunity for Con-",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "current Processing",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Human",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "BLISS CYCLE",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Upgrades in the BLISS Structures and",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Aerodynamics Modules",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Integration of ELAPS",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Solution (ELAPS) computer code.  This code designed",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "with preliminary design stage calculations in mind is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "capable of modeling aircraft wing structures with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "multiple trapezoidal segments.  The wing structure is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "represented as a plate whose stiffness is set equivalent",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "to that of the original, built-up, structural box of the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "wing.  ELAPS employs a set of displacement functions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "defined over each trapezoidal segment and made",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "compatible in regard to translations and rotations at the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "segment junctions.  Minimization of the strain energy",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "based on the Ritz method leads to equations from",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "which to calculate static deflections and internal forces.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The latter are then converted to stresses taking into",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "account the details of the wing box built-up cross-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "section.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "The accuracy of the results of ELAPS has been found to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "be somewhat below that of finite element codes (Giles,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1986) but the ELAPS input is much simpler and faster",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "to develop.  The computation time for an ELAPS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "model is more than an order of magnitude faster than",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "that of an equivalent finite element model - an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "important feature for a tool to be integrated into an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "optimization procedure.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Integrated in BLISS, ELAPS receives its input from a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "pre-processor routine that generates an input file with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the skin thickness, aspect ratio, taper ratio, thickness to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "chord ratio, sweep, reference area, and aircraft weight.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The model used by ELAPS analyzes stress along the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "same three bay wingbox configuration used as an",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "example in the original application of BLISS.  Each",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "wingbox consists of the top and bottom sandwich",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "panels of different thicknesses and sandwich webs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "identical in the front and rear of the wingbox.  The",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "front spar of the wing box is located at 10% of the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "chord length and the rear spar lies at 70% of the chord",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "length.  Figure 3 depicts the configuration of the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ELAPS model used by BLISS.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Normalized Lift",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Integration of AWAVE",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The cruise segment of the test case mission is",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "supersonic.  The original model (Sobieszczanski-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Sobieski et al, 1998) used an approximation relying on",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the span efficiency factor.  That approximation was",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "replaced herein with a code, AWAVE, that is a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "streamlined version of the far-field wave drag program",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(Harris, 1964).  There are two versions of the Harris",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "wave drag program in common use at LaRC.  The",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "original version, described in the reference, treats lifting",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "surfaces as a series of 3-dimensional solid elements.  A",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "much faster but slightly less accurate version treats",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "lifting surfaces as 2-dimensional panels with finite",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "thicknesses.  Due to compensating errors at positive",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and negative roll angles of the Mach cutting plane, the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "panel version gives excellent results for wave drag",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "coefficients.  The objective of the last (AWAVE) effort",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "was to develop a version of the wave drag program with",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the accuracy of the solid element program that is faster",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "than the panel version.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "implemented computes the wave drag on the basis of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "aircraft cross-section distribution",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "centerline, hence it requires data about the entire",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "configuration geometry to enable the area ruling of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "supersonic body design.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Similarly to the integration of ELAPS, integration of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "AWAVE was accomplished by creating a pre-processor",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to generate the necessary input.  The input provides the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "current designÕs aspect ratio, taper ratio, thickness to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "chord ratio, sweep angle, wing reference area, horizontal",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "tail sweep angle, horizontal tail aspect ratio, and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "horizontal tail reference area.  The pre-processor also",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "creates and places the wing and tail airfoils according to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the design configuration variables.  The AWAVE",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "output is the wave drag coefficient to be added to the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "other drag components whose calculation remains the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "same as in the original BLISS.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Numerical Implementation",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the horizontal tail sweep as well as the variables that",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "place the wing and tail along the fuselage axis.  The",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "structural subsystem optimization operates on the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "sandwich face sheet and caliper thicknesses for the wing",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "cover panels and the webs of the three wingbox bays.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The ten Y-variables noted in the off-diagonal boxes in",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Figure 6, represent couplings of the black boxes and are",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "computed in the system analysis.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "BLISS was originally implemented in MATLAB 5.3.0",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "at both the system and subsystem levels.  The",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "MATLAB Optimization Toolbox was used as an",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "optimizer in the subsystem and system optimizations.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "In the version of BLISS reported herein, the use of",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "MATLAB continued as above with the exception of the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "structures and aerodynamics modules that incorporated",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ELAPS and AWAVE, both written in FORTRAN 77.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "MATLAB provides a facility to invoke FORTRAN",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "from a MATLAB code. To exploit that facility, the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "preprocessors to both ELAPS and AWAVE were",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "written in FORTRAN and converted into MEX-Files",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "using the MATLAB mex-function (Appendix).  Both",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "AWAVE and ELAPS were then directly called from",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "within the BLISS modules.  On the output side,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "simple post-processing generated outputs in a format",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "acceptable to the parts of BLISS that remained being",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "coded in MATLAB for further analysis. Because of the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "MATLAB ability to invoke FORTRAN codes, the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "BLISS upgrading process may continue by adding",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "FORTRAN-coded modules wherever required while",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "retaining the MATLAB core that executes the method",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "logic illustrated by the flowchart in Fig. 1.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Results",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "BLISS iterations terminate when the change in the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "aircraft range objective varies less than ten nautical",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "miles.  This took seven passes through the flowchart in",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Figure 2.  The system-level design variables converged",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "within the first few passes.  Further optimizations",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "focused primarily on the local variables.  Most of the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "changes occurred within the structures module where",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the new ELAPS-based optimization kept refining the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "variables searching for the best solution.  The majority",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "of the computational time was spent in this module.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Table 1 shows the variable progression through the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "optimization process.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The table reflects the major trade-offs that occur",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "between the wing sweep angle, airfoil thickness ratio,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "and the wing aspect ratio, all of which govern the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "structural weight and drag that, in turn, influence the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ARW",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ARHT",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Wing Planform Progression",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Distance from Wing Leading Edge (ft)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The horizontal tail position and geometry stabilize after",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the main wing variables reach their settling points.  The",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "tail position varies significantly but settles at a value of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "100 percent of the mean aerodynamic chord.  The tail",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "sweep ends up almost matching the wing sweep but has",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "a significantly larger aspect ratio.  Further analysis of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the tail may involve incorporating an ELAPS model of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the tail to increase fidelity of analysis in that",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "component.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The skin thicknesses change throughout the process",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "seeking the maximum of the structure contribution to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the range under the stress constraints for the given",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "configuration geometry, the latter governed by the Z-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "variables.  The resulting histogram is seen in Figure 8.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "BLISS Cycle Number",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Thickness (in)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Figure 8: Plot of Skin Thickness Variation",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Though the first cycle was able to converge to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "reasonable thicknesses, the second through fifth cycles",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "were unable to satisfy all constraints given the system-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "level configuration.  Then, by the sixth cycle the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "optimizer had found a solution that allowed all",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "constraints to be met and in the seventh cycle it found",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the optimal configuration.  Figure 9 shows the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "progression of the aircraft Take-Off Gross Weight and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "its components of empty weight and fuel.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Conclusions and Remarks",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1 2000",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "BLISS Cycle Number",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Weight (lb)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The method is open to further upgrades in terms of the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "fidelity of analysis and optimization techniques",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "employed in the modules.  In this regard, it is up to the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "user to decide on the variety of tools to be integrated in",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "BLISS as needed by the multidisciplinary optimization",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "task at hand.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Further advancement of BLISS from its present status",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "of a method concept demonstrator to a tool useful in",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "actual applications calls for inserting a CFD code in the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "aerodynamics module, adding a comprehensive engine",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "analysis to the propulsion module, and extending the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "performance analysis module to include more than just",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the cruise phase of a mission.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Finally, as the increased fidelity of analyses in the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "modules will exact its price in terms of the computing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "elapsed time, concurrent execution of the modular",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "analyses and optimizations will become an attractive",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "option.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgement",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Michael Parks of the George Washington University",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "JIAFS program provided critical help with MATLAB",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "refinements",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "contributions were gratefully appreciated.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Agte, J.; Sobieszczanski-Sobieski, J.; and Sandusky,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "R.: ÒSupersonic Business Jet Design Through Bi-Level",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Integrated System Synthesis,Ó 1999 World Aviation",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Conference, SAE 1999-01-5622.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "AIAA/UTC/Pratt & Whitney Undergraduate Individual",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Aircraft Design Competition, ÒSupersonic Cruise",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Business Jet RFP.Ó 1995/1996.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Bloebaum, C. L.; Hajela, P.; and Sobieszczanski-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Sobieski, J.: ÒNon-Hierarchic System decomposition in",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Structural Optimization; Engineering Optimization,Ó",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "19, pp 171-186, 1992.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Braun, R. D., and Kroo, I.M.: ÒDevelopment and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Applications",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Architecture",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Environment,Ó",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Alexandrov, N, and Hussaini, M. Y., (eds), 1996.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Bruhn, E. F.: ÒAnalysis and Design of Flight Vehicle",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Structures,Ó Tri-State Offset Co., 1965.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Appendix",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "pre-processor routine must be created to present the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "variable information to the FORTRAN code in an",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "appropriate format.  Finally the data must be harvested",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "and returned to the MATLAB module from which the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "FORTRAN code is being called in a format compatible",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "with MATLAB.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Pre-processing",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "In pre-processing, BLISS must pass the needed",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "variables to a routine which will manipulate them into",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "a form that the FORTRAN code will accept.  The",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "programmer must first ensure that the module in which",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "he is pre-processing has access to the required variables",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "(i.e., the subsystem must not be using X variables",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "assigned to other subsystems).",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The two",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "formatted text input files.  The easiest way to prepare",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "these files was to use a FORTRAN subroutine to take",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the design variables, configure them in the way needed",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "to represent the geometry or conditions needed by the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "analysis, and write the formatted input file for analysis.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "In order to pass variables from the MATLAB",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "environment",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "subroutine, MATLABÕs mex-function was invoked.  In",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "this function, a standard gateway subroutine is added to",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the FORTRAN pre-processing subroutine.  This new",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "routine collects an array of variables passed in from",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "MATLAB and assigns them to a FORTRAN array.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The gateway routine sends these variables into the pre-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "processing subroutine.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "In MATLAB, the user compiles the FORTRAN code",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "including the gateway routine and the pre-processing",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "routine using the mex command.  This creates a mex-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "file which is treated as a MATLAB function requiring",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "an input array and an output array.  The user then places",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "his variables for the pre-processing function into an",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "array and puts this array into the new mex-file.  This",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "sends the variables to the gateway routine which",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "assigns them to the variables used in the FORTRAN",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "pre-processing subroutine.  The input file is generated",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "and control returns to MATLAB.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Program Insertion",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Having prepared the data for analysis by the program,",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the programmer must locate the section of BLISS that",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "he wishes to upgrade.  The previous analysis must be",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "removed and the code must be placed such that BLISS",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "will have performed the new analysis and have data",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ready for later analysis that the user is not replacing.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Data Collection",
+      "page": 9
+    }
+  ]
+}

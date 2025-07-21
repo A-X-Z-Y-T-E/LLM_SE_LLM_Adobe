@@ -1,0 +1,47 @@
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf in 0.02s, found 0 headings
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file02.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file02.pdf in 0.47s, found 5 headings
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file03.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file03.pdf in 0.12s, found 0 headings
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file04.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file04.pdf in 0.06s, found 1 headings
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file05.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file05.pdf in 0.02s, found 1 headings
+
+=== Testing file01.pdf ===
+Title match: True
+Outline count - Our: 0, Expected: 0
+
+=== Testing file02.pdf ===
+Title match: False
+Outline count - Our: 5, Expected: 17
+Expected outline (first 3):
+  H1: Revision History ...
+  H1: Table of Contents ...
+  H1: Acknowledgements ...
+Our outline (first 3):
+  H1: Overview...
+  H1: Foundation Level Extensions...
+  H2: Revision History...
+
+=== Testing file03.pdf ===
+Title match: False
+Outline count - Our: 0, Expected: 39
+Expected outline (first 3):
+  H1: Ontario’s Digital Library ...
+  H1: A Critical Component for Implementing Ontario’s Ro...
+  H2: Summary ...
+Our outline (first 3):
+
+=== Testing file04.pdf ===
+Title match: True
+Outline count - Our: 1, Expected: 1
+
+=== Testing file05.pdf ===
+Title match: False
+Outline count - Our: 1, Expected: 1
+
+=== SUMMARY ===
+Title matches: 2/5
+Outline matches: 3/5

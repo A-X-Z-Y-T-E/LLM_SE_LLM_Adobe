@@ -1,0 +1,1155 @@
+{
+  "title": "gl040248 1..5",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Direct observations of N2O5 reactivity on ambient aerosol particles",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Timothy H. Bertram,1,2 Joel A. Thornton,1 Theran P. Riedel,3 Ann M. Middlebrook,4",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Roya Bahreini,4,5 Timothy S. Bates,6 Patricia K. Quinn,6 and Derek J. Coffman6",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Received 28 July 2009; accepted 10 September 2009; published 8 October 2009.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "[1]",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "N2O5 reactivity has been measured directly for the first",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "time on ambient aerosol particles using an entrained aerosol",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "flow reactor coupled to a custom-built chemical ionization",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "mass spectrometer at two urban locations during summer.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The observed N2O5 reactivity is a strong function of both",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "relative humidity (RH) and particle chemical composition.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "We show that particulate organic mass loadings, together",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "with ambient relative humidity, play a leading role in",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "determining the reaction rate of N2O5 with particles. Our",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "observed reactivity values are both more variable and, at",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "times, as much as a factor of ten lower than currently",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "implemented large-scale model parameterizations would",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "predict. Such discrepancies have likely consequences for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "predictions of NOx availability and ozone production,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and the sensitivity of these quantities to aerosol particle",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "loadings. Citation: Bertram, T. H., J. A. Thornton, T. P. Riedel,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. M. Middlebrook, R. Bahreini, T. S. Bates, P. K. Quinn, and",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "D. J. Coffman (2009), Direct observations of N2O5 reactivity on",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ambient aerosol particles, Geophys. Res. Lett., 36, L19803,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "doi:10.1029/2009GL040248.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "[2] The production of tropospheric ozone (O3), a criteria",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "air pollutant and potent greenhouse gas, is a complex",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "function of nitrogen oxides (NOx = NO + NO2), volatile",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "organic compounds (VOC), sunlight, and trace oxidants",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "such as the hydroxyl radical (OH). O3 production is non-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "linearly dependent on NOx abundance and thus accurate",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "description of the processes that remove NOx radicals is",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "critical for predicting the down-wind influence of anthro-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "pogenic emissions on tropospheric O3. Global modeling",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "studies suggest that nocturnal processes involving the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "reactions of the nitrate radical (NO3) and N2O5 account",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "for 50% of the globally averaged annual net NOx removal",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "[Dentener and Crutzen, 1993]. However, the impact of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "nocturnal NOx removal processes on the tropospheric O3",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "budget continues to be limited by uncertainty in the reaction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "rate of N2O5 with aerosol particles.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "[3] The influence of N2O5 on the removal of atmospheric",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "NOx radicals is determined by the product of the probability",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Full",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Article",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1Department of Atmospheric Sciences, University of Washington,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Seattle, Washington, USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2Now at Department of Chemistry, University of California, San Diego,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "La Jolla, California, USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3Department of Chemistry, University of Washington, Seattle,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Washington, USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4Earth System Research Laboratory, NOAA, Boulder, Colorado, USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "5CIRES, University of Colorado, Boulder, Colorado, USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "6Pacific Marine Environmental Laboratory, NOAA, Seattle, Washington,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "USA.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Copyright 2009 by the American Geophysical Union.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "0094-8276/09/2009GL040248$05.00",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Pacific Marine Environmental Laboratory, 10 km NE of",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "downtown Seattle, WA. Particle size distributions (10 nm to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "10 mm) were measured with two differential mobility",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "particle sizing instruments and aerodynamic particle sizer.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Sub-micron particle composition was measured by an",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Aerodyne quadrupole aerosol mass spectrometer [Jayne et",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "al., 2000].",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "[6] We interpret these results using a newly developed",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "parameterization of g(N2O5) [Bertram and Thornton, 2009]",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "that is driven by observations of particle composition and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "RH, and calculations of H2O(l) as determined by the aerosol",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "inorganics model (AIM Model II) [Carslaw et al., 1995].",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "This approach permits us to directly assess the dependence",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "of the observed g(N2O5) on the factors outlined in section 1.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Observed Dependence of g(N2O5) on Particle",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Chemical Composition",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "[7] In Boulder, the ambient RH was low (30 ± 15%),",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "particle loadings were rather uniform (mean Sa = 108 ± 35,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Figure 1.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "mass ratio of POM to SO4",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Seattle (black) and Boulder (gray). (b) Calculated depen-",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "dence of the molar ratio of H2O(l) to NO3",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "of POM to SO4",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "assuming that POM does (circles) and does not (squares)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "contribute to H2O(l) uptake. Data points are equal",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "population binned medians, where the bar corresponds to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "the interquartile range of the calculations. The shaded",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "region (in panel b) represents values of [H2O(l)]/[NO3",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "where laboratory measurements predict suppression in",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "g(N2O5) due to the NO3",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "L19803",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "calculations made using the Bertram and Thornton [2009]",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "parameterization show that at the low RH sampled,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "[H2O(l)]/[NO3",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "g(N2O5) to <0.005 across the entire range of POM/SO4",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "observed in Boulder. Co-located measurements of g(N2O5)",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "and particle phase state [Martin et al., 2008] will clearly",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "allow such distinctions to be made in the future.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "[11] The behavior of g(N2O5) observed in Seattle, at",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "higher RH, more clearly illustrates the importance of",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "understanding POM in order to assess the factors control-",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ling g(N2O5). The dependence of g(N2O5) on POM/SO4",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "was observed during a stagnation episode in which most of",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "the POM mass growth was likely due to SOA formation as",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "indicated by the fraction of POM that is measured to be",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "highly oxidized (see Figure S4). In light of the above",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "expectations, the decreasing g(N2O5) with increasing",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "POM/SO4",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2\u0002 can be hypothesized to be a result of: i) a",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "relative decrease in the particulate water mass fraction,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "following increased partitioning of organics that are less",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "hygroscopic than AS (i.e. DH2O(l)/DPOM \u0004 0), leading to",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "both an increased nitrate effect [Wahner et al., 1998] and a",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "possible H2O(l) limitation [Thornton et al., 2003], and/or",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ii) an increasing role of organic coatings that limit either",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "N2O5 surface accommodation or N2O5 accessibility to",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "H2O(l).",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "[12] To examine these suppositions, we first calculate",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "[H2O(l)] and [H2O(l)]/[NO3",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "extremes of POM hygroscopicity: i) POM does not con-",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "tribute to H2O(l) uptake, and ii) POM is highly hygroscopic,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "contributing significantly to H2O(l) (POM treated as",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "malonic acid) (Figure 1b). In both cases [H2O(l)] is suffi-",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ciently high (>20M), so as not to suppress g(N2O5) directly.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "The molar ratio of H2O(l) to NO3",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "when POM is allowed to contribute to H2O(l), but decreases",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "with increasing POM/SO4",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "contributing to H2O(l). To determine whether the calculated",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "changes in [H2O(l)]/[NO3",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "observed changes in g(N2O5), we use the parameterization",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "for g(N2O5) described by Bertram and Thornton [2009].",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Figure 2.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ratio of H2O(l) to NO3",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "uptake. Data points are separated into equal population bins, where the bar and whiskers correspond to the median to mean",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "range and the interquartile range of the observations, respectively. The parameterized g(N2O5), derived from the observed",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "particle chemical composition and RH, is shown with black solid lines and the shaded region represents the propagated",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "uncertainty in its determination. The dashed black line depicts g(N2O5) as parameterized for regions where direct",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "measurements of g(N2O5) were not available.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "L19803",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The dependence of Flost on g(N2O5) and NO3 reactivity, as",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "calculated using a time-dependent chemical box model (see",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "SI) for characteristic summer and winter conditions, is",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "shown in Figure 3. We chose conditions (e.g., temperature",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "and NO3 reactivity) in order to bracket the range of possible",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "sensitivities to g(N2O5). In our summer calculations, Flost is",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "primarily limited by the NO3 production rate and nearly",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "independent of g(N2O5) due to assuming high loadings of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "biogenic volatile organic compounds (BVOC), which",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "increase NO3 reactivity, and warmer temperatures, which",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "shift the N2O5-NO3 equilibrium in favor of NO3. The result",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "is that at high NO3 reactivity the nocturnal loss of NOx is",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "independent of g(N2O5). During winter, BVOC emissions",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "are significantly smaller, and lower temperatures shift the",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "N2O5-NO3 equilibrium in favor of N2O5. As a result, Flost is",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "far more sensitive to g(N2O5) during winter than in summer.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "These calculations illustrate the acute sensitivity of the NOx",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "budget to changes in g(N2O5) between 1 \u0003 10\u00024 and 0.1",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "and imply that the NOx lifetime is strongly dependent on",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "NO3 reactivity at low g(N2O5).",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "[15] In addition to accurate predictions of the total",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "nocturnal NOx loss, models must also correctly attribute",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "that loss between the N2O5 and NO3 channels to achieve a",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "realistic sensitivity of the NOx budget to changes in VOC,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "temperature, and particle loadings. Our modeling shows this",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "branching is sensitive to g(N2O5) for the majority of likely",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "conditions. The reaction products for the two channels have",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "different effects on oxidant concentrations and particle mass",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "loadings: the products of NO3 homogeneous reactions can",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Conclusions",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Figure 3.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "during a 12-hr night as a function of g(N2O5) for low NO3",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "reactivity (T = 278\u0002K and NO3 reactivity = 0.01 min\u00021,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "gray squares) and high NO3 reactivity (T = 298\u0002K and NO3",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "reactivity = 0.1 min\u00021, black circles) conditions. Values were",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "calculated using a time-dependent chemical box model, with",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "the following initial conditions: [O3] = 50 ppbv, [NO2] =",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "5 ppbv, and Sa = 200 mm2cm\u00023. (b) Fraction of total nocturnal",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "NOx loss via N2O5 for summer and winter conditions.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "L19803",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Brown, S. S., et al. (2009), Reactive uptake coefficients for N2O5 deter-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "mined from aircraft measurements during the Second Texas Air Quality",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Study: Comparison to current model parameterizations, J. Geophys. Res.,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "114, D00F10, doi:10.1029/2008JD011679.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Carslaw, K. S., et al. (1995), A thermodynamic model of the system HCl-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "HNO3-H2SO4-H2O, including solubilities of HBr, from less than 200 to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "328 K, J. Phys. Chem., 99(29), 11,557 – 11,574, doi:10.1021/",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "j100029a039.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Davis, J. M., et al. (2008), Parameterization of N2O5 reaction probabilities",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "on the surface of particles containing ammonium, sulfate, and nitrate,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Atmos. Chem. Phys., 8, 5295–5311.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "DeCarlo, P. F., et al. (2006), Field-deployable, high-resolution, time-of-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "flight aerosol mass spectrometer, Anal. Chem., 78(24), 8281–8289,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "doi:10.1021/ac061249n.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Dentener, F. J., and P. J. Crutzen (1993), Reaction of N2O5 on tropospheric",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "aerosols: Impact on the global distributions of NOx, O3, and OH,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "J. Geophys. Res., 98(D4), 7149–7163, doi:10.1029/92JD02979.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Drewnick, F., et al. (2005), A new time-of-flight aerosol mass spectrometer",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "(TOF-AMS)—Instrument description and first field deployment, Aerosp.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Sci. Technol., 39(7), 637–658, doi:10.1080/02786820500182040.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Evans, M. J., and D. J. Jacob (2005), Impact of new laboratory studies of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "N2O5 hydrolysis on global model budgets of tropospheric nitrogen",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "oxides, ozone, and OH, Geophys. Res. Lett., 32, L09813, doi:10.1029/",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2005GL022469.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Finlayson-Pitts, B. J., et al. (1989), Formation of chemically active chlorine",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "compounds by reactions of atmospheric NaCl particles with gaseous",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "N2O5 and ClONO2, Nature, 337(6204), 241 – 244, doi:10.1038/",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "337241a0.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Folkers, M., T. F. Mentel, and A. Wahner (2003), Influence of an organic",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "coating on the reactivity of aqueous aerosols probed by the heterogeneous",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "hydrolysis of N2O5, Geophys. Res. Lett., 30(12), 1644, doi:10.1029/",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2003GL017168.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Griffiths, P. T., et al. (2009), Reactive uptake of N2O5 by aerosols contain-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ing dicarboxylic acids. Effect of particle phase, composition, and nitrate",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "content, J. Phys. Chem. A, 113(17), 5082–5090, doi:10.1021/jp8096814.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Jayne, J. T., et al. (2000), Development of an aerosol mass spectrometer for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "size and composition analysis of submicron particles, Aerosp. Sci. Tech-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "nol., 33(1–2), 49–70.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Kercher, J. P., et al. (2009), Chlorine activation by N2O5: In situ detection",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "of ClNO2 and N2O5 by chemical ionization mass spectrometry, Atmos.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Meas. Tech., 2, 193–204.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Kondo, Y., Y. Miyazaki, N. Takegawa, T. Miyakawa, R. J. Weber, J. L.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Jimenez, Q. Zhang, and D. R. Worsnop (2007), Oxygenated and water-",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "soluble organic aerosols in Tokyo, J. Geophys. Res., 112, D01203,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "doi:10.1029/2006JD007056.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Martin, S. T., T. Rosenoern, Q. Chen, and D. R. Collins (2008), Phase",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "changes of ambient particles in the Southern Great Plains of Oklahoma,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Geophys. Res. Lett., 35, L22801, doi:10.1029/2008GL035650.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "McNeill, V. F., et al. (2006), The effect of varying levels of surfactant on the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "reactive uptake of N2O5 to aqueous aerosol, Atmos. Chem. Phys., 6,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1635–1644.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "L19803",
+      "page": 5
+    }
+  ]
+}

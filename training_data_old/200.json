@@ -1,0 +1,1015 @@
+{
+  "title": "Guidance Note on Data Security in Operational Data Management",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GUIDANCE NOTE SERIES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "GUIDANCE NOTE ON DATA SECURITY IN",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "OPERATIONAL DATA MANAGEMENT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "KEY TAKEAWAYS:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Data security is a key component of data responsibility – the safe, ethical and effective",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "management of data for humanitarian response.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Two common threats to data security in humanitarian action are digital surveillance and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "interception, and unauthorized or malicious activity.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Humanitarian actors face many challenges related to data security, including device and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "application vulnerabilities, poorly secured networks, metadata exposure, physical vulnerabilities,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "staff capacity and error, and managing sensitive data.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t A lack of robust data security undermines the ability to deliver assistance and protection to",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "affected people, maintain duty of care for staff, and operate effectively in complex environments.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Data security requires both individual action and broader organizational engagement and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "investment. This includes adopting relevant policies, guidelines and risk-related mitigation",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "procedures, investing in responsible data management, and promoting actions for data",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "responsibility among staff and partners.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Data security is a key component of data responsibility – the safe, ethical and effective management of",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "data for humanitarian response. It entails a set of physical, technological and procedural measures that",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "safeguard the confidentiality, integrity and availability of data, and prevent its accidental or intentional,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "unlawful or otherwise unauthorized loss, destruction, alteration, acquisition or disclosure.1",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Digital technologies such as mobile apps, web-based platforms, and biometric registration systems",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "can improve humanitarian action, but they can also increase the risk of data interception, tracking and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "unauthorized access. Critical incidents such as the cyberattack on ICRC servers containing data related",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "to the Red Cross and Red Crescent Movement's Restoring Family Links services2 have shown that the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitarian sector needs to prepare for and respond to major data security breaches and related threats.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "A lack of robust data security undermines the ability to deliver assistance and protection to affected",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "people, maintain duty of care for staff, and operate responsibly in complex humanitarian environments.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian organizations and staff must understand vulnerabilities related to data security and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "implement appropriate actions to mitigate risk. This is particularly important in conflict environments.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1   IASC, 2021. Operational Guidance on Data Responsibility in Humanitarian Action.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "This Guidance Note presents common threats to data security and vulnerabilities in operational data",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "management, and offers a set of recommended actions to improve data security in humanitarian settings.3",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "COMMON THREATS TO DATA SECURITY",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Two common threats to data security in humanitarian action are digital surveillance and interception, and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "unauthorized or malicious activity.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Digital surveillance and interception: Targeted surveillance, often enabled by telecommunications",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "service providers subject to interception requests, may allow state law enforcement and security",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "agencies to access/intercept communications. State and non-State actors alike may also deploy covert",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "surveillance tools, such as masquerading as legitimate cell phone towers known as ’IMSI-catchers’,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "to support eavesdropping on mobile phone communications. Beyond targeted surveillance, many",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "social media platforms collect information on their users, and this data is vulnerable to the same",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "level of exploitation as any other data. Users often have little to no say in accepting updates to the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "data processing policies, and are often unaware of what data is being generated and processed by",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "the platforms they use or who has access to their data. The abundance of information that can be",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "obtained, inferred or derived from social media data has become increasingly popular with both",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "private and public parties for surveillance and other non-humanitarian objectives.4",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Unauthorized or malicious activity: Phishing attacks that convince individuals to click a link in",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "communications that appear to come from trusted sources can enable remote access to a device",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "or compromise its contents. Malware may be installed on a device remotely or from compromised",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "links sent through messaging applications, emails and attachments. Less technical approaches,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "such as theft or impersonation via social engineering, also pose a serious threat to individuals and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "organizations.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The vulnerabilities described below increase the likelihood of these threats.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "COMMON VULNERABILITIES IN OPERATIONAL DATA MANAGEMENT",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "While data management varies by context and organization, there are several common vulnerabilities faced",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "by humanitarian actors. Humanitarians should assess and reduce these vulnerabilities to minimize the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "exposure of affected people and staff to threats and potential harm.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.\tDevice and application vulnerabilities",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Using tools or software not approved or vetted by your organization carries a range of risks related to data",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "security. Similarly, outdated or poorly configured software can be exploited for surveillance purposes by",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "allowing attackers to gain control of a device through inadequate security controls.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "In addition, mobile devices often have a number of applications that enable surveillance by supporting",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "activity and content tracking, and transmitting geolocation and other metadata to third parties. This applies",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "particularly to free applications, which are often predicated on a business model that exploits personal",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "data.5 The default settings of applications may also contain inherent vulnerabilities such as defaulting",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "message encryption to off, defaulting cloud back-ups to on or the use of conference recording functionality,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "which result in conversations being stored on third-party servers.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.\tPoorly secured networks",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Using public or open Wi-Fi networks (i.e., those without a password) may expose humanitarians to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "surveillance and may also lead to intrusion, such as unauthorized parties joining group chats or online",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "meetings. This vulnerability can also arise when an organization has not properly configured its own",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "servers, routers and services. The default settings are often overly permissive and may allow attackers to",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "gain access to devices and networks. The aim of this type of intrusion can be to identify and profile devices",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and users of a network, their geographic location, the people they have communicated with, and even the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "content of the communication.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.\tMetadata exposure",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "All digital activities leave digital footprints, often referred to as metadata, on devices, servers and network",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "infrastructure. Metadata describes information about the data in question. For example, when sending",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "an email, the metadata would include the time sent and the IP addresses of recipient and sender.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarian organizations passively generate metadata through internal communications, exchanges",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "with people affected by crises, and during programme implementation and monitoring.6 Access to such",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "metadata can be as intrusive and revealing as access to any other data. It can reveal information about",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "individuals such as their location and recent activities which can enable re-identification and targeting by",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "malicious actors.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.\tPhysical vulnerabilities",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "There are a number of physical vulnerabilities that might lead to unauthorized access to data and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "information by malicious actors. For example, staff might encounter checkpoints at which they are required",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "to hand over devices and documents. There is also a risk of physical surveillance: anyone within the vicinity",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "of a meeting with an interlocutor could overhear discussions or deliberately listen-in to the conversation.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Finally, devices are at greater risk of being lost or stolen when they are taken out of secured office",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "environments.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.\tStaff capacity and error",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Poor practices and inconsistent application of data security measures can exacerbate existing",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "vulnerabilities or create new ones. Staff might be unaware of the vulnerabilities related to data security",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and how to mitigate the associated risks. Resource and time constraints might also have negative effects",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "on how staff handle data when prioritizing other areas of work. For example, staff may share sensitive data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "without encrypting the file (i.e., requiring a password to open it) thereby increasing the risk of inadvertently",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "exposing the data.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "6.\tManaging sensitive data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Sensitive data, such as data from household surveys, needs assessments and other forms of microdata,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "makes up an increasingly significant volume of data in the humanitarian sector. While this type of data is",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "critical to humanitarian action, it can cause significant harm to individuals or organizations if accessed",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "without proper authorization. Managing sensitive data exacerbates other vulnerabilities by increasing the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "severity of potential harm. It can also increase the likelihood of targeted attacks, including interception and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "unauthorized access.7",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "RECOMMENDED ACTIONS FOR DATA SECURITY",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Humanitarians should take the following actions to improve data security in their work.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Understand the risks in your environment",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Identify and assess risks by conducting a Data Impact Assessment (DIA).8 DIAs provide an understanding",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "of the potential consequences of a data management activity.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Redesign or cancel an activity if the foreseeable risks of data management outweigh the intended",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "benefits.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Regularly consult relevant news, briefings and security reports to inform the understanding of risks in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "your environment.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Adapt your approach and choices to the situation. A tool or technology might be appropriate in one",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "context, but unsuitable in another.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Practice good password management",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Secure your devices and accounts with strong passwords that include numbers, capital and lowercase",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "letters, and symbols with at least 16+ characters per password.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Enable multi-factor authentication (MFA) for all accounts.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not reuse the same password for multiple accounts and update passwords regularly (unless MFA is",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "being used).",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not store your passwords physically (on notes) or digitally (in a file on your device) and do not share",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "your password with others.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not enable the ’Remember Me’ functionality in applications and browsers.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use a password manager, preferably one recommended, approved or managed by your organization.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use a password leak monitoring service to regularly check whether your password has been",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "compromised.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Change your passwords on all accounts immediately if your device is lost or stolen.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use incognito or private browser tabs as often as possible.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Use antivirus/anti-malware software",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Make sure that you have appropriate antivirus/anti-malware software on all devices.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "•\t Always check with an IT specialist in your office if available or otherwise with colleagues at a partner",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "organization to select the right tool and configure it appropriately.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "8   See the Guidance Note on Data Impact Assessment for additional information on how to conduct a DIA.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Keep software and operating systems up to date",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Check regularly that your device, software, applications, and browser plug-ins are up to date and enable",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "automatic updates for your operating system.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use web browsers that receive automatic security updates.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Avoid the use of software for which future maintenance is likely not to be available.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Shut down devices regularly or when prompted by your system to enable updating and protect against",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "attacks.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Avoid phishing scams and be careful what you click",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t When receiving suspicious emails or other messages, always check the sender's address/contact",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "information and only click on links or attachments from trusted senders.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Even if the link is from a trusted sender, always copy it and use a private or incognito browser tab to",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "open it.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Always check that the URL corresponds to a known, reputable website by running it through a search",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "engine to ensure the website is legitimate.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Hover over a URL link before clicking it to see where the link is actually taking you.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not reply to suspicious emails or forward them to your colleagues.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Report any suspicious activity through the appropriate channel within your organization.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Use mobile devices responsibly",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use separate devices for work purposes wherever possible. Keep your work devices in a secure place at",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "all times and avoid carrying them around unnecessarily.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use messaging tools approved by your organization that provide end-to-end encryption.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Minimize the use of Bluetooth connectivity and location services, and turn them off when possible.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Use a Virtual Private Network (VPN) when working online. Consult the IT department or your colleagues",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "for a list of approved tools.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Always sign out of your account(s) if you are using a public/shared computer or device.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not access sensitive services or information on public/shared devices unless absolutely necessary.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Disable biometric unlock features—particularly when in transit.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Verify that your device does not track activity or content and disable those functions where possible.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Practice data minimization",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Only collect the minimum amount of data required to achieve the objective and purposes for a given",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "data management activity.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "•\t Only retain sensitive data when strictly necessary and for as long as necessary to fulfill the purpose for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "which it is being managed and as required by applicable guidance, law and regulations.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Centre for Humanitarian Data (‘the Centre’), together with key partners, is publishing a series of guidance",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Committee Operational Guidance on Data Responsibility in Humanitarian Action and the OCHA Data",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Responsibility Guidelines, which were published in February 2021 and October 2021 respectively. Through",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Safeguard sensitive data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Transfer and store data using approved tools and channels (locally on an internal server, computer or",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "laptop, or on servers and systems operated by your organization, using end-to-end encryption).",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Password protect and/or encrypt files (Word, Excel, PDF) containing sensitive data and share document",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "passwords through separate channels (i.e., text a password for an emailed document).",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Limit and carefully monitor the number of people with access to sensitive data.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Define a retention and destruction schedule for all data managed by your organization and use",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "appropriate tools for the destruction of data.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Do not discuss sensitive information in public settings and ensure that no unauthorized persons have",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "access to your meeting spaces, both physical and online.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Encrypt your email messages.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Maintain a Data Asset Registry9 that indicates the level of sensitivity for each data type managed by",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "your office. Review sensitivity levels regularly as the context evolves.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "•\t Consider developing a Data and Information Sensitivity Classification for your context, either as part of",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "an Information Sharing Protocol10 or as a standalone document for reference.11",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Organizational investment in data security",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Beyond the individual actions outlined above, data security requires broad, organization-level engagement.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Organizations need to invest in data security measures to promote data responsibility across their",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "offices and teams. This might include adopting relevant policies and guidelines, risk-related mitigation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "procedures, investing human and financial resources in data security and management, and promoting data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "responsibility among staff and partners.",
+      "page": 6
+    }
+  ]
+}

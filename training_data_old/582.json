@@ -1,0 +1,1940 @@
+{
+  "title": "Exhibit 300: Capital Asset Summary",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Exhibit 300: Capital Asset Summary",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Part I: Summary Information And Justification (All Capital Assets)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Section A: Overview & Summary Information",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date Investment First Submitted: 2009-06-30",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Last Change to Activities: 2012-11-30",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Investment Auto Submission Date: 2013-03-24",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Last Investment Detail Update:  2013-06-25",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Last Exhibit 300A Update:  2013-06-25",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date of Last Revision:  2013-06-25",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Agency: 005 - Department of Agriculture        Bureau: 49 - Farm Service Agency",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1. Name of this Investment: Farm Program Modernization (MIDAS) #097",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2. Unique Investment Identifier (UII): 005-000001870",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Section B: Investment Detail",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "1.  Briefly describe the investment’s purpose, goals, and current or anticipated benefits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(quantitative and/or qualitative). Include the investment’s specific contribution to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "mission delivery or agency management support functions and identify key customers,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "stakeholders, and other beneficiaries.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "The Modernize and Innovate the Delivery of Agricultural Systems (MIDAS) program will",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "transform Farm Service Agency's (FSA) delivery of Farm Program benefits, on behalf of the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Commodity Credit Corporation (CCC), into a 21st century business model. This project will",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "provide capability to meet the increasing demand for customer self-service and eliminate",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "FSA's reliance on aging technology. This project will reduce the risk of hardware failure by",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "replacing the farm program applications residing on the outdated AS400/S36 computing",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "platform with an integrated COTS solution, SAP. This project will reengineer business",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "processes to be common and centralize data assets to support farm programs, eliminate",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "program specific duplication of functionality and non-integrated, distributed data that exists",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "between farm program software applications. It will accomplish increased compliance with",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "modern internal control structures and effectively implement improved IT security. MIDAS will",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "install commitment-based accounting practices (e.g., obligations, commitments, outlays,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "funds control) to upgrade both the program and financial management business practices of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "the CCC. The project is intended to align with Office of the Chief Financial Officer's (OCFO)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Financial Management Modernization Initiative (FMMI) investment.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2.  Briefly describe how the investment contributes to the agency target EA and its role",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "in the Enterprise Roadmap. Include a description of how the investment includes or",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "will achieve programmatic or technical innovation.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "MIDAS is aligned with USDA Target Enterprise Architecture. The USDA EA Division (EAD) is",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "creating an initial Enterprise Roadmap where MIDAS will be explicitly named and highlighted",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "as one of the most important IT investments for USDA. MIDAS can be considered to be well",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "aligned with the USDA Target Enterprise Architecture.  MIDAS is aligned with USDA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Page  1 / 11 of Section300",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2010-2015 Strategic Plan.  Initiative IV: Leverage USDA Departmental Management to",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Increase Performance, Efficiency, and Alignment  - MIDAS will help to reduce Improper",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Payments through an integrated solution that will streamline the payment process and reduce",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "human errors. - MIDAS will leverage streamlined operations of FMMI to disburse payments.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Initiative V: Optimize Information Technology (IT) Policy and Applications - MIDAS will",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "leverage the latest technology to improve and support program delivery of services, benefits",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and communication - MIDAS will implement an integrated COTS solution providing a secured",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and robust delivery platform for Farm Benefit Programs  MIDAS is aligned with Farm Service",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Agency (FSA) 2012-2016 Strategic Plan.  Strategic Goal 4: Transform and modernize the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Farm Service Agency As stated in FSA Strategic Plan 2012-2016, the FSA is transforming its",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "systems and applications into a set of enterprise services and eliminating legacy systems,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "servers, and duplicative data environments. Achieving the goal of transforming and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "modernizing key systems, business processes, and support activities will facilitate mission",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "success and enhance the accountability, efficiency, and effectiveness of service delivery.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Objective 4.3: Modernize Program and Service Delivery MIDAS will allow FSA to respond",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "more promptly to customer demands and meet future challenges. MIDAS will enable an",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "access program and financial management data to ensure strategic decisions are based on",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "valid data. Increased online access will enhance customer self-sufficiency and usability,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "reducing field office trips, transaction processing, data entry, and paperwork.  Objective 4.4:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Improve Customer Service MIDAS will improve the customer service capabilities and allow",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "FSA to use analytics to evaluate the consistency of customer service. MIDAS will expand",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "beyond the traditional walk-in local offices and ensure that customers are aware of available",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "eservices and that these services are easy to use. MIDAS will review and improve business",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "processes to ensure we are effectively delivering our programs and services.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3.  Provide the investment’s currently projected return on investment (ROI) percentage,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "as documented in the most recent alternatives analysis, and the date that it was",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "established.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "a. Current ROI:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "b. Date of Current ROI:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4.  In the section below, indicate if the investment in whole or in part specifically",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "addresses any of the following types of requirements.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Note: Where “Yes” is indicated, provide a brief description of the requirement and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "how the investment will meet the requirement. Include citations within descriptions, if",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "available. Provide any URLs associated with each requirement. If citing the Agency",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Performance Plan, provide the applicable “PRM” code from Performance.gov.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "a. Legislative Mandate:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Required By: YES",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Description: As applicable, the MIDAS program is working to align with the U.S. CIO  25",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Point Implementation Plan to Reform Federal Information Technology Management .",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Associated URLs:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "http://www.google.com/url?sa=t&rct=j&q=u.s.+cio+25+point+implementation+plan&sourc",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Page  2 / 11 of Section300",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "e=web&cd=1&ved=0CFIQFjAA&url=http%3A%2F%2Fwww.cio.gov%2Fdocuments%2",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "F25-point-implementation-plan-to-reform-federal%2520it.pdf&ei=wYDoT_qdMeik6gG-t",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "uXeDg&usg=AFQjCNGSULuy7DBY92MDP2WF48ExcnxV6g",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "b. Outstanding Audit Finding or Material Weakness:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Required By: NO",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Description:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Associated URLs:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "c. Published Agency Strategic Plan/Annual Performance Plan:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Required By: YES",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Description: MIDAS is aligned with USDA Management Initiative #4 (Leverage USDA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Departmental Management to Increase Performance, Efficiency, and Alignment) and #5",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "(Optimize Information Technology (IT) Policy and Applications), as defined in USDA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2010-2015 Strategic Plan. MIDAS is aligned with FSA Strategic Goal #4 (Transform and",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "modernize the Farm Service Agency), as defined in Farm Service Agency (FSA)",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2012-2016 Strategic Plan.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Associated URLs:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "http://www.ocfo.usda.gov/usdasp/sp2010/sp2010.pdf",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "http://www.fsa.usda.gov/Internet/FSA_File/fsa-strategic_plan_12-16.pdf",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "PRM Codes:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "001-003-002",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "d. Presidential Direction:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Required By: NO",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Description:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Associated URLs:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "e. Other Requirement:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Required By: NO",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Description:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Associated URLs:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "5.  Provide a description of the investment’s progress and accomplishments in the PY,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "including the investment’s overall performance against baseline goals, targets,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "significant milestones, or performance measures, and any corrective actions taken to",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "address performance deficiencies.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Planning/Acquisition:Implemented Governance construct. Acquired enterprise SAP licenses",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "in FY12 Q4. Conducted USDA TechStat in FY13 Q1; created improvement plan. Realigned",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Release 1 to D1.0 Farm Records (FR), D1.0 Acreage Reporting/Inventory Reporting (AR/IR)",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "and D1.1 MAL/BIN deployments.   Solution:Deployed SolMan, HPQC, ARIS, and uPerform.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Deployed D1.0 and D1.1 DEV/TEST environments for SAP, GIS, and Web Farm platforms.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Deployed PROD environments for SAP and GIS.  Completed System Requirements",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Review/System Functional Review in FY12 Q1 (D1.0) and FY13 Q1 (D1.1). Deployed Proof",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "of Concept/Demo in FY11 Q2. Completed D1.0 Critical Design Review in FY12 Q2.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Completed D1.0 FR Test Readiness Review in FY12 Q4. Completed D1.0 FR Final Prep",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Readiness Review in FY13 Q2.  Received interim Authority to Operate.  Completed FR",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Go-Live Readiness Review and deployed nationwide in FY13 Q3.  OCM:Established Change",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Agent Network (CAN) and Super Users. Completed 100% of End-User Training as of 6/6/13.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Page  3 / 11 of Section300",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "6.  Describe the investment’s objectives for the CY, BY, and budget out years, if",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "available, including specific accomplishments to achieve, realize, or continue to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "achieve the benefits cited in question B.1. above.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Planned Accomplishments for CY   Planning/Acquisition: Finalize MIDAS Release Plan and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "detailed planning/acquisition for Release 2.  Solution: Complete technical design,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "development, testing, and data conversions for remaining R1 deployments. Deploy R1 D1.0",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "AR/IR and D1.1 MAL/BIN in FY13/FY14.  OCM: Complete D1.0 FR end user training.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Conduct Training for O&M support team and larger FSA organization, as budget allows.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Complete D1.0 AR/IR and D1.1 MAL/BIN end user role mapping and supporting training.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Sustainment Operations: Perform 90 days of stabilization after initial Go-Live. Complete",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "preparations for O&M (people, process and tools) and initiate ongoing O&M support.  Planned",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Accomplishments for BY  Full Operating Capability: MIDAS will implement Full Operating",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Capability (FOC) in accordance with MIDAS deployment plan. Complete System",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Requirements documentation, Process Modeling, and System Design. Complete Detailed",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Design, Development, and Testing. Identify legacy data and prepare for converting into",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "MIDAS. Execute mock conversions and final data conversions. Complete Data Conversions",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "and conduct training.  Planned Accomplishments for Out Years.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "7.  If this investment will result in the elimination or the reduction of another",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "investment(s), please complete the following:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table I.B.1 Affected Investment Information",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Investment UII",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Status",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "8.   Does this investment include the following?",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "a.  A shared service (intra-or inter-agency—current and/or planned): NO",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "b.  A data center (current and/or planned): NO",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "c.  PIV-enabled systems (per HSPD-12) (all systems currently PIV-enabled): NO",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "d.  Cloud computing (current and/or planned): NO",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "e.  APIs (application programming interfaces) consistent with the Digital Government",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Strategy: NO",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "9.   Provide any URLs related to the investment and indicate how they are related. Identify",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "each URL’s relationship to the investment (if applicable).",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table I.B.2 URL's Related to the Investment",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "URL",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "A. Provides publicly",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "accessible datasets",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "produced by this",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "B. Provides a",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "publicly accessible",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "API to provide",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "C. Links to social",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "media about this",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "investment.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "D. Provides general",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "information about",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "this investment.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "E. Provides general",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "information about",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the business",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Page  4 / 11 of Section300",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table I.B.2 URL's Related to the Investment",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "URL",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "A. Provides publicly",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "accessible datasets",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "produced by this",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "B. Provides a",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "publicly accessible",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "API to provide",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "access to data from",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "this investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "C. Links to social",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "media about this",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "D. Provides general",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "information about",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "this investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "E. Provides general",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "information about",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the business",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "process or program",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "served by this",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "investment but not",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the investment itself.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "access to data from",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "this investment.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "process or program",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "served by this",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "investment but not",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the investment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "itself.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "http://www.fsa.usda.g",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "10.   Provide the date of the investment or IPT charter establishing the required IPT.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2012-08-31",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Page  5 / 11 of Section300",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Section C: Life Cycle Costs",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1.  Provide the cost summary for the investment.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table I.C.1 Life Cycle Costs",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PY-1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Prior",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Planning Costs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DME (Excluding Planning) Costs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "DME (Including Planning) Govt. FTEs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sub-Total DME (Including Govt. FTE):",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "O & M Costs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "O & M Govt. FTEs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sub-Total O & M Costs (Including Govt.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Total Cost (Including Govt. FTE):",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Total Govt. FTE costs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "# of FTE rep by costs:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Total change from prior year final",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Total change from prior year final",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "a.   In which year did or will this investment begin? (specify year - e.g., PY-1= 2011)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "b.  In which year will this investment reach the end of its estimated useful life? (specify year - e.g., BY+5 = 2019)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3.   If the funding levels have  changed from the FY 2013 President's Budget request for PY or CY, briefly explain those changes:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Page  6 / 11 of Section300",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The Summary of Funding reflects the execution changes due to revised FY11 and FY12 budget decisions.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Page  7 / 11 of Section300",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Section D: Acquisition/Contract Strategy (All Capital Assets)",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1.  Provide all prime contracts (or task orders) for awarded or open solicitations for the investment.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table I.D.1 Contracts and Acquisition Strategy",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Contract Type",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Contracting",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Agency ID",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Procurement",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Instrument",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Identifier (PIID)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Modular Approaches/",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Contracting",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Indefinite",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Delivery Vehicle",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "(IDV) Reference ID",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "IDV",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Agency",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Solicitation ID",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "EVM Required",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Awarded",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.   If earned value is not required or will not be a contract requirement for any of the contracts or task orders above, explain why:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Earned Value Management will be required and the standards mandated in ANSI 748 will be followed.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Page  8 / 11 of Section300",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Exhibit 300B: Performance Measurement Report",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Section A: General Information",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Date of Last Change to Activities:  2012-11-30",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Section B: Project Plan and  Execution Data",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table II.B.1 Projects",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project ID",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Objectives/Expect",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "ed Outcomes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Start Date",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Completion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Lifecycle",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Cost ($M)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "End Point",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Schedule",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Variance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(in days)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "End Point",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Schedule",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Variance (%)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Cost Variance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "($M )",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Cost Variance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(%)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Key Deliverables",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Project ID",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Activity Name",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Activity Description",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Planned Completion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Projected",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Completion Date",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Actual Completion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Duration",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(in days)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Schedule Variance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(in days )",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Schedule Variance",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(%)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Page  9 / 11 of Section300",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Key Deliverables",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Project ID",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Activity Name",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Activity Description",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Planned Completion",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Projected",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Completion Date",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Actual Completion",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Duration",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "(in days)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Schedule Variance",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "(in days )",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Schedule Variance",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "(%)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Page  10 / 11 of Section300",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "EXHIBIT 300",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "UII 005-000001870",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Section C: Operational Data",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Table II.C.1A/B Performance Metrics and Actuals",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Metric ID",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Metric Description",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Unit of Measure",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "FEA Performance",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Measurement",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Category Mapping",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2012 Target",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2013 Target",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Measurement",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Condition",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Reporting",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Frequency",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Agency Strategic",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Goals / Agency",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Objective",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Page  11 / 11 of Section300",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Date of Last Revision: 2013-06-25",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Exhibit 300 (2012)",
+      "page": 11
+    }
+  ]
+}

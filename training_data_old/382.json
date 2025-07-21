@@ -1,0 +1,4725 @@
+{
+  "title": "Stable Isotopes of Transition and Post-Transition Metals",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Chapter 10",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Stable Isotopes of Transition and Post-Transition Metals",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "as Tracers in Environmental Studies",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Thomas D. Bullen",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Abstract The transition and post-transition metals,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "which include the elements in Groups 3–12 of the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Periodic Table, have a broad range of geological and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "biological roles as well as industrial applications and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "thus are widespread in the environment. Interdiscip-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "linary research over the past decade has resulted in a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "broad understanding of the isotope systematics of this",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "important group of elements and revealed largely",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "unexpected variability in isotope composition for",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "natural materials. Signiﬁcant kinetic and equilibrium",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "isotope fractionation has been observed for redox sen-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sitive metals such as iron, chromium, copper, molyb-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "denum and mercury, and for metals that are not redox",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sensitive in nature such as cadmium and zinc. In the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "environmental sciences, the isotopes are increasingly",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "being used to understand important issues such as",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tracing of metal contaminant sources and fates, unra-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "veling metal redox cycles, deciphering metal nutrient",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pathways and cycles, and developing isotope biosigna-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tures that can indicate the role of biological activity in",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ancient and modern planetary systems.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "10.1 Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The transition metals form a geochemically and isoto-",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "pically complex and interesting group of elements",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "clustered in the center of the periodic table. The term",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "transition metal, according to the International Union",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "of Pure and Applied Chemistry (IUPAC), refers to an",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "element whose atom has an incomplete d sub-shell or",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "which can give rise to cations with an incomplete d",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "M. Baskaran (ed.), Handbook of Environmental Isotope Geochemistry, Advances in Isotope Geochemistry,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and atmosphere that are the venue of environmental",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "research. Familiarity with the material in this section",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "will help readers who are not well versed in stable",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "isotope geochemistry to better appreciate the speciﬁc",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "applications discussed in the later part of the chapter.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "10.1.1 Chromium (Cr)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Chromium is an important trace element, particularly",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "in ultramaﬁc and maﬁc rock minerals, and is a major",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "element in several minerals such as chromite (FeCr2O4)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "of the spinel group, uvarovite (Ca3Cr2(SiO4)3 of",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the garnet group, and crocoite (PbCrO4). Chromium",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "has numerous industrial applications, including use in",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "electroplating, in leather tanning, as pigment in paint,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and as an anticorrosion agent. Chromium is stable",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "at the Earth’s surface in two oxidation states: Cr6+",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Cr(VI)), commonly referred to as hexavalent Cr,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and Cr3+ (Cr(III)), commonly referred to as trivalent",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Cr. Cr(VI) is a strong oxidant, and occurs mainly as",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "the toxic, water-soluble oxyanions chromate (CrO4",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and bichromate (HCr2O7",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "insoluble in water.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Chromium has four stable isotopes: 50Cr (4.35%),",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "52Cr (83.79%), 53Cr (9.50%) and 54Cr (2.37%); note",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "that for Cr and other elements discussed below that",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "relative percentages of the isotopes are the values",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "recommended by IUPAC to represent average terres-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "trial abundances. Igneous rocks have a very restricted",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "range of 53Cr/52Cr which on average is about 0.12‰",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(parts per thousand) less than that of NIST (National",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Institute of Standards and Technology) 979 Cr metal",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Schoenberg et al. 2008). Presently the measured",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "range of 53Cr/52Cr in natural materials is ~6‰, essen-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "tially reﬂecting the range measured for naturally occu-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "rring Cr(VI) in groundwater (Izbicki et al. 2008). Both",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "inorganic and microbially mediated reduction of Cr",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(VI) to Cr(III) have been shown to result in isotope",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "fractionation, with breakage of the strong Cr-O bond",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "in chromate and bichromate appearing to be the rate",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "limiting step (Ellis et al. 2002; Sikora et al. 2008).",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "During reduction of Cr(VI), the product Cr(III) formed",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "at any step of the process is 3–4‰ lighter than co-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "existing remnant Cr(VI). The fact that the oxidized",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "species, Cr(VI), is heavier than the reduced species,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Cr(III), is consistent with observations for other redox-",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "sensitive elements such as selenium (Johnson et al.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "10.1.2 Iron (Fe)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "water and Fe(III) staining of plumbing ﬁxtures can be",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "a nuisance.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Like Cr, Fe has four stable isotopes: 54Fe (5.58%),",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "56Fe (91.95%), 57Fe (2.18%) and 58Fe (0.30%). Igne-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ous rocks have a very restricted range of 56Fe/54Fe.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Presently the measured range of 56Fe/54Fe in natural",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "materials is ~5‰, with pyrites from Precambrian",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "black shales spanning this range (\u00023.6 to +1.2‰ rela-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "tive to igneous rocks; Severmann and Anbar 2009).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Both inorganic and microbially-mediated oxidation of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Fe(II) to Fe(III) and microbial reduction of Fe(III) to",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Fe(II) have been shown to result in stable isotope",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "fractionation (Bullen et al. 2001; Balci et al. 2006;",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Beard et al. 1999). Perhaps most important in this",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "regard is the experimentally and theoretically well-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "established isotope exchange equilibrium between Fe",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(II)- and Fe(III)-hexaquo complexes of ~3‰ (Johnson",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2002; Anbar et al. 2005), in which the oxidized",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "species, Fe(III), is heavier than the reduced species,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Fe(II), as is the case for Cr. In addition, an important",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "role for sorption of Fe onto mineral surfaces has been",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "recognized, with heavy Fe species observed to popu-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "late the sorption sites after equilibrium is attained",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(Beard et al. 2010).",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "10.1.3 Nickel (Ni)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Nickel is used in many industrial and consumer",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "products, including stainless steel and other metal",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "alloys, coins, rechargeable batteries, and electroplat-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ing. Nickel is an important trace element in ultramaﬁc",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "and maﬁc rocks. Nickel is stable at the Earth’s surface",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "in three oxidation states: primarily as Ni2+ (Ni(II)),",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "but also as Ni1+ (Ni(I)) and Ni3+ (Ni(III)). Nickel is",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "an important enzyme cofactor, for example in urease,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "which assists in the hydrolysis of urea.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Nickel has ﬁve stable isotopes: 58Ni (68.1%), 60Ni",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "(26.2%), 61Ni (1.1%), 62Ni (3.6%) and 64Ni (0.9%).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "In a recent study of Ni stable isotope variations related",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "to methanogenesis, Cameron et al. (2009) found that",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "methanogens cultured in the laboratory preferentially",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "assimilated light Ni from the media, leaving the resi-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "due enriched in heavy Ni isotopes. Fractionation of",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "as much as 1.6‰ for 60Ni/58Ni was observed. In",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "contrast, little variability was observed among mete-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "orites, basalts and continental sediments, suggesting",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "10.1.4 Copper (Cu)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "particulates and a heavy dissolved fraction dominated",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "by Cu bound to strong organic complexes, providing",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "a mechanism to deliver heavy dissolved Cu to the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "oceans. Dissolved Cu in open ocean water samples",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "was even heavier than that in the river waters, suggest-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ing a continuation of the fractionation between dis-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "solved and particulate Cu fractions particularly in the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "surface ocean.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "10.1.5 Zinc (Zn)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The post-transition metal Zn is used in electroplating,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "metal alloys, pigment in paint, agricultural fertilizers",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and pesticides, galvanized rooﬁng material, and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "television-screen phosphors. Zinc is stable at the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Earth’s surface in one oxidation state, Zn2+ (Zn(II)).",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The large pool of Zn0 metal produced industrially is",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "manufactured speciﬁcally for purposes that take",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "advantage of its high oxidation potential relative to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "other metals (e.g. as an anti-fouling and anti-corrosive",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "agent on the submerged portion of ship hulls and",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "propeller shafts). Zinc is an important enzyme",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "cofactor, for example in alcohol dehydrogenase in",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humans, and is generally thought to be non-toxic.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Zinc has ﬁve stable isotopes: 64Zn (48.63%), 66Zn",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(27.90%),",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "67Zn (4.10%),",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(0.62%). In natural materials, the measured range of",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "66Zn/64Zn is approximately 2‰ (Cloquet et al. 2008).",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Mare´chal et al. (1999) published the ﬁrst high-quality",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "measurements of zinc and copper isotope composi-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "tions in a variety of minerals and biological materials.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Since this pioneering work the ﬁeld of Zn isotope",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "biogeochemistry has rapidly expanded into a variety",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "of environmental applications. For example, Zn has a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "relatively low boiling point (~910\u0003C) compared with",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "that of Cr or Cu, within the operating temperature",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "range of ore smelters. Thus Zn can evaporate from",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ore during smelting, which would favor escape of light",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Zn isotopes in the exhaust as demonstrated by",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Mattielli et al. (2009), and retention of heavy Zn iso-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "topes in the slag residue as shown by Sivry et al.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(2009). Kavner et al. (2008) demonstrated that elec-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "troplated Zn, reduced to metallic state from a large",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "pool of aqueous Zn(II), is isotopically light compared",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "to the parent solution, potentially resulting in a large",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "pool of isotopically light electroplated Zn in the envi-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ronment. In addition, Weiss et al. (2007) demonstrated",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "10.1.6 Molybdenum (Mo)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "10.1.7 Cadmium (Cd)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The post-transition metal Cd is used primarily in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Ni-Cd batteries, metal alloys, electroplating, pigment",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "in paint, and electronic components. Cadmium is stable",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "at the Earth’s surface primarily in the Cd2+ (Cd(II))",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "oxidation state. Cadmium has a strong geological",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "afﬁnity to Zn, but unlike Zn can be toxic to humans",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "due to its effective substitution for calcium in bone and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "its tendency to concentrate in the kidneys and liver",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "where it may become carcinogenic.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Cadmium has eight stable isotopes: 106Cd (1.25%),",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "108Cd (0.89%),",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "112Cd (24.13%),",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "116Cd (7.49%). In terrestrial materials, the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "measured range of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.5‰; considering anthropogenically inﬂuenced mate-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "rials extends that range to ~1.5‰ (Ripperger and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Rehk€amper 2007; Schmitt et al. 2009a, b; Shiel et al.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2010). Cadmium has an even lower boiling point",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(~760\u0003C) than Zn, and like Zn, Cd in ores likely",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "evaporates during smelting favoring escape of light",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Cd isotopes in the exhaust, as recently demonstrated",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "by Cloquet et al. (2006a). Cadmium behaves like Zn",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "during electroplating (Kavner et al. 2008), potentially",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "resulting in a large pool of isotopically light Cd in the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "environment. Although Cd is discussed in this chapter",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "mainly in a multi-tracer context, Rehk€amper et al.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(2011) provide a thorough discussion of the applica-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "tion of Cd isotopes in environmental studies.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "10.1.8 Mercury (Hg)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The post-transition metal Hg is used in thermometers",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and other scientiﬁc apparatus, amalgam for dental",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "restoration, Hg vapor lamps, cosmetics, and liquid",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "mirror telescopes. Historically, Hg has been widely",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "used in gold mining operations. Mercury is stable at",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the Earth’s surface as soluble Hg2+ (Hg(II)) and as Hg+",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "(Hg(I)) in the form of monomethylmercury (CH3Hg+).",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "In addition, and unlike the other transition and post-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "transition metals, Hg has a stable gaseous form (Hg0)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "at environmental temperatures with a residence time in",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "the atmosphere of approximately 1 year (Schroeder",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and Munthe 1998). Mercury and its compounds (e.g.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "monomethylmercury (MeHg), mercuric chloride) are",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "10.1.9 Other Transition Metals",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "nature, but which have yet to be rigorously explored in",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "terms of isotope systematics. Examples of these ele-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ments that would be especially useful in environmen-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "tal studies are titanium (Ti), vanadium (V), silver",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "(Ag), tungsten (W) and rhenium (Re). For example,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "as pointed out by Severman and Anbar (2009), Re",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "(185Re (37.4%), 187Re (62.6%); common oxidation",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "states Re2+, Re4+, Re6+, Re7+) is removed from solu-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "tion into sediments only under anoxic or suboxic con-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ditions, making it a suitable tracer for moderately",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "reducing conditions. In contrast, V (50V (0.25%), 51V",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "(99.75%); common oxidation states V2+, V3+, V4+, V5+)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "is scavenged from solution by manganese oxides and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Fe-oxyhydroxides, making it a suitable tracer for oxic",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "conditions. Both potential redox-tracing applications",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "assume that sedimentation promotes isotope fraction-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ation between sediment and residual aqueous pools of",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Re or V, but such fractionation has yet to be demon-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "strated.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Silver, in addition to its historic value as a precious",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "metal, is widely used in dentistry, photographic mate-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "rials, mirrors and optics, control rods in nuclear reac-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "tors, clothing (as an anti-fungal agent) and in certain",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "medicines. Silver has the highest electrical conductiv-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ity of any element and the highest thermal conductiv-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ity of any metal and thus is widely used in electrical",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "contacts and conductors. Silver is stable at the Earth’s",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "surface primarily in three oxidation states: Ag0 or",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "native silver, and Ag1+ and Ag2+, the common forms",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "sediment reference materials differed signiﬁcantly",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "from values for igneous rocks, hinting at the possi-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "bility that low-temperature redox and/or sorption",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "processes may fractionate the W isotopes.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The potential for Ti to have signiﬁcant variability",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "of stable isotope composition in natural materials at",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the Earth’s surface is probably less than that for W, V",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "and Re. This is due to the fact that the geochemistry of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Ti is dominated by the Ti4+ oxidation state, and Ti is",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "not known to play a large role in biological processes",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "such as enzyme stabilization. Regardless, titanium has",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "ﬁve stable isotopes spanning a large mass range:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "46Ti (8.0%), 47Ti (7.3%), 48Ti (73.8%), 49Ti (5.5%)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "and 50Ti (5.4%). If our experience with exploration of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "stable isotope variability of other elements dominated",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "by a single oxidation state may serve as a guide, it is",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "not unrealistic that a thorough reconnaissance study of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Ti or other unexplored transition metal stable isotope",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "systematics in environmental materials (e.g. nano-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "particles, pigments, electroplated steel) would reveal",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "unexpected surprises.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "10.2 Methodology",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Although the transition and post-transition metals rep-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "resent a geochemically diverse group of elements,",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the details of the analytical procedures required for",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "measurement of their isotope compositions are quite",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "uniform. Once a laboratory establishes a protocol for",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "analysis of one of these metals, it can be relatively",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "straightforward to add more of the remaining metals to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "the repertoire. On the other hand, transition and post-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "transition metals are everywhere, in ﬁeld and labora-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "tory equipment, and care must be taken to maintain",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "strict cleanliness during sample collection, processing",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "and measurement.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "10.2.1 Sampling Protocols",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "As a general rule, the sampling protocol for transition",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "or post-transition metal isotope analysis of water is",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "identical to that for standard dissolved cation analysis.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The sample is collected using plastic tubing for pumps",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "or plastic containers for dipping and placed into plastic",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "containers that have been rinsed several times with the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Collection of solid samples such as soils, plant",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "tissues and landﬁll materials requires common sense",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "more than anything. Solid samples should be collected",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "into plastic bags, and care should be taken to ensure",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "that sampling equipment (e.g. shovels, augers, stem-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "wood borers) do not contain the metal of interest.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Particular care should be taken to avoid sampling",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "equipment with painted surfaces as the paint is",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "likely to have transition or post-transition metals as",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "pigments.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.2.2 Sample Preparation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Prior to mass spectrometry, the metal of interest must",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "be isolated from the rest of the sample matrix and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "particularly from elements that would produce iso-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "baric interferences on the target masses for analysis.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "For example, in preparing a sample for Cr isotope",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "analysis, all Ti, V and Fe must be removed, as each",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "of these metals has an isotope at the same mass as a",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Cr isotope. Similarly, some elements form double-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "charged ions in the mass spectrometer that are",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "detected at ½ of their mass due to the direct depen-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "dence of ion ﬂight path through the magnetic sector of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the mass spectrometer on mass:charge ratio of the ion.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "For example, Ba2+ ions can be formed in both multi-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "collector inductively coupled plasma mass spectro-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "metry (MC-ICP-MS) and thermal ionization mass",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "spectrometry (TIMS), the two common methods for",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "analysis of metal stable isotope composition. 132Ba2+",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "would be detected at mass 66, 134Ba2+ would be",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "detected at mass 67, and 136Ba2+ would be detected",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "at mass 68, all directly overlapping the Zn isotopes of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the same masses. Thus, a goal of the chemistry is to",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "produce as pure a target metal fraction as possible,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "preferably if not assuredly with quantitative recovery.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Most chemical procedures for puriﬁcation of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the transition and post-transition metals involve some",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "form of ion exchange chromatography, making use of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "different afﬁnities of the metals for the ion exchange",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "resins in different strengths of acid media. For exam-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "ple, Wombacher et al. (2003) developed a method to",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "purify Cd from geological materials and meteorites.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The digested sample is dissolved in 3 M HCl and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "loaded directly onto an exchange column containing",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "AG1-X8 strong acid anion exchange resin. The col-",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "umn is rinsed with set volumes of 0.5, 1, 2 and ﬁnally",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10.2.3 Instrumentation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "function (Bullen and Eisenhauer 2009). All instru-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ments consist of three main components: ion source,",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ion optics (ion acceleration, ion beam focusing,",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "isotope mass separation) and ion collection. Ions are",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "produced by thermal processes in the source region: in",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "MC-ICP-MS, the sample is injected into the source",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "region either as a nebulized liquid aerosol or as ablated",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "solid particulate in a gaseous stream which passes",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "through a high-temperature plasma (up to 10,000\u0003K;",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "see photo insert in Fig. 10.2) at near-atmospheric",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "pressure. At this high temperature, atoms of the sam-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ple material are very efﬁciently ionized. In TIMS, the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "sample is deposited on a wire ﬁlament (see photo insert",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "in Fig. 10.2), placed in a high vacuum (~10-8 torr), and",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the ﬁlament is heated to the temperature required for",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ion production of the particular element (typically",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "800–1,700\u0003C). The ions produced in either instrument",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "then enter the optics region, where they are accelerated",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "through a large potential (up to 10 kV) and focused",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "electronically to create a discrete ion beam. In MC-",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ICP-MS, the vacuum must be substantially improved",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "over this short optics region via efﬁcient mechanical",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "and electrical “ion getter” vacuum pumps. Beyond the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "ion optics region, an exceptional vacuum (~10-8 torr)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "must be maintained in both instruments.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "for detection and measurement. In TIMS, ions of a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "particular isotope produced at the source ﬁlament are",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "essentially mono-energetic, and once the ion beam is",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "focused in the source region mass (i.e. energy) disper-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "sion can be effectively achieved in the magnetic sec-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "tor. In contrast, in MC-ICP-MS ions of a particular",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "isotope leave the source region having a fairly wide",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "energy distribution due to numerous processes occur-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "ring in the source region. Thus in most MC-ICP-MS",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "instruments, the poly-energetic ion beam must ﬁrst",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "pass",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "through",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "shown) which disperses the ion beam in exactly the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "opposite sense to that which follows in the magnetic",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "sector. As a result of exacting electromechanical",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "design, the ion beam that ultimately passes out of the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "magnetic sector has a balanced and much smaller",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "energy spread that allows the ﬂat-topped signal to",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "develop. In a few MC-ICP-MS instruments, the ion",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "beam ﬁrst passes through a “collision cell” containing",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "molecules of a gas such as Ar where collisions of the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "metal ions with the gas molecules substantially reduce",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the kinetic energies of those ions, which can then",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "be reaccelerated in a nearly mono-energetic condition",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "for passage through the magnetic ﬁeld as in TIMS.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Ion detection collectors are conﬁgured to perfectly",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "intersect the resulting ﬂight paths of the component",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "isotope ion beams of the element. In some instruments,",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "collectors can be moved perpendicularly to the ion",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "paths until desired coincidence is achieved for a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "particular element. In other instruments, the collector",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "positions are ﬁxed and the trajectories of the ion beams",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "themselves are adjusted along the ﬁnal section of the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "ﬂight tube by further electronic focusing in order to",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "achieve coincidence. Collectors are either Faraday",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "cages, credit-card sized, thin rectangular boxes open",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "on one narrow end to receive and trap ions on the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "internal surfaces resulting in a measurable total ion",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "current on the internal surfaces, or ion counters that",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "record individual ion collisions with the counter sur-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "faces. Faraday cages may have slits positioned along",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the ion ﬂight path prior to the point of ion entry into",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the cage in order to better shape the ion beam for",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "optimum signal detection. Channel-speciﬁc total ion",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "currents detected over a certain period of time are then",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "processed through a series of electronic conversions",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "into signals that can be interpreted by computer soft-",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "ware as relative isotope abundances for the element.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Each instrument has its advantages in certain",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "applications, but as a general rule the stable isotope",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "simultaneous",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "(Fantle and Bullen 2009). Typical external precision",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "(i.e. comparison of total procedural replicates for nat-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ural samples) is at the 0.1‰ level for both TIMS and",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "MC–ICP–MS. A disadvantage of both instruments is a",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "sizable footprint in the laboratory and high costs for",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "purchase and maintenance.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "10.2.4 Data: Acquisition, Reduction,",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Accuracy, and Standard",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Reference Materials",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Isotope fractionation of the ion beam produced in both",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "TIMS and MC-ICP-MS, which is an unavoidable char-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "acteristic of both analytical platforms, means that the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "relative proportion of isotopes of an element reaching",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "the detectors in the mass spectrometer is not identical",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "to that of the sample. This instrument-induced frac-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "tionation, or “mass bias”, is often larger than the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "isotopic variation between samples. In MC-IPC-MS,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "light ions of any element are preferentially discrimi-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "nated against and removed from the ion stream at",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "the sampling cones situated just beyond the plasma",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "source, resulting in relatively heavy raw measured",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ratios that tend to stay very constant over the course",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "of a measurement. In TIMS, light ions of any element",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "are preferentially ionized off the ﬁlament surface,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "causing the raw measured ratio to be light at the outset",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "and progressively heavier over the course of a mea-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "surement. Thus it is essential to provide some means to",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "correct for isotope discrimination so that measured",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "isotope compositions of samples can be compared to",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "those of standards and other samples.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "The classic approach to correct for isotope discrim-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ination in TIMS is referred to as the double spike",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "technique. An excellent treatment of the theoretical",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "aspects of the double spike technique is given by",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Johnson and Beard (1999), and a practical overview",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "of the technique is provided by Rudge et al. (2009).",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "This technique requires that the element have at least",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "four naturally-occurring isotopes, two that can be used",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "as isotopes for the double spike and two that can be",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "used to calculate a ratio that provides information",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "on the relative natural isotope composition of a sam-",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "ple. The double spike is a mixture of two typically",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "minor isotopes of the element that have each been",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "isotope composition and similar fractionation behav-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "ior to the element being analyzed is added to the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "sample solution prior to aspiration into the plasma",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "(e.g. Zr as an internal standard for Mo isotope analysis,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Cu as an internal standard for Fe or Zn isotope analy-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "sis). The isotope ratio measured for the internal stan-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "dard can be compared to its known value to quantify",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "machine-induced fractionation and a correction can",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "then be applied to the isotope ratio of the target ele-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "ment on a scan by scan basis. Using internal standar-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "dization, a plot of the measured isotope ratios of the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "target element vs. those of the internal standard ele-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "ment typically deﬁnes a mass dependent fractionation",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "relationship that provides the basis for the correction",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "(Longerich et al. (1987); Mare´chal et al. (1999).",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "The power of the standard-sample-standard brack-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "eting and internal standardization techniques is that",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "they can be used for isotopic analysis of any element",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "having two or more isotopes. On the other hand, the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "double spike technique required for TIMS stable iso-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "tope analysis can likewise be used for MC-ICP-MS",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "isotope analysis of elements having four or more iso-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "topes, and is in essence a special case of internal",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "standardization. The advantage of using a double",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "spike for MC-ICP-MS analysis is that quantitative",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "yield during sample puriﬁcation is not required as it",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "is for standard-sample-standard bracketing and inter-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "nal standardization approaches (Siebert et al. 2001).",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Differences in transition and post-transition metal",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "stable isotope composition between materials tend",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "to be small, a few parts per thousand at most, so",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "that differences in absolute isotope ratio are difﬁcult",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "to conceptualize. For example, say that the 53Cr/52Cr",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "ratio determined by TIMS for a native groundwater",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "sample is 0.114000, while the value for the Cr isotope",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "standard is 0.113392. To better visualize this small",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "difference, most researchers in the ﬁeld have adopted",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "the delta notation used for gas isotope ratio compari-",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "son so that ratios can be compared on a per mil (‰)",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "basis. Using the Cr example:",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "d53=52Cr¼1000\u0005ð53Cr=52Crgroundwater",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "\u000253Cr=52CrstandardÞ=53Cr=ð52CrstandardÞ",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "¼1000\u0005 0:114000\u00020:113392",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "¼þ5:36:",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "d values are preceded by a plus or minus sign to",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "denote ratios that are, respectively, heavier or lighter",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "choice); Cd, JMC lot 502552A and NIST 3108;",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Ag, NIST 978a. Note that there are currently no inter-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "nationally accepted or proposed SRM for Ti, V, W or",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Re isotope analysis.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "IRMM and NIST typically supply an SRM for",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "metal stable isotope analysis in the form of a puriﬁed",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "metal or salt, both of which are easy to dissolve and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "use routinely. However, some researchers choose",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "to use natural samples as standards, provided those",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "samples meet the criteria listed above. The advan-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "tage of using a natural material as an SRM is that it",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "must follow the same chemical puriﬁcation steps as",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "samples, thus assuring integrity of the chemical pro-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "cedures. For some metals, there are both natural and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "synthetic SRM. For Fe stable isotope research, for",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "example, there are two widely available SRM: speciﬁc",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "basalts and other igneous rocks, which have been",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "shown to have uniform isotope composition (Beard",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2003), and IRMM-014, a synthetic iron standard.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "The isotope composition of IRMM-014 is now gener-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "ally considered to be the zero point for the delta scale;",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "on this basis, igneous rocks have on average a d56/54Fe",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "value of þ0.09‰. Unfortunately, Fe lacks SRM",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "having isotope compositions at the light and heavy",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "extremes of the natural spectrum.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "10.3 Metal Stable Isotope Fractionation",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Processes",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Isotope fractionation is a set of processes which can",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "divide an isotopically homogeneous pool of an ele-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "ment into multiple fractions that have different com-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "plementary isotope compositions. For a given element,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "observed fractionation may be either mass dependent,",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "scaling approximately as the mass difference between",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "isotope pairs, or mass independent, where one isotope",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "behaves non-systematically with respect to the others.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "By far, most of the stable isotope variability of the",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "transition and post-transition metals observed to date",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "has resulted from mass dependent processes.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "There are two main categories of isotope frac-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "tionation processes that affect the transition and",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "post-transition metals, kinetic isotope effects and equi-",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "librium isotope exchange. Kinetic isotope effects",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "result from uni-directional physical and chemical",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "reactions, during which the light isotope is always",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "but which may fractionate during complexation with",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "redox-sensitive species such as sulfur (Schauble 2003)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "or with organic matter (Weiss et al. 2007) can likewise",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "be indicative of redox conditions.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Sorption of metals onto the surfaces of minerals in",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "sediments and soils is an environmentally important",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "process that can help to moderate aqueous concentra-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tions of those metals and aid in metal contaminant",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "remediation. Isotope fractionation associated with",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "sorption has been recognized for several of the transi-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tion and post-transition metals, but is highly element",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "speciﬁc. For example, sorption of isotopically light",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Mo onto ferromanganese oxides in the oxic oceans is",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "viewed as having been an important isotope fraction-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "ation process for Mo over much of Earth history",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "(Wasylenki et al. 2008). In contrast, sorbed Fe(II)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "on goethite was found to be isotopically heavy com-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "pared to [Fe(II)(H2O)6](aq)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "conducted equilibrium isotope exchange experiments",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "reported by Beard et al. (2010). In the case of Cr,",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "only a negligible isotope fractionation was observed",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "between sorbed and aqueous CrO4",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "when either g-Al2O3 or goethite was used as the sorp-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tion substrate (Ellis et al. 2004).",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Coordination environment of the metals in liquids",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "and solids is an additional important determinant of",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "stable isotope fractionation. In general, for a given",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "system chemistry, higher coordination favors the ligh-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "ter isotopes. Using the system Fe-O as an example, Fe",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "in hematite (Fe2O3) is in octahedral coordination while",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Fe in magnetite (Fe3O4) is in both octahedral and",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tetrahedral coordination within their respective oxy-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "gen framework. The result is a higher average coordi-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "nation number for Fe in hematite than for Fe in",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "magnetite. As expected, when the two phases coexist",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "at or near equilibrium, Fe in hematite is isotopically",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "lighter than Fe in magnetite by approximately 3‰, as",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "has been reported for coexisting magnetite-hematite",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "pairs in banded iron formations (Johnson et al. 2003).",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "The difference in metal ion coordination environment",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "in coexisting solid-liquid pairs is likewise an impor-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tant determinant of stable isotope fractionation. For",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "example, theoretical calculations of equilibrium iso-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tope fractionation predict that aqueous Fe(II), which is",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "in octahedral coordination within a “hexaquo” inner",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "hydration sphere ([Fe(II)(H2O)6](aq)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "heavier than Fe(II) in coexisting siderite (FeCO3), in",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "which the Fe(II) is in more open octahedral coordina-",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "tion with oxygen of the carbonate groups (Polyakov",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "10.4 Applications of Metal Isotopes",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "10.4.1 Tracing Metal Contaminant",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "experiments, and Cr stable isotopes have been used to",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "study the fate of toxic Cr contamination at numerous",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ﬁeld sites. Of the potential metal contaminants in the",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "atmosphere, the most progress has been made in",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "understanding Hg sources and sinks as discussed by",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Blum (2011), but Zn, Cd and Cr are likewise receiving",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "considerable attention and are discussed here.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "10.4.1.1 Tracing Sources of Chromium",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "in Groundwater",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "As described above in the overview of Cr, reduction of",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Cr(VI) to Cr(III) is accompanied by a large isotope",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "fractionation. Thus, Cr stable isotopes should be use-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "ful for monitoring Cr(VI) reduction in a contaminant",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "plume, for distinguishing between Cr(VI) reduction",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "and advective mixing with Cr-free groundwater (two",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "mechanisms that can decrease Cr(VI) concentrations",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "in the contaminant plume), and potentially for distin-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "guishing between industrial and natural sources of Cr",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "(VI). Sources of Cr used for industrial purposes are",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "likely to be Cr ore deposits and minerals, which con-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "sistently have d53/52Cr values close to 0‰ relative to",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "NIST 979 (Ellis et al. 2002; Schoenberg et al. 2008).",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "In contrast, naturally occurring Cr in groundwater dis-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "plays a range of values (d53/52Cr: +1.0 to +5.8‰; Ellis",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2002; Izbicki et al. 2008). These values likely",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "reﬂect fractionation during oxidation of Cr(III) on",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "manganese oxides and fractionation during subsequent",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "reduction of Cr(VI) along groundwater ﬂowpaths fol-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "lowing mobilization of the highly soluble Cr(VI) from",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "mineral surface sorption sites. Thus under favorable",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "conditions the natural and industrial Cr pools at a con-",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "taminated site may have different d53/52Cr values.",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "In order to test the usefulness of Cr stable isotopes",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "for Cr contamination source assessment and process",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "identiﬁcation at a well-studied contaminated site, a",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "pilot study (CH2MHill 2007) was carried out at the",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Paciﬁc Gas & Electric (PG&E) Compressor Facility",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "in Hinkley, California, made famous in the movie",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "“Erin Brockovich.” From 1952 to 1966, waste water",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "containing Cr(VI) used as an anti-corrosive in the",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "cooling towers leaked into the underlying sandy",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "aquifer, creating a plume of Cr(VI)-contaminated",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "groundwater that by 2000 had migrated nearly",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "2 miles downgradient from the facility. Groundwater",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "samples from immediately adjacent to the facility,",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "from within the plume, and of regional groundwater",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "within the plume body itself. Note that extremely",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "careful, discrete depth sampling at the plume front",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "and margins would be necessary to conﬁrm the exis-",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "tence and determine the exact shape of the “FM”",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "region hypothesized in Fig. 10.3, but such an effort",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "would be useful for supporting the validity of this",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "proposed scenario.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "In their detailed time-series study of a point-source",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Cr contamination plume emanating from a Cr plating",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "facility in Berkeley, California, Berna et al. (2010)",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "observed a similar trend for plume groundwater",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "samples in d53/52Cr-Cr concentration space, such that",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "the plume samples had intermediate compositions",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "between vectors describing Cr(VI) reduction and",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "advective mixing with Cr-free groundwater. Although",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Cr(VI) ppb",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Cr source",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Cr plume",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "regional groundwater",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Cr source-regional groundwater mixing",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Immobilized Cr(III)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 10.3 d53/52Cr and Cr(VI) concentration data for ground-",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "of the river and, during both high and low ﬂow peri-",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "ods, in the center of the city of Paris. This sampling",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "strategy allowed these workers to test for a Zn isotope",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "signal of industrial and urban activity, since most",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "industry is concentrated in and downstream of Paris.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Chen et al. (2009) observed an overall negative",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "correlation between d66/64Zn of SPM and the Zn",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "enrichment factor (EF), which describes the enrich-",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "ment of Zn in a sample relative to the natural back-",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "ground and is deﬁned as:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "EF ¼ ðZn=AlÞsample=ðZn=AlÞbackground",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "where (Zn/Al)background was estimated using average",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "concentrations of Zn and Al in uncontaminated forest",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "sediments and pre-historical deposits as assessed by",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Thevenot et al. (2007). Speciﬁcally, as shown in",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Fig. 10.4a, SPM samples with lesser d66/64Zn and",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "greater Zn EF were those collected within Paris during",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "the low ﬂow periods and from downstream of Paris.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Chen et al. (2009) identiﬁed two potential anthro-",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "pogenic contaminant sources, Zn in roof runoff from",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "buildings in Paris and waste water treatment plant",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "efﬂuent, each having low d66/64Zn and high Zn EF",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "that could explain the low ﬂow Zn isotope signal.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "In contrast, background Zn from upstream sources",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "was determined to have elevated d66/64Zn and low",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Zn EF based on analyses of bedrock from the region",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "(the composition for bedrock granite from the region is",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "shown in Fig. 10.4a) and the compositions of SPM",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "from upstream of Paris.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Chen et al. (2009) observed additional complexity",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "when they considered d66/64Zn of SPM and d66/64Zn",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "of dissolved Zn together (Fig. 10.4b). Seine Basin",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "transect and Paris low ﬂow samples deﬁned a linear",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "array that could be explained by mixing between",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "natural and anthropogenic end-members. The natural",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "end-member (Znnat) was inferred to have d66/64Zn of",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "SPM similar to that of bedrock granite (+0.33‰) and",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "d66/64Zn of dissolved Zn similar to that of Cretaceous",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "chalk from the region (+0.90‰), highlighting the fact",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "that Zn in SPM and the dissolved phase can come from",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "different sources. Some Paris high ﬂow samples",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "required an additional component, again having",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "d66/64Zn of SPM similar to that of bedrock granite,",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "but having d66/64Zn of dissolved Zn reﬂecting a mix-",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "10.4.1.3 Tracing Sources of Metals in Dust Using",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "a Multi-Tracer Approach",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Inhalation of dust particles is potentially a primary",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "delivery mechanism of toxic metals to humans. More-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "over, incorporation of deposited dust in soil can allow",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "the metals to become available to plants, providing an",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "additional source of metal loading to crops. There are",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "many possible sources of transition and post-transition",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "metals that could supply the metal content of dust. The",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "major contributors are likely to include metal reﬁning",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "and smelting, coal combustion ﬂy ash and residues,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "petroleum burning and particularly vehicle emissions,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "municipal waste incineration, scrap metal deterioration,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "and wood burning. Early approaches for identifying",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "dust sources relied on tracers such as concentration",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "ratios of metals and surrogates such as strontium iso-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "topes that might be able to tie the dust back to speciﬁc",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "geologic or regional sources. While there have been",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "numerous examples of success with this approach,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "environmental isotope scientists have been exploring",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "whether the stable isotope composition of the transition",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "and post-transition metals might be more directly use-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "ful for ﬁngerprinting the sources of the metals in dust.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Of the potential sources for these metals listed",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "above, metal reﬁning and smelting have received the",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "most attention, mainly for Zn and Cd, pointing to",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "the unique physical characteristics of these two post-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "transition metals. As noted above in the overview on",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "these elements, their boiling points are sufﬁciently low",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "that they can both be evaporated in the smelter fur-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "nace, resulting in a kinetic isotope fractionation that",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "partitions light metal into the vapor that escapes the",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "factory stack. For Zn, light compositions in reﬁnery",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "stack emissions have been documented by Mattielli",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "et al. (2009), while heavy compositions in residual",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "slag compositions have been documented by Sivry",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "et al. (2009). For Cd, the same sense of isotope frac-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "tionation was observed for smelter exhaust and slag by",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Cloquet et al. (2006a). Mercury similarly has a low",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "boiling point within the range of smelter and waste",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "incinerator furnace temperatures, and partitioning",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "of light Hg into stack emissions has been proposed",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "(Estrade et al. 2010). Thus the association of light Zn,",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "Cd, and Hg, along with unfractionated compositions",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "relative to the ore sources for other metals having far",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "greater boiling points (such as Cr and Cu) could impli-",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "cate a metal reﬁning smelter exhaust stack source for",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "those metals in dust samples.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The obvious need to understand the potential inﬂuence",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "of deteriorating electroplated metal stockpiles on the",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "isotope composition of atmospheric dust, perhaps",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "mostly to monitor the global transport of potentially",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "toxic metals, makes this an important avenue for",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "future research.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "10.4.2 Metal Redox Cycles",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "The common association of changes in redox status of",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "the transition and post-transition metals with isotope",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "processes responsible for the broad range of d57/54Fe",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "values observed in this lake.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Isotopes can likewise be used to assess paleoredox",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "conditions in water bodies, for example by looking at",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "variations of the redox-sensitive Mo isotope composi-",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "tion of sediments. In oxic settings, Mo isotopes are",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "fractionated during adsorption of Mo to ferroman-",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "ganese oxides, with light isotopes preferentially",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "associated with the solids. Experimental work under",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "oxidizing conditions has shown that d97/95Mo of aque-",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "ous Mo in seawater is 2.7‰ greater than that of",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "adsorbed Mo on sediment (Barling et al. 2001;",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Barling and Anbar 2004; Wasylenki et al. 2008). As",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "waters progress from oxic to suboxic to anoxic to",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "euxinic (i.e. sulﬁdic) conditions, MoO4",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "to MoS4",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "2- which readily adsorbs to particles allowing",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "aqueous Mo to be more effectively removed to the",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "sediment (Poulson et al. 2006; Neubert et al. 2008).",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "The net result is that the isotopic contrast between",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "aqueous and sorbed Mo is greatest at slightly reducing",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "conditions and low sedimentation rates, but decreases",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "with increasingly reducing and sulﬁdic conditions due",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "to increasingly more quantitative removal of Mo from",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "solution.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "This concept was used by Siebert et al. (2006) to",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "account for differences in the average Mo isotope",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "composition of sediment proﬁles from continental mar-",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "gin settings. These workers recognized a co-variation",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "between the Mo isotope composition of the sediments",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "and the rate of both authigenic Mo accumulation and",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "organic carbon oxidation and burial under reducing",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "conditions. Malinovsky et al. (2007) tried the same",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "approach to understand paleoredox cycles in lakes",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "from northern Sweden and northwestern Russia, where",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "variations of Mo isotope composition in the sediments",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "could be attributed to both redox status of the water",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "column and isotopically variable input of Mo into the",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "lakes due to Mo isotopic heterogeneity of bedrock in",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "the drainage basins. This latter study points to the need",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "for rigorous source term characterization, particularly",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "as study site size decreases from global to local scale.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "An area of applied research where transition and",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "post-transition metal stable isotopes are increasingly",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "being used is to understand sedimentary and low tem-",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "perature hydrothermal metal redox cycling, where",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "both inorganic and biological redox processes can",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "cause isotope fractionation. For example, Asael et al.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "(2007) used Cu stable isotopes to understand Cu redox",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "cycling and mass transfer functions during sequential",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "10.4.3 Plant Nutrition and Processes",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "fractionation. During the past several years, for the",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "metals discussed here stable isotope fractionation in",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "higher plants has been demonstrated for Fe and Zn",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "(Weiss et al. 2005; Guelke and von Blanckenburg",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "2007; Viers et al. 2007; Moynier et al. 2008; Kiczka",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2010). This is an intriguing pair of metals to",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "consider, as the isotope fractionations observed in",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "plants are largely controlled by redox status for Fe,",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "and by complexation chemistry for Zn.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Plants have developed two different strategies",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "for transporting Fe from soils into roots. Roots of",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "dicotyledons and nongraminaceous monocotyledons",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "(“strategy I plants”, e.g. pea, bean) release protons",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "into the rhizosphere, promoting dissolution of Fe(III)",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "precipitates, and activating membrane-bound enzymes",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "that reduce chelate-bound Fe(III). The reduced Fe is",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "then transported across the root plasma membrane by",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "unspeciﬁc metal transporters (Briat et al. 2007). Partial",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "reduction of an Fe(III)-solid produces aqueous Fe(II)",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "with an 56Fe/54Fe ratio that is approximately 1–1.5‰",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "less than that in the remaining Fe(III)-solid (Johnson",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2004). As a consequence, the Fe(II) that crosses",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "the root plasma membrane, and thus the pool of Fe in",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "a strategy I plant, is lighter than the soil Fe pool.",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "In contrast, roots of graminaceous plant species",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "(“strategy II plants”, e.g. maize, wheat) can release",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "phytosiderophores into the rhizosphere, which form",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "complexes with Fe(III) (Romheld and Marschner",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "1986; Kraemer et al. 2006). These Fe(III)-complexes",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "are then transported across the root plasma membrane",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "by a specialized class of transport proteins, but due to",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 10.6 d56/54Fe values for a variety of plant tissues. Values",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "those at their ﬁeld site (Marschner 1995), and suggest-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "ing that strategy I and II plants mobilize and transport",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Fe similarly under such conditions (Charlson and",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Shoemaker 2006).",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "In the case of Zn, dissolution of Fe(III) solids in the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "soil by protons released from plant roots results in",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "release of Zn that is adsorbed on the Fe(III) solids.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Subsequent uptake of Zn by roots depends only on the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "induction of speciﬁc Zn transporters, which belong to",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "the same protein family as the Fe transporters (Kramer",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "et al. 2007). Likewise, the release of phytosidero-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "phores beneﬁts the acquisition of Zn (Suzuki et al.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "2006). Apparently the transport of Fe and Zn to plant",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "roots is closely linked. Zn isotope variability within",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "plants appears to be fairly straightforward and similar",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "for strategy I and strategy II plants, based on several",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "laboratory and ﬁeld based studies (Weiss et al. 2005;",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Viers et al. 2007; Moynier et al. 2008). Roots tend",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "have the heaviest Zn, probably reﬂecting the preferen-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "tial adsorption of heavy Zn onto the root and plaque",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "surfaces. However it should be noted that the possibil-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "ity of Zn isotope contrast between the root cortex and",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "stele of plants has yet to be explored, as has been done",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "for Fe isotopes (Kiczka et al. 2010). Shoots have",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "similar to lesser d66/64Zn values than bulk roots, and",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "leaves invariably contain the lightest Zn in the plants.",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "These observations are consistent with light Zn iso-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "topes being transported preferentially during nutrient",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "exchange along the cell walls of the xylem although it",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "is unclear at this stage whether this is a kinetic or an",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "equilibrium process (von Blanckenburg et al. 2009).",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "There clearly remains much to be done to under-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "stand the causes of transition and post-transition metal",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "stable isotope fractionation in plants, and certainly the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "remaining metals deserve at least a thorough recon-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "naissance for a variety of plant species and ﬁeld",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "situations. To date, much of the work has aimed at",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "explaining observed variations of isotope composition",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "in terms of known plant processes. With greater under-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "standing, future work will gradually shift toward using",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "the isotopes to identify as yet unknown or uncon-",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "strained processes in plants.",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "10.4.4 Biosignatures",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "One of the most enduring hopes and goals of metal",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "stable isotope biogeochemistry is to be able to use the",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "isotopes as biosignatures, by developing either single",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Earth history. If we are going to be able to use Fe",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "isotopes to detect a record of DIR in other environ-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "ments (e.g. in the search for life on Mars and other",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "planetary bodies), we must be able to assess the size of",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "those pools in those environments as well. Conﬁdence",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "in the approach will increase as more terrestrial ﬁeld",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "sites are studied. A promising example from modern",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Earth comes from the work of Severmann et al.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "(2008), who used Fe isotopes to support their conten-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "tion that DIR coupled to Fe(II) oxidation in oxic shelf",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "sediments can account for the large amount of isotopi-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "cally light Fe produced on the shelf and shuttled to the",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "euxinic basin of the Black Sea.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Biosignatures based on the other transition and post-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "transition metal isotope systems have yet to be explored",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "as deeply as that based on Fe, but there are promising",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "signs for success. For example, Borrok et al. (2008)",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "documented a diel cycle for dissolved Zn concentra-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "tions and d66/64Zn values in Prickly Pear Creek, which",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "drains a former mining district in the Boulder Batholith,",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Montana, USA. They found that dissolved Zn concen-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "trations and d66/64Zn values were inversely correlated,",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "with Zn at low concentrations in the daytime having",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "elevated d66/64Zn due to sequestration of light Zn in bed",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "sediments. Biological uptake of light Zn was invoked to",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "explain this relationship, since adsorption of Zn onto",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "amorphous Fe(III) oxides prevalent in bed sediments",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "preferentially concentrates heavy Zn onto sorption sites",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "(Balistrieri et al. 2008). As discussed above, Cameron",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "et al. (2009) demonstrated that methanogenic bacteria",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "cultured in the laboratory preferentially assimilate and",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "retain isotopically light Ni, while a wide range of geo-",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "logic materials have uniform Ni isotope composition.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Nickel isotopes are thus likely to become an important",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "biosignature of methanogenesis. And, as pointed out by",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "von Blanckenburg et al. (2009), plant tissues recycled",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "into soil generally have different metal stable isotope",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "composition than the growth medium, thus the upper soil",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "may retain a time-integrated metal isotope ﬁngerprint",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "of plant activity. New biosignatures are likely to emerge",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "as well understood biological systems are studied.",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "10.5 Future Directions",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "As pointed out by Severmann and Anbar (2009), the",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "ﬁeld of metal stable isotope biogeochemistry emerged",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "primarily as an analytical pursuit driven by advances",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "in mass spectrometry applied to interesting geological",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Reviews of Mineralogy and Geochemistry, vol 55. Mineral-",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "environment and the use of zinc isotopes in biogeosciences:",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "selenium: results from the northern reach of San Francisco",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Neubert N, N€agler TF, Bo¨ttcher ME (2008) Sulﬁdity controls",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Weiss DJ, Rausch N, Mason TFD, Coles BJ, Wilkinson JJ,",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "zero and secondary references. J Anal At Spectrom 25:",
+      "page": 27
+    }
+  ]
+}

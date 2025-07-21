@@ -1,0 +1,1160 @@
+{
+  "title": "Guidance Note: Humanitarian Data Ethics",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GUIDANCE NOTE SERIES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITARIAN DATA ETHICS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "KEY TAKEAWAYS:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Ethics is the study of what is morally right and wrong, or a set of beliefs about what is morally",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "right and wrong. Ethics helps provide the foundation for norms, can be used to interpret",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "established norms and can be applied directly as guidance in situations for which norms, laws",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and regulations do not provide direction.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Humanitarian ethics has developed as a principle-based ethics, grounded in the principles of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "humanity, impartiality, neutrality and independence that guide the provision of humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "assistance and protection. Existing frameworks for humanitarian ethics must be expanded to",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "enable staff and organizations to navigate the challenges and opportunities of the digital age.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Data ethics is the branch of ethics that studies and evaluates moral problems and offers",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "normative guidance related to data, algorithms, and corresponding practices. Common ethical",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "issues in data management include issues of fairness, validity, bias, ossification, transparency",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "and explainability, anonymity, privacy, and ownership of data and insights.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t In addition, a range of other ethical issues may arise in data-related projects in the humanitarian",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "sector, including: potential harmfulness of humanitarian action, difficulties in association,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "complicity and moral entrapment, duties of care towards humanitarian staff and the 'cost-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "effectiveness conundrum’.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "•\t Humanitarian organizations can improve ethical deliberation and decision-making in data-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "management by: (i) establishing clear codes of conduct for ethical data management; (ii)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "supporting staff to identify, understand and debate ethical issues using common tools; and (iii)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "introducing ‘ethical audits’ as part of standard practice.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Data responsibility is the safe, ethical and effective management of data.1 This note focuses on the ethical",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "aspects of humanitarian data management, ranging from standard exercises such as field-level data",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "collection and processing to more advanced applications of data science, such as predictive analytics.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "This note aims to support humanitarian practitioners in identifying, assessing and addressing ethical",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "concerns that arise in data-related projects. It begins with an overview of humanitarian ethics and data",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "ethics, with a focus on the values that drive ethical decision-making in the two fields. It then introduces",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "some of the common ethical concerns and challenges that humanitarians may face in data management.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Finally, it provides recommendations for humanitarian organizations seeking to improve ethical",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "deliberation regarding the use and impact of data in their operations.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Ethics is defined as the study of what is morally right and wrong, or a set of beliefs about what is morally",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "right and wrong.2 The role of ethics in guiding practice is essential in the context of a profession such as",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "humanitarian action, where individuals from a diverse range of backgrounds and value systems come",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "together in pursuit of a common goal: helping and protecting people affected by war and disasters.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Common ethical concerns in data management5",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Validity: is the data and/or model representative of what you want to measure?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Bias and Fairness: is there a systematic skewing of the data collected and/or is there any prejudice",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "or favoritism in the data or model? (e.g. has there been an over- or underestimation of what is",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "being measured or are some members of the population more or less represented than others?)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Ossification: is the model (or underlying data) codifying the current state of the world and thereby",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "making it harder to change? (e.g. are we building models that perpetuate or encore past mistakes)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Transparency and Explainability: is there clear documentation of the data management process",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and visibility on how the model or algorithm(s) function? (e.g. can someone not directly involved",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "in the process explain what is happening?)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Privacy and Anonymity: is the data or its use revealing the identity of an individual or group of",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "people?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Ownership of Data and Insights: are the rights to the data and related insights clearly defined?",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "(e.g. is it clear how decisions are made regarding how and by whom the data can be used, how",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "problems in or related to the data are rectified and other related issues?)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2   Cambridge Dictionary, available here: https://dictionary.cambridge.org/dictionary/english/ethics.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Ethics has a particularly important role to play in the domain of data management, as the technical tools",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "for managing data have evolved faster than the instruments that govern their use. As philosopher Luciano",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Floridi argues, “ethics in general and digital ethics in particular cannot be a mere add-on (…) once digital",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "innovation has taken place, and possibly bad solutions have been implemented, less good alternatives",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "have been chosen, or mistakes have been made.”4 In a given sector, professionals must identify, assess and",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "develop strategies to mitigate the common ethical concerns that may arise in data management. As these",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "issues become clear, what is ‘good’ or ‘right’ from an ethical perspective should then inform emerging",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "policy and legal instruments that ultimately govern data management in the sector.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "HUMANITARIAN ETHICS",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "As Hugo Slim explains in Humanitarian Ethics: A Guide to the Morality of Aid in War and Disasters,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "“Humanitarian ethics has developed as a principle-based ethics … grounded in the principles of humanity,",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "impartiality, neutrality and independence that have been developed to guide the provision of humanitarian",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "assistance and protection.”6 In Slim’s framing, principles specifically serve three main purposes in applied",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "ethics: to affirm moral norms, to act as constant operational guides to ethical decision-making and to",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "generate specific rules.7",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Humanitarian Principles",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "These principles and related rules are enshrined in various codes of conduct now widely recognized as the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "basis for ethical humanitarian practice, such as the Humanitarian Charter and Minimum Standards in",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Response, including the Sphere Core Standards and the Protection Principles9, the Core",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Standard10 and the Red Cross/NGO Code of Conduct.11 Though these frameworks serve as",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "useful guides to ethical decision making, they cannot simply be applied in practice across the complex",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "range of settings where humanitarians deliver assistance. Rather, as Slim notes, “they are typically",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "interpreted from within a situation. Humanitarian ethics is, therefore, about struggling to interpret ethical",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "limits and balancing various principles.”12",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "The interpretation of these principles becomes both more complex and more essential in areas of",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "humanitarian action where clear standards and sector-wide guidance are lacking. Humanitarian data",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "management is one such domain.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6   Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 40.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "DATA ETHICS",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Data ethics has emerged in recent years as a distinct area of ethical enquiry and research. In a 2017",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "whitepaper, the Open Data Institute (ODI) points to the growing importance of data ethics in public",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "discourse. “Increasingly,” ODI observes, “those collecting, sharing and working with data are exploring",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "the ethics of their practices and, in some cases, being forced to confront those ethics in the face of public",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "criticism.”13",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "According to Luciano Floridi and Mariarosario Taddeo, “[d]ata ethics can be defined as a branch of ethics",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "that studies and evaluates moral problems related to data (including generation, recording, curation,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "processing, dissemination, sharing and use), algorithms (including artificial intelligence, artificial",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "agents, machine learning and robots) and corresponding practices (including responsible innovation,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "programming, hacking and professional codes).”14 In practice, public sector institutions typically approach",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "data ethics as “a branch of ethics that evaluates data practices with the potential to adversely impact on",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "people and society — in data collection, sharing and use.”15",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "As data has become increasingly central to how public and private institutions operate, questions of data",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ethics have grown more common in debates about the impact of data and technology on society. This",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "is seen most prominently in the global discourse around ethical Artificial Intelligence (AI). A landscape",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "analysis of global AI ethics frameworks published in September 2019 identifies a “convergence emerging",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "around five ethical principles (transparency, justice and fairness, non-maleficence, responsibility and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "privacy), with substantive divergence in relation to how these principles are interpreted, why they are",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "deemed important, what issue, domain or actors they pertain to and how they should be implemented.”16",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "The presence of high-level principles alone, however, does not guarantee effective ethical deliberation and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "decision-making.17",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian ethics forms a stronger foundation for debating issues around the ethical management of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "data for humanitarian purposes than the various stand-alone frameworks for different areas of applied data",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ethics. Existing frameworks for humanitarian ethics must be expanded to enable humanitarian staff and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "organizations to navigate the new complexities that data management presents.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "13  Open Data Institute, 2017. Helping organizations navigate ethical concerns in their data practices.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ETHICAL CONSIDERATIONS FOR HUMANITARIAN DATA MANAGEMENT",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarians face difficult choices in delivering assistance and providing protection to populations",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "in crisis. While these different types of dilemmas pertain to humanitarian action as a whole, many of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "them are particularly prominent or exacerbated in data-related projects. The table below presents some",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "common types of ethical dilemmas and offers examples of how they might manifest in humanitarian",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "data management. When assessing the ethical dimensions of a data-related project, humanitarians",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "must consider the dilemmas outlined below as well as the common concerns in data ethics (described",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "in more detail in the call-out box above), including: fairness, validity, bias, ossification, transparency and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "explainability, anonymity, privacy, and ownership of data and insights.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Difficulties in association",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Past work with partner",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Potential harmfulness or",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "maleficence of humanitarian",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "action",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Direct or indirect harm caused",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Complicity and moral",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "entrapment",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Organizations actually cooperate",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Duties of care towards",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "humanitarian staff",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Organizations must balance their",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Cost-effectiveness conundrum",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Organizations struggle to balance",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1. ESTABLISH CLEAR CODES OF CONDUCT FOR ETHICAL DATA MANAGEMENT",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Despite the presence of sector-wide principles and codes of conduct, humanitarians lack clear guidance",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "on their specific ethical obligations vis-a-vis data management. Organizations need to clarify and build",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "collective understanding around how the humanitarian principles and different institutional values apply",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "to data-related work.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "To date, most organizations have focused on establishing policies on specific issues such as data",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "protection and data privacy, while the broader set of ethical considerations remains ill defined and",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "insufficiently addressed. Two notable exceptions to this that can serve as inspiration for organizations",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "in defining their own ethical codes of conduct for data management are the UNDG Guidance Note on",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "\"Data Privacy, Data Protection and Ethics: Big Data for the achievement of the 2030 Agenda,\"20 and the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Signal Program on Human Security and Technology’s Signal Code: Ethical Obligations for Humanitarian",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Information Activities.21",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t The UNDG Guidance Note offers an approach to big data based not only on privacy, but also on ethical",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "and moral obligations concerning data use in development and humanitarian contexts. It offers a set",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "of principles that organizations are encouraged to further adapt in the form of operational guidelines",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "that account for the implementation of their respective mandates as well as their existing regulations,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "rules and policies concerning data privacy, data protection, data ethics and data security.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "•\t The Signal Code translates and applies the foundational sources of ethical humanitarian practice to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "so-called humanitarian information activities (HIAs), including data collection, storage and analysis.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "It articulates nine obligations designed to help organizations understand risks and mitigate harms",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "related to the data life-cycle as they engage in HIAs.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "19 International Association of Professionals in Humanitarian Assistance and Protection (PHAP), Code of Ethics.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "RECOMMENDATIONS FOR IMPROVING ETHICAL DELIBERATION AND",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "DECISION-MAKING IN HUMANITARIAN DATA MANAGEMENT",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "When faced with different dilemmas that may arise in data-related projects, humanitarians must interpret",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "ethical limits and balance the various principles that inform good practice in order to determine the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "appropriate course of action. As acknowledged in the International Association of Professionals in",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Assistance and Protection (PHAP) Code of Ethics and Professional Conduct, “Questions",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "related to ethical dilemmas are best answered by thoughtful consideration of fundamental principles,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "rather than reliance on detailed regulations.”19",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "The Centre for Humanitarian Data (the Centre) recommends that organizations invest in three areas to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "improve ethical deliberation and decision-making in humanitarian data management:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "1.\tEstablish clear codes of conduct for ethical data management.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.\tSupport staff to identify, understand and debate ethical issues using common tools.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.\tIntroduce ‘ethical audits’ as part of standard practice.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2. SUPPORT STAFF TO IDENTIFY, UNDERSTAND AND DEBATE ETHICAL ISSUES USING",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "COMMON TOOLS",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Most humanitarian organizations do not have staff responsible for ensuring that interventions are",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "designed and delivered in an ethical way. Staff within humanitarian organizations are expected to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "understand and abide by the humanitarian principles and related codes of conduct in going about their",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "respective duties, often without any formal training or guidance on the topic. Simple measures like the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "introduction of an ethics checklist and supporting the use of ethical design tools can empower staff to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "more confidently identify, understand and debate ethical issues that may arise in their work.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarians can use the following set of questions when considering the ethical dimensions of a",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "particular intervention:22",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are we respecting fundamental humanitarian principles and the Code of Conduct?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are we likely to increase actions that are in accordance with or in breach of International",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Humanitarian Law, refugee law and disaster law?23",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are we likely to increase or decrease the ability of humanitarian actors to meet Sphere Standards?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are we likely to improve or worsen our target population’s dignity and conditions?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are we likely to increase or decrease our ability to abide by the principles of good humanitarian",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "management?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Are the affected likely to understand and respect our decision?",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "These questions can easily be extended to humanitarian data projects and serve as a strong basis for",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "collective deliberation of the ethical issues that may arise therein.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Organizations can also consider ethical design tools that are more tailored to data-related projects. One",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "example is the “Data Ethics Canvas” from the Open Data Institute. As the ODI explains, “[t]he Data Ethics",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Canvas is a tool to help anyone who collects, shares or uses data to identify and manage ethical issues",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "at all stages in a project. It is designed as a flexible framework to develop ethical guidance that suits any",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "context.”24 As such, it can serve as a helpful starting point for humanitarian organizations seeking to more",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "systematically manage ethical issues in data-related work.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "22 Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 143-144.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "3. INTRODUCE ‘ETHICAL AUDITS’ AS PART OF STANDARD PRACTICE",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "To complement more robust ethical deliberation within project teams and organizations as a whole,",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "consider introducing quality control mechanisms that help ‘enforce’ the process of ethical design and",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "decision-making against a common set of criteria. One way to do this is by introducing ‘ethical audits’ as",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "part of standard data management practices. Such audits are particularly helpful in more exploratory areas",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "of data science, for which norms and professional standards are still emerging and for which the different",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ethical challenges remain less well understood.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "As explained in a 2017 guidance note by the International Association of Privacy Professionals and UN",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Global Pulse, “[v]arious existing frameworks can supplement organizations’ decision-making processes",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "to address the newly emerging field of data ethics. These frameworks offer different perspectives and",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "governance options to organizations with weighty data ethics questions or large-scale processing",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "of sensitive data.”25 Ethical auditing can be achieved through internal bodies, external bodies or a",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "combination of the two.26",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Regardless of the approach for introducing ethical audits, the process should entail the following",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "elements:27",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Identifying stakeholders affected by the data management exercise in question.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Facilitating a discussion among people who can represent the different stakeholder groups and",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "comment on their concerns, positive and negative, on the exercise in question (e.g. how the algorithm",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "in a predictive model works, how their data is processed in a large scale survey exercise, etc.).",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Prioritizing concerns based on stakeholder inputs.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "•\t Developing guidance and other measures to address and remedy concerns identified.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "The Centre has established a Peer Review Framework for Predictive Analytics in Humanitarian Response. The",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "The ethical review involves identifying all stakeholders and concerns related to how the model could be used.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Organizations are encouraged to share their experience in navigating ethical dilemmas in data management",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "with the Centre via centrehumdata@un.org.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "This project is co-funded",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "TECHNOLOGY, AND SOCIETY (TILT); INTERNATIONAL ORGANIZATION FOR MIGRATION (IOM) DATA SCIENCE AND",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "ETHICS GROUP (DSEG).",
+      "page": 8
+    }
+  ]
+}

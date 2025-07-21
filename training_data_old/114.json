@@ -1,0 +1,485 @@
+{
+  "title": "Microsoft Word - Document-Level-Adjustment-Business-Rules 11.2.2015",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Level Adjustment Business Rules",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Last updated 8/25/2016",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "General Information",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "To correct incorrectly recorded costs, adjustments should be made at the document or detail level to provide",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "an adequate audit trail.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Document Level Adjustments (DLA’s) should be used to correct fully disbursed obligations and no match",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "transactions.  Please note the DLA process transfers costs, not resources. The process transfers dollar",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "amounts as paid costs. For partially disbursed obligations, modifications should be processed through the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "normal obligation channels (Contracts/ Grants through AGO and Legacy/ Interagency Agreements through",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the Finance Office). Amounts in undelivered orders cannot be transferred using the DLA process. Bankcard",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "reconciliation errors can also be adjusted using DLAs.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Required Approvals",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ALL DLA’S regardless of the amount must be reviewed and approved with signatures by the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Originator’s Supervisor or equivalent before being submitted to AOD for posting.  [See CBS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Document Level Adjustment Approval Form]",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DLA’S regardless of the amount between two different fund codes and or program codes, or any",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "document level adjustment of $500K or more MUST be reviewed and approved with signatures by the LO/SO",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Budget Execution Lead AND the LO Chief Financial Officer (CFO) or Staff Office Director, AND the NOAA or",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "BIS Budget Execution Office (BEX) before being submitted to AOD for posting. [See CBS Document Level",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Adjustment Approval Form]",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Transfers between Organizations and/or Financial Management Centers (FMCs): Any DLA that is",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "transferring costs between organizations and/or FMCs requires the signed approval of the affected",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "organization.  The originator of the DLA must obtain the signed approval form from the affected",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "organization which contains a statement that they concur with the DLA action and it is appropriate for",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "approval. [See CBS Document Level Adjustment Approval Form]",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Business Rules for Document Level Adjustments",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The following NOAA Business Rules apply when processing DLAs using the CBS Payment Management",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "PM006- Advice of Correction Transaction Screen. See the Document Level Adjustment Standard Operating",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Procedures for internal finance office adjustments.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FROM and TO Fund Code Fiscal Year must Match.  Both the ‘FROM’ and ‘TO’ sides of a transaction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "must cite the same Fund Code Fiscal Year (FCFY).  Costs from one FCFY may not be transferred into another",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "FCFY. For example, costs recorded against FCFY 2011 may not be transferred into FCFY 2012. The only",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "exceptions are:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "FCFY Exception 1: No Match Overruns- FCFY can only move forward from a prior FCFY to the",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "current FCFY. [Exception must be noted in business rules violation justification]",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "FCFY Exception 2: Interest Penalties- For object class 43-01, FCFY can only move forward from a",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "prior FCFY to the current FCFY. [This exception should be exercised if no other recourse is",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "available. Exception must be noted in business rules violation justification]",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Document Level Adjustment Business Rules",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Last updated 8/25/2016",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The ‘FROM’ and ‘TO’ Dollar Amounts must Match.  The DLA dollar amounts must be equal on",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "the ‘FROM’ and ‘TO’ sides of the DLA.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Object Class Codes 31.1x and 32.xx :  DLA’s that contain object class codes 31.1x will not be processed",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "without approval from the Office of the Chief Administrative Officer (OCAO) Project Planning and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Management Division (PPMB). DLA’s that contain the object class code 32.xx will not be processed",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "without approval from the OCAO Real Property Management Division (RPMD).",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Prior Year Adjustments: Only changes to the object class will be made.  Any other changes will be made",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "on a case by case basis, a request for a business rule exception along with the justification for the exception",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "must be noted in the reason for adjustment section of the DLA approval form.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Over/Under Object Class Codes are Not Allowed.  DLA’s will not be processed for any of the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "over/under distribution object class codes 77-87-89-99, 77-88-79-99, 77-88-89-99, 77-89-89-99,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "77-11- 89-99, or 77-12-89-99.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Leave/Benefit Surcharge Object Class Codes are Not Allowed.  DLA’s are not allowed for any of the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "following surcharge object classes: 11-60-00-00 or 12-10-00-00. Using these object classes would cause",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "a duplication of surcharges.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Overhead Surcharge Object Class Codes are Not Allowed.  DLA’s will NOT be processed for any of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "the following surcharge object classes:  77-87-00-00, 77-88-00-00, 77-88-19-00, 77-89-00-00,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "77-11-00-00, 77-12-25-17, or 77-12-25-35. Contact NOAA or BIS BEX for guidance on making",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "adjustments to these object classes.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Accounting Data must be Valid.  The system requires that each DLA transaction include active",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "accounting data. This includes the Fund Code, Fiscal Year, Program Code, Project Code, Task Code,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Organization Code, and Object Class Code.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ALL DLA’S must have a clear crosswalk between the ‘From’ and ‘To’ side of the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "transaction. Only one of the following combinations will be accepted:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "One ‘From’ Line Item to One ‘To’ Line Item",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "One ‘From’ Line Item to Multiple ‘To’ Line Items:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Transaction amounts must match the amount recorded in CBS. If partial amounts are being adjusted,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "the ‘To’ lines will reflect the amounts that change and the amounts that are not changing.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The following document types will NOT be processed:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "GJ",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ST",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Grants",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Labor Charges",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Document Level Adjustment Business Rules",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Last updated 8/25/2016",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "DLA Submission Package Guidance",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "All DLA requests MUST be submitted to your servicing finance office; either DLASubmissions@noaa.gov",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Eastern Operations Branch) or WOBDLASubmissions@noaa.gov (Western Operations Branch). Please",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "note the date in the subject line. The email MUST include the following supporting documentation:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "If any of the required supporting documentation is not included the entire DLA batch will be",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "disapproved and returned.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Signed CBS Document Level Adjustment Approval Form",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "A clear and concise reason for the DLA (on the DLA Approval Form) which references the supporting",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "documentation provided.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Document Level Adjustment Request Form",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Adequate supporting documentation consisting of budget reports and/or any other",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "documentation (i.e., invoices, contracts, etc.) that provides sufficient justification for the DLA.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This documentation should be available for audit by internal and external auditors when",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "necessary.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Documentation Retention Requirements",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The Office Originating the DLA and AOD Must Retain the Following Documentation:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Signed CBS Document Level Adjustment Approval Form",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Document Level Adjustment Request Form",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Adequate supporting documentation consisting of budget reports and/or any other documentation (i.e.,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "invoices, contracts, etc.) that provides sufficient justification for the DLA. This documentation should be",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "available for audit by internal and external auditors when necessary.",
+      "page": 3
+    }
+  ]
+}

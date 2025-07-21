@@ -1,0 +1,3665 @@
+{
+  "title": "STND_LS_Final_V2.0_Modified_for_conditions_NTC",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Revised Final",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Regional Forest Stewardship Standard",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "for the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Lake States-Central Hardwoods Region (USA)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Version LS V2.0",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "November 23, 2004",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Lake States Working Group",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Forest Stewardship Council – US",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Approved by FSC-US Board, February 7, 2002",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Accredited by FSC International August 5, 2002",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Modified 10/4/04 for FSC-IC condition report ABU-REP-34-2003-09-16-US-LS.doc",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Modified 11/16/04 for FSC-IC condition report ABU-REP-34-2004-11-03-US-LS.pdf",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Facilitation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Coordination",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Table of Contents",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Page#",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Introduction -----------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Background -----------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Definition of Terms --------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 1  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 2  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 3  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 4  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 5  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 6  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 7  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 8  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 9  --------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Principle 10  ------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Glossary  ----------------------------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Appendix A (References)  -------------------------------------------------------",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Appendix B, map and description of Lake States Region",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The Lake States-Central Hardwoods Regional Certification Standards were developed by the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "While each set of draft regional standards demonstrated good critical thinking, technical",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For The Lake States Central Hardwood region, indicators 4.4.e, 5.6.a, 6.2.a, and criterion 6.4",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "This draft of the Lake States Central Hardwoods Standards contains revisions that incorporate",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Concepts and requirements expressed in the FSC Principles and Criteria are included in the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The National Indicators, approved by the FSC-U.S. Board as baseline standards for the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "on Federally managed public lands because of their particular public mandates. To date, neither the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The working group will remain constituted for future revisions. The standards will be revised as",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Harmonization with Canada",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "A harmonization protocol between FSC US and FSC Canada was sent to the FSC ABU on",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Background",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Lake States Working Group of the FSC-U.S. Working Group was formed on November",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Lake States Working Group Membership:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Warren Baird",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Mike Neta",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Advisors:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Facilitator:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Coordination:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The Lake States-Central Hardwoods Region",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Characterization of the Region can only be made in broad terms. To provide at least some",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The Northwoods sub-region can be immediately divided into northern and southern sections.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The northern subsection is further characterized by an extensive cover of continuous forest with",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The forest of the southern section is characterized by a predominance of oaks (primarily",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Central Hardwoods sub-region can be divided into the glaciated area of northern Iowa,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "This sub-region has a great diversity of forest species that occur on sites ranging from dry to",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Species composition varies with site conditions. In the north, the relatively flat topography",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Coniferous species are of minor importance in this sub-region. Eastern red cedar and Virginia",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "For information on the certification of federal lands and the applicability of these standards in that context see",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Following are definitions of terms adopted for the purposes of these standards.  Definitions of",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Notes:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Forest Management Plan:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Forest Owner or Manager:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Indicator:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Regional Standards:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Verifiers:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Example of draft regional indicator and accompanying verifier:",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Revised Final",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Regional Forest Stewardship Standard",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "for the",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Lake States-Central Hardwoods Region (USA)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note to Regional Standard regarding certification of federal lands.  The process for",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #1: COMPLIANCE WITH LAWS AND FSC PRINCIPLES",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Forest management shall respect all applicable laws of the country in which they occur, and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "international treaties and agreements to which the country is a signatory, and comply with all",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "FSC Principles and Criteria.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.1.  Forest management shall respect all national and local laws and administrative",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "requirements.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1.a.  Forest management plans and operations comply with applicable Federal, state, county, tribal,",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1.b.  Forest management plans and operations comply with state Best Management Practices (BMPs)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "(see Appendix for references) and other government forest management guidelines applicable to the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.1.c.  Forest management plans and operations meet or exceed all applicable laws and administrative",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.2.  All applicable and legally prescribed fees, royalties, taxes and other charges shall be paid.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.2.a.  Taxes on forest land and timber, as well as other fees related to forest management, are paid in",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "1.3.  In signatory countries, the provisions of all binding international agreements such as",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "CITES, ILO Conventions, ITTA, and Convention on Biological Diversity, shall be respected.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.3.a.  Forest management operations comply with all binding treaties or other agreements to which the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.4.  Conflicts between laws, regulations and the FSC Principles and Criteria shall be evaluated",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "for the purposes of certification, on a case by case basis, by the certifiers and by the involved or",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "affected parties.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.4.a.  Where conflicts between laws and FSC Principles and Criteria occur, they are referred to the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.5.  Forest management areas should be protected from illegal harvesting, settlement and other",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "unauthorized activities.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.5.a.  Forest owners or managers implement measures to prevent illegal and unauthorized activities in",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.6.  Forest managers shall demonstrate a long-term commitment to adhere to the FSC Principles",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "and Criteria.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Applicability note to Criterion 1.6.:  Assessment of this criterion is guided by both FSC Policy and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.6.a.  Forest owners or managers provide written statements of commitment to the FSC Principles and",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.6.b Forest owners or managers document the reasons for seeking partial certification.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.6.c Forest owners or managers document strategies and silvicultural treatments for several harvest",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #2: TENURE AND USE RIGHTS AND RESPONSIBILITIES",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Long-term tenure and use rights to the land and forest resources shall be clearly defined,",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "documented and legally established.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Property rights of private landowners are respected.  The forest owner or manager",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.1.  Clear evidence of long-term forest use rights to the land (e.g., land title, customary rights, or",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "lease agreements) shall be demonstrated.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.1.a.  Forest owners or managers document the legal and customary rights associated with the forest.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.1.b.  Affected land boundaries are clearly identified on the ground by the forest owner or manager",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.2.  Local communities with legal or customary tenure or use rights shall maintain control, to",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the extent necessary to protect their rights or resources, over forest operations unless they",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "delegate control with free and informed consent to other agencies.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: For the planning and management of publicly owned forests, the local community",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.2.a.  The forest owner or manager allows legal and customary rights to the extent that they are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.2.b.  On ownerships where customary use rights or traditional and cultural areas/sites exist, forest",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "2.3.  Appropriate mechanisms shall be employed to resolve disputes over tenure claims and use",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "rights.  The circumstances and status of any outstanding disputes will be explicitly considered in",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the certification evaluation.  Disputes of substantial magnitude involving a significant number of",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "interests will normally disqualify an operation from being certified.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.3.a.  The forest owner or manager maintains relations with community stakeholders to identify",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.3.b.  The forest owner or manager provides information to the certification body regarding",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #3: INDIGENOUS PEOPLES' RIGHTS",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "The legal and customary rights of indigenous peoples to own, use and manage their lands,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "territories, and resources shall be recognized and respected.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Under Principle 3, the terms \"tribes,\" \"tribal,\" or \"American Indian groups\"",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.1.  Indigenous peoples shall control forest management on their lands and territories unless",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "they delegate control with free and informed consent to other agencies.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.1.a.  On tribal lands, forest management and planning includes a process for input by tribal members",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.1.b.  Forest management on tribal lands is delegated or implemented by an authorized tribal",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.2.  Forest management shall not threaten or diminish, either directly or indirectly, the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "resources or tenure rights of indigenous peoples.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.2.a.  Forest owners or managers identify and contact American Indian groups that have customary use",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.2.b. Steps are taken during the forest management planning process and implementation to protect",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.3.  Sites of special cultural, ecological, economic or religious significance to indigenous peoples",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "shall be clearly identified in cooperation with such peoples, and recognized and protected by",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "forest managers.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.3.a.  Forest owners or managers make systematic efforts to identify areas of cultural, historical,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "For example, areas of special significance may include:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.3.b.  Forest owners and managers consult with tribal leaders (or other appropriate persons, where",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.3.c.  Confidentiality of disclosures is maintained in keeping with applicable laws and the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "3.4.  Indigenous peoples shall be compensated for the application of their traditional knowledge",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "regarding the use of forest species or management systems in forest operations.  This",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "compensation shall be formally agreed upon with their free and informed consent before forest",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "operations commence.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.4.a.  Forest owners or managers respect the confidentiality of tribal knowledge and assist in the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.4.b.  A written agreement is reached with individual American Indians and/or tribes prior to",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #4: COMMUNITY RELATIONS AND WORKERS’ RIGHTS",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Forest management operations shall maintain or enhance the long-term social and economic",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "well-being of forest workers and local communities.",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "4.1.  The communities within, or adjacent to, the forest management area should be given",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "opportunities for employment, training, and other services.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.a.  Opportunities for employment, contracting, procurement, processing, and training are as good",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.b.  Forest work is packaged and offered in ways that create quality work opportunities for",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "For example, quality work can include, the following attributes:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.c.  Forest owners or managers contribute to public education about forestry practices.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.d.  Forest owners or managers participate and invest in the local economy and civic activities.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.e.  Employee compensation and hiring practices meet or exceed the prevailing local norms for work",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.1.f.  Forest owners or managers assure that contractors, subcontractors, intermediaries, and persons",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "4.2.  Forest management should meet or exceed all applicable laws and/or regulations covering",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "health and safety of employees and their families.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4.2.a.  The forest owner or manager and their contractors develop and implement safety programs and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "4.3The rights of workers to organize and voluntarily negotiate with their employers shall be",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "guaranteed as outlined in Conventions 87 and 98 of the International Labour Organization",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "(ILO).",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note:  This Criterion is guided by FSC guidelines on ILO Conventions",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4.3.a.  Forest workers are free to associate with other workers for the purpose of advocating for their",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4.3.b.  Forest owners or managers and their contractors develop effective and culturally sensitive",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Examples of culturally sensitive mechanisms are:",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "4.4.  Management planning and operations shall incorporate the results of evaluations of social",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "impact.  Consultations shall be maintained with people and groups directly affected by",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "management operations.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: People and groups directly affected by management operations may include:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.4.a.  On lands with multiple owners, a process is provided that assures the opportunity for fair and",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.4.b.  Input is sought in identifying significant sites of archeological, cultural, historical, or community",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.4.c.  Viewpoints and feedback are solicited from people and groups directly affected by forest",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.4.d.  Forest owners or managers of large and mid-sized (see Glossary) forests provide opportunities",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.4.e.  For public forests, consultation will include the following components:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Note: ‘The public’ includes people and groups directly affected by management operations and all",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note:  For the purposes of indicator 4.4.e each numbered component should be scored",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "1. Legislative and historical mandates are included in the plan, and provisions are made for their",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2. Clearly defined and accessible methods for public participation are provided in both the strategic",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note:  Strategic plans may be very general.  Tactical plans are specific and describe",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3. Public notification is sufficient to allow interested citizens of the affected jurisdiction and/or other",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4. The final planning decisions are based on legal mandate, public input, credible scientific analysis, and",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "5. An accessible and affordable appeals process to planning decisions is available.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Note: FSC certification does not preclude any individual or group from seeking legislative or judicial",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "4.5.  Appropriate mechanisms shall be employed for resolving grievances and for providing fair",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "compensation in the case of loss or damage affecting the legal or customary rights, property,",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "resources, or livelihoods of local peoples.  Measures shall be taken to avoid such loss or damage.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Provisions of Criterion 4.5. do not evoke protections or liabilities beyond those",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4.5.a.  The forest owner or manager attempts to resolve grievances and mitigate damage resulting from",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4.5.b.  Forest owners or managers and their contractors have adequate liability insurance.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #5: BENEFITS FROM THE FOREST",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Forest management operations shall encourage the efficient use of the forest’s multiple products",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "and services to ensure economic viability and a wide range of environmental and social benefits.",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "5.1.  Forest management should strive toward economic viability, while taking into account the",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "full environmental, social, and operational costs of production, and ensuring the investments",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "necessary to maintain the ecological productivity of the forest.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "5.1.a.  The forest owner or manager is willing and able to support long-term forest management (i.e.,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.1.b.  Responses (such as increases in harvests or debt load) to short-term financial factors (such as",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.1.c.  Investment and/or reinvestment in forest management are sufficient to fulfill management",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "5.2.  Forest management and marketing operations should encourage the optimal use and local",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "processing of the forest’s diversity of products.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.2.a.  Opportunities are given to local, financially competitive, value-added processing and",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.2.b.  When non-timber products are harvested, the management and use of those products is",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.2.c.  New markets are explored for products from common but underutilized forest species.",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "5.3.  Forest management should minimize waste associated with harvesting and on-site",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "processing operations and avoid damage to other forest resources.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.3.a.  Adequate quantities and a diversity of size classes of woody debris (considered a reinvestment",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.3.b.  The loss and/or waste of merchantable forest products is minimized.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "5.3.c.  Harvest practices minimize residual stand damage.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "5.4.  Forest management should strive to strengthen and diversify the local economy, avoiding",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "dependence on a single forest product.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "5.4.a.  Forest management diversifies forest uses and products, while maintaining forest composition,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "5.5.  Forest management operations shall recognize, maintain, and, where appropriate, enhance",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "the value of forest services and resources such as watersheds and fisheries.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The Working Group considers that this criterion is sufficiently explicit and measurable, so does not",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "5.6.  The rate of harvest of forest products shall not exceed levels that can be permanently",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "sustained.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "5.6.a.  The sustainability of harvest levels is based on growth and regeneration data, site index models,",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "5.6.b.  After the species composition and the age-class (see Glossary) distribution commensurate with",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "5.6.c.  If rates of harvest are temporarily accelerated to compensate for or prevent unacceptable",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #6: ENVIRONMENTAL IMPACT",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Forest management shall conserve biological diversity and its associated values, water resources,",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "soils, and unique and fragile ecosystems and landscapes, and, by so doing, maintain the",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "ecological functions and the integrity of the forest.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "6.1.  Assessments of environmental impacts shall be completed -- appropriate to the scale,",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "intensity of forest management and the uniqueness of the affected resources -- and adequately",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "integrated into management systems.  Assessments shall include landscape level considerations as",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "well as the impacts of on-site processing facilities.  Environmental impacts shall be assessed prior",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "to commencement of site-disturbing operations.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Small forest owners or managers who practice low intensity forestry may meet this",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "6.1.a.  Using credible scientific analyses and local expertise, an assessment of current conditions is",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "6.1.b.  Using available science and local expertise, the current ecological conditions are compared to",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "6.1.c.  Prior to the commencement of management activities, potential short-term environmental",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "6.1.d.  Using assessments derived from the above information, management options are developed and",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "6.2.  Safeguards shall exist which protect rare, threatened and endangered species and their",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "habitats (e.g., nesting and feeding areas).  Conservation zones and protection areas shall be",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "established, appropriate to the scale and intensity of forest management and the uniqueness of",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "the affected resources.  Inappropriate hunting, fishing, trapping, and collecting shall be",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "controlled.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "6.2.a.  Although species that are state and/or Federally listed as threatened, endangered, of special",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Note: On public forests and large private forests, the general locations of state and/or Federally listed",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "6.2.b.  If scientific data indicate the likely presence of state and/or Federally listed as threatened,",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "6.2.c.  For management planning purposes, forest owners or managers of publicly owned and large",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "6.2.d.  Where they have been identified, state and/or Federally listed as threatened, endangered, of",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "6.2.e.  If a state and/or Federally listed as threatened, endangered, of special concern, or sensitive",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "6.3.  Ecological functions and values shall be maintained intact, enhanced, or restored, including:",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "a) Forest regeneration and succession.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "b) Genetic, species, and ecosystem diversity.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "c) Natural cycles that affect the productivity of the forest ecosystem.",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "6.3.a.  Forest regeneration and succession",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Indicators 6.3.a.1. through 6.3.a.4. are intended to be applied sequentially.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6.3.a.1.  Forest owners or managers make management decisions using credible scientific information",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: This indicator may apply only marginally to managers of small and mid-sized",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6.3.a.2.  Silvicultural practices encourage regeneration that moves the forest toward a desired future",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Note: Development of a forest that is capable of natural regeneration, based on desired future",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6.3.a.3.  Measures are taken to ensure the retention of endemic and difficult-to-regenerate species.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6.3.a.4.  Across the forest, or the landscape in which it is located, management actions lead to a",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "6.3.a.5.  When even-aged management (see Glossary) is employed, live trees and native vegetation are",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "6.3.b. Genetic, species, and ecosystem diversity",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.b.1.  Forest management conserves native plant and animal communities and species.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.b.2.  The forest owner or manager cooperates with local, state, and Federal agencies to protect and",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.b.3.  There is a consistent scientific method for selecting trees to plant, harvest and retain in order",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.b.4.  Forest owners or managers maximize habitat connectivity to the extent possible at the",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "For example, habitat connectivity is enhanced by:",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "6.3.c.  Natural cycles that affect the productivity of the forest ecosystem",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.c.1.  Biological legacies of the forest community are retained at the forest and stand levels,",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.c.2.  Forest management practices maintain soil fertility and organic matter, especially in the A",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "6.3.c.3.  Forest management practices maintain or restore aquatic ecosystems, wetlands (including",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "6.3.c.4.  Responses (such as salvage) to catastrophic events (such as wildfire, blowdown, and",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "6.4.  Representative samples of existing ecosystems within the landscape shall be protected in",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "their natural state and recorded on maps, appropriate to the scale and intensity of operations",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "and the uniqueness of the affected resources.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: When forest management activities (including timber harvest) create and maintain",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "A system of ecologically viable representative samples is designated to serve one or more of three",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Forests of all sizes may be conducive to protection of fixed features, such as rock outcrops and bogs.",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "The goal of Criterion 6.4 is to achieve a system of protected representative samples of existing",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "In light of their size, location, or statutory mandates, public forests and large private forests may bear",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Representative samples may be protected solely by the conditions of the certificate and/or through the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.4.a.  Where existing protected areas within the landscape are not of a size and configuration to serve",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.4.b.  Large private and public forest owners or managers use or carry out an analysis to evaluate the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.4.c.  The process and rationale used to determine the size and extent of representative samples are",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "described in the public summary of the certificate.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.4.d.  Where areas are under-represented in which natural disturbance may occur unconstrained, large,",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "6.5.  Written guidelines shall be prepared and implemented to control erosion; minimize forest",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "damage during harvesting, road construction, and all other mechanical disturbances; and to",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "protect water resources.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Note: The Lakes States-Central Hardwoods Regional Certification Standards cover a diverse",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.5.a.  A set of forestry best management practices (BMPs), approved by the state forestry agency or",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "6.5.b.  At a minimum, implementation of BMPs and other resource protection measures will result in",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "• Logging and Site Preparation",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Logging operations and construction of roads and skid trails are conducted only during periods of",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Logging damage to regeneration and residual trees is minimized during harvest operations.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Silvicultural techniques and logging equipment vary with slope, erosion hazard rating, and/or soil",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Note: \"Extreme risk\" is a legally binding term in some states.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Plans for site preparation specify the following mitigations to minimize impacts to the forest",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "• Transportation System (including permanent and temporary haul roads, skid trails, and",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "landings)",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "The transportation system is designed, constructed, maintained, and/or reconstructed to minimize",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Access to temporary and permanent roads is controlled to minimize significant adverse impacts to",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Failed drainage structures or other areas of active erosion caused by roads and skid trails are identified,",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "• Stream and Water Quality Protection",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Stream crossings are located and constructed in a way that minimizes fragmentation of aquatic",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "• Visual and Aesthetic Considerations",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Forest owners or managers limit and/or reduce negative impacts on visual quality caused by forest",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "6.6.  Management systems shall promote the development and adoption of environmentally",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "friendly non-chemical methods of pest management and strive to avoid the use of chemical",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "pesticides.  World Health Organization Type 1A and 1B and chlorinated hydrocarbon pesticides;",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "pesticides that are persistent, toxic or whose derivatives remain biologically active and",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "accumulate in the food chain beyond their intended use; as well as any pesticides banned by",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "international agreement, shall be prohibited.  If chemicals are used, proper equipment and",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "training shall be provided to minimize health and environmental risks.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "6.6.a.  Forest owners and managers demonstrate compliance with FSC Policy paper:  “Chemical",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "6.6.b.  Forest owners or managers employ silvicultural systems, integrated pest management, and",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "For example, components of silvicultural systems, integrated pest management, and strategies to control",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "6.6.c.  Forest owners or managers develop written strategies for the control of pests as a component of",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.6.d. If chemicals are applied, the most environmentally safe and efficacious chemicals are used.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.6.e. Chemicals are used only where they pose no threat to supplies of domestic water, aquatic",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.6.f.  If chemicals are used, a written prescription is prepared that describes the risks and benefits of",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.6.g. If chemicals are used, the effects are monitored and the results are used for adaptive",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "6.7.  Chemicals, containers, liquid and solid non-organic wastes including fuel and oil shall be",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "disposed of in an environmentally appropriate manner at off-site locations.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.7.a.  In the event of a spill of hazardous material, forest owners or managers immediately contain the",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.7.b.  Waste lubricants, anti-freeze, containers, and related trash are stored in a leakproof container",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.7.c.  Broken or leaking equipment and parts are repaired or removed from the forest.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.7.d.  Equipment is parked away from riparian management zones, sinkholes, or supplies of ground",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "6.8.  Use of biological control agents shall be documented, minimized, monitored, and strictly",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "controlled in accordance with national laws and internationally accepted scientific protocols.",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Use of genetically modified organisms shall be prohibited.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Genetically improved organisms (e.g., Mendelian crossed) are not considered to be",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "6.8.a.  Exotic (i.e., non-indigenous), non-invasive predators or biological control agents are used only",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "6.9.  The use of exotic species shall be carefully controlled and actively monitored to avoid",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "adverse ecological impacts.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.9.a.  Except on plantation sites (see also Criterion 10.4), the use of exotic tree species is permitted",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.9.b.  The use of exotic species (see Glossary) is contingent on peer-reviewed scientific evidence that",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.9.c.  Written documentation is maintained for the use of exotic species.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.9.d.  Forest owners or managers develop and implement control measures for invasive exotic species.",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "6.10.  Forest conversion to plantations or non-forest land uses shall not occur, except in",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "circumstances where conversion:",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "a) Entails a very limited portion of the forest management unit; and",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "b) Does not occur on High Conservation Value Forest areas; and",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "c) Will enable clear, substantial, additional, secure, long-term conservation benefits",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "across the forest management unit.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Forest management activities that are part of an approved management plan,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.10.a.  Over the life of the ownership, forest to non-forest conversions are limited to the threshold of",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "6.10.b.  When private forestlands are sold, a portion of the proceeds of the sale is reinvested in",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #7: MANAGEMENT PLAN",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "A management plan -- appropriate to the scale and intensity of the operations -- shall be written,",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "implemented, and kept up to date.  The long-term objectives of management, and the means of",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "achieving them, shall be clearly stated.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "7.1.  The management plan and supporting documents shall provide:",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "a) Management objectives.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "b) Description of the forest resources to be managed, environmental limitations, land use",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "and ownership status, socio-economic conditions, and a profile of adjacent lands.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "c) Description of silvicultural and/or other management system, based on the ecology of",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "the forest in question and information gathered through resource inventories.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "d)  Rationale for rate of annual harvest and species selection.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "e)  Provisions for monitoring of forest growth and dynamics.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "f)  Environmental safeguards based on environmental assessments.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "g)  Plans for the identification and protection of rare, threatened and endangered species.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "h)  Maps describing the forest resource base including protected areas, planned",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "management activities and land ownership.",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "i) Description and justification of harvesting techniques and equipment to be used.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: The management plan may consist of a variety of documents not necessarily unified",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Silvicultural systems",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Conservation of historical and cultural resources",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "7.1.a.  Management objectives",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7.1.a.1.  A written management plan is prepared that includes the landowner's short-term and long-term",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7.1.a.2.  The management plan describes desired future conditions that will meet the long-term goals",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "7.1.b.  Description of forest resources to be managed, environmental limitations, land use and",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "ownership status, socioeconomic conditions, and profile of adjacent lands",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.1.  The management plan describes the timber, fish and wildlife, harvested non-timber forest",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.2.  The management plan includes descriptions of special management areas; sensitive, rare,",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.3.  The management plan includes a description of past land uses and incorporates this",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.4.  The management plan identifies the legal status of the forest and its resources (e.g., ownership,",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.5.  The management plan identifies relevant cultural and socioeconomic issues (e.g., traditional",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.b.6.  The management plan incorporates landscape-level considerations within the ownership and",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "7.1.c.  Description of silvicultural and/or other management system",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.c.1.  Silvicultural system(s) and prescriptions are based on the integration of ecological and",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.c.2.  Prescriptions are prepared prior to harvesting, site preparation, pest control, burning, and",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "7.1.d.  Rationale for the rate of annual harvest and species selection",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.d.1.  Calculations for the harvests of both timber and non-timber products are detailed or referenced",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.d.2.  Species selection meets the social and economic goals and objectives of the forest owner or",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.d.3.  The management plan addresses potentially disruptive effects of pests, storms, droughts, and",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "7.1.e.  Provisions for monitoring forest growth and dynamics (see also Principle 8)",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "7.1.e.1.  The management plan includes a description of procedures to monitor the forest.",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "7.1.f.  Environmental safeguards based on environmental assessments (see also Criterion 6.1.)",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "7.1.g.  Plans for the identification and protection of rare, threatened, and endangered species.",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "(see also Criterion 6.3.)",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "7.1.h. Maps describing the forest resource base including protected areas, planned management",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "activities, and land ownership.",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "7.1.h.1.  The management plan includes maps of such forest characteristics as: relevant landscape-level",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "7.1.i.  Description and justification of harvesting techniques and equipment to be used. (see also",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Criterion 6.5)",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "7.1.i.1.  Harvesting machinery and techniques are discussed in the management or harvest plan and are",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "7.1.i.2.  Conditions for each timber sale are established by a timber sale contract or written harvest",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "7.2.  The management plan shall be periodically revised to incorporate the results of monitoring",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "or new scientific and technical information, as well as to respond to changing environmental,",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "social and economic circumstances.",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "7.2.a.  Operational components of the management plan are reviewed and revised as necessary or at",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "7.3.  Forest workers shall receive adequate training and supervision to ensure proper",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "implementation of the management plans.",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "7.3.a.  The forest owner or manager assures that workers are qualified to implement the management",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "7.3.b.  The management plan is understandable, comprehensive, and readily available to field",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "7.4.  While respecting the confidentiality of information, forest managers shall make publicly",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "available a summary of the primary elements of the management plan, including those listed in",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Criterion 7.1.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Forest owners or managers of private forests may withhold proprietary",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "7.4.a.  A management plan summary that outlines management objectives (from sub-Criterion 7.1.a.),",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "7.4.b.  Managers of public forests make forestry-related information easily accessible (e.g., available on",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE #8: MONITORING AND ASSESSMENT",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "Monitoring shall be conducted -- appropriate to the scale and intensity of forest management --",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "to assess the condition of the forest, yields of forest products, chain of custody, management",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "activities and their social and environmental impacts.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: On small and medium-sized forests (see Glossary), an informal, qualitative",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "8.1. The frequency and intensity of monitoring should be determined by the scale and intensity of",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "forest management operations, as well as, the relative complexity and fragility of the affected",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "environment.  Monitoring procedures should be consistent and replicable over time to allow",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "comparison of results and assessment of change.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "8.1.a. The frequency of monitoring activities follows the schedule outlined in the management plan.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "8.1.b.  Monitoring is carried out to assess:",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "8.1.c.  Public and large, private land owners or managers take the lead in identifying, initiating, and",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "8.2.  Forest management should include the research and data collection needed to monitor, at a",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "minimum, the following indicators:",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "a) Yield of all forest products harvested.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "b) Growth rates, regeneration and condition of the forest.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "c) Composition and observed changes in the flora and fauna.",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "d) Environmental and social impacts of harvesting and other operations",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "e) Cost, productivity, and efficiency of forest management",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "8.2.a.  Yield of all forest products harvested",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "8.2.a.1.  The forest owner or manager maintains records of standing inventories of timber and harvest",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "8.2.b.  Growth rates, regeneration, and condition of the forest",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "8.2.b.1.  An inventory system is established and records are maintained for:",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "8.2.c.  Composition and observed changes in the flora and fauna",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "8.2.c.1.  Forest owners or managers periodically monitor the forest for changes in major habitat",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "8.2.d.  Environmental and social impacts of harvesting and other operations",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.2.d.1.  The environmental effects of site-disturbing activities are assessed (e.g., road construction and",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.2.d.2.  Creation or maintenance of local jobs and public responses to management activities are",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.2.d.3.  Sites of special significance to American Indians are monitored in consultation with tribal",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "8.2.e.  Cost, productivity, and efficiency of forest management",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.2.e.1.  Forest owners or managers monitor the cost and revenues of management in order to assess",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "8.3.  Documentation shall be provided by the forest manager to enable monitoring and certifying",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "organizations to trace each forest product from its origin, a process known as the \"chain of",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "custody.\"",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: For chain-of-custody management requirements, see Section 3.6 of Chain of",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "8.4.  The results of monitoring shall be incorporated into the implementation and revision of the",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "management plan.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.4.a.  Discrepancies between the results of management activities or natural events (i.e. yields, growth,",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "8.5.  While respecting the confidentiality of information, forest managers shall make publicly",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "available a summary of the results of monitoring indicators, including those listed in Criterion",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "8.2.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Forest owners or managers of private forests may withhold proprietary",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.5.a.  A summary outlining the results of monitoring is available to the public at a reasonable fee,",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "8.5.b.  Managers of public forests make information related to monitoring easily accessible (e.g.,",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE 9 MAINTENANCE OF HIGH CONSERVATION VALUE FORESTS",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Management activities in high conservation value forests shall maintain or enhance the",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "attributes which define such forests.  Decisions regarding high conservation value forests shall",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "always be considered in the context of a precautionary approach.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "High Conservation Value Forests are those that possess one or more of the following attributes:",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "a) Forest areas containing globally, regionally or nationally significant: concentrations of",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "biodiversity values (e.g., endemism, endangered species, refugia); and/or large",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "landscape level forests, contained within, or containing the management unit, where",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "viable populations of most if not all naturally occurring species exist in natural",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "patterns of distribution and abundance",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "b) Forest areas that are in or contain rare, threatened or endangered ecosystems",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "c) Forest areas that provide basic services of nature in critical situations (e.g., watershed",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "protection, erosion control)",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "d) Forest areas fundamental to meeting basic needs of local communities (e.g.,",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "subsistence, health) and/or critical to local communities’ traditional cultural identity",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "(areas of cultural, ecological, economic or religious significance identified in",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "cooperation with such local communities).",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Examples of forest areas that may have high conservation value attributes include, but are not",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "limited to:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Central Hardwoods:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "North Woods/Lake States:",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Hemlock-dominated forests (b)",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Note: In the Lake States-Central Hardwoods region, old growth (see Glossary) is both rare and",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "In the Lake States-Central Hardwoods region, cutting timber is not permitted in old-growth stands or",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Note: Old forests (see Glossary) may or may not be designated HCVFs.  They are managed to",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Old forests that either have or are developing old-growth attributes, but which have been previously",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Forest management maintains a mix of sub-climax and climax old-forest conditions in the landscape.",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "9.1.  Assessment to determine the presence of the attributes consistent with High Conservation",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Value Forests will be completed, appropriate to scale and intensity of forest management.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: Certain information may be withheld from public discussion to protect the",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "9.1.a.  Attributes and locations of High Conservation Value Forests are determined by:",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "(5) Integration of information from consultations and public review into proposed HCVF",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "9.2.",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "The consultative portion of the certification process must place emphasis on",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "the identified conservation attributes, and options for the maintenance thereof.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Note:  FSC understands that Criterion 9.2 is an instruction to Certification Bodies and that no",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "9.3.  The management plan shall include and implement specific measures that ensure the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "maintenance and/or enhancement of the applicable conservation attributes consistent with the",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "precautionary approach.  These measures shall be specifically included in the publicly available",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "management plan summary.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: The applicability of the precautionary principle (see Glossary) and the consequent",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "9.3.a.  Forest management plans and activities are appropriate for maintaining, enhancing and/or",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "9.3.b.  Active management in HCVFs is allowed only when it maintains or enhances high",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "9.3.c.  The management-plan summary includes information about HCVF management without",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "9.3.d.  Forest owners or managers of HCVFs (forests and/or stands) coordinate conservation efforts",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "9.4.  Annual monitoring shall be conducted to assess the effectiveness of the measures employed",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "to maintain or enhance the applicable conservation attributes.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "9.4.a.  Forest owners or managers of small forests may satisfy this requirement with informal",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "9.4.b.  Forest owners or managers of mid-sized and large forests monitor activities within and adjacent",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "PRINCIPLE # 10: PLANTATIONS",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Plantations shall be planned and managed in accordance with Principles and Criteria 1 - 9, and",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "Principle 10 and its Criteria.  While plantations can provide an array of social and economic",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "benefits, and can contribute to satisfying the world's needs for forest products, they should",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "complement the management of, reduce pressures on, and promote the restoration and",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "conservation of natural forests.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Applicability note: Plantations are forest areas lacking most of the principal characteristics and key",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Planting, seeding, and coppicing do not necessarily result in plantations.",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "10.1.  The management objectives of the plantation, including natural forest conservation and",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "restoration objectives, shall be explicitly stated in the management plan, and clearly",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "demonstrated in the implementation of the plan.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Note:  The Working Group considers that this criterion is sufficiently explicit and measurable, so does",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "10.2.  The design and layout of plantations should promote the protection, restoration and",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "conservation of natural forests, and not increase pressures on natural forests.  Wildlife corridors,",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "streamside zones and a mosaic of stands of different ages and rotation periods shall be used in",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "the layout of the plantation, consistent with the scale of the operation.  The scale and layout of",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "plantation blocks shall be consistent with the patterns of forest stands found within the natural",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "landscape.",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "10.2.a.  Plantation layout minimizes soil degradation and erosion and protects soil and water quality by",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.2.b.  Plantations are managed and integrated into the surrounding landscape in order to improve",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.2.c.  For plantation harvests larger than forty acres lacking within-stand retention, the size of the",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.2.d.  Plantations may be re-established on existing plantation sites (see also Criterion 10.5.a.),",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.2.e. Regeneration in previously harvested areas reaches a mean height of at least ten feet or",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "For Example:",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "10.3.  Diversity in the composition of plantations is preferred, so as to enhance economic,",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "ecological and social stability.  Such diversity may include the size and spatial distribution of",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "management units within the landscape, number and genetic composition of species, age classes",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "and structures.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.3.a. Forests containing plantations are managed to create and maintain structural and species",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "diversity that results in viable wildlife habitat and long-term soil maintenance and replenishment.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.3.b. Plantation-management activities are planned to generate and maintain long-term employment.",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "10.4.  The selection of species for planting shall be based on their overall suitability for the site",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "and their appropriateness to the management objectives.  In order to enhance the conservation",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "of biological diversity, native species are preferred over exotic species in the establishment of",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "plantations and the restoration of degraded ecosystems.  Exotic species, which shall be used only",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "when their performance is greater than that of native species, shall be carefully monitored to",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "detect unusual mortality, disease, or insect outbreaks and adverse ecological impacts.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Applicability Note: See FSC guidelines regarding Criterion 6.8 for use of GMO’s and see Criterion",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "6.9 for allowable use of exotic species.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "10.4.a.  The use of exotic plant species (see Glossary) is contingent on peer-reviewed scientific",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "10.4.b.  The genetic composition of plantations is suitable for local conditions and is managed for",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "10.5.  A proportion of the overall forest management area, appropriate to the scale of the",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "plantation, shall be managed so as to restore the site to a natural forest cover.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "10.5.a.  The ratio of plantations to natural and semi-natural forests (see Glossary), as well as their",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "10.5.b.  On land converted from non-forest uses to forest plantation uses, a percentage of the total area",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "10.5.c.  On currently forested land, up to 30% of the area may be managed as plantations (see",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "10.5.d.  Areas of forest and/or plantation to be restored to natural and semi-natural conditions are",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "For example:",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "10.6.  Measures shall be taken to maintain or improve soil structure, fertility, and biological",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "activity.  The techniques and rate of harvesting, road and trail construction and maintenance,",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "and the choice of species shall not result in long term soil degradation or adverse impacts on",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "water quality, quantity or substantial deviation from stream course drainage patterns.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Note: The Working Group considers that this criterion is sufficiently explicit and measurable, so does",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "10.7.  Measures shall be taken to prevent and minimize outbreaks of pests, diseases, fire and",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "invasive plant introductions.  Integrated pest management shall form an essential part of the",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "management plan, with primary reliance on prevention and biological control methods rather",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "than chemical pesticides and fertilizers.  Plantation management should make every effort to",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "move away from chemical pesticides and fertilizers, including their use in nurseries.  The use of",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "chemicals is also covered in Criteria 6.6 and 6.7.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Note: The Working Group considers that this criterion is sufficiently explicit and measurable, so does",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "10.8.  Appropriate to the scale and diversity of the operation, monitoring of plantations shall",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "include regular assessment of potential on-site and off-site ecological and social impacts, (e.g.,",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "natural regeneration, effects on water resources and soil fertility, and impacts on local welfare",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "and social well-being), in addition to those elements addressed in Principles 8, 6 and 4.  No",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "species should be planted on a large scale until local trials and/or experience have shown that",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "they are ecologically well-adapted to the site, are not invasive, and do not have significant",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "negative ecological impacts on other ecosystems.  Special attention will be paid to social issues of",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "land acquisition for plantations, especially the protection of local rights of ownership, use or",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "access.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Note: The Working Group considers that this criterion is sufficiently explicit and measurable, so does",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "10.9.  Plantations established in areas converted from natural forests after November 1994",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "normally shall not qualify for certification.  Certification may be allowed in circumstances where",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "sufficient evidence is submitted to the certification body that the manager/owner is not",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "responsible directly or indirectly of such conversion.",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "Note: The Working Group considers that this criterion is sufficiently explicit and measurable, so does",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "GLOSSARY",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "Terms Specific to Lake States Central-Hardwood Regional Certification Standards",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Age class:  Intervals (commonly 10 years) into which the age range of a tree crop is divided; also",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Allottee(s):  Person(s) holding an Indian allotment on a property.  An Indian allotment is private",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Aquatic habitat:  Habitat that occurs in free, available water (as opposed to water that is",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Buffer:  A strip of vegetation that is left or managed to reduce the impact of a treatment or action",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Canopy:  The more or less continuous cover of branches and foliage formed collectively by the",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Canopy closure:  The progressive reduction of space among tree crowns as they spread laterally.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Community:  A group of one or more populations of plants and/or animals in a common spatial",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Community type:  A generalized category comprising a number of similar units or stands of",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Configuration:  The shape or outline of a forest stand or plant community; the degree of",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Credible Scientific Analyses:  Scientific opinions supported by data and explanations in articles",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Cumulative impact:  The sum of impacts resulting from forest management, in a time frame as far",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Endangered species:  A species officially designated by the U.S. Fish and Wildlife Service or the",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Erosion:  The displacement of soil from one place to another by any means, such as water, wind,",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Even-aged management:  A system of forest management in which stands are produced or",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Exotic plant species:  For the purpose of these standards, exotic species of plants are those that",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Kuchler has divided the nation's forests into six categories: Eastern needle leaf, broad leaf, and",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Forest:  (A) The property or portions of a property that is under certificate or being assessed for",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Harvest block: A forest stand or part of a stand that is managed as a single unit for on-the-ground",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Integrity:  The state of being unimpaired; soundness; completeness; unity.",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Intensive forestry:  The practice of forestry to obtain a high level of volume of wood products per",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Large forest: A forest that is at least 50,000 acres in size.",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Managed forest:  A forest that is managed to accomplish specified objectives.",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Mid-Sized Forest:  A forest between 5,000 and 50,000 acres in size.",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Nutrient cycling:  The circulation of elements, such as nitrogen and carbon, via specific pathways",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Old forest: Forests that demonstrate old-growth characteristics but which have been previously",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Old-growth:  A stand or forest that demonstrates old-growth characteristics and is unroaded or",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Pathogen:  Any agent that causes disease, especially microorganisms, such as bacteria or fungi.",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Plant community:  A vegetative complex unique in its combination of plants; occurs in particular",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Public land:  Any land, including public forestland, held in government ownership in trust for the",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Refugium:   A small island of habitat in which a species can survive and from which it can",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Restoration:  The process of modifying a habitat or ecosystem to introduce or reintroduce",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Riparian zone:  An area identified by the presence of vegetation that requires free or unbound",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Sediment:  Material suspended in liquid or air; the deposition of that material onto a surface",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Semi-natural forest:  A forest ecosystem containing many of the characteristics of native",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Silviculture:  The art of producing and tending a forest by manipulating its establishment,",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Short rotation coppice systems:  Harvest systems that are typically perpetuated long-term in",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Slope:  The incline of the land surface measured in degrees from the horizontal or in a    percent as",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Small forest: .  A forest less than or equal to 5,000 acres, except for the purposes of FSCUS’s Family",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Snag:  A standing dead tree from which the leaves and most of the limbs have fallen.",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Soil:  Earth material so modified by physical, chemical, and biological agents that it will support",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Species:  A unit of classification of plants and animals that consists of the largest and most",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Species composition:  The species that occur on a site or in a successional or vegetative stage of a",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Stand:  Plant communities, particularly of trees, sufficiently uniform in composition, constitution,",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Structural diversity:  The diversity in a plant community resulting from the variety of physical",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Tenure:  Socially defined agreements held by individuals or groups, recognized by legal statutes or",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Threatened species:  Any species that is likely to become endangered within the foreseeable future",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "Use rights: Rights for the use of forest resources that can be defined by local custom, mutual",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "Usufruct: The right to use property not owned by the user, with the proviso that the condition or",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "Water quality:  The quality of water determined by a series of standard parameters including:",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "Woody debris:  All woody material, from whatever source, that is dead and lying on the forest",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Terms as defined in FSC International Principles and Criteria",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Biological diversity: The variability among living organisms from all sources including, inter alia,",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Biological diversity values:  The intrinsic, ecological, genetic, social, economic, scientific,",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Biological control agents:  Living organisms used to eliminate or regulate the population of other",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Chain of custody:  The channel through which products are distributed from their origin in the",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Chemicals:  The range of fertilizers, insecticides, fungicides, and hormones, which are used in",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Criterion (pl. Criteria):  A means of judging whether or not a Principle (of forest stewardship) has",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Customary rights:  Rights, which result from a long series of habitual or customary actions,",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Ecosystem:  A community of all plants and animals and their physical environment, functioning",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Endangered species: Any species that is in danger of extinction throughout all or a significant",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Exotic species:  An introduced species not native or endemic to the area in question.",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Forest integrity:  The composition, dynamics, functions and structural attributes of a natural",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Forest management/manager: The people responsible for the operational management of the",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "Genetically modified organisms:  Biological organisms which have been induced by various",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "High Conservation Value Forests: High Conservation Value Forests are those that possess one or",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Indigenous lands and territories:  The total environment of the lands, air, water, sea, sea-ice,",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Indigenous peoples:  \"The existing descendants of the peoples who inhabited the present territory",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Landscape:  A geographical mosaic composed of interacting ecosystems resulting from the",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Local laws:  Includes all legal norms given by organisms of government whose jurisdiction is less",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Long term:  The time-scale of the forest owner or manager as manifested by the objectives of the",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Native species:  A species that occurs naturally in the region; endemic to the area.",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Natural cycles:  Nutrient and mineral cycling as a result of interactions between soils, water,",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "Natural forest:  Forest areas where many of the principal characteristics and key elements of",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Non-timber forest products:  All forest products except timber, including other materials",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Other forest types:  Forest areas that do not fit the criteria for plantation or natural forests and",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Plantation:  Forest areas lacking most of the principal characteristics and key elements of native",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Precautionary approach:  Tool for the implementation of the precautionary principle.",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Precautionary principle:  Where there are threats of serious or irreversible damage, lack of full",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Principle:  An essential rule or element; in FSC's case, of forest stewardship.",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Silviculture:  The art and science of producing and tending a forest by manipulating its",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Succession:  Progressive changes in species composition and forest community structure caused by",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Tenure:  Socially defined agreements held by individuals or groups, recognized by legal statutes or",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Threatened species:  Any species, which is likely to become endangered within the foreseeable",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "Use rights:  Rights for the use of forest resources that can be defined by local custom, mutual",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "APPENDIX A.  REFERENCES",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "BMPs for Erosion Control on Logging Jobs in Ohio.  1992.  Silvicultural NPS TAC,",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Field Guide to Best Management Practices for Timber Harvesting in KY.  1990/  Cooperative",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Forest Management Guidelines for MI.  1998.  MI Society of American Foresters.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Forestry Best Management Practices for Illinois.  2000.  Illinois Department of Natural Resources.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Iowas Forestry Best Management Practices.  Iowa Department of Natural Resources.",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Logger’s Handbook, A Guide to Recommended Logging Practices 1986.  1986.  Timber Industry",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Logging and Forestry BMPs for Water Quality in IN Field Guide.  1998.  Forest Practices Working",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Sustaining MN Forest Resources: Voluntary Site Level Guidelines for Landowners, Loggers, and",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Water Quality Management Practices on Forest Land.  Michigan Department of Natural Resources",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "Wisconsin’s Forestry Best Management Practices for Water Quality.  Pub #FR093. 1995.  Bureau",
+      "page": 51
+    },
+    {
+      "level": "H3",
+      "text": "The FSC-US Lake States region is composed of entire counties in all or portions of the States of",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "The region was defined using a combination of earlier work previously describing the region and",
+      "page": 52
+    },
+    {
+      "level": "H3",
+      "text": "Lake States",
+      "page": 52
+    }
+  ]
+}

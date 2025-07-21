@@ -1,0 +1,2805 @@
+{
+  "title": "Measurement of the diﬀerential cross section for the production of an isolated photon",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Measurement of the diﬀerential cross section for the production of an isolated photon",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "V.M. Abazov36, B. Abbott75, M. Abolins65, B.S. Acharya29, M. Adams51, T. Adams49, E. Aguilo6, S.H. Ahn31,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Ahsan59, G.D. Alexeev36, G. Alkhazov40, A. Alton64,a, G. Alverson63, G.A. Alves2, M. Anastasoaie35,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "L.S. Ancu35, T. Andeen53, S. Anderson45, B. Andrieu17, M.S. Anzelc53, M. Aoki50, Y. Arnoud14, M. Arov60,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Arthaud18, A. Askew49, B. ˚Asman41, A.C.S. Assis Jesus3, O. Atramentov49, C. Avila8, F. Badaud13,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Baden61, L. Bagby50, B. Baldin50, D.V. Bandurin59, P. Banerjee29, S. Banerjee29, E. Barberis63, A.-F. Barfuss15,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "P. Bargassa80, P. Baringer58, J. Barreto2, J.F. Bartlett50, U. Bassler18, D. Bauer43, S. Beale6, A. Bean58,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Begalli3, M. Begel73, C. Belanger-Champagne41, L. Bellantoni50, A. Bellavance50, J.A. Benitez65, S.B. Beri27,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "G. Bernardi17, R. Bernhard23, I. Bertram42, M. Besan¸con18, R. Beuselinck43, V.A. Bezzubov39, P.C. Bhat50,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "V. Bhatnagar27, C. Biscarat20, G. Blazey52, F. Blekman43, S. Blessing49, D. Bloch19, K. Bloom67, A. Boehnlein50,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "D. Boline62, T.A. Bolton59, E.E. Boos38, G. Borissov42, T. Bose77, A. Brandt78, R. Brock65, G. Brooijmans70,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Bross50, D. Brown81, N.J. Buchanan49, D. Buchholz53, M. Buehler81, V. Buescher22, V. Bunichev38,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S. Burdin42,b, S. Burke45, T.H. Burnett82, C.P. Buszello43, J.M. Butler62, P. Calfayan25, S. Calvet16, J. Cammin71,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "W. Carvalho3, B.C.K. Casey50, H. Castilla-Valdez33, S. Chakrabarti18, D. Chakraborty52, K. Chan6, K.M. Chan55,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Chandra48, F. Charles19,‡, E. Cheu45, F. Chevallier14, D.K. Cho62, S. Choi32, B. Choudhary28, L. Christofek77,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "T. Christoudias43, S. Cihangir50, D. Claes67, J. Clutter58, M. Cooke80, W.E. Cooper50, M. Corcoran80,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "F. Couderc18, M.-C. Cousinou15, S. Cr´ep´e-Renaudin14, D. Cutts77, M. ´Cwiok30, H. da Motta2, A. Das45,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "G. Davies43, K. De78, S.J. de Jong35, E. De La Cruz-Burelo64, C. De Oliveira Martins3, J.D. Degenhardt64,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "F. D´eliot18, M. Demarteau50, R. Demina71, D. Denisov50, S.P. Denisov39, S. Desai50, H.T. Diehl50, M. Diesburg50,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Dominguez67, H. Dong72, L.V. Dudko38, L. Duﬂot16, S.R. Dugad29, D. Duggan49, A. Duperrin15, J. Dyer65,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Dyshkant52, M. Eads67, D. Edmunds65, J. Ellison48, V.D. Elvira50, Y. Enari77, S. Eno61, P. Ermolov38,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H. Evans54, A. Evdokimov73, V.N. Evdokimov39, A.V. Ferapontov59, T. Ferbel71, F. Fiedler24, F. Filthaut35,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "W. Fisher50, H.E. Fisk50, M. Fortner52, H. Fox42, S. Fu50, S. Fuess50, T. Gadfort70, C.F. Galea35, E. Gallas50,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "C. Garcia71, A. Garcia-Bellido82, V. Gavrilov37, P. Gay13, W. Geist19, D. Gel´e19, C.E. Gerber51, Y. Gershtein49,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "D. Gillberg6, G. Ginther71, N. Gollub41, G.A. Golovanov36, B. G´omez8, A. Goussiou82, P.D. Grannis72,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H. Greenlee50, Z.D. Greenwood60, E.M. Gregores4, G. Grenier20, Ph. Gris13, J.-F. Grivaz16, A. Grohsjean25,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S. Gr¨unendahl50, M.W. Gr¨unewald30, F. Guo72, J. Guo72, G. Gutierrez50, P. Gutierrez75, A. Haas70, N.J. Hadley61,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "P. Haefner25, S. Hagopian49, J. Haley68, I. Hall65, R.E. Hall47, L. Han7, K. Harder44, A. Harel71, J.M. Hauptman57,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "R. Hauser65, J. Hays43, T. Hebbeker21, D. Hedin52, J.G. Hegeman34, A.P. Heinson48, U. Heintz62, C. Hensel22,d,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "K. Herner72, G. Hesketh63, M.D. Hildreth55, R. Hirosky81, J.D. Hobbs72, B. Hoeneisen12, H. Hoeth26,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Hohlfeld22, S.J. Hong31, S. Hossain75, P. Houben34, Y. Hu72, Z. Hubacek10, V. Hynek9, I. Iashvili69,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "R. Illingworth50, A.S. Ito50, S. Jabeen62, M. Jaﬀr´e16, S. Jain75, K. Jakobs23, C. Jarvis61, R. Jesik43, K. Johns45,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "C. Johnson70, M. Johnson50, A. Jonckheere50, P. Jonsson43, A. Juste50, E. Kajfasz15, J.M. Kalk60, D. Karmanov38,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "P.A. Kasper50, I. Katsanos70, D. Kau49, V. Kaushik78, R. Kehoe79, S. Kermiche15, N. Khalatyan50, A. Khanov76,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Kharchilava69, Y.M. Kharzheev36, D. Khatidze70, T.J. Kim31, M.H. Kirby53, M. Kirsch21, B. Klima50,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "J.M. Kohli27, J.-P. Konrath23, D.E. Korablev36, A.V. Kozelov39, J. Kraus65, D. Krop54, T. Kuhl24, A. Kumar69,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A. Kupco11, T. Kurˇca20, V.A. Kuzmin38, J. Kvita9, F. Lacroix13, D. Lam55, S. Lammers70, G. Landsberg77,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "P. Lebrun20, W.M. Lee50, A. Leﬂat38, J. Lellouch17, J. Leveque45, J. Li78, L. Li48, Q.Z. Li50, S.M. Lietti5,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "J.G.R. Lima52, D. Lincoln50, J. Linnemann65, V.V. Lipaev39, R. Lipton50, Y. Liu7, Z. Liu6, A. Lobodenko40,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Lokajicek11, P. Love42, H.J. Lubatti82, R. Luna3, A.L. Lyon50, A.K.A. Maciel2, D. Mackin80, R.J. Madaras46,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "P. M¨attig26, C. Magass21, A. Magerkurth64, P.K. Mal82, H.B. Malbouisson3, S. Malik67, V.L. Malyshev36,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H.S. Mao50, Y. Maravin59, B. Martin14, R. McCarthy72, A. Melnitchouk66, L. Mendoza8, P.G. Mercadante5,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Merkin38, K.W. Merritt50, A. Meyer21, J. Meyer22,d, T. Millet20, J. Mitrevski70, R.K. Mommsen44,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "N.K. Mondal29, R.W. Moore6, T. Moulik58, G.S. Muanza20, M. Mulhearn70, O. Mundal22, L. Mundim3,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "E. Nagy15, M. Naimuddin50, M. Narain77, N.A. Naumann35, H.A. Neal64, J.P. Negret8, P. Neustroev40,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H. Nilsen23, H. Nogima3, S.F. Novaes5, T. Nunnemann25, V. O’Dell50, D.C. O’Neil6, G. Obrant40, C. Ochando16,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "D. Onoprienko59, N. Oshima50, N. Osman43, J. Osta55, R. Otec10, G.J. Otero y Garz´on50, M. Owen44, P. Padley80,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "M. Pangilinan77, N. Parashar56, S.-J. Park22,d, S.K. Park31, J. Parsons70, R. Partridge77, N. Parua54, A. Patwa73,",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "G. Pawloski80, B. Penning23, M. Perﬁlov38, K. Peters44, Y. Peters26, P. P´etroﬀ16, M. Petteni43, R. Piegaia1,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "J. Piper65, M.-A. Pleier22, P.L.M. Podesta-Lerma33,c, V.M. Podstavkov50, Y. Pogorelov55, M.-E. Pol2, P. Polozov37,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "B.G. Pope65, A.V. Popov39, C. Potter6, W.L. Prado da Silva3, H.B. Prosper49, S. Protopopescu73, J. Qian64,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "A. Quadt22,d, B. Quinn66, A. Rakitine42, M.S. Rangel2, K. Ranjan28, P.N. Ratoﬀ42, P. Renkel79, S. Reucroft63,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "P. Rich44, J. Rieger54, M. Rijssenbeek72, I. Ripp-Baudot19, F. Rizatdinova76, S. Robinson43, R.F. Rodrigues3,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "M. Rominsky75, C. Royon18, P. Rubinov50, R. Ruchti55, G. Safronov37, G. Sajot14, A. S´anchez-Hern´andez33,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "M.P. Sanders17, B. Sanghi50, A. Santoro3, G. Savage50, L. Sawyer60, T. Scanlon43, D. Schaile25, R.D. Schamberger72,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Y. Scheglov40, H. Schellman53, T. Schliephake26, C. Schwanenberger44, A. Schwartzman68, R. Schwienhorst65,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "J. Sekaric49, H. Severini75, E. Shabalina51, M. Shamim59, V. Shary18, A.A. Shchukin39, R.K. Shivpuri28,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "V. Siccardi19, V. Simak10, V. Sirotenko50, N.B. Skachkov36, P. Skubic75, P. Slattery71, D. Smirnov55, G.R. Snow67,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "J. Snow74, S. Snyder73, S. S¨oldner-Rembold44, L. Sonnenschein17, A. Sopczak42, M. Sosebee78, K. Soustruznik9,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "B. Spurlock78, J. Stark14, J. Steele60, V. Stolin37, D.A. Stoyanova39, J. Strandberg64, S. Strandberg41,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "M.A. Strang69, E. Strauss72, M. Strauss75, R. Str¨ohmer25, D. Strom53, L. Stutte50, S. Sumowidagdo49, P. Svoisky55,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "A. Sznajder3, P. Tamburello45, A. Tanasijczuk1, W. Taylor6, J. Temple45, B. Tiller25, F. Tissandier13, M. Titov18,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "V.V. Tokmenin36, T. Toole61, I. Torchiani23, T. Trefzger24, D. Tsybychev72, B. Tuchming18, C. Tully68, P.M. Tuts70,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "R. Unalan65, L. Uvarov40, S. Uvarov40, S. Uzunyan52, B. Vachon6, P.J. van den Berg34, R. Van Kooten54,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "W.M. van Leeuwen34, N. Varelas51, E.W. Varnes45, I.A. Vasilyev39, M. Vaupel26, P. Verdier20, L.S. Vertogradov36,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "M. Verzocchi50, F. Villeneuve-Seguier43, P. Vint43, P. Vokac10, E. Von Toerne59, M. Voutilainen68,e, R. Wagner68,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "H.D. Wahl49, L. Wang61, M.H.L.S. Wang50, J. Warchol55, G. Watts82, M. Wayne55, G. Weber24, M. Weber50,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "L. Welty-Rieger54, A. Wenger23,f, N. Wermes22, M. Wetstein61, A. White78, D. Wicke26, G.W. Wilson58,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "S.J. Wimpenny48, M. Wobisch60, D.R. Wood63, T.R. Wyatt44, Y. Xie77, S. Yacoob53, R. Yamada50, M. Yan61,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "T. Yasuda50, Y.A. Yatsunenko36, K. Yip73, H.D. Yoo77, S.W. Youn53, J. Yu78, C. Zeitnitz26, T. Zhao82, B. Zhou64,",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "J. Zhu72, M. Zielinski71, D. Zieminska54, A. Zieminski54,‡, L. Zivkovic70, V. Zutshi52, and E.G. Zverev38",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "20IPNL, Universit´e Lyon 1, CNRS/IN2P3, Villeurbanne, France and Universit´e de Lyon, Lyon, France",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "30University College Dublin, Dublin, Ireland",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "46Lawrence Berkeley National Laboratory and University of California, Berkeley, California 94720, USA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "choices are compared to the data. The predictions do not simultaneously describe the measured",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "The production of a photon with associated jets in",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "the ﬁnal state is a powerful probe of the dynamics of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "hard QCD interactions [1–6]. Diﬀerent angular conﬁg-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "urations between the photon and the jets can be used",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "to extend inclusive photon production measurements [7–",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "10] and simultaneously test the underlying dynamics of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "QCD hard-scattering subprocesses in diﬀerent regions of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "parton momentum fraction x and large hard-scattering",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "scales Q2.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "In this Letter, we present an analysis of photon plus",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "jets production in p¯p collisions at a center-of-mass en-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ergy √",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "s =1.96 TeV in which the most-energetic (leading)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "photon is produced centrally with a rapidity |yγ| < 1.0",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "[11]. The cross section as a function of photon transverse",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "momentum pγ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "rate angular conﬁgurations of the highest pT (leading)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "jet and the leading photon rapidities. The leading jet is",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "required to be in either the central (|yjet|<0.8) or forward",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "(1.5<|yjet|<2.5) rapidity intervals, with pjet",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "and the four angular conﬁgurations studied are: central",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "jets with yγ·yjet > 0 and with yγ·yjet < 0, and forward jets",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "with yγ·yjet > 0 and with yγ·yjet < 0. The total x and Q2",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "region covered by the measurement is 0.007 ≲x ≲0.8",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "and 900 ≤Q2 ≡(pγ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "the kinematic reach of previous photon plus jet measure-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ments [12–18]. Ratios between the diﬀerential cross sec-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "tions in the four studied angular conﬁgurations are also",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "presented. The measurements are compared to the cor-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "responding theoretical predictions.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Isolated ﬁnal-state photons produced in p¯p →γ +jet+",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "X events are expected to mainly originate “directly” from",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "QCD Compton-like qg →qγ scattering or q¯q →gγ an-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "nihilation subprocesses. In Fig. 1 the expected contri-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "bution, estimated using pythia [19] Monte Carlo (MC)",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "event generator with the CTEQ6.5M parton distribution",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "function (PDF) set [20], of the Compton-like partonic",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "scattering process to the total associated production of",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "a photon and a jet is shown for each of the four mea-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "sured rapidity intervals. The parton distribution func-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "tions entering into the theoretical predictions have sub-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "stantial uncertainties, particularly for the gluon contri-",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "butions at small x, large x and large Q2 [20, 21]. The",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "measurement intervals probe diﬀerent regions of parton",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "momentum-fraction space of the two initial interacting",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "partons, x1,2. For example at pγ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "with a central leading jet, the yγ ·yjet > 0 region covers",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "adjacent x1 and x2 intervals (0.016 ≲x1 ≲0.040 and",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "0.040 ≲x2 ≲0.100), while for events with yγ ·yjet < 0,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "the x1 and x2 intervals are similar (0.029 ≲x1 ≲0.074,",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "0.027 ≲x2 ≲0.065). In events with a forward leading",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "jet, intervals of small and large x are covered (0.009 ≲",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(GeV)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "process",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Fraction of qg",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PYTHIA 6.3, CTEQ6.5M",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "FIG. 1: The fraction of events, estimated using the pythia",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "0.1 0.2 0.3 0.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.5 0.6 0.7 0.8",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.9",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1/NdN/dO",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.1",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.2",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.3",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.4",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "DØ,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "= 1 fb",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "int",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "FIG. 2: Normalized distribution of the ANN output ONN for",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "data, γ + jet signal MC, and dijet background MC events for",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "44 < pγ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "T < 50 GeV after application of the main selection",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "criteria.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "scintillating ﬁber trackers located within a 2 T solenoidal",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "magnetic ﬁeld.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "The D0 tracking system is used to select events which",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "contain a primary collision vertex, reconstructed with at",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "least three tracks, within 50 cm of the center of the de-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "tector along the beam axis. The eﬃciency of the vertex",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "requirement varies as a function of instantaneous lumi-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "nosity from 92% to 96%.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Photon candidates with rapidity |yγ| < 1.0 are selected",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "from clusters of calorimeter cells within a cone of radius",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "R ≡",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "(∆η)2 + (∆φ)2 = 0.4 deﬁned around a seed tower",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "[23]. The ﬁnal cluster energy is then re-calculated from",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "the inner cone with R = 0.2. The data are selected us-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "ing a combination of triggers based on photon EM shower",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "proﬁles and in the calorimeter and EM cluster pT thresh-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "olds.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "The total trigger eﬃciency is (96–97)% for pho-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "ton candidates with pγ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "for pγ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "T > 40 GeV. The selected clusters are required to",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "have greater than 96% of their total energy contained",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "in the EM calorimeter layers. Isolated clusters are se-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "lected by requiring that the energy EEM(R = 0.2), calcu-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "lated within the inner cone of radius R = 0.2, fulﬁlls the",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "condition [Etotal(R = 0.4) −EEM(R = 0.2)]/EEM(R =",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "0.2) < 0.07, where Etotal(R = 0.4) is the summed EM",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "and hadronic energy within a cone of radius R = 0.4.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "The candidate EM cluster is required not to be spatially",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "matched to a reconstructed track. This is accomplished",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "by computing a χ2 function evaluating the consistency,",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "within uncertainties, between the reconstructed η and",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "φ positions of the cluster and the closest track in the",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "ﬁnely-segmented third layer of the EM calorimeter. The",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "corresponding χ2 probability is required to be < 0.1%.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Background contributions to the direct photon sample",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "from cosmic rays and from isolated electrons, originat-",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "ing from the leptonic decays of W bosons, important",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1/NdN/dO",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "0.05",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.15",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.25",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.35",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.4",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Data",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "DØ,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "= 1 fb",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "FIG. 3: Normalized distribution of the ANN output ONN for",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "at high pγ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Purity",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "0.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.3",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.4",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.6",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.7",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.9",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "DØ,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "= 1 fb",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "int",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "0.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.3",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.4",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.5",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.6",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.7",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "0.9",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "(GeV)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "FIG. 4: The purity of the selected p¯p →γ + jet + X sample as a function of pγ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "and jet rapidities. The results of the 1 −exp(a + bpγ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "uncertainties (dotted lines), and the total uncertainties (dashed lines).",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Z boson decays and the resulting normalized data and",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "MC distributions are compared in Fig. 3. Photon candi-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "dates are selected by the requirement ONN > 0.7 which",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "has good background rejection and a signal eﬃciency in",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "the range (93–97)%. The signal selection eﬃciency de-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "creases by about 4% with increasing pγ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "300 GeV due to the ONN > 0.7 requirement. The to-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "tal photon+jet selection eﬃciency after applying all the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "selection criteria, including the ANN and the ̸ET require-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "ments, is (63–77)% as a function of pγ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "systematic uncertainty of (4.7–5.2)%. Main sources of",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "ineﬃciency are the isolation, anti-track matching, ANN,",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "and the photon vertex pointing cuts.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Events containing at least one hadronic jet are selected.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Jets are reconstructed using the D0 Run II jet-ﬁnding al-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "gorithm with a cone of radius 0.7 [29], and are required to",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "satisfy quality criteria which suppress background from",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "leptons, photons, and detector noise eﬀects. Jet energies",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "are corrected to the particle level. The leading jet should",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "have pjet",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "T >15 GeV and |yjet|<0.8 or 1.5<|yjet|<2.5. The",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "leading photon candidate and the leading jet are also re-",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "quired to be separated in η−φ space by ∆R(γ, jet) > 0.7.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "The leading jet total selection eﬃciency varies from 94%",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "to almost 100% and takes into account any migrations",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "between leading and second jet from the particle to the",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "reconstruction level.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "on this eﬃciency is 5.7% at pγ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "to about 2% at pγ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "To study whether bremsstrahlung photons have dif-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ferent selection eﬃciencies from direct photons, we ex-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tracted them from dijet events simulated with pythia.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "We found that they do not produce a noticeable change",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "of the selection eﬃciencies, acceptance and shape of the",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "photon ANN output that have been obtained with direct",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "photons.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The diﬀerential cross section d3σ/dpγ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "process p¯p →γ + jet + X is obtained from the num-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ber of data events in each interval, after applying correc-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tions for background, eﬃciency, and acceptance eﬀects,",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "divided by the integrated luminosity and the widths of",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "the interval in the photon transverse momentum, photon",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "rapidity, and jet rapidity. The data are also corrected for",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "pT bin-migration eﬀects which result from the ﬁnite en-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ergy resolution of the EM calorimeter using an analytical",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Ansatz method [33] and the measured EM energy resolu-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tion determined from the Z boson peak. The correction",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "factors range from (1–5)% with about a 1% uncertainty.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The total (δσexp",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "systematic uncertainty are shown for the |yjet| < 0.8,",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "yγ ·yjet > 0 region in Fig. 5. Similar uncertainties are",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "found for the other measured regions. The largest uncer-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tainties are assigned to the purity estimation [(10–4)%],",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "photon and jet selections [(7.7–5.2)%], photon energy",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "scale [(4.2–6.0)%], and the integrated luminosity (6.1%).",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The uncertainty ranges above are quoted with uncer-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tainty at low pγ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "atic uncertainty on the photon selection is due mainly to",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "the anti-track match cut (3%), a correction due to ob-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "served data/MC diﬀerence in the eﬃciency of the main",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "photon selection criteria found from Z →ee events [(1.5–",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2)%], the photon vertex pointing requirement (2%), the",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "ANN cut (2%), and the uncertainty on the parameterized",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "photon selection eﬃciency (<1%). The total experimen-",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "tal systematic uncertainty for each data point is obtained",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "by adding all the individual contributions in quadrature.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "The result for each region is presented as a function",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "(GeV)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Systematic uncertainties (%)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "0.05",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "0.1",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "0.15",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "0.2",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "0.25",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "FIG. 5: The total and main sources of systematic uncertainty",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "for the cross section measured in the |yjet| < 0.8, yγ ·yjet > 0",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "rapidity region.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(GeV)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(pb/GeV)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "jet",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "NLO QCD",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "DØ,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "= 1 fb",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "int",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "FIG. 6: The measured diﬀerential p¯p →γ + jet + X cross",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Ratio of cross sections: Data/Theory",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.6",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.6",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "= 1 fb",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "int",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "0.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.6",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "0.8",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.6",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "(GeV)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "p  (GeV)",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "FIG. 7: The ratios of the measured triple-diﬀerential cross section, in each measured interval, to the NLO QCD prediction using",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "jetphox [36] with the CTEQ6.5M PDF set and all three scales µR,F,f = pγ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "the statistical and pT -dependent systematic uncertainties added in quadrature, while the internal line shows the statistical",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "uncertainty. The two dotted lines represent the eﬀect of varying the theoretical scales by a factor of two. The shaded region is",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "the CTEQ6.5M PDF uncertainty. The dashed and dash-dotted lines show ratios of the jetphox predictions with MRST 2004,",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Alekhin, and ZEUS 2005 to CTEQ6.5M PDF sets. Systematic uncertainties have large (> 80%) pγ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "There is a common 7.8% normalization uncertainty that is not shown on the data points.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "The data are compared to next-to-leading order (NLO)",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "QCD predictions obtained using jetphox [35, 36], with",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "CTEQ6.5M PDF [20] and BFG fragmentation func-",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "tions of partons to photons [37]. The renormalization,",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "factorization, and fragmentation scales (µR, µF , and",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "µf) are set equal to pγ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "exp(−2|y⋆|)]/2}1/2 and y⋆= 0.5(yγ −yjet) [38].",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "theoretical predictions include selection criteria on the",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "photon and jet similar to those applied in the experi-",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "mental analysis. In particular, an isolation requirement",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "on the photon of [Etotal(R = 0.4) −Eγ]/Eγ < 0.07 is",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "made, where Etotal(R = 0.4) is the total energy around",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "the photon in a cone of radius R = 0.4, and Eγ is the",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "photon energy. This requirement suppresses the relative",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "contribution from photons produced in the fragmentation",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "process, and leads to a more consistent comparison with",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "the experimental result. Corrections for the underlying",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "TABLE II: Diﬀerential cross sections d3σ/dpγ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "uncertainties for the |yjet|<0.8, yγ ·yjet < 0 rapidity interval.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "T bin",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(GeV)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "30 – 34",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "34 – 39",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "39 – 44",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "44 – 50",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "50 – 60",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "60 – 70",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "70 – 80",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "80 – 90",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "90 – 110",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "110 – 130",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "130 – 150",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "150 – 170",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "170 – 200",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "200 – 230",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "230 – 300",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "300 – 400",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "TABLE III: Diﬀerential cross sections d3σ/dpγ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "uncertainties for the 1.5 < |yjet| < 2.5, yγ ·yjet > 0 rapidity",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "interval.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "T bin",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(GeV)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "30 – 34",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "34 – 39",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "39 – 44",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "44 – 50",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "50 – 60",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "60 – 70",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "70 – 80",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "80 – 90",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "90 – 110",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "110 – 130",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "130 – 150",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "150 – 200",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "ceptance (1.5%), and unfolding (1%) lead to a total 7.8%",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "overall normalization uncertainty and are not shown in",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Fig. 7.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "The prediction using the CTEQ6.5M PDF and BGF",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "fragmentation sets does not describe the shape of the",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "cross section over the whole measured range.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "ticular, the prediction is above the data for events with",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "|yjet| < 0.8 in the region pγ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "data for jets produced in the 1.5<|yjet|<2.5, yγ·yjet > 0",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "rapidity region for pγ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "TABLE IV: Diﬀerential cross sections d3σ/dpγ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "uncertainties for the 1.5 < |yjet| < 2.5, yγ ·yjet < 0 rapidity",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "interval.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "T bin",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "(GeV)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "30 – 34",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "34 – 39",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "39 – 44",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "44 – 50",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "50 – 60",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "60 – 70",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "70 – 80",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "80 – 90",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "90 – 110",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "110 – 130",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "130 – 150",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "150 – 200",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "(GeV)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "f(y*)) /",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "0.9",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "1.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "JetPhoX",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "FIG. 8: Ratio of the predicted cross section with µR,F,f =",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "T f(y⋆) to those with µR,F,f = pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "regions) remain. Measured ratios between the diﬀeren-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "tial cross sections in the diﬀerent regions are presented in",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Fig. 10 and Tables V–X. The overall experimental uncer-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "tainty is largest in the ﬁrst and last pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "from (3–9)% across most of the pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "predicted cross section ratios estimated using jetphox",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "are also presented for scale choices µR,F,f = pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "µR,F,f = 0.5pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "uncertainty of the predicted ratios is ≤3% and about",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "(3.5–7.5)% for the ratio of cross sections in the two for-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ward jet rapidity intervals. The shapes of the measured",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ratios between the cross sections in the diﬀerent regions,",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "in general, are qualitatively reproduced by the theory.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "A quantitative diﬀerence, however, between theory and",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "the measurement is observed for the ratios of the central",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "jet regions to the forward 1.5 < |yjet| < 2.5, yγ ·yjet > 0",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "region, even after the theoretical scale variation is taken",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "into account. The ratio between the two forward jet cross",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "sections suggests a scale choice µR,F,f ≃2pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ever, the ratios of the central jet regions to the forward",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "1.5<|yjet|<2.5, yγ ·yjet < 0 region suggest a theoretical",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "scale closer to µR,F,f ≃0.5pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "summary,",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "d3σ/dpγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "T dyγdyjet for the process p¯p →γ + jet + X",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "is measured for central photons (|yγ| < 1.0) separately",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "for four diﬀerent rapidity conﬁgurations between the",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "leading photon and the leading jet. The data cover six",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "orders of magnitude in the cross section as a function of",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "T for events with jets in |yjet| < 0.8, and extend the",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "kinematic reach of previous photon plus jet measure-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ments. Next-to-leading order QCD predictions, using a",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "few diﬀerent modern parameterizations of parton dis-",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "tribution functions, are unable to describe the shape of",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "the pγ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "T dependence of the cross section across the entire",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "measured range.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "are unable to simultaneously describe the data-to-theory",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "ratios in each of the four measured regions.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "TABLE VI: Ratios of the diﬀerential cross sections in the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "TABLE VII: Ratios of the diﬀerential cross sections in the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "(GeV)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Fraction of direct contribution",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "0.7",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "0.8",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "0.9",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "JetPhoX",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "FIG. 9: The ratios of the p¯p →γ + jet + X cross section with",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "just the direct (non-fragmentation) contribution to the total",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "(direct+fragmentation) cross section estimated with jetphox",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "for each measured region.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "TABLE VIII: Ratios of the diﬀerential cross sections in the",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "1.5<|yjet|<2.5, yγ ·yjet < 0 rapidity region to the",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "1.5<|yjet|<2.5, yγ ·yjet > 0 rapidity region.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "the data presented in this Letter, show a need for an",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "improved and consistent theoretical description of the",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "γ+jet production process.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "We are very thankful to P. Aurenche, M. Fontannaz,",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "J. P. Guillet, and M. Werlen for providing the jet-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "phox package, useful discussions and assistance with the-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "oretical calculations.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "and collaborating institutions, and acknowledge support",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "from the DOE and NSF (USA); CEA and CNRS/IN2P3",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "(France); FASI, Rosatom and RFBR (Russia); CAPES,",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "CNPq, FAPERJ, FAPESP and FUNDUNESP (Brazil);",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "DAE and DST (India); Colciencias (Colombia); CONA-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "CyT (Mexico); KRF and KOSEF (Korea); CONICET",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "and UBACyT (Argentina); FOM (The Netherlands); Sci-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "ence and Technology Facilities Council (United King-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "dom); MSMT and GACR (Czech Republic); CRC Pro-",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "gram, CFI, NSERC and WestGrid Project (Canada);",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "BMBF and DFG (Germany); SFI (Ireland); The Swedish",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "[a] Visitor from Augustana College, Sioux Falls, SD, USA.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "[1] P. Aurenche, J. Lindfors, Nucl. Phys. B168, 296 (1980);",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "cross sections",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "= 1 fb",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "int",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ratio of differential",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(GeV)",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "data",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "= 0.5",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "theory,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "theory,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "= 2.0",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "theory,",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "FIG. 10: The ratios between the diﬀerential cross sections in each yjet region. The solid vertical error bars correspond to the",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "statistical and systematic uncertainties added in quadrature while the horizontal marks indicate the statistical uncertainty.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "NLO QCD theoretical predictions for the ratios, estimated using jetphox, are shown for three diﬀerent scales: µR,F,f=µ0,",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "0.5µ0, and 2µ0, where µ0 = pγ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Phys. C 29, 423 (1985).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[2] J. F. Owens, Rev. Mod. Phys. 59, 465 (1987).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[3] A. P. Contogouris, N. Mebarki, E. N. Argyres, and",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "S. D. P. Vlassopulos, Phys. Rev. D 35, 1584 (1987).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[4] P. Aurenche et al., Phys. Rev. D 39, 3275 (1989).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[5] W. Vogelsang and A. Vogt, Nucl. Phys. B453, 334",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "(1995).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[6] A. D. Martin et al., Eur. Phys. J. C 4, 463 (1998).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[7] J. Alitti et al. (UA2 Collaboration), Phys. Lett. B 263,",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "544 (1991).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[8] D. Acosta et al. (CDF Collaboration), Phys. Rev. D 65,",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "112003 (2002).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[9] B. Abbott et al. (D0 Collaboration), Phys. Rev. Lett.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "84, 2786 (2000); V. M. Abazov et al. (D0 Collaboration),",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Phys. Rev. Lett. 87, 2518 (2001).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[10] V. M. Abazov et al. (D0 Collaboration), Phys. Lett. B",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "639, 151 (2006); B 658, 285 (2007).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[11] y = 1/2ln(E −pL)/(E + pL), where E is the energy and",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "pL is the longitudinal momenta with respect to the z axis.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[12] F. Abe et al. (CDF Collaboration), Phys. Rev. D 57, 67",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "(1998).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "[13] T. Akesson et al. (ISR–AFS Collaboration), Zeit. Phys.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "C 34, 293 (1987).",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "(2004).",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[27] C. Peterson, T. Rognvaldsson, and L. L¨onnblad, Comput.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Phys. Commun. 81, 15 (1994).",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[28] R. Brun and F. Carminati, CERN Program Library Long",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Writeup W5013, (1993), unpublished.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[29] G. C. Blazey et al., arXiv:hep-ex/0005012 (2000).",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[30] R. J. Barlow and C. Beeston, Comput. Phys. Commun.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "77, 219 (1993).",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[31] Only statistical uncertainties in the γ+jet MC, dijet MC",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "and data samples are taken into account in the calcula-",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "tion of χ2.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[32] The uncertainty ranges are quoted for a low pγ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "for a high pγ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[33] B. Abbott et al. (D0 Collaboration), Phys. Rev. D 64,",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "032003 (2001).",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "[34] G. D. Laﬀerty and T. R. Wyatt, Nucl. Instrum. Meth.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Phys. Res. A 355, 541 (1995).",
+      "page": 13
+    }
+  ]
+}

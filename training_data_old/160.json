@@ -1,0 +1,795 @@
+{
+  "title": "Note 2: La gestion des incidents liés aux données",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "QU’EST-CE QU’UN INCIDENT LIÉ AUX DONNÉES DANS L’ACTION HUMANITAIRE ?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Dans le secteur humanitaire, les incidents liés aux données sont des événements impliquant la gestion",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "des données qui ont causé des préjudices ou sont susceptibles de causer des préjudices aux populations",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "touchées par les crises, aux organisations humanitaires et à leurs opérations, ainsi qu’à d’autres personnes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ou groupes. Ces événements peuvent exploiter ou exacerber les vulnérabilités existantes.1 Dans certains",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cas, ils peuvent également créer de nouvelles vulnérabilités susceptibles d’augmenter le risque de futurs",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "incidents liés aux données.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Les travailleurs humanitaires n’ont ni une compréhension commune de ce que représente un incident lié",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "aux données, ni défini un standard technique minimum quant à la manière dont ces incidents doivent",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "être évités et gérés. La manière dont le secteur humanitaire développe des outils et met en œuvre des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "procédures de gestion des incidents liés aux données jouera un rôle important dans l’évolution des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "standards éthiques, techniques et professionnels des opérations humanitaires, ainsi que des droits",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humains.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1     « On entend par vulnérabilité une faiblesse dans un système d’information, des procédures de sécurité du système, des contrôles internes ou une",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LA GESTION DES INCIDENTS LIÉS AUX DONNÉES",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Les incidents liés aux données humanitaires sont des événements impliquant la gestion des",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "données qui ont causé des préjudices ou sont susceptibles de causer des préjudices aux",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "populations touchées par les crises, aux organisations et à leurs opérations, ainsi qu’à d’autres",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "personnes ou groupes.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Parmi les exemples d’incidents liés aux données humanitaires, mentionnons les atteintes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "physiques à l’infrastructure, la divulgation non autorisée de données et l’utilisation des données",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "des bénéficiaires à des fins non humanitaires, entre autres.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Un incident lié aux données comporte quatre aspects : une source de menace, un évènement de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "menace, une vulnérabilité et un impact néfaste.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Il y a cinq étapes pour réagir aux incidents liés aux données : la notification, la classification, le",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "traitement et la clôture de l’incident, ainsi que l’apprentissage.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "« Si les acteurs humanitaires numérisent davantage leurs données et leurs",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "- Rahel Dette, Do No Digital Harm: Mitigating Technology Risk in Humanitarian Contexts",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "CADRES ET DÉFINITIONS POUR COMPRENDRE LES INCIDENTS LIÉS AUX",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "DONNÉES",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Les gouvernements et le secteur privé ont élaboré des cadres et définitions pour mieux comprendre les",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "incidents liés aux données et qui servent de références utiles au secteur humanitaire.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t La norme ISO 27000 de l’Organisation internationale de normalisation (ISO) définit un « incident",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "critique » comme « un ou plusieurs événements liés à la sécurité de l’information, indésirables ou",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "inattendus, présentant une probabilité forte de compromettre les opérations liées à l’activité de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "l’organisme et de menacer la sécurité de l’information ».2",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Le NIST (United States Department of Commerce National Institute for Standards and Technology)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "définit un événement indésirable impliquant une « cyber menace » comme « un événement ou une",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "condition susceptible de provoquer une perte d’actifs et les conséquences ou l’impact indésirables de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "cette perte ».3",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "•\t Mahmood Sher-Jan de l’International Association of Privacy Professionals (IAPP) identifie trois",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "autres catégories d’événements qui élargissent la définition des événements indésirables du NIST. Il",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "s’agit, par ordre de gravité croissant, d’incidents de sécurité, d’incidents liés à la confidentialité et de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "violations des données.4",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2     International Organization for Standardization, ISO/IEC 27000:2018.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Parmi les incidents liés aux données humanitaires, mentionnons les atteintes physiques à l’infrastructure,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "la divulgation non autorisée de données et l’utilisation des données des bénéficiaires à des fins non",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires, entre autres. Les incidents liés aux données peuvent également se produire sans que",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "l’infrastructure technique ne soit compromise de quelque manière que ce soit. La collecte, l’utilisation et le",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "partage légitimes de données par des humanitaires peuvent encore avoir des implications opérationnelles",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "susceptibles de constituer un incident dans les cas où des rumeurs, des sensibilités culturelles, des",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "dynamiques politiques et d’autres facteurs entraînent des effets préjudiciables liés aux données.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Exemples d’incidents possibles liés aux données humanitaires",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Un incident comporte quatre facteurs : une source de menace, un évènement de menace, une",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "vulnérabilité et un impact néfaste.5 Vous trouverez ci-dessous deux types d’incidents hypothétiques",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "susceptibles de se produire dans des contextes humanitaires.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Le premier scénario est un incident type de violation des données placé dans le contexte d’un conflit",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "armé. Le second est un exemple du type de vulnérabilités qui peuvent déclencher des incidents liés",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "aux données propres au secteur humanitaire.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.\tL’accès non autorisé aux données se produit [impact] en raison de la présence d’acteurs armés",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "[source] lors du pillage d’une installation et de la saisie de disques durs contenant des données",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "bénéficiaires [événement]. Les disques durs n’étaient pas cryptés [vulnérabilité].",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.\tL’absence de directives limitant la collecte de données à un but spécifique [vulnérabilité] aboutit",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "à ce que le personnel recueille des données sur le statut matrimonial des femmes enceintes",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "[source]. Une violation des données [événement] se produit par la suite, entraînant une",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "augmentation des risques de violence physique [impact] contre les bénéficiaires enceintes non",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "mariées.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Ces scénarios permettent de comprendre la démarche nécessaire à l’identification de chaînes de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "causalité susceptibles de créer des incidents liés aux données spécifiques à un contexte.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "MODÈLES DE RISQUE",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Le schéma ci-dessous présente un modèle de risque générique avec des facteurs de risque dont les",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "organisations peuvent se servir afin de comprendre comment un incident lié aux données peut se produire.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Un événement de menace exploite une vulnérabilité existante qui est soit amplifiée par des conditions",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "préexistantes, soit atténuée par des contrôles de sécurité déjà en place. Cela entraîne des impacts négatifs",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "qui engendrent des risques organisationnels, qui peuvent inclure des risques pour l’organisation et pour les",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "personnes affectées.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Le schéma ci-dessous présente un exemple de la façon dont ce modèle générique de risque pourrait être",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "adapté au secteur humanitaire.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations humanitaires peuvent développer leurs propres modèles de risque spécifiques pour la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "gestion des incidents liés aux données en tenant compte de ces facteurs. La nature de ces facteurs de risque",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "et la façon dont ils se réunissent pour constituer un incident lié aux données varient d’une organisation à",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "l’autre et doivent être adaptés à des réalités opérationnelles spécifiques.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "ÉTAPES DE LA GESTION DES INCIDENTS LIÉS AUX DONNÉES",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Après avoir clairement défini ce qui constitue un incident lié aux données, les organisations peuvent",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "développer des procédures opérationnelles standard (POS) pour la gestion de tels  incidents.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les POS de gestion des incidents liés aux données doivent comprendre les 5 étapes suivantes : 1) .7",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "7    Le Centre for Humanitarian Data fournit plusieurs sources d’orientation qui peuvent éclairer l’élaboration des POS  sur la gestion des incidents liés",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "L’application de ces étapes dans une organisation peut se présenter comme suit :",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1.\tNotification de l’incident : Une personne détecte un incident et informe ses collègues responsables",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en fonction des procédures de communication définies de l’organisation (généralement un e-mail, un",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "appel téléphonique, un outil logiciel, etc). Une notification doit contenir, si possible, une description",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "des principaux facteurs de risque impliqués dans l’incident : source, événement, vulnérabilité et",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "impact.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2.\tClassification de l’incident : Le destinataire de la notification classe l’incident en fonction de son",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "impact (élevé, moyen ou faible) et de l’urgence du traitement (élevé, moyen ou faible).9 La gestion des",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "risques commence par la classification de tous les incidents, que des préjudices tangibles en résultent",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ou non.10",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3.\tTraitement de l’incident : Un expert technique décide des mesures nécessaires pour traiter l’incident",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "une fois que l’incident a été classé et que le délai de traitement a été convenu.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4.\tClôture de l’incident : Toutes les informations générées pendant le traitement sont enregistrées et la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "personne qui a envoyé la première notification de l’incident est informée que l’incident est clos.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "5.\tBase de connaissances : Toutes les informations générées lors du traitement de l’incident sont",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "utilisées pour informer et former les collègues, et servent de documents de référence pour de futurs",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "incidents similaires.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations humanitaires peuvent fonder leurs POS sur ce modèle en 5 étapes, en décrivant",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "comment chaque étape doit se dérouler au sein de leur organisation. Ceci doit notamment inclure les",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "fonctions, les rôles et les équipes au sein d’une organisation qui sont responsables à chaque étape du",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "processus. Ces étapes doivent être intégrées ou étendues aux protocoles existants d’intervention en cas",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "d’incident (p. ex. gestion des incidents de sécurité liés à l’accès humanitaire).",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Dans un contexte donné de réponse humanitaire, les organisations doivent également s’engager à intégrer",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "toute procédure conjointe de gestion des incidents au sein des structures de coordination existantes, telles",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "que les clusters et les mécanismes de coordination inter et intra-cluster.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "RECOMMANDATIONS POUR AMÉLIORER LA GESTION DES INCIDENTS LIÉS AUX",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "DONNÉES",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "L’introduction ou l’amélioration de la gestion des incidents liés aux données dans les opérations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "humanitaires est essentielle pour une pratique liée aux données plus responsable dans le secteur. Le",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Centre for Humanitarian Data recommande aux organisations de concentrer leurs efforts sur les domaines",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "suivants :",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1.\tÉtablir une interprétation commune de la gestion des incidents liés aux données",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Utiliser un modèle de risque pour comprendre l’enchaînement d’évènements susceptibles d’entraîner",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des incidents pour des bureaux et des systèmes spécifiques. Identifier les principaux acteurs de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "menaces et les vulnérabilités des bureaux et des systèmes. Connaître les contrôles de sécurité",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "existants et comprendre leur efficacité. Enfin, cartographier la capacité existante de gestion des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "incidents liés aux données et déterminer si elle est bien positionnée. Une fois que des définitions",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "et des processus clairs ont été formulés, investir dans la sensibilisation du personnel et soutenir",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "une culture de dialogue ouvert sur les incidents, dans laquelle le reporting proactif et la gestion des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "incidents sont incités, et non punis.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2.\tRenforcer la capacité de gestion des incidents liés aux données",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Prendre des mesures pour mettre en place des contrôles de sécurité afin de réduire le risque",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "d’incidents liés aux données et partager les meilleures pratiques avec les partenaires. S’appuyer",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "sur le travail existant dans le secteur pour combler les lacunes de gouvernance qui peuvent créer",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des vulnérabilités pour votre organisation. Collaborer avec les partenaires organisationnels pour",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "mettre en place des canaux d’information autour des incidents liés aux données. Partager les",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "vulnérabilités connues de manière contrôlée avec des homologues de confiance pour l’apprentissage",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "inter-organisationnel.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "3.\tSoutenir l’apprentissage continu",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Soutenir l’apprentissage et le développement de meilleures pratiques de gestion des incidents liés",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "aux données en organisant des formations et des exercices basés sur des scénarios susceptibles de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "se produire dans différents contextes opérationnels. Ces exercices doivent avoir lieu régulièrement et",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "peuvent même impliquer que plusieurs organisations se forment et s’entraînent ensemble. En outre,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "documenter les incidents réels liés aux données comme cas d’étude pour le développement interne",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "des connaissances.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Les organisations sont encouragées à partager leur expérience dans le développement de la gestion des",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "incidents liés aux données avec le Centre for Humanitarian Data via centrehumdata@un.org.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "COLLABORATEUR: UNIVERSITÉ DE YALE, JACKSON INSTITUTE OF GLOBAL AFFAIRS.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "des Nations Unies (UNOCHA) en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+      "page": 5
+    }
+  ]
+}

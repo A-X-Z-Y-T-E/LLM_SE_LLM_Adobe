@@ -1,0 +1,16 @@
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf in 0.33s, found 10 headings
+Testing our extractor...
+Our result saved to our_result.json
+Title: 'Microsoft Word - LTC_CLAIM_FORMS .doc'
+Outline count: 10
+First few outline items:
+  H1: Application form for grant of LTC advance...
+  H2: 10....
+  H2: 11....
+
+Comparison:
+Expected title: 'Application form for grant of LTC advance  '
+Expected outline count: 0
+Title match: False
+Outline match: False

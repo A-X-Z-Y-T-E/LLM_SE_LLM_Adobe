@@ -1,0 +1,1205 @@
+{
+  "title": "Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Analysis of Medicare Part D Enrollees",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Who Use Antidepressant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "or Antipsychotic Medications",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Medicare Drug Benefit and C & D Data Group",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Division of Clinical and Operational Performance",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Analysis of Medicare Part D Enrollees Who Use Antidepressant",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "or Antipsychotic Medications",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Antidepressants and antipsychotics are two of the six protected classes under the Medicare prescription drug",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "benefit (Part D).  Part D plan sponsors are required to include substantially all of the medications in these",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "classes on their formularies.  This summary presents a descriptive analysis of the use of antidepressant (AD)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "and antipsychotic (AP) medications among Medicare Part D enrollees in calendar year (CY) 2012 in a Question",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Q) and Answer (A) format.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The proportion of the Part D enrolled population that used either an AD or AP medication during 2012 is",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "presented (Q1).  For these two user populations, a series of descriptive utilization statistics are provided (Q2,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Q3), and then broken down by sex and four age groups (Q4), and cross-use (Q5).",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Finally, comparisons between AD and AP users by the number of unique medications (Q6) and therapeutic",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "classes of medications used are provided (Q7).",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Methodology",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Study Population",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The study population was comprised of Medicare Part D enrollees who used AP or AD medications, and is",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "defined as beneficiaries who had one or more prescription drug event (PDE) claim(s) for an AD or AP",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "medication in the 2012 Standard Analytic File (SAF) accessed February 10, 2014.  Part D enrollees in",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "standalone Prescription Drug Plans (PDPs) and Medicare Advantage Prescription Drug Plans (MA-PDs) were",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "included in this analysis.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Antidepressant and Antipsychotic Medications, Unique Drugs and Drug Names, Therapeutic",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Classifications, and Fills",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AD and AP medications were identified from an internally developed list of National Drug Codes (NDCs) that",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "were active during 2012.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Unique drugs were defined at the Medi-Span Generic Product Identifier (GPI-10) level which identifies a drug",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "by its generic entity name (e.g., nortriptyline hydrochloride or megestrol acetate instead of Pamelor® or",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Megace®).  Medications with different dosages or strengths retain a common name under this scheme.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Therapeutic classes were defined using the GPI-2 therapeutic classification associated with an NDC.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "One fill was defined as a single PDE claim, and fills were not adjusted for days supply.  The proportions of fills",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "by therapeutic class were calculated as the count of fills per therapeutic class as the numerator divided by the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "denominator of total number of fills.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "When possible, comparisons were made to the general Part D population.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Presence of Psychosis",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The presence of a diagnosis of psychosis was identified during 2012 by the presence of RxHCC category 58",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "from the Part D risk adjustment model, which is based on ICD-9 diagnosis code of 295.xx (i.e., schizophrenic",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "disorders).",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Q1:  What proportion of the Part D population used antidepressant or antipsychotics?",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "A:   In 2012, 71.2% of Part D enrollees had no AD or AP use, and 28.8% (or 9.7 million (M) enrollees) used at",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "least one of these two types of drugs.  (Chart 1)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Additional breakouts for the type of AD and/or AP use are discussed next.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Q2:  What proportion of Medicare Part D enrollees used either an antidepressant or",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "antipsychotic medication?  What proportion of enrollees had a diagnosis of psychosis",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "and what was the prevalence of their antidepressant or antipsychotic medication use?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "A:   Overall, 28.8% of Part D enrollees used either an AP or AD medication in 2012.  This was split between",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "25.8% of Part D enrollees who had any AD use and 7.9% who had any AP use.    A smaller proportion of",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Part D enrollees (4.8%) used both an AD and an AP.  (Table 1)1",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": " A small proportion of Part D enrollees had a diagnosis of psychosis (3.7% or 1,241,455).",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Approximately 68% of these enrollees filled a prescription for an AP during 2012 (or",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "[342,183+498,999]/1,241,455). This was comprised of 27.6% of enrollees with a psychosis diagnosis",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "who used only an AP and 40.2% who used both an AP and an AD.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": " Approximately 31.7% of all AP users had a claim with diagnosis of psychosis in 2012 (or",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "[342,183+498,999]/2,655,166).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "As % of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Part D",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "enrollees",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "As % of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "subpopulation",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Part D population",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "33,795,041",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "100%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "No antidepressant or antipsychotic use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "24,055,948",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "71.2%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Any Antidepressant or Antipsychotic use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "9,739,093",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "28.8%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Subpopulation: AD/AP Users",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Any Antidepressant use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "8,721,483",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "25.8%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "100.0%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Any Antipsychotic use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2,655,166",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7.9%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "100.0%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Antidepressant and Antipsychotic use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1,637,556",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4.8%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "100.0%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Subpopulation: Any diagnosis of psychosis",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1,241,455",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.7%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "100.0%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.5%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Only AP use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.0%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "AP and AD use",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1.5%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "No new AP/AD fills during 2012*",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "0.6%",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "* Note: Does not include fills in 2011 that extended into 2012",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 1: Prevalence of AD and AP use Among Part D enrollees, 2012",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1  Antipsychotics may also have approved indications for other conditions (such as major depression or bipolar disease) without",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Q3:   How many unique antidepressant or antipsychotic medications were used by AD and",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "AP users?",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A:  Over three-fourths of AD and AP users used only one unique drug per class.  (Chart 2)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": " Among AD users (which represented 25.8% of the Part D population or 8.7 M enrollees), 76.3% used",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "one unique AD drug in 2012, 19.3% used two unique drugs, and 4.4% used three or more.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": " Similarly, among AP users (which represented 7.9% of the Part D population or 2.7 M enrollees), about",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "79.7% used only one unique AP drug, 15.5% used two, and 4.8% used three or more.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Q4:  Did the use of antidepressant or antipsychotic medications differ by sex?  What was the",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "breakdown by age? Are age distributions similar for men and women?",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "A:   Users of AD medications were disproportionately more female compared to the general Part D population",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "(68.9% vs 58.2% female).  Users of AP medications were proportionately similar by sex (59.2% vs 58.2%",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "female).  (Table 2)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": " A higher proportion of Part D enrollees who only used AP medications were male compared to the Part",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "D population (47.6% vs 41.8% male).",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "  A higher proportion of Part D enrollees who used both AD and AP medications were female than the",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Part D population (63.4% vs 58.2% female).",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "As % of",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Part D",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Male",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Female",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Medicare Population1",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "50,829,000",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "45.2%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "54.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Part D Population",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "33,795,041",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "100.0%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "41.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "58.2%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Any Part D Drug use",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "31,282,441",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "92.6%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "40.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "59.2%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "No antidepressant or antipsychotic use",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "24,055,948",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "71.2%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "45.5%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "54.5%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Any Antidepressant or Antipsychotic use",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "9,739,093",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "28.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "41.9%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "58.1%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "AD/AP Users",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Any Antidepressant use2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "8,721,481",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "25.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "31.1%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "68.9%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Any Antipsychotic use2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "2,655,164",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "7.9%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "40.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "59.2%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Antidepressant and antipsychotic use2",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1,637,555",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4.8%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "36.6%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "63.4%",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Sex",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table 2: Breakout of Antidepressant and Antipsychotic Use by Sex , 2012",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1 source: http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMS-Statistics-Reference-",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Compared to the Part D population, a higher proportion of AP and AD users were less than 65 years of age.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "(Table 3)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": " Among AD users, 30.1% were under 65.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": " A higher proportion of AP users were under 65 (49.5%).",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": " Whereas, for the Part D population, 19.2% of enrollees were under 65.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "This trend was also present when stratified by age and sex:",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": " For AD users, 38.1% of male AD users and 26.5% of female AD users were under 65, compared to",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "22.9% male and 16.6% female under 65 in the Part D population.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": " For AP users, use by those under 65 was more pronounced, and 59.8% of male AP users and 42.5% of",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "female AP users were under 65.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Across all age categories, the proportion of AD and AP use was lowest for those 85 years and older (13.5%",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "of AD users and 14.1% of AP users were within that age group).  This was comparable to the overall Part D",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "population and consistent regardless of sex.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Study Sample",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "No antidepressant or antipsychotic use",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Any Antidepressant or Antipsychotic use",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Antidepressant or Antipsychotic users",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Table 3: Age Distributions of Antidepressant and Antipsychotic Drug Users, 2012",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "% of",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Q5:  Are antipsychotics used by antidepressant users?  And conversely, are antidepressants",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "used by antipsychotic users?",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "A:  A high proportion of AD users did not use an AP medication (81.2%).  However, a majority of AP users also",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "used an AD medication, and only 38.3% of AP users did not use an AD.  (Chart 3)",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Q6:  How many unique medications were used by antidepressant or antipsychotic users",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "overall?  How did this compare to the Part D population?",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "A:  Chart 4 shows the distribution of the number of unique drugs used by each population (measured at the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "GPI-10 level).  The number of unique drugs used by both the Part D population and AD and AP users was",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "wide and ranged from 1 to over 40 medications.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Each population exhibited a distribution which was skewed to the right.  A distribution that is skewed to the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "right means that the population used a high number of unique drugs.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "On average, AD and AP users utilized more unique drugs overall than the Part D population.  As you can",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "see, the distributions for the AD and AP users are slightly more skewed to the right (tapers after 20 drugs)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "than the general Part D population (tapers after 15 drugs).",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Also, in reviewing the peak (or mode), a higher proportion of the Part D population appeared to use about 5",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "unique drugs, and  AD and AP users used about 8 to 9 unique drugs.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Q7:  What other classes of medications were used by antidepressant or antipsychotic users?",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "A:  When PDE claims were aggregated by the therapeutic classification (measured by GPI-2) associated with",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "the AD or AP NDC, the resulting profiles of drug use across all drug classifications were very similar between",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "AD users, AP users, and the general Part D population. (Chart 5)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "While similar profiles exist overall for the 3 study populations, there were slight differences in the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "proportion of fills among three therapeutic groups: cardiovasculars, analgesics, and central nervous system",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "(CNS) medications.  Specifically,",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": " There was a slightly higher proportion of fills for cardiovascular medications for the Part D",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "population.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": " There were slightly higher proportions of fills for analgesics and CNS medications2 for AD and AP",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "users.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": " There was a higher proportion of fills for CNS medications for AP users compared to AD users.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2 “CNS medications” under this therapeutic classification system is comprised of Anticonvulsants, Musculoskeletal Therapy",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Conclusions",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "The prevalence of antidepressant use in the Part D enrolled Medicare population was moderate.  Users of",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "antidepressants were more likely to be women than men which was disproportionate to the general Part",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "D population.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Overall, the highest proportion of antidepressant use by age category was found in those between 65 and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "74 years of age followed by those under 65.  Use of antidepressants was higher in men under 65 than",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "women of the same age.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "In contrast to antidepressant use, the prevalence of any antipsychotic use in the Part D enrolled Medicare",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "population was low.  Users of antipsychotics were also more likely to be women than men, and the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "overall proportion of women and men using antipsychotics was similar to the Part D enrolled population,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "and identical to the proportion of users of Part D drugs.  However, a higher proportion of Part D enrollees",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "who only used antipsychotic medications were male, and almost half of the users of antipsychotic",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "medications were under 65.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "The majority of antidepressant and antipsychotic medication users used only one medication from these",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "classes.  Users of antidepressants and antipsychotics used more unique medications than other Part D",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "enrollees, but the aggregation of fills across therapeutic categories was very similar to that of other Part",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "D enrollees.  This suggests that while fills within a therapeutic class were similar to the Part D population,",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "there was use of more unique drugs within a class.  In the case of cardiovasculars, analgesics, and central",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "nervous system (CNS) medications, antidepressant and antipsychotic medication users had more fills.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Questions: If you have questions related to this analysis, please email the PartDPolicy@cms.hhs.gov and",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "include “CMS.gov Part D Analysis Question” in the subject line and reference the title and date of the",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "paper in the body of the email.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "This analysis is claims-based and, as a result, there are several points to be kept in mind.  Identification of",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "antidepressant and antipsychotic users is based on claims alone, and there is no discrimination made",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "between beneficiaries who have prolonged drug use and those with one-time (or episodic) use.  The",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "reported numbers accordingly reflect a point estimate of any use of an antidepressant or antipsychotic",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "medication and thus represent the upper bound of the true prevalence of use.",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Similarly, to the extent that these medications are disproportionately used in distinct sub-populations",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "within the broader Medicare population, demographic characteristics such as sex and age can be",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "influenced. This analysis did not stratify by any other underlying sub-populations (e.g., those in long-term",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "care facilities) other than by sex and age and are instead presented in aggregate.",
+      "page": 12
+    }
+  ]
+}

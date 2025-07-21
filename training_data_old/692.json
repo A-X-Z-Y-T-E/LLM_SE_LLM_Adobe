@@ -1,0 +1,325 @@
+{
+  "title": "Data Ingest Activities - TRMM",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Data Ingest Activities - TRMM",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Level 0 Ingest Scenario",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "System",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Operator",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1)  SDPF sends Data Availability Notice",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "(DAN) to Ingest (LaRC and MSFC).",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Receipt of the DAN is logged.  This",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "process is assigned a request ID, and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "from this point forward the event log",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "and status display will contain",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "information related to this transaction.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Data Ingest Activities - TRMM",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Level 0 Ingest Scenario (cont.)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "System",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Operator",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "- Ingest generates a corresponding",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ingest request and stores the request",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "on a prioritized list.  A summary of the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "DAN contents indicating data source,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "number of files, and location of data is",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "placed in the event log.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "-  Ingest Tech. may monitor the status",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "display showing subsequent ingest",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "request processing and cancel",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "requests.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "-  Acknowledges the request (DAA)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and a copy of the DAA indicating",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "readiness to ingest data is logged.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "2)  Ingest function schedules and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "performs data transfer.  Devices",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "allocated to the data transfer are",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "identified. Data transfer status/",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "recoverable errors indicated in the",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "event log.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Data Ingest Activities - TRMM",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Level 0 Ingest Scenario (cont.)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "System",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Operator",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3)  No data conversion required for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "SDPF Level 0 data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4)  Ingest function extracts SDPF Level 0",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "metadata and checks selected metadata",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "parameters (e.g., SFDU header",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "information).  Status of metadata",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "parameter check is written to event log.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "5)  Ingest function requests to store",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "SDPF Level 0 data and metadata in the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Level 0 data repository.  Data server",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "insert request generated.  Subscription",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(if any) triggered to indicate availability",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "of data when the archive process is",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "completed.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Data Ingest Activities - TRMM",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Level 0 Ingest Scenario (cont.)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "System",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Operator",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6)  DDN is sent to SDPF and a DDA is",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "received and logged.  Status message is",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "provided to data provider and Ingest",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "History Log when archiving is complete.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "-  DIT may view the history log.  Request",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "ID associated with this ingest process",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "drops off of the ingest status display at",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "this time.",
+      "page": 4
+    }
+  ]
+}

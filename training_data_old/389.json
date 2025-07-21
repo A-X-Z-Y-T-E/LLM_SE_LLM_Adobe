@@ -1,0 +1,515 @@
+{
+  "title": "An Algorithm for Extraction of Periodic Signals",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "TDA Progress Report 42-119",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "An Algorithm for Extraction of Periodic Signals",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "From Sparse, Irregularly Sampled Data",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "I. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "In observational sciences like astronomy, it frequently happens that data are available at an unevenly",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "this kind. A set of references and an implementation of Lomb’s method are provided in [1]. A recent",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "article studied the eﬀect of temporal windows on observed solar oscillation parameters [2]. However,",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "This article describes a new mathematical procedure for extraction of periodic signals from incomplete",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Analogous to the clean algorithm, the new algorithm identiﬁes the strongest oscillatory component and",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The algorithm has generally met with success in trials with simulated data, including those of a type",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Section II describes the algorithm; Section III describes results of simulation experiments; and the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "II. The Algorithm",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The data are sampled in a sequence that consists of discrete observation sessions (or windows, on",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Sampling at discrete intervals creates a situation whereby frequencies beyond the maximum resolved",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Let Ml designate the least squares function:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "where the sum over k is a sum over all (discrete) frequencies, ωk ≡2πk/(Nδt).",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The al’s specify amplitudes of the Fourier components f S",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "where φl is phase. The contribution to the Fourier map is",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Because Eq. (3) consists of both a positive and its complex conjugate negative frequency components, so",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The index l that minimizes Ml as a function of l is identiﬁed as the signal’s true frequency. To perform",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "By combining Eqs. (4a) and (4b), the a±l’s are computed for the candidate l. The computed a±l’s are",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Hence, the use of the above-described procedure allows one to determine signal phase.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "The above relationships, Eqs. (4) and (5), were derived by relating the spectral strengths at ±l lo-",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "For data modulated with several frequencies, multiple applications of the algorithm are necessary.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "III. Results and Discussion",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Two versions of the above-described general procedure have been implemented and tested on simulated",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "resolved frequencies is 1/T, corresponding to the resolution parameter of τ 2/T for an oscillatory signal",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "A. Integer Frequency Index",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The integer version was tested with success on many diﬀerent types of simulated monochromatic as well",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "For a monochromatic signal (data sampled hourly), the modulation frequencies ranged from those",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "summarizes the results of the simulations for S(tn) consisting of 20 and 200 1-day-long, periodically",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "cycle is 1/5). Results of simulations for nonperiodic sampling sequences were similar, except that the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Results of simulation experiments for a signal consisting of several modulation frequencies are sum-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "rizes the results of the extraction process for the 140–data day, 0.2–duty cycle sampling sequence, with",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Results of simulations for the same oscillatory components but diﬀerent observation parameters are",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 1. Extraction results for simulated mono-",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "chromatic data.a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 2. Extraction results for simulated data with four oscillatory",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "components in the diurnal and four in the semidiurnal band.a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 1.  Results of simulation experiments:  (a) the original data, (b) the original Fourier map, (c) the clean Fourier map, (d) the residual Fourier map for",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "simulated data with four diurnal and four semidiurnal signals (parameters of Table 2) buried in the background of Gaussian noise.  The noise level was 30, the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "duty cycle was 0.2, the number of data days was 270 (data sampled hourly).  The signals were extracted in eight iteration steps.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "(a)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Table 3.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Extraction results for the same eight oscillatory",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "components as in Table 2 for periodically repeating observational",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "sessions.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "(sidelobes produced by one frequency contribute spurious strength at other frequencies). Therefore, the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Because of high sidelobes, the most unfavorable situation for extraction is a periodic sampling sequence.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "In Table 3, results are also listed (in square brackets) for nonperiodic sequences characterized by the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "where < p > is the average separation, < p >= PNd",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "long sampling sequences, because (for periodically repeating sessions) the sidelobes are biggest there. For",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "In the majority of the simulations, the optimal frequency index was found to coincide with the frequency",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "B. Noninteger Frequency Index",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The precision of the extracted frequencies aﬀects the accuracy of the extracted phase and, ultimately,",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "If the data include frequencies not equal to an integer multiple of 1/N, the residual is minimum for",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "was tested by using the same simulated data as for the integer algorithm. The results were similar in that",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "The principal application of the noninteger algorithm is for spectral analysis of data with both rapid",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "three cases: In the ﬁrst case, the amplitudes of the 1-month, 1-year, and 18-year components were 500,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Table 4. Extraction results when the data also contained strong",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "low-frequency components (corresponding to Figs.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1, 2, 3,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "and 4).a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "In Figs. 2–4, iterative application of the algorithm has resulted in successful extractions of the diurnal",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 2.  Results for the same simulated data as in Fig. 1, but with the diurnal and semidiurnal components (Table 2) superimposed on a slowly varying signal",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "with the amplitudes of 500 and 2000 for 1-mo and 1-yr periodic components respectively:  (a) the original data, (b) the original Fourier map, (c) the clean Fourier",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "map, (d) the residual Fourier maps.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "(a)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 3.  Results for the same simulated data as in Figs. 1 and 2, but with the diurnal and semidiurnal components (Table 2) superimposed on a slowly varying",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "signal with the amplitudes of 500, 2000, and 200,000 for a 1-mo, 1-yr, and 18-yr periodic components respectively:  (a) the original data, (b) the original Fourier",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "map, (c) the clean Fourier map, and (d) the residual Fourier map.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(a)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "5 x 105",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Fig. 4.  Results for the same data as in Figs. 1, 2, and 3, but with the diurnal and semidiurnal components (Table 2) superimposed on a slowly varying signal",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "with amplitudes of 500, 20,000, and 500,000 for 1-mo, 1-yr, and 18-yr periodic components, respectively:  (a) the original data, (b) the original Fourier map, (c)",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the clean Fourier map, and (d) the residual Fourier map.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "(a)",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "the strongest diurnal component. The algorithm also ﬁts the slow variations ﬁrst. However, because the",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "IV. Summary and Conclusions",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "A new algorithm has been developed for spectral analysis of sparse, irregularly sampled data with",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "extraction results could be used to achieve conﬁdence in the found solutions. Another test of conﬁdence",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "For signal frequencies that are not integer multiples of the minimum discrete FFT frequency, the",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "while the extracted frequency accuracy increased by one signiﬁcant place relative to results obtained",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "For uniformly spaced time markers, the CPU time scales as a constant ×Nc × Np × N × log N, where",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "The algorithm is currently applied to actual hourly Earth orientation parameters for the available",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgments",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Appendix",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Spectral Analysis for a Noninteger Frequency Index",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "The method outlined in Section II is frequently suﬃcient provided that the periodic components are",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Similarly to Eq. (1) of the main text, deﬁne the minimal function",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "where all terms have the same meaning as in Eq. (1) except that the second term on the right-hand side",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "As in the main text, the optimal value of l+∆l is found as that frequency which when ﬁltered through",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "For m = ±(l+∆l), Eq. (A-2) deﬁnes a linear system of two equations from which the optimal magnitudes",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "To compute the various functions required in the evaluation of Eqs. (A-1) and (A-2), the following",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "That is to say, the kth Fourier component of fl+∆l(tn)S(tn) is the (k −l)th Fourier component of",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "By using relationships similar to those used to derive Eq. (A-3), Eq. (A-2) is simpliﬁed:",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "and, similarly,",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "By using Eqs. (A-4) and (A-5), Eq. (A-2) simpliﬁes to",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "For m = ±(l + ∆l), Eq. (A-6) is solved for a pair of coeﬃcients a±(l+∆l). Note that for ∆l = 0, Eq. (A-6)",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Other useful relationships involve the evaluation of the noninteger Fourier components of the sampling",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "The use of Eqs. (A-3)–(A-5) and (A-7)–(A-9) minimizes the number of computations required to",
+      "page": 17
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+INFO:code1:Processing d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf
+INFO:code1:Processed d:\VS_CODE\Adobe\PS\Adobe-India-Hackathon25\Challenge_1a\sample_dataset\pdfs\file01.pdf in 0.32s, found 4 headings
+Testing our extractor...
+Our result saved to our_result.json
+Title: 'Application form for grant of LTC advance  '
+Outline count: 4
+First few outline items:
+  H1: 10....
+  H2: 11....
+  H3: 12. Amount of advance required....
+
+Comparison:
+Expected title: 'Application form for grant of LTC advance  '
+Expected outline count: 0
+Title match: True
+Outline match: False

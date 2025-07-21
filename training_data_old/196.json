@@ -1,0 +1,945 @@
+{
+  "title": "Note d’orientation: La responsabilité des données et la redevabilité aux personnes affectées",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "La redevabilité envers les personnes affectées (\"AAP\") est une approche collective qui a pour objectif",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "de garantir que les besoins et les intérêts des personnes sont au centre de l'action humanitaire. Elle se",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "fonde sur l'engagement de prendre en compte, de rendre compte et de se faire tenir pour compte par",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "les personnes que les humanitaires cherchent à aider.1 Dans le cadre de leurs activités liées à l'AAP, les",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitaires collectent et utilisent de plus en plus de données. La gestion responsable des données est",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "essentielle pour garantir que ces activités ne nuisent pas aux personnes affectées, et fait partie du respect",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "des engagements liés à l'AAP.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Cette note d'orientation examine la responsabilité des données et l'AAP dans le cadre de l'action",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitaire. Elle identifie les avantages et les risques courants liés aux données dans le cadre de s activités",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "liées à l'AAP, explique comment les humanitaires peuvent mettre en œuvre les actions des directives",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "opérationnelles de l'IASC sur la responsabilité des données dans l'action humanitaire et propose des",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "exemples d'approches conjointes à ce travail.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1     Pour plus d’informations sur l’AAP, voir: OCHA: Accountability to affected people.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SÉRIE DE NOTES D’ORIENTATION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "NOTE D’ORIENTATION: LA RESPONSABILITÉ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "DES DONNÉES ET LA REDEVABILITÉ AUX",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "PERSONNES AFFECTÉES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "POINTS CLÉS :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t La responsabilité des données est la gestion sécurisée, éthique et efficace des données",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "personnelles et non personnelles pour la réponse opérationnelle, et est un élément",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "indispensable de la redevabilité aux personnes affectées (AAP) dans le système humanitaire.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Les activités de gestion de données relatives à l’AAP incluent, par exemple, la communication",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "avec les communautés, le traitement de plaintes et de feedback, et le suivi des perceptions des",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "communautés.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t La collecte de données auprès des communautés et à leur sujet peut permettre de mieux",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "comprendre les priorités et les préférences des personnes affectées, ainsi que de les faire",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "davantage participer à l'action humanitaire et se l'approprier.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Toutefois, la gestion des données liées à l'AAP peut engendrer des risques, notamment la",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "divulgation de données sensibles pouvant nuire aux personnes touchées ou aux travailleurs",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitaires, et la perte de confiance entre les personnes touchées, les organisations",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "humanitaires et les acteurs concernés.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•\t Les acteurs humanitaires doivent mener des analyses de l’impact relative aux données, assurer",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "la responsabilité des données par conception, développer des diagrams de la gestion des",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "données, entretenir le registre de gestion de données, mettre en place des accords de partage",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "des données, et adopter des procédures de gestion des incidents liés aux données.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "LA GESTION DES DONNÉES RELATIVES À L’AAP",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Par le biais de l'AAP, les humanitaires visent à garantir que l'action humanitaire protège et préserve les",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "droits et la dignité des personnes affectées par les crises, qu'elle reste pertinente et efficace, qu'elle ne",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "laisse personne de côté et qu'elle respecte les principes humanitaires.2 Reconnaissant que les personnes",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "touchées par une crise vivent l'aide différemment, l'AAP permet aux humanitaires de travailler avec les",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "personnes affectées pour s'assurer que leurs divers besoins, vulnérabilités et capacités sont pris en compte",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "dans la prise de décision et la conception des programmes.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Les humanitaires s'acquittent de cette tâche principalement par le biais des activités suivantes :",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t En fournissant systématiquement aux populations et aux communautés des informations opportunes,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "pertinentes et exploitables sur la réponse humanitaire, ses acteurs et ses activités.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t En soutenant la participation significative et le leadership des personnes affectées dans la prise",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "de décision, indépendamment de leur sexe, de leur âge, de leur statut de handicapé et d'autres",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "diversités.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t En veillant à ce que des mécanismes de feedback communautaire soient en place pour permettre aux",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "personnes affectées d'évaluer et de faire des observations sur la performance de l'action humanitaire,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "et de déposer des plaintes sur n'importe quel sujet, y compris des sujets sensibles tels que la",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "protection, la violence basée sur le genre, l'exploitation et les abus sexuels, la fraude, la corruption, le",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "racisme et la discrimination, les violations de l'environnement, et d'autres.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Les organisations humanitaires utilisent de plus en plus les canaux numériques pour travailler avec les",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "communautés. Par conséquent, de grandes quantités de données peuvent être collectées et utilisées,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ce qui nécessite une gestion appropriée. La responsabilité des données, c'est-à-dire la gestion sécurisée,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "éthique et efficace des données personnelles et non personnelles pour la réponse opérationnelle, est",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "essentielle à ces efforts.3 Veiller à ce que les activités de gestion des données4 ne nuisent pas aux personnes",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "affectées fait partie du respect des engagements liés à l'AAP.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Les activités courantes de gestion des données relatives à l'AAP sont notamment les suivantes :",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t La communication avec les communautés qui consiste à fournir des informations opportunes et",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "pertinentes.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Les mécanismes de collecte, d'analyse, de renvoi et d'action des plaintes et du feedback.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Les systèmes de suivi des perceptions des communautés, des rumeurs, des informations erronées, de",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "la désinformation et des discours haineux (\"MDH\").",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Les activités de gestion de l'information pour éclairer la fourniture et la coordination de l'aide,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "y compris les évaluations et analyses conjointes des besoins, les enquêtes de perception, et la",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "cartographie de la présence et des activités des partenaires dans différents lieux.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t L'analyse de l'écosystème des informations5 pour déterminer la relation entre l'offre et la demande",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "d'informations aux communautés et en provenance de celles-ci.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Une approche responsable de la gestion des données consiste à comprendre comment ces activités sont",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "liées les unes aux autres et comment les données circulent entre les individus, les communautés et les",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "organisationss.6",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AVANTAGES ET RISQUES LIÉS AUX ACTIVITÉS DE GESTION DES DONNÉES",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "RELATIVES À L'AAP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "La responsabilité des données repose sur une compréhension et un équilibrage des avantages et des",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "risques liés à la gestion des données. Bien qu'ils puissent varier d'un contexte à l'autre, nous présentons",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ci-dessous plusieurs avantages et risques courants aux activités de gestion des données relatives à l'AAP.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Avantages :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Une meilleure compréhension des priorités et des préférences des personnes affectées, telles que les",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "canaux qu'elles préfèrent pour recevoir et soumettre des informations.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Une amélioration de la participation et de l'appropriation de l'action humanitaire par les personnes",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "touchées.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Une meilleure efficacité de l'action humanitaire grâce à la prise en compte des observations de la",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "communauté.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Une amélioration de la transparence et de la redevabilité.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Risques :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t L'exposition accidentelle ou intentionnelle de données sensibles, personnelles ou non, qui pourrait",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "entraîner la réidentification, des représailles, la stigmatisation, la violence ou d'autres formes de",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "préjudice pour les personnes affectées.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t L'utilisation potentiellement abusive des données à des fins non humanitaires. C'est le cas, par",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "exemple, lorsqu'un fournisseur de logiciels commerciaux qui propose un canal de communication",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "communautaire utilise l'historique des discussions pour poursuivre ses propres objectifs",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "commerciaux.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Une analyse biaisée aboutissant à une prise de décision inadéquate. Cela peut se produire lorsque",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "des données non représentatives provenant d'enquêtes de perception sont utilisées pour tirer des",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "conclusions au niveau des réponses.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Des occasions manquées pour utiliser les données disponibles lorsque les efforts ne sont pas",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "coordonnés, ce qui peut entraîner la fatigue de la collecte de données de la part des communautés et",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "des personnes affectées qui doivent raconter à nouveau les mêmes histoires difficiles.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t La perte de confiance entre les personnes affectées, les organisations humanitaires et les autres",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "acteurs lorsque des données sensibles sont divulguées.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "ACTIONS RECOMMANDÉES POUR LA RESPONSABILITÉ DES DONNÉES",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "DANS LE CADRE DE L'AAP",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "La responsabilité des données nécessite la mise en œuvre d'actions à différents niveaux d'une réponse",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "humanitaire, conformément aux directives opérationnelles du IASC. Le Centre for Humanitarian Data (\"le",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Centre\") recommande les actions suivantes pour soutenir la responsabilité des données dans le cadre de",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "l'AAP :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Mener des analyses de l’impact relative aux données",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Assurer la responsabilité des données par conception",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Développer des diagrams de la gestion des données",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Entretenir le registre de gestion de données",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Mettre en place des accords de partage des données",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "•\t Adopter des procédures de gestion des incidents liés aux données",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Mener des analyses de l’impact relative aux données",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Une analyse de l'impact relative aux données7 (AID) vise à déterminer les impacts anticipés d'une activité",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "de gestion des données et aide à identifier les recommandations permettant d'atténuer les impacts",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "négatifs potentiels. De nombreuses activités de gestion des données relatives à l'AAP impliquent la gestion",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "de données sensibles personnelles et non personnelles, ou impliquent l'utilisation de nouveaux outils",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "numériques. C'est pourquoi les organisations doivent effectuer une analyse de l'impact relative aux",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "données avant d'entamer une activité afin de déterminer si celle-ci est réalisable de manière responsable.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Assurer la responsabilité des données dès la conception",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "La responsabilité des données dès la conception signifie que l'on identifie les moyens de garantir une",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "gestion sécurisée, éthique et efficace des données. Toutes les mesures relatives à la responsabilité des",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "données doivent être énoncées dans une procédure opérationnelle standard (POS) claire et reproductible.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Cette procédure doit préciser les rôles et les responsabilités des parties prenantes, les outils et les",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "processus de gestion des données, les mesures visant à empêcher l'exposition de données sensibles et les",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "termes clairs relatifs à la conservation et à la destruction des données. En outre, elle doit préciser la finalité",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "de la gestion des données, y compris, mais sans s'y limiter, le consentement éclairé, et spécifier les mesures",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "à prendre pour faire respecter les droits des personnes concernées. Lors de l'élaboration d'une procédure",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "opérationnelle standard, il convient de consulter l'analyse de l'impact relative aux données pour l'activité",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "concernée afin d'élaborer des mesures d'atténuation des risques appropriées, réalisables et solides.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Développer des diagrammes de la gestion des données",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Un diagramme de la gestion des données permet de comprendre visuellement une activité et peut aider",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "à identifier les lacunes en matière de partage de données, de dispositions légales, d'infrastructures ou",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "d'orientations.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Entretenir le registre de gestion de données",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Un registre de gestion des données fournit un résumé des principales activités de gestion des données",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "menées par les différents acteurs dans le contexte de la réponse, y compris les données gérées dans le",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "cadre de ces activités. Le registre doit indiquer le niveau de sensibilité de chaque type de données et",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "s'aligner sur les classifications de sensibilité des données et des informations qui existent pour la réponse,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "le cas échéant.8 Il doit être mis à jour de façon continue par le mécanisme interagences concerné (par",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "exemple, le groupe de travail AAP).",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Étude de cas en Afghanistan: La responsabilité des données dans l’AAP",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Suite au décret des autorités de facto de décembre 2022 interdisant aux femmes afghanes de travailler",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Community Voices and Accountability Platform' afin d'aider les humanitaires à recueillir, analyser et",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Compte tenu de la sensibilité des données partagées sur la plateforme collective, le groupe de travail AAP",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "des plaintes et du feed-back reçus des communautés touchées est effectuée, et les principales conclusions",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Étude de cas en Syrie : Responsabilité des données dans la gestion du feedback des",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "communautés",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Le groupe de travail AAP a élaboré des diagrammes de gestion des données afin de guider l'extension de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Mettre en place des accords de partage des données",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Avant de partager des données personnelles ou très sensibles, les organisations doivent établir un",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "accord de partage des données (\"Data Sharing Agreement\", DSA). Cet accord définit les conditions qui",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "régissent le partage de données personnelles et de données non personnelles sensibles entre deux",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ou plusieurs parties. Vérifiez si le partage des données est soumis à un cadre spécifique en matière de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "protection des données (par exemple, si l'un des partenaires est soumis à une législation nationale). Dans",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ce cas, l’accord doit respecter les exigences prévues par le cadre applicable en matière de protection des",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "données, y compris les droits et les demandes des personnes concernées. Un accord n’est parfois pas",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "nécessaire si des clauses spécifiques sur le partage des données sont incluses dans des accords généraux,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "tels que des protocoles d'accord et des contrats de service.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Adopter des procédures de gestion des incidents liés aux données",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Les incidents liés aux activités dans le cadre de l'AAP comprennent l'exposition de données (\"violation de",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "données\") qui pourrait entraîner des rétorsions, la stigmatisation, la violence ou d'autres formes de nuisance",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "pour les personnes affectées, ainsi que l'utilisation abusive des données des personnes affectées à des fins",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "autres qu'humanitaires. La gestion des incidents liés aux données fait référence aux processus et aux outils",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "permettant d'identifier, de résoudre, de suivre et de communiquer sur les incidents liés aux données.9",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Il s'agit d'un élément clé de la gestion transparente et responsable des données, qui peut contribuer à",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "prévenir de futurs incidents. Les organisations doivent établir une procédure opérationnelle standard",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "pour la gestion des incidents liés aux données, ainsi qu'un registre pour assurer le suivi des incidents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "liés aux données et de leur traitement. Lorsque l'incident constitue une violation de données à caractère",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "personnel, les organisations doivent s'acquitter des obligations prévues par le règlement sur la protection",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "des données et par les accords de partage de données applicables. Ces obligations peuvent inclure la",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "fourniture d'informations sur la violation aux personnes dont les données personnelles ont été exposées.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "9    Pour plus d'informations sur la gestion des incidents liés aux données, voir: Note d'orientation sur la gestion des incidents liés aux données (2019).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Le Centro for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires clés,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Directives opérationnelles du IASC sur la Responsabilité des données dans l’action humanitaire (révisées en",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Les organisations sont encouragées à partager leur expérience en matière de promotion de la responsabilité",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "des données dans la conception et l'exécution des activités liées à l’AAP via centrehumdata@un.org.",
+      "page": 6
+    }
+  ]
+}

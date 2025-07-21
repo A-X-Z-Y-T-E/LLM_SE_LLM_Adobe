@@ -1,0 +1,1165 @@
+{
+  "title": "Notas de Orientación: Responsabilidad en El Manejo de Datos en Las Alianzas Público-Privadas",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "RESPONSABILIDAD EN EL MANEJO DE  DATOS EN",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "LAS ALIANZAS PÚBLICO-PRIVADAS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CONCLUSIONES FUNDAMENTALES:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Es habitual que las organizaciones humanitarias y el sector privado trabajen conjuntamente en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "iniciativas relacionadas con las tecnologías de la información y la comunicación (TIC) y datos. El",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tipo más común de alianzas público-privadas (APP) en este ámbito implica (i) ayudas financieras,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(ii) dotación tecnológica, (iii) apoyo de asesoramiento técnico en especia (iv) Desarrollo de",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tecnología conjunta y (v) intercambio de datos y colaboración.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t La responsabilidad en el manejo de datos supone el uso, seguro ético y efectivo de estos.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Los marcos de colaboración existentes con el sector privado se deberían aumentar teniendo en",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cuenta otras consideraciones y medidas prácticas para asegurar la gestión responsable de los",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "datos en aquellas alianzas enfocadas a las TIC y a los datos.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Los desafíos comunes relacionados con la gestión responsable de los datos en las APP incluyen:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(i) riesgo para la reputación, (ii) efectividad de la tecnología; (iii) sensibilidad de los datos y su",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "uso; (iv) incertidumbre sobre las nuevas fuentes de información, (v) propiedad intelectual y (vi)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "dependencia y deferencia. .",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "•\t Recommendations for improving data responsibility are to (i) develop shared goals, (ii) conduct",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "robust due diligence, (iii) perform a risk-benefit assessment, (iv) structure partnerships through",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "appropriate agreements and (v) design technology responsibly.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "ALIANZAS PÚBLICO-PRIVADAS EN LAS ACCIONES HUMANITARIAS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Es habitual que las organizaciones humanitarias y el sector privado trabajen conjuntamente en iniciativas",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "relacionadas con las tecnologías de la información y la comunicación (TIC)1 e información. Para los agentes",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "humanitarios, estas alianzas público-privadas (APP)2 ofrecen acceso a nuevas áreas de experiencia y",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "tecnologías que tienen el potencial necesario para mejorar la eficiencia y rapidez de sus respuestas. Para el",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sector privado, las alianzas humanitarias ofrecen acceso a nuevos mercados y contribuyen a conseguir los",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "objetivos de responsabilidad social empresarial, entre otros.3 Además de estos beneficios esperados, estas",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "alianzas presentan una cantidad de distintos riesgos relacionados con la gestión de los datos.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "TIPO DE ALIANZAS COMUNES RELACIONADAS CON LAS TIC Y LA INFORMACIÓN",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "La Iniciativa de Conexión Empresarial de la (iCE) de OCHA resume el estado de las APP como: “Pese a una",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "antigua tendencia de las agencias de cooperación de ver a las empresas como donantes potenciales, su",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "mayor contribución ha surgido en la forma de las nuevas tecnologías y otras innovaciones, así como  con",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "la distribución de conocimiento técnico. Todos los elementos de las acciones humanitarias, incluyendo las",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "transferencias monetarias, telecomunicación, logística se han transformado a medida que las empresas",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "han comenzado a implicarse.”7",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Ayuda financiera: La transferencia de fondos de una entidad privada a organizaciones humanitarias",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "para productos específicos, o el patrocinio directo del sector privado a eventos u otras actividades",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitarias.8",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Provisión de tecnología: El ofrecimiento gratuito o subvencionado (“pro-bono o low bono”) de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "equipos o softwares a las organizaciones humanitarias.9",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Asistencia en especie de asistencia técnica: Desplazamiento de expertos técnicos para ayudar a las",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "organizaciones humanitarias a hacer uso las TIC y la información de nueva manera.10",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Desarrollo de tecnologías conjuntas: Apoyo en especies del sector privado para conseguir el",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "desarrollo colaborativo de las ya comentadas soluciones TIC con las organizaciones humanitarias.11",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "•\t Colaboración público-privada de datos: Making privately held data or insights available to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "humanitarian organizations or as a public good.12",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4    En mayo de 2019, el centro para la información humanitaria, en colaboración con Wilton Park, convocóData Responsibility in Humanitarian Action:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Los actores de los sectores privados y públicos han tenido una serie de reuniones y eventos sobre este",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "tema, pero aún no han llegado a un consenso común sobre las necesidades de la responsabilidad en el",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "manejo de datos en las APP.4 Esta guía proporciona un resumen de los desafíos comunes que afrontan",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "las alianzas en lo que respecta a las TIC y los datos en el sector humanitario.5 También ofrece una serie de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "recomendaciones para ayudar a las organizaciones humanitarias y al sector privado a gestionar las TIC de",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "una manera más eficiente.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "“debemos reconocer que el sector privado está, en algunos casos, mucho más avanzado",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "y tiene más experiencia y es definitivamente más rápido en lo que respecta a estos temas.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Necesitamos el apoyo del sector privado para acelerar nuestro progreso y aprovechar las",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "nuevas fuentes de información. Esto es particularmente cierto cuando consideramos los",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "posibles riesgos que aparecerán con un aumento de la recopilación y divulgación de la",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "información.”",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "- Ursula Mueller, ex Subsecretaria General de Asuntos Humanitarios y Coordinadora Adjunta del Socorro de",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "BASE PARA LOS PRINCIPIOS DE LA ALIANZA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Una variedad de acuerdos promociona las alianzas de principios para la respuesta humanitaria (vea",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "siguiente lista) De igual modo , muchas organizaciones humanitarias han creado un proceso de evaluación",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "diligencias debidas antes  de establecer nuevas alianzas. Los siguientes marcos y principios son útiles para",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "citar mientras se examinan las futuras alianzas tecnológicas con el sector privado:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Asamblea de la secretaria general de las Naciones Unidas en Cooperación Digital",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Principios del Pacto Mundial de las Naciones Unidas",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Informe sobre el modelo de negocio Sostenible de las Iniciativas Big Data para el bien social de la",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "GSMA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Principios del fórum económico mundial en la cooperación Público-Privada con respecto a los",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "pagos Humanitarios en efectivo",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Fórum Económico mundial y Principios de OCHA para las Alianzas Público-privadas en las acciones",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "humanitarias",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•\t Guías del Secretario General de las Naciones Unidas en cooperación entre las Naciones Unidas y el",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "sector empresarial",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Estas medidas proporcionan una base sólida para desarrollar alianzas centradas en las TIC y la infor-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "mación. Sin embargo, pueden ser insuficientes en problemas específicamente relacionados con la respons-",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "abilidad en la gestión de los datos. Los requisitos para la gestión segura, ética y efectiva de la información",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "en las APP no se entienden bien y por eso no se mencionan en estos acuerdos.13",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "DESAFIOS RELACIONADOS CONLA RESPONSABILIDAD EN LA GESTIÓN DE LA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "INFORMACIÓN EN LAS ALIANZAS PÚBLICO-PRIVADA",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Los cinco tipos de alianzas identificadas anteriormente se caracterizan por padecer una serie de problemas",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "relacionados con la responsabilidad en la gestión de los datos. Estos seis desafíos son: riesgo reputacional,",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "tecnología inapropiada, sensibilidad de la información y su uso, incertidumbre sobre las nuevas fuentes de",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "información, propiedad intelectual y dependencia y respeto.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Cada desafío se basa en ejemplos reales de las APP en relación con las TIC o la información. Teniendo en",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "cuenta la sensibilidad de estos casos, los apartados siguientes describen los desafíos individuales en",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "términos generales. La matriz siguiente indica que desafíos son los que afrentan comúnmente las",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "organizaciones humanitarias, el sector privado, o ambos, en las alianzas anteriormente mencionadas.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "DESAFIOS RELACIONADOS CONLA RESPONSABILIDAD INFORMATIVA EN LAS ALIANZAS PÚBLICO-PRIVADA",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Ayuda financiera",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "RIESGO PARA LA REPUTACIÓN",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "El riesgo para la reputación puede surgir por distintas razones, entre ellas se debe tener en cuenta que la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "información delicada puede llegar a compartirse con terceros del sector privado o no haberse guardado",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "debidamente. Para los agentes humanitarios, el daño reputacional puede suceder si un socio del sector",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "privado está relacionado con algún tipo de violación de los derechos humanos en proyectos pasados o",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "si se cree que está utilizando su actuación en una alianza humanitaria para blanquear su imagen. Esto",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "puede conllevar a restricciones en el acceso a sectores afectados de la población como a una erosión de la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "confianza con estos, lo que podría afectar a la capacidad de la organización humanitaria para ayudar.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "TECNOLOGÍA INADECUADA",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La mayoría de las TIC existentes no cumplirían todos los requisitos de una situación de crisis. Los agentes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humanitarios pueden no tener la experiencia interna necesaria para determinar cuáles de las soluciones",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "es apropiada en cada contexto. Además, la información humanitaria puede ser insuficiente o incompleta",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "para la capacidad analítica que brindan las herramientas del sector privado. La incertidumbre que hay",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "con respecto a los requisitos para implementar y usar de manera efectiva una herramienta en concreto,",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "puede impedir que se realice una alianza con el sector privado. Otro problema que afecta a ambas partes es",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mantener un nivel adecuado de seguridad informativa para evitar daños y asegurar una protección sólida",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de los sistemas y la información involucrada en la alianza.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "SENSIBILIDAD INFORMATIVA Y SU USO",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Los socios del sector privado y las organizaciones humanitarias pueden tener diferentes puntos de vista",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "sobre la sensibilidad de la información que manejan. Los agentes humanitarios consideran la información",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "como sensible según la probabilidad y la gravedad de daño que la revelación o mal uso de esta pueda",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "causar a las personas relacionadas, al equipo humanitario o a la organización en cada situación.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Por ejemplo, la localización de centros de atención médica supone una información de gran sensibilidad",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en lugares con conflictos activos, mientras que en respuesta a desastres naturales esta información",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "es compartida públicamente.  Para el sector privado, la sensibilidad de la información depende de la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "naturaleza propietaria o del valor de la información.  Fracasar en establecer un marco de entendimiento",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "de la sensibilidad de la información y su uso responsable en las alianzas puede ocasionar que se revele la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "información de manera inadecuada, su uso  o incluso los objetivos específicos de la alianza.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "DESCONOCIMIENTO SOBRE LAS NUEVAS FUENTES DE INFORMACIÓN",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Las organizaciones humanitarias deben aliarse con el sector privado para acceder a un flujo de datos",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "nuevo, como los registros detallados de llamada, contenido de redes sociales y las imágenes de satélite de",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "alta resolución. Estos datos pueden usarse para crear información que resulte importante para el trabajo",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "humanitario, pero los agentes humanitarios tienen que esforzarse para formular preguntas claras o temas",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "que deben analizarse. Es posible que a los agentes humanitarios les falte la experiencia necesaria para",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "entender que ideas pueden facilitar estas fuentes de datos y como utilizarlas de manera responsable.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La escasa familiaridad con las fuentes de datos de los sectores privados y su uso potencial pueden hacer",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "dudar a los agentes humanitarios en lo que respecta a confiar en las ideas generadas por esos datos. De",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "igual modo, los socios del sector privado pueden no entender completamente los contextos humanitarios",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en los que se puede utilizar esa información. Todos estos desafíos pueden desencadenar en reticencia y",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "subutilización de los datos del sector privado.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PROPIEDAD INTELECTUAL",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Los problemas de la propiedad intelectual pueden crear tensión durante el diseño de una alianza, así como",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "al final de esta, si en un principio los derechos de cada parte no se definen claramente. En lo que respecta a",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "este sentido, el sector privado y las organizaciones humanitarias tienen distintos requisitos y expectativas",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "en , lo que podría dificultar una alianza efectiva y duradera.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "La difusión de información patentada y competitiva que ponga en riesgo el lugar en el mercado de la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "compañía es una preocupación común para el sector privado. Los problemas también aparecen sobre la",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "propiedad de aquella información humanitaria gestionada o generada durante la alianza, particularmente",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "cuando el agente del sector privado puede usar esa información para propósitos no relacionados con",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "la ayuda humanitaria (p.ej. sí un actor de un sector privado usa datos sobre gastos de hogar en un",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "campamento de refugiados para publicitar productos o servicios comerciales).",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "DEPENDENCIA Y DEFERENCIA",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "El poder diferencial entre las organizaciones humanitarias y sus socios del sector privado pueden crear",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "dependencia o deferencia a los expertos del sector privado en decisiones sobre el diseño y la puesta en",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "marcha de la alianza.  Esta dependencia es especialmente problemática en situaciones en las que los",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "socios de los sectores privados ofrecen productos TIC de manera gratuita o un precio muy bajo y luego",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "comienzan a cobrar una tarifa. El monopolio o la dependencia a una sola herramienta, servicio o agente",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "también puede desgastar la sostenibilidad y efectividad de las operaciones humanitarias.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Deferencia en los expertos del sector privado en aquellos temas relacionados con el tratamiento de los",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "beneficiarios u otra información sensible que puede llevar a una mayor exposición o riesgo del que pueden",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "aceptar las organizaciones humanitarias. Por ejemplo, los expertos técnicos del sector privado pueden",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ofrecer mayorganancias en la eficiencia y captación de ayuda mediante el uso de análisis avanzados de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "información, solicitando acceso a datos detallados del beneficiario. Los agentes humanitarios deben",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "intentar asegurar este acceso con una total compresión hacia las implicaciones (p.ej. la probabilidad tanto",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "de los beneficios esperados como de los riesgos relacionados).",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "RECOMENDACIONES PARA MEJORAR LA RESPONSABILIDAD INFORMATIVA EN",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "LAS ALIANZAS PÚBLICO-PRIVADAS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Los desafíos descritos anteriormente, pueden ocasionar reticencias produciendo una pérdida de",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "oportunidades para realizar una mejor respuesta humanitaria. El centro de Datos Humanitarios (El Centro) y",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "los colaboradores de este manual recomiendan que las organizaciones humanitarias y sus socios del sector",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "privado se centren en los siguientes ámbitos para mejorar la responsabilidad informativa en las APP:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1. Desarrollar metas comunes.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Cuando se diseña una alianza, ambas partes deben plantear las siguientes preguntas:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Qué problemas y áreas problemáticas deberíamos abordar juntos para solucionar una necesidad",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "humanitaria específica?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Cómo podemos crear un valor compartido?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Cómo podemos ser originales y hacer nota nuestra colaboración?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Qué trabajo existente puede apoyar nuestra alianza?",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "•\t ¿Qué capacidades y compromisos necesitamos de las distintas partes para conseguir estas metas?",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2. Llevar a cabo una sólida diligencia.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Las organizaciones humanitarias deben seguir un proceso14 de investigación para analizar las alianzas",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "pasadas y actuales de la compañía del sector privado, así como sus valores, reputación y afiliación.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Esto debe incluir el impacto de multas u otras medidas legales que la entidad privada haya enfrentado,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "afiliación con grupos que no siguen los principios humanitarios y otros factores que puedan resultar",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "dañinos.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "De esta manera, apoyándose en el marco existente y los procesos mencionados anteriormente, las",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "organizaciones pueden asegurarse de que las consideraciones claves para la responsabilidad",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "informativa estén incluidas en la práctica habitual de la debida diligencia. La transparencia con",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "respecto a los criterios y procesos de la debida diligencia pueden ayudar a prevenir el daño",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "reputacional ya que demuestra el compromiso de una revisión sólida de nuevas alianzas. Los sectores",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "privados también deben llevar a cabo las debidas diligencias en aquel momento en el que quieran",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "formar alianzas con organizaciones humanitarias.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3. Realizar una evaluación de riesgos y beneficios.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Los beneficios esperados y los posibles riesgos de una alianza deben definirse y equilibrarse entre sí.15",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "De este modo, será más fácil para las organizaciones humanitarias y el sector privado clarificar las",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "14  Vea por ejemplo el United Nations Global Pulse Due Diligence Tool for Working with Prospective Technology Partners.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "organizaciones humanitarias y el sector privado clarificar las expectativas y diseñar conjuntamente",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "las medidas que van a maximizar los beneficios y minimizar los riesgos. Comunicar públicamente",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "los resultados del análisis riesgos-beneficios puede ayudar a crear confianza y mejorar la percepción",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "pública de la alianza. Igualmente, es importante hablar sobre las maneras en las que la información",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "– especialmente la de los beneficiarios o aquella que sea sensible – va a ser gestionada en la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "colaboración.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4. Estructuración de la alianza mediante acuerdos adecuados.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "El nivel al que deben formalizarse las alianzas en lugar de mantener acuerdos informales y flexibles",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "a menudo no está claro ni se aplica de forma coherente en todos los compromisos. Crear un acuerdo",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "de alianza global (p.ej. mediante un memorándum de acuerdo), así como una mayor compartición",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "específica de datos o acuerdos de transmisión de datos puede ayudar aclarar las expectativas.16",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Cuando se formaliza el acuerdo general de la alianza, las partes deben consultar los designados",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "puntos focales legales, técnicos y de gestión del riesgo y considerar lo siguiente:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "a.   Objetivos generales de la alianza en términos concretos, con acuerdos relacionados (actividades,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "resultados y resultados claves) para ambas partes.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "b.   Restricción de la propiedad intelectual relacionada con el futuro uso de tecnología o ideas",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "desarrollas entre el agente humanitario y el socio del sector privado.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "c.   Responsabilidad mutua de la gestión de la información mediante una alianza, en la que se",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "incluyen las consideraciones de la información sensible, la seguridad de la información y la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "propiedad de esta. Así como, la retención o la destrucción de la información.17",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5. Diseñar tecnología de manera responsable.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Diseño colaborativo y reiterativo o adaptación de las tecnologías que puede ayudar a asegurar",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "que las herramientas y plataformas estén preparadas para su propósito en contextos distintos. Las",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "organizaciones deben permitir examinar y afinar las soluciones en ambientes seguros antes de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "llevarlos a cabo en campo. Además, donde sea conveniente deberían asegurar un acercamiento",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "dirigido al usuario para diseñar soluciones.18 Las herramientas se deben crear teniendo en mente la",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "privacidad y la protección de datos. Por último, posicionar este tipo de diseño responsable y sensible",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "a los valores19 como componente principal de la alianza puede llamar la atención, construir confianza",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "e incluso atraer inversiones adicionales.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Contacte al Centro en centrehumdata@un.org para compartir en este espacio casos de estudios de",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "alianzas exitosas.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "16  Para más información específica sobre los mecanismos de distribución de datos de alianzas, vea World Economic Forum report on Data Collaboration",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "INITIATIVE Y WILLIAM HOFFMAN DEL WORLD ECONOMIC FORUM. EL CENTRO AGRADECE A LEIDEN UNIVERSITY’S",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "CENTRE FOR INNOVATION Y A EL TILBURG INSTITUTE FOR LAW, TECHNOLOGY AND SOCIETY POR SU",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "El Centre Para Los Datos Humanitarios ('El Centro'), junto a sus principales colaboradores publica una serie de",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "la información. Mediante estos documentos, el Centro tiene como objetivo proporcionar ayuda adicional en",
+      "page": 7
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "title": "Impacts of Standard 90.1-2007 for Commercial Buildings at State Level - Oklahoma",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Impacts of Standard 90.1-2007",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Executive Summary",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "The Building Energy Codes Program (BECP) recently conducted a nationwide commercial energy code",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1 American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers/Illuminating",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "1.0 Introduction",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "This report describes the results of a nationwide commercial energy code analysis undertaken by the Building",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "2.0 Overview of Standard 90.1-2007",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Standard 90.1-2007 sets requirements for the cost-effective use of energy in commercial buildings.  Certain",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.  Standard 90.1-2007 Table of Contents",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "1 – Purpose",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Sub-section numbers are standardized across the requirements sections.  For example, sub-section 4 (x.4) is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3 Defined as the commercial energy code in effect on January 1, 2009, and referred to as the “base code”.  Exceptions to this definition",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 2.  Organization of Sub-Sections",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "x.1 – General",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "3.0 Comparison to Previous Versions of Standard 90.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The first Standard 90.1 was published in 1975, with revisions released in 1980, 1989, and 1999.  Standard 90.1",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1.  Climate Zones",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Some of the significant requirements in Standard 90.1-2007 include:",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.0 Energy Analysis Assumptions",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "An energy analysis was conducted comparing each state’s base code to Standard 90.1-2007.  The EnergyPlus",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "4.1 State Base Codes",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5 EnergyPlus is available and discussed in more detail at http://apps1.eere.energy.gov/buildings/energyplus/",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Benchmark Buildings",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "8 The Benchmark buildings are available at and discussed in more detail at",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "simulation assumes that the economizer high limit shutoff will be controlled by differential dry bulb",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Table 3.  Economizer Requirements in Standard 90.1-2004",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Climate",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "4.3 The 2003 IECC and Lighting Power Density",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Table 4.  Comparison of Lighting Power Density Requirements",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Standard/Code",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Standard 90.1.1989,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Standard 90.1-1999,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Standard 90.1-2004,",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The issue with the 2003 IECC is that it uses Standard 90.1-2001 as its reference standard.  The 2003 IECC",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "4.4 Selected Locations",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "State",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Impacts of Standard 90.1-2007",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Oklahoma",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Summary",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Main Differences Between the Current State Code and Standard 90.1-2007",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.  Comparison of Envelope Requirements (U-factors in Btu/hr.ft2.°F)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Climate Zone 3A",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Energy Analysis",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Oklahoma Energy End Use and Percentage Savings",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Building",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Prototype",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Nonresidential Oklahoma",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Residential",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Semiheated",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Nonresidential",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Impacts of Standard 90.1-2007 for",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Commercial Buildings at State Level",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "September 30, 2009",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Appendix A – Prototype Building Descriptions",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Table A-1:  Nonresidential Prototype Building Characteristics",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Characteristic",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "GENERAL",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "INTERNAL LOADS",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "HVAC",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "SERVICE WATER HEATER",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Table A-2:  Residential Prototype Building Characteristics",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Characteristic",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "GENERAL",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "INTERNAL LOADS",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "HVAC",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "SERVICE WATER HEATER",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Table A-3:  Semiheated Prototype Building Characteristics",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Characteristic",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "GENERAL",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "INTERNAL LOADS",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "HVAC",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "BUILDING ENERGY CODES PROGRAM",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Characteristic",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "SERVICE WATER HEATER",
+      "page": 24
+    }
+  ]
+}
