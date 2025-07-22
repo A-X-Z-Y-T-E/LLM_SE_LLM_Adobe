@@ -1,0 +1,1217 @@
+[
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b002",
+    "text": "березень 2024",
+    "bbox": [
+      35.7,
+      808.8,
+      93.9,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b003",
+    "text": "Вступ",
+    "bbox": [
+      35.8,
+      224.3,
+      78.5,
+      242.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b004",
+    "text": "Безпека даних є ключовим компонентом відповідальності за дані — безпечного, етичного та ефективного",
+    "bbox": [
+      35.8,
+      246.5,
+      554.8,
+      260.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b005",
+    "text": "управління даними для оперативного реагування. Це комплекс фізичних, технологічних і процедурних",
+    "bbox": [
+      35.8,
+      260.0,
+      538.0,
+      273.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b006",
+    "text": "заходів, які забезпечують конфіденційність, цілісність і доступність даних та запобігають їх випадковій або",
+    "bbox": [
+      35.8,
+      273.2,
+      557.0,
+      287.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b007",
+    "text": "навмисній, незаконній або іншій несанкціонованій втраті, знищенню, зміні, здобуттю або розкриттю.",
+    "bbox": [
+      35.8,
+      286.4,
+      530.1,
+      300.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b008",
+    "text": "У цьому пораднику пропонується низка рекомендованих заходів для забезпечення безпеки даних в",
+    "bbox": [
+      35.8,
+      312.8,
+      521.6,
+      326.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b009",
+    "text": "управлінні операційними даними. Ці заходи повинні здійснюватися згідно з відповідними інституційними",
+    "bbox": [
+      35.8,
+      326.0,
+      552.3,
+      339.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b010",
+    "text": "повноваженнями, положеннями та нормативно-правовою базою.",
+    "bbox": [
+      35.8,
+      339.2,
+      355.4,
+      353.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b011",
+    "text": "Практикуйте належне налаштування паролів",
+    "bbox": [
+      35.8,
+      367.5,
+      332.8,
+      386.0
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b012",
+    "text": "•\t Захищайте свої пристрої та облікові записи за допомогою надійних паролів, які включають цифри,",
+    "bbox": [
+      50.0,
+      391.0,
+      546.5,
+      404.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b013",
+    "text": "великі та малі літери, а також символи. У кожному паролі має бути щонайменше 16 знаків.",
+    "bbox": [
+      64.1,
+      404.2,
+      500.3,
+      418.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b014",
+    "text": "•\t Увімкніть багатофакторну автентифікацію для всіх облікових записів.",
+    "bbox": [
+      50.0,
+      424.2,
+      401.9,
+      438.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b015",
+    "text": "•\t Не використовуйте один і той самий пароль для кількох облікових записів.",
+    "bbox": [
+      50.0,
+      444.2,
+      426.1,
+      458.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b016",
+    "text": "•\t Не зберігайте свої паролі на фізичних (наприклад, на нотатках) або цифрових носіях (у файлі на",
+    "bbox": [
+      50.0,
+      464.2,
+      532.2,
+      478.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b017",
+    "text": "вашому пристрої) і не повідомляйте свій пароль іншим людям.",
+    "bbox": [
+      64.1,
+      477.4,
+      367.1,
+      491.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b018",
+    "text": "•\t Не використовуйте функцію \"Запам'ятати мене (Remember Me)\" в застосунках і браузерах.",
+    "bbox": [
+      50.0,
+      497.4,
+      501.7,
+      511.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b019",
+    "text": "•\t Негайно змінюйте паролі до своїх облікових записів у мережі інтернет, якщо ви загубили свій пристрій",
+    "bbox": [
+      50.0,
+      517.4,
+      564.7,
+      531.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b020",
+    "text": "або його було викрадено.",
+    "bbox": [
+      64.1,
+      530.6,
+      188.0,
+      544.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b021",
+    "text": "Використовуйте антивірусне/захисне програмне забезпечення",
+    "bbox": [
+      35.8,
+      558.9,
+      449.8,
+      577.4
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b022",
+    "text": "•\t Переконайтеся, що на ваших пристроях встановлено належне антивірусне/захисне програмне",
+    "bbox": [
+      50.0,
+      582.4,
+      526.6,
+      596.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b023",
+    "text": "забезпечення.",
+    "bbox": [
+      64.1,
+      595.6,
+      136.7,
+      609.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b024",
+    "text": "•\t Якщо у вас є питання про відповідні інструменти або про їх налаштування, зверніться до ІТ-спеціаліста",
+    "bbox": [
+      50.0,
+      615.6,
+      564.3,
+      629.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b025",
+    "text": "у вашому офісі.",
+    "bbox": [
+      64.1,
+      628.8,
+      138.3,
+      642.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b026",
+    "text": "Оновлюйте програмне забезпечення та операційні системи",
+    "bbox": [
+      35.8,
+      657.1,
+      426.0,
+      675.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b027",
+    "text": "•\t Регулярно перевіряйте, щоб ваш пристрій, програмне забезпечення, застосунки і плагіни для",
+    "bbox": [
+      50.0,
+      680.6,
+      522.1,
+      694.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b028",
+    "text": "браузерів були оновленими, та увімкніть автоматичне оновлення операційної системи.",
+    "bbox": [
+      64.1,
+      693.8,
+      487.9,
+      707.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b029",
+    "text": "•\t Використовуйте веббраузери, що отримують автоматичні оновлення безпеки, такі як Chrome або",
+    "bbox": [
+      50.0,
+      713.8,
+      539.6,
+      727.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b030",
+    "text": "Firefox.",
+    "bbox": [
+      64.1,
+      727.0,
+      97.9,
+      740.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b031",
+    "text": "•\t Вимикайте пристрої в кінці робочого дня, щоб забезпечити оновлення та захиститися від атак.",
+    "bbox": [
+      50.0,
+      747.0,
+      525.0,
+      760.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b032",
+    "text": "Порадник з питань безпеки даних в",
+    "bbox": [
+      34.9,
+      72.4,
+      467.4,
+      106.8
+    ],
+    "font_size": 26.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b033",
+    "text": "управлінні операційними даними",
+    "bbox": [
+      34.9,
+      100.4,
+      438.6,
+      134.8
+    ],
+    "font_size": 26.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b034",
+    "text": "березень 2024",
+    "bbox": [
+      36.3,
+      137.8,
+      154.6,
+      161.7
+    ],
+    "font_size": 18.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b035",
+    "text": "Переклад виконано CartONG завдяки підтримці CLEAR Global та Міністерства закордонних та європейських",
+    "bbox": [
+      35.0,
+      186.4,
+      555.6,
+      200.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 1,
+    "block_id": "275_p1_b036",
+    "text": "справ Франції.",
+    "bbox": [
+      35.0,
+      199.6,
+      105.4,
+      213.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b002",
+    "text": "березень 2024",
+    "bbox": [
+      35.7,
+      808.8,
+      93.9,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b003",
+    "text": "Уникайте фішингу і пильнуйте, куди ви переходите за посиланням",
+    "bbox": [
+      35.4,
+      22.2,
+      471.2,
+      40.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b004",
+    "text": "•\t Отримуючи підозрілі електронні листи або повідомлення, завжди перевіряйте адресу/контактну",
+    "bbox": [
+      49.6,
+      45.7,
+      536.3,
+      59.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b005",
+    "text": "інформацію відправника і переходьте за посиланнями або відкривайте вкладення лише, якщо ви",
+    "bbox": [
+      63.8,
+      58.9,
+      537.5,
+      72.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b006",
+    "text": "довіряєте відправнику.",
+    "bbox": [
+      63.8,
+      72.1,
+      175.6,
+      86.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b007",
+    "text": "•\t Не відповідайте на підозрілі електронні листи та не пересилайте їх колегам.",
+    "bbox": [
+      49.6,
+      92.1,
+      434.0,
+      106.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b008",
+    "text": "•\t Повідомляйте про підозрілу активність службі ІТ-підтримки.",
+    "bbox": [
+      49.6,
+      112.1,
+      355.1,
+      126.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b009",
+    "text": "Відповідально використовуйте мобільні пристрої",
+    "bbox": [
+      35.4,
+      137.4,
+      355.6,
+      156.0
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b010",
+    "text": "•\t За можливості використовуйте для роботи окремі пристрої. Завжди зберігайте робочі пристрої в",
+    "bbox": [
+      49.6,
+      160.9,
+      537.7,
+      174.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b011",
+    "text": "безпечному місці та не носіть їх з собою без потреби.",
+    "bbox": [
+      63.8,
+      174.1,
+      320.6,
+      188.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b012",
+    "text": "•\t Використовуйте схвалені організацією месенджери, що забезпечують наскрізне шифрування.",
+    "bbox": [
+      49.6,
+      194.1,
+      520.8,
+      208.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b013",
+    "text": "•\t За можливості вимикайте з'єднання Bluetooth і мінімізуйте його використання.",
+    "bbox": [
+      49.6,
+      214.1,
+      447.0,
+      228.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b014",
+    "text": "•\t Використовуйте схвалену організацією віртуальну приватну мережу (VPN), коли працюєте в Інтернеті.",
+    "bbox": [
+      49.6,
+      234.1,
+      560.6,
+      248.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b015",
+    "text": "Завжди виходьте зі своїх облікових записів, якщо користуєтеся загальнодоступним комп'ютером чи",
+    "bbox": [
+      63.8,
+      247.3,
+      549.5,
+      261.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b016",
+    "text": "пристроєм.",
+    "bbox": [
+      63.8,
+      260.5,
+      118.9,
+      274.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b017",
+    "text": "•\t Вимкніть функції біометричного розблокування, особливо під час подорожі.",
+    "bbox": [
+      49.6,
+      280.5,
+      435.0,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b018",
+    "text": "Захищайте конфіденційні дані та мінімізуйте використання даних",
+    "bbox": [
+      35.4,
+      304.0,
+      469.6,
+      322.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b019",
+    "text": "•\t Ведіть реєстр активів даних, в якому вказано рівень конфіденційності для кожного типу даних, якими",
+    "bbox": [
+      49.6,
+      327.3,
+      561.8,
+      341.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b020",
+    "text": "користується ваш офіс. Регулярно переглядайте рівні конфіденційності, оскільки умови змінюються.",
+    "bbox": [
+      63.8,
+      340.7,
+      553.3,
+      354.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b021",
+    "text": "•\t Збирайте лише мінімальний обсяг даних, необхідний для досягнення мети та виконання конкретних",
+    "bbox": [
+      49.6,
+      360.7,
+      554.8,
+      374.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b022",
+    "text": "завдань з управління даними.",
+    "bbox": [
+      63.8,
+      373.9,
+      209.2,
+      387.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b023",
+    "text": "•\t Зберігайте конфіденційні дані лише стільки, скільки необхідно для досягнення мети, для якої вони",
+    "bbox": [
+      49.6,
+      393.9,
+      545.7,
+      407.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b024",
+    "text": "обробляються, а також відповідно до вимог чинних інструкцій, законів та нормативних актів.",
+    "bbox": [
+      63.8,
+      407.1,
+      516.2,
+      421.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b025",
+    "text": "•\t Передавайте та зберігайте дані за допомогою інструментів і каналів, схвалених організацією",
+    "bbox": [
+      49.6,
+      427.1,
+      516.0,
+      441.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b026",
+    "text": "(локально на сервері, комп'ютері або ноутбуці організації; або на віддалених серверах і системах за",
+    "bbox": [
+      63.8,
+      440.3,
+      548.8,
+      454.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b027",
+    "text": "допомогою таких додатків, як OneDrive, SharePoint і Teams).",
+    "bbox": [
+      63.8,
+      453.5,
+      351.7,
+      467.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b028",
+    "text": "•\t Захищайте паролем файли (Word, Excel, PDF), що містять конфіденційні дані, та повідомляйте ці паролі",
+    "bbox": [
+      49.6,
+      473.5,
+      563.4,
+      487.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b029",
+    "text": "до документів через окремі канали (наприклад, відправляйте через месенджер пароль до документа,",
+    "bbox": [
+      63.8,
+      486.7,
+      557.8,
+      500.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b030",
+    "text": "надісланого електронною поштою).",
+    "bbox": [
+      63.8,
+      499.9,
+      238.1,
+      513.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b031",
+    "text": "•\t Обмежте та ретельно контролюйте кількість людей, які мають доступ до конфіденційних даних.",
+    "bbox": [
+      49.6,
+      519.9,
+      528.1,
+      533.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b032",
+    "text": "•\t Визначте графік зберігання та знищення всіх даних, якими користуєтеся, і застосовуйте відповідні",
+    "bbox": [
+      49.6,
+      539.9,
+      544.2,
+      553.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b033",
+    "text": "інструменти для знищення даних.",
+    "bbox": [
+      63.8,
+      553.1,
+      228.5,
+      567.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b034",
+    "text": "•\t Шифруйте ваші електронні повідомлення.",
+    "bbox": [
+      49.6,
+      573.1,
+      269.4,
+      587.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b035",
+    "text": "Ключові ресурси",
+    "bbox": [
+      49.4,
+      606.2,
+      158.7,
+      624.7
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b036",
+    "text": "•\t IASC Operational Guidance on Data Responsibility in Humanitarian Action [Операційний посібник",
+    "bbox": [
+      63.6,
+      629.4,
+      543.6,
+      643.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b037",
+    "text": "Міжвідомчого постійного комітету щодо відповідальності за дані в гуманітарній діяльності",
+    "bbox": [
+      77.8,
+      642.6,
+      531.0,
+      656.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b038",
+    "text": "англійською мовою]",
+    "bbox": [
+      77.8,
+      655.8,
+      178.5,
+      670.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b039",
+    "text": "•\t Guidance Note on Data Incident Management [Керівництво з реагування на інциденти, пов'язані",
+    "bbox": [
+      63.6,
+      675.8,
+      547.0,
+      690.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b040",
+    "text": "з використанням даних англійською мовою]",
+    "bbox": [
+      77.8,
+      689.0,
+      297.2,
+      703.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b041",
+    "text": "•\t Tip Sheet on the Responsible Use of Online Conferencing Tools [Порадник щодо відповідального",
+    "bbox": [
+      63.6,
+      709.0,
+      541.8,
+      723.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b042",
+    "text": "використання інструментів для онлайн-конференцій англійською мовою]",
+    "bbox": [
+      77.8,
+      722.2,
+      445.0,
+      736.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b043",
+    "text": "Щоб дізнатися більше про управління конфіденційними даними в гуманітарних операціях, відвідайте",
+    "bbox": [
+      36.0,
+      757.1,
+      530.7,
+      771.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b044",
+    "text": "сторінку Відповідальність за дані на вебсайті Центру або зв'яжіться з нашою командою за адресою:",
+    "bbox": [
+      36.0,
+      770.1,
+      524.4,
+      784.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "275",
+    "page_number": 2,
+    "block_id": "275_p2_b045",
+    "text": "centrehumdata@un.org.",
+    "bbox": [
+      36.0,
+      783.3,
+      152.0,
+      797.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  }
+]

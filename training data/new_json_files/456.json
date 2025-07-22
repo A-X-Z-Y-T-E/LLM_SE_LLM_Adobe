@@ -1,0 +1,5507 @@
+[
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b001",
+    "text": "11032",
+    "bbox": [
+      45.0,
+      33.8,
+      75.6,
+      44.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b002",
+    "text": "Federal Register / Vol. 69, No. 46 / Tuesday, March 9, 2004 / Notices",
+    "bbox": [
+      146.0,
+      34.6,
+      468.6,
+      44.5
+    ],
+    "font_size": 9.9,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b003",
+    "text": "and (10) the contact information of an",
+    "bbox": [
+      45.0,
+      60.3,
+      203.8,
+      69.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b004",
+    "text": "agency official familiar with the",
+    "bbox": [
+      45.0,
+      70.5,
+      179.3,
+      79.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b005",
+    "text": "proposal and the OMB Desk Officer for",
+    "bbox": [
+      45.0,
+      80.7,
+      208.3,
+      89.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b006",
+    "text": "the Department.",
+    "bbox": [
+      45.0,
+      90.9,
+      114.0,
+      99.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b007",
+    "text": "This notice also lists the following",
+    "bbox": [
+      54.0,
+      101.7,
+      198.8,
+      110.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b008",
+    "text": "information:",
+    "bbox": [
+      45.0,
+      111.9,
+      99.0,
+      120.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b009",
+    "text": "Title of Proposal: Request for",
+    "bbox": [
+      54.0,
+      122.7,
+      176.4,
+      131.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b010",
+    "text": "Construction Change.",
+    "bbox": [
+      45.0,
+      132.9,
+      136.5,
+      141.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b011",
+    "text": "OMB Approval Number: 2502–0011.",
+    "bbox": [
+      54.0,
+      143.7,
+      207.1,
+      152.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b012",
+    "text": "Form Numbers: HUD–92437, HUD–",
+    "bbox": [
+      231.0,
+      60.3,
+      378.8,
+      69.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b013",
+    "text": "92441, HUD–92442, HUD–92442–",
+    "bbox": [
+      222.0,
+      70.5,
+      363.0,
+      79.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b014",
+    "text": "A,HUD–92442–CA, HUD–92442–A–CA.",
+    "bbox": [
+      222.0,
+      80.7,
+      390.5,
+      89.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b015",
+    "text": "Description of the Need for the",
+    "bbox": [
+      231.0,
+      92.7,
+      360.5,
+      101.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b016",
+    "text": "Information and Its Proposed Use: This",
+    "bbox": [
+      222.0,
+      102.9,
+      387.1,
+      111.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b017",
+    "text": "is a request for reinstatement of the",
+    "bbox": [
+      222.0,
+      113.1,
+      369.7,
+      122.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b018",
+    "text": "approval to collect the subject",
+    "bbox": [
+      222.0,
+      123.3,
+      348.3,
+      132.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b019",
+    "text": "information. The information is",
+    "bbox": [
+      222.0,
+      133.5,
+      355.4,
+      142.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b020",
+    "text": "submitted by contractors and architects",
+    "bbox": [
+      222.0,
+      143.7,
+      387.3,
+      152.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b021",
+    "text": "through mortgagees/lenders to obtain",
+    "bbox": [
+      399.0,
+      60.3,
+      555.4,
+      69.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b022",
+    "text": "approval of proposed changes to",
+    "bbox": [
+      399.0,
+      70.5,
+      535.4,
+      79.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b023",
+    "text": "previously approved contract drawings",
+    "bbox": [
+      399.0,
+      80.7,
+      563.4,
+      89.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b024",
+    "text": "and/or specifications.",
+    "bbox": [
+      399.0,
+      90.9,
+      491.0,
+      99.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b025",
+    "text": "Respondents: Business or other for-",
+    "bbox": [
+      408.0,
+      101.7,
+      554.3,
+      110.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b026",
+    "text": "profit, Not-for-profit institutions.",
+    "bbox": [
+      399.0,
+      111.9,
+      537.4,
+      120.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b027",
+    "text": "Frequency of Submission: On",
+    "bbox": [
+      408.0,
+      122.7,
+      532.1,
+      131.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b028",
+    "text": "occasion.",
+    "bbox": [
+      399.0,
+      132.9,
+      440.0,
+      141.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b029",
+    "text": "Reporting Burden:",
+    "bbox": [
+      408.0,
+      143.7,
+      484.0,
+      152.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b030",
+    "text": "Number of respondents",
+    "bbox": [
+      58.4,
+      160.6,
+      145.1,
+      171.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b031",
+    "text": "Annual responses",
+    "bbox": [
+      187.7,
+      160.6,
+      254.4,
+      171.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b032",
+    "text": "Hours per response",
+    "bbox": [
+      330.2,
+      160.6,
+      403.6,
+      171.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b033",
+    "text": "Burden hours",
+    "bbox": [
+      487.4,
+      160.6,
+      538.1,
+      171.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b034",
+    "text": "900",
+    "bbox": [
+      94.1,
+      178.4,
+      109.7,
+      189.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b035",
+    "text": "4.6",
+    "bbox": [
+      360.2,
+      178.4,
+      373.6,
+      189.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b036",
+    "text": "20,700",
+    "bbox": [
+      499.4,
+      178.4,
+      526.1,
+      189.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b037",
+    "text": "Total Estimated Burden Hours:",
+    "bbox": [
+      54.0,
+      213.3,
+      184.9,
+      222.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b038",
+    "text": "20,700.",
+    "bbox": [
+      45.0,
+      223.5,
+      77.5,
+      232.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b039",
+    "text": "Status: Reinstatement, without",
+    "bbox": [
+      54.0,
+      233.8,
+      183.9,
+      242.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b040",
+    "text": "change, of previously approved",
+    "bbox": [
+      45.0,
+      244.0,
+      177.4,
+      253.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b041",
+    "text": "collection",
+    "bbox": [
+      45.0,
+      254.2,
+      86.0,
+      263.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b042",
+    "text": "Authority: Section 3507 of the Paperwork",
+    "bbox": [
+      53.0,
+      268.3,
+      208.5,
+      276.3
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b043",
+    "text": "Reduction Act of 1995, 44 U.S.C. 35, as",
+    "bbox": [
+      45.0,
+      277.7,
+      191.1,
+      285.7
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b044",
+    "text": "amended.",
+    "bbox": [
+      45.0,
+      287.1,
+      81.0,
+      295.1
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b045",
+    "text": "Dated: February 3, 2004.",
+    "bbox": [
+      53.0,
+      300.5,
+      145.0,
+      308.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b046",
+    "text": "Wayne Eddins,",
+    "bbox": [
+      45.0,
+      311.9,
+      103.2,
+      319.9
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b047",
+    "text": "Departmental Reports Management Officer,",
+    "bbox": [
+      45.0,
+      323.3,
+      206.0,
+      331.3
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b048",
+    "text": "Office of the Chief Information Officer.",
+    "bbox": [
+      45.0,
+      332.5,
+      185.2,
+      340.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b049",
+    "text": "[FR Doc. 04–5202 Filed 3–8–04; 8:45 am]",
+    "bbox": [
+      45.0,
+      343.5,
+      198.3,
+      351.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b050",
+    "text": "BILLING CODE 4210–72–P",
+    "bbox": [
+      45.0,
+      354.5,
+      122.3,
+      362.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b051",
+    "text": "DEPARTMENT OF HOUSING AND",
+    "bbox": [
+      45.0,
+      380.0,
+      191.4,
+      392.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b052",
+    "text": "URBAN DEVELOPMENT",
+    "bbox": [
+      45.0,
+      390.2,
+      151.0,
+      402.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b053",
+    "text": "[Docket No. FR–4800–FA–04]",
+    "bbox": [
+      45.0,
+      407.2,
+      157.9,
+      418.3
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b054",
+    "text": "Announcement of Funding Awards for",
+    "bbox": [
+      45.0,
+      424.6,
+      211.3,
+      437.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b055",
+    "text": "the Assisted Living Conversion",
+    "bbox": [
+      45.0,
+      434.8,
+      181.9,
+      447.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b056",
+    "text": "Program Fiscal Year 2003",
+    "bbox": [
+      45.0,
+      445.0,
+      154.4,
+      457.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b057",
+    "text": "AGENCY: Office of the Assistant",
+    "bbox": [
+      45.0,
+      461.3,
+      175.1,
+      473.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b058",
+    "text": "Secretary for Housing—Federal Housing",
+    "bbox": [
+      45.0,
+      474.4,
+      213.9,
+      483.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b059",
+    "text": "Commissioner, HUD.",
+    "bbox": [
+      45.0,
+      484.6,
+      132.5,
+      493.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b060",
+    "text": "ACTION: Notice of funding awards.",
+    "bbox": [
+      45.0,
+      494.0,
+      184.9,
+      506.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b061",
+    "text": "SUMMARY: In accordance with section",
+    "bbox": [
+      45.0,
+      512.0,
+      201.0,
+      524.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b062",
+    "text": "102 (a)(4)(C) of the Department of",
+    "bbox": [
+      45.0,
+      525.1,
+      185.8,
+      534.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b063",
+    "text": "Housing and Urban Development",
+    "bbox": [
+      45.0,
+      535.3,
+      185.4,
+      544.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b064",
+    "text": "Reform Act of 1989, this announcement",
+    "bbox": [
+      222.0,
+      213.3,
+      388.8,
+      222.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b065",
+    "text": "notifies the public of funding decisions",
+    "bbox": [
+      222.0,
+      223.5,
+      386.8,
+      232.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b066",
+    "text": "made by the Department in a",
+    "bbox": [
+      222.0,
+      233.7,
+      343.8,
+      242.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b067",
+    "text": "competition for funding under the",
+    "bbox": [
+      222.0,
+      243.9,
+      365.8,
+      252.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b068",
+    "text": "Super Notice of Funding Availability",
+    "bbox": [
+      222.0,
+      254.1,
+      377.8,
+      263.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b069",
+    "text": "(SuperNOFA) for the Assisted Living",
+    "bbox": [
+      222.0,
+      264.3,
+      377.3,
+      273.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b070",
+    "text": "Conversion Program. This",
+    "bbox": [
+      222.0,
+      274.5,
+      331.9,
+      283.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b071",
+    "text": "announcement contains the names of",
+    "bbox": [
+      222.0,
+      284.7,
+      378.3,
+      293.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b072",
+    "text": "the awardees and the amounts of the",
+    "bbox": [
+      222.0,
+      294.9,
+      375.7,
+      303.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b073",
+    "text": "awards made available by HUD.",
+    "bbox": [
+      222.0,
+      305.1,
+      353.8,
+      314.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b074",
+    "text": "FOR FURTHER INFORMATION CONTACT:",
+    "bbox": [
+      222.0,
+      315.2,
+      370.5,
+      327.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b075",
+    "text": "Willie Spearmon, Director, Office of",
+    "bbox": [
+      222.0,
+      328.3,
+      373.3,
+      337.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b076",
+    "text": "Housing Assistance and Grant",
+    "bbox": [
+      222.0,
+      338.5,
+      348.9,
+      347.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b077",
+    "text": "Administration, 451 7th Street, SW.,",
+    "bbox": [
+      222.0,
+      348.7,
+      374.8,
+      357.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b078",
+    "text": "Washington, DC 20410–8000; telephone",
+    "bbox": [
+      222.0,
+      358.9,
+      389.9,
+      367.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b079",
+    "text": "(202) 708–3000 (this is not a toll-free",
+    "bbox": [
+      222.0,
+      369.1,
+      376.3,
+      378.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b080",
+    "text": "number). Hearing- and speech-impaired",
+    "bbox": [
+      222.0,
+      379.3,
+      389.4,
+      388.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b081",
+    "text": "persons may access this number via",
+    "bbox": [
+      222.0,
+      389.5,
+      372.3,
+      398.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b082",
+    "text": "TTY by calling the Federal Relay",
+    "bbox": [
+      222.0,
+      399.7,
+      360.3,
+      408.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b083",
+    "text": "Service toll-free at 1–800–877–8339. For",
+    "bbox": [
+      222.0,
+      409.9,
+      391.4,
+      418.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b084",
+    "text": "general information on this and other",
+    "bbox": [
+      222.0,
+      420.1,
+      378.8,
+      429.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b085",
+    "text": "HUD programs, visit the HUD Web site",
+    "bbox": [
+      222.0,
+      430.3,
+      385.3,
+      439.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b086",
+    "text": "at http://www.hud.gov.",
+    "bbox": [
+      222.0,
+      440.5,
+      317.1,
+      449.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b087",
+    "text": "SUPPLEMENTARY INFORMATION: The",
+    "bbox": [
+      222.0,
+      450.6,
+      363.6,
+      463.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b088",
+    "text": "Assisted Living Conversion Program is",
+    "bbox": [
+      222.0,
+      463.7,
+      384.3,
+      472.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b089",
+    "text": "authorized by Section 202(b) of the",
+    "bbox": [
+      222.0,
+      473.9,
+      369.3,
+      482.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b090",
+    "text": "Housing Act of 1959 (12 U.S.C. 1701q–",
+    "bbox": [
+      222.0,
+      484.1,
+      382.8,
+      493.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b091",
+    "text": "2). The competition was announced in",
+    "bbox": [
+      222.0,
+      494.3,
+      383.8,
+      503.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b092",
+    "text": "the SuperNOFA published in the",
+    "bbox": [
+      222.0,
+      504.5,
+      361.3,
+      513.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b093",
+    "text": "Federal Register on April 25, 2003 (68",
+    "bbox": [
+      222.0,
+      514.7,
+      383.3,
+      523.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b094",
+    "text": "FR 21793). Applications were rated and",
+    "bbox": [
+      222.0,
+      524.9,
+      388.8,
+      533.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b095",
+    "text": "selected for funding on the basis of",
+    "bbox": [
+      222.0,
+      535.1,
+      368.7,
+      544.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b096",
+    "text": "selection criteria contained in that",
+    "bbox": [
+      399.0,
+      213.3,
+      543.3,
+      222.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b097",
+    "text": "Notice.",
+    "bbox": [
+      399.0,
+      223.5,
+      431.0,
+      232.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b098",
+    "text": "The Catalog of Federal Domestic",
+    "bbox": [
+      408.0,
+      235.7,
+      544.3,
+      244.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b099",
+    "text": "Assistance number for this program is",
+    "bbox": [
+      399.0,
+      245.9,
+      558.3,
+      254.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b100",
+    "text": "14.314.",
+    "bbox": [
+      399.0,
+      256.1,
+      431.5,
+      265.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b101",
+    "text": "The Assisted Living Conversion",
+    "bbox": [
+      408.0,
+      268.3,
+      542.4,
+      277.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b102",
+    "text": "Program is designed to provide funds to",
+    "bbox": [
+      399.0,
+      278.5,
+      566.3,
+      287.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b103",
+    "text": "private nonprofit owners to convert",
+    "bbox": [
+      399.0,
+      288.7,
+      548.3,
+      297.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b104",
+    "text": "their projects (that is, projects funded",
+    "bbox": [
+      399.0,
+      298.9,
+      556.3,
+      307.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b105",
+    "text": "under Section 202, Section 8 project-",
+    "bbox": [
+      399.0,
+      309.1,
+      551.8,
+      318.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b106",
+    "text": "based (including Rural Housing",
+    "bbox": [
+      399.0,
+      319.3,
+      532.4,
+      328.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b107",
+    "text": "Services’ Section 515), Section 221(d)(3)",
+    "bbox": [
+      399.0,
+      329.5,
+      568.3,
+      338.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b108",
+    "text": "BMIR, Section 236, and unused and",
+    "bbox": [
+      399.0,
+      339.7,
+      549.8,
+      348.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b109",
+    "text": "underutilized commercial properties) to",
+    "bbox": [
+      399.0,
+      349.9,
+      566.9,
+      358.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b110",
+    "text": "assisted living facilities. Grant funds are",
+    "bbox": [
+      399.0,
+      360.1,
+      567.3,
+      369.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b111",
+    "text": "used to convert the units and related",
+    "bbox": [
+      399.0,
+      370.3,
+      552.8,
+      379.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b112",
+    "text": "space for the assisted living facility.",
+    "bbox": [
+      399.0,
+      380.5,
+      549.3,
+      389.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b113",
+    "text": "A total of $15,371,991 was awarded to",
+    "bbox": [
+      408.0,
+      392.7,
+      568.3,
+      401.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b114",
+    "text": "nine projects for 178 units nationwide.",
+    "bbox": [
+      399.0,
+      402.9,
+      561.8,
+      411.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b115",
+    "text": "In accordance with section 102(a)(4)(C)",
+    "bbox": [
+      399.0,
+      413.1,
+      563.3,
+      422.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b116",
+    "text": "of the Department of Housing and Urban",
+    "bbox": [
+      399.0,
+      423.3,
+      569.3,
+      432.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b117",
+    "text": "Development Reform Act of 1989 (103",
+    "bbox": [
+      399.0,
+      433.5,
+      559.3,
+      442.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b118",
+    "text": "Stat. 1987. 42 U.S.C. 3545), the",
+    "bbox": [
+      399.0,
+      443.7,
+      529.4,
+      452.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b119",
+    "text": "Department is publishing the grantees",
+    "bbox": [
+      399.0,
+      453.9,
+      558.3,
+      462.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b120",
+    "text": "and amounts of the awards in Appendix",
+    "bbox": [
+      399.0,
+      464.1,
+      567.8,
+      473.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b121",
+    "text": "A of this document.",
+    "bbox": [
+      399.0,
+      474.3,
+      480.9,
+      483.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b122",
+    "text": "Dated: February 19, 2004.",
+    "bbox": [
+      407.0,
+      488.4,
+      503.4,
+      496.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b123",
+    "text": "John C. Weicher,",
+    "bbox": [
+      399.0,
+      499.8,
+      463.9,
+      507.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b124",
+    "text": "Assistant Secretary for Housing-Federal",
+    "bbox": [
+      399.0,
+      511.2,
+      545.9,
+      519.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b125",
+    "text": "Housing Commissioner.",
+    "bbox": [
+      399.0,
+      520.4,
+      486.1,
+      528.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b126",
+    "text": "Appendix A",
+    "bbox": [
+      399.0,
+      535.1,
+      450.0,
+      544.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b127",
+    "text": "FY2003 GRANTEES FOR THE ASSISTED LIVING CONVERSION PROGRAM",
+    "bbox": [
+      154.6,
+      549.0,
+      460.2,
+      562.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b128",
+    "text": "Grantees",
+    "bbox": [
+      251.8,
+      570.4,
+      286.9,
+      581.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b129",
+    "text": "Amount",
+    "bbox": [
+      519.6,
+      570.4,
+      549.4,
+      581.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b130",
+    "text": "Lutheran Senior, 1201 N. Harrison St., Wilmington, DE 19806 ...................................................................................................",
+    "bbox": [
+      45.3,
+      588.2,
+      491.5,
+      599.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b131",
+    "text": "$2,709,721.00",
+    "bbox": [
+      515.8,
+      588.2,
+      569.2,
+      599.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b132",
+    "text": "Immanuel House, 15 Woodland Street, Hartford, CT 06105 ........................................................................................................",
+    "bbox": [
+      45.3,
+      597.6,
+      491.5,
+      608.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b133",
+    "text": "408,850.00",
+    "bbox": [
+      527.0,
+      597.6,
+      569.2,
+      608.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b134",
+    "text": "The Bernardine, 700 East Brighton, Syracuse, NY 13205 ...........................................................................................................",
+    "bbox": [
+      45.3,
+      607.0,
+      491.5,
+      618.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b135",
+    "text": "1,087,987.00",
+    "bbox": [
+      520.3,
+      607.0,
+      569.2,
+      618.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b136",
+    "text": "Allamakee Housing Inc., 607 2nd St. SW, Waukon, IA 52172 .....................................................................................................",
+    "bbox": [
+      45.3,
+      616.4,
+      491.5,
+      627.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b137",
+    "text": "1,217,714.00",
+    "bbox": [
+      520.3,
+      616.4,
+      569.2,
+      627.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b138",
+    "text": "Mercy Manor Inc., 334 Golf View Drive, Albany, MN 56307 ........................................................................................................",
+    "bbox": [
+      45.3,
+      625.8,
+      491.5,
+      636.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b139",
+    "text": "1,169,465.00",
+    "bbox": [
+      520.3,
+      625.8,
+      567.0,
+      636.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b140",
+    "text": "New Hope Volunteers, 1660 Duke Street, Alexandria, VA 22314 ................................................................................................",
+    "bbox": [
+      45.3,
+      635.2,
+      491.5,
+      646.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b141",
+    "text": "1,568,208.00",
+    "bbox": [
+      520.3,
+      635.2,
+      569.2,
+      646.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b142",
+    "text": "Kivel Manor, 3020 North 36th Street, Phoenix, AZ 85018 ...........................................................................................................",
+    "bbox": [
+      45.3,
+      644.6,
+      491.5,
+      655.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b143",
+    "text": "3,540,574.00",
+    "bbox": [
+      520.3,
+      644.6,
+      569.2,
+      655.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b144",
+    "text": "Menorah Plaza Housing, 4925 Minnetonka Blvd, St. Louis Park, MN 55416 ..............................................................................",
+    "bbox": [
+      45.3,
+      654.0,
+      491.5,
+      665.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b145",
+    "text": "1,391,850.00",
+    "bbox": [
+      520.3,
+      654.0,
+      569.2,
+      665.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b146",
+    "text": "Jewish Apartments, 15100 West Ten Mile, Oak Park, MI 48237 .................................................................................................",
+    "bbox": [
+      45.3,
+      663.4,
+      491.4,
+      674.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b147",
+    "text": "2,277,622.00",
+    "bbox": [
+      520.3,
+      663.4,
+      569.2,
+      674.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b148",
+    "text": "VerDate jul<14>2003",
+    "bbox": [
+      25.0,
+      765.0,
+      88.2,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b149",
+    "text": "17:59 Mar 08, 2004",
+    "bbox": [
+      95.2,
+      765.0,
+      151.6,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b150",
+    "text": "Jkt 200001",
+    "bbox": [
+      158.6,
+      765.0,
+      190.4,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b151",
+    "text": "PO 00000",
+    "bbox": [
+      197.4,
+      765.0,
+      226.7,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b152",
+    "text": "Frm 00061",
+    "bbox": [
+      233.7,
+      765.0,
+      265.1,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b153",
+    "text": "Fmt 4703",
+    "bbox": [
+      272.1,
+      765.0,
+      299.6,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b154",
+    "text": "Sfmt 4703",
+    "bbox": [
+      306.6,
+      765.0,
+      336.2,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b155",
+    "text": "E:\\FR\\FM\\09MRN1.SGM",
+    "bbox": [
+      343.2,
+      765.0,
+      415.0,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 1,
+    "block_id": "456_p1_b156",
+    "text": "09MRN1",
+    "bbox": [
+      422.0,
+      765.0,
+      447.7,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b001",
+    "text": "11033",
+    "bbox": [
+      536.4,
+      33.8,
+      567.0,
+      44.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b002",
+    "text": "Federal Register / Vol. 69, No. 46 / Tuesday, March 9, 2004 / Notices",
+    "bbox": [
+      146.0,
+      34.6,
+      468.6,
+      44.5
+    ],
+    "font_size": 9.9,
+    "font_name": "Melior-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b003",
+    "text": "[FR Doc. 04–5200 Filed 3–8–04; 8:45 am]",
+    "bbox": [
+      45.0,
+      61.0,
+      198.3,
+      69.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b004",
+    "text": "BILLING CODE 4210–27–P",
+    "bbox": [
+      45.0,
+      71.4,
+      122.3,
+      79.6
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b005",
+    "text": "DEPARTMENT OF HOUSING AND",
+    "bbox": [
+      45.0,
+      96.3,
+      191.4,
+      108.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b006",
+    "text": "URBAN DEVELOPMENT",
+    "bbox": [
+      45.0,
+      106.2,
+      151.0,
+      118.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b007",
+    "text": "[Docket No. FR–4922–N–01]",
+    "bbox": [
+      45.0,
+      121.6,
+      153.0,
+      132.7
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b008",
+    "text": "Privacy Act of 1974; Notice of",
+    "bbox": [
+      45.0,
+      138.4,
+      173.8,
+      150.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b009",
+    "text": "Matching Program: Matching Tenant",
+    "bbox": [
+      45.0,
+      148.3,
+      203.4,
+      160.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b010",
+    "text": "Data in Assisted Housing Programs",
+    "bbox": [
+      45.0,
+      158.2,
+      197.9,
+      170.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b011",
+    "text": "AGENCY: Office of the Chief Information",
+    "bbox": [
+      45.0,
+      173.4,
+      210.6,
+      185.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b012",
+    "text": "Officer, HUD.",
+    "bbox": [
+      45.0,
+      186.2,
+      101.5,
+      195.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b013",
+    "text": "ACTION: Notice of a computer matching",
+    "bbox": [
+      45.0,
+      194.5,
+      207.9,
+      206.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b014",
+    "text": "program between the Department of",
+    "bbox": [
+      45.0,
+      207.3,
+      195.8,
+      216.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b015",
+    "text": "Housing and Urban Development (HUD)",
+    "bbox": [
+      45.0,
+      217.2,
+      214.3,
+      226.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b016",
+    "text": "and the Social Security Administration",
+    "bbox": [
+      45.0,
+      227.1,
+      209.3,
+      236.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b017",
+    "text": "(SSA) and the Internal Revenue Service",
+    "bbox": [
+      45.0,
+      237.0,
+      210.8,
+      246.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b018",
+    "text": "(IRS).",
+    "bbox": [
+      45.0,
+      246.9,
+      70.5,
+      255.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b019",
+    "text": "SUMMARY: Pursuant to the Computer",
+    "bbox": [
+      45.0,
+      260.3,
+      196.5,
+      272.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b020",
+    "text": "Matching and Privacy Protection Act of",
+    "bbox": [
+      45.0,
+      273.1,
+      210.3,
+      282.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b021",
+    "text": "1988, as amended, and the Office of",
+    "bbox": [
+      45.0,
+      283.1,
+      195.3,
+      292.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b022",
+    "text": "Management and Budget’s (OMB)",
+    "bbox": [
+      45.0,
+      293.1,
+      186.4,
+      302.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b023",
+    "text": "Guidance on the statute, HUD is",
+    "bbox": [
+      45.0,
+      303.1,
+      180.3,
+      312.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b024",
+    "text": "updating its notice of a matching",
+    "bbox": [
+      45.0,
+      313.1,
+      183.3,
+      322.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b025",
+    "text": "program involving comparisons",
+    "bbox": [
+      45.0,
+      323.1,
+      178.9,
+      332.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b026",
+    "text": "between income data provided by",
+    "bbox": [
+      45.0,
+      333.1,
+      187.4,
+      342.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b027",
+    "text": "applicants or participants in HUD’s",
+    "bbox": [
+      45.0,
+      343.1,
+      193.8,
+      352.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b028",
+    "text": "assisted housing programs and",
+    "bbox": [
+      45.0,
+      353.1,
+      174.4,
+      362.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b029",
+    "text": "independent sources of income",
+    "bbox": [
+      45.0,
+      363.1,
+      176.9,
+      372.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b030",
+    "text": "information. The matching program will",
+    "bbox": [
+      45.0,
+      373.1,
+      214.3,
+      382.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b031",
+    "text": "be carried out to detect inappropriate",
+    "bbox": [
+      45.0,
+      383.1,
+      201.3,
+      392.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b032",
+    "text": "(excessive or insufficient) housing",
+    "bbox": [
+      45.0,
+      393.1,
+      188.9,
+      402.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b033",
+    "text": "assistance under the National Housing",
+    "bbox": [
+      45.0,
+      403.1,
+      206.3,
+      412.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b034",
+    "text": "Act, the United States Housing Act of",
+    "bbox": [
+      45.0,
+      413.1,
+      202.2,
+      422.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b035",
+    "text": "1937, section 101 of the Housing and",
+    "bbox": [
+      45.0,
+      423.1,
+      200.3,
+      432.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b036",
+    "text": "Community Development Act of 1965,",
+    "bbox": [
+      45.0,
+      433.1,
+      206.4,
+      442.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b037",
+    "text": "the Native American Housing",
+    "bbox": [
+      45.0,
+      443.1,
+      169.9,
+      452.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b038",
+    "text": "Assistance and Self-Determination Act",
+    "bbox": [
+      45.0,
+      453.1,
+      207.3,
+      462.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b039",
+    "text": "of 1996, and the Quality Housing and",
+    "bbox": [
+      45.0,
+      463.1,
+      202.3,
+      472.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b040",
+    "text": "Work Responsibility Act of 1998. The",
+    "bbox": [
+      45.0,
+      473.1,
+      202.8,
+      482.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b041",
+    "text": "program provides for the verification of",
+    "bbox": [
+      45.0,
+      483.1,
+      210.3,
+      492.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b042",
+    "text": "the matching results and the initiation",
+    "bbox": [
+      45.0,
+      493.1,
+      205.8,
+      502.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b043",
+    "text": "of appropriate administrative or legal",
+    "bbox": [
+      45.0,
+      503.1,
+      201.3,
+      512.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b044",
+    "text": "actions, primarily through public",
+    "bbox": [
+      45.0,
+      513.1,
+      184.9,
+      522.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b045",
+    "text": "housing agencies (HAs) and owners and",
+    "bbox": [
+      45.0,
+      523.1,
+      212.8,
+      532.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b046",
+    "text": "agents (all collectively referred to as",
+    "bbox": [
+      45.0,
+      533.1,
+      196.3,
+      542.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b047",
+    "text": "POAs). Indian tribes and tribally",
+    "bbox": [
+      45.0,
+      543.1,
+      181.8,
+      552.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b048",
+    "text": "designated housing entities (TDHEs) are",
+    "bbox": [
+      45.0,
+      553.1,
+      212.8,
+      562.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b049",
+    "text": "not a mandatory component of the",
+    "bbox": [
+      45.0,
+      563.1,
+      189.8,
+      572.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b050",
+    "text": "computer matching program.",
+    "bbox": [
+      45.0,
+      573.1,
+      167.4,
+      582.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b051",
+    "text": "Participation by Indian tribes and",
+    "bbox": [
+      45.0,
+      583.1,
+      186.3,
+      592.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b052",
+    "text": "TDHEs is discretionary; however, they",
+    "bbox": [
+      45.0,
+      593.1,
+      206.3,
+      602.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b053",
+    "text": "may receive and use social security and",
+    "bbox": [
+      45.0,
+      603.1,
+      211.3,
+      612.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b054",
+    "text": "supplemental security income matching",
+    "bbox": [
+      45.0,
+      613.1,
+      213.4,
+      622.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b055",
+    "text": "information provided by HUD.",
+    "bbox": [
+      45.0,
+      623.1,
+      174.4,
+      632.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b056",
+    "text": "This notice provides an overview of",
+    "bbox": [
+      54.0,
+      632.3,
+      204.8,
+      641.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b057",
+    "text": "computer matching for HUD’s assisted",
+    "bbox": [
+      45.0,
+      642.3,
+      206.3,
+      651.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b058",
+    "text": "housing programs. Specifically, the",
+    "bbox": [
+      45.0,
+      652.3,
+      193.4,
+      661.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b059",
+    "text": "notice describes HUD’s program for",
+    "bbox": [
+      45.0,
+      662.3,
+      194.3,
+      671.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b060",
+    "text": "computer matching of its tenant data to:",
+    "bbox": [
+      45.0,
+      672.3,
+      212.2,
+      681.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b061",
+    "text": "(a) The SSA’s earned income and the",
+    "bbox": [
+      45.0,
+      682.3,
+      200.3,
+      691.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b062",
+    "text": "IRS’s unearned income data, (b) SSA’s",
+    "bbox": [
+      45.0,
+      692.3,
+      205.8,
+      701.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b063",
+    "text": "wage, social security, supplemental",
+    "bbox": [
+      45.0,
+      702.3,
+      194.4,
+      711.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b064",
+    "text": "security income and special veterans",
+    "bbox": [
+      45.0,
+      712.3,
+      199.8,
+      721.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b065",
+    "text": "benefits data, (c) State Wage Information",
+    "bbox": [
+      45.0,
+      722.3,
+      214.8,
+      731.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b066",
+    "text": "Collection Agencies’ (SWICAs’) wage",
+    "bbox": [
+      45.0,
+      732.3,
+      201.4,
+      741.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b067",
+    "text": "and unemployment benefit claim",
+    "bbox": [
+      222.0,
+      60.3,
+      361.9,
+      69.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b068",
+    "text": "information, and (d) the Office of",
+    "bbox": [
+      222.0,
+      70.2,
+      361.3,
+      79.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b069",
+    "text": "Personnel Management’s (OPM)",
+    "bbox": [
+      222.0,
+      80.1,
+      356.9,
+      89.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b070",
+    "text": "personnel data.",
+    "bbox": [
+      222.0,
+      90.0,
+      285.5,
+      99.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b071",
+    "text": "DATES: Effective Date: Computer",
+    "bbox": [
+      222.0,
+      98.3,
+      357.3,
+      110.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b072",
+    "text": "matching is expected to begin on April",
+    "bbox": [
+      222.0,
+      111.1,
+      384.8,
+      120.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b073",
+    "text": "8, 2004, unless comments are received",
+    "bbox": [
+      222.0,
+      121.1,
+      383.3,
+      130.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b074",
+    "text": "which will result in a contrary",
+    "bbox": [
+      222.0,
+      131.1,
+      350.3,
+      140.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b075",
+    "text": "determination, or 40 days from the date",
+    "bbox": [
+      222.0,
+      141.1,
+      387.8,
+      150.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b076",
+    "text": "a computer matching agreement is",
+    "bbox": [
+      222.0,
+      151.1,
+      366.3,
+      160.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b077",
+    "text": "signed, whichever is later.",
+    "bbox": [
+      222.0,
+      161.1,
+      332.9,
+      170.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b078",
+    "text": "Comments Due Date: April 8, 2004.",
+    "bbox": [
+      231.0,
+      170.3,
+      377.3,
+      179.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b079",
+    "text": "ADDRESSES: Interested persons are",
+    "bbox": [
+      222.0,
+      178.6,
+      365.2,
+      191.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b080",
+    "text": "invited to submit comments regarding",
+    "bbox": [
+      222.0,
+      191.5,
+      381.8,
+      200.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b081",
+    "text": "this notice to the Rules Docket Clerk,",
+    "bbox": [
+      222.0,
+      201.5,
+      377.3,
+      210.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b082",
+    "text": "Office of General Counsel, Room 10276,",
+    "bbox": [
+      222.0,
+      211.5,
+      389.3,
+      220.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b083",
+    "text": "Department of Housing and Urban",
+    "bbox": [
+      222.0,
+      221.5,
+      366.3,
+      230.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b084",
+    "text": "Development, 451 Seventh Street, SW.,",
+    "bbox": [
+      222.0,
+      231.5,
+      386.4,
+      240.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b085",
+    "text": "Washington, DC 20410–0500.",
+    "bbox": [
+      222.0,
+      241.5,
+      346.5,
+      250.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b086",
+    "text": "Communications should refer to the",
+    "bbox": [
+      222.0,
+      251.5,
+      373.3,
+      260.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b087",
+    "text": "above docket number and title.",
+    "bbox": [
+      222.0,
+      261.5,
+      352.4,
+      270.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b088",
+    "text": "Facsimile (FAX) comments are not",
+    "bbox": [
+      222.0,
+      271.5,
+      367.8,
+      280.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b089",
+    "text": "acceptable. A copy of each",
+    "bbox": [
+      222.0,
+      281.5,
+      334.4,
+      290.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b090",
+    "text": "communication submitted will be",
+    "bbox": [
+      222.0,
+      291.5,
+      364.4,
+      300.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b091",
+    "text": "available for public inspection and",
+    "bbox": [
+      222.0,
+      301.5,
+      368.3,
+      310.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b092",
+    "text": "copying between 7:30 a.m. and 5:30",
+    "bbox": [
+      222.0,
+      311.5,
+      372.3,
+      320.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b093",
+    "text": "p.m. weekdays at the above address.",
+    "bbox": [
+      222.0,
+      321.5,
+      371.8,
+      330.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b094",
+    "text": "FOR FURTHER INFORMATION CONTACT: For",
+    "bbox": [
+      222.0,
+      329.8,
+      386.8,
+      342.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b095",
+    "text": "Privacy Act: Jeanette Smith,",
+    "bbox": [
+      222.0,
+      342.7,
+      339.4,
+      351.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b096",
+    "text": "Departmental Privacy Act Officer, Room",
+    "bbox": [
+      222.0,
+      352.7,
+      390.8,
+      361.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b097",
+    "text": "P8001, Department of Housing and",
+    "bbox": [
+      222.0,
+      362.7,
+      368.9,
+      371.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b098",
+    "text": "Urban Development, 451 Seventh Street,",
+    "bbox": [
+      222.0,
+      372.7,
+      392.4,
+      381.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b099",
+    "text": "SW., Washington, DC 20410, telephone",
+    "bbox": [
+      222.0,
+      382.7,
+      386.9,
+      391.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b100",
+    "text": "number (202) 708–2374. A",
+    "bbox": [
+      222.0,
+      392.7,
+      334.4,
+      401.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b101",
+    "text": "telecommunications device for hearing-",
+    "bbox": [
+      222.0,
+      402.7,
+      388.4,
+      411.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b102",
+    "text": "and speech-impaired individuals (TTY)",
+    "bbox": [
+      222.0,
+      412.7,
+      388.4,
+      421.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b103",
+    "text": "is available at 1–800–877–8339 (Federal",
+    "bbox": [
+      222.0,
+      422.7,
+      389.9,
+      431.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b104",
+    "text": "Information Relay Service).",
+    "bbox": [
+      222.0,
+      432.7,
+      337.4,
+      441.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b105",
+    "text": "For further information from recipient",
+    "bbox": [
+      231.0,
+      441.9,
+      391.0,
+      450.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b106",
+    "text": "agency: Elking Tarver, Project Manager,",
+    "bbox": [
+      222.0,
+      451.9,
+      388.0,
+      460.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b107",
+    "text": "Tenant Assessment Sub-System, Real",
+    "bbox": [
+      222.0,
+      461.9,
+      378.9,
+      470.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b108",
+    "text": "Estate Assessment Center, Department",
+    "bbox": [
+      222.0,
+      471.9,
+      382.9,
+      480.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b109",
+    "text": "of Housing and Urban Development,",
+    "bbox": [
+      222.0,
+      481.9,
+      375.4,
+      490.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b110",
+    "text": "1280 Maryland Avenue, SW., Suite 800,",
+    "bbox": [
+      222.0,
+      491.9,
+      389.8,
+      500.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b111",
+    "text": "Washington, DC 20024–2635, telephone",
+    "bbox": [
+      222.0,
+      501.9,
+      389.9,
+      510.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b112",
+    "text": "number (202) 708–4932, extension 3235.",
+    "bbox": [
+      222.0,
+      511.9,
+      389.9,
+      520.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b113",
+    "text": "SUPPLEMENTARY INFORMATION: This",
+    "bbox": [
+      222.0,
+      520.2,
+      366.1,
+      532.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b114",
+    "text": "notice supersedes a similar notice",
+    "bbox": [
+      222.0,
+      533.1,
+      364.3,
+      542.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b115",
+    "text": "published in the Federal Register on",
+    "bbox": [
+      222.0,
+      543.1,
+      376.3,
+      552.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b116",
+    "text": "May 5, 2003 (68 FR 23753). Since that",
+    "bbox": [
+      222.0,
+      553.1,
+      381.3,
+      562.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b117",
+    "text": "time, the matching program has been",
+    "bbox": [
+      222.0,
+      563.1,
+      377.3,
+      572.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b118",
+    "text": "implemented on a large scale. In",
+    "bbox": [
+      222.0,
+      573.1,
+      358.3,
+      582.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b119",
+    "text": "previous years, the computer matching",
+    "bbox": [
+      222.0,
+      583.1,
+      385.3,
+      592.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b120",
+    "text": "was carried out for random samples of",
+    "bbox": [
+      222.0,
+      593.1,
+      382.8,
+      602.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b121",
+    "text": "households receiving rental assistance",
+    "bbox": [
+      222.0,
+      603.1,
+      382.9,
+      612.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b122",
+    "text": "or for selected POAs. During calendar",
+    "bbox": [
+      222.0,
+      613.1,
+      380.3,
+      622.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b123",
+    "text": "year 1999, HUD used the matching",
+    "bbox": [
+      222.0,
+      623.1,
+      368.3,
+      632.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b124",
+    "text": "program for a large-scale computer",
+    "bbox": [
+      222.0,
+      633.1,
+      367.8,
+      642.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b125",
+    "text": "matching project involving over 2",
+    "bbox": [
+      222.0,
+      643.1,
+      363.9,
+      652.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b126",
+    "text": "million households. HUD announced",
+    "bbox": [
+      222.0,
+      653.1,
+      378.9,
+      662.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b127",
+    "text": "plans for the large-scale implementation",
+    "bbox": [
+      222.0,
+      663.1,
+      390.8,
+      672.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b128",
+    "text": "of the program in 64 FR 49817",
+    "bbox": [
+      222.0,
+      673.1,
+      349.8,
+      682.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b129",
+    "text": "(September 14, 1999).",
+    "bbox": [
+      222.0,
+      683.1,
+      314.4,
+      692.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b130",
+    "text": "The Computer Matching and Privacy",
+    "bbox": [
+      231.0,
+      692.3,
+      385.8,
+      701.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b131",
+    "text": "Protection Act (CMPPA) of 1988, an",
+    "bbox": [
+      222.0,
+      702.3,
+      372.8,
+      711.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b132",
+    "text": "amendment to the Privacy Act of 1974",
+    "bbox": [
+      222.0,
+      712.3,
+      382.8,
+      721.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b133",
+    "text": "(5 U.S.C. 552a), OMB’s guidance on this",
+    "bbox": [
+      222.0,
+      722.3,
+      389.8,
+      731.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b134",
+    "text": "statute entitled ‘‘Final Guidance",
+    "bbox": [
+      222.0,
+      732.3,
+      357.3,
+      741.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b135",
+    "text": "Interpreting the Provisions of Public",
+    "bbox": [
+      399.0,
+      60.3,
+      551.3,
+      69.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b136",
+    "text": "Law 100–503, the CMPPA of 1988’’",
+    "bbox": [
+      399.0,
+      70.2,
+      547.3,
+      79.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b137",
+    "text": "(OMB Guidance), and OMB Circular No.",
+    "bbox": [
+      399.0,
+      80.1,
+      568.3,
+      89.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b138",
+    "text": "A–130 requires publication of notices of",
+    "bbox": [
+      399.0,
+      90.0,
+      567.3,
+      99.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b139",
+    "text": "computer matching programs. Appendix",
+    "bbox": [
+      399.0,
+      99.9,
+      569.4,
+      108.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b140",
+    "text": "I to OMB’s Revision of Circular No. A–",
+    "bbox": [
+      399.0,
+      109.8,
+      559.2,
+      118.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b141",
+    "text": "130, ‘‘Transmittal Memorandum No. 4,’’",
+    "bbox": [
+      399.0,
+      119.7,
+      567.4,
+      128.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b142",
+    "text": "Management of Federal Information",
+    "bbox": [
+      399.0,
+      129.6,
+      549.9,
+      138.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b143",
+    "text": "Resources,’’ prescribes Federal agency",
+    "bbox": [
+      399.0,
+      139.5,
+      559.3,
+      148.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b144",
+    "text": "responsibilities for maintaining records",
+    "bbox": [
+      399.0,
+      149.4,
+      564.4,
+      158.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b145",
+    "text": "about individuals. In with the CMPPA",
+    "bbox": [
+      399.0,
+      159.3,
+      559.8,
+      168.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b146",
+    "text": "and Appendix I to OMB Circular No. A–",
+    "bbox": [
+      399.0,
+      169.2,
+      565.7,
+      178.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b147",
+    "text": "130, copies of this notice are being",
+    "bbox": [
+      399.0,
+      179.1,
+      544.3,
+      188.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b148",
+    "text": "provided to the Committee on",
+    "bbox": [
+      399.0,
+      189.0,
+      525.4,
+      198.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b149",
+    "text": "Government Reform and Oversight of",
+    "bbox": [
+      399.0,
+      198.9,
+      555.9,
+      207.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b150",
+    "text": "the House of Representatives, the",
+    "bbox": [
+      399.0,
+      208.8,
+      538.8,
+      217.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b151",
+    "text": "Committee on Governmental Affairs of",
+    "bbox": [
+      399.0,
+      218.7,
+      561.3,
+      227.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b152",
+    "text": "the Senate, and OMB’s Office of",
+    "bbox": [
+      399.0,
+      228.6,
+      533.3,
+      237.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b153",
+    "text": "Information and Regulatory Affairs.",
+    "bbox": [
+      399.0,
+      238.5,
+      548.4,
+      247.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b154",
+    "text": "I. Authority",
+    "bbox": [
+      399.0,
+      253.3,
+      451.0,
+      262.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b155",
+    "text": "This matching program is being",
+    "bbox": [
+      408.0,
+      266.5,
+      541.3,
+      275.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b156",
+    "text": "conducted pursuant to sections 3003",
+    "bbox": [
+      399.0,
+      276.4,
+      553.3,
+      285.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b157",
+    "text": "and 13403 of the Omnibus Budget",
+    "bbox": [
+      399.0,
+      286.3,
+      542.3,
+      295.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b158",
+    "text": "Reconciliation Act of 1993 (Pub. L. 103–",
+    "bbox": [
+      399.0,
+      296.2,
+      565.8,
+      305.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b159",
+    "text": "66, approved August 10, 1993); section",
+    "bbox": [
+      399.0,
+      306.1,
+      562.3,
+      315.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b160",
+    "text": "542(b) of the 1998 Appropriations Act",
+    "bbox": [
+      399.0,
+      316.0,
+      558.8,
+      325.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b161",
+    "text": "(Pub. L. 105–65); section 904 of the",
+    "bbox": [
+      399.0,
+      325.9,
+      546.8,
+      334.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b162",
+    "text": "Stewart B. McKinney Homeless",
+    "bbox": [
+      399.0,
+      335.8,
+      531.9,
+      344.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b163",
+    "text": "Assistance Amendments Act of 1988 (42",
+    "bbox": [
+      399.0,
+      345.7,
+      568.8,
+      354.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b164",
+    "text": "U.S.C. 3544); section 165 of the Housing",
+    "bbox": [
+      399.0,
+      355.6,
+      567.8,
+      364.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b165",
+    "text": "and Community Development Act of",
+    "bbox": [
+      399.0,
+      365.5,
+      553.4,
+      374.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b166",
+    "text": "1987 (42 U.S.C. 3543); the National",
+    "bbox": [
+      399.0,
+      375.4,
+      546.8,
+      384.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b167",
+    "text": "Housing Act (12 U.S.C. 1701–1750g);",
+    "bbox": [
+      399.0,
+      385.3,
+      554.4,
+      394.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b168",
+    "text": "the United States Housing Act of 1937",
+    "bbox": [
+      399.0,
+      395.2,
+      559.3,
+      404.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b169",
+    "text": "(42 U.S.C. 1437–1437z); section 101 of",
+    "bbox": [
+      399.0,
+      405.1,
+      560.4,
+      414.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b170",
+    "text": "the Housing and Community",
+    "bbox": [
+      399.0,
+      415.0,
+      520.9,
+      424.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b171",
+    "text": "Development Act of 1965 (12 U.S.C.",
+    "bbox": [
+      399.0,
+      424.9,
+      550.3,
+      433.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b172",
+    "text": "1701s); the Native American Housing",
+    "bbox": [
+      399.0,
+      434.8,
+      555.9,
+      443.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b173",
+    "text": "Assistance and Self-Determination Act",
+    "bbox": [
+      399.0,
+      444.7,
+      561.3,
+      453.7
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b174",
+    "text": "of 1996 (25 U.S.C. 4101 et seq.); and the",
+    "bbox": [
+      399.0,
+      454.6,
+      565.7,
+      463.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b175",
+    "text": "Quality Housing and Work",
+    "bbox": [
+      399.0,
+      464.5,
+      512.4,
+      473.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b176",
+    "text": "Responsibility Act of 1998 (42 U.S.C.",
+    "bbox": [
+      399.0,
+      474.4,
+      554.8,
+      483.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b177",
+    "text": "1437a(f)).",
+    "bbox": [
+      399.0,
+      484.3,
+      440.5,
+      493.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b178",
+    "text": "The Omnibus Budget Reconciliation",
+    "bbox": [
+      408.0,
+      493.5,
+      560.9,
+      502.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b179",
+    "text": "Act of 1993 (Budget Reconciliation Act)",
+    "bbox": [
+      399.0,
+      503.4,
+      565.8,
+      512.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b180",
+    "text": "authorizes HUD to request from the SSA",
+    "bbox": [
+      399.0,
+      513.3,
+      568.3,
+      522.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b181",
+    "text": "and the IRS Federal tax information as",
+    "bbox": [
+      399.0,
+      523.2,
+      560.3,
+      532.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b182",
+    "text": "prescribed in section 6103(l)(7) of title",
+    "bbox": [
+      399.0,
+      533.1,
+      559.8,
+      542.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b183",
+    "text": "26 of the United States Code (Internal",
+    "bbox": [
+      399.0,
+      543.1,
+      556.8,
+      552.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b184",
+    "text": "Revenue Code). Section 542(b) of HUD’s",
+    "bbox": [
+      399.0,
+      553.1,
+      567.8,
+      562.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b185",
+    "text": "1998 Appropriation Act (Pub. L. 105–",
+    "bbox": [
+      399.0,
+      563.1,
+      554.8,
+      572.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b186",
+    "text": "65; October 27, 1997) eliminated a",
+    "bbox": [
+      399.0,
+      573.1,
+      543.3,
+      582.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b187",
+    "text": "September 30, 1998, sunset provision to",
+    "bbox": [
+      399.0,
+      583.1,
+      566.8,
+      592.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b188",
+    "text": "26 U.S.C. 6103(l)(7)(D)(ix) of the",
+    "bbox": [
+      399.0,
+      593.1,
+      534.9,
+      602.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b189",
+    "text": "Internal Revenue Code, effectively",
+    "bbox": [
+      399.0,
+      603.1,
+      543.4,
+      612.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b190",
+    "text": "making permanent the authority for SSA",
+    "bbox": [
+      399.0,
+      613.1,
+      569.3,
+      622.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b191",
+    "text": "and IRS disclosures of federal tax",
+    "bbox": [
+      399.0,
+      623.1,
+      539.3,
+      632.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b192",
+    "text": "information to HUD.",
+    "bbox": [
+      399.0,
+      633.1,
+      486.4,
+      642.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b193",
+    "text": "The Federal tax information that HUD",
+    "bbox": [
+      408.0,
+      642.3,
+      567.8,
+      651.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b194",
+    "text": "receives includes income data that",
+    "bbox": [
+      399.0,
+      652.3,
+      544.3,
+      661.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b195",
+    "text": "individuals receive from employers and",
+    "bbox": [
+      399.0,
+      662.3,
+      566.3,
+      671.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b196",
+    "text": "financial institutions (e.g., income data",
+    "bbox": [
+      399.0,
+      672.3,
+      562.8,
+      681.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b197",
+    "text": "that would be shown on IRS Form W–",
+    "bbox": [
+      399.0,
+      682.3,
+      556.7,
+      691.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b198",
+    "text": "2 and Form 1099) for use in preparing",
+    "bbox": [
+      399.0,
+      692.3,
+      558.2,
+      701.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b199",
+    "text": "tax returns. The Budget Reconciliation",
+    "bbox": [
+      399.0,
+      702.3,
+      560.8,
+      711.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b200",
+    "text": "Act prohibits HUD redisclosure of tax",
+    "bbox": [
+      399.0,
+      712.3,
+      557.3,
+      721.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b201",
+    "text": "data to POAs. However, it allows HUD",
+    "bbox": [
+      399.0,
+      722.3,
+      560.8,
+      731.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b202",
+    "text": "to disclose the fact that discrepancies",
+    "bbox": [
+      399.0,
+      732.3,
+      555.8,
+      741.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Melior",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b203",
+    "text": "VerDate jul<14>2003",
+    "bbox": [
+      25.0,
+      765.0,
+      88.2,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b204",
+    "text": "17:14 Mar 08, 2004",
+    "bbox": [
+      95.2,
+      765.0,
+      151.6,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b205",
+    "text": "Jkt 200001",
+    "bbox": [
+      158.6,
+      765.0,
+      190.4,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b206",
+    "text": "PO 00000",
+    "bbox": [
+      197.4,
+      765.0,
+      226.7,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b207",
+    "text": "Frm 00062",
+    "bbox": [
+      233.7,
+      765.0,
+      265.1,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b208",
+    "text": "Fmt 4703",
+    "bbox": [
+      272.1,
+      765.0,
+      299.6,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b209",
+    "text": "Sfmt 4703",
+    "bbox": [
+      306.6,
+      765.0,
+      336.2,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b210",
+    "text": "E:\\FR\\FM\\09MRN1.SGM",
+    "bbox": [
+      343.2,
+      765.0,
+      415.0,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "456",
+    "page_number": 2,
+    "block_id": "456_p2_b211",
+    "text": "09MRN1",
+    "bbox": [
+      422.0,
+      765.0,
+      447.7,
+      773.9
+    ],
+    "font_size": 6.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

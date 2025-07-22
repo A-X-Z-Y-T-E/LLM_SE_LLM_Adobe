@@ -1,0 +1,3452 @@
+[
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b003",
+    "text": "1     Comme il existe des normes et des mécanismes bien établis et acceptés pour le partage d’informations financières avec les bailleurs, y compris un rôle",
+    "bbox": [
+      53.9,
+      749.9,
+      528.8,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b004",
+    "text": "pour les audits externes, les demandes de données financières ne sont pas incluses dans la présente note d’orientation. Cette note d’orientation traite des",
+    "bbox": [
+      53.9,
+      758.9,
+      534.9,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b005",
+    "text": "données personnelles et des données sensibles non personnelles.",
+    "bbox": [
+      53.9,
+      767.9,
+      264.9,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b006",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b007",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      98.4,
+      263.7,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b008",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      116.4,
+      479.6,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b009",
+    "text": "PARTAGE RESPONSABLE DES DONNÉES AVEC",
+    "bbox": [
+      53.3,
+      138.7,
+      521.2,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b010",
+    "text": "LES BAILLEURS DE FONDS",
+    "bbox": [
+      53.3,
+      162.7,
+      321.5,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b011",
+    "text": "POINTS CLÉS :",
+    "bbox": [
+      63.7,
+      227.0,
+      149.3,
+      242.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b012",
+    "text": "•\t Le partage des données sensibles, qu’elles soient personnelles ou non personnelles, sans",
+    "bbox": [
+      75.0,
+      249.7,
+      494.8,
+      263.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b013",
+    "text": "garanties adéquates peut exacerber les risques pour les populations affectées  par une crise, les",
+    "bbox": [
+      86.3,
+      262.9,
+      523.9,
+      276.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b014",
+    "text": "organisations humanitaires et les bailleurs de fonds.",
+    "bbox": [
+      86.3,
+      276.1,
+      324.3,
+      290.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b015",
+    "text": "•\t Les bailleurs de fonds demandent régulièrement des données aux organisations qu’ils financent",
+    "bbox": [
+      75.0,
+      300.3,
+      526.5,
+      314.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b016",
+    "text": "afin de s’acquitter de leurs obligations et de leurs objectifs. Certaines de ces demandes",
+    "bbox": [
+      86.3,
+      313.5,
+      483.2,
+      327.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b017",
+    "text": "concernent des informations et des données sensibles qui doivent être protégées afin d’atténuer",
+    "bbox": [
+      86.3,
+      326.7,
+      527.7,
+      340.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b018",
+    "text": "les risques.",
+    "bbox": [
+      86.3,
+      339.9,
+      137.4,
+      353.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b019",
+    "text": "•\t Parmi les objectifs courants pour le partage des données avec les bailleurs de fonds, on peut",
+    "bbox": [
+      75.0,
+      364.1,
+      508.8,
+      378.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b020",
+    "text": "citer : (i) l’absence de cadre réglementaire pour la gestion responsable des données sensibles non",
+    "bbox": [
+      86.3,
+      375.1,
+      532.7,
+      389.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b021",
+    "text": "personnelles ; (ii) les lacunes en matière de capacité ; et (iii) la limitation de la finalité.",
+    "bbox": [
+      86.3,
+      388.3,
+      475.2,
+      402.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b022",
+    "text": "•\t Parmi les contraintes courantes liées au partage des données avec les bailleurs de fonds, on peut",
+    "bbox": [
+      75.0,
+      412.5,
+      529.2,
+      426.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b023",
+    "text": "citer : for responsibly managing sensitive non-personal data; (ii) capacity gaps; and (iii) purpose",
+    "bbox": [
+      86.3,
+      425.7,
+      523.3,
+      439.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b024",
+    "text": "limitation.",
+    "bbox": [
+      86.3,
+      438.9,
+      133.7,
+      452.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b025",
+    "text": "•\t Les bailleurs de fonds et les organisations humanitaires peuvent prendre les mesures",
+    "bbox": [
+      75.0,
+      463.1,
+      476.3,
+      477.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b026",
+    "text": "suivantes pour minimiser les risques tout en maximisant les bénéfices lors du partage de",
+    "bbox": [
+      86.3,
+      476.3,
+      492.1,
+      490.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b027",
+    "text": "données sensibles : (i) examiner et clarifier les cadres formels ou informels qui régissent la",
+    "bbox": [
+      86.3,
+      489.5,
+      498.8,
+      503.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b028",
+    "text": "collecte et le partage des données désagrégées ; (ii) officialiser et uniformiser les demandes de",
+    "bbox": [
+      86.3,
+      502.7,
+      518.3,
+      516.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b029",
+    "text": "données sensibles ; (iii) investir dans les capacités de gestion des données du personnel et des",
+    "bbox": [
+      86.3,
+      515.9,
+      517.9,
+      529.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b030",
+    "text": "organisations ; et (iv) adopter des principes communs pour la gestion des données des bailleurs.",
+    "bbox": [
+      86.3,
+      529.1,
+      524.6,
+      543.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b031",
+    "text": "INTRODUCTION",
+    "bbox": [
+      53.5,
+      582.5,
+      149.5,
+      597.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b032",
+    "text": "Les bailleurs ont vocation à jouer un rôle important dans l'écosystème des données humanitaires, à la fois",
+    "bbox": [
+      53.5,
+      607.2,
+      538.2,
+      621.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b033",
+    "text": "en tant que moteurs de la collecte et de l’analyse accrues des données qu’en tant qu’utilisateurs directs de",
+    "bbox": [
+      53.5,
+      620.4,
+      539.6,
+      634.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b034",
+    "text": "ces données. Il ne s’agit pas là d’un phénomène nouveau ; la nécessité de rendre des comptes et de faire",
+    "bbox": [
+      53.5,
+      633.6,
+      529.0,
+      647.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b035",
+    "text": "preuve de transparence dans l’utilisation des ressources financières accordées par les bailleurs de fonds est",
+    "bbox": [
+      53.5,
+      646.8,
+      544.9,
+      660.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b036",
+    "text": "largement comprise et respectée. Or depuis quelques années, les bailleurs de fonds se sont mis à demander",
+    "bbox": [
+      53.5,
+      660.0,
+      547.4,
+      673.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b037",
+    "text": "des données à caractère potentiellement sensible. Cela comprend des données personnelles au sujet des",
+    "bbox": [
+      53.5,
+      673.2,
+      535.1,
+      687.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b038",
+    "text": "bénéficiaires et diverses formes de données désagrégées, telles que les résultats d’une enquête au niveau",
+    "bbox": [
+      53.5,
+      686.4,
+      536.4,
+      700.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b039",
+    "text": "des ménages et les données sur la distribution de l’aide désagrégées par dimension démographique et/ou",
+    "bbox": [
+      53.5,
+      699.6,
+      538.1,
+      713.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 1,
+    "block_id": "6_p1_b040",
+    "text": "de groupe (par exemple, origine ethnique, groupe sur la protection, etc.).1",
+    "bbox": [
+      53.5,
+      712.8,
+      390.7,
+      726.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b003",
+    "text": "2    Roepstorff, K., Faltas, C. and Hövelmann, S., 2020. Counterterrorism Measures and Sanction Regimes: Shrinking Space for Humanitarian Aid",
+    "bbox": [
+      53.9,
+      674.9,
+      520.7,
+      683.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b004",
+    "text": "Organisations.",
+    "bbox": [
+      53.9,
+      684.2,
+      110.5,
+      692.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b005",
+    "text": "3   On entend par données non personnelles les données qui étaient, à la base, des données à caractère personnel, mais qui ont été rendues",
+    "bbox": [
+      53.9,
+      696.3,
+      515.2,
+      704.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b006",
+    "text": "anonymes ultérieurement, telles que les données sur les populations affectées par la situation humanitaire et leurs besoins, les risques et",
+    "bbox": [
+      53.9,
+      705.3,
+      517.4,
+      713.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b007",
+    "text": "vulnérabilités auxquels elles sont exposés, et leurs capacités (adapté du Règlement (UE) 2018/1807 du Parlement européen et du Conseil du 14",
+    "bbox": [
+      53.9,
+      714.2,
+      536.7,
+      722.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b008",
+    "text": "novembre 2018 établissant un cadre applicable au libre flux des données à caractère non personnel dans l’Union européenne).",
+    "bbox": [
+      53.9,
+      723.2,
+      485.9,
+      731.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b009",
+    "text": "4   Voir le Consignes de OCHA sur la Responsabilité des données et le ICRC Handbook on data protection in humanitarian action.",
+    "bbox": [
+      53.9,
+      735.2,
+      483.2,
+      743.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b010",
+    "text": "5   Pour en savoir plus sur le dialogue virtuel, consultez ce rapport Wilton Park.",
+    "bbox": [
+      53.9,
+      747.2,
+      313.4,
+      755.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b011",
+    "text": "6  Willits-King, B. and Spencer, A., 2020. Responsible data-sharing with donors: accountability, transparency and data protection in principled",
+    "bbox": [
+      53.9,
+      759.2,
+      516.7,
+      767.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b012",
+    "text": "humanitarian action.",
+    "bbox": [
+      53.9,
+      768.2,
+      130.1,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b013",
+    "text": "Les préoccupations concernant les demandes de données de ce type ont conduit les bailleurs de fonds",
+    "bbox": [
+      52.9,
+      45.2,
+      522.3,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b014",
+    "text": "et les organisations humanitaires à mettre davantage l’accent sur l’identification de stratégies relatives à",
+    "bbox": [
+      52.9,
+      58.4,
+      529.9,
+      72.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b015",
+    "text": "la Responsabilité des données : la gestion sécurisée, éthique et efficace des données. La Responsabilité",
+    "bbox": [
+      52.9,
+      71.6,
+      525.1,
+      85.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b016",
+    "text": "des données oblige les bailleurs de fonds et les organisations humanitaires à prendre des mesures qui",
+    "bbox": [
+      52.9,
+      84.8,
+      519.2,
+      98.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b017",
+    "text": "contribuent à réduire les risques tout en maximisant les bénéfices des données. Cela est particulièrement",
+    "bbox": [
+      52.9,
+      98.0,
+      535.6,
+      111.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b018",
+    "text": "difficile dans les cas où les bailleurs de fonds demandent des données sensibles. Par exemple, les",
+    "bbox": [
+      52.9,
+      111.2,
+      498.1,
+      125.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b019",
+    "text": "procédures de criblage des bénéficiaires de l’aide, souvent utilisées pour justifier les demandes de",
+    "bbox": [
+      52.9,
+      124.4,
+      502.0,
+      138.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b020",
+    "text": "données personnelles, ne sont pas seulement difficiles à mettre en œuvre en pratique, mais sont très",
+    "bbox": [
+      52.9,
+      137.6,
+      514.8,
+      151.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b021",
+    "text": "problématiques au regard d’une aide humanitaire fondée sur des principes.2",
+    "bbox": [
+      52.9,
+      150.8,
+      402.9,
+      164.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b022",
+    "text": "En outre, le partage de données apparemment inoffensives comme les résultats d’enquêtes agrégés peut",
+    "bbox": [
+      52.9,
+      177.2,
+      532.8,
+      191.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b023",
+    "text": "exposer des personnes et des communautés déjà vulnérables à de plus grands risques. Des données qui",
+    "bbox": [
+      52.9,
+      190.4,
+      528.4,
+      204.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b024",
+    "text": "initialement pourraient être considérées comme non personnelles3 peuvent permettre la réidentification",
+    "bbox": [
+      52.9,
+      203.6,
+      532.6,
+      217.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b025",
+    "text": "d’individus, de communautés et de groupes démographiques. La réidentification se produit lorsque des",
+    "bbox": [
+      52.9,
+      216.8,
+      528.4,
+      230.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b026",
+    "text": "données peuvent être retracées ou reliées à un ou plusieurs individus ou groupe(s) d’individus parce que",
+    "bbox": [
+      52.9,
+      230.0,
+      531.5,
+      243.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b027",
+    "text": "ces données n’ont pas été suffisamment anonymisées. Cela peut entraîner une violation de la protection",
+    "bbox": [
+      52.9,
+      243.2,
+      530.3,
+      257.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b028",
+    "text": "des données, de la vie privée et d’autres droits humains et permettre de cibler des personnes ou des",
+    "bbox": [
+      52.9,
+      256.4,
+      510.7,
+      270.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b029",
+    "text": "groupes victimes de violence ou d’autres formes de préjudice.4",
+    "bbox": [
+      52.9,
+      269.6,
+      337.7,
+      283.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b030",
+    "text": "De nombreux bailleurs de fonds et acteurs humanitaires reconnaissent les risques et les bénéfices associés",
+    "bbox": [
+      52.9,
+      293.8,
+      541.0,
+      307.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b031",
+    "text": "au partage de ces données sensibles, mais le secteur doit encore œuvrer ensemble à trouver comment",
+    "bbox": [
+      52.9,
+      307.0,
+      521.6,
+      320.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b032",
+    "text": "équilibrer efficacement ces risques et bénéfices. Les efforts déployés récemment visant à résoudre ce",
+    "bbox": [
+      52.9,
+      320.2,
+      515.6,
+      334.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b033",
+    "text": "problème ont permis de clarifier davantage les pratiques actuelles, ainsi que les objectifs et les contraintes",
+    "bbox": [
+      52.9,
+      333.4,
+      540.6,
+      347.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b034",
+    "text": "du partage de données. En septembre 2020, le Gouvernement suisse, le Comité international de la Croix-",
+    "bbox": [
+      52.9,
+      346.6,
+      528.5,
+      360.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b035",
+    "text": "Rouge (CICR) et le Centre for Humanitarian Data (le Centre) du Bureau de la coordination des affaires",
+    "bbox": [
+      52.9,
+      359.8,
+      512.7,
+      373.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b036",
+    "text": "humanitaires des Nations Unies (OCHA) ont organisé une discussion virtuelle Wilton Park pour contribuer à",
+    "bbox": [
+      52.9,
+      373.0,
+      542.4,
+      386.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b037",
+    "text": "élaborer une conception commune de la question.5",
+    "bbox": [
+      52.9,
+      386.2,
+      288.5,
+      400.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b038",
+    "text": "Cette note d’orientation présente la synthèse des résultats de cette discussion et d’une revue documentaire",
+    "bbox": [
+      52.9,
+      412.6,
+      544.0,
+      426.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b039",
+    "text": "associée.6 Elle décrit les défis inhérents au partage de données sensibles avec les bailleurs de fonds",
+    "bbox": [
+      52.9,
+      425.8,
+      506.7,
+      439.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b040",
+    "text": "et propose des recommandations initiales sur la façon dont les bailleurs de fonds et les organisations",
+    "bbox": [
+      52.9,
+      439.0,
+      515.6,
+      452.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b041",
+    "text": "humanitaires peuvent évoluer plus efficacement dans ce domaine.",
+    "bbox": [
+      52.9,
+      452.2,
+      356.7,
+      466.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b042",
+    "text": "DEMANDES DE DONNÉES DES BAILLEURS",
+    "bbox": [
+      53.1,
+      487.1,
+      301.3,
+      502.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b043",
+    "text": "Les bailleurs de fonds demandent régulièrement des données à leurs partenaires afin de s’acquitter des",
+    "bbox": [
+      53.1,
+      511.8,
+      526.4,
+      525.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b044",
+    "text": "différents obligations et objectifs. Ces demandes peuvent être formelles ou informelles.",
+    "bbox": [
+      53.1,
+      525.0,
+      454.1,
+      538.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b045",
+    "text": "•\t Les demandes formelles ont tendance à être incluses dans les accords de financement en fonction",
+    "bbox": [
+      64.4,
+      551.0,
+      530.3,
+      565.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b046",
+    "text": "des critères établis pour les rapports et sont généralement fondées sur des exigences juridiques telles",
+    "bbox": [
+      75.7,
+      564.6,
+      540.1,
+      578.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b047",
+    "text": "que la conformité aux règlementations de lutte contre le terrorisme. De telles demandes ont tendance",
+    "bbox": [
+      75.7,
+      577.8,
+      542.6,
+      591.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b048",
+    "text": "à être négociées dès le début d’un partenariat ou d’un accord de financement, et sont habituellement",
+    "bbox": [
+      75.7,
+      591.0,
+      541.1,
+      604.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 2,
+    "block_id": "6_p2_b049",
+    "text": "faites par écrit et planifiées à l’avance.",
+    "bbox": [
+      75.7,
+      604.2,
+      248.9,
+      618.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b003",
+    "text": "7   Au moment de la rédaction de la présente note, seuls l’USAID et la GIZ avaient des lignes directrices accessibles au public sur le partage responsable des",
+    "bbox": [
+      53.9,
+      668.8,
+      543.1,
+      677.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b004",
+    "text": "données. Voir USAID,2019. Considerations for using data responsibly at USAID and GIZ, 2018. GIZ’s Responsible Data Principles.",
+    "bbox": [
+      53.9,
+      677.7,
+      472.7,
+      686.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b005",
+    "text": "8   Willits-King, B. and Spencer, A., 2020. Responsible data-sharing with donors: accountability, transparency and data protection in principled",
+    "bbox": [
+      53.9,
+      689.7,
+      527.2,
+      698.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b006",
+    "text": "humanitarian action.",
+    "bbox": [
+      53.9,
+      699.0,
+      131.5,
+      707.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b007",
+    "text": "9   Voir la boîte à outils de NRC Toolkit for Principled Humanitarian Action; Managing CT Risks.",
+    "bbox": [
+      53.9,
+      711.0,
+      355.5,
+      719.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b008",
+    "text": "10 Afin de garantir le respect des exigences, les bailleurs de fonds peuvent demander des données très désagrégées pour corroborer leurs processus de",
+    "bbox": [
+      53.9,
+      723.1,
+      533.8,
+      731.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b009",
+    "text": "diligence raisonnable, s’assurant ainsi que leurs partenaires ne collaborent pas avec des « personnes ou entités visées par des sanctions ». Voir Walker,",
+    "bbox": [
+      53.9,
+      732.1,
+      537.1,
+      740.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b010",
+    "text": "J., 2020. Compliance Dialogue on Syria-Related Humanitarian Payments. « Personnes sanctionnées » est un terme général qui peut inclure des",
+    "bbox": [
+      53.9,
+      741.0,
+      515.5,
+      749.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b011",
+    "text": "individus, des groupes terroristes, des gouvernements ainsi que des sociétés et autres entités dotées de la personnalité juridique. L’UE, par exemple, a",
+    "bbox": [
+      53.9,
+      750.1,
+      524.2,
+      758.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b012",
+    "text": "considérablement renforcé au fil des ans son cadre juridique pour la prévention du blanchiment de capitaux et du financement du terrorisme et le fait",
+    "bbox": [
+      53.9,
+      759.1,
+      527.6,
+      767.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b013",
+    "text": "appliquer constamment. Voir : NGO Voice: . The Impact of EU Sanctions and Restrictive Measures on Humanitarian Action.",
+    "bbox": [
+      53.9,
+      768.0,
+      455.7,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b014",
+    "text": "OBJECTIFS POUR LE PARTAGE DES DONNÉES AVEC LES BAILLEURS DE FONDS",
+    "bbox": [
+      54.0,
+      224.9,
+      516.7,
+      239.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b015",
+    "text": "Les objectifs les plus souvent identifiés pour les bailleurs de fonds qui demandent des données sensibles",
+    "bbox": [
+      53.9,
+      249.8,
+      533.7,
+      263.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b016",
+    "text": "aux partenaires sont la connaissance de la situation et la conception des programmes ; la redevabilité et la",
+    "bbox": [
+      53.9,
+      263.0,
+      540.4,
+      276.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b017",
+    "text": "transparence ; ainsi que les exigences juridiques, réglementaires et politiques.",
+    "bbox": [
+      53.9,
+      276.2,
+      411.5,
+      290.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b018",
+    "text": "Connaissance de la situation et conception des programmes",
+    "bbox": [
+      53.9,
+      301.9,
+      347.2,
+      316.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b019",
+    "text": "Les bailleurs de fonds recherchent des informations et des données auprès des organisations humanitaires",
+    "bbox": [
+      53.9,
+      315.8,
+      543.3,
+      329.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b020",
+    "text": "afin de comprendre et de réagir aux changements dans les contextes humanitaires. Cela permet aux",
+    "bbox": [
+      53.9,
+      329.0,
+      511.0,
+      342.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b021",
+    "text": "bailleurs de fonds d’améliorer la conception et l’évaluation de leurs propres programmes, d’éviter le",
+    "bbox": [
+      53.9,
+      342.2,
+      510.5,
+      356.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b022",
+    "text": "double-emploi de l’aide, d’identifier les lacunes en matière d’information, et d’assurer une priorisation",
+    "bbox": [
+      53.9,
+      355.4,
+      523.5,
+      369.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b023",
+    "text": "approprié de l’aide.",
+    "bbox": [
+      53.9,
+      368.6,
+      142.7,
+      382.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b024",
+    "text": "Redevabilité et transparence",
+    "bbox": [
+      53.9,
+      394.5,
+      192.9,
+      409.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b025",
+    "text": "Les bailleurs de fonds et les organisations humanitaires ont un devoir de redevabilité dans la manière dont",
+    "bbox": [
+      53.9,
+      408.2,
+      542.1,
+      422.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b026",
+    "text": "elles gèrent leurs activités. Les données peuvent permettre aux bailleurs de fonds d’expliquer et de justifier",
+    "bbox": [
+      53.9,
+      421.4,
+      542.8,
+      435.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b027",
+    "text": "l’allocation de fonds pour l’aide internationale auprès des contribuables.",
+    "bbox": [
+      53.9,
+      434.6,
+      387.2,
+      448.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b028",
+    "text": "Exigences juridiques, réglementaires et politiques",
+    "bbox": [
+      53.9,
+      460.5,
+      294.8,
+      475.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b029",
+    "text": "Les bailleurs de fonds sont soumis à certaines exigences juridiques nationales et internationales, y compris",
+    "bbox": [
+      53.9,
+      474.2,
+      542.8,
+      488.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b030",
+    "text": "les exigences politiques, juridiques et légales liées à la lutte contre le terrorisme, aux migrations et à",
+    "bbox": [
+      53.9,
+      487.4,
+      510.4,
+      501.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b031",
+    "text": "l’application de la loi. Dans de nombreux cas, il se peut que les bailleurs de fonds souhaitent utiliser les",
+    "bbox": [
+      53.9,
+      500.6,
+      524.5,
+      514.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b032",
+    "text": "données pour vérifier leur conformité à ces différentes exigences. Certains bailleurs incluent des clauses de",
+    "bbox": [
+      53.9,
+      513.8,
+      543.3,
+      527.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b033",
+    "text": "lutte contre le terrorisme dans leurs accords de financement, qui visent à s’assurer que leurs fonds ne sont",
+    "bbox": [
+      53.9,
+      527.0,
+      539.7,
+      540.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b034",
+    "text": "pas utilisés au profit de groupes terroristes identifiés.9 De même, les bailleurs peuvent inclure des clauses",
+    "bbox": [
+      53.9,
+      540.2,
+      535.6,
+      554.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b035",
+    "text": "pour couvrir les mesures de lutte contre les pots-de-vin, la fraude et la corruption.10",
+    "bbox": [
+      53.9,
+      553.4,
+      432.4,
+      567.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b036",
+    "text": "•\t Les demandes informelles concernent des informations ou des données qui ne relèvent",
+    "bbox": [
+      64.3,
+      43.9,
+      482.2,
+      58.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b037",
+    "text": "généralement pas du cadre normal des rapports. Ces demandes ad hoc ont souvent une valeur",
+    "bbox": [
+      75.6,
+      57.6,
+      509.8,
+      71.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b038",
+    "text": "implicite, ce qui signifie que si elles ne sont pas formellement requises, la fourniture de ces données",
+    "bbox": [
+      75.6,
+      70.8,
+      532.8,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b039",
+    "text": "supplémentaires est considérée comme bénéfique pour l'engagement et la relation partenariale",
+    "bbox": [
+      75.6,
+      84.0,
+      515.7,
+      97.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b040",
+    "text": "en cours d’une organisation avec un bailleur de fonds. Ces demandes représentent un plus grand",
+    "bbox": [
+      75.6,
+      97.2,
+      519.7,
+      111.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b041",
+    "text": "dilemme pour les acteurs humanitaires.",
+    "bbox": [
+      75.6,
+      110.4,
+      257.3,
+      124.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b042",
+    "text": "Peu de bailleurs de fonds disposent de politiques ou de lignes directrices formelles quant au partage des",
+    "bbox": [
+      52.9,
+      136.8,
+      531.2,
+      150.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b043",
+    "text": "données.7 Il y a également une absence de position commune sur la terminologie et les risques et objectifs",
+    "bbox": [
+      52.9,
+      150.0,
+      539.9,
+      163.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b044",
+    "text": "liés au partage des données. Il existe différentes définitions et conceptions des risques liés aux données,",
+    "bbox": [
+      52.9,
+      163.2,
+      528.4,
+      177.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b045",
+    "text": "ce qui conduit à des pratiques incohérentes et parfois contradictoires concernant le partage de données",
+    "bbox": [
+      52.9,
+      176.4,
+      528.1,
+      190.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 3,
+    "block_id": "6_p3_b046",
+    "text": "potentiellement sensibles avec les bailleurs de fonds dans un contexte particulier.8",
+    "bbox": [
+      52.9,
+      189.6,
+      428.8,
+      203.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b003",
+    "text": "11  Inter-Agency Standing Committee (IASC) Humanitarian Financing Task Team (HFTT), 2016. Donor Conditions and their implications for",
+    "bbox": [
+      53.9,
+      709.9,
+      506.4,
+      718.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b004",
+    "text": "humanitarian response.",
+    "bbox": [
+      53.9,
+      718.9,
+      139.5,
+      727.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b005",
+    "text": "12 Publish What You Fund, 2020. Data Use Capacity in Protracted Humanitarian Crises.",
+    "bbox": [
+      53.9,
+      730.9,
+      336.5,
+      739.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b006",
+    "text": "13 Ibid.",
+    "bbox": [
+      53.9,
+      743.0,
+      73.9,
+      751.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b007",
+    "text": "14  ICRC, 2020. Handbook on data protection in humanitarian action.",
+    "bbox": [
+      53.9,
+      754.9,
+      276.1,
+      763.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b008",
+    "text": "15  Examples include the Good Humanitarian Donorship Initiative and the Grand Bargain.",
+    "bbox": [
+      53.9,
+      766.9,
+      344.1,
+      775.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b009",
+    "text": "CONTRAINTES EN MATIÈRE DE PARTAGE DES DONNÉES AVEC LES BAILLEURS DE",
+    "bbox": [
+      53.3,
+      43.7,
+      538.6,
+      58.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b010",
+    "text": "FONDS",
+    "bbox": [
+      53.3,
+      56.7,
+      94.6,
+      71.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b011",
+    "text": "Malgré ces objectifs, le partage des données avec les bailleurs n’est pas sans contraintes, notamment",
+    "bbox": [
+      53.2,
+      82.4,
+      514.2,
+      96.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b012",
+    "text": "l’absence de cadres réglementaires pour gérer de manière responsable les données sensibles non",
+    "bbox": [
+      53.2,
+      95.6,
+      499.9,
+      109.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b013",
+    "text": "personnelles, ainsi que des lacunes en matière de capacités et la limitation de la finalité.",
+    "bbox": [
+      53.2,
+      108.8,
+      457.3,
+      122.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b014",
+    "text": "Absence de cadres réglementaires pour gérer de manière responsable les données sensibles non",
+    "bbox": [
+      53.2,
+      134.6,
+      526.8,
+      149.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b015",
+    "text": "personnelles",
+    "bbox": [
+      53.2,
+      147.8,
+      116.9,
+      162.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b016",
+    "text": "La sensibilité des données personnelles est généralement bien connue et traitée par une variété de",
+    "bbox": [
+      53.2,
+      161.6,
+      505.4,
+      175.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b017",
+    "text": "cadres stratégiques et réglementaires, mais on ne peut pas en dire autant pour les données sensibles",
+    "bbox": [
+      53.2,
+      174.8,
+      515.1,
+      188.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b018",
+    "text": "non personnelles. La protection des groupes et de leurs données demeure difficile en raison des lacunes",
+    "bbox": [
+      53.2,
+      188.0,
+      530.0,
+      201.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b019",
+    "text": "actuelles en matière de réglementation et d’orientation ; et du manque général de compréhension",
+    "bbox": [
+      53.2,
+      201.2,
+      502.9,
+      215.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b020",
+    "text": "de la sensibilité des données non personnelles. Ces lacunes qui existent dans les politiques relatives",
+    "bbox": [
+      53.2,
+      214.4,
+      511.3,
+      228.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b021",
+    "text": "aux données augmentent le risque que les données sensibles ne soient pas stockées ou protégées",
+    "bbox": [
+      53.2,
+      227.6,
+      501.1,
+      241.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b022",
+    "text": "correctement ou qu’elles soient partagées par inadvertance par des partenaires afin de satisfaire les",
+    "bbox": [
+      53.2,
+      240.8,
+      509.5,
+      254.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b023",
+    "text": "demandes des bailleurs de fonds.",
+    "bbox": [
+      53.2,
+      254.0,
+      206.3,
+      267.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b024",
+    "text": "Lacunes en matière de capacités",
+    "bbox": [
+      53.2,
+      279.9,
+      209.2,
+      294.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b025",
+    "text": "Répondre aux demandes ponctuelles de partage des données des bailleurs de fonds peut être perçu",
+    "bbox": [
+      53.2,
+      293.6,
+      511.2,
+      307.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b026",
+    "text": "comme un fardeau supplémentaire par les intervenants humanitaires, détournant le temps, les ressources",
+    "bbox": [
+      53.2,
+      306.8,
+      539.6,
+      320.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b027",
+    "text": "et l’attention essentiels d’autres activités mises en œuvre.11 Le financement insuffisant du développement",
+    "bbox": [
+      53.2,
+      320.0,
+      537.5,
+      333.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b028",
+    "text": "des capacités relatives aux données a limité la faculté de nombreuses organisations à fournir à leur",
+    "bbox": [
+      53.2,
+      333.2,
+      505.9,
+      347.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b029",
+    "text": "personnel les compétences et les ressources nécessaires pour gérer les données de manière responsable.12",
+    "bbox": [
+      53.2,
+      346.4,
+      541.2,
+      360.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b030",
+    "text": "Les lacunes en matière de capacité de satisfaire aux exigences des bailleurs de fonds pourraient également",
+    "bbox": [
+      53.2,
+      359.6,
+      541.3,
+      373.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b031",
+    "text": "dissuader les ONG plus petites ou implantées localement de chercher ces types de financement, ce qui",
+    "bbox": [
+      53.2,
+      372.8,
+      522.8,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b032",
+    "text": "pourrait contrecarrer les efforts de localisation de l’aide.13",
+    "bbox": [
+      53.2,
+      386.0,
+      315.4,
+      399.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b033",
+    "text": "Limitation de finalité",
+    "bbox": [
+      53.2,
+      411.9,
+      154.8,
+      426.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b034",
+    "text": "Le principe de la limitation de la finalité exige que les données soient recueillies uniquement à des fins",
+    "bbox": [
+      53.2,
+      425.6,
+      521.7,
+      439.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b035",
+    "text": "spécifiques, explicites et légitimes, et qu’elles ne soient pas traitées d’une quelconque manière qui serait",
+    "bbox": [
+      53.2,
+      438.8,
+      532.3,
+      452.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b036",
+    "text": "incompatible avec ces finalités.14 Même lorsque les bailleurs de fonds fournissent des motifs légitimes pour",
+    "bbox": [
+      53.2,
+      452.0,
+      542.3,
+      465.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b037",
+    "text": "demander des données conformes aux finalités initiales pour lesquelles les données ont été recueillies",
+    "bbox": [
+      53.2,
+      465.2,
+      522.8,
+      479.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b038",
+    "text": "(par exemple, la fourniture d’une aide humanitaire), il peut être difficile de s’assurer que les données ne",
+    "bbox": [
+      53.2,
+      478.4,
+      526.4,
+      492.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b039",
+    "text": "seront pas utilisées à d’autres fins une fois partagées. Les données utilisées hors contexte et à des fins qui",
+    "bbox": [
+      53.2,
+      491.6,
+      534.4,
+      505.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b040",
+    "text": "ne sont pas connues au moment du partage, ou conservées au-delà de la durée prévue dans un but défini,",
+    "bbox": [
+      53.2,
+      504.8,
+      538.5,
+      518.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b041",
+    "text": "représentent une violation, même si elle est involontaire, des droits des personnes concernées.",
+    "bbox": [
+      53.2,
+      518.0,
+      486.3,
+      531.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b042",
+    "text": "RECOMMENDATIONS",
+    "bbox": [
+      53.4,
+      553.2,
+      179.4,
+      568.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b043",
+    "text": "Compte tenu des objectifs et des contraintes décrits ci-dessus, le Centre, le Groupe de politique",
+    "bbox": [
+      53.3,
+      577.9,
+      489.8,
+      591.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b044",
+    "text": "humanitaire de l’Institut de Développement d’outre-mer (Overseas Development Institute, ODI), le CICR,",
+    "bbox": [
+      53.3,
+      591.1,
+      530.2,
+      605.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b045",
+    "text": "et la Division Sécurité humaine du Département Fédéral des Affaires étrangères suisse recommandent que",
+    "bbox": [
+      53.3,
+      604.3,
+      539.4,
+      618.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b046",
+    "text": "les bailleurs de fonds et les organisations humanitaires prennent les mesures suivantes pour minimiser les",
+    "bbox": [
+      53.3,
+      617.5,
+      539.9,
+      631.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 4,
+    "block_id": "6_p4_b047",
+    "text": "risques tout en maximisant les bénéfices lors du partage de données sensibles :",
+    "bbox": [
+      53.3,
+      630.7,
+      417.2,
+      644.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b003",
+    "text": "CONTRIBUTEURS : LE GROUPE DE POLITIQUE HUMANITAIRE DE L’INSTITUT DE DÉVELOPPEMENT D’OUTRE-MER",
+    "bbox": [
+      53.4,
+      534.1,
+      526.0,
+      547.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b004",
+    "text": "(ODI); LE COMITÉ INTERNATIONAL DE LA CROIX-ROUGE; ET LA DIVISION SÉCURITÉ HUMAINE DU DÉPARTEMENT",
+    "bbox": [
+      53.4,
+      546.1,
+      525.4,
+      559.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b005",
+    "text": "FÉDÉRAL DES AFFAIRES ÉTRANGÈRES SUISSE.",
+    "bbox": [
+      53.4,
+      558.1,
+      248.5,
+      571.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b006",
+    "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+    "bbox": [
+      65.2,
+      588.5,
+      503.7,
+      601.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b007",
+    "text": "clés, publie une série de huit notes d’orientation sur la Responsabilité des données dans l’action humanitaire",
+    "bbox": [
+      65.2,
+      600.9,
+      517.8,
+      613.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b008",
+    "text": "au cours de 2019 et 2020. La série de notes d’orientation fait suite à la publication du project de directives",
+    "bbox": [
+      65.2,
+      612.7,
+      505.5,
+      625.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b009",
+    "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+    "bbox": [
+      65.2,
+      624.7,
+      515.1,
+      637.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b010",
+    "text": "des Nations Unies en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+    "bbox": [
+      65.2,
+      636.7,
+      474.6,
+      649.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b011",
+    "text": "supplémentaires sur des questions, des processus et des outils spécifiques pour la Responsabilité des données",
+    "bbox": [
+      65.2,
+      648.9,
+      526.3,
+      661.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b012",
+    "text": "dans la pratique. Cette série est rendue possible grâce au généreux soutien de la Direction générale de",
+    "bbox": [
+      65.2,
+      660.9,
+      489.7,
+      673.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b013",
+    "text": "protection civile et opérations d’aide humanitaire européennes (DG ECHO).",
+    "bbox": [
+      65.2,
+      672.9,
+      376.0,
+      685.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b014",
+    "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+    "bbox": [
+      65.2,
+      696.9,
+      522.8,
+      709.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b015",
+    "text": "Affaires Etrangètres.",
+    "bbox": [
+      65.2,
+      708.9,
+      148.5,
+      721.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b016",
+    "text": "15  Parmi les exemples, citons les suivants : Good Humanitarian Donorship Initiative et le Grand Bargain.",
+    "bbox": [
+      54.0,
+      767.6,
+      372.7,
+      776.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b017",
+    "text": "•\t Examiner et clarifier les cadres formels ou informels qui régissent la collecte et le partage des",
+    "bbox": [
+      65.0,
+      44.7,
+      527.3,
+      59.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b018",
+    "text": "données désagrégées",
+    "bbox": [
+      76.4,
+      57.9,
+      191.2,
+      72.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b019",
+    "text": "Les bailleurs de fonds et les partenaires devraient examiner les exigences officielles et formelles, ainsi",
+    "bbox": [
+      76.4,
+      71.5,
+      540.5,
+      85.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b020",
+    "text": "que les exigences ad hoc et informelles en matière de partage des données, et analyser si le personnel",
+    "bbox": [
+      76.4,
+      84.7,
+      542.7,
+      98.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b021",
+    "text": "des partenaires et des bailleurs de fonds interprète correctement et de manière cohérente ces",
+    "bbox": [
+      76.4,
+      97.9,
+      505.5,
+      111.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b022",
+    "text": "exigences. Ils devraient évaluer s’il existe des conditionnalités implicites entre la volonté de partager",
+    "bbox": [
+      76.4,
+      111.1,
+      535.6,
+      125.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b023",
+    "text": "des données désagrégées et la capacité des différentes organisations à accéder aux financements des",
+    "bbox": [
+      76.4,
+      124.3,
+      540.7,
+      138.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b024",
+    "text": "bailleurs de fond, et à les conserver.",
+    "bbox": [
+      76.4,
+      137.5,
+      241.7,
+      151.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b025",
+    "text": "•\t Officialiser et uniformiser les demandes de données sensibles",
+    "bbox": [
+      65.0,
+      163.5,
+      373.7,
+      178.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b026",
+    "text": "Lorsque des données sensibles sont nécessaires pour atteindre un objectif mutuellement convenu,",
+    "bbox": [
+      76.4,
+      177.1,
+      529.5,
+      191.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b027",
+    "text": "les bailleurs de fonds devraient officialiser et uniformiser leurs demandes de données de ce type.",
+    "bbox": [
+      76.4,
+      190.3,
+      520.2,
+      204.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b028",
+    "text": "Les demandes doivent être faites par écrit et préciser le genre de données demandées, le format",
+    "bbox": [
+      76.4,
+      203.5,
+      516.8,
+      217.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b029",
+    "text": "souhaité et l’utilisation prévue de ces dernières. Les bailleurs de fonds ne devraient demander que",
+    "bbox": [
+      76.4,
+      216.7,
+      527.1,
+      230.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b030",
+    "text": "les informations requises pour satisfaire à l’objectif spécifique, et devraient indiquer un calendrier de",
+    "bbox": [
+      76.4,
+      229.9,
+      538.3,
+      243.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b031",
+    "text": "destruction des données. Les organisations humanitaires devraient documenter toutes les demandes",
+    "bbox": [
+      76.4,
+      243.1,
+      541.0,
+      257.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b032",
+    "text": "de données et veiller à y répondre de manière cohérente au fil du temps.",
+    "bbox": [
+      76.4,
+      256.3,
+      408.6,
+      270.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b033",
+    "text": "•\t .Investir dans la montée en compétences du personnel et des organisations en matière de gestion",
+    "bbox": [
+      65.0,
+      282.3,
+      543.4,
+      296.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b034",
+    "text": "des données",
+    "bbox": [
+      76.4,
+      295.5,
+      136.7,
+      310.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b035",
+    "text": "Les bailleurs de fonds et les organisations humanitaires devraient identifier les possibilités d’investir",
+    "bbox": [
+      76.4,
+      309.1,
+      535.5,
+      323.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b036",
+    "text": "dans le développement d’une expertise en gestion des données, notamment pour le personnel non",
+    "bbox": [
+      76.4,
+      322.3,
+      531.3,
+      336.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b037",
+    "text": "technique. La communauté des bailleurs de fonds est particulièrement bien placée pour encourager",
+    "bbox": [
+      76.4,
+      335.5,
+      534.5,
+      349.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b038",
+    "text": "la Responsabilité des données en fournissant des ressources supplémentaires pour la formation et le",
+    "bbox": [
+      76.4,
+      348.7,
+      538.2,
+      362.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b039",
+    "text": "renforcement des capacités.",
+    "bbox": [
+      76.4,
+      361.9,
+      207.7,
+      375.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b040",
+    "text": "•\t Adopter des principes communs pour la gestion des données à destination des bailleurs de fonds",
+    "bbox": [
+      65.0,
+      387.9,
+      542.8,
+      402.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b041",
+    "text": "Il existe déjà dans le secteur une série de principes et d’engagements pour informer les différents",
+    "bbox": [
+      76.4,
+      401.5,
+      519.4,
+      415.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b042",
+    "text": "aspects des dons à destination humanitaire.15 Toutefois, ces mesures ne répondent pas suffisamment",
+    "bbox": [
+      76.4,
+      414.7,
+      540.2,
+      428.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b043",
+    "text": "aux préoccupations liées à la Responsabilité des données. Les bailleurs de fonds et les partenaires",
+    "bbox": [
+      76.4,
+      427.9,
+      524.9,
+      441.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b044",
+    "text": "devraient s’engager dans l’élaboration de principes et de directives communs pour le partage des",
+    "bbox": [
+      76.4,
+      441.1,
+      521.2,
+      455.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b045",
+    "text": "données aux bailleurs de fonds afin de combler cette lacune. La Humanitarian Data and Trust",
+    "bbox": [
+      76.4,
+      454.1,
+      506.3,
+      468.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b046",
+    "text": "Initiative, codirigée par le Gouvernement suisse, le CICR et le Centre, offre une plateforme pour",
+    "bbox": [
+      76.4,
+      467.3,
+      512.2,
+      481.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b047",
+    "text": "faciliter ce processus dans le cadre de ses travaux en cours visant à instaurer la confiance par le",
+    "bbox": [
+      76.4,
+      480.7,
+      510.7,
+      494.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "6",
+    "page_number": 5,
+    "block_id": "6_p5_b048",
+    "text": "dialogue.",
+    "bbox": [
+      76.4,
+      493.9,
+      119.2,
+      507.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

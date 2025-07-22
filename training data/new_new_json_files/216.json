@@ -1,0 +1,2102 @@
+[
+  {
+    "pdf_id": "216",
+    "page_number": 1,
+    "block_id": "216_p1_b001",
+    "text": "Mercury Chamber",
+    "bbox": [
+      115.0,
+      437.2,
+      157.3,
+      739.5
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 1,
+    "block_id": "216_p1_b002",
+    "text": "Considerations",
+    "bbox": [
+      145.6,
+      492.9,
+      187.9,
+      739.5
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 1,
+    "block_id": "216_p1_b003",
+    "text": "V. Graves",
+    "bbox": [
+      247.8,
+      650.4,
+      275.3,
+      739.5
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 1,
+    "block_id": "216_p1_b004",
+    "text": "IDS-NF Target Studies",
+    "bbox": [
+      393.5,
+      533.1,
+      421.0,
+      739.5
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 1,
+    "block_id": "216_p1_b005",
+    "text": "July 2011",
+    "bbox": [
+      433.4,
+      651.9,
+      460.9,
+      739.5
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b004",
+    "text": "Flow Loop Review",
+    "bbox": [
+      43.6,
+      443.5,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b005",
+    "text": "• 1 cm dia nozzle, 20 m/s jet requires 1.57 liter/sec",
+    "bbox": [
+      143.4,
+      189.2,
+      175.5,
+      740.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b006",
+    "text": "mercury flow (94.2 liter/min, 24.9 gpm).",
+    "bbox": [
+      173.6,
+      298.9,
+      205.7,
+      721.8
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b007",
+    "text": "• MERIT experiment showed that a pump discharge",
+    "bbox": [
+      217.8,
+      172.6,
+      249.9,
+      740.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b008",
+    "text": "pressure of ~40 bar required to produce the desired jet.",
+    "bbox": [
+      248.1,
+      119.0,
+      280.2,
+      721.8
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b009",
+    "text": "• Basic flow scheme",
+    "bbox": [
+      292.3,
+      516.4,
+      324.5,
+      740.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 2,
+    "block_id": "216_p2_b010",
+    "text": "Pump → Nozzle → Jet/Beam Dump → Heat Exchanger → Pump",
+    "bbox": [
+      331.7,
+      111.9,
+      354.0,
+      712.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b004",
+    "text": "Hg Flow",
+    "bbox": [
+      43.6,
+      607.0,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b005",
+    "text": "• Minimize pressure",
+    "bbox": [
+      143.7,
+      544.6,
+      171.2,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b006",
+    "text": "drops through piping",
+    "bbox": [
+      169.6,
+      517.6,
+      197.1,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b007",
+    "text": "by increasing diameter",
+    "bbox": [
+      195.5,
+      507.3,
+      223.0,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b008",
+    "text": "– 2\" nozzle supply piping",
+    "bbox": [
+      229.8,
+      503.7,
+      252.7,
+      712.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b009",
+    "text": "transitioning to 1 cm",
+    "bbox": [
+      251.4,
+      525.2,
+      274.3,
+      690.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b010",
+    "text": "nozzle",
+    "bbox": [
+      273.0,
+      640.6,
+      295.9,
+      690.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b011",
+    "text": "Overflow",
+    "bbox": [
+      107.8,
+      353.4,
+      119.8,
+      400.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b012",
+    "text": "Mercury Drain",
+    "bbox": [
+      122.2,
+      330.7,
+      134.2,
+      400.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b013",
+    "text": "Mercury",
+    "bbox": [
+      191.4,
+      428.7,
+      203.4,
+      472.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b014",
+    "text": "Pump",
+    "bbox": [
+      205.8,
+      444.3,
+      217.8,
+      472.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b015",
+    "text": "Gravity Drain",
+    "bbox": [
+      261.7,
+      206.3,
+      273.7,
+      272.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b016",
+    "text": "Flow Control",
+    "bbox": [
+      276.1,
+      207.8,
+      288.1,
+      272.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b017",
+    "text": "Valve",
+    "bbox": [
+      290.5,
+      246.6,
+      302.5,
+      272.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b018",
+    "text": "Storage",
+    "bbox": [
+      373.4,
+      261.4,
+      385.4,
+      301.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b019",
+    "text": "Tank",
+    "bbox": [
+      387.8,
+      278.7,
+      399.8,
+      301.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b020",
+    "text": "Heat",
+    "bbox": [
+      315.5,
+      291.6,
+      327.5,
+      317.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b021",
+    "text": "Exchanger",
+    "bbox": [
+      329.9,
+      267.5,
+      341.9,
+      317.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b022",
+    "text": "Beam",
+    "bbox": [
+      249.3,
+      127.4,
+      261.3,
+      158.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 3,
+    "block_id": "216_p3_b023",
+    "text": "Dump",
+    "bbox": [
+      263.7,
+      128.5,
+      275.7,
+      158.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b004",
+    "text": "Gravity Drain Requires Flow Control",
+    "bbox": [
+      43.6,
+      150.8,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b005",
+    "text": "• Bulk flow exits dump",
+    "bbox": [
+      143.7,
+      519.2,
+      171.2,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b006",
+    "text": "via overflow drains",
+    "bbox": [
+      169.6,
+      543.3,
+      197.1,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b007",
+    "text": "• Gravity drain",
+    "bbox": [
+      209.5,
+      594.8,
+      237.0,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b008",
+    "text": "intended to remain",
+    "bbox": [
+      235.4,
+      540.3,
+      262.9,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b009",
+    "text": "closed until end-of",
+    "bbox": [
+      261.4,
+      541.3,
+      288.9,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b010",
+    "text": "run, but this liquid",
+    "bbox": [
+      287.3,
+      544.9,
+      314.8,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b011",
+    "text": "becomes static",
+    "bbox": [
+      313.2,
+      579.5,
+      340.7,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b012",
+    "text": "• Decay heating",
+    "bbox": [
+      353.1,
+      582.7,
+      380.6,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b013",
+    "text": "requires gravity",
+    "bbox": [
+      379.0,
+      568.6,
+      406.5,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b014",
+    "text": "drain to have flow",
+    "bbox": [
+      404.9,
+      548.9,
+      432.4,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b015",
+    "text": "control",
+    "bbox": [
+      430.9,
+      649.7,
+      458.4,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b016",
+    "text": "Mercury",
+    "bbox": [
+      414.5,
+      459.6,
+      426.5,
+      503.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b017",
+    "text": "Jet",
+    "bbox": [
+      428.9,
+      476.0,
+      440.9,
+      489.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b018",
+    "text": "Proton",
+    "bbox": [
+      253.1,
+      461.8,
+      265.1,
+      497.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b019",
+    "text": "Beam",
+    "bbox": [
+      267.5,
+      469.6,
+      279.5,
+      497.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b020",
+    "text": "Mercury",
+    "bbox": [
+      449.4,
+      210.9,
+      461.4,
+      254.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b021",
+    "text": "Overflow",
+    "bbox": [
+      463.8,
+      210.3,
+      475.8,
+      254.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b022",
+    "text": "Gravity",
+    "bbox": [
+      472.6,
+      363.0,
+      484.6,
+      400.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b023",
+    "text": "Drain",
+    "bbox": [
+      487.0,
+      371.6,
+      499.0,
+      400.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b024",
+    "text": "Flow",
+    "bbox": [
+      501.4,
+      374.7,
+      513.4,
+      400.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b025",
+    "text": "Control",
+    "bbox": [
+      515.8,
+      364.5,
+      527.8,
+      400.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b026",
+    "text": "Overflow",
+    "bbox": [
+      501.7,
+      214.1,
+      513.7,
+      261.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b027",
+    "text": "drains",
+    "bbox": [
+      516.1,
+      224.3,
+      528.1,
+      254.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 4,
+    "block_id": "216_p4_b028",
+    "text": "Shielding",
+    "bbox": [
+      476.2,
+      128.3,
+      488.2,
+      172.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b004",
+    "text": "Mercury Chamber Basics",
+    "bbox": [
+      43.6,
+      327.5,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b005",
+    "text": "• Chamber serves as both jet and beam dumps",
+    "bbox": [
+      116.3,
+      368.5,
+      139.2,
+      740.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b006",
+    "text": "– Chamber must encompass the nozzle tip",
+    "bbox": [
+      146.0,
+      404.1,
+      166.6,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b007",
+    "text": "• No openings into chamber during operation",
+    "bbox": [
+      179.3,
+      380.7,
+      202.2,
+      740.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b008",
+    "text": "– Mercury flows in a closed loop",
+    "bbox": [
+      209.1,
+      475.4,
+      229.7,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b009",
+    "text": "– Likely will be double-walled for mercury containment, possibly water cooled",
+    "bbox": [
+      236.5,
+      155.8,
+      257.1,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b010",
+    "text": "• No embedded sensors",
+    "bbox": [
+      269.8,
+      546.1,
+      292.7,
+      740.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b011",
+    "text": "• Gravity drain of mercury required",
+    "bbox": [
+      305.4,
+      461.5,
+      328.3,
+      740.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b012",
+    "text": "• Penetrations (ports) into chamber",
+    "bbox": [
+      341.0,
+      458.6,
+      363.9,
+      740.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b013",
+    "text": "– Nozzle",
+    "bbox": [
+      370.7,
+      644.0,
+      391.3,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b014",
+    "text": "– Hg drains (overflow and maintenance)",
+    "bbox": [
+      398.2,
+      423.2,
+      418.8,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b015",
+    "text": "– Vents (in and out)",
+    "bbox": [
+      425.6,
+      566.8,
+      446.2,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b016",
+    "text": "– Beam windows (upstream and downstream)",
+    "bbox": [
+      453.0,
+      382.1,
+      473.7,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 5,
+    "block_id": "216_p5_b017",
+    "text": "– Cooling?",
+    "bbox": [
+      480.5,
+      626.9,
+      501.1,
+      712.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b004",
+    "text": "Simple Chamber – Overflow Drain",
+    "bbox": [
+      43.6,
+      184.0,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b005",
+    "text": "Options",
+    "bbox": [
+      74.2,
+      613.4,
+      116.4,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b006",
+    "text": "• Splash mitigation not shown",
+    "bbox": [
+      360.5,
+      493.0,
+      383.4,
+      734.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b007",
+    "text": "• Size of drainage system outlets TBD",
+    "bbox": [
+      396.2,
+      432.7,
+      419.1,
+      734.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b008",
+    "text": "Drain Pipes",
+    "bbox": [
+      313.4,
+      530.4,
+      325.4,
+      586.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b009",
+    "text": "Drain Slots",
+    "bbox": [
+      305.5,
+      166.9,
+      317.5,
+      220.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 6,
+    "block_id": "216_p6_b010",
+    "text": "Drain Chamber",
+    "bbox": [
+      501.7,
+      247.8,
+      513.7,
+      322.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b004",
+    "text": "Mercury Chamber Ports",
+    "bbox": [
+      43.6,
+      350.1,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b005",
+    "text": "• Chamber requires",
+    "bbox": [
+      143.7,
+      547.8,
+      171.2,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b006",
+    "text": "several ports",
+    "bbox": [
+      169.6,
+      599.0,
+      197.1,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b007",
+    "text": "• Sizes likely to",
+    "bbox": [
+      209.5,
+      586.8,
+      237.0,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b008",
+    "text": "increase due to",
+    "bbox": [
+      235.4,
+      571.7,
+      262.9,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b009",
+    "text": "remote handling",
+    "bbox": [
+      261.4,
+      563.4,
+      288.9,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b010",
+    "text": "requirements",
+    "bbox": [
+      287.3,
+      597.2,
+      314.8,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b011",
+    "text": "Vents",
+    "bbox": [
+      151.9,
+      373.9,
+      163.9,
+      404.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b012",
+    "text": "(In/Out)",
+    "bbox": [
+      166.3,
+      370.0,
+      178.3,
+      410.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b013",
+    "text": "Jet Nozzle",
+    "bbox": [
+      308.3,
+      409.5,
+      320.3,
+      459.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b014",
+    "text": "Overflow",
+    "bbox": [
+      491.5,
+      293.3,
+      503.5,
+      342.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b015",
+    "text": "Drains",
+    "bbox": [
+      505.9,
+      303.2,
+      517.9,
+      334.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b016",
+    "text": "Maintenance",
+    "bbox": [
+      472.8,
+      434.3,
+      484.8,
+      502.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b017",
+    "text": "Drain (Valved)",
+    "bbox": [
+      487.2,
+      434.6,
+      499.2,
+      505.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 7,
+    "block_id": "216_p7_b018",
+    "text": "Beam Pipe",
+    "bbox": [
+      361.9,
+      409.8,
+      373.9,
+      462.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b004",
+    "text": "Chamber Relative to Existing Coils",
+    "bbox": [
+      43.6,
+      171.6,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b005",
+    "text": "• Sized to locate drain pipes",
+    "bbox": [
+      144.1,
+      531.3,
+      164.8,
+      740.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b006",
+    "text": "below resistive magnets",
+    "bbox": [
+      163.6,
+      550.8,
+      184.2,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b007",
+    "text": "• No beam pipe shown",
+    "bbox": [
+      197.0,
+      574.1,
+      217.6,
+      740.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b008",
+    "text": "• Severely impacts tungsten",
+    "bbox": [
+      230.4,
+      530.3,
+      251.1,
+      740.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b009",
+    "text": "shielding",
+    "bbox": [
+      249.9,
+      657.1,
+      270.5,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b010",
+    "text": "• Chamber shape requires",
+    "bbox": [
+      283.4,
+      544.4,
+      304.0,
+      740.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b011",
+    "text": "significant increase in",
+    "bbox": [
+      302.8,
+      562.3,
+      323.4,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b012",
+    "text": "complexity",
+    "bbox": [
+      322.2,
+      644.7,
+      342.9,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b013",
+    "text": "• Integrating resistive magnets",
+    "bbox": [
+      355.7,
+      512.4,
+      376.3,
+      740.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b014",
+    "text": "and chamber into a single",
+    "bbox": [
+      375.1,
+      535.4,
+      395.7,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 8,
+    "block_id": "216_p8_b015",
+    "text": "module likely to be required",
+    "bbox": [
+      394.5,
+      525.4,
+      415.2,
+      721.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b001",
+    "text": "Managed by UT-Battelle",
+    "bbox": [
+      539.8,
+      629.7,
+      549.7,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b002",
+    "text": "for the U.S. Department of Energy",
+    "bbox": [
+      549.5,
+      594.9,
+      559.5,
+      719.8
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b003",
+    "text": "Mercury Chamber Considerations, July 2011",
+    "bbox": [
+      550.2,
+      314.8,
+      560.2,
+      477.1
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b004",
+    "text": "Upstream Solenoids Affect Design",
+    "bbox": [
+      43.6,
+      177.5,
+      85.8,
+      740.0
+    ],
+    "font_size": 30.0,
+    "font_name": "ArialBlack",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b005",
+    "text": "• Long piping required",
+    "bbox": [
+      143.7,
+      525.1,
+      171.2,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b006",
+    "text": "• Remote removal /",
+    "bbox": [
+      183.6,
+      552.0,
+      211.1,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b007",
+    "text": "insertion more difficult",
+    "bbox": [
+      209.5,
+      508.5,
+      237.0,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b008",
+    "text": "• Beam trajectory impacted",
+    "bbox": [
+      249.4,
+      481.0,
+      276.9,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b009",
+    "text": "– Dictates the location of",
+    "bbox": [
+      283.7,
+      505.9,
+      306.6,
+      712.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b010",
+    "text": "upstream accelerator",
+    "bbox": [
+      305.3,
+      524.8,
+      328.2,
+      690.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b011",
+    "text": "– Ramifications of inaccurate",
+    "bbox": [
+      334.9,
+      472.3,
+      357.8,
+      712.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b012",
+    "text": "field map?",
+    "bbox": [
+      356.5,
+      608.9,
+      379.4,
+      690.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b013",
+    "text": "• More utility connections",
+    "bbox": [
+      391.7,
+      490.1,
+      419.2,
+      740.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "216",
+    "page_number": 9,
+    "block_id": "216_p9_b014",
+    "text": "interfere with beam path",
+    "bbox": [
+      417.7,
+      494.2,
+      445.2,
+      721.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow,Bold",
+    "label": "HH3"
+  }
+]

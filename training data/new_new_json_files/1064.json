@@ -1,0 +1,1217 @@
+[
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b001",
+    "text": "OMB Control Number 1505-0222",
+    "bbox": [
+      442.6,
+      21.8,
+      592.7,
+      32.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b002",
+    "text": "NAME OF INSTITUTION",
+    "bbox": [
+      19.4,
+      75.8,
+      125.4,
+      86.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b003",
+    "text": "(Include Holding Company Where Applicable)",
+    "bbox": [
+      19.4,
+      88.3,
+      169.1,
+      98.3
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b004",
+    "text": "Person to be contacted",
+    "bbox": [
+      19.4,
+      129.8,
+      127.9,
+      140.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b005",
+    "text": "regarding this report:",
+    "bbox": [
+      19.4,
+      143.6,
+      114.9,
+      154.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b006",
+    "text": "RSSD:",
+    "bbox": [
+      286.6,
+      129.8,
+      314.6,
+      140.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b007",
+    "text": "(For Bank Holding Companies)",
+    "bbox": [
+      286.6,
+      146.6,
+      384.6,
+      154.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b008",
+    "text": "UST Sequence Number:",
+    "bbox": [
+      19.4,
+      162.2,
+      125.0,
+      173.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b009",
+    "text": "Holding  Company Docket Number:",
+    "bbox": [
+      286.6,
+      162.2,
+      446.4,
+      173.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b010",
+    "text": "(For Thrift Holding Companies)",
+    "bbox": [
+      286.6,
+      179.0,
+      386.4,
+      187.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b011",
+    "text": "CPP/CDCI Funds",
+    "bbox": [
+      19.4,
+      194.6,
+      93.8,
+      205.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b012",
+    "text": "Received:",
+    "bbox": [
+      19.4,
+      208.1,
+      62.7,
+      219.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b013",
+    "text": "FDIC Certificate Number:",
+    "bbox": [
+      286.6,
+      194.6,
+      400.2,
+      205.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b014",
+    "text": "(For Depository Institutions)",
+    "bbox": [
+      286.6,
+      211.4,
+      378.1,
+      219.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b015",
+    "text": "CPP/CDCI Funds Repaid",
+    "bbox": [
+      19.4,
+      227.0,
+      127.1,
+      238.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b016",
+    "text": "to Date:",
+    "bbox": [
+      19.4,
+      240.5,
+      55.5,
+      251.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b017",
+    "text": "Credit Union Charter Number:",
+    "bbox": [
+      286.6,
+      227.0,
+      423.7,
+      238.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b018",
+    "text": "(For Credit Unions)",
+    "bbox": [
+      286.6,
+      243.8,
+      348.2,
+      251.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b019",
+    "text": "Date Funded (first",
+    "bbox": [
+      19.4,
+      259.4,
+      102.7,
+      270.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b020",
+    "text": "funding):",
+    "bbox": [
+      19.4,
+      272.9,
+      59.8,
+      283.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b021",
+    "text": "City:",
+    "bbox": [
+      286.6,
+      259.4,
+      306.6,
+      270.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b022",
+    "text": "Date Repaid1:",
+    "bbox": [
+      19.4,
+      291.2,
+      80.5,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b023",
+    "text": "State:",
+    "bbox": [
+      286.6,
+      291.8,
+      312.7,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b024",
+    "text": "1If repayment was incremental, please enter the most recent",
+    "bbox": [
+      19.4,
+      326.8,
+      256.4,
+      337.3
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b025",
+    "text": "repayment date.",
+    "bbox": [
+      19.4,
+      338.8,
+      85.8,
+      349.3
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b026",
+    "text": "American taxpayers are quite interested in knowing how banks have used the money that Treasury has invested under the",
+    "bbox": [
+      19.4,
+      351.8,
+      564.6,
+      366.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b027",
+    "text": "Capital Purchase Program (CPP) and Community Development Capital Initiative (CDCI).  To answer that question, Treasury is",
+    "bbox": [
+      19.4,
+      369.6,
+      573.4,
+      380.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b028",
+    "text": "seeking responses that describe generally how the CPP/CDCI investment has affected the operation of your business.  We",
+    "bbox": [
+      19.4,
+      383.4,
+      559.3,
+      394.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b029",
+    "text": "understand that once received, the cash associated with TARP funding is indistinguishable from other cash sources, unless the",
+    "bbox": [
+      19.4,
+      397.2,
+      580.3,
+      408.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b030",
+    "text": "funds were segregated, and therefore it may not be feasible to identify precisely how the CPP/CDCI investment was deployed or",
+    "bbox": [
+      19.4,
+      411.1,
+      588.4,
+      422.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b031",
+    "text": "how many CPP/CDCI dollars were allocated to each use.  Nevertheless, we ask you to provide as much information as you can",
+    "bbox": [
+      19.4,
+      424.9,
+      578.6,
+      435.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b032",
+    "text": "about how you have used the capital Treasury has provided, and how your uses of that capital have changed over time.",
+    "bbox": [
+      19.4,
+      438.7,
+      554.5,
+      449.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b033",
+    "text": "Treasury will be pairing this survey with a summary of certain balance sheet and other financial data from your institution's",
+    "bbox": [
+      19.4,
+      452.5,
+      570.0,
+      463.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b034",
+    "text": "regulatory filings, so to the extent you find it helpful to do so, please feel free to refer to your institution's quarterly call reports to",
+    "bbox": [
+      19.4,
+      466.3,
+      595.5,
+      477.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b035",
+    "text": "illustrate your answers.  This is your opportunity to speak to the taxpayers in your own words, which will be posted on our",
+    "bbox": [
+      19.4,
+      480.1,
+      561.8,
+      491.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b036",
+    "text": "website.",
+    "bbox": [
+      19.4,
+      493.9,
+      58.8,
+      504.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b037",
+    "text": "What specific ways did your institution utilize CPP/CDCI capital?  Check all that apply and elaborate as appropriate, especially if",
+    "bbox": [
+      19.4,
+      517.6,
+      588.6,
+      528.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b038",
+    "text": "the uses have shifted over time.  Your responses should reflect actions taken over the past year (or for the portion of the year in",
+    "bbox": [
+      19.4,
+      531.4,
+      593.7,
+      542.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b039",
+    "text": "which CPP/CDCI funds were outstanding).",
+    "bbox": [
+      19.4,
+      545.2,
+      205.9,
+      556.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b040",
+    "text": "Increase lending or reduce lending less than",
+    "bbox": [
+      37.4,
+      561.8,
+      236.1,
+      572.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b041",
+    "text": "otherwise would have occurred.",
+    "bbox": [
+      37.4,
+      575.6,
+      181.4,
+      586.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b042",
+    "text": "To the extent the funds supported increased",
+    "bbox": [
+      37.4,
+      620.8,
+      238.9,
+      631.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b043",
+    "text": "lending, please describe the major type of loans, if",
+    "bbox": [
+      37.4,
+      634.6,
+      264.8,
+      645.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b044",
+    "text": "possible (residential mortgage loans, commercial",
+    "bbox": [
+      37.4,
+      648.4,
+      258.7,
+      659.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b045",
+    "text": "mortgage loans, small business loans, etc.).",
+    "bbox": [
+      37.4,
+      662.2,
+      230.2,
+      673.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b046",
+    "text": "Increase securities purchased (ABS, MBS, etc.).",
+    "bbox": [
+      37.4,
+      679.7,
+      246.0,
+      690.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b047",
+    "text": "ANNUAL USE OF CAPITAL SURVEY - 2015",
+    "bbox": [
+      64.4,
+      49.1,
+      270.5,
+      61.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b048",
+    "text": "DC Federal Credit Union",
+    "bbox": [
+      21.4,
+      104.2,
+      122.0,
+      114.2
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b049",
+    "text": "Thomas Culhane",
+    "bbox": [
+      136.1,
+      133.4,
+      205.9,
+      143.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b050",
+    "text": "1430",
+    "bbox": [
+      136.1,
+      170.0,
+      156.6,
+      180.0
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b051",
+    "text": "1,522,000",
+    "bbox": [
+      223.2,
+      202.4,
+      263.3,
+      212.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b052",
+    "text": "16411",
+    "bbox": [
+      452.2,
+      234.8,
+      477.9,
+      244.8
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b053",
+    "text": "Sep 29, 2010",
+    "bbox": [
+      210.5,
+      267.2,
+      263.3,
+      277.2
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b054",
+    "text": "Washington",
+    "bbox": [
+      452.2,
+      267.2,
+      502.8,
+      277.2
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b055",
+    "text": "N/A",
+    "bbox": [
+      247.1,
+      299.6,
+      263.3,
+      309.6
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b056",
+    "text": "District of Columbia",
+    "bbox": [
+      452.2,
+      299.6,
+      534.9,
+      309.6
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b057",
+    "text": "The funds were intended to support an increase in mortgage lending.  The",
+    "bbox": [
+      275.2,
+      565.4,
+      586.0,
+      575.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b058",
+    "text": "mortgage loan portfolio increased 43% from prior year end.",
+    "bbox": [
+      275.2,
+      577.4,
+      522.5,
+      587.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b059",
+    "text": "Mortgage loan portfolio increased 43% - consumer loan portfolio increased",
+    "bbox": [
+      275.2,
+      624.3,
+      589.6,
+      634.3
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b060",
+    "text": "4%.",
+    "bbox": [
+      275.2,
+      636.3,
+      290.3,
+      646.3
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 1,
+    "block_id": "1064_p1_b061",
+    "text": "CDCI",
+    "bbox": [
+      21.4,
+      49.4,
+      42.1,
+      59.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b001",
+    "text": "Make other investments",
+    "bbox": [
+      37.4,
+      30.8,
+      146.9,
+      41.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b002",
+    "text": "Increase reserves for non-performing assets",
+    "bbox": [
+      37.4,
+      87.4,
+      234.0,
+      98.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b003",
+    "text": "Reduce borrowings",
+    "bbox": [
+      37.4,
+      146.3,
+      123.7,
+      157.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b004",
+    "text": "Increase charge-offs",
+    "bbox": [
+      37.4,
+      205.3,
+      127.8,
+      216.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b005",
+    "text": "Purchase another financial institution or purchase",
+    "bbox": [
+      37.4,
+      264.2,
+      262.9,
+      275.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b006",
+    "text": "assets from another financial institution",
+    "bbox": [
+      37.4,
+      277.6,
+      215.7,
+      288.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b007",
+    "text": "Held as non-leveraged increase to total capital",
+    "bbox": [
+      37.4,
+      323.2,
+      244.6,
+      334.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b008",
+    "text": "What actions were you able to avoid because of the capital infusion of CPP/CDCI funds?",
+    "bbox": [
+      37.4,
+      408.8,
+      429.0,
+      419.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b009",
+    "text": "Without the infusion of capital, we would have restricted deposit accumulation in order to maintain capital levels.  This has",
+    "bbox": [
+      39.4,
+      430.4,
+      549.5,
+      440.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 2,
+    "block_id": "1064_p2_b010",
+    "text": "permitted us to maintain staffing levels at the prior year's level.",
+    "bbox": [
+      39.4,
+      442.4,
+      302.2,
+      452.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b001",
+    "text": "What actions were you able to take that you may not have taken without the capital infusion of CPP/CDCI funds?",
+    "bbox": [
+      37.4,
+      32.6,
+      541.7,
+      43.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b002",
+    "text": "Please describe any other actions that you were able to undertake with the capital infusion of CPP/CDCI funds.",
+    "bbox": [
+      37.4,
+      381.8,
+      530.9,
+      392.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b003",
+    "text": "According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless",
+    "bbox": [
+      37.4,
+      732.8,
+      593.6,
+      743.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b004",
+    "text": "it displays a valid OMB control number.  The valid OMB control number for this information collection is 1505-0222.  The",
+    "bbox": [
+      37.4,
+      746.6,
+      578.2,
+      757.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b005",
+    "text": "time required to complete this information collection is estimated to average 80 hours per response.",
+    "bbox": [
+      37.4,
+      760.4,
+      487.5,
+      771.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b006",
+    "text": "We had earmarked these funds as a long term investment that would be used to support the growth of our mortgage loan portfolio.",
+    "bbox": [
+      39.4,
+      52.4,
+      591.8,
+      62.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b007",
+    "text": "We have observed mortgage loan growth of 43% over the past year and 77 % over the past two years.",
+    "bbox": [
+      39.4,
+      64.4,
+      463.6,
+      74.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b008",
+    "text": "DC Federal Credit Union has been successful in enhancing its capital strength and serving our communities by making credit",
+    "bbox": [
+      39.4,
+      403.4,
+      558.2,
+      413.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b009",
+    "text": "available to 11,000.  The productive use of CDCI funds is one of the tools that we have found helpful for our accomplishments of",
+    "bbox": [
+      39.4,
+      415.4,
+      571.4,
+      425.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1064",
+    "page_number": 3,
+    "block_id": "1064_p3_b010",
+    "text": "these objectives.",
+    "bbox": [
+      39.4,
+      427.4,
+      111.1,
+      437.4
+    ],
+    "font_size": 10.0,
+    "font_name": "MyriadPro-Regular",
+    "label": "BODY"
+  }
+]

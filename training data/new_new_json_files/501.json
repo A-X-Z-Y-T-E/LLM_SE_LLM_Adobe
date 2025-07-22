@@ -1,0 +1,1307 @@
+[
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b019",
+    "text": "0166203",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b020",
+    "text": "02/19/1991",
+    "bbox": [
+      212.6,
+      440.1,
+      281.3,
+      459.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b021",
+    "text": "INQ-Inquiry",
+    "bbox": [
+      214.7,
+      134.8,
+      285.0,
+      153.7
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b022",
+    "text": "A-570-201",
+    "bbox": [
+      209.4,
+      293.6,
+      265.4,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b023",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b024",
+    "text": "01/31/1996",
+    "bbox": [
+      414.1,
+      440.3,
+      482.9,
+      459.2
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b025",
+    "text": "06/14/2000",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b026",
+    "text": "Antidumping",
+    "bbox": [
+      417.0,
+      114.1,
+      493.4,
+      133.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 1,
+    "block_id": "501_p1_b027",
+    "text": "Message Date: 06/14/2000         Message Number: 0166203         Page 1 of 4",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b001",
+    "text": "Notice of Lifting of Suspension Date:",
+    "bbox": [
+      36.0,
+      23.1,
+      230.1,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b004",
+    "text": "RE:        HEAVY FORGED HAND TOOLS FROM THE PEOPLE'S REPUBLIC OF CHINA",
+    "bbox": [
+      36.0,
+      163.1,
+      511.1,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b005",
+    "text": "(HAMMERS/SLEDGES)(A-570-201) INQUIRY",
+    "bbox": [
+      36.0,
+      183.1,
+      282.7,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b006",
+    "text": "MESSAGE NO: 0166203                        DATE: 06 14 2000",
+    "bbox": [
+      36.0,
+      223.1,
+      415.6,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b007",
+    "text": "CATEGORY: ADA                            TYPE: INQ",
+    "bbox": [
+      36.0,
+      243.1,
+      380.9,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b008",
+    "text": "REFERENCE:                      REFERENCE DATE:",
+    "bbox": [
+      36.0,
+      263.1,
+      402.8,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b009",
+    "text": "CASES:  A - 570 - 201                  -     -",
+    "bbox": [
+      36.0,
+      283.1,
+      347.5,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b010",
+    "text": "-     -                      -     -",
+    "bbox": [
+      36.0,
+      303.1,
+      298.8,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b011",
+    "text": "-     -                      -     -",
+    "bbox": [
+      36.0,
+      323.1,
+      298.8,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b012",
+    "text": "PERIOD COVERED:  02 19 1991  TO  01 31 1996",
+    "bbox": [
+      36.0,
+      363.1,
+      421.6,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b013",
+    "text": "LIQ SUSPENSION DATE:",
+    "bbox": [
+      36.0,
+      403.1,
+      369.5,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b014",
+    "text": "TO: DIRECTORS OF FIELD OPERATIONS",
+    "bbox": [
+      36.0,
+      443.1,
+      419.5,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b015",
+    "text": "PORT DIRECTORS",
+    "bbox": [
+      36.0,
+      463.1,
+      356.8,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b016",
+    "text": "FROM: DIRECTOR, SPECIAL ENFORCEMENT",
+    "bbox": [
+      36.0,
+      503.1,
+      437.5,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b017",
+    "text": "RE: HEAVY FORGED HAND TOOLS FROM THE PEOPLE'S REPUBLIC",
+    "bbox": [
+      36.0,
+      543.1,
+      507.1,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b018",
+    "text": "OF CHINA (HAMMERS/SLEDGES)(A-570-201) INQUIRY",
+    "bbox": [
+      36.0,
+      563.1,
+      453.5,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b019",
+    "text": "1.   RECORDS AT THE DEPARTMENT OF COMMERCE INDICATE THAT THERE",
+    "bbox": [
+      36.0,
+      623.1,
+      534.1,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b020",
+    "text": "SHOULD BE NO UNLIQUIDATED ENTRIES OF HEAVY FORGED HAND TOOLS",
+    "bbox": [
+      36.0,
+      643.1,
+      534.8,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b021",
+    "text": "FROM THE PEOPLE'S REPUBLIC OF CHINA (HAMMERS/SLEDGES)(A-570-201)",
+    "bbox": [
+      36.0,
+      663.1,
+      527.7,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b022",
+    "text": "HELD BY CUSTOMS FOR ANTIDUMPING PURPOSES DURING THE PERIOD",
+    "bbox": [
+      36.0,
+      683.1,
+      530.8,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b023",
+    "text": "02/19/1991 THROUGH 1/31/1996.",
+    "bbox": [
+      36.0,
+      703.1,
+      383.6,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b024",
+    "text": "2.   IF ANY CUSTOMS IMPORT OFFICE IS SUSPENDING LIQUIDATION OF",
+    "bbox": [
+      36.0,
+      743.1,
+      506.1,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b025",
+    "text": "ENTRIES OF HEAVY FORGED HAND TOOLS FROM THE PEOPLE'S",
+    "bbox": [
+      36.0,
+      763.1,
+      502.4,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b026",
+    "text": "REPUBLIC OF CHINA (HAMMERS/SLEDGES)(A-570-201) FOR ANTIDUMPING",
+    "bbox": [
+      36.0,
+      783.1,
+      522.8,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 2,
+    "block_id": "501_p2_b027",
+    "text": "Message Date: 06/14/2000         Message Number: 0166203         Page 2 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b001",
+    "text": "PURPOSES FOR THE PERIOD 02/19/1991 THROUGH 1/31/1996, CUSTOMS",
+    "bbox": [
+      36.0,
+      43.1,
+      515.5,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b002",
+    "text": "OFFICERS SHOULD, WITHIN 20 DAYS OF RECEIPT OF THIS MESSAGE,",
+    "bbox": [
+      36.0,
+      63.1,
+      507.5,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b003",
+    "text": "REPORT THE FOLLOWING INFORMATION ON AN ENTRY-SPECIFIC BASIS TO",
+    "bbox": [
+      36.0,
+      83.1,
+      532.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b004",
+    "text": "HQ OAB VIA ACS E-MAIL: E-MAIL MESSAGE NUMBER, AD/CVD CASE",
+    "bbox": [
+      36.0,
+      103.1,
+      499.5,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b005",
+    "text": "NUMBER, ENTRY NUMBER(S), DATE OF ENTRY, MANUFACTURER,",
+    "bbox": [
+      36.0,
+      123.1,
+      503.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b006",
+    "text": "SHIPPER/SELLER AND, IMPORTER.  ALSO IDENTIFY THE PORT WHERE",
+    "bbox": [
+      36.0,
+      143.1,
+      512.1,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b007",
+    "text": "THE ENTRY IS HELD, AND PROVIDE THE NAME AND TELEPHONE NUMBER",
+    "bbox": [
+      36.0,
+      163.1,
+      528.8,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b008",
+    "text": "OF THE PRODUCT SPECIALIST AT THE PORT THAT WILL BE RESPONSIBLE",
+    "bbox": [
+      36.0,
+      183.1,
+      524.8,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b009",
+    "text": "FOR FINALIZING REPORTED ENTRIES. HQ OAB WILL FORWARD THIS",
+    "bbox": [
+      36.0,
+      203.1,
+      506.8,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b010",
+    "text": "INFORMATION TO THE APPROPRIATE OFFICE AT THE U.S. DEPARTMENT",
+    "bbox": [
+      36.0,
+      223.1,
+      522.1,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b011",
+    "text": "OF COMMERCE. NEGATIVE REPORTS ARE NOT REQUIRED.",
+    "bbox": [
+      36.0,
+      243.1,
+      486.1,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b012",
+    "text": "3.   IF THERE ARE ANY QUESTIONS REGARDING THIS MATTER BY CUSTOMS",
+    "bbox": [
+      36.0,
+      283.1,
+      529.5,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b013",
+    "text": "OFFICERS, PLEASE CONTACT VIA E-MAIL, THROUGH THE APPROPRIATE",
+    "bbox": [
+      36.0,
+      303.1,
+      520.8,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b014",
+    "text": "SUPERVISORY CHANNELS, OTHER GOVERNMENT AGENCY LIAISON, USING",
+    "bbox": [
+      36.0,
+      323.1,
+      538.8,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b015",
+    "text": "THE ATTRIBUTE \"HQ OAB.\"  IMPORTING PUBLIC AND INTERESTED PARTIES",
+    "bbox": [
+      36.0,
+      343.1,
+      522.6,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b016",
+    "text": "SHOULD CONTACT JACK K. DULBERGER OR SHEILA FORBES AT",
+    "bbox": [
+      36.0,
+      363.1,
+      499.5,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b017",
+    "text": "202-482-5505 AND 202-482-4697, AD/CVD ENFORCEMENT GROUP II,",
+    "bbox": [
+      36.0,
+      383.1,
+      489.5,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b018",
+    "text": "OFFICE 4, IMPORT ADMINISTRATION, INTERNATIONAL TRADE",
+    "bbox": [
+      36.0,
+      403.1,
+      482.8,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b019",
+    "text": "ADMINISTRATION, DEPARTMENT OF COMMERCE.",
+    "bbox": [
+      36.0,
+      423.1,
+      456.1,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b020",
+    "text": "4.   THERE ARE NO RESTRICTIONS ON THE RELEASE OF THIS",
+    "bbox": [
+      36.0,
+      463.1,
+      480.1,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b021",
+    "text": "INFORMATION.",
+    "bbox": [
+      36.0,
+      483.1,
+      343.5,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b022",
+    "text": "PAUL SCHWARTZ",
+    "bbox": [
+      36.0,
+      523.1,
+      355.5,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b023",
+    "text": "NOTE: THIS MESSAGE WAS INADVERTENTLY REMOVED FROM ADIL SO HAS",
+    "bbox": [
+      36.0,
+      563.1,
+      537.5,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b024",
+    "text": "BEEN REPOSTED TO ADIL ON NOVEMBER 14, 2009.  DIRECTOR, TRADE",
+    "bbox": [
+      36.0,
+      583.1,
+      511.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b025",
+    "text": "ENFORCEMENT       CONTROL IS NOW SHOWN AS DIRECTOR, SPECIAL",
+    "bbox": [
+      36.0,
+      603.1,
+      513.4,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b026",
+    "text": "ENFORCEMENT.  THE BALANCE OF THE TEXT AND INFORMATION REMAINS",
+    "bbox": [
+      36.0,
+      623.1,
+      534.1,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b027",
+    "text": "UNCHANGED AND MATCHES THE MESSAGE THAT STILL APPEARS ON THE",
+    "bbox": [
+      36.0,
+      643.1,
+      536.1,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b028",
+    "text": "ADD/CVD SEARCH APPLICATION ON CBP.GOV.",
+    "bbox": [
+      36.0,
+      663.1,
+      442.2,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 3,
+    "block_id": "501_p3_b029",
+    "text": "Message Date: 06/14/2000         Message Number: 0166203         Page 3 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 4,
+    "block_id": "501_p4_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 4,
+    "block_id": "501_p4_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 4,
+    "block_id": "501_p4_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "501",
+    "page_number": 4,
+    "block_id": "501_p4_b004",
+    "text": "Message Date: 06/14/2000         Message Number: 0166203         Page 4 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

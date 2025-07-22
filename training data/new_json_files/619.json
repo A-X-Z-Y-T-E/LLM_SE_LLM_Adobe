@@ -1,0 +1,62 @@
+[
+  {
+    "pdf_id": "619",
+    "page_number": 1,
+    "block_id": "619_p1_b001",
+    "text": "GOVERNMENT",
+    "bbox": [
+      497.4,
+      674.8,
+      580.8,
+      687.3
+    ],
+    "font_size": 10.7,
+    "font_name": "CairoFont-2-0",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "619",
+    "page_number": 1,
+    "block_id": "619_p1_b002",
+    "text": "EXHIBIT NO.",
+    "bbox": [
+      504.1,
+      686.9,
+      573.9,
+      696.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Palatino-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "619",
+    "page_number": 1,
+    "block_id": "619_p1_b003",
+    "text": "3:14-CR-293-M",
+    "bbox": [
+      506.5,
+      729.9,
+      574.2,
+      740.8
+    ],
+    "font_size": 9.8,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "619",
+    "page_number": 1,
+    "block_id": "619_p1_b004",
+    "text": "379",
+    "bbox": [
+      530.9,
+      702.4,
+      550.0,
+      715.2
+    ],
+    "font_size": 11.5,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  }
+]

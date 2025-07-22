@@ -1,0 +1,602 @@
+[
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b001",
+    "text": "ILLINOIS ECONOMIC RECOVERY COMMISSION",
+    "bbox": [
+      90.0,
+      72.4,
+      335.7,
+      84.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b002",
+    "text": "GLOBAL MARKETS SUBCOMMITTEE",
+    "bbox": [
+      90.0,
+      97.7,
+      282.2,
+      109.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b003",
+    "text": "MINUTES OF MEETING",
+    "bbox": [
+      90.0,
+      122.9,
+      210.7,
+      135.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b004",
+    "text": "DATE: December 16, 2009",
+    "bbox": [
+      90.0,
+      148.3,
+      214.3,
+      160.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b005",
+    "text": "TIME: 4.30 pm – 6.30 pm",
+    "bbox": [
+      90.0,
+      160.9,
+      208.6,
+      173.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b006",
+    "text": "LOCATION: 70 W Madison Street, Chicago, IL, Room 3400",
+    "bbox": [
+      90.0,
+      173.6,
+      363.8,
+      185.7
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b007",
+    "text": "Attendees",
+    "bbox": [
+      90.0,
+      198.8,
+      136.7,
+      211.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b008",
+    "text": "C. Bernardini, G. Webb, D. Cradit, W. Miquelon, D. Whitley, G. Wass, J. Hoelzle, S. Joshi, M.",
+    "bbox": [
+      90.0,
+      211.5,
+      512.8,
+      223.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b009",
+    "text": "Sorgman, I. Dumea",
+    "bbox": [
+      90.0,
+      224.2,
+      178.9,
+      236.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b010",
+    "text": "Invited Guests/ Presenters:",
+    "bbox": [
+      90.0,
+      236.8,
+      213.5,
+      249.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b011",
+    "text": "M. Gaudette, C. Haeni, L. Morrissey, E. Voyles, C. Zethmayr",
+    "bbox": [
+      90.0,
+      249.4,
+      364.8,
+      261.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b012",
+    "text": "c.c.",
+    "bbox": [
+      90.0,
+      262.1,
+      108.0,
+      274.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b013",
+    "text": "A. Rorke, J. Weisensee, J. Brodson, J. Reynolds",
+    "bbox": [
+      90.0,
+      274.7,
+      304.8,
+      286.9
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b014",
+    "text": "1. Charles Bernardini opened the meeting by informing the attendees that the agenda for the",
+    "bbox": [
+      108.0,
+      299.9,
+      522.5,
+      312.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b015",
+    "text": "meeting is the presentations from three organizations: Midwest U.S. – Japan Association,",
+    "bbox": [
+      126.0,
+      312.7,
+      522.2,
+      324.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b016",
+    "text": "Switzerland Trade & Investment Commission and the Rockford Area Economic",
+    "bbox": [
+      126.0,
+      325.3,
+      481.5,
+      337.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b017",
+    "text": "Development Council.",
+    "bbox": [
+      126.0,
+      338.0,
+      228.4,
+      350.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b018",
+    "text": "2. Marie Gaudette, Executive Director, Midwest U.S.-Japan Association presented history",
+    "bbox": [
+      108.0,
+      363.1,
+      514.3,
+      375.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b019",
+    "text": "of their organization, key activities of the group and offered the following key",
+    "bbox": [
+      126.0,
+      376.0,
+      472.5,
+      388.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b020",
+    "text": "observations / recommendations:",
+    "bbox": [
+      126.0,
+      388.6,
+      274.1,
+      400.7
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b021",
+    "text": "Leadership of the Illinois Economic Development group should have business /",
+    "bbox": [
+      162.0,
+      402.0,
+      514.9,
+      414.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b022",
+    "text": "industry executive background",
+    "bbox": [
+      162.0,
+      414.7,
+      300.4,
+      426.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b023",
+    "text": "State of Indiana did an excellent job in getting Honda plant to Indiana",
+    "bbox": [
+      162.0,
+      428.1,
+      472.1,
+      440.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b024",
+    "text": "Health Care should be the key focus in attracting new business opportunities",
+    "bbox": [
+      162.0,
+      441.5,
+      501.7,
+      453.7
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b025",
+    "text": "from Japan to Illinois",
+    "bbox": [
+      162.0,
+      454.2,
+      259.1,
+      466.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b026",
+    "text": "Need to target specific trade shows e.g. Bio 2010",
+    "bbox": [
+      162.0,
+      467.6,
+      381.0,
+      479.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b027",
+    "text": "Obtain a copy of A.T. Kearney study done 3-4 years ago",
+    "bbox": [
+      162.0,
+      481.1,
+      414.1,
+      493.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b028",
+    "text": "3. Claudine M. Haeni, Trade Commissioner, Switzerland Trade & Investment Promotion",
+    "bbox": [
+      108.0,
+      506.2,
+      509.3,
+      518.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b029",
+    "text": "summarized their group’s key role and activities in the 12 mid-west states. She",
+    "bbox": [
+      126.0,
+      519.0,
+      475.4,
+      531.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b030",
+    "text": "highlighted their role in the potential High Speed Rail project for the Midwest area. She",
+    "bbox": [
+      126.0,
+      531.6,
+      515.2,
+      543.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b031",
+    "text": "also expressed desire to receive monthly / quarterly statistics on State of Illinois’",
+    "bbox": [
+      126.0,
+      544.3,
+      483.8,
+      556.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b032",
+    "text": "economic data on a routine basis. She highlighted Denver Metro Economic Development",
+    "bbox": [
+      126.0,
+      557.0,
+      521.6,
+      569.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b033",
+    "text": "Group as ‘best of class’ in providing this type of information on a timely basis.",
+    "bbox": [
+      126.0,
+      569.6,
+      476.1,
+      581.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b034",
+    "text": "4. Eric D. Voyles, Vice President, National Business Development, Rockford Area",
+    "bbox": [
+      108.0,
+      594.7,
+      482.8,
+      607.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b035",
+    "text": "Economic Development Council made a formal presentation on their role, activities and",
+    "bbox": [
+      126.0,
+      607.5,
+      516.1,
+      619.7
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b036",
+    "text": "key accomplishments. Mayor Lawrence J. Morrissey provided in-depth commentary on",
+    "bbox": [
+      126.0,
+      620.2,
+      514.5,
+      632.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b037",
+    "text": "his experience in working with RAEDC and highlighted their success in attracting",
+    "bbox": [
+      126.0,
+      632.9,
+      490.8,
+      645.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b038",
+    "text": "business from China and Sweden. Copies of Mr. Voyles presentation were provided to",
+    "bbox": [
+      126.0,
+      645.5,
+      510.1,
+      657.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b039",
+    "text": "the attendees.",
+    "bbox": [
+      126.0,
+      658.1,
+      188.6,
+      670.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "696",
+    "page_number": 1,
+    "block_id": "696_p1_b040",
+    "text": "Satish V. Joshi",
+    "bbox": [
+      108.0,
+      683.4,
+      176.5,
+      695.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  }
+]

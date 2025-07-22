@@ -1,0 +1,1952 @@
+[
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      193.7,
+      443.1,
+      214.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      218.6,
+      277.1,
+      239.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      281.4,
+      270.1,
+      311.9
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b004",
+    "text": "Typhoon impact model",
+    "bbox": [
+      72.0,
+      318.2,
+      359.8,
+      351.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b005",
+    "text": "510 - An initiative of the Netherlands Red Cross",
+    "bbox": [
+      72.0,
+      356.6,
+      407.4,
+      375.3
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 1,
+    "block_id": "7_p1_b006",
+    "text": "August 2022",
+    "bbox": [
+      72.0,
+      393.9,
+      173.7,
+      415.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      149.4,
+      178.8,
+      170.5
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b002",
+    "text": "Typhoon impact model",
+    "bbox": [
+      72.0,
+      173.6,
+      247.4,
+      194.7
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      228.5,
+      149.4,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b004",
+    "text": "This document summarises the documentation and the finding of the peer review of the trigger",
+    "bbox": [
+      72.0,
+      245.1,
+      539.3,
+      258.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b005",
+    "text": "used in OCHA’s Philippines Anticipatory Action framework for typhoons. The impact prediction",
+    "bbox": [
+      72.0,
+      260.2,
+      539.4,
+      273.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b006",
+    "text": "model used as the basis for the trigger was developed by the Netherlands Red Cross 510 data",
+    "bbox": [
+      72.0,
+      275.4,
+      540.0,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b007",
+    "text": "and digital team, on behalf of the IFRC network and its partners. The model uses typhoon track",
+    "bbox": [
+      72.0,
+      290.6,
+      539.4,
+      303.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b008",
+    "text": "and rainfall forecasts to predict the percentage of houses that will be severely damaged per",
+    "bbox": [
+      72.0,
+      305.8,
+      539.6,
+      318.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b009",
+    "text": "municipality in the Philippines. OCHA Philippines used this model as a basis to begin a response",
+    "bbox": [
+      72.0,
+      321.0,
+      539.8,
+      333.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b010",
+    "text": "before a typhoon hit, based on the predicted number of houses damaged in the regions of Bicol",
+    "bbox": [
+      72.0,
+      336.2,
+      539.7,
+      349.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b011",
+    "text": "and Eastern Visayas. To find out more about this application, please see the Anticipatory Action",
+    "bbox": [
+      72.0,
+      351.3,
+      539.4,
+      364.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b012",
+    "text": "Framework for the Philippines.",
+    "bbox": [
+      72.0,
+      366.5,
+      220.6,
+      379.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b013",
+    "text": "This peer review was conducted between September 2021 and July 2022.",
+    "bbox": [
+      72.0,
+      396.9,
+      430.1,
+      409.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b014",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      427.3,
+      287.6,
+      441.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b015",
+    "text": "The documentation regarding the model, its application and the review process can be found at",
+    "bbox": [
+      72.0,
+      443.8,
+      539.3,
+      456.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b016",
+    "text": "the following links:",
+    "bbox": [
+      72.0,
+      459.0,
+      163.1,
+      471.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b017",
+    "text": "The Model Card describes version 1.0 of the model and was completed in September",
+    "bbox": [
+      108.0,
+      474.2,
+      539.7,
+      487.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b018",
+    "text": "2021.",
+    "bbox": [
+      108.0,
+      489.4,
+      135.6,
+      502.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b019",
+    "text": "The Model Evaluation Matrix was completed in October 2021 by a technical expert from",
+    "bbox": [
+      108.0,
+      504.5,
+      539.8,
+      517.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b020",
+    "text": "Leiden University, and in February 2022 by the client.",
+    "bbox": [
+      108.0,
+      519.7,
+      362.3,
+      532.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b021",
+    "text": "The Implementation Plan was completed in October 2021. It summarises the concrete",
+    "bbox": [
+      108.0,
+      534.9,
+      539.9,
+      547.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b022",
+    "text": "actions that the model will trigger or inform as part of the 2021-2022 OCHA anticipatory",
+    "bbox": [
+      108.0,
+      550.1,
+      539.7,
+      563.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b023",
+    "text": "action framework in the Philippines",
+    "bbox": [
+      108.0,
+      565.3,
+      279.5,
+      578.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b024",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      580.5,
+      539.4,
+      593.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b025",
+    "text": "intended use of the model. It was completed in November 2021 by an expert from the",
+    "bbox": [
+      108.0,
+      595.6,
+      539.6,
+      608.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b026",
+    "text": "London School of Economics; and updated in July 2022.",
+    "bbox": [
+      108.0,
+      610.8,
+      381.3,
+      623.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b027",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      641.2,
+      430.4,
+      654.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 2,
+    "block_id": "7_p2_b028",
+    "text": "2.1 Technical Review",
+    "bbox": [
+      72.0,
+      671.6,
+      184.5,
+      685.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b001",
+    "text": "Intended Use",
+    "bbox": [
+      72.0,
+      72.3,
+      141.2,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b002",
+    "text": "The target of the model is P (#damaged houses > threshold t). Several combinations of",
+    "bbox": [
+      108.0,
+      88.8,
+      539.4,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b003",
+    "text": "Probability P and threshold t are used as a trigger for early action. Make a clear",
+    "bbox": [
+      108.0,
+      104.0,
+      539.3,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b004",
+    "text": "statement under which circumstance which combination is used. This will help with later",
+    "bbox": [
+      108.0,
+      119.2,
+      539.4,
+      132.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b005",
+    "text": "evaluation of the model and transparency of its use.",
+    "bbox": [
+      108.0,
+      134.4,
+      360.3,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b006",
+    "text": "Model Development",
+    "bbox": [
+      72.0,
+      164.7,
+      177.1,
+      178.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b007",
+    "text": "As mentioned in the ethical review, more information about the sources of the input data",
+    "bbox": [
+      108.0,
+      181.3,
+      539.3,
+      194.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b008",
+    "text": "is desirable. The model should include information on how often the data sets are",
+    "bbox": [
+      108.0,
+      196.5,
+      539.4,
+      209.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b009",
+    "text": "updated, and how often the model is retrained to reflect these updates.",
+    "bbox": [
+      108.0,
+      211.6,
+      452.1,
+      224.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b010",
+    "text": "Model Evaluation",
+    "bbox": [
+      72.0,
+      242.0,
+      162.5,
+      256.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b011",
+    "text": "The model is compared against a damage curve that is currently used to estimate",
+    "bbox": [
+      108.0,
+      258.6,
+      539.6,
+      271.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b012",
+    "text": "damage. Adjust this benchmark to whichever model or algorithm is used by the",
+    "bbox": [
+      108.0,
+      273.8,
+      539.9,
+      286.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b013",
+    "text": "Philippine authorities to estimate damage.",
+    "bbox": [
+      108.0,
+      288.9,
+      314.1,
+      301.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b014",
+    "text": "Specify how much variance in model performance is acceptable, i.e., with the model",
+    "bbox": [
+      108.0,
+      304.1,
+      539.4,
+      317.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b015",
+    "text": "working",
+    "bbox": [
+      108.0,
+      319.3,
+      146.7,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b016",
+    "text": "average",
+    "bbox": [
+      179.5,
+      319.3,
+      218.0,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b017",
+    "text": "better",
+    "bbox": [
+      227.4,
+      319.3,
+      256.1,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b018",
+    "text": "than",
+    "bbox": [
+      265.6,
+      319.3,
+      287.3,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b019",
+    "text": "the",
+    "bbox": [
+      296.8,
+      319.3,
+      312.2,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b020",
+    "text": "benchmark,",
+    "bbox": [
+      321.7,
+      319.3,
+      378.6,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b021",
+    "text": "how",
+    "bbox": [
+      388.1,
+      319.3,
+      408.7,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b022",
+    "text": "much",
+    "bbox": [
+      418.2,
+      319.3,
+      445.7,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b023",
+    "text": "extreme",
+    "bbox": [
+      455.1,
+      319.3,
+      494.9,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b024",
+    "text": "over",
+    "bbox": [
+      504.4,
+      319.3,
+      525.3,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b025",
+    "text": "underestimation is acceptable for field use. More specifically, indicate how robust the",
+    "bbox": [
+      108.0,
+      334.5,
+      539.5,
+      347.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b026",
+    "text": "model performance is over different typhoons.",
+    "bbox": [
+      108.0,
+      349.7,
+      333.8,
+      362.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b027",
+    "text": "Operational Readiness",
+    "bbox": [
+      72.0,
+      380.1,
+      190.4,
+      394.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b028",
+    "text": "For every model version, make a model release and keep an updated list of associated",
+    "bbox": [
+      108.0,
+      396.6,
+      539.6,
+      409.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b029",
+    "text": "input data. This will make reproducibility of earlier results easier and help keep track of",
+    "bbox": [
+      108.0,
+      411.8,
+      539.8,
+      424.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b030",
+    "text": "the data sources (and whose responsibility those are).",
+    "bbox": [
+      108.0,
+      427.0,
+      371.6,
+      439.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b031",
+    "text": "2.2 Ethical Review",
+    "bbox": [
+      72.0,
+      457.4,
+      169.5,
+      471.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b032",
+    "text": "Inaccuracy",
+    "bbox": [
+      72.0,
+      489.1,
+      129.3,
+      503.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b033",
+    "text": "The model performance scores for 2021 Typhoon Surigae are not reported. The rationale for",
+    "bbox": [
+      72.0,
+      505.6,
+      539.3,
+      518.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b034",
+    "text": "using the given error / accuracy tool and not others is missing. The model does not perform well",
+    "bbox": [
+      72.0,
+      520.8,
+      539.4,
+      533.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b035",
+    "text": "at predicting really low and really high damage.",
+    "bbox": [
+      72.0,
+      536.0,
+      296.0,
+      548.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b036",
+    "text": "Recommendation: (1) Report latest error scores; (2) Contextualise the quality of the error",
+    "bbox": [
+      108.0,
+      551.2,
+      539.7,
+      564.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b037",
+    "text": "scores in light of existing and relevant research; (3) Include the rationale for using a",
+    "bbox": [
+      108.0,
+      566.4,
+      539.3,
+      579.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b038",
+    "text": "particular method of calculating error score as opposed to others.",
+    "bbox": [
+      108.0,
+      581.6,
+      428.3,
+      594.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b039",
+    "text": "False Negatives",
+    "bbox": [
+      72.0,
+      611.9,
+      155.7,
+      626.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b040",
+    "text": "In the case of Typhoon Goni in 2020, the model did not predict an extreme event until only a few",
+    "bbox": [
+      72.0,
+      628.5,
+      539.9,
+      641.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b041",
+    "text": "hours before landfall.",
+    "bbox": [
+      72.0,
+      643.7,
+      173.7,
+      656.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b042",
+    "text": "Recommendation: If the model does have 100% weightage in the activation of the",
+    "bbox": [
+      108.0,
+      658.8,
+      539.6,
+      671.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b043",
+    "text": "trigger, then the possibility of a false negative should be clear operationally, e.g., in the",
+    "bbox": [
+      108.0,
+      674.0,
+      539.7,
+      686.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b044",
+    "text": "case of Typhoon Goni. This is of particular importance because we know that the model",
+    "bbox": [
+      108.0,
+      689.2,
+      539.4,
+      702.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 3,
+    "block_id": "7_p3_b045",
+    "text": "does perform well in cases of rapid intensification or high damage scenarios.",
+    "bbox": [
+      108.0,
+      704.4,
+      482.9,
+      717.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b001",
+    "text": "Missing Attributes",
+    "bbox": [
+      72.0,
+      87.5,
+      168.8,
+      101.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b002",
+    "text": "The implementation model mentions a priority list based on poverty, gender, and building material,",
+    "bbox": [
+      72.0,
+      104.0,
+      539.5,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b003",
+    "text": "while the model uses poverty, hazard data, and building type where poverty is not disaggregated",
+    "bbox": [
+      72.0,
+      119.2,
+      540.0,
+      132.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b004",
+    "text": "unless it follows some national standard of income levels to estimate poverty lines.",
+    "bbox": [
+      72.0,
+      134.4,
+      469.4,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b005",
+    "text": "Recommendation: Clarity is required on the relative importance of variables used, and",
+    "bbox": [
+      108.0,
+      149.5,
+      539.6,
+      162.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b006",
+    "text": "consistency between the model and the implementation plan. There needs to be a",
+    "bbox": [
+      108.0,
+      164.7,
+      539.9,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b007",
+    "text": "distinction drawn between the model and how the outputs of the model are used. Clear",
+    "bbox": [
+      108.0,
+      179.9,
+      539.9,
+      192.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b008",
+    "text": "delineation between input data (inclusion / exclusion criteria etc.); modelling process,",
+    "bbox": [
+      108.0,
+      195.1,
+      539.3,
+      208.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b009",
+    "text": "output, and use; and validation / verification, with a clear trail of documentation.",
+    "bbox": [
+      108.0,
+      210.3,
+      494.7,
+      223.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b010",
+    "text": "Lead Times",
+    "bbox": [
+      72.0,
+      240.7,
+      133.0,
+      254.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b011",
+    "text": "Lead time is the length of time between when a forecast is output and the occurrence of the",
+    "bbox": [
+      72.0,
+      257.2,
+      539.6,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b012",
+    "text": "shock that was forecasted. It is unclear the impact that forecast running time has on lead times",
+    "bbox": [
+      72.0,
+      272.4,
+      540.0,
+      285.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b013",
+    "text": "for implementation. In the case of Typhoon Ursula (Phanfone) in 2019, the trigger was reached",
+    "bbox": [
+      72.0,
+      287.6,
+      539.8,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b014",
+    "text": "only 12 hours prior to landfall for which no humanitarian action could be planned.",
+    "bbox": [
+      72.0,
+      302.7,
+      459.1,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b015",
+    "text": "Recommendation: In the implementation plan, more clarity is required on potential",
+    "bbox": [
+      108.0,
+      317.9,
+      539.3,
+      330.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b016",
+    "text": "operational impact of long lead times, especially with 100% weightage of model output",
+    "bbox": [
+      108.0,
+      333.1,
+      539.9,
+      346.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b017",
+    "text": "for trigger activation. The effect of different lead times is unclear for the implementation.",
+    "bbox": [
+      108.0,
+      348.3,
+      539.3,
+      361.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b018",
+    "text": "To quote one of the documents: 'It takes several hours for the forecast to run so the",
+    "bbox": [
+      108.0,
+      363.5,
+      539.8,
+      376.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b019",
+    "text": "initial conditions are already often outdated'.",
+    "bbox": [
+      108.0,
+      378.7,
+      324.1,
+      391.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b020",
+    "text": "Decision Support",
+    "bbox": [
+      72.0,
+      409.0,
+      162.3,
+      423.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b021",
+    "text": "Decision support concerns the extent to which action based on model output.",
+    "bbox": [
+      72.0,
+      425.6,
+      441.9,
+      438.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b022",
+    "text": "Recommendation: Clarity is required in the implementation plan about weightage of",
+    "bbox": [
+      108.0,
+      440.8,
+      539.7,
+      453.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b023",
+    "text": "model output on trigger activation, i.e., how much of the decision to act depends on the",
+    "bbox": [
+      108.0,
+      455.9,
+      539.6,
+      468.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b024",
+    "text": "model output. If this is not 100%, then the other considerations should be described.",
+    "bbox": [
+      108.0,
+      471.1,
+      516.8,
+      484.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b025",
+    "text": "Recommendation: Given the possibility of a false negative, operational readiness in case",
+    "bbox": [
+      108.0,
+      486.3,
+      539.6,
+      499.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b026",
+    "text": "of model failure should be detailed in the implementation plan.",
+    "bbox": [
+      108.0,
+      501.5,
+      412.3,
+      514.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b027",
+    "text": "Statistical Bias",
+    "bbox": [
+      72.0,
+      531.9,
+      150.7,
+      545.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b028",
+    "text": "Statistical bias occurs when a model or statistic is not representative of the underlying",
+    "bbox": [
+      72.0,
+      548.4,
+      539.3,
+      561.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b029",
+    "text": "population. In this model, different input datasets are used to model different typhoon scenarios,",
+    "bbox": [
+      72.0,
+      563.6,
+      539.9,
+      576.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b030",
+    "text": "social vulnerability / poverty data is not sufficiently disaggregated for evaluation, and the relative",
+    "bbox": [
+      72.0,
+      578.8,
+      539.4,
+      591.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b031",
+    "text": "importance / weightage of the variables in the model is unclear.",
+    "bbox": [
+      72.0,
+      594.0,
+      375.3,
+      606.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b032",
+    "text": "Recommendation: The model requires clear documentation of the different datasets",
+    "bbox": [
+      108.0,
+      609.2,
+      539.3,
+      622.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b033",
+    "text": "used, particularly the rationale behind parameters used and their disaggregation, e.g.,",
+    "bbox": [
+      108.0,
+      624.3,
+      539.4,
+      637.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b034",
+    "text": "poverty index. Discrepancies on this front exist between the model card and",
+    "bbox": [
+      108.0,
+      639.5,
+      539.4,
+      652.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b035",
+    "text": "implementation plan, and the model would benefit from their harmonisation. It would",
+    "bbox": [
+      108.0,
+      654.7,
+      539.9,
+      667.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b036",
+    "text": "also be useful to include these in an overview of the model development process, i.e., the",
+    "bbox": [
+      108.0,
+      669.9,
+      539.8,
+      682.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b037",
+    "text": "relative weighting and importance of these variables, and how the model changes when",
+    "bbox": [
+      108.0,
+      685.1,
+      539.4,
+      698.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 4,
+    "block_id": "7_p4_b038",
+    "text": "they change.",
+    "bbox": [
+      108.0,
+      700.2,
+      170.1,
+      713.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b001",
+    "text": "Lack of Transparency",
+    "bbox": [
+      72.0,
+      87.5,
+      184.8,
+      101.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b002",
+    "text": "The model is open source and has undergone technical review but is missing some",
+    "bbox": [
+      72.0,
+      104.0,
+      539.5,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b003",
+    "text": "documentation.",
+    "bbox": [
+      72.0,
+      119.2,
+      147.3,
+      132.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b004",
+    "text": "Recommendation: The model would benefit from better documentation of the modelling",
+    "bbox": [
+      108.0,
+      134.4,
+      539.9,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b005",
+    "text": "process, rationale for the algorithm selection, its fitness for purpose, inclusion/ exclusion",
+    "bbox": [
+      108.0,
+      149.5,
+      539.5,
+      162.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b006",
+    "text": "criteria for variables, etc.",
+    "bbox": [
+      108.0,
+      164.7,
+      228.0,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b007",
+    "text": "Systemic Bias",
+    "bbox": [
+      72.0,
+      195.1,
+      146.3,
+      209.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b008",
+    "text": "Systemic bias is the inherent tendency of a process to support specific outcomes. In this mode,",
+    "bbox": [
+      72.0,
+      211.6,
+      539.7,
+      224.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b009",
+    "text": "social vulnerability and poverty data are not substantially disaggregated. The move from 'common",
+    "bbox": [
+      72.0,
+      226.8,
+      540.0,
+      239.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b010",
+    "text": "dataset' to 'composite dataset' involved ranking of variables.",
+    "bbox": [
+      72.0,
+      242.0,
+      359.4,
+      254.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b011",
+    "text": "Recommendation: Clarity, rationale and disaggregation of parameters like social",
+    "bbox": [
+      108.0,
+      257.2,
+      539.7,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b012",
+    "text": "vulnerability and poverty would be beneficial. Clarity required in relative weights of",
+    "bbox": [
+      108.0,
+      272.4,
+      539.4,
+      285.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "7",
+    "page_number": 5,
+    "block_id": "7_p5_b013",
+    "text": "variables when ranking.",
+    "bbox": [
+      108.0,
+      287.6,
+      222.5,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

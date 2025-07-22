@@ -1,0 +1,3752 @@
+[
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b001",
+    "text": "Trigger Mechanism for",
+    "bbox": [
+      72.0,
+      124.4,
+      236.6,
+      143.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b002",
+    "text": "Anticipatory Action in the Central American Dry Corridor (CADC)",
+    "bbox": [
+      72.0,
+      146.5,
+      531.8,
+      165.2
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b003",
+    "text": "Technical Note",
+    "bbox": [
+      72.0,
+      171.6,
+      178.3,
+      190.3
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-Regular",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b004",
+    "text": "Version 3 (01 March 2024)",
+    "bbox": [
+      72.0,
+      193.5,
+      201.6,
+      206.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b005",
+    "text": "Anticipatory action is planned to preemptively intervene against drought-related impacts in the",
+    "bbox": [
+      72.0,
+      243.4,
+      539.7,
+      256.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b006",
+    "text": "Central American Dry Corridor (CADC) that runs through Guatemala, Honduras, Nicaragua, and",
+    "bbox": [
+      72.0,
+      258.6,
+      539.3,
+      271.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b007",
+    "text": "El Salvador. A framework was developed collaboratively by the regional and national partners",
+    "bbox": [
+      72.0,
+      273.8,
+      539.7,
+      286.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b008",
+    "text": "and the Centre for Humanitarian Data (CHD). It includes pre-agreed financing, pre-selected",
+    "bbox": [
+      72.0,
+      289.0,
+      539.9,
+      301.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b009",
+    "text": "interventions, and a trigger for automated activation. This note describes the technical aspects",
+    "bbox": [
+      72.0,
+      304.1,
+      539.9,
+      317.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b010",
+    "text": "of the trigger mechanism.",
+    "bbox": [
+      72.0,
+      319.3,
+      197.7,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b011",
+    "text": "Trigger Development",
+    "bbox": [
+      72.0,
+      351.9,
+      184.1,
+      365.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b012",
+    "text": "The CHD led the development of the technical development of the trigger mechanism with",
+    "bbox": [
+      72.0,
+      368.4,
+      539.8,
+      381.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b013",
+    "text": "inputs from regional and local partners . The requirements for the mechanism were identified",
+    "bbox": [
+      72.0,
+      383.6,
+      539.7,
+      396.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b014",
+    "text": "through conversations with the regional and national partners. Options for the mechanism were",
+    "bbox": [
+      72.0,
+      398.8,
+      539.8,
+      411.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b015",
+    "text": "defined, validated against historical data, discussed with stakeholders, and tuned over several",
+    "bbox": [
+      72.0,
+      414.0,
+      539.3,
+      426.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b016",
+    "text": "iterations. The version of the mechanism discussed in this note has been approved by the",
+    "bbox": [
+      72.0,
+      429.1,
+      539.7,
+      442.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b017",
+    "text": "humanitarian country team and is currently being monitored for potential activations in 2024.",
+    "bbox": [
+      72.0,
+      444.3,
+      523.3,
+      457.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b018",
+    "text": "Trigger Overview",
+    "bbox": [
+      72.0,
+      476.9,
+      162.7,
+      490.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b019",
+    "text": "The Anticipatory Action (AA) project focuses on the 4 primary countries through which the",
+    "bbox": [
+      72.0,
+      493.4,
+      539.8,
+      506.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b020",
+    "text": "CADC spans: Nicaragua, El Salvador, Guatemala, and Honduras. The triggering mechanism is",
+    "bbox": [
+      72.0,
+      508.6,
+      539.3,
+      521.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b021",
+    "text": "based on the seasonal rainfall forecast with threshold set for individual countries based on",
+    "bbox": [
+      72.0,
+      523.8,
+      539.7,
+      536.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b022",
+    "text": "historical seasonal rainfall forecasts and estimated return periods. Based on the requirements",
+    "bbox": [
+      72.0,
+      539.0,
+      539.5,
+      551.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 1,
+    "block_id": "83_p1_b023",
+    "text": "from operational partners the following analytical decisions had to be made:",
+    "bbox": [
+      72.0,
+      554.1,
+      442.4,
+      567.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b001",
+    "text": "Table 1. Key trigger design decisions",
+    "bbox": [
+      77.2,
+      78.0,
+      257.5,
+      93.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b002",
+    "text": "Decision Type",
+    "bbox": [
+      124.5,
+      104.3,
+      194.0,
+      119.4
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b003",
+    "text": "Decision made",
+    "bbox": [
+      285.8,
+      104.3,
+      359.6,
+      119.4
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b004",
+    "text": "Event Type",
+    "bbox": [
+      124.5,
+      130.7,
+      179.5,
+      145.8
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b005",
+    "text": "MJJA & SON seasonal rainfall deficit",
+    "bbox": [
+      285.8,
+      130.7,
+      466.4,
+      145.8
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b006",
+    "text": "Geographic level of analysis",
+    "bbox": [
+      124.5,
+      157.0,
+      263.1,
+      172.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b007",
+    "text": "Country level",
+    "bbox": [
+      285.8,
+      157.0,
+      352.4,
+      172.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b008",
+    "text": "Forecast lead time",
+    "bbox": [
+      124.5,
+      183.3,
+      216.3,
+      198.4
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b009",
+    "text": "Up to 4 months",
+    "bbox": [
+      285.8,
+      183.3,
+      362.3,
+      198.4
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b010",
+    "text": "Activation thresholds",
+    "bbox": [
+      124.5,
+      209.7,
+      230.5,
+      224.8
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b011",
+    "text": "1 in 4 year rainfall deficit",
+    "bbox": [
+      285.8,
+      209.7,
+      407.2,
+      224.8
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b012",
+    "text": "Forecast to use",
+    "bbox": [
+      124.5,
+      236.0,
+      199.7,
+      251.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b013",
+    "text": "ECMWF SEAS 51/ National Forecast",
+    "bbox": [
+      285.8,
+      236.0,
+      459.7,
+      251.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b014",
+    "text": "(INSIVUMEH for Guatemala only)",
+    "bbox": [
+      285.8,
+      251.1,
+      447.9,
+      266.2
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b015",
+    "text": "The rationale and description of each of these decisions is provided in the next section with",
+    "bbox": [
+      72.0,
+      289.8,
+      539.5,
+      302.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b016",
+    "text": "more additional details provided in the Appendix section.",
+    "bbox": [
+      72.0,
+      304.9,
+      348.1,
+      317.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b017",
+    "text": "Rationale",
+    "bbox": [
+      72.0,
+      337.5,
+      122.5,
+      351.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b018",
+    "text": "Event Type",
+    "bbox": [
+      72.0,
+      372.1,
+      129.2,
+      386.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b019",
+    "text": "The trigger is designed to monitor seasonal drought as measured by forecasted cumulative",
+    "bbox": [
+      72.0,
+      394.6,
+      539.6,
+      407.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b020",
+    "text": "seasonal rainfall deficit. Country and regional partners identified the two key seasons for",
+    "bbox": [
+      72.0,
+      409.8,
+      539.4,
+      422.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b021",
+    "text": "monitoring as the Primera (May - August) and Postrera (September - November) seasons. If",
+    "bbox": [
+      72.0,
+      425.0,
+      539.7,
+      437.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b022",
+    "text": "critical rainfall deficits/drought conditions are forecasted in either window, the AA framework is",
+    "bbox": [
+      72.0,
+      440.2,
+      539.9,
+      453.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b023",
+    "text": "to be activated.",
+    "bbox": [
+      72.0,
+      455.3,
+      146.9,
+      468.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b024",
+    "text": "Geographic level of analysis",
+    "bbox": [
+      72.0,
+      488.5,
+      219.5,
+      502.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b025",
+    "text": "The analysis and monitoring occurs at the country level. All countries are monitored",
+    "bbox": [
+      72.0,
+      511.1,
+      539.4,
+      524.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b026",
+    "text": "simultaneously with the same framework and decision logic, but can be activated independently",
+    "bbox": [
+      72.0,
+      526.3,
+      539.7,
+      539.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b027",
+    "text": "and at different times. To allow operational flexibility in targeting, the analysis was conducted",
+    "bbox": [
+      72.0,
+      541.4,
+      539.3,
+      554.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b028",
+    "text": "over the entirety of each country to ensure that no area of possible intervention/activity was",
+    "bbox": [
+      72.0,
+      556.6,
+      539.7,
+      569.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b029",
+    "text": "excluded.",
+    "bbox": [
+      72.0,
+      571.8,
+      118.8,
+      584.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b030",
+    "text": "Forecast used",
+    "bbox": [
+      72.0,
+      622.4,
+      146.3,
+      636.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b031",
+    "text": "The use of ECMWF, IRI, and national forecast data were assessed for all four countries during",
+    "bbox": [
+      72.0,
+      644.9,
+      539.8,
+      657.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b032",
+    "text": "the design process.",
+    "bbox": [
+      72.0,
+      660.1,
+      176.4,
+      673.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b033",
+    "text": "Where possible, the use of national forecast data was prioritized.",
+    "bbox": [
+      190.8,
+      660.1,
+      539.7,
+      673.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b034",
+    "text": "Guatemala was the only country for which in-county partners could secure national forecast",
+    "bbox": [
+      72.0,
+      675.3,
+      539.7,
+      688.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b035",
+    "text": "data. Therefore, the agreed upon forecast data sources for the trigger are:",
+    "bbox": [
+      72.0,
+      690.4,
+      430.1,
+      703.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b036",
+    "text": "Nicaragua, Honduras, El Salvador - ECMWF Seasonal Forecast",
+    "bbox": [
+      108.0,
+      705.6,
+      412.7,
+      718.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 2,
+    "block_id": "83_p2_b037",
+    "text": "Page 2 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b001",
+    "text": "Guatemala - Official national forecast provided the Instituto nacional",
+    "bbox": [
+      108.0,
+      72.2,
+      457.5,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b002",
+    "text": "de Sismología,",
+    "bbox": [
+      466.7,
+      72.2,
+      539.7,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b003",
+    "text": "Vulcanologia, Meteorologia e Hidrología (INSIVUMEH) for all months except May where",
+    "bbox": [
+      108.0,
+      87.4,
+      539.3,
+      100.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b004",
+    "text": "the national forecast does not provide a prediction for publication month as required by",
+    "bbox": [
+      108.0,
+      102.6,
+      539.3,
+      115.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b005",
+    "text": "the implementing partners (Figure 1). For this month ECMWF Seasonal will be used.",
+    "bbox": [
+      108.0,
+      117.8,
+      515.4,
+      130.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b006",
+    "text": "For a more in depth discussion of the forecast data source please see the appendix below.",
+    "bbox": [
+      72.0,
+      148.2,
+      513.9,
+      161.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b007",
+    "text": "Forecast Lead Time",
+    "bbox": [
+      72.0,
+      181.4,
+      176.1,
+      195.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b008",
+    "text": "The forecast lead times used for the framework monitoring",
+    "bbox": [
+      72.0,
+      203.9,
+      385.6,
+      216.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b009",
+    "text": "were decided based on the",
+    "bbox": [
+      397.1,
+      203.9,
+      539.8,
+      216.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b010",
+    "text": "operational requirements of implementing partners and constraints of forecast data products.",
+    "bbox": [
+      72.0,
+      219.1,
+      539.8,
+      232.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b011",
+    "text": "Each monthly global ECMWF forecast publication provides 7 monthly lead times including the",
+    "bbox": [
+      72.0,
+      234.3,
+      539.4,
+      247.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b012",
+    "text": "forecast for the month of forecast publication whereas INSIVUMEH forecast provides 6 monthly",
+    "bbox": [
+      72.0,
+      249.5,
+      539.4,
+      262.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b013",
+    "text": "lead times with the first month being the month after publication of the forecast. During the",
+    "bbox": [
+      72.0,
+      264.6,
+      539.6,
+      277.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b014",
+    "text": "design process the CHD provided analysis and specific thresholds for each possible lead time",
+    "bbox": [
+      72.0,
+      279.8,
+      539.4,
+      292.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b015",
+    "text": "and provided the recommendation to adopt the shortest lead time possible that still would",
+    "bbox": [
+      72.0,
+      295.0,
+      539.4,
+      307.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b016",
+    "text": "provide the partners with sufficient time to implement activities.",
+    "bbox": [
+      72.0,
+      310.2,
+      382.0,
+      323.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b017",
+    "text": "After reviewing all activities, stakeholders/partners agreed to the following lead times and",
+    "bbox": [
+      72.0,
+      340.5,
+      539.5,
+      353.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b018",
+    "text": "monitoring periods:",
+    "bbox": [
+      72.0,
+      355.7,
+      166.9,
+      368.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b019",
+    "text": "Table 2. Trigger matrix",
+    "bbox": [
+      77.2,
+      394.3,
+      186.5,
+      407.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b020",
+    "text": "Trigger",
+    "bbox": [
+      77.2,
+      418.7,
+      111.7,
+      431.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b021",
+    "text": "Potential",
+    "bbox": [
+      180.0,
+      418.7,
+      223.5,
+      431.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b022",
+    "text": "activation",
+    "bbox": [
+      180.0,
+      431.9,
+      227.8,
+      444.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b023",
+    "text": "points",
+    "bbox": [
+      180.0,
+      445.1,
+      210.4,
+      458.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b024",
+    "text": "Indicator",
+    "bbox": [
+      264.8,
+      418.7,
+      307.9,
+      431.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b025",
+    "text": "Data Source",
+    "bbox": [
+      329.2,
+      418.7,
+      388.8,
+      431.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b026",
+    "text": "Trigger",
+    "bbox": [
+      430.5,
+      418.7,
+      464.9,
+      431.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b027",
+    "text": "Primera Window",
+    "bbox": [
+      77.2,
+      469.6,
+      157.4,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b028",
+    "text": "(Window A)",
+    "bbox": [
+      77.2,
+      482.8,
+      134.0,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b029",
+    "text": "Mar",
+    "bbox": [
+      180.0,
+      469.6,
+      199.3,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b030",
+    "text": "April",
+    "bbox": [
+      180.0,
+      482.8,
+      202.4,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b031",
+    "text": "May",
+    "bbox": [
+      180.0,
+      496.0,
+      200.7,
+      508.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b032",
+    "text": "MJJA",
+    "bbox": [
+      264.8,
+      469.6,
+      293.9,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b033",
+    "text": "seasonal",
+    "bbox": [
+      264.8,
+      482.8,
+      308.9,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b034",
+    "text": "forecast",
+    "bbox": [
+      264.8,
+      496.0,
+      305.3,
+      508.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b035",
+    "text": "Global",
+    "bbox": [
+      329.2,
+      469.6,
+      360.5,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b036",
+    "text": "Forecast",
+    "bbox": [
+      376.7,
+      469.6,
+      419.4,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b037",
+    "text": "(ECMWF)",
+    "bbox": [
+      329.2,
+      482.8,
+      375.7,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b038",
+    "text": "National Forecast",
+    "bbox": [
+      329.2,
+      496.0,
+      415.7,
+      508.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b039",
+    "text": "MJJA",
+    "bbox": [
+      430.5,
+      469.6,
+      459.3,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b040",
+    "text": "precipitation",
+    "bbox": [
+      474.0,
+      469.6,
+      535.0,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b041",
+    "text": "<= 1 in 4 year RP",
+    "bbox": [
+      430.5,
+      482.8,
+      511.2,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b042",
+    "text": "Postrera Window",
+    "bbox": [
+      77.2,
+      520.4,
+      160.5,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b043",
+    "text": "(Window B)",
+    "bbox": [
+      77.2,
+      533.6,
+      133.7,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b044",
+    "text": "Jun",
+    "bbox": [
+      180.0,
+      520.4,
+      198.2,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b045",
+    "text": "Jul",
+    "bbox": [
+      180.0,
+      533.6,
+      194.8,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b046",
+    "text": "Aug",
+    "bbox": [
+      180.0,
+      546.8,
+      199.3,
+      559.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b047",
+    "text": "SON",
+    "bbox": [
+      264.8,
+      520.4,
+      286.9,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b048",
+    "text": "seasonal",
+    "bbox": [
+      264.8,
+      533.6,
+      308.9,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b049",
+    "text": "forecast",
+    "bbox": [
+      264.8,
+      546.8,
+      305.3,
+      559.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b050",
+    "text": "Global",
+    "bbox": [
+      329.2,
+      520.4,
+      360.5,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b051",
+    "text": "Forecast",
+    "bbox": [
+      376.7,
+      520.4,
+      419.4,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b052",
+    "text": "(ECMWF)",
+    "bbox": [
+      329.2,
+      533.6,
+      375.7,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b053",
+    "text": "National Forecast",
+    "bbox": [
+      329.2,
+      546.8,
+      415.7,
+      559.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b054",
+    "text": "SON precipitation <=",
+    "bbox": [
+      430.5,
+      520.4,
+      535.0,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b055",
+    "text": "1 in 4 year RP",
+    "bbox": [
+      430.5,
+      533.6,
+      496.8,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 3,
+    "block_id": "83_p3_b056",
+    "text": "Page 3 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b001",
+    "text": "Figure 1. Time periods of interest in blue will be monitored from forecast data published in yellow. May",
+    "bbox": [
+      77.2,
+      242.0,
+      529.3,
+      253.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b002",
+    "text": "is highlighted in green due to the overlap.",
+    "bbox": [
+      77.2,
+      253.8,
+      258.7,
+      266.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b003",
+    "text": "Thresholds",
+    "bbox": [
+      72.0,
+      290.6,
+      131.0,
+      304.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b004",
+    "text": "Thresholds were based on a 1 in 4 year return period (RP) event and calculated independently",
+    "bbox": [
+      72.0,
+      313.2,
+      539.6,
+      326.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b005",
+    "text": "for each country. For each year of historical seasonal forecast",
+    "bbox": [
+      72.0,
+      328.4,
+      395.4,
+      341.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b006",
+    "text": "data (1981-2022) the total",
+    "bbox": [
+      405.3,
+      328.4,
+      539.4,
+      341.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b007",
+    "text": "seasonal rainfall (for each season) was calculated and averaged to each of the countries",
+    "bbox": [
+      72.0,
+      343.5,
+      539.9,
+      356.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b008",
+    "text": "boundaries for each lead time. This historical record was then used to calculate the threshold",
+    "bbox": [
+      72.0,
+      358.7,
+      539.5,
+      371.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b009",
+    "text": "that corresponded to 25 % activation rate (or 1 in 4 year RP). This process was run on both",
+    "bbox": [
+      72.0,
+      373.9,
+      539.8,
+      386.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b010",
+    "text": "ECMWF seasonal and national forecast (for Guatemala) data separately.",
+    "bbox": [
+      72.0,
+      389.1,
+      446.3,
+      402.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b011",
+    "text": "Thresholds were",
+    "bbox": [
+      456.3,
+      389.1,
+      539.3,
+      402.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b012",
+    "text": "calculated per country, activation window, lead time, and forecast data source to compensate",
+    "bbox": [
+      72.0,
+      404.3,
+      539.7,
+      417.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b013",
+    "text": "for any bias in forecast values across lead times (see Appendix for additional details).",
+    "bbox": [
+      72.0,
+      419.4,
+      488.8,
+      432.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b014",
+    "text": "Monitoring",
+    "bbox": [
+      72.0,
+      452.7,
+      129.3,
+      466.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b015",
+    "text": "The CHD is responsible for monitoring the seasonal forecast and updating the activation status",
+    "bbox": [
+      72.0,
+      475.2,
+      539.3,
+      488.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b016",
+    "text": "on a monthly basis with an automated email alert to relevant stakeholders. As the ECMWF",
+    "bbox": [
+      72.0,
+      490.4,
+      540.0,
+      503.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b017",
+    "text": "Seasonal forecast is published on the 5th of each month, the trigger notification for Nicaragua,",
+    "bbox": [
+      72.0,
+      505.6,
+      539.7,
+      518.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b018",
+    "text": "Honduras, and El Salvador are distributed on the 5th of each month. INSIVUMEH provided a date",
+    "bbox": [
+      72.0,
+      520.7,
+      539.8,
+      533.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b019",
+    "text": "range for the Guatemala national forecast publication as the 5th-10th each month. Therefore,",
+    "bbox": [
+      72.0,
+      535.9,
+      539.9,
+      548.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b020",
+    "text": "the Guatemala trigger status update is made upon receival of this forecast. No cutoff date has",
+    "bbox": [
+      72.0,
+      551.1,
+      539.7,
+      564.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b021",
+    "text": "been established for using the national forecast in Guatemala, but is at the discretion of CERF",
+    "bbox": [
+      72.0,
+      566.3,
+      539.4,
+      579.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b022",
+    "text": "and partners based on operational requirements. The monitoring is automated through a GitHub",
+    "bbox": [
+      72.0,
+      581.5,
+      539.7,
+      594.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b023",
+    "text": "action available in this GitHub repository.",
+    "bbox": [
+      72.0,
+      596.7,
+      271.4,
+      609.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 4,
+    "block_id": "83_p4_b024",
+    "text": "Page 4 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b001",
+    "text": "Appendix",
+    "bbox": [
+      72.0,
+      72.3,
+      122.2,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b002",
+    "text": "Forecast (Lead Time & Data Source)",
+    "bbox": [
+      72.0,
+      106.8,
+      261.8,
+      120.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b003",
+    "text": "Data sources & Accessibility: to monitor seasonal drought, seasonal forecasts were required.",
+    "bbox": [
+      72.0,
+      129.4,
+      539.6,
+      142.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b004",
+    "text": "The trigger was designed with flexibility to incorporate national forecast data sources",
+    "bbox": [
+      72.0,
+      144.6,
+      539.7,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b005",
+    "text": "where/when available and global data sets when no national forecasts could be obtained. Thus",
+    "bbox": [
+      72.0,
+      159.7,
+      539.6,
+      172.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b006",
+    "text": "far Guatemala’s national forecast provided by INSIVUMEH was the only national forecast data",
+    "bbox": [
+      72.0,
+      174.9,
+      539.6,
+      187.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b007",
+    "text": "set that could be obtained by in-country partners.",
+    "bbox": [
+      72.0,
+      190.1,
+      310.8,
+      203.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b008",
+    "text": "For Nicaragua, Guatemala, and El Salvador where no national forecast data could be secured,",
+    "bbox": [
+      72.0,
+      220.5,
+      539.8,
+      233.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b009",
+    "text": "ECMWF and IRI global forecasts were evaluated. ECMWF was eventually chosen over IRI for the",
+    "bbox": [
+      72.0,
+      235.6,
+      539.9,
+      248.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b010",
+    "text": "following reasons:",
+    "bbox": [
+      72.0,
+      250.8,
+      161.3,
+      263.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b011",
+    "text": "ECMWF provides hindcast/forecast data from 1981 to present compared to IRI which is",
+    "bbox": [
+      111.5,
+      266.0,
+      540.0,
+      278.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b012",
+    "text": "only available from 2017 onwards. The longer historical record of ECMWF allows the",
+    "bbox": [
+      108.0,
+      281.2,
+      539.9,
+      294.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b013",
+    "text": "calculation of",
+    "bbox": [
+      108.0,
+      296.4,
+      177.3,
+      309.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b014",
+    "text": "activation rates at different thresholds with a much higher degree of",
+    "bbox": [
+      187.2,
+      296.4,
+      539.8,
+      309.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b015",
+    "text": "confidence.",
+    "bbox": [
+      108.0,
+      311.6,
+      164.7,
+      324.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b016",
+    "text": "ECMWF provides monthly total precipitation which allows flexible temporal aggregation",
+    "bbox": [
+      108.0,
+      326.7,
+      539.5,
+      339.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b017",
+    "text": "whereas IRI only provides trimester (3-month) probabilities",
+    "bbox": [
+      108.0,
+      341.9,
+      392.9,
+      354.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b018",
+    "text": "ECMWF is released earlier in the month (5th compared to 16th)",
+    "bbox": [
+      108.0,
+      357.1,
+      414.8,
+      370.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b019",
+    "text": "ECMWF units are easily converted to total precipitation which is easier for stakeholders",
+    "bbox": [
+      108.0,
+      372.3,
+      539.5,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b020",
+    "text": "to understand than tercile probabilities",
+    "bbox": [
+      108.0,
+      387.5,
+      295.8,
+      400.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b021",
+    "text": "ECMWF seasonal forecast data obtained from the MARS catalog can be provided at 0.4",
+    "bbox": [
+      108.0,
+      402.7,
+      539.5,
+      415.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b022",
+    "text": "degrees resolution which is a higher resolution than IRI data which can only be obtained",
+    "bbox": [
+      108.0,
+      417.8,
+      539.9,
+      430.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b023",
+    "text": "at 1 degree resolution.",
+    "bbox": [
+      108.0,
+      433.0,
+      217.0,
+      445.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b024",
+    "text": "The ECMWF Seasonal forecast is made public through the Copernicus Data Store (CDS) on the",
+    "bbox": [
+      72.0,
+      463.4,
+      539.9,
+      476.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b025",
+    "text": "5th of every month. This publicly available data has a resolution of 1 degree and contains 6",
+    "bbox": [
+      72.0,
+      478.6,
+      539.8,
+      491.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b026",
+    "text": "months of lead time (including publication month). The full ECMWF SEAS5 historical forecast",
+    "bbox": [
+      72.0,
+      493.8,
+      539.4,
+      506.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b027",
+    "text": "data set which includes 7 months of lead time and has a resolution of 0.4 degrees is available to",
+    "bbox": [
+      72.0,
+      508.9,
+      539.7,
+      521.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b028",
+    "text": "World Meteorological Organization (WMO) members through the ECMWF MARS catalog. For",
+    "bbox": [
+      72.0,
+      524.1,
+      539.4,
+      537.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b029",
+    "text": "up-to-date ECMWF data with the full 7 months of lead time at 0.4 degrees resolution the CHD",
+    "bbox": [
+      72.0,
+      539.3,
+      539.7,
+      552.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b030",
+    "text": "receives the seasonal forecast data directly from ECMWF.",
+    "bbox": [
+      72.0,
+      554.5,
+      352.6,
+      567.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b031",
+    "text": "Operational requirements:",
+    "bbox": [
+      72.0,
+      587.7,
+      208.9,
+      601.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b032",
+    "text": "AA partners compiled a list of required start times by activity and agency (Figure 2). After",
+    "bbox": [
+      72.0,
+      610.2,
+      539.7,
+      623.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b033",
+    "text": "receiving the required lead times by agencies and conducting a deep dive session it was",
+    "bbox": [
+      72.0,
+      625.4,
+      539.4,
+      638.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b034",
+    "text": "decided to remove the February forecast publication from the Primera monitoring window and",
+    "bbox": [
+      72.0,
+      640.6,
+      539.5,
+      653.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b035",
+    "text": "September from the Postrera monitoring window. This was done based on the activity timeline",
+    "bbox": [
+      72.0,
+      655.8,
+      539.3,
+      668.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b036",
+    "text": "(Figure 2) and to standardize the monitoring period and probability of activation across",
+    "bbox": [
+      72.0,
+      671.0,
+      539.3,
+      683.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b037",
+    "text": "countries and while reducing uncertainty in trigger mechanism.",
+    "bbox": [
+      72.0,
+      686.1,
+      378.3,
+      699.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 5,
+    "block_id": "83_p5_b038",
+    "text": "Page 5 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b001",
+    "text": "Figure 2. Timeline of activities and required activation months",
+    "bbox": [
+      77.2,
+      430.3,
+      350.4,
+      442.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b002",
+    "text": "Thresholds/Trigger",
+    "bbox": [
+      72.0,
+      466.3,
+      173.3,
+      480.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b003",
+    "text": "As no drought impact data was available in the regions, the thresholds were set primarily based",
+    "bbox": [
+      72.0,
+      488.9,
+      539.3,
+      501.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b004",
+    "text": "on historical activation rates/return period level calculations. The threshold was finally set to",
+    "bbox": [
+      72.0,
+      504.0,
+      539.3,
+      516.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b005",
+    "text": "activate only if the seasonal rainfall was forecasted to be at least a 1 in 4 year return period level",
+    "bbox": [
+      72.0,
+      519.2,
+      539.8,
+      532.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b006",
+    "text": "deficit at any lead time. The calculated thresholds based on the 4 year return period levels are",
+    "bbox": [
+      72.0,
+      534.4,
+      540.0,
+      547.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b007",
+    "text": "presented below in tables 3 and 4 for the Primera and Postrera season, respectively.",
+    "bbox": [
+      72.0,
+      549.6,
+      479.7,
+      562.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 6,
+    "block_id": "83_p6_b008",
+    "text": "Page 6 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 7,
+    "block_id": "83_p7_b001",
+    "text": "Table 3. Primera Thresholds",
+    "bbox": [
+      77.2,
+      78.2,
+      201.5,
+      89.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 7,
+    "block_id": "83_p7_b002",
+    "text": "Table 4. Postrera Thresholds",
+    "bbox": [
+      77.2,
+      389.9,
+      204.3,
+      401.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 7,
+    "block_id": "83_p7_b003",
+    "text": "Page 7 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b001",
+    "text": "The analytical method for historical analysis/thresholding can be conceptualized as two steps:",
+    "bbox": [
+      72.0,
+      72.2,
+      539.3,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b002",
+    "text": "1. Data aggregation, 2. Return period/activation rate calculation & bias correction.",
+    "bbox": [
+      72.0,
+      87.4,
+      468.0,
+      100.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b003",
+    "text": "Aggregation",
+    "bbox": [
+      72.0,
+      118.6,
+      131.2,
+      131.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b004",
+    "text": "Thresholds were designed using ECMWF SEAS5 seasonal precipitation forecast from the public",
+    "bbox": [
+      72.0,
+      137.8,
+      539.7,
+      150.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b005",
+    "text": "Copernicus Data Store & MARS catalog as well as the national seasonal precipitation forecast",
+    "bbox": [
+      72.0,
+      153.0,
+      539.7,
+      165.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b006",
+    "text": "for Guatemala provided by INSIVUMEH . All available historical forecast data from 1981-2022",
+    "bbox": [
+      72.0,
+      168.2,
+      539.7,
+      181.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b007",
+    "text": "was downloaded and processed for historical analyses. The data was downloaded as monthly",
+    "bbox": [
+      72.0,
+      183.3,
+      539.3,
+      196.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b008",
+    "text": "precipitation rate estimates over the area of interest, for each month the mean of the 51",
+    "bbox": [
+      72.0,
+      198.5,
+      539.3,
+      211.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b009",
+    "text": "ensemble members was calculated at the pixel level to obtain 1 raster per month.",
+    "bbox": [
+      72.0,
+      213.7,
+      466.9,
+      226.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b010",
+    "text": "The average monthly precipitation was then extracted for every month and lead time for each",
+    "bbox": [
+      72.0,
+      244.1,
+      539.7,
+      257.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b011",
+    "text": "country by an area-weighted mean statistic. The zonal mean statistic was chosen as the",
+    "bbox": [
+      72.0,
+      259.3,
+      539.9,
+      272.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b012",
+    "text": "aggregation method for simplification purposes.",
+    "bbox": [
+      72.0,
+      274.4,
+      322.1,
+      287.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b013",
+    "text": "The monthly zonal statistics were then",
+    "bbox": [
+      335.0,
+      274.4,
+      539.3,
+      287.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b014",
+    "text": "aggregated temporally to the seasonal windows (MJJA & SON) for each lead time combination",
+    "bbox": [
+      72.0,
+      289.6,
+      539.6,
+      302.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b015",
+    "text": "available.",
+    "bbox": [
+      72.0,
+      304.8,
+      118.0,
+      317.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b016",
+    "text": "Threshold Setting & Bias Correction",
+    "bbox": [
+      72.0,
+      336.0,
+      246.7,
+      348.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b017",
+    "text": "From the yearly historical data, the 25th percentile (1 in 4 year RP level) was calculated for each",
+    "bbox": [
+      72.0,
+      355.2,
+      539.5,
+      368.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b018",
+    "text": "country,",
+    "bbox": [
+      72.0,
+      370.3,
+      110.3,
+      383.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b019",
+    "text": "window, and lead time. The percentile calculation was performed at each lead time",
+    "bbox": [
+      119.5,
+      370.3,
+      539.5,
+      383.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b020",
+    "text": "separately as different lead times can be biased in a number of ways. For example, across all",
+    "bbox": [
+      72.0,
+      385.5,
+      539.8,
+      398.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b021",
+    "text": "four countries of interest, we see that the ECMWF seasonal forecast systematically predicts",
+    "bbox": [
+      72.0,
+      400.7,
+      539.4,
+      413.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b022",
+    "text": "lower rainfall quantities at longer lead times during the Primera season (Figure 3).",
+    "bbox": [
+      72.0,
+      415.9,
+      514.3,
+      428.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b023",
+    "text": "calculating the percentiles for each lead time separately we ensure equal probability across all",
+    "bbox": [
+      72.0,
+      431.1,
+      539.9,
+      444.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b024",
+    "text": "relevant forecast publication months.",
+    "bbox": [
+      72.0,
+      446.3,
+      253.6,
+      459.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 8,
+    "block_id": "83_p8_b025",
+    "text": "Page 8 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b001",
+    "text": "Figure 3. Forecasted rainfall bias by country and lead time during the primera season (ECMWF Seasonal).",
+    "bbox": [
+      77.2,
+      346.0,
+      509.3,
+      358.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b002",
+    "text": "It must be noted that by setting a threshold at the 4 year return period level and monitoring each",
+    "bbox": [
+      72.0,
+      364.9,
+      539.3,
+      377.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b003",
+    "text": "publication month/lead time independently, the joint probability of activation across any",
+    "bbox": [
+      72.0,
+      380.0,
+      539.7,
+      392.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b004",
+    "text": "forecast publication months rises substantially. Additionally, when considering, the probability of",
+    "bbox": [
+      72.0,
+      395.2,
+      540.0,
+      408.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b005",
+    "text": "activation across either season (Primera/Postrera)",
+    "bbox": [
+      72.0,
+      410.4,
+      330.5,
+      423.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b006",
+    "text": "this joint probability of activation rises",
+    "bbox": [
+      341.9,
+      410.4,
+      539.3,
+      423.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b007",
+    "text": "further. These joint activation rates were discussed in the CADC AA Deep dive session led by",
+    "bbox": [
+      72.0,
+      425.6,
+      539.6,
+      438.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b008",
+    "text": "CERF & the CHD and were considered in the final decision to choose a 1 in 4 year RP level for",
+    "bbox": [
+      72.0,
+      440.8,
+      539.8,
+      453.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b009",
+    "text": "monitoring at each forecast publication date. Table 5 presents the joint activation rate across all",
+    "bbox": [
+      72.0,
+      456.0,
+      539.7,
+      468.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b010",
+    "text": "lead times for each season as well as combined activation rates across seasons based on the",
+    "bbox": [
+      72.0,
+      471.1,
+      539.7,
+      484.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b011",
+    "text": "thresholds and activation points presented in tables 3 & 4.",
+    "bbox": [
+      72.0,
+      486.3,
+      354.1,
+      499.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b012",
+    "text": "Table 5. Joint Return Periods/Activation Rates",
+    "bbox": [
+      77.2,
+      507.5,
+      281.4,
+      519.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 9,
+    "block_id": "83_p9_b013",
+    "text": "Page 9 of 10",
+    "bbox": [
+      283.6,
+      745.1,
+      328.4,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b001",
+    "text": "Observation Indicators Consideration/Exclusion",
+    "bbox": [
+      72.0,
+      72.3,
+      322.7,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b002",
+    "text": "Observational crop/vegetation monitoring with indicators such as Vegetative Health Index (VHI)",
+    "bbox": [
+      72.0,
+      94.8,
+      540.0,
+      107.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b003",
+    "text": "& Agricultural Stress Index System (ASIS) were considered, but left out of the framework as data",
+    "bbox": [
+      72.0,
+      110.0,
+      540.0,
+      122.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b004",
+    "text": "obtained during the identified critical seasons (as opposed to before) can’t preemptively inform",
+    "bbox": [
+      72.0,
+      125.2,
+      539.6,
+      138.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b005",
+    "text": "or support the bulk of AA activities focused on agricultural provided by operational partners",
+    "bbox": [
+      72.0,
+      140.4,
+      539.3,
+      153.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b006",
+    "text": "which must be implemented before the growing period commences.",
+    "bbox": [
+      72.0,
+      155.5,
+      404.0,
+      168.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b007",
+    "text": "The use of observational vegetative health indicators was initially proposed by the partners in",
+    "bbox": [
+      72.0,
+      185.9,
+      539.3,
+      198.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b008",
+    "text": "early iterations of the framework.",
+    "bbox": [
+      72.0,
+      201.1,
+      245.1,
+      214.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b009",
+    "text": "After initial investigation of VHI and ASIS by the CHD",
+    "bbox": [
+      256.6,
+      201.1,
+      539.3,
+      214.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b010",
+    "text": "according to various framework revisions suggested by FAO, FAO recommended removing ASIS",
+    "bbox": [
+      72.0,
+      216.3,
+      539.8,
+      229.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b011",
+    "text": "from consideration as it is meant to be monitored during certain stages of the growing season",
+    "bbox": [
+      72.0,
+      231.5,
+      539.4,
+      244.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b012",
+    "text": "which do not align with lead time/operational requirements of the agencies. The use of VHI to",
+    "bbox": [
+      72.0,
+      246.6,
+      539.4,
+      259.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b013",
+    "text": "capture pre-existing vulnerabilities and thereby condition triggers was suggested, but a coherent",
+    "bbox": [
+      72.0,
+      261.8,
+      539.3,
+      274.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b014",
+    "text": "strategy that could align with operational requirements of agencies was not found or adopted.",
+    "bbox": [
+      72.0,
+      277.0,
+      528.2,
+      289.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b015",
+    "text": "Areas for Improvement in future iterations",
+    "bbox": [
+      72.0,
+      310.2,
+      293.0,
+      324.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b016",
+    "text": "The following two potential areas of improvement were identified and may be considered in",
+    "bbox": [
+      72.0,
+      332.7,
+      539.7,
+      345.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b017",
+    "text": "future iterations of the framework:",
+    "bbox": [
+      72.0,
+      347.9,
+      238.5,
+      360.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b018",
+    "text": "Integration of additional national forecast data sources.",
+    "bbox": [
+      108.0,
+      363.1,
+      378.7,
+      376.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b019",
+    "text": "Observational indicators such as VHI could be further explored with key inputs from",
+    "bbox": [
+      108.0,
+      378.3,
+      539.7,
+      391.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b020",
+    "text": "partners.",
+    "bbox": [
+      108.0,
+      393.5,
+      151.9,
+      406.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b021",
+    "text": "Contact the OCHA Centre for Humanitarian Data via Zachary Arno, Data Scientist at",
+    "bbox": [
+      72.0,
+      484.6,
+      539.6,
+      497.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b022",
+    "text": "zachary.arno@un.org with any questions or feedback.",
+    "bbox": [
+      72.0,
+      499.8,
+      332.9,
+      512.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "83",
+    "page_number": 10,
+    "block_id": "83_p10_b023",
+    "text": "Page 10 of 10",
+    "bbox": [
+      281.4,
+      745.1,
+      330.7,
+      754.5
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

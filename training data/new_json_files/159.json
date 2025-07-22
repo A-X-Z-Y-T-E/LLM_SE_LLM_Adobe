@@ -1,0 +1,1622 @@
+[
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      181.3,
+      443.1,
+      202.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      206.1,
+      277.1,
+      227.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      269.0,
+      270.1,
+      299.5
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b004",
+    "text": "Cooper/Smith population",
+    "bbox": [
+      72.0,
+      306.2,
+      388.4,
+      339.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b005",
+    "text": "mobility model",
+    "bbox": [
+      72.0,
+      345.2,
+      259.0,
+      378.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 1,
+    "block_id": "159_p1_b006",
+    "text": "November 2021",
+    "bbox": [
+      72.0,
+      383.8,
+      199.5,
+      404.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      174.8,
+      178.8,
+      195.9
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b002",
+    "text": "Cooper/Smith population mobility model",
+    "bbox": [
+      72.0,
+      196.6,
+      380.9,
+      217.7
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      250.1,
+      149.4,
+      264.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b004",
+    "text": "In 2020 the technical assistance firm Cooper/Smith developed a population mobility model in",
+    "bbox": [
+      72.0,
+      281.6,
+      539.4,
+      294.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b005",
+    "text": "Malawi with the support of the Digital Impact Alliance (DIAL) and the Malawi Ministry of Health",
+    "bbox": [
+      72.0,
+      296.6,
+      540.0,
+      309.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b006",
+    "text": "(MoH). The mobility model provides insight on population localization and movement patterns.",
+    "bbox": [
+      72.0,
+      311.6,
+      539.3,
+      324.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b007",
+    "text": "It enables the MoH and local stakeholders to have a near real-time view on where the population",
+    "bbox": [
+      72.0,
+      326.6,
+      539.3,
+      339.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b008",
+    "text": "is, providing a much-needed complement to the census.",
+    "bbox": [
+      72.0,
+      341.6,
+      343.6,
+      354.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b009",
+    "text": "Between November 2020 and January 2021, the OCHA Centre for Humanitarian Data (the",
+    "bbox": [
+      72.0,
+      371.6,
+      539.4,
+      384.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b010",
+    "text": "Centre) engaged with technical and ethical experts",
+    "bbox": [
+      72.0,
+      386.6,
+      338.2,
+      399.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b011",
+    "text": "to conduct an independent review of",
+    "bbox": [
+      347.6,
+      386.6,
+      539.7,
+      399.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b012",
+    "text": "Cooper/Smith’s",
+    "bbox": [
+      72.0,
+      401.6,
+      147.2,
+      414.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b013",
+    "text": "model in Malawi, according to the Centre’s Peer Review Framework for",
+    "bbox": [
+      160.2,
+      401.6,
+      539.4,
+      414.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b014",
+    "text": "Predictive Analytics in Humanitarian Response. Between February and November 2021 The",
+    "bbox": [
+      72.0,
+      416.6,
+      540.0,
+      429.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b015",
+    "text": "Centre worked with Cooper/Smith",
+    "bbox": [
+      72.0,
+      431.6,
+      252.0,
+      444.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b016",
+    "text": "and our reviewers to finalise the recommendations",
+    "bbox": [
+      266.4,
+      431.6,
+      539.9,
+      444.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b017",
+    "text": "presented below.",
+    "bbox": [
+      72.0,
+      446.6,
+      154.9,
+      459.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b018",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      476.6,
+      287.6,
+      490.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b019",
+    "text": "The population mobility model provides insight on population localization and movement",
+    "bbox": [
+      72.0,
+      508.1,
+      539.3,
+      521.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b020",
+    "text": "patterns, enabling the Ministry of Health (MoH) of Malawi and local stakeholders to have an",
+    "bbox": [
+      72.0,
+      523.1,
+      539.6,
+      536.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b021",
+    "text": "almost real-time view on where the population is. It signals when there is a large gathering that",
+    "bbox": [
+      72.0,
+      538.1,
+      539.6,
+      551.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b022",
+    "text": "is two standard deviations from the mean number of subscribers in that location (traditional",
+    "bbox": [
+      72.0,
+      553.1,
+      539.4,
+      566.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b023",
+    "text": "authority or district level) over the last 30-days.",
+    "bbox": [
+      72.0,
+      568.1,
+      299.6,
+      581.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b024",
+    "text": "The primary user of this model is the Government of Malawi’s Public Health Emergency",
+    "bbox": [
+      72.0,
+      583.1,
+      539.7,
+      596.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b025",
+    "text": "Operations Center (PHEOC). The model has an automated signal that will send emails to PHEOC",
+    "bbox": [
+      72.0,
+      598.1,
+      539.8,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b026",
+    "text": "members and the PHEOC’s Incident Management System, which logs, triages, and actions",
+    "bbox": [
+      72.0,
+      613.1,
+      539.3,
+      626.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b027",
+    "text": "reported incidents.",
+    "bbox": [
+      72.0,
+      628.1,
+      163.6,
+      641.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b028",
+    "text": "1 For this project we collaborated with technical experts from UN Global Pulse and ethics experts from the",
+    "bbox": [
+      72.0,
+      692.4,
+      539.4,
+      708.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b029",
+    "text": "Centre for Humanitarian Data.",
+    "bbox": [
+      72.0,
+      708.3,
+      204.7,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b030",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 2,
+    "block_id": "159_p2_b031",
+    "text": "2 of 4",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b001",
+    "text": "You can find all the documentation regarding the model, its application and the review process",
+    "bbox": [
+      72.0,
+      72.4,
+      539.9,
+      85.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b002",
+    "text": "at the following links:",
+    "bbox": [
+      72.0,
+      87.4,
+      175.4,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b003",
+    "text": "The Model Card describes version 2 of the model developed in Q2 2020.",
+    "bbox": [
+      108.0,
+      117.4,
+      458.1,
+      130.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b004",
+    "text": "The Model Evaluation Matrix was completed in November 2020 by experts from the",
+    "bbox": [
+      108.0,
+      132.4,
+      539.9,
+      145.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b005",
+    "text": "OCHA Centre for Humanitarian Data and UN Global Pulse.",
+    "bbox": [
+      108.0,
+      147.4,
+      389.0,
+      160.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b006",
+    "text": "The Implementation Plan was completed in November 2020. It summarizes the concrete",
+    "bbox": [
+      108.0,
+      162.4,
+      539.3,
+      175.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b007",
+    "text": "actions that the model will trigger or inform.",
+    "bbox": [
+      108.0,
+      177.4,
+      321.5,
+      190.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b008",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      192.4,
+      539.4,
+      205.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b009",
+    "text": "intended use of the model. The Ethical Matrix was completed In January 2021.",
+    "bbox": [
+      108.0,
+      207.4,
+      489.5,
+      220.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b010",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      237.4,
+      430.4,
+      250.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b011",
+    "text": "2.1 Technical Review",
+    "bbox": [
+      72.0,
+      267.4,
+      184.5,
+      281.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b012",
+    "text": "Model development and documentation",
+    "bbox": [
+      72.0,
+      298.9,
+      268.0,
+      311.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b013",
+    "text": "The Centre recommended clearly distinguishing the three modeling tasks and clarifying",
+    "bbox": [
+      108.0,
+      313.9,
+      539.6,
+      326.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b014",
+    "text": "which methods are being used to perform each of the three tasks when presenting the",
+    "bbox": [
+      108.0,
+      328.9,
+      539.8,
+      341.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b015",
+    "text": "model to potential stakeholders and end users.",
+    "bbox": [
+      108.0,
+      343.9,
+      336.6,
+      356.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b016",
+    "text": "This recommendation has been considered and met by Cooper/Smith, as",
+    "bbox": [
+      144.0,
+      358.9,
+      539.8,
+      371.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b017",
+    "text": "detailed in the Model Evaluation Matrix and the Model Documentation.",
+    "bbox": [
+      144.0,
+      373.9,
+      486.0,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b018",
+    "text": "Model Evaluation",
+    "bbox": [
+      72.0,
+      403.9,
+      157.0,
+      416.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b019",
+    "text": "Depending on data availability, we recommend performing a quantitative analysis of",
+    "bbox": [
+      108.0,
+      418.9,
+      539.7,
+      431.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b020",
+    "text": "model performance.",
+    "bbox": [
+      108.0,
+      433.9,
+      207.1,
+      446.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b021",
+    "text": "Additional datasets used to independently validate the model (Google Mobility; observed",
+    "bbox": [
+      108.0,
+      448.9,
+      539.4,
+      461.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b022",
+    "text": "events counts; case counts) all have limitations. We recommend that Cooper/Smith",
+    "bbox": [
+      108.0,
+      463.9,
+      539.6,
+      476.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b023",
+    "text": "should continue seeking alternative sources to compare estimates and understand",
+    "bbox": [
+      108.0,
+      478.9,
+      539.8,
+      491.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b024",
+    "text": "correlation/discrepancies between them.",
+    "bbox": [
+      108.0,
+      493.9,
+      307.8,
+      506.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b025",
+    "text": "Cooper/Smith should continue to operate a feedback process from model end users and",
+    "bbox": [
+      108.0,
+      508.9,
+      539.8,
+      521.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b026",
+    "text": "health care workers on the ground, and we recommend enlarging it to community",
+    "bbox": [
+      108.0,
+      523.9,
+      539.3,
+      536.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b027",
+    "text": "members and leaders. Validating findings from the model with a larger group of actors",
+    "bbox": [
+      108.0,
+      538.9,
+      539.7,
+      551.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b028",
+    "text": "(e.g. community health workers, community leaders) would ensure greater accuracy and",
+    "bbox": [
+      108.0,
+      553.9,
+      539.9,
+      566.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b029",
+    "text": "usefulness.",
+    "bbox": [
+      108.0,
+      568.9,
+      164.2,
+      581.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b030",
+    "text": "2.2 Ethical Review",
+    "bbox": [
+      72.0,
+      598.9,
+      169.5,
+      612.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b031",
+    "text": "False Positives and Negatives",
+    "bbox": [
+      72.0,
+      615.4,
+      219.8,
+      628.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b032",
+    "text": "When the model produces a false alarm this is considered a ‘false positive’. When the model",
+    "bbox": [
+      72.0,
+      630.4,
+      539.8,
+      643.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b033",
+    "text": "misses an event this is considered a ‘false negative’. False positives and negatives can cause",
+    "bbox": [
+      72.0,
+      645.4,
+      539.9,
+      658.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b034",
+    "text": "costly interventions or lack thereof, for example sending personnel or resources to an area where",
+    "bbox": [
+      72.0,
+      660.4,
+      539.4,
+      673.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b035",
+    "text": "they were not urgently needed.",
+    "bbox": [
+      72.0,
+      675.4,
+      218.1,
+      688.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b036",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 3,
+    "block_id": "159_p3_b037",
+    "text": "3 of 4",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b001",
+    "text": "Cooper/Smith has identified a risk mitigation strategy that includes an ongoing feedback",
+    "bbox": [
+      108.0,
+      72.4,
+      539.9,
+      85.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b002",
+    "text": "loop with primary stakeholders about how to handle false alarms, helping decrease the",
+    "bbox": [
+      108.0,
+      87.4,
+      539.7,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b003",
+    "text": "level of concern. The Centre recommends continuing to follow this strategy closely to",
+    "bbox": [
+      108.0,
+      102.4,
+      539.9,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b004",
+    "text": "prevent any potential issues from materializing.",
+    "bbox": [
+      108.0,
+      117.4,
+      338.8,
+      130.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b005",
+    "text": "Overreaction",
+    "bbox": [
+      72.0,
+      147.4,
+      135.5,
+      160.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b006",
+    "text": "Overreaction is a decision informed by the model output that leads to action that is too impactful",
+    "bbox": [
+      72.0,
+      162.4,
+      539.8,
+      175.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b007",
+    "text": "compared to the need that should be addressed.",
+    "bbox": [
+      72.0,
+      177.4,
+      303.2,
+      190.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b008",
+    "text": "Cooper/Smith has already established a decision process and protocol for the use of the",
+    "bbox": [
+      108.0,
+      207.4,
+      539.9,
+      220.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b009",
+    "text": "model to mitigate risk related to Overreaction. In future applications of the model, we",
+    "bbox": [
+      108.0,
+      222.4,
+      539.5,
+      235.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b010",
+    "text": "suggest creating a limited list of decisions that may be informed by the model output, in",
+    "bbox": [
+      108.0,
+      237.4,
+      539.7,
+      250.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b011",
+    "text": "order to ensure the output is not used to inform decisions leading to action that is",
+    "bbox": [
+      108.0,
+      252.4,
+      539.6,
+      265.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b012",
+    "text": "incompatible with applicable guidance and ethical principles, including the Humanitarian",
+    "bbox": [
+      108.0,
+      267.4,
+      539.9,
+      280.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b013",
+    "text": "Principles.",
+    "bbox": [
+      108.0,
+      282.4,
+      159.0,
+      295.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b014",
+    "text": "Inaction",
+    "bbox": [
+      72.0,
+      312.4,
+      112.0,
+      325.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b015",
+    "text": "When no action is taken based on the model output this is considered ‘inaction’.",
+    "bbox": [
+      72.0,
+      327.4,
+      451.9,
+      340.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b016",
+    "text": "The Centre recommends that the risk reduction strategy identified in the Model card be",
+    "bbox": [
+      108.0,
+      357.4,
+      539.4,
+      370.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b017",
+    "text": "followed closely and its implementation be monitored. In future model deployments, the",
+    "bbox": [
+      108.0,
+      372.4,
+      539.5,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b018",
+    "text": "Centre recommends the model only be deployed when there is an established plan for",
+    "bbox": [
+      108.0,
+      387.4,
+      539.9,
+      400.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b019",
+    "text": "action based on its outputs.",
+    "bbox": [
+      108.0,
+      402.4,
+      243.6,
+      415.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b020",
+    "text": "Privacy / Rights Infringement",
+    "bbox": [
+      72.0,
+      432.4,
+      216.6,
+      445.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b021",
+    "text": "When data or information is managed or exposed in ways that infringe upon human rights, this is",
+    "bbox": [
+      72.0,
+      447.4,
+      539.7,
+      460.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b022",
+    "text": "considered a ‘privacy / rights infringement’.",
+    "bbox": [
+      72.0,
+      462.4,
+      278.2,
+      475.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b023",
+    "text": "The data currently used in the model is anonymized and aggregated. Should the model",
+    "bbox": [
+      108.0,
+      492.4,
+      539.9,
+      505.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b024",
+    "text": "use personal or otherwise sensitive data in future applications, we suggest its",
+    "bbox": [
+      108.0,
+      507.4,
+      539.4,
+      520.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b025",
+    "text": "management to be checked by legal / data protection experts.",
+    "bbox": [
+      108.0,
+      522.4,
+      410.0,
+      535.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b026",
+    "text": "Gaming",
+    "bbox": [
+      72.0,
+      552.4,
+      110.2,
+      565.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b027",
+    "text": "When stakeholders can act according to the algorithm’s rules to achieve an intended outcome,",
+    "bbox": [
+      72.0,
+      567.4,
+      539.3,
+      580.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b028",
+    "text": "this is considered ‘gaming’.",
+    "bbox": [
+      72.0,
+      582.4,
+      201.7,
+      595.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b029",
+    "text": "The Centre recommends that any significant changes in model behavior be monitored",
+    "bbox": [
+      108.0,
+      612.4,
+      539.9,
+      625.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b030",
+    "text": "closely in order to assess whether they might be caused by gaming. Sudden changes",
+    "bbox": [
+      108.0,
+      627.4,
+      539.5,
+      640.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b031",
+    "text": "that affect the outcome of the model could indicate that the target population is",
+    "bbox": [
+      108.0,
+      642.4,
+      539.9,
+      655.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b032",
+    "text": "adjusting its behavior to avoid gatherings from being detected.",
+    "bbox": [
+      108.0,
+      657.4,
+      412.5,
+      670.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b033",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "159",
+    "page_number": 4,
+    "block_id": "159_p4_b034",
+    "text": "4 of 4",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,1127 @@
+[
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b003",
+    "text": "March 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      80.6,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b004",
+    "text": "INTRODUCTION",
+    "bbox": [
+      35.8,
+      157.3,
+      137.9,
+      175.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b005",
+    "text": "Data security is a key component of data responsibility: the safe, ethical and effective management of data for",
+    "bbox": [
+      35.8,
+      179.5,
+      540.9,
+      193.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b006",
+    "text": "operational response. It entails a set of physical, technological and procedural measures that safeguard the",
+    "bbox": [
+      35.8,
+      194.8,
+      526.6,
+      208.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b007",
+    "text": "confidentiality, integrity and availability of data and prevent its accidental or intentional, unlawful or otherwise",
+    "bbox": [
+      35.8,
+      209.8,
+      544.2,
+      223.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b008",
+    "text": "unauthorized loss, destruction, alteration, acquisition, or disclosure.",
+    "bbox": [
+      35.8,
+      224.8,
+      349.8,
+      238.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b009",
+    "text": "This tip sheet offers a set of recommended actions for data security in OCHA’s data management. All OCHA staff",
+    "bbox": [
+      35.8,
+      251.2,
+      543.9,
+      265.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b010",
+    "text": "and supporting personnel (e.g. contractors, stand-by partners and secondments) are responsible for securing their",
+    "bbox": [
+      35.8,
+      264.4,
+      559.7,
+      278.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b011",
+    "text": "devices and the data they manage.",
+    "bbox": [
+      35.8,
+      277.6,
+      194.6,
+      291.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b012",
+    "text": "PRACTICE GOOD PASSWORD MANAGEMENT",
+    "bbox": [
+      35.8,
+      305.9,
+      301.8,
+      324.4
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b013",
+    "text": "•\t Secure your devices and accounts with strong passwords that include numbers, capital and lowercase",
+    "bbox": [
+      50.0,
+      329.4,
+      530.8,
+      343.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b014",
+    "text": "letters, and symbols with at least 16+ characters per password.",
+    "bbox": [
+      64.1,
+      342.6,
+      349.7,
+      356.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b015",
+    "text": "•\t Enable multi-factor authentication for all accounts.",
+    "bbox": [
+      50.0,
+      362.3,
+      301.5,
+      376.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b016",
+    "text": "•\t Do not reuse the same password for multiple accounts.",
+    "bbox": [
+      50.0,
+      382.6,
+      315.0,
+      396.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b017",
+    "text": "•\t Do not store your passwords physically (e.g. on notes) or digitally (in a file on your device) and do not share",
+    "bbox": [
+      50.0,
+      402.6,
+      552.5,
+      416.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b018",
+    "text": "your password with others.",
+    "bbox": [
+      64.1,
+      415.8,
+      188.3,
+      429.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b019",
+    "text": "•\t Do not enable the ’Remember Me’ functionality in applications and browsers.",
+    "bbox": [
+      50.0,
+      435.8,
+      416.6,
+      449.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b020",
+    "text": "•\t Change your passwords on your online accounts immediately if your device is lost or stolen.",
+    "bbox": [
+      50.0,
+      455.8,
+      481.4,
+      469.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b021",
+    "text": "USE ANTIVIRUS/ANTI-MALWARE SOFTWARE",
+    "bbox": [
+      35.8,
+      484.1,
+      305.6,
+      502.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b022",
+    "text": "•\t Make sure that you have appropriate antivirus/anti-malware software (Enterprise Virus Protection & Norton",
+    "bbox": [
+      50.0,
+      507.6,
+      554.5,
+      521.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b023",
+    "text": "Product Families by Symantec Corp) on your devices.",
+    "bbox": [
+      64.1,
+      520.8,
+      308.6,
+      534.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b024",
+    "text": "•\t If you have questions about appropriate tools or how to configure them, check with the IT specialist in your",
+    "bbox": [
+      50.0,
+      540.8,
+      554.1,
+      554.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b025",
+    "text": "office or at UN OICT.",
+    "bbox": [
+      64.1,
+      554.0,
+      155.0,
+      567.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b026",
+    "text": "KEEP SOFTWARE AND OPERATING SYSTEMS UP-TO-DATE",
+    "bbox": [
+      35.8,
+      582.3,
+      383.4,
+      600.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b027",
+    "text": "•\t Check regularly that your device, software, applications, and browser plug-ins are up to date and enable",
+    "bbox": [
+      50.0,
+      605.8,
+      540.2,
+      619.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b028",
+    "text": "automatic updates for your operating system.",
+    "bbox": [
+      64.1,
+      619.0,
+      272.6,
+      632.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b029",
+    "text": "•\t Use web browsers such as Chrome or Firefox that receive automatic security updates.",
+    "bbox": [
+      50.0,
+      639.0,
+      453.1,
+      652.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b030",
+    "text": "•\t Shut down devices at the end of the day to enable updating and protect against attacks.",
+    "bbox": [
+      50.0,
+      659.0,
+      464.3,
+      672.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b031",
+    "text": "AVOID PHISHING SCAMS AND BE CAREFUL WHAT YOU CLICK",
+    "bbox": [
+      35.8,
+      687.3,
+      402.6,
+      705.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b032",
+    "text": "•\t When receiving suspicious emails or messages, always check the sender's address/contact information and",
+    "bbox": [
+      50.0,
+      710.8,
+      554.5,
+      724.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b033",
+    "text": "only click on links or attachments when you trust the sender.",
+    "bbox": [
+      64.1,
+      724.0,
+      340.9,
+      737.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b034",
+    "text": "•\t Do not reply to suspicious emails or forward them to your colleagues.",
+    "bbox": [
+      50.0,
+      744.0,
+      380.0,
+      757.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b035",
+    "text": "•\t Report any suspicious activity to abuse@un.org.",
+    "bbox": [
+      50.0,
+      763.7,
+      286.0,
+      778.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b036",
+    "text": "TIP SHEET ON DATA SECURITY IN OCHA'S",
+    "bbox": [
+      35.0,
+      72.1,
+      432.8,
+      100.9
+    ],
+    "font_size": 20.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b037",
+    "text": "DATA MANAGEMENT",
+    "bbox": [
+      35.0,
+      96.1,
+      234.4,
+      124.9
+    ],
+    "font_size": 20.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 1,
+    "block_id": "393_p1_b038",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      36.3,
+      124.3,
+      273.5,
+      141.6
+    ],
+    "font_size": 12.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b003",
+    "text": "March 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      80.6,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b004",
+    "text": "USE MOBILE DEVICES RESPONSIBLY",
+    "bbox": [
+      35.4,
+      32.2,
+      253.6,
+      50.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b005",
+    "text": "•\t Where possible, use separate devices for work purposes. Keep your work devices in a secure place at all times",
+    "bbox": [
+      49.6,
+      55.7,
+      563.5,
+      69.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b006",
+    "text": "and avoid carrying them around unnecessarily.",
+    "bbox": [
+      63.8,
+      68.9,
+      278.5,
+      82.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b007",
+    "text": "•\t Use approved messaging tools (such as Signal) that provide end-to-end encryption.",
+    "bbox": [
+      49.6,
+      88.7,
+      445.1,
+      102.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b008",
+    "text": "•\t Turn Bluetooth connectivity off when possible and minimize Bluetooth connectivity.",
+    "bbox": [
+      49.6,
+      108.9,
+      446.9,
+      122.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b009",
+    "text": "•\t Use a Virtual Private Network (VPN) when working online. The OICT Technology Standards includes two",
+    "bbox": [
+      49.6,
+      128.7,
+      540.0,
+      142.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b010",
+    "text": "approved products: Microsoft’s Always On VPN and Cisco’s DMVPN. Contact OCHA Product Support",
+    "bbox": [
+      63.8,
+      141.9,
+      518.3,
+      156.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b011",
+    "text": "(productsupportocha@un.org) for more information.",
+    "bbox": [
+      63.8,
+      155.1,
+      309.5,
+      169.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b012",
+    "text": "•\t Always sign out of your account(s) if you are using a community computer or device.",
+    "bbox": [
+      49.6,
+      175.3,
+      446.7,
+      189.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b013",
+    "text": "•\t Disable biometric unlock features—particularly when in transit.",
+    "bbox": [
+      49.6,
+      195.3,
+      352.4,
+      209.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b014",
+    "text": "SAFEGUARD SENSITIVE DATA AND PRACTICE DATA MINIMIZATION",
+    "bbox": [
+      35.4,
+      223.6,
+      433.9,
+      242.2
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b015",
+    "text": "•\t Maintain a data asset registry that indicates the level of sensitivity for each data type managed by your",
+    "bbox": [
+      49.6,
+      246.9,
+      534.6,
+      261.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b016",
+    "text": "office. Review sensitivity levels regularly as the context evolves.",
+    "bbox": [
+      63.8,
+      260.3,
+      352.4,
+      274.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b017",
+    "text": "•\t Only collect the minimum amount of data is required to achieve the objective and purposes for a given data",
+    "bbox": [
+      49.6,
+      280.3,
+      556.0,
+      294.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b018",
+    "text": "management activity.",
+    "bbox": [
+      63.8,
+      293.5,
+      163.3,
+      307.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b019",
+    "text": "•\t Only retain sensitive data for as long as necessary to fulfill the purpose for which it is being managed and as",
+    "bbox": [
+      49.6,
+      313.5,
+      555.4,
+      327.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b020",
+    "text": "required by applicable guidance, law and regulations.",
+    "bbox": [
+      63.8,
+      326.7,
+      308.8,
+      340.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b021",
+    "text": "•\t Transfer and store data using approved tools and channels (locally on an OCHA server, computer or laptop;",
+    "bbox": [
+      49.6,
+      346.5,
+      553.4,
+      360.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b022",
+    "text": "or on United Nations operated servers and systems through OneDrive, SharePoint and Teams).",
+    "bbox": [
+      63.8,
+      359.9,
+      494.3,
+      373.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b023",
+    "text": "•\t Password protect files (Word, Excel, PDF) containing sensitive data and share document passwords through",
+    "bbox": [
+      49.6,
+      379.9,
+      554.8,
+      393.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b024",
+    "text": "separate channels (i.e. text a password for an emailed doc).",
+    "bbox": [
+      63.8,
+      393.1,
+      333.4,
+      407.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b025",
+    "text": "•\t Limit and carefully monitor the number of people with access to sensitive data.",
+    "bbox": [
+      49.6,
+      413.1,
+      424.1,
+      427.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b026",
+    "text": "•\t Define a retention and destruction schedule for all data managed by OCHA and use appropriate tools for the",
+    "bbox": [
+      49.6,
+      433.1,
+      557.6,
+      447.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b027",
+    "text": "destruction of data.",
+    "bbox": [
+      63.8,
+      446.3,
+      153.4,
+      460.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b028",
+    "text": "•\t Encrypt your email messages (using Outlook).",
+    "bbox": [
+      49.6,
+      466.1,
+      275.1,
+      480.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b029",
+    "text": "KEY RESOURCES",
+    "bbox": [
+      49.4,
+      507.4,
+      151.0,
+      526.0
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b030",
+    "text": "•\t UN’s Information Security Awareness Training (Foundational)",
+    "bbox": [
+      63.6,
+      530.7,
+      366.0,
+      544.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b031",
+    "text": "•\t OCHA Data Responsibility Guidelines",
+    "bbox": [
+      63.6,
+      550.7,
+      250.5,
+      564.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b032",
+    "text": "•\t OICT Technology Standards",
+    "bbox": [
+      63.6,
+      570.7,
+      207.5,
+      584.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b033",
+    "text": "•\t IASC Operational Guidance on Data Responsibility in Humanitarian Action",
+    "bbox": [
+      63.6,
+      590.7,
+      423.4,
+      604.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b034",
+    "text": "•\t Guidance Note on Data Incident Management",
+    "bbox": [
+      63.6,
+      610.7,
+      290.4,
+      624.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b035",
+    "text": "•\t Tip Sheet on the Responsible Use of Online Conferencing Tools",
+    "bbox": [
+      63.6,
+      630.7,
+      371.4,
+      644.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b036",
+    "text": "Contact Stuart Campo (campo2@un.org), the Team Lead for Data Responsibility at the OCHA Centre for Humanitarian",
+    "bbox": [
+      36.0,
+      673.5,
+      563.3,
+      687.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "393",
+    "page_number": 2,
+    "block_id": "393_p2_b037",
+    "text": "Data, with any questions or comments.",
+    "bbox": [
+      36.0,
+      686.8,
+      209.8,
+      700.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  }
+]

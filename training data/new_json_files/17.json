@@ -1,0 +1,5462 @@
+[
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b003",
+    "text": "INTRODUCTION",
+    "bbox": [
+      53.9,
+      523.0,
+      158.0,
+      539.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b004",
+    "text": "Humanitarian organizations rely more than ever on digital technologies to assist and protect people in",
+    "bbox": [
+      53.9,
+      548.0,
+      521.7,
+      561.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b005",
+    "text": "crisis.1 These technologies enable humanitarians to gather data to understand and respond to the needs of",
+    "bbox": [
+      53.9,
+      561.2,
+      542.7,
+      575.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b006",
+    "text": "affected people, and offer new channels to deliver aid through unprecedented digital proximity.2 However,",
+    "bbox": [
+      53.9,
+      574.4,
+      540.2,
+      588.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b007",
+    "text": "this increased digitalization is not without risks—chief among them is the growing risk of cyber threats.3",
+    "bbox": [
+      53.9,
+      587.6,
+      526.5,
+      601.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b008",
+    "text": "Cyber threats are one of the most pressing issues facing the humanitarian sector today.4 Digital",
+    "bbox": [
+      53.9,
+      614.0,
+      487.3,
+      627.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b009",
+    "text": "transformation, increasing dependence on information and communications technology (ICT), and the",
+    "bbox": [
+      53.9,
+      627.2,
+      524.0,
+      641.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b010",
+    "text": "prevalence of cyber threats create a new array of risks for humanitarian agencies and the people they serve.",
+    "bbox": [
+      53.9,
+      640.4,
+      546.2,
+      654.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b011",
+    "text": "A few examples include:",
+    "bbox": [
+      53.9,
+      654.8,
+      163.6,
+      668.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b012",
+    "text": "1     NetHope (2022). Humanitarians (and data) #NotATarget.",
+    "bbox": [
+      53.9,
+      727.9,
+      244.0,
+      736.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b013",
+    "text": "2    Massimo Marelli and Adrian Perrig (2020). Hacking Humanitarians: Mapping The Cyber Environment And Threat Landscape, International",
+    "bbox": [
+      53.9,
+      738.9,
+      519.8,
+      747.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b014",
+    "text": "Committee of the Red Cross, 7 May.",
+    "bbox": [
+      53.9,
+      747.9,
+      173.6,
+      756.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b015",
+    "text": "3    UNOCHA GHPF (2022). Virtual Risk, Tangible Harm: The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.9,
+      758.9,
+      394.7,
+      767.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b016",
+    "text": "4    World Economic Forum (2022). The Global Risks Report 2022 17th Edition. Geneva.",
+    "bbox": [
+      53.9,
+      769.9,
+      330.4,
+      778.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b017",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b018",
+    "text": "GUIDANCE NOTE SERIES",
+    "bbox": [
+      53.3,
+      98.4,
+      208.3,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b019",
+    "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+    "bbox": [
+      53.3,
+      116.4,
+      378.1,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b020",
+    "text": "GUIDANCE NOTE ON THE IMPLICATIONS OF",
+    "bbox": [
+      53.3,
+      138.7,
+      511.6,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b021",
+    "text": "CYBER THREATS FOR HUMANITARIANS",
+    "bbox": [
+      53.3,
+      162.7,
+      456.5,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b022",
+    "text": "KEY TAKEAWAYS:",
+    "bbox": [
+      63.7,
+      221.0,
+      167.1,
+      236.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b023",
+    "text": "•\t Cyber threats are one of the most pressing issues facing the humanitarian sector today. Digital",
+    "bbox": [
+      75.0,
+      243.7,
+      516.6,
+      257.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b024",
+    "text": "transformation, increasing dependence on information and communications technology, and the",
+    "bbox": [
+      86.3,
+      256.9,
+      532.3,
+      270.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b025",
+    "text": "prevalence of cyber threats create a new array of risks for humanitarian agencies and the people",
+    "bbox": [
+      86.3,
+      270.1,
+      526.5,
+      284.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b026",
+    "text": "they serve.",
+    "bbox": [
+      86.3,
+      283.3,
+      136.3,
+      297.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b027",
+    "text": "•\t Cyber threats comprise a variety of activities and behaviors that can be distinguished by the",
+    "bbox": [
+      75.0,
+      307.5,
+      506.0,
+      321.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b028",
+    "text": "types of actors behind them and their motives, as well as the type of threat.",
+    "bbox": [
+      86.3,
+      320.7,
+      429.5,
+      334.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b029",
+    "text": "•\t Common vulnerabilities in the humanitarian sector include infrastructure flaws, inadequate",
+    "bbox": [
+      75.0,
+      344.9,
+      506.7,
+      358.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b030",
+    "text": "basic cybersecurity and digital literacy, human error and the absence of coordinated approaches.",
+    "bbox": [
+      86.3,
+      358.1,
+      531.2,
+      372.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b031",
+    "text": "•\t Cyber threats can compromise humanitarians’ ability to deliver assistance and protect affected",
+    "bbox": [
+      75.0,
+      382.3,
+      520.3,
+      396.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b032",
+    "text": "populations. They directly affect a number of key humanitarian programming areas, including",
+    "bbox": [
+      86.3,
+      395.5,
+      516.6,
+      409.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b033",
+    "text": "protection, access, and accountability to affected populations and communicating with",
+    "bbox": [
+      86.3,
+      408.7,
+      486.5,
+      422.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b034",
+    "text": "communities.",
+    "bbox": [
+      86.3,
+      421.9,
+      149.3,
+      435.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b035",
+    "text": "•\t In order to improve cyber resilience, organizations should invest in cybersecurity as a",
+    "bbox": [
+      75.0,
+      446.1,
+      475.9,
+      460.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b036",
+    "text": "cross-organizational issue, enhance institutional preparedness, increase digital literacy of staff,",
+    "bbox": [
+      86.3,
+      459.3,
+      520.7,
+      473.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 1,
+    "block_id": "17_p1_b037",
+    "text": "and improve coordination and collaboration.",
+    "bbox": [
+      86.3,
+      472.5,
+      291.6,
+      486.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b003",
+    "text": "5     Rebecca Root (2020). COVID-19 Brings Wave of Cyberattacks Against NGOs, Devex, 13 April.",
+    "bbox": [
+      53.5,
+      636.3,
+      357.0,
+      645.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b004",
+    "text": "6    World Health Organization (2020). WHO Reports Fivefold Increase in Cyberattacks, Urges Vigilance, 23 April.",
+    "bbox": [
+      53.5,
+      648.3,
+      416.0,
+      657.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b005",
+    "text": "7     Kelly Sheridan (2021). US Seizes Attacker Domains Used in USAID Phishing Campaign, DARKReading, 1 June; Adva Saldinger (2021). USAID Hack is",
+    "bbox": [
+      53.5,
+      660.3,
+      539.2,
+      669.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b006",
+    "text": "‘Wakeup Call’ for Aid Industry on Cybersecurity, Devex, 4 June.",
+    "bbox": [
+      53.5,
+      669.3,
+      268.3,
+      678.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b007",
+    "text": "8    International Committee of the Red Cross (2022). Cyber-Attack on ICRC: What We Know, 16 February.",
+    "bbox": [
+      53.5,
+      681.3,
+      387.9,
+      690.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b008",
+    "text": "9    ICRC (2022). ICRC proposes digital red cross/crescent emblem to signal protection in cyberspace, 3 November. Linked to this is the notion of the",
+    "bbox": [
+      53.5,
+      693.3,
+      528.5,
+      702.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b009",
+    "text": "“sovereign cloud” – i.e., a cloud architecture in which data sovereignty can be respected and applied. See ICRC (2020). Handbook on Data Protection",
+    "bbox": [
+      53.5,
+      702.3,
+      541.0,
+      711.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b010",
+    "text": "in Humanitarian Action.",
+    "bbox": [
+      53.5,
+      711.3,
+      140.6,
+      720.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b011",
+    "text": "10  ICRC (2022). The ICRC opens a new delegation for cyberspace in Luxembourg, 17 November.",
+    "bbox": [
+      53.5,
+      723.3,
+      360.7,
+      732.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b012",
+    "text": "11   NetHope (2022). Digital Protection and Cybersecurity.",
+    "bbox": [
+      53.5,
+      735.3,
+      236.7,
+      744.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b013",
+    "text": "12  Adapted from: International Telecommunication Union (ITU) Recommendation ITU-T X.1205, Overview of cybersecurity.",
+    "bbox": [
+      53.5,
+      747.3,
+      456.6,
+      756.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b014",
+    "text": "13  IASC, 2021. Operational Guidance on Data Responsibility in Humanitarian Action.",
+    "bbox": [
+      53.5,
+      759.3,
+      327.7,
+      768.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b015",
+    "text": "14  UNOCHA GHPF (2022). Virtual Risk, Tangible Harm: The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.5,
+      771.3,
+      394.5,
+      780.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b016",
+    "text": "•\t In April 2020, at the beginning of the COVID-19 pandemic, Mercy Corps and the International",
+    "bbox": [
+      65.0,
+      37.5,
+      497.2,
+      51.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b017",
+    "text": "Federation of Red Cross and Red Crescent Societies (IFRC) reported a drastic uptick in data protection",
+    "bbox": [
+      76.3,
+      50.7,
+      540.2,
+      64.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b018",
+    "text": "breaches,5 and the World Health Organization (WHO) noted a fivefold increase in the number of cyber",
+    "bbox": [
+      76.3,
+      63.9,
+      538.8,
+      77.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b019",
+    "text": "threats against the organization.6",
+    "bbox": [
+      76.3,
+      77.1,
+      227.1,
+      91.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b020",
+    "text": "•\t In May 2021, hackers gained access to the email marketing account of the United States Agency for",
+    "bbox": [
+      65.0,
+      101.3,
+      526.0,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b021",
+    "text": "International Development (USAID), emailing over 150 organizations in an apparent attempt to hack",
+    "bbox": [
+      76.3,
+      114.5,
+      533.9,
+      128.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b022",
+    "text": "them.7",
+    "bbox": [
+      76.3,
+      127.7,
+      108.7,
+      141.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b023",
+    "text": "•\t In February 2022, a highly targeted cyber operation against servers of the International Committee",
+    "bbox": [
+      65.0,
+      151.9,
+      526.5,
+      165.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b024",
+    "text": "of the Red Cross (ICRC) which compromised sensitive data of more than 515,000 individuals was",
+    "bbox": [
+      76.3,
+      165.1,
+      515.6,
+      179.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b025",
+    "text": "detected.8",
+    "bbox": [
+      76.3,
+      178.3,
+      122.7,
+      192.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b026",
+    "text": "These attacks may cause serious harm. They violate the privacy of the people whose data is compromised,",
+    "bbox": [
+      53.6,
+      202.5,
+      540.4,
+      216.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b027",
+    "text": "risk exposing sensitive information about them and erode trust in humanitarian organizations’ capabilities.",
+    "bbox": [
+      53.6,
+      215.7,
+      543.3,
+      229.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b028",
+    "text": "In response to these attacks, a number of new initiatives signal increased investment in this area. For",
+    "bbox": [
+      53.6,
+      242.1,
+      514.8,
+      256.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b029",
+    "text": "example, ICRC is considering the development of a ‘digital emblem’9 and has also opened a new delegation",
+    "bbox": [
+      53.6,
+      255.3,
+      543.3,
+      269.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b030",
+    "text": "for cyberspace in Luxembourg.10 NetHope has established an Information Sharing and Analysis Center that",
+    "bbox": [
+      53.6,
+      268.5,
+      540.7,
+      282.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b031",
+    "text": "will help support the information security needs of nonprofit agencies and the world’s most vulnerable",
+    "bbox": [
+      53.6,
+      281.7,
+      524.2,
+      295.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b032",
+    "text": "communities.11 However, the sector lacks a shared approach to mitigating the risk and potential impact of",
+    "bbox": [
+      53.6,
+      294.9,
+      537.4,
+      308.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b033",
+    "text": "cyber threats.",
+    "bbox": [
+      53.6,
+      308.1,
+      116.4,
+      322.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b034",
+    "text": "This Guidance Note aims to help build a common understanding and support more strategic, collective",
+    "bbox": [
+      53.6,
+      334.5,
+      524.2,
+      348.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b035",
+    "text": "action within the sector. It provides an overview of the cyber threats, vulnerabilities, and implications",
+    "bbox": [
+      53.6,
+      347.7,
+      517.2,
+      361.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b036",
+    "text": "facing humanitarians and people affected by crises, and offers recommendations to increase cyber",
+    "bbox": [
+      53.6,
+      360.9,
+      505.4,
+      374.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b037",
+    "text": "resilience within and across organizations and their partners.",
+    "bbox": [
+      53.6,
+      374.1,
+      332.0,
+      388.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b038",
+    "text": "Definitions",
+    "bbox": [
+      64.8,
+      407.5,
+      119.9,
+      420.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b039",
+    "text": "Cybersecurity entails a combination of tools, policies, security concepts, security safeguards, guidelines,",
+    "bbox": [
+      64.8,
+      430.5,
+      524.2,
+      444.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b040",
+    "text": "risk management approaches, actions, training, best practices, assurance and technologies that can be",
+    "bbox": [
+      64.8,
+      443.5,
+      514.7,
+      456.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b041",
+    "text": "used to protect the cyber environment, and organization and user assets against relevant security risks in",
+    "bbox": [
+      64.8,
+      456.1,
+      524.3,
+      469.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b042",
+    "text": "the cyber environment.12",
+    "bbox": [
+      64.8,
+      468.7,
+      175.4,
+      481.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b043",
+    "text": "Information and data security entails a set of physical, technological and procedural measures that",
+    "bbox": [
+      64.8,
+      491.9,
+      505.1,
+      505.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b044",
+    "text": "safeguard the confidentiality, integrity and availability of data, and prevent its accidental or intentional,",
+    "bbox": [
+      64.8,
+      504.9,
+      517.2,
+      518.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b045",
+    "text": "unlawful or otherwise unauthorized loss, destruction, alteration, acquisition or disclosure.13",
+    "bbox": [
+      64.8,
+      517.5,
+      465.6,
+      530.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b046",
+    "text": "Cyber threats encompass ‘activities that occur at least in part within the cyber realm, utilizing and/or",
+    "bbox": [
+      64.8,
+      540.7,
+      507.5,
+      554.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b047",
+    "text": "targeting information communications technologies to achieve an effect that is not authorized by the",
+    "bbox": [
+      64.8,
+      553.7,
+      506.6,
+      566.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b048",
+    "text": "legitimate user of the data or the ICT and/or has a harmful intent or effect on the victim or victims’.14",
+    "bbox": [
+      64.8,
+      566.3,
+      497.4,
+      579.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b049",
+    "text": "Cyber resilience refers to an organization’s capacity to identify, prevent and detect cyber threats, and",
+    "bbox": [
+      64.8,
+      589.5,
+      509.0,
+      603.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 2,
+    "block_id": "17_p2_b050",
+    "text": "respond and recover.",
+    "bbox": [
+      64.8,
+      602.5,
+      156.8,
+      615.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b003",
+    "text": "15  Denial-of-service (DoS) and Distributed denial-of-service (DDoS) attacks flood a system’s resources, overwhelming them and preventing responses to",
+    "bbox": [
+      53.5,
+      655.4,
+      545.2,
+      663.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b004",
+    "text": "service requests, which reduces the system’s ability to perform. (Source: IBM).",
+    "bbox": [
+      53.5,
+      664.3,
+      312.6,
+      673.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b005",
+    "text": "16  Malware is malicious software that can render infected systems inoperable. Most malware variants destroy data by deleting or wiping files critical to",
+    "bbox": [
+      53.5,
+      676.4,
+      542.7,
+      684.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b006",
+    "text": "the operating system’s ability to run. (Source: IBM).",
+    "bbox": [
+      53.5,
+      685.3,
+      222.9,
+      694.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b007",
+    "text": "17  Ransomware is sophisticated malware that takes advantage of system weaknesses, using strong encryption to hold data or system functionality",
+    "bbox": [
+      53.5,
+      697.4,
+      530.4,
+      705.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b008",
+    "text": "hostage. Cybercriminals use ransomware to demand payment in exchange for releasing the system. A recent development with ransomware is the",
+    "bbox": [
+      53.5,
+      706.4,
+      540.5,
+      714.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b009",
+    "text": "add-on of extortion tactics. (Source: IBM).",
+    "bbox": [
+      53.5,
+      715.3,
+      194.1,
+      724.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b010",
+    "text": "18  International Committee of the Red Cross (November 2019). International Humanitarian Law and the Challenges of Contemporary Armed",
+    "bbox": [
+      53.5,
+      727.3,
+      514.7,
+      736.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b011",
+    "text": "Conflicts: Recommitting to Protection in Armed Conflict on the 70th Anniversary of the Geneva Conventions.",
+    "bbox": [
+      53.5,
+      736.3,
+      419.7,
+      745.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b012",
+    "text": "19  European Parliamentary Research Service (June 2022).  Russia’s war on Ukraine: Timeline of cyber-attacks.",
+    "bbox": [
+      53.5,
+      748.2,
+      416.0,
+      757.0
+    ],
+    "font_size": 7.8,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b013",
+    "text": "20 UN. Hate speech and real harm; Human Rights Council (2018). Report of the Independent International Fact-finding Mission on Myanmar",
+    "bbox": [
+      53.5,
+      760.3,
+      511.1,
+      769.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b014",
+    "text": "(A/HRC/39/64).",
+    "bbox": [
+      53.5,
+      769.4,
+      109.2,
+      777.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b015",
+    "text": "CYBER THREATS",
+    "bbox": [
+      53.0,
+      43.8,
+      158.2,
+      60.2
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b016",
+    "text": "To increase cybersecurity within the sector, organizations must first understand the threats they may face",
+    "bbox": [
+      53.0,
+      68.8,
+      534.5,
+      82.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b017",
+    "text": "in this sphere. Cyber threats comprise a wide variety of activities and behaviors that can be distinguished",
+    "bbox": [
+      53.0,
+      82.0,
+      532.7,
+      95.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b018",
+    "text": "by the types of actors behind them and their motives. Actors range from nation-states to criminal",
+    "bbox": [
+      53.0,
+      95.2,
+      496.4,
+      109.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b019",
+    "text": "organizations and private persons or combinations thereof. The affiliation and goals of actors can inform",
+    "bbox": [
+      53.0,
+      108.4,
+      530.6,
+      122.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b020",
+    "text": "how aggressively they behave, how sophisticated attacks are, which methods are used and who is targeted.",
+    "bbox": [
+      53.0,
+      121.6,
+      544.2,
+      135.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b021",
+    "text": "Cyber threats can be direct or indirect, depending on the target. Direct cyber threats, which target",
+    "bbox": [
+      53.0,
+      148.0,
+      499.0,
+      161.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b022",
+    "text": "humanitarian organizations, have increased in recent years. Indirect cyber threats target the infrastructure",
+    "bbox": [
+      53.0,
+      161.2,
+      538.8,
+      175.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b023",
+    "text": "or services that people affected by or responding to humanitarian crises rely on for survival and aid",
+    "bbox": [
+      53.0,
+      174.4,
+      506.1,
+      188.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b024",
+    "text": "delivery.",
+    "bbox": [
+      53.0,
+      187.6,
+      92.2,
+      201.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b025",
+    "text": "Cyber threats can also be classified according to their type or mode. These include Denial-of-service (DoS)",
+    "bbox": [
+      53.0,
+      214.0,
+      536.9,
+      227.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b026",
+    "text": "and Distributed denial-of-service (DDoS) attacks,15 malware,16 and ransomware,17 among others.",
+    "bbox": [
+      53.0,
+      227.2,
+      492.2,
+      241.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b027",
+    "text": "The following examples illustrate what cyber threats might look like in practice:",
+    "bbox": [
+      53.0,
+      253.6,
+      416.2,
+      267.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b028",
+    "text": "•\t Cyber warfare refers to ‘operations against a computer, a computer system or network, or another",
+    "bbox": [
+      64.3,
+      279.6,
+      527.6,
+      294.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b029",
+    "text": "connected device, through a data stream, when used as means or methods of warfare in the context",
+    "bbox": [
+      75.7,
+      293.2,
+      532.1,
+      307.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b030",
+    "text": "of an armed conflict’.18 In Ukraine, cyber-attacks have undermined the distribution of medicines, food",
+    "bbox": [
+      75.7,
+      306.4,
+      539.1,
+      320.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b031",
+    "text": "and relief supplies since February 2022.19 Their impact has ranged from preventing access to basic",
+    "bbox": [
+      75.6,
+      319.6,
+      523.0,
+      333.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b032",
+    "text": "services to data theft and disinformation.",
+    "bbox": [
+      75.6,
+      332.8,
+      263.6,
+      346.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b033",
+    "text": "•\t Misinformation, disinformation and hate speech (MDH) refers to the organized dissemination",
+    "bbox": [
+      64.3,
+      358.8,
+      515.6,
+      373.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b034",
+    "text": "(intentional or unintentional) of false information through means of ICT which discredits political,",
+    "bbox": [
+      75.6,
+      372.4,
+      522.5,
+      386.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b035",
+    "text": "military or civil society actors, or spreads, incites, promotes or justifies hatred and violence based on",
+    "bbox": [
+      75.6,
+      385.6,
+      535.0,
+      399.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b036",
+    "text": "intolerance. In Myanmar, a campaign of MDH with derogatory and dehumanizing language against the",
+    "bbox": [
+      75.6,
+      398.8,
+      542.3,
+      412.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b037",
+    "text": "Rohingya Muslim minority of the country has been linked to the commission of grave human rights",
+    "bbox": [
+      75.6,
+      412.0,
+      527.3,
+      425.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b038",
+    "text": "violations.20",
+    "bbox": [
+      75.6,
+      425.2,
+      129.8,
+      439.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b039",
+    "text": "•\t Cybercrime refers to criminal offenses that are cyber-enabled (committed through the means of ICT)",
+    "bbox": [
+      64.3,
+      451.2,
+      537.4,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b040",
+    "text": "or cyber-dependent (only possible because of ICT).",
+    "bbox": [
+      75.7,
+      464.8,
+      309.7,
+      478.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b041",
+    "text": "•\t Cyber sabotage refers to activities aiming to disrupt or destroy the reliable and error-free functioning",
+    "bbox": [
+      64.3,
+      490.8,
+      539.9,
+      505.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b042",
+    "text": "of ICT. If an act of sabotage is carried out by perpetrators with terrorist motives, it is referred to as",
+    "bbox": [
+      75.7,
+      504.4,
+      518.9,
+      518.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 3,
+    "block_id": "17_p3_b043",
+    "text": "cyber terrorism.",
+    "bbox": [
+      75.7,
+      518.8,
+      148.9,
+      532.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b003",
+    "text": "21  UN (2021). Cybersecurity in the United Nations system organizations: Report of the Joint Inspection Unit.",
+    "bbox": [
+      53.5,
+      617.3,
+      403.2,
+      626.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b004",
+    "text": "22  UN (2021). Cybersecurity in the United Nations system organizations: Report of the Joint Inspection Unit.",
+    "bbox": [
+      53.5,
+      629.3,
+      403.9,
+      638.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b005",
+    "text": "23  Checkpoint (2020). Critical Infrastructure and SCADA/ICS Cybersecurity Vulnerabilities and Threats.",
+    "bbox": [
+      53.5,
+      641.3,
+      392.6,
+      650.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b006",
+    "text": "24  Massimo Marelli (2021). The SolarWinds hack: lessons for humanitarians. International Committee of the Red Cross, 18 May.",
+    "bbox": [
+      53.5,
+      653.3,
+      463.7,
+      662.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b007",
+    "text": "25  Between June 2020 and April 2022, the CyberPeace Institute analyzed data on 379 cyber-attacks against the healthcare sector across 36 countries",
+    "bbox": [
+      53.5,
+      665.3,
+      539.4,
+      674.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b008",
+    "text": "with an average of 165,000 records breached per incident—and this is a mere fraction of the full extent of the problem. In 2015, a sophisticated",
+    "bbox": [
+      53.5,
+      676.3,
+      519.3,
+      685.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b009",
+    "text": "malware operation targeting Ukraine’s electricity grid left 230,000 residents without power for up to six hours in the middle of winter, in the first",
+    "bbox": [
+      53.5,
+      685.3,
+      530.6,
+      694.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b010",
+    "text": "confirmed hack to take down a power grid. Israel’s national water provider Mekorot reported in 2021 that its water networks are subject to “several",
+    "bbox": [
+      53.5,
+      694.3,
+      534.9,
+      703.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b011",
+    "text": "hundreds of thousands of hacking attempts” per year. In February 2022, satellite communications firm Viasat reported a suspected cyber-attack that",
+    "bbox": [
+      53.5,
+      703.3,
+      544.4,
+      712.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b012",
+    "text": "resulted in a partial outage of residential broadband services in Ukraine and other European countries. Noëlle van der Waag-Cowling (2022). Living",
+    "bbox": [
+      53.5,
+      712.3,
+      538.6,
+      721.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b013",
+    "text": "Below the Cyber Poverty Line: Strategic Challenges for Africa, ICRC Humanitarian Law & Policy Blog, 11 June.",
+    "bbox": [
+      53.5,
+      721.3,
+      414.0,
+      730.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b014",
+    "text": "26  Massimo Marelli (2021). The SolarWinds hack: lessons for humanitarians. International Committee of the Red Cross, 18 May.",
+    "bbox": [
+      53.5,
+      733.3,
+      463.9,
+      742.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b015",
+    "text": "27  UN GHPF (2021). The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.5,
+      745.3,
+      277.8,
+      754.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b016",
+    "text": "28 WEF (2022). Why the humanitarian sector needs to make cybersecurity a priority, 17 January.",
+    "bbox": [
+      53.5,
+      757.3,
+      367.0,
+      766.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b017",
+    "text": "29 Catherine Cheney (2022). Delivering digital aid when the internet becomes a weapon of war, DevEx, 28 January.",
+    "bbox": [
+      53.5,
+      769.3,
+      426.0,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b018",
+    "text": "COMMON VULNERABILITIES IN THE HUMANITARIAN SECTOR",
+    "bbox": [
+      53.0,
+      44.8,
+      457.7,
+      61.2
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b019",
+    "text": "Humanitarian actors should investigate and understand potential vulnerabilities that might impact their",
+    "bbox": [
+      53.0,
+      69.8,
+      529.7,
+      83.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b020",
+    "text": "cyber resilience, and make them more susceptible to becoming victims of cyber threats. These include",
+    "bbox": [
+      53.0,
+      83.0,
+      521.1,
+      96.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b021",
+    "text": "infrastructure flaws, inadequate basic cybersecurity and digital literacy, human error and the absence of a",
+    "bbox": [
+      53.0,
+      96.2,
+      537.2,
+      110.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b022",
+    "text": "coordinated approach.",
+    "bbox": [
+      53.0,
+      109.4,
+      159.7,
+      123.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b023",
+    "text": "1.\t Infrastructure flaws",
+    "bbox": [
+      53.0,
+      135.4,
+      167.4,
+      149.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b024",
+    "text": "Cyber threats are commonly associated with sophisticated technical operations targeting vulnerabilities",
+    "bbox": [
+      53.0,
+      155.8,
+      528.8,
+      169.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b025",
+    "text": "in information infrastructure.21 Common vulnerabilities of this type relevant to the humanitarian sector",
+    "bbox": [
+      53.0,
+      169.0,
+      524.1,
+      182.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b026",
+    "text": "include:",
+    "bbox": [
+      53.0,
+      182.2,
+      92.0,
+      196.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b027",
+    "text": "•\t Legacy systems: Outdated computing software and/or hardware that are unable to resist",
+    "bbox": [
+      64.3,
+      208.2,
+      485.4,
+      222.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b028",
+    "text": "contemporary forms of attack, and present a risk for other applications and data that may share the",
+    "bbox": [
+      75.7,
+      221.8,
+      531.7,
+      235.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b029",
+    "text": "same infrastructure.22",
+    "bbox": [
+      75.7,
+      235.0,
+      174.4,
+      248.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b030",
+    "text": "•\t Default or improper configuration: Out-of-box systems, i.e., with default or simple passwords and",
+    "bbox": [
+      64.3,
+      261.0,
+      529.9,
+      275.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b031",
+    "text": "overly permissive configurations are easier for attackers to compromise.23",
+    "bbox": [
+      75.6,
+      274.6,
+      410.5,
+      288.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b032",
+    "text": "•\t Lack of encryption: In the absence of encryption, attackers can use software to discover usernames",
+    "bbox": [
+      64.3,
+      300.6,
+      534.1,
+      315.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b033",
+    "text": "and passwords. A lack of encryption means that an attacker can access the data on compromised",
+    "bbox": [
+      75.7,
+      314.2,
+      520.2,
+      328.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b034",
+    "text": "devices. Data that is transferred via unencrypted channels is also at risk of unauthorized access.",
+    "bbox": [
+      75.7,
+      327.4,
+      513.2,
+      341.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b035",
+    "text": "•\t Third-party infrastructure: Attackers can infiltrate ICT systems through an outside partner or",
+    "bbox": [
+      64.3,
+      353.4,
+      506.0,
+      367.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b036",
+    "text": "vendor by exploiting different vulnerabilities.24 Attackers may also gain access to the data stored by",
+    "bbox": [
+      75.7,
+      367.0,
+      528.1,
+      380.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b037",
+    "text": "providers. Disruption of critical infrastructure through cyber operations can lead to a shutdown of",
+    "bbox": [
+      75.6,
+      380.2,
+      522.5,
+      394.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b038",
+    "text": "essential services, which can have grave consequences for people in need and disrupt humanitarian",
+    "bbox": [
+      75.6,
+      393.4,
+      533.0,
+      407.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b039",
+    "text": "operations.25 Vendor lock-in due to product incompatibilities, low levels of interoperability or",
+    "bbox": [
+      75.6,
+      406.6,
+      500.9,
+      420.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b040",
+    "text": "portability, or limited alternatives in the market are also major concerns.26",
+    "bbox": [
+      75.7,
+      419.8,
+      412.5,
+      433.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b041",
+    "text": "2.\t Inadequate basic cybersecurity and digital literacy",
+    "bbox": [
+      53.0,
+      445.8,
+      314.9,
+      460.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b042",
+    "text": "Cybersecurity preparedness, organizational readiness and digital literacy remain limited in the",
+    "bbox": [
+      53.0,
+      466.2,
+      484.9,
+      480.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b043",
+    "text": "humanitarian sector.27 Inadequate data literacy, and a lack of consistent practices and tools to ensure",
+    "bbox": [
+      53.0,
+      479.4,
+      515.6,
+      493.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b044",
+    "text": "cybersecurity are widespread among humanitarian organizations. Cybersecurity continues to be seen as a",
+    "bbox": [
+      53.0,
+      492.6,
+      537.9,
+      506.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b045",
+    "text": "predominantly technical issue, leading to little engagement from staff or leadership to raise awareness of",
+    "bbox": [
+      53.0,
+      505.8,
+      533.8,
+      519.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b046",
+    "text": "threats and equip people across organizations with the skills and tools required to mitigate risk. This lack",
+    "bbox": [
+      53.0,
+      519.0,
+      533.4,
+      532.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b047",
+    "text": "of engagement and focus also translates into a lack of resources and funding for cybersecurity.28 Even as",
+    "bbox": [
+      53.0,
+      532.2,
+      528.9,
+      546.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b048",
+    "text": "humanitarian actors digitalize their operations, gaps remain between the investment in the front end of",
+    "bbox": [
+      53.0,
+      545.4,
+      526.5,
+      559.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b049",
+    "text": "technology (building it, deploying it, and closing out the project), and the back end (maintaining services",
+    "bbox": [
+      53.0,
+      558.6,
+      533.0,
+      572.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 4,
+    "block_id": "17_p4_b050",
+    "text": "and keeping information secure and protected over time).29",
+    "bbox": [
+      53.0,
+      571.8,
+      323.3,
+      585.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b003",
+    "text": "30 UN (2021). Cybersecurity in the United Nations system organizations: Report of the Joint Inspection Unit.",
+    "bbox": [
+      53.5,
+      680.1,
+      399.6,
+      688.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b004",
+    "text": "31  WEF (2020). After reading, writing and arithmetic, the 4th ‘r’ of literacy is cyber-risk.",
+    "bbox": [
+      53.5,
+      692.1,
+      329.5,
+      700.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b005",
+    "text": "32 UN (2021). Cybersecurity in the United Nations system organizations: Report of the Joint Inspection Unit.",
+    "bbox": [
+      53.5,
+      704.1,
+      399.0,
+      712.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b006",
+    "text": "33 One notable example of communication about cyber breaches was the ICRC’s reaction to the 2022 cyber-attack, about which the organization",
+    "bbox": [
+      53.5,
+      716.1,
+      522.4,
+      724.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b007",
+    "text": "communicated in a very transparent and timely manner, keeping partners and beneficiaries informed to the best of their abilities.",
+    "bbox": [
+      53.5,
+      725.1,
+      481.2,
+      733.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b008",
+    "text": "34 UNOCHA GHPF (2022). Virtual Risk, Tangible Harm: The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.5,
+      737.1,
+      390.3,
+      745.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b009",
+    "text": "35 UNOCHA on Message: Humanitarian Principles.",
+    "bbox": [
+      53.5,
+      749.1,
+      215.6,
+      757.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b010",
+    "text": "36 Brittany Card. (2015). Applying Humanitarian Principles To Current Uses Of Information Communication Technologies: Gaps In Doctrine And",
+    "bbox": [
+      53.5,
+      761.1,
+      521.5,
+      769.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b011",
+    "text": "Challenges To Practice.Signal Program on Human Security and Technology, Harvard Humanitarian Initiative.",
+    "bbox": [
+      53.5,
+      770.1,
+      414.7,
+      778.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b012",
+    "text": "3.\t Human error",
+    "bbox": [
+      53.0,
+      44.4,
+      135.4,
+      58.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b013",
+    "text": "There has been a discernible shift from hackers attacking servers, networks and devices to ‘hacking",
+    "bbox": [
+      53.0,
+      64.8,
+      506.9,
+      78.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b014",
+    "text": "people’ in recent years.30 Ninety-five percent of cybersecurity breaches are now caused by human error.31",
+    "bbox": [
+      53.0,
+      78.0,
+      532.0,
+      91.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b015",
+    "text": "Social engineering techniques (phishing, impersonation, etc.) aimed at manipulating individuals into",
+    "bbox": [
+      53.0,
+      91.2,
+      515.1,
+      105.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b016",
+    "text": "divulging sensitive information are the most prevalent means of exploiting this vulnerability. Most of these",
+    "bbox": [
+      53.0,
+      104.4,
+      539.3,
+      118.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b017",
+    "text": "techniques are designed to reach a high number of users simultaneously, maximizing the likelihood of a",
+    "bbox": [
+      53.0,
+      117.6,
+      527.9,
+      131.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b018",
+    "text": "breach. These intrusions can go undetected for extended periods of time, giving attackers access to internal",
+    "bbox": [
+      53.0,
+      130.8,
+      544.6,
+      144.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b019",
+    "text": "security architecture and confidential information, which in turn offers further opportunities for attack.",
+    "bbox": [
+      53.0,
+      144.0,
+      522.4,
+      157.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b020",
+    "text": "Human error that increases vulnerability to cyber threats may include:",
+    "bbox": [
+      53.0,
+      170.4,
+      375.0,
+      184.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b021",
+    "text": "•\t accidental abuse by users with authorized and legitimate access to computer systems;",
+    "bbox": [
+      64.3,
+      192.4,
+      468.5,
+      206.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b022",
+    "text": "•\t unauthorized use by attackers enabled by a compromised user;",
+    "bbox": [
+      64.3,
+      214.4,
+      365.0,
+      228.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b023",
+    "text": "•\t disregard by personnel for security policies and procedures; and",
+    "bbox": [
+      64.3,
+      236.4,
+      370.7,
+      250.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b024",
+    "text": "•\t errors in the configuration or operation of systems.",
+    "bbox": [
+      64.3,
+      260.6,
+      307.3,
+      274.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b025",
+    "text": "4.\t Absence of coordinated approach",
+    "bbox": [
+      53.0,
+      286.6,
+      231.7,
+      301.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b026",
+    "text": "There is an acute gap in coordination on cyber-related issues in the humanitarian sector. This gap exists",
+    "bbox": [
+      53.0,
+      307.0,
+      525.8,
+      320.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b027",
+    "text": "both within and between organizations. Few organizations have teams dedicated to cybersecurity or tasked",
+    "bbox": [
+      53.0,
+      320.2,
+      545.4,
+      334.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b028",
+    "text": "with detecting, assessing and mitigating cyber risks. No single entity is formally tasked with coordinating",
+    "bbox": [
+      53.0,
+      333.4,
+      532.2,
+      347.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b029",
+    "text": "a harmonized approach to cybersecurity in the sector, despite the existence of initiatives such as the ones",
+    "bbox": [
+      53.0,
+      346.6,
+      535.6,
+      360.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b030",
+    "text": "described above, the development of resources and apparent political will.32",
+    "bbox": [
+      53.0,
+      359.8,
+      403.4,
+      373.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b031",
+    "text": "The lack of coordination means that organizations lack visibility on attacks experienced by their peers, are",
+    "bbox": [
+      53.0,
+      386.2,
+      538.0,
+      400.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b032",
+    "text": "unable or do not have policies in place to consistently share information on experienced cyber threats or",
+    "bbox": [
+      53.0,
+      399.4,
+      530.8,
+      413.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b033",
+    "text": "lessons learned, and are not investing in collective approaches to reducing vulnerabilities and mitigating",
+    "bbox": [
+      53.0,
+      412.6,
+      531.4,
+      426.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b034",
+    "text": "risk.33",
+    "bbox": [
+      53.0,
+      425.8,
+      78.8,
+      439.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b035",
+    "text": "HUMANITARIAN IMPLICATIONS OF CYBER THREATS",
+    "bbox": [
+      52.9,
+      462.1,
+      392.8,
+      478.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b036",
+    "text": "The humanitarian implications of cyber threats are significant. They can compromise the ability to deliver",
+    "bbox": [
+      53.9,
+      488.1,
+      537.0,
+      501.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b037",
+    "text": "assistance and protection, as well as exacerbate humanitarian needs by disrupting services essential",
+    "bbox": [
+      53.9,
+      501.3,
+      513.4,
+      515.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b038",
+    "text": "for survival. Cyber threats can result in surveillance, discrimination, persecution and other harmful",
+    "bbox": [
+      53.9,
+      514.5,
+      505.4,
+      528.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b039",
+    "text": "consequences for affected populations, exacerbate the insecurities of already vulnerable groups and",
+    "bbox": [
+      53.9,
+      527.7,
+      513.6,
+      541.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b040",
+    "text": "individuals, erode trust and compromise the principled delivery of humanitarian assistance.34",
+    "bbox": [
+      53.9,
+      540.9,
+      479.3,
+      554.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b041",
+    "text": "Delivering principled aid means that humanitarian services and assistance are aligned with the",
+    "bbox": [
+      53.9,
+      567.3,
+      487.9,
+      581.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b042",
+    "text": "principles of humanity, neutrality, impartiality and independence.35 To act with neutrality in the digital",
+    "bbox": [
+      53.9,
+      580.5,
+      521.7,
+      594.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b043",
+    "text": "realm, humanitarian actors ‘must ensure that the data and systems they employ do not provide any",
+    "bbox": [
+      53.9,
+      593.7,
+      509.6,
+      607.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b044",
+    "text": "tactical military or operational advantage to parties engaged in hostilities’.36 The humanitarian principle",
+    "bbox": [
+      53.9,
+      606.9,
+      527.6,
+      620.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b045",
+    "text": "of independence might be in conflict with the dependence of ICT-supported humanitarian work on",
+    "bbox": [
+      53.9,
+      620.1,
+      505.3,
+      633.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b046",
+    "text": "infrastructure owned and managed by private companies affiliated with different states. The overarching",
+    "bbox": [
+      53.9,
+      633.3,
+      532.5,
+      647.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 5,
+    "block_id": "17_p5_b047",
+    "text": "principle of ‘Do No Harm’ further obliges all humanitarians to avoid exposing people to additional risks",
+    "bbox": [
+      53.9,
+      646.5,
+      522.7,
+      660.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b003",
+    "text": "37 ALNAP (2018). Incorporating the principle of “Do No Harm”: How to take action without causing harm - Reflections on a review of Humanity &",
+    "bbox": [
+      53.5,
+      610.3,
+      525.9,
+      619.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b004",
+    "text": "Inclusion’s practices.",
+    "bbox": [
+      53.5,
+      619.3,
+      128.6,
+      628.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b005",
+    "text": "38 UNOCHA, Themes: Protection.",
+    "bbox": [
+      53.5,
+      631.3,
+      160.3,
+      640.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b006",
+    "text": "39 Sandvik, Jacobsen and McDonald (2017). Do no harm: A taxonomy of the challenges of humanitarian experimentation, International Review of the",
+    "bbox": [
+      53.5,
+      643.3,
+      542.5,
+      652.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b007",
+    "text": "Red Cross (2017), 99 (1), 319–344.",
+    "bbox": [
+      53.5,
+      652.4,
+      161.2,
+      660.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b008",
+    "text": "40 ICRC (2020). Handbook on Data Protection in Humanitarian Action.",
+    "bbox": [
+      53.5,
+      664.3,
+      282.5,
+      673.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b009",
+    "text": "41  ‘Incidents reported include social engineering attacks such as phishing employed via messaging apps (targeting of Tibetan diaspora via Whatsapp)",
+    "bbox": [
+      53.5,
+      676.4,
+      539.9,
+      684.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b010",
+    "text": "profiling and targeting of the Tibetan Diaspora through WhatsApp); commercially available spyware used against political dissidents outside of",
+    "bbox": [
+      53.5,
+      685.4,
+      527.5,
+      693.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b011",
+    "text": "country of origin and for targeting asylum seekers; as well as new vulnerabilities that are being regularly discovered and patched in major messaging",
+    "bbox": [
+      53.5,
+      694.4,
+      546.1,
+      702.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b012",
+    "text": "services (eg. Whatsapp)’ see UNHCR (2021). Using Social Media in Community Based Protection: A Guide.",
+    "bbox": [
+      53.5,
+      703.3,
+      403.5,
+      712.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b013",
+    "text": "42 OCHA on Message (April 2017). Humanitarian Access.",
+    "bbox": [
+      53.5,
+      715.1,
+      241.0,
+      724.1
+    ],
+    "font_size": 7.8,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b014",
+    "text": "43  Fore more on these vulnerabilities and how they are exacerbated by emerging cyber threats, see: UNOCHA GHPF (2022). Virtual Risk, Tangible",
+    "bbox": [
+      53.5,
+      727.3,
+      526.9,
+      736.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b015",
+    "text": "Harm: The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.5,
+      736.3,
+      245.7,
+      745.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b016",
+    "text": "44  KeepItOn (2019). The State of Internet Shutdowns around the world. The 2018 #KeepItOn Report, Access Now for the #KeepItOn coalition.",
+    "bbox": [
+      53.5,
+      748.3,
+      509.8,
+      757.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b017",
+    "text": "45  World Food Programme (WFP)/UNHCR (2014). Joint Assessment Mission: Kenya Refugee Operation, Dadaab (23–25 June 2014) and Kakuma (30",
+    "bbox": [
+      53.5,
+      760.3,
+      530.1,
+      769.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b018",
+    "text": "June–1 July 2014) Refugee Camps, 2014.",
+    "bbox": [
+      53.5,
+      769.4,
+      186.5,
+      777.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b019",
+    "text": "through humanitarian action, requiring humanitarians to take a step back from an intervention to look at",
+    "bbox": [
+      53.9,
+      45.8,
+      534.5,
+      59.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b020",
+    "text": "the broader context and mitigate potential negative effects.37",
+    "bbox": [
+      53.9,
+      59.0,
+      333.1,
+      72.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b021",
+    "text": "Cyber threats directly affect a number of key humanitarian domains, such as protection, access, and",
+    "bbox": [
+      53.9,
+      85.4,
+      511.1,
+      99.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b022",
+    "text": "accountability to affected people (AAP) and communicating with communities (CwC). As the technical tools",
+    "bbox": [
+      53.9,
+      98.6,
+      544.2,
+      112.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b023",
+    "text": "for managing data in these different areas have evolved faster than the policy instruments that govern their",
+    "bbox": [
+      53.9,
+      111.8,
+      544.5,
+      125.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b024",
+    "text": "use, organizations must exercise caution as they design and deploy digital technologies. The sections below",
+    "bbox": [
+      53.9,
+      125.0,
+      547.2,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b025",
+    "text": "offer considerations to help organizations better understand and address the humanitarian implications of",
+    "bbox": [
+      53.9,
+      138.2,
+      541.5,
+      152.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b026",
+    "text": "cyber threats across these domains.",
+    "bbox": [
+      53.9,
+      151.4,
+      218.0,
+      165.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b027",
+    "text": "1.\t Protection",
+    "bbox": [
+      53.9,
+      177.3,
+      125.1,
+      191.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b028",
+    "text": "For humanitarian organizations, protection entails advocating for and supporting actions that aim to",
+    "bbox": [
+      53.9,
+      197.8,
+      514.7,
+      211.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b029",
+    "text": "reduce and prevent people’s exposure to risks and to ensure respect for the rights of individuals by those",
+    "bbox": [
+      53.9,
+      211.0,
+      532.8,
+      224.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b030",
+    "text": "responsible.38 Humanitarians must consider how cyber threats and related vulnerabilities impact their",
+    "bbox": [
+      53.9,
+      224.2,
+      520.6,
+      238.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b031",
+    "text": "protection responsibilities, what effects technology might have on the distribution of resources, and how",
+    "bbox": [
+      53.9,
+      237.4,
+      534.0,
+      251.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b032",
+    "text": "reliance on cyber infrastructure and vendors is redefining relationships.39",
+    "bbox": [
+      53.9,
+      250.6,
+      388.2,
+      264.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b033",
+    "text": "Information about the location of vulnerable people, as well as data that allows for re-identification",
+    "bbox": [
+      53.9,
+      277.0,
+      509.2,
+      290.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b034",
+    "text": "of victims of gender-based violence are two examples of protection-specific concerns that might be",
+    "bbox": [
+      53.9,
+      290.2,
+      507.5,
+      304.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b035",
+    "text": "exacerbated by the use of ICT as they might render such information more easily accessible to threat",
+    "bbox": [
+      53.9,
+      303.4,
+      512.7,
+      317.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b036",
+    "text": "actors.40 Another protection concern is that of the protection of humanitarian data. For example, the use of",
+    "bbox": [
+      53.9,
+      316.6,
+      540.9,
+      330.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b037",
+    "text": "social media has become more commonplace in the delivery of services, but this brings with it a number of",
+    "bbox": [
+      53.9,
+      329.8,
+      543.1,
+      343.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b038",
+    "text": "significant data protection risks such as profiling.41",
+    "bbox": [
+      53.9,
+      343.0,
+      286.2,
+      356.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b039",
+    "text": "2.\t Access",
+    "bbox": [
+      53.9,
+      368.9,
+      105.5,
+      383.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b040",
+    "text": "Humanitarian access refers to both humanitarian actors’ ability to reach populations in need and affected",
+    "bbox": [
+      53.9,
+      389.4,
+      536.8,
+      403.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b041",
+    "text": "populations’ ability to access assistance and services.42",
+    "bbox": [
+      53.9,
+      402.6,
+      306.0,
+      416.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b042",
+    "text": "The use of ICT can help increase and simplify beneficiaries’ access to humanitarian services such as cash",
+    "bbox": [
+      53.9,
+      429.0,
+      530.7,
+      442.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b043",
+    "text": "assistance, referral services or healthcare. The increased reliance by humanitarians on digital technologies,",
+    "bbox": [
+      53.9,
+      442.2,
+      543.3,
+      456.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b044",
+    "text": "and the related dependencies on external and internal infrastructure and services, can however bring new",
+    "bbox": [
+      53.9,
+      455.4,
+      539.1,
+      469.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b045",
+    "text": "challenges.",
+    "bbox": [
+      53.9,
+      468.6,
+      107.9,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b046",
+    "text": "Access to services can be impeded by the inherent vulnerabilities of the sectors on which organizations",
+    "bbox": [
+      53.9,
+      495.0,
+      524.3,
+      508.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b047",
+    "text": "and beneficiaries rely (such as healthcare, logistics, banking, and more).43 The continuity of services in the",
+    "bbox": [
+      53.9,
+      508.2,
+      537.9,
+      522.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b048",
+    "text": "digital space is not always a given—internet shutdowns and network failures can cause major disruptions",
+    "bbox": [
+      53.9,
+      521.4,
+      534.7,
+      535.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b049",
+    "text": "to the provision of essential services.44 In Kenya, such a network failure led to ‘occasional delays, disruption",
+    "bbox": [
+      53.9,
+      534.6,
+      544.3,
+      548.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b050",
+    "text": "or cancellation of the food distribution in the camps, contributing to long queues and crowd control",
+    "bbox": [
+      53.9,
+      547.8,
+      511.0,
+      561.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 6,
+    "block_id": "17_p6_b051",
+    "text": "challenges’.45",
+    "bbox": [
+      53.9,
+      561.0,
+      113.2,
+      574.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b003",
+    "text": "46 IASC: Accountability to Affected Populations (AAP) : A brief overview.",
+    "bbox": [
+      53.5,
+      713.3,
+      289.9,
+      722.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b004",
+    "text": "47 OCHA (2014). OCHA on Message: Communications with Communities.",
+    "bbox": [
+      53.5,
+      725.3,
+      290.5,
+      734.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b005",
+    "text": "48 CDAC (2021). Digital Communication and Accountability: Insights from a year of discussions with CDAC Network.",
+    "bbox": [
+      53.5,
+      737.3,
+      431.2,
+      746.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b006",
+    "text": "49 International Review of the Red Cross (2020). Q&A: Humanitarian operations, the spread of harmful information and data protection. IRRC 102 (913),",
+    "bbox": [
+      53.5,
+      749.3,
+      546.5,
+      758.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b007",
+    "text": "27–41.",
+    "bbox": [
+      53.5,
+      758.4,
+      77.2,
+      766.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b008",
+    "text": "50 UN (2021). Cybersecurity in the United Nations system organizations: Report of the Joint Inspection Unit.",
+    "bbox": [
+      53.5,
+      770.3,
+      403.5,
+      779.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b009",
+    "text": "3.\t Accountability to affected people and communications with communities",
+    "bbox": [
+      53.9,
+      37.3,
+      426.5,
+      51.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b010",
+    "text": "Accountability to affected people is an active commitment to use power responsibly by taking account of,",
+    "bbox": [
+      53.9,
+      57.8,
+      535.5,
+      71.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b011",
+    "text": "giving account to, and being held to account by the people humanitarian organizations seek to assist.46",
+    "bbox": [
+      53.9,
+      71.0,
+      523.9,
+      84.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b012",
+    "text": "Communications with Communities aims to meet the information and communications needs of people",
+    "bbox": [
+      53.9,
+      84.2,
+      531.1,
+      98.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b013",
+    "text": "affected by crisis.47",
+    "bbox": [
+      53.9,
+      97.4,
+      139.3,
+      111.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b014",
+    "text": "Ensuring timely and reliable access to and use of information is paramount to AAP and CwC. Increasingly,",
+    "bbox": [
+      53.9,
+      123.8,
+      534.4,
+      137.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b015",
+    "text": "humanitarians provide this information at least in part through digital channels, either to complement",
+    "bbox": [
+      53.9,
+      137.0,
+      522.2,
+      150.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b016",
+    "text": "face-to-face services or where physical proximity to communities is not feasible. This dependency on digital",
+    "bbox": [
+      53.9,
+      150.2,
+      545.4,
+      164.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b017",
+    "text": "services means that cyber operations stand to have grave humanitarian repercussions.",
+    "bbox": [
+      53.9,
+      163.4,
+      450.8,
+      177.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b018",
+    "text": "One particular threat related to AAP and CwC is misinformation, disinformation and hate speech, which",
+    "bbox": [
+      53.9,
+      189.8,
+      526.5,
+      203.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b019",
+    "text": "has become more prevalent with the increased use of ICT.48 MDH can put affected communities and",
+    "bbox": [
+      53.9,
+      203.0,
+      507.4,
+      216.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b020",
+    "text": "humanitarian workers at risk by further destabilizing fragile environments, increasing vulnerability and",
+    "bbox": [
+      53.9,
+      216.2,
+      524.4,
+      230.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b021",
+    "text": "affecting humanitarian organizations’ reputation.49",
+    "bbox": [
+      53.9,
+      229.4,
+      285.4,
+      243.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b022",
+    "text": "Recommendations",
+    "bbox": [
+      53.9,
+      255.3,
+      144.4,
+      269.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b023",
+    "text": "Humanitarian organizations should consider the following recommendations to improve cyber resilience.",
+    "bbox": [
+      53.9,
+      275.8,
+      534.2,
+      289.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b024",
+    "text": "Invest in cybersecurity as a cross-organizational issue by:",
+    "bbox": [
+      53.9,
+      301.7,
+      330.5,
+      316.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b025",
+    "text": "•\t Integrating cybersecurity into broader organizational frameworks and strategies, including relevant",
+    "bbox": [
+      65.2,
+      326.4,
+      531.3,
+      340.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b026",
+    "text": "legal, technical and operational safeguards.",
+    "bbox": [
+      76.5,
+      339.6,
+      277.9,
+      353.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b027",
+    "text": "•\t Promoting an active stance from staff at all levels through awareness-raising programmes and",
+    "bbox": [
+      65.2,
+      363.8,
+      507.1,
+      377.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b028",
+    "text": "displaying an engaged leadership style on cybersecurity matters overall.50",
+    "bbox": [
+      76.6,
+      377.0,
+      411.8,
+      390.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b029",
+    "text": "•\t Allocating appropriate long-term and flexible funding for cybersecurity and data responsibility as an",
+    "bbox": [
+      65.2,
+      401.2,
+      534.5,
+      415.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b030",
+    "text": "integral component of humanitarian programming.",
+    "bbox": [
+      76.5,
+      414.4,
+      313.1,
+      428.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b031",
+    "text": "•\t Advocating for increased investment into the responsible operations of digital technologies to reduce",
+    "bbox": [
+      65.2,
+      438.6,
+      540.2,
+      452.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b032",
+    "text": "related vulnerabilities.",
+    "bbox": [
+      76.5,
+      451.8,
+      179.2,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b033",
+    "text": "Enhance institutional preparedness by:",
+    "bbox": [
+      53.9,
+      477.7,
+      243.4,
+      492.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b034",
+    "text": "•\t Identifying and analyzing common cybersecurity challenges including identifying potential threats",
+    "bbox": [
+      65.2,
+      502.4,
+      527.7,
+      516.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b035",
+    "text": "and threat actors specific to their work, as well as the potential vulnerabilities in their operations and",
+    "bbox": [
+      76.5,
+      515.6,
+      538.7,
+      529.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b036",
+    "text": "systems.",
+    "bbox": [
+      76.5,
+      528.8,
+      116.2,
+      542.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b037",
+    "text": "•\t Conducting regular risk assessments to identify threats and vulnerabilities, particularly when planning",
+    "bbox": [
+      65.2,
+      553.0,
+      545.3,
+      566.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b038",
+    "text": "new cyber-enabled activities or exploring new technologies to support activities.",
+    "bbox": [
+      76.5,
+      566.2,
+      444.5,
+      580.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b039",
+    "text": "•\t Implementing several mitigation measures, such as putting in place security standards for hardware",
+    "bbox": [
+      65.2,
+      590.4,
+      534.5,
+      604.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b040",
+    "text": "and software, and adopting a ‘zero trust’ approach that favors restrictions such as least-privilege",
+    "bbox": [
+      76.5,
+      603.6,
+      517.3,
+      617.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b041",
+    "text": "access, microsegmentation and multi-factor authentication.",
+    "bbox": [
+      76.5,
+      616.8,
+      352.7,
+      630.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b042",
+    "text": "•\t Diversifying supply chains to remove strong supplier dependencies, and considering free and open",
+    "bbox": [
+      65.2,
+      641.0,
+      528.3,
+      654.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b043",
+    "text": "source alternatives (as long as they are approved or appropriately vetted).",
+    "bbox": [
+      76.5,
+      654.2,
+      413.6,
+      668.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b044",
+    "text": "•\t Developing and adapting existing technologies to humanitarian situations, and ensuring",
+    "bbox": [
+      65.2,
+      678.4,
+      481.7,
+      692.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 7,
+    "block_id": "17_p7_b045",
+    "text": "contextualized tailoring, testing, efficacy and safety before deployment.",
+    "bbox": [
+      76.5,
+      691.6,
+      403.3,
+      705.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b002",
+    "text": "MARCH 2023",
+    "bbox": [
+      275.9,
+      791.9,
+      318.8,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b003",
+    "text": "51  Centre for Humanitarian Data (2019). Guidance Note on Data Incident Management.",
+    "bbox": [
+      53.5,
+      733.3,
+      333.1,
+      742.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b004",
+    "text": "52  Centre for Humanitarian Data (2022). Guidance Note on Data Security in Operational Data Management.",
+    "bbox": [
+      53.5,
+      745.3,
+      400.6,
+      754.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b005",
+    "text": "53  Centre for Humanitarian Data (2020). Guidance Note on Data Responsibility in Public-Private Partnerships.",
+    "bbox": [
+      53.5,
+      757.3,
+      410.5,
+      766.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b006",
+    "text": "54  UNOCHA GHPF (2022). Virtual Risk, Tangible Harm: The Humanitarian Implications of Cyber Threats.",
+    "bbox": [
+      53.5,
+      769.3,
+      394.1,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b007",
+    "text": "•\t Establishing internal and cross-organizational approaches to identifying, resolving, tracking and",
+    "bbox": [
+      65.2,
+      44.8,
+      516.5,
+      58.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b008",
+    "text": "communicating about data incidents.51",
+    "bbox": [
+      76.5,
+      58.0,
+      254.3,
+      71.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b009",
+    "text": "Increase digital literacy of staff by:",
+    "bbox": [
+      58.5,
+      82.7,
+      225.0,
+      97.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b010",
+    "text": "•\t Dedicating appropriate resources and funding for training and awareness raising efforts.",
+    "bbox": [
+      65.2,
+      107.4,
+      480.2,
+      121.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b011",
+    "text": "•\t Engaging and training staff and stakeholders regularly to help build cybersecurity into everyday",
+    "bbox": [
+      65.2,
+      131.6,
+      513.9,
+      145.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b012",
+    "text": "working practices.",
+    "bbox": [
+      76.5,
+      144.8,
+      160.2,
+      158.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b013",
+    "text": "•\t Building digital literacy of humanitarian actors through cross-sector hires and upskilling.",
+    "bbox": [
+      65.2,
+      169.0,
+      479.8,
+      182.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b014",
+    "text": "•\t Increasing data literacy to enable staff to adopt responsible practices and improve their cyber hygiene,",
+    "bbox": [
+      65.2,
+      193.2,
+      545.7,
+      207.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b015",
+    "text": "including practicing good password management, using anti-virus/anti-malware software and",
+    "bbox": [
+      76.5,
+      206.4,
+      507.7,
+      220.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b016",
+    "text": "avoiding phishing scams.52",
+    "bbox": [
+      76.5,
+      219.6,
+      198.2,
+      233.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b017",
+    "text": "Improve coordination and collaboration by:",
+    "bbox": [
+      58.5,
+      244.3,
+      268.6,
+      258.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b018",
+    "text": "•\t Creating an environment that fosters a culture of coordination, collaboration and information sharing",
+    "bbox": [
+      65.2,
+      269.0,
+      541.2,
+      282.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b019",
+    "text": "among actors.",
+    "bbox": [
+      76.5,
+      282.2,
+      142.0,
+      296.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b020",
+    "text": "•\t Integrating into wider public and private sector cybersecurity communities, ensuring they participate",
+    "bbox": [
+      65.2,
+      306.4,
+      539.3,
+      320.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b021",
+    "text": "in threat intelligence analysis and information-sharing channels, including disclosure.",
+    "bbox": [
+      76.5,
+      319.6,
+      467.4,
+      333.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b022",
+    "text": "•\t Partnering with relevant stakeholders to improve cybersecurity and humanitarians’ access to new",
+    "bbox": [
+      65.2,
+      343.8,
+      523.8,
+      357.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b023",
+    "text": "areas of expertise and technologies.53",
+    "bbox": [
+      76.5,
+      357.0,
+      247.2,
+      370.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b024",
+    "text": "•\t Supporting existing initiatives, systems and projects, for example promoting interoperable data",
+    "bbox": [
+      65.2,
+      381.2,
+      513.5,
+      395.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b025",
+    "text": "sharing platforms with adequate protections for personal and sensitive data within and across",
+    "bbox": [
+      76.5,
+      394.4,
+      508.3,
+      408.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b026",
+    "text": "organizations and sectors.",
+    "bbox": [
+      76.5,
+      407.6,
+      196.3,
+      421.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b027",
+    "text": "•\t Communicating about initiatives, threat scanning and  potential breaches to highlight the issue of",
+    "bbox": [
+      65.2,
+      431.8,
+      524.1,
+      445.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b028",
+    "text": "cybersecurity and support the development of a knowledge base, fostering a more coordinated",
+    "bbox": [
+      76.5,
+      445.0,
+      513.2,
+      458.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b029",
+    "text": "approach to incident management over time.",
+    "bbox": [
+      76.5,
+      458.2,
+      284.0,
+      472.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b030",
+    "text": "The Centre for Humanitarian Data (‘the Centre’), together with key partners, is publishing a set of guidance",
+    "bbox": [
+      65.5,
+      492.4,
+      512.2,
+      505.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b031",
+    "text": "notes and tip sheets on Data Responsibility in Humanitarian Action over the course of 2022 and 2023. These",
+    "bbox": [
+      65.5,
+      504.9,
+      512.0,
+      517.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b032",
+    "text": "complement the Centre’s series of guidance notes and tip sheets, as well as the Inter-Agency Standing",
+    "bbox": [
+      65.5,
+      516.6,
+      494.5,
+      529.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b033",
+    "text": "Committee Operational Guidance on Data Responsibility in Humanitarian Action and the OCHA Data",
+    "bbox": [
+      65.5,
+      528.6,
+      492.2,
+      541.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b034",
+    "text": "Responsibility Guidelines, which were published in February 2021 and October 2021 respectively. Through the",
+    "bbox": [
+      65.5,
+      540.6,
+      526.3,
+      553.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b035",
+    "text": "series, the Centre aims to support continued engagement from different stakeholder groups around high-level",
+    "bbox": [
+      65.5,
+      552.9,
+      523.9,
+      565.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b036",
+    "text": "commitments and collective action on data responsibility. These guidance notes have been made possible with",
+    "bbox": [
+      65.5,
+      564.9,
+      528.7,
+      577.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b037",
+    "text": "the support of the Government of Switzerland.",
+    "bbox": [
+      65.5,
+      576.9,
+      259.0,
+      589.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b038",
+    "text": "This Guidance Note on the Humanitarian Implications of Cyber Threats builds on OCHA’s publications on cyber",
+    "bbox": [
+      65.5,
+      596.9,
+      518.4,
+      609.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b039",
+    "text": "related issues in the humanitarian sector, including Humanitarianism in the Age of Cyber-warfare: Towards the",
+    "bbox": [
+      65.5,
+      608.9,
+      519.2,
+      621.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b040",
+    "text": "Principled and Secure Use of Information in Humanitarian Emergencies and the 2022 Overview Paper on Virtual",
+    "bbox": [
+      65.5,
+      620.9,
+      521.7,
+      633.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "17",
+    "page_number": 8,
+    "block_id": "17_p8_b041",
+    "text": "Risk, Tangible Harm: The Humanitarian Implications of Cyber Threats.54",
+    "bbox": [
+      65.5,
+      632.9,
+      360.5,
+      645.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

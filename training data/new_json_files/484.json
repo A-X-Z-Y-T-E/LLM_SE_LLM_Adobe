@@ -1,0 +1,947 @@
+[
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b001",
+    "text": "CONGRESSIONAL BUDGET OFFICE",
+    "bbox": [
+      179.8,
+      62.5,
+      515.1,
+      79.1
+    ],
+    "font_size": 15.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b002",
+    "text": "COST ESTIMATE",
+    "bbox": [
+      250.3,
+      80.1,
+      444.4,
+      96.7
+    ],
+    "font_size": 15.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b003",
+    "text": "June 20, 2008",
+    "bbox": [
+      467.6,
+      112.4,
+      540.0,
+      126.7
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b004",
+    "text": "H.R. 4199",
+    "bbox": [
+      267.8,
+      162.6,
+      344.3,
+      182.6
+    ],
+    "font_size": 18.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b005",
+    "text": "A bill to amend the Dayton Aviation Heritage Preservation Act of 1992",
+    "bbox": [
+      79.6,
+      185.5,
+      532.7,
+      202.1
+    ],
+    "font_size": 15.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b006",
+    "text": "to add sites to the Dayton Aviation Heritage National Historical Park",
+    "bbox": [
+      85.3,
+      203.1,
+      527.0,
+      219.7
+    ],
+    "font_size": 15.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b007",
+    "text": "As ordered reported by the House Committee on Natural Resources on June 11, 2008",
+    "bbox": [
+      83.9,
+      239.3,
+      528.2,
+      253.7
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b008",
+    "text": "SUMMARY",
+    "bbox": [
+      72.0,
+      289.5,
+      141.1,
+      303.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b009",
+    "text": "H.R. 4199 would add two sites to the Dayton Aviation Heritage National Historical Park and",
+    "bbox": [
+      72.0,
+      319.5,
+      540.0,
+      333.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b010",
+    "text": "would rename the park the Wright Brothers-Dunbar National Historical Park.  The bill also",
+    "bbox": [
+      72.0,
+      334.6,
+      540.0,
+      348.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b011",
+    "text": "would authorize the National Park Service (NPS) to make grants to local organizations for",
+    "bbox": [
+      72.0,
+      349.7,
+      539.9,
+      364.0
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b012",
+    "text": "construction projects on private property within park boundaries.",
+    "bbox": [
+      72.0,
+      364.7,
+      412.2,
+      379.1
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b013",
+    "text": "Based on information obtained from NPS and assuming appropriation of the necessary",
+    "bbox": [
+      72.0,
+      394.8,
+      540.0,
+      409.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b014",
+    "text": "amounts, CBO estimates that implementing H.R. 4199 would cost $15 million over the",
+    "bbox": [
+      72.0,
+      409.9,
+      540.0,
+      424.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b015",
+    "text": "2009-2013 period and $1 million annually thereafter for ongoing operations.  Enacting the",
+    "bbox": [
+      72.0,
+      425.0,
+      539.9,
+      439.3
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b016",
+    "text": "legislation would not affect direct spending or revenues.",
+    "bbox": [
+      72.0,
+      440.0,
+      363.6,
+      454.4
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b017",
+    "text": "H.R. 4199 contains no intergovernmental or private-sector mandates as defined in the",
+    "bbox": [
+      72.0,
+      470.1,
+      540.0,
+      484.5
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b018",
+    "text": "Unfunded Mandates Reform Act (UMRA) and would impose no costs on state, local, or",
+    "bbox": [
+      72.0,
+      485.2,
+      540.0,
+      499.5
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b019",
+    "text": "tribal governments.",
+    "bbox": [
+      72.0,
+      500.2,
+      172.7,
+      514.6
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b020",
+    "text": "ESTIMATED COST TO THE FEDERAL GOVERNMENT",
+    "bbox": [
+      72.0,
+      545.7,
+      405.0,
+      560.0
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b021",
+    "text": "The estimated budgetary impact of H.R. 4199 is shown in the following table.  The costs of",
+    "bbox": [
+      72.0,
+      575.7,
+      540.1,
+      590.0
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 1,
+    "block_id": "484_p1_b022",
+    "text": "this legislation fall within budget function 300 (natural resources and environment).",
+    "bbox": [
+      72.0,
+      590.7,
+      506.4,
+      605.1
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b001",
+    "text": "By Fiscal Year, in Millions of Dollars",
+    "bbox": [
+      324.5,
+      85.1,
+      476.3,
+      96.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b002",
+    "text": "2009",
+    "bbox": [
+      263.6,
+      108.3,
+      283.5,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b003",
+    "text": "2010",
+    "bbox": [
+      314.8,
+      108.3,
+      334.7,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b004",
+    "text": "2011",
+    "bbox": [
+      366.1,
+      108.3,
+      386.0,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b005",
+    "text": "2012",
+    "bbox": [
+      417.3,
+      108.3,
+      437.2,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b006",
+    "text": "2013",
+    "bbox": [
+      468.5,
+      108.3,
+      488.5,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b007",
+    "text": "2009-",
+    "bbox": [
+      516.5,
+      96.7,
+      539.7,
+      107.8
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b008",
+    "text": "2013",
+    "bbox": [
+      519.8,
+      108.3,
+      539.7,
+      119.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b009",
+    "text": "CHANGES IN SPENDING SUBJECT TO APPROPRIATION",
+    "bbox": [
+      171.9,
+      143.4,
+      439.8,
+      154.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b010",
+    "text": "Estimated Authorization Level",
+    "bbox": [
+      85.5,
+      166.6,
+      208.3,
+      177.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b011",
+    "text": "Estimated Outlays",
+    "bbox": [
+      85.5,
+      178.4,
+      158.7,
+      189.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b012",
+    "text": "Note:",
+    "bbox": [
+      72.0,
+      211.1,
+      94.2,
+      222.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b013",
+    "text": "* = less than $500,000.",
+    "bbox": [
+      103.5,
+      211.1,
+      196.3,
+      222.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b014",
+    "text": "BASIS OF ESTIMATE",
+    "bbox": [
+      72.0,
+      262.5,
+      202.3,
+      276.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b015",
+    "text": "For this estimate, CBO assumes that the legislation will be enacted by the end of fiscal year",
+    "bbox": [
+      72.0,
+      292.5,
+      540.1,
+      306.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b016",
+    "text": "2008 and that the necessary amounts will be appropriated for each year.  Estimated outlays",
+    "bbox": [
+      72.0,
+      307.6,
+      540.0,
+      321.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b017",
+    "text": "are based on historical spending patterns for NPS programs.",
+    "bbox": [
+      72.0,
+      322.7,
+      383.3,
+      337.0
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b018",
+    "text": "H.R. 4199 would amend the Dayton Aviation Heritage Preservation Act of 1992 to add",
+    "bbox": [
+      72.0,
+      352.8,
+      540.0,
+      367.1
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b019",
+    "text": "Hawthorne Hill and the Wright Company Factory to the Dayton Aviation Heritage National",
+    "bbox": [
+      72.0,
+      367.8,
+      540.0,
+      382.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b020",
+    "text": "Historical Park.  Based on information obtained from NPS, CBO expects that the current",
+    "bbox": [
+      72.0,
+      382.9,
+      540.0,
+      397.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b021",
+    "text": "owners of Hawthorne Hill and the Wright Company Factory would donate those properties",
+    "bbox": [
+      72.0,
+      398.0,
+      540.0,
+      412.3
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b022",
+    "text": "to NPS.  CBO estimates that site development costs would be $3 million for Hawthorne Hill",
+    "bbox": [
+      72.0,
+      413.0,
+      540.0,
+      427.4
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b023",
+    "text": "and $11 million for the Wright Company Factory.  The Wright Family Foundation would",
+    "bbox": [
+      72.0,
+      428.1,
+      540.1,
+      442.4
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b024",
+    "text": "continue to operate Hawthorne Hill under a cooperative agreement with NPS, which we",
+    "bbox": [
+      72.0,
+      443.1,
+      540.1,
+      457.5
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b025",
+    "text": "estimate would contribute about $1 million for that purpose over the five-year period.  We",
+    "bbox": [
+      72.0,
+      458.2,
+      540.0,
+      472.5
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b026",
+    "text": "expect that the Wright Company Factory would begin operations after 2013, at an annual cost",
+    "bbox": [
+      72.0,
+      473.2,
+      540.0,
+      487.6
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b027",
+    "text": "of about $1 million.",
+    "bbox": [
+      72.0,
+      488.3,
+      178.1,
+      502.7
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b028",
+    "text": "The bill also would authorize NPS to make grants to local partners for development and",
+    "bbox": [
+      72.0,
+      518.4,
+      540.1,
+      532.8
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b029",
+    "text": "construction on nonfederal property within the boundaries of the Dayton Aviation Heritage",
+    "bbox": [
+      72.0,
+      533.5,
+      540.0,
+      547.8
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b030",
+    "text": "National Historical Park.  Based on information provided by NPS, CBO estimates that the",
+    "bbox": [
+      72.0,
+      548.5,
+      540.3,
+      562.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b031",
+    "text": "cost of those grants would not be significant.",
+    "bbox": [
+      72.0,
+      563.6,
+      304.6,
+      578.0
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b032",
+    "text": "INTERGOVERNMENTAL AND PRIVATE-SECTOR IMPACT",
+    "bbox": [
+      72.0,
+      609.0,
+      433.1,
+      623.4
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b033",
+    "text": "H.R. 4199 contains no intergovernmental or private-sector mandates as defined in UMRA",
+    "bbox": [
+      72.0,
+      639.1,
+      540.0,
+      653.5
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 2,
+    "block_id": "484_p2_b034",
+    "text": "and would impose no costs on state, local, or tribal governments.",
+    "bbox": [
+      72.0,
+      654.2,
+      408.4,
+      668.6
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b001",
+    "text": "ESTIMATE PREPARED BY:",
+    "bbox": [
+      72.0,
+      72.8,
+      246.2,
+      87.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b002",
+    "text": "Federal Costs:  Deborah Reis and Jeffrey LaFave",
+    "bbox": [
+      72.0,
+      102.8,
+      327.2,
+      117.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b003",
+    "text": "Impact on State, Local, and Tribal Governments:  Melissa Merrell",
+    "bbox": [
+      72.0,
+      117.9,
+      414.9,
+      132.2
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b004",
+    "text": "Impact on the Private Sector:  MarDestinee Perez",
+    "bbox": [
+      72.0,
+      132.9,
+      328.6,
+      147.3
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b005",
+    "text": "ESTIMATE APPROVED BY:",
+    "bbox": [
+      72.0,
+      178.4,
+      254.2,
+      192.7
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b006",
+    "text": "Peter H. Fontaine",
+    "bbox": [
+      72.0,
+      208.5,
+      163.1,
+      222.8
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "484",
+    "page_number": 3,
+    "block_id": "484_p3_b007",
+    "text": "Assistant Director for Budget Analysis",
+    "bbox": [
+      72.0,
+      223.5,
+      273.6,
+      237.9
+    ],
+    "font_size": 13.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  }
+]

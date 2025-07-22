@@ -1,0 +1,4382 @@
+[
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b003",
+    "text": "1    ICTs are defined by the United Nations Development Programme as “information-handling tools – a varied set of goods, applications and services",
+    "bbox": [
+      53.9,
+      725.7,
+      533.6,
+      734.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b004",
+    "text": "that are used to produce, store, process, distribute and exchange information.” UNDP, Information Communications Technology for Development.",
+    "bbox": [
+      53.9,
+      734.7,
+      541.2,
+      743.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b005",
+    "text": "2    While there is no single definition of PPPs, this guidance note considers all types of partnerships between humanitarian actors and commercial",
+    "bbox": [
+      53.9,
+      746.7,
+      528.4,
+      755.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b006",
+    "text": "private sector partners, as described in the OCHA - DHL Deutsche Post report “Combining Capabilities”.",
+    "bbox": [
+      53.9,
+      755.7,
+      395.8,
+      764.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b007",
+    "text": "3    For more on the private sector incentives to engage in humanitarian response, see the UN OCHA page on Engagement with the Private Sector.",
+    "bbox": [
+      53.9,
+      767.7,
+      522.2,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b008",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b009",
+    "text": "GUIDANCE NOTE SERIES",
+    "bbox": [
+      53.3,
+      98.4,
+      208.3,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b010",
+    "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+    "bbox": [
+      53.3,
+      116.4,
+      378.1,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b011",
+    "text": "DATA RESPONSIBILITY IN",
+    "bbox": [
+      53.3,
+      138.7,
+      316.7,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b012",
+    "text": "PUBLIC-PRIVATE PARTNERSHIPS",
+    "bbox": [
+      53.3,
+      167.5,
+      386.7,
+      193.4
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b013",
+    "text": "KEY TAKEAWAYS:",
+    "bbox": [
+      63.7,
+      230.0,
+      167.1,
+      245.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b014",
+    "text": "•\t Humanitarian organizations and the private sector regularly partner on initiatives that relate",
+    "bbox": [
+      75.0,
+      252.7,
+      508.6,
+      266.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b015",
+    "text": "to information and communications technologies (ICTs) and data. The most common types",
+    "bbox": [
+      86.3,
+      265.9,
+      503.4,
+      279.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b016",
+    "text": "of such public-private partnerships (PPPs) in this domain involve (i) financial contributions,",
+    "bbox": [
+      86.3,
+      279.1,
+      503.6,
+      293.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b017",
+    "text": "(ii) provision of technology, (iii) in-kind technical advisory support, (iv) joint technology",
+    "bbox": [
+      86.3,
+      292.3,
+      485.7,
+      306.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b018",
+    "text": "development, and (v) data sharing and collaboration.",
+    "bbox": [
+      86.3,
+      305.5,
+      329.6,
+      319.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b019",
+    "text": "•\t Data responsibility entails the safe, ethical, and effective management of data. This is often",
+    "bbox": [
+      75.0,
+      331.9,
+      502.4,
+      345.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b020",
+    "text": "overlooked or insufficiently reflected in the design of partnerships between humanitarian",
+    "bbox": [
+      86.3,
+      345.1,
+      496.2,
+      359.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b021",
+    "text": "organizations and the private sector.",
+    "bbox": [
+      86.3,
+      358.3,
+      252.5,
+      372.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b022",
+    "text": "•\t Existing frameworks for collaboration with the private sector should be enhanced with",
+    "bbox": [
+      75.0,
+      384.7,
+      481.4,
+      398.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b023",
+    "text": "additional considerations and practical measures to uphold data responsibility in partnerships",
+    "bbox": [
+      86.3,
+      397.9,
+      519.4,
+      411.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b024",
+    "text": "focused on ICTs and data.",
+    "bbox": [
+      86.3,
+      411.1,
+      203.1,
+      425.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b025",
+    "text": "•\t Common challenges related to responsible data management in PPPs include: (i) reputational",
+    "bbox": [
+      75.0,
+      437.5,
+      516.7,
+      451.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b026",
+    "text": "risk, (ii) effectiveness of technology; (iii) data sensitivity and use; (iv) uncertainty about new",
+    "bbox": [
+      86.3,
+      450.7,
+      504.1,
+      464.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b027",
+    "text": "data sources, (v) intellectual property, and (vi) dependency and deference.",
+    "bbox": [
+      86.3,
+      463.9,
+      425.5,
+      477.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b028",
+    "text": "•\t Recommendations for improving data responsibility are to (i) develop shared goals, (ii) conduct",
+    "bbox": [
+      75.0,
+      490.3,
+      522.7,
+      504.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b029",
+    "text": "robust due diligence, (iii) perform a risk-benefit assessment, (iv) structure partnerships through",
+    "bbox": [
+      86.3,
+      503.5,
+      522.1,
+      517.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b030",
+    "text": "appropriate agreements and (v) design technology responsibly.",
+    "bbox": [
+      86.3,
+      516.7,
+      375.6,
+      530.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b031",
+    "text": "PUBLIC-PRIVATE PARTNERSHIPS IN HUMANITARIAN ACTION",
+    "bbox": [
+      53.0,
+      567.8,
+      420.5,
+      582.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b032",
+    "text": "Humanitarian organizations and the private sector regularly partner on initiatives that relate to information",
+    "bbox": [
+      53.4,
+      592.0,
+      544.2,
+      605.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b033",
+    "text": "and communications technologies (ICTs)1 and data. For humanitarians, such public-private partnerships",
+    "bbox": [
+      53.4,
+      605.2,
+      529.7,
+      619.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b034",
+    "text": "(PPPs)2 offer access to new areas of expertise and technologies with the potential to improve the efficiency",
+    "bbox": [
+      53.4,
+      618.4,
+      540.8,
+      632.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b035",
+    "text": "and speed of response. For the private sector, humanitarian partnerships offer access to new markets",
+    "bbox": [
+      53.4,
+      631.6,
+      516.5,
+      645.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b036",
+    "text": "and contribute toward corporate social responsibility objectives, among other benefits.3 Alongside these",
+    "bbox": [
+      53.4,
+      644.8,
+      531.7,
+      658.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 1,
+    "block_id": "142_p1_b037",
+    "text": "expected benefits, such partnerships present a range of distinct risks related to data management.",
+    "bbox": [
+      53.4,
+      658.0,
+      501.6,
+      671.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b003",
+    "text": "COMMON TYPES OF PARTNERSHIPS RELATED TO ICTS AND DATA",
+    "bbox": [
+      53.3,
+      291.1,
+      444.6,
+      306.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b004",
+    "text": "OCHA’s Connecting Business initiative (CBi) summarizes the state of PPPs as follows: “Despite a former",
+    "bbox": [
+      53.4,
+      315.8,
+      522.3,
+      329.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b005",
+    "text": "tendency for aid agencies to view businesses as prospective donors, their greatest direct contribution has",
+    "bbox": [
+      53.4,
+      329.0,
+      535.7,
+      342.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b006",
+    "text": "come in the form of new technologies and other innovations as well as the sharing of technical expertise.",
+    "bbox": [
+      53.4,
+      342.2,
+      533.0,
+      356.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b007",
+    "text": "Entire elements of humanitarian action, including cash transfers, telecommunications and logistics, have",
+    "bbox": [
+      53.4,
+      355.4,
+      534.3,
+      369.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b008",
+    "text": "been transformed as businesses have become increasingly involved.”7",
+    "bbox": [
+      53.4,
+      368.6,
+      374.2,
+      382.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b009",
+    "text": "There are five common types of private sector partnerships related to ICTs and data:",
+    "bbox": [
+      53.4,
+      395.0,
+      435.2,
+      408.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b010",
+    "text": "•\t Financial contribution: The transfer of funds from a private sector entity to humanitarian",
+    "bbox": [
+      67.6,
+      417.8,
+      493.3,
+      432.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b011",
+    "text": "organizations for specific deliverables, or the private sector’s direct sponsorship of an event or other",
+    "bbox": [
+      81.8,
+      431.4,
+      539.3,
+      445.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b012",
+    "text": "humanitarian activity.8",
+    "bbox": [
+      81.8,
+      444.6,
+      187.9,
+      458.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b013",
+    "text": "•\t Provision of technology: The free or subsidized (‘pro bono’ or ‘low bono’) offering of commercial",
+    "bbox": [
+      67.6,
+      467.4,
+      528.0,
+      481.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b014",
+    "text": "hardware or software for use by humanitarian organizations.9",
+    "bbox": [
+      81.8,
+      481.0,
+      361.1,
+      494.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b015",
+    "text": "•\t In-kind technical advisory support: The secondment of technical experts to support humanitarian",
+    "bbox": [
+      67.6,
+      503.8,
+      538.7,
+      518.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b016",
+    "text": "organizations to leverage ICTs and data in new ways.10",
+    "bbox": [
+      81.8,
+      517.4,
+      327.4,
+      531.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b017",
+    "text": "•\t Joint technology development: Private sector in-kind support to collaborative development of",
+    "bbox": [
+      67.6,
+      540.2,
+      521.9,
+      554.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b018",
+    "text": "bespoke ICT solutions with humanitarian organizations.11",
+    "bbox": [
+      81.8,
+      553.8,
+      343.2,
+      567.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b019",
+    "text": "•\t Public-private data collaboration: Making privately held data or insights available to humanitarian",
+    "bbox": [
+      67.6,
+      576.6,
+      538.6,
+      591.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b020",
+    "text": "organizations or as a public good.12",
+    "bbox": [
+      81.8,
+      590.2,
+      241.8,
+      604.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b021",
+    "text": "4     In May 2019, the Centre for Humanitarian Data, in collaboration with Wilton Park, convened the Data Responsibility in Humanitarian Action: From",
+    "bbox": [
+      53.9,
+      611.4,
+      536.8,
+      619.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b022",
+    "text": "Principle to Practice event to advance discussions around the responsible and safe sharing of data about crisis-affected people. This blog on the",
+    "bbox": [
+      53.9,
+      620.3,
+      528.5,
+      629.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b023",
+    "text": "outcomes of the event contains more information about three areas for collective action for data responsibility. In June 2019, Leiden University’s",
+    "bbox": [
+      53.9,
+      629.3,
+      530.9,
+      638.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b024",
+    "text": "Centre for Innovation, in partnership with OCHA and NYU GovLab, hosted the Data Responsibility Exchange focussed on PPPs in the humanitarian",
+    "bbox": [
+      53.9,
+      638.4,
+      540.6,
+      646.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b025",
+    "text": "sector. In September 2019, the Tilburg Institute for Law, Technology and Society convened a group of experts to discuss PPPs as part of an ongoing",
+    "bbox": [
+      53.9,
+      647.4,
+      536.3,
+      655.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b026",
+    "text": "collaboration with ICRC.",
+    "bbox": [
+      53.9,
+      656.4,
+      139.1,
+      664.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b027",
+    "text": "5     Working Draft OCHA Data Responsibility Guidelines.",
+    "bbox": [
+      53.9,
+      668.3,
+      246.6,
+      677.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b028",
+    "text": "6    See the full remarks of the former Assistant Secretary-General at the High-level UN General Assembly side event on Partnering with the Private",
+    "bbox": [
+      53.9,
+      680.3,
+      532.6,
+      689.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b029",
+    "text": "Sector: How Data Can Improve Humanitarian Response.",
+    "bbox": [
+      53.9,
+      689.3,
+      244.7,
+      698.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b030",
+    "text": "7    OCHA’s CBi currently supports 13 local business networks with over 500 private sector entities, combined. See also the United Nations Office for the",
+    "bbox": [
+      53.9,
+      701.3,
+      531.5,
+      710.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b031",
+    "text": "Coordination of Humanitarian Affairs, “The Business Case: A Study of Private Sector Engagement in Humanitarian Action”.",
+    "bbox": [
+      53.9,
+      710.3,
+      453.5,
+      719.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b032",
+    "text": "8    For example:  https://www.unocha.org/es/themes/engagement-private-sector/how-private-sector-helps-emergencies.",
+    "bbox": [
+      53.9,
+      722.3,
+      444.4,
+      731.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b033",
+    "text": "9    For example:  https://www.devex.com/news/can-the-un-s-centre-for-humanitarian-data-stand-out-92435.",
+    "bbox": [
+      53.9,
+      734.3,
+      403.8,
+      743.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b034",
+    "text": "10  For example:  https://services.google.com/fh/files/misc/accelerating_social_good_with_artificial_intelligence_google_ai_impact_challenge.pdf.",
+    "bbox": [
+      53.9,
+      746.3,
+      522.9,
+      755.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b035",
+    "text": "11   For example: https://reliefweb.int/report/lebanon/2019-food-assistance-refugees-lebanon-lifeline-hope.",
+    "bbox": [
+      53.9,
+      758.3,
+      400.7,
+      767.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b036",
+    "text": "12  For example: https://datacollaboratives.org/explorer.html.",
+    "bbox": [
+      53.9,
+      770.3,
+      249.5,
+      779.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b037",
+    "text": "Public and private sector actors have held a number of convenings and events on this topic, but there is",
+    "bbox": [
+      53.6,
+      37.5,
+      526.8,
+      51.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b038",
+    "text": "still no common understanding around the requirements for data responsibility in PPPs.4 While public and",
+    "bbox": [
+      53.6,
+      50.7,
+      539.0,
+      64.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b039",
+    "text": "private sector actors have held a number of convenings and events on this topic, there is still no common",
+    "bbox": [
+      53.6,
+      63.9,
+      533.9,
+      77.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b040",
+    "text": "understanding around the requirements for data responsibility in PPPs.4 Data responsibility in humanitarian",
+    "bbox": [
+      53.6,
+      77.1,
+      546.3,
+      91.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b041",
+    "text": "action is the safe, ethical and effective management of personal and non-personal data for operational",
+    "bbox": [
+      53.6,
+      90.3,
+      523.9,
+      104.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b042",
+    "text": "response.5 This guidance note provides an overview of the common challenges to partnerships related to",
+    "bbox": [
+      53.6,
+      103.5,
+      534.0,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b043",
+    "text": "ICTs and data in the humanitarian sector, and it offers a set of recommendations to help humanitarian orga-",
+    "bbox": [
+      53.6,
+      116.7,
+      543.8,
+      130.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b044",
+    "text": "nizations and the private sector manage them more effectively.",
+    "bbox": [
+      53.6,
+      129.9,
+      340.8,
+      143.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b045",
+    "text": "“We must recognize that the private sector is in many respects more advanced",
+    "bbox": [
+      108.2,
+      155.0,
+      487.1,
+      167.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b046",
+    "text": "and experienced, and definitely faster when it comes to these issues. We need",
+    "bbox": [
+      108.2,
+      169.0,
+      485.9,
+      181.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b047",
+    "text": "the support of the private sector to accelerate our progress and take advantage",
+    "bbox": [
+      108.2,
+      183.0,
+      489.5,
+      195.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b048",
+    "text": "of new sources of data. This is especially true when we consider the potential",
+    "bbox": [
+      108.2,
+      197.0,
+      482.9,
+      209.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b049",
+    "text": "risks that arise with increased collection and sharing of data.”",
+    "bbox": [
+      108.2,
+      211.0,
+      406.8,
+      223.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b050",
+    "text": "- Ursula Mueller, former Assistant Secretary-General for Humanitarian Affairs and Deputy",
+    "bbox": [
+      108.2,
+      233.9,
+      460.3,
+      245.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 2,
+    "block_id": "142_p2_b051",
+    "text": "Emergency Relief Coordinator6",
+    "bbox": [
+      108.2,
+      246.5,
+      235.3,
+      257.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b003",
+    "text": "13  See the European Parliament Study on Technological Innovation for Humanitarian Assistance.",
+    "bbox": [
+      53.9,
+      768.2,
+      373.3,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b004",
+    "text": "FOUNDATIONS FOR PRINCIPLED PARTNERSHIPS",
+    "bbox": [
+      52.9,
+      44.6,
+      343.9,
+      59.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b005",
+    "text": "A variety of frameworks promote principled partnerships for humanitarian response (see the list below).",
+    "bbox": [
+      53.9,
+      69.3,
+      529.6,
+      83.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b006",
+    "text": "Similarly, many humanitarian organizations have processes in place for conducting due diligence before",
+    "bbox": [
+      53.9,
+      82.5,
+      529.9,
+      96.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b007",
+    "text": "establishing new partnerships. The following frameworks and principles are useful to reference in assessing",
+    "bbox": [
+      53.9,
+      95.7,
+      546.0,
+      109.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b008",
+    "text": "prospective private sector technology partners:",
+    "bbox": [
+      53.9,
+      108.9,
+      270.0,
+      122.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b009",
+    "text": "•\t UN Secretary-General’s High-Level Panel on Digital Cooperation",
+    "bbox": [
+      65.2,
+      134.8,
+      375.3,
+      149.9
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b010",
+    "text": "•\t Principles of the United Nations Global Compact",
+    "bbox": [
+      65.2,
+      154.0,
+      303.2,
+      169.1
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b011",
+    "text": "•\t GSMA Big Data for Social Good Initiative Sustainable Business Models Report",
+    "bbox": [
+      65.2,
+      173.2,
+      435.5,
+      188.3
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b012",
+    "text": "•\t World Economic Forum Principles on Public-Private Cooperation in Humanitarian Cash Payments",
+    "bbox": [
+      65.2,
+      192.4,
+      532.2,
+      207.5
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b013",
+    "text": "•\t The World Economic Forum and OCHA Guiding Principles for Public-Private Collaboration for",
+    "bbox": [
+      65.2,
+      211.6,
+      513.0,
+      226.7
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b014",
+    "text": "Humanitarian Action",
+    "bbox": [
+      76.5,
+      225.0,
+      174.5,
+      239.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b015",
+    "text": "•\t The UN Secretary-General’s Guidelines on Cooperation between the United Nations and the",
+    "bbox": [
+      65.2,
+      244.0,
+      507.5,
+      259.1
+    ],
+    "font_size": 11.0,
+    "font_name": "MinionPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b016",
+    "text": "Business Sector",
+    "bbox": [
+      76.5,
+      257.4,
+      150.7,
+      271.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b017",
+    "text": "These resources provide a strong foundation for developing partnerships centred around ICTs and",
+    "bbox": [
+      58.5,
+      284.1,
+      507.3,
+      297.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b018",
+    "text": "data. However, they can fall short in addressing issues specifically related to data responsibility. The",
+    "bbox": [
+      58.5,
+      297.3,
+      515.5,
+      311.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b019",
+    "text": "requirements for the safe, ethical and effective management of data in PPPs are not well understood and",
+    "bbox": [
+      58.5,
+      310.5,
+      538.2,
+      324.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b020",
+    "text": "thus not consistently addressed in these frameworks.13",
+    "bbox": [
+      58.5,
+      323.7,
+      308.1,
+      337.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b021",
+    "text": "CHALLENGES RELATED TO DATA RESPONSIBILITY IN PUBLIC-PRIVATE",
+    "bbox": [
+      53.3,
+      359.4,
+      475.3,
+      374.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b022",
+    "text": "PARTNERSHIPS",
+    "bbox": [
+      53.3,
+      374.4,
+      144.8,
+      389.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b023",
+    "text": "The five types of partnerships identified above are characterized by a common set of issues related to data",
+    "bbox": [
+      53.9,
+      399.1,
+      540.0,
+      412.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b024",
+    "text": "responsibility. Six challenges are reputational risk, inappropriate technology, data sensitivity and use,",
+    "bbox": [
+      53.9,
+      412.3,
+      519.2,
+      426.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b025",
+    "text": "uncertainty about new data sources, intellectual property, and dependency and deference.",
+    "bbox": [
+      53.9,
+      425.5,
+      470.5,
+      439.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b026",
+    "text": "Each challenge is based on actual examples of PPPs related to ICTs or data. Given the sensitivity of these",
+    "bbox": [
+      53.9,
+      451.9,
+      530.1,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b027",
+    "text": "cases, the subsections below describe the individual challenges in general terms. The matrix below",
+    "bbox": [
+      53.9,
+      465.1,
+      507.2,
+      478.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b028",
+    "text": "indicates which challenges are most common for either humanitarians, private sector partners, or both, in",
+    "bbox": [
+      53.9,
+      478.3,
+      538.4,
+      492.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b029",
+    "text": "the partnership types listed above.",
+    "bbox": [
+      53.9,
+      491.5,
+      212.4,
+      505.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b030",
+    "text": "Common data responsibility challenges in different types of public-private partnerships",
+    "bbox": [
+      63.0,
+      531.7,
+      450.9,
+      543.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b031",
+    "text": "Financial",
+    "bbox": [
+      81.5,
+      585.3,
+      113.5,
+      595.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b032",
+    "text": "contributions",
+    "bbox": [
+      81.5,
+      594.9,
+      126.7,
+      605.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b033",
+    "text": "Provision of",
+    "bbox": [
+      81.5,
+      614.3,
+      122.7,
+      624.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b034",
+    "text": "technology",
+    "bbox": [
+      81.5,
+      623.9,
+      119.1,
+      634.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b035",
+    "text": "In-kind technical",
+    "bbox": [
+      81.5,
+      643.3,
+      139.0,
+      653.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b036",
+    "text": "advisory support",
+    "bbox": [
+      81.5,
+      652.9,
+      139.7,
+      663.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b037",
+    "text": "Joint technology",
+    "bbox": [
+      81.5,
+      672.3,
+      139.5,
+      682.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b038",
+    "text": "development",
+    "bbox": [
+      81.5,
+      681.9,
+      127.7,
+      692.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b039",
+    "text": "Public-private data",
+    "bbox": [
+      81.5,
+      701.3,
+      146.2,
+      711.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b040",
+    "text": "collaboration",
+    "bbox": [
+      81.5,
+      710.9,
+      126.1,
+      721.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b041",
+    "text": "Reputational",
+    "bbox": [
+      155.0,
+      555.6,
+      199.7,
+      565.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b042",
+    "text": "risk",
+    "bbox": [
+      155.0,
+      563.6,
+      167.0,
+      573.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b043",
+    "text": "Inappropriate",
+    "bbox": [
+      220.0,
+      555.6,
+      267.7,
+      565.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b044",
+    "text": "technology",
+    "bbox": [
+      220.0,
+      563.6,
+      257.5,
+      573.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b045",
+    "text": "Data sensitivity",
+    "bbox": [
+      286.0,
+      555.6,
+      338.4,
+      565.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b046",
+    "text": "and use",
+    "bbox": [
+      286.0,
+      563.6,
+      312.1,
+      573.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b047",
+    "text": "Intellectual",
+    "bbox": [
+      416.0,
+      555.6,
+      455.4,
+      565.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b048",
+    "text": "property",
+    "bbox": [
+      416.0,
+      562.6,
+      446.9,
+      573.9
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b049",
+    "text": "Uncertainty",
+    "bbox": [
+      350.0,
+      551.6,
+      390.7,
+      561.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b050",
+    "text": "about new data",
+    "bbox": [
+      350.0,
+      559.6,
+      403.7,
+      569.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b051",
+    "text": "sources",
+    "bbox": [
+      350.0,
+      567.6,
+      375.5,
+      577.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b052",
+    "text": "Dependency",
+    "bbox": [
+      481.0,
+      555.6,
+      524.5,
+      565.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b053",
+    "text": "and deference",
+    "bbox": [
+      481.0,
+      563.6,
+      530.1,
+      573.6
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b054",
+    "text": "Concerns for humanitarians",
+    "bbox": [
+      248.6,
+      731.3,
+      341.2,
+      741.4
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b055",
+    "text": "Concerns for private sector",
+    "bbox": [
+      369.6,
+      730.9,
+      458.8,
+      741.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 3,
+    "block_id": "142_p3_b056",
+    "text": "Concerns for both",
+    "bbox": [
+      481.8,
+      730.7,
+      541.3,
+      740.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b003",
+    "text": "REPUTATIONAL RISK",
+    "bbox": [
+      52.9,
+      32.5,
+      163.8,
+      45.8
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b004",
+    "text": "Reputational risk can arise for a variety of reasons, including concerns that sensitive data may be shared",
+    "bbox": [
+      52.9,
+      51.6,
+      528.9,
+      65.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b005",
+    "text": "with third-party private sector actors or that data is not stored securely. For humanitarians, reputational",
+    "bbox": [
+      52.9,
+      64.8,
+      528.1,
+      78.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b006",
+    "text": "damage can occur if a private sector partner has been associated with human rights infringements in a",
+    "bbox": [
+      52.9,
+      78.0,
+      521.3,
+      91.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b007",
+    "text": "past project or is perceived to be ‘whitewashing’ by collaborating with a humanitarian partner. This can",
+    "bbox": [
+      52.9,
+      91.2,
+      525.1,
+      105.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b008",
+    "text": "lead to restrictions in access and erosion of trust with affected populations, which could undermine the",
+    "bbox": [
+      52.9,
+      104.4,
+      525.3,
+      118.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b009",
+    "text": "humanitarian organization’s ability to deliver assistance.",
+    "bbox": [
+      52.9,
+      117.6,
+      310.1,
+      131.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b010",
+    "text": "INAPPROPRIATE TECHNOLOGY",
+    "bbox": [
+      52.9,
+      144.9,
+      218.3,
+      158.2
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b011",
+    "text": "Most off-the-shelf ICTs will not fully meet the requirements of a crisis situation. Humanitarian actors may",
+    "bbox": [
+      52.9,
+      164.0,
+      531.0,
+      177.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b012",
+    "text": "not have the in-house expertise needed to determine whether a solution is appropriate for a particular",
+    "bbox": [
+      52.9,
+      177.2,
+      521.5,
+      191.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b013",
+    "text": "context. Further, humanitarian data may be insufficient or incomplete for the analytical capabilities offered",
+    "bbox": [
+      52.9,
+      190.4,
+      542.4,
+      204.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b014",
+    "text": "by private sector tools. This uncertainty around the requirements for effectively deploying and using a",
+    "bbox": [
+      52.9,
+      203.6,
+      519.0,
+      217.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b015",
+    "text": "particular tool may deter the private sector from engaging in a partnership. A related concern for both",
+    "bbox": [
+      52.9,
+      216.8,
+      517.6,
+      230.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b016",
+    "text": "parties will be to maintain an adequate level of data security to prevent harm and ensure robust protection",
+    "bbox": [
+      52.9,
+      230.0,
+      542.0,
+      243.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b017",
+    "text": "of the systems and data involved in the partnership.",
+    "bbox": [
+      52.9,
+      243.2,
+      289.4,
+      257.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b018",
+    "text": "DATA SENSITIVITY AND USE",
+    "bbox": [
+      52.9,
+      270.5,
+      202.8,
+      283.8
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b019",
+    "text": "Private sector partners and humanitarian organizations may have different perspectives on the sensitivity",
+    "bbox": [
+      52.9,
+      289.6,
+      536.0,
+      303.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b020",
+    "text": "of data being managed. For humanitarians, data is considered sensitive based on the likelihood and",
+    "bbox": [
+      52.9,
+      302.8,
+      509.5,
+      316.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b021",
+    "text": "severity of potential harm that its exposure or misuse may cause to affected people, humanitarian staff",
+    "bbox": [
+      52.9,
+      316.0,
+      523.6,
+      329.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b022",
+    "text": "or the organization in a given context. For example, the locations of medical facilities may be considered",
+    "bbox": [
+      52.9,
+      329.2,
+      529.3,
+      343.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b023",
+    "text": "highly sensitive in an active conflict situation, whereas they can be publicly shared in a typical natural",
+    "bbox": [
+      52.9,
+      342.4,
+      517.3,
+      356.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b024",
+    "text": "disaster response. For the private sector, concerns about data sensitivity often relate to the proprietary",
+    "bbox": [
+      52.9,
+      355.6,
+      522.1,
+      369.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b025",
+    "text": "nature or value of data. Failure to establish a common understanding of data sensitivity and responsible",
+    "bbox": [
+      52.9,
+      368.8,
+      528.2,
+      382.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b026",
+    "text": "use at the outset of a partnership can lead to inappropriate disclosure of data or the use of data or insights",
+    "bbox": [
+      52.9,
+      382.0,
+      538.9,
+      395.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b027",
+    "text": "for purposes beyond the specified goals of the collaboration.",
+    "bbox": [
+      52.9,
+      395.2,
+      329.9,
+      409.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b028",
+    "text": "UNCERTAINTY ABOUT NEW DATA SOURCES",
+    "bbox": [
+      52.9,
+      422.5,
+      285.5,
+      435.8
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b029",
+    "text": "Humanitarian organizations may partner with the private sector to access new data streams, such as call",
+    "bbox": [
+      52.9,
+      441.6,
+      530.0,
+      455.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b030",
+    "text": "detail records, social media content or high-resolution satellite imagery. This data can be used to generate",
+    "bbox": [
+      52.9,
+      454.8,
+      538.5,
+      468.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b031",
+    "text": "information that is relevant to humanitarian response, but humanitarians may struggle to articulate a",
+    "bbox": [
+      52.9,
+      468.0,
+      517.7,
+      481.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b032",
+    "text": "clear question or topic of analysis. Humanitarians may also lack the expertise needed to understand what",
+    "bbox": [
+      52.9,
+      481.2,
+      536.1,
+      495.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b033",
+    "text": "insights these data sources can provide and how to utilize them responsibly. The limited familiarity with",
+    "bbox": [
+      52.9,
+      494.4,
+      528.0,
+      508.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b034",
+    "text": "private sector data sources and their potential use can cause hesitation among humanitarians to rely on",
+    "bbox": [
+      52.9,
+      507.6,
+      528.0,
+      521.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b035",
+    "text": "insights generated from such data. Similarly, private sector partners may not fully understand humanitarian",
+    "bbox": [
+      52.9,
+      520.8,
+      545.4,
+      534.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b036",
+    "text": "contexts in which their data could be used. Together, these challenges can lead to reticence and an",
+    "bbox": [
+      52.9,
+      534.0,
+      503.7,
+      547.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b037",
+    "text": "underutilization of private sector data.",
+    "bbox": [
+      52.9,
+      547.2,
+      228.0,
+      561.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b038",
+    "text": "INTELLECTUAL PROPERTY",
+    "bbox": [
+      52.9,
+      574.5,
+      192.8,
+      587.8
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b039",
+    "text": "Intellectual property issues can create tension at the design stage of a partnership, as well as towards",
+    "bbox": [
+      52.9,
+      593.6,
+      516.0,
+      607.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b040",
+    "text": "the finalization of the partnership if the rights are not clearly defined at the outset. Private sector and",
+    "bbox": [
+      52.9,
+      606.8,
+      514.3,
+      620.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b041",
+    "text": "humanitarian organizations have different requirements and expectations in this regard, which may",
+    "bbox": [
+      52.9,
+      620.0,
+      509.3,
+      633.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b042",
+    "text": "be at odds with an effective and sustainable partnership. The release of proprietary and competitive",
+    "bbox": [
+      52.9,
+      633.2,
+      510.6,
+      647.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b043",
+    "text": "information that will endanger the company’s market position is a common concern from the private sector",
+    "bbox": [
+      52.9,
+      646.4,
+      544.6,
+      660.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b044",
+    "text": "perspective. Concerns also arise around ownership of humanitarian data managed or generated through a",
+    "bbox": [
+      52.9,
+      659.6,
+      539.6,
+      673.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b045",
+    "text": "partnership, particularly when the private sector actor could use such data for non-humanitarian purposes",
+    "bbox": [
+      52.9,
+      672.8,
+      540.7,
+      686.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b046",
+    "text": "(e.g. if a private sector actor uses data about household expenditure in a refugee setting for the marketing",
+    "bbox": [
+      52.9,
+      686.0,
+      536.2,
+      699.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 4,
+    "block_id": "142_p4_b047",
+    "text": "of commercial products or services).",
+    "bbox": [
+      52.9,
+      699.2,
+      218.8,
+      713.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b003",
+    "text": "DEPENDENCY AND DEFERENCE",
+    "bbox": [
+      53.8,
+      44.8,
+      219.7,
+      58.1
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b004",
+    "text": "The power differential between humanitarian organizations and their private sector partners can cause",
+    "bbox": [
+      53.8,
+      61.6,
+      525.4,
+      75.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b005",
+    "text": "dependency on and deference to private sector experts in decisions regarding the design and",
+    "bbox": [
+      53.8,
+      74.8,
+      479.6,
+      88.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b006",
+    "text": "implementation of a partnership. This dependency is especially problematic in situations where private",
+    "bbox": [
+      53.8,
+      88.0,
+      527.3,
+      101.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b007",
+    "text": "sector partners initially offer an ICT product for free or at low cost and then start charging a fee at a later",
+    "bbox": [
+      53.8,
+      101.2,
+      528.1,
+      115.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b008",
+    "text": "stage. Lock-in or dependency on a single tool, service or partner can also undermine the sustainability and",
+    "bbox": [
+      53.8,
+      114.4,
+      540.6,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b009",
+    "text": "effectiveness of humanitarian operations.",
+    "bbox": [
+      53.8,
+      127.6,
+      246.2,
+      141.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b010",
+    "text": "Deference to private sector experts on matters related to the handling of beneficiary or other sensitive",
+    "bbox": [
+      53.8,
+      151.8,
+      519.7,
+      165.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b011",
+    "text": "data may lead to greater exposure or risk than humanitarian organizations would normally accept. For",
+    "bbox": [
+      53.8,
+      165.0,
+      521.5,
+      178.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b012",
+    "text": "example, technical experts from the private sector may offer major gains in efficiency and targeting of",
+    "bbox": [
+      53.8,
+      178.2,
+      517.9,
+      192.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b013",
+    "text": "assistance through the use of advanced data analytics, requiring access to more granular beneficiary data.",
+    "bbox": [
+      53.8,
+      191.4,
+      539.2,
+      205.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b014",
+    "text": "Humanitarians may be tempted to grant such access without fully understanding the implications (e.g. the",
+    "bbox": [
+      53.8,
+      204.6,
+      540.8,
+      218.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b015",
+    "text": "likelihood of both the expected benefits as well as the related risks).",
+    "bbox": [
+      53.8,
+      217.8,
+      362.8,
+      231.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b016",
+    "text": "RECOMMENDATIONS FOR IMPROVING DATA RESPONSIBILITY IN PUBLIC-",
+    "bbox": [
+      53.0,
+      248.6,
+      497.1,
+      263.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b017",
+    "text": "PRIVATE PARTNERSHIPS",
+    "bbox": [
+      53.0,
+      263.6,
+      198.7,
+      278.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b018",
+    "text": "The challenges described above create reticence risk resulting in lost opportunities to deliver better",
+    "bbox": [
+      53.4,
+      288.3,
+      508.8,
+      302.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b019",
+    "text": "humanitarian response. The Centre for Humanitarian Data (‘the Centre’) and the collaborators on this",
+    "bbox": [
+      53.4,
+      301.5,
+      517.5,
+      315.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b020",
+    "text": "guidance note recommend that humanitarian organizations and their private sector partners focus on the",
+    "bbox": [
+      53.4,
+      314.7,
+      536.6,
+      328.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b021",
+    "text": "following areas to improve data responsibility in PPPs:",
+    "bbox": [
+      53.4,
+      327.9,
+      303.6,
+      341.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b022",
+    "text": "1. Develop shared goals",
+    "bbox": [
+      64.8,
+      351.6,
+      178.7,
+      366.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b023",
+    "text": "When designing partnerships, both parties should ask the following questions:",
+    "bbox": [
+      76.1,
+      365.3,
+      433.8,
+      379.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b024",
+    "text": "•\t What issues and current problem areas should we address together to meet a specific humanitarian",
+    "bbox": [
+      78.2,
+      387.5,
+      545.8,
+      401.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b025",
+    "text": "need?",
+    "bbox": [
+      89.6,
+      400.7,
+      117.3,
+      414.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b026",
+    "text": "•\t How can we create shared value?",
+    "bbox": [
+      78.2,
+      418.7,
+      240.5,
+      432.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b027",
+    "text": "•\t How can we be unique and set the collaboration apart?",
+    "bbox": [
+      78.2,
+      436.7,
+      340.7,
+      450.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b028",
+    "text": "•\t What existing work could the partnership support?",
+    "bbox": [
+      78.2,
+      454.7,
+      322.3,
+      468.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b029",
+    "text": "•\t Which capabilities and commitments are required from the different parties to achieve these goals?",
+    "bbox": [
+      78.2,
+      472.7,
+      542.2,
+      486.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b030",
+    "text": "2. Conduct robust due diligence",
+    "bbox": [
+      64.8,
+      496.4,
+      217.0,
+      511.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b031",
+    "text": "Humanitarian organizations should use a vetting procedure14 to assess the private sector company’s",
+    "bbox": [
+      76.1,
+      510.1,
+      532.8,
+      524.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b032",
+    "text": "past and current partnerships, values, affiliations and reputation. This should include the impact",
+    "bbox": [
+      76.1,
+      523.3,
+      518.1,
+      537.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b033",
+    "text": "of fines or other regulatory issues previously encountered by the private sector entity, affiliations",
+    "bbox": [
+      76.1,
+      536.5,
+      518.5,
+      550.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b034",
+    "text": "with groups that do not uphold the humanitarian principles and other potentially damaging factors.",
+    "bbox": [
+      76.1,
+      549.7,
+      533.7,
+      563.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b035",
+    "text": "Building on the existing frameworks and processes mentioned above, organizations can ensure",
+    "bbox": [
+      76.1,
+      562.9,
+      512.2,
+      576.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b036",
+    "text": "that key considerations for data responsibility are included in standard due diligence practice.",
+    "bbox": [
+      76.1,
+      576.1,
+      505.8,
+      590.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b037",
+    "text": "Transparency regarding due diligence criteria and processes can help prevent reputational damage",
+    "bbox": [
+      76.1,
+      589.3,
+      529.6,
+      603.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b038",
+    "text": "by demonstrating a commitment to a robust review of new partners. Private sector actors may also",
+    "bbox": [
+      76.1,
+      602.5,
+      528.5,
+      616.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b039",
+    "text": "conduct due diligence when partnering with new humanitarian organizations.",
+    "bbox": [
+      76.1,
+      615.7,
+      431.2,
+      629.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b040",
+    "text": "3. Perform a risk-benefit assessment",
+    "bbox": [
+      64.8,
+      639.4,
+      241.0,
+      654.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b041",
+    "text": "The expected benefits and potential risks of a partnership need to be defined and balanced against",
+    "bbox": [
+      76.1,
+      653.1,
+      528.9,
+      667.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b042",
+    "text": "one another.15 Doing this can help humanitarian organizations and the private sector to clarify",
+    "bbox": [
+      76.1,
+      666.3,
+      505.6,
+      680.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b043",
+    "text": "expectations and jointly design measures that will maximize benefits and minimize risks. Publicly",
+    "bbox": [
+      76.1,
+      679.5,
+      521.9,
+      693.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b044",
+    "text": "communicating the outcomes of a risk-benefit assessment can help build trust and improve public",
+    "bbox": [
+      76.1,
+      692.7,
+      526.7,
+      706.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b045",
+    "text": "perception of the partnership. It is equally important to communicate about the ways in which data —",
+    "bbox": [
+      76.1,
+      705.9,
+      541.9,
+      719.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b046",
+    "text": "especially beneficiary or other sensitive data — will be managed within the partnership.",
+    "bbox": [
+      76.1,
+      719.1,
+      477.4,
+      733.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b047",
+    "text": "14    See for example the United Nations Global Pulse Due Diligence Tool for Working with Prospective Technology Partners.",
+    "bbox": [
+      53.9,
+      756.0,
+      455.0,
+      764.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 5,
+    "block_id": "142_p5_b048",
+    "text": "15  UN Global Pulse has developed a helpful Risks, Harms and Benefits Assessment Tool.",
+    "bbox": [
+      53.9,
+      768.0,
+      339.0,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b002",
+    "text": "JANUARY 2020",
+    "bbox": [
+      272.6,
+      791.9,
+      322.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b003",
+    "text": "4. Structure partnerships through appropriate agreements",
+    "bbox": [
+      64.8,
+      37.2,
+      348.0,
+      51.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b004",
+    "text": "The level to which partnerships should be formalized, as opposed to keeping arrangements informal",
+    "bbox": [
+      76.2,
+      50.8,
+      536.0,
+      64.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b005",
+    "text": "and flexible, is often not clear nor consistently applied across engagements. Creating an overarching",
+    "bbox": [
+      76.2,
+      64.0,
+      534.6,
+      77.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b006",
+    "text": "partnership agreement (e.g. through a memorandum of understanding) as well as more specific data",
+    "bbox": [
+      76.2,
+      77.2,
+      537.5,
+      91.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b007",
+    "text": "sharing or data transfer agreements can help clarify expectations.16",
+    "bbox": [
+      76.2,
+      90.4,
+      381.6,
+      104.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b008",
+    "text": "When formalizing the overall partnership agreement, parties should consult their designated legal,",
+    "bbox": [
+      76.2,
+      111.6,
+      527.9,
+      125.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b009",
+    "text": "technical and risk management focal points and consider the following issues:",
+    "bbox": [
+      76.2,
+      124.8,
+      432.9,
+      138.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b010",
+    "text": "a.   Overall goals of the partnership in concrete terms, with related commitments (activities,",
+    "bbox": [
+      87.5,
+      147.0,
+      511.9,
+      160.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b011",
+    "text": "outputs and key results) for both parties.",
+    "bbox": [
+      76.2,
+      160.2,
+      286.8,
+      174.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b012",
+    "text": "b.   Intellectual property restrictions regarding the future use of technology or insights developed",
+    "bbox": [
+      87.5,
+      182.4,
+      532.7,
+      196.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b013",
+    "text": "between the humanitarian and private sector partner.",
+    "bbox": [
+      76.2,
+      195.6,
+      347.3,
+      209.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b014",
+    "text": "c.   Mutual responsibilities for data management throughout the partnership, including",
+    "bbox": [
+      87.5,
+      217.8,
+      485.3,
+      231.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b015",
+    "text": "considerations for data sensitivity, data security and ownership, and retention and destruction",
+    "bbox": [
+      87.5,
+      231.0,
+      534.7,
+      244.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b016",
+    "text": "of data.17",
+    "bbox": [
+      87.5,
+      244.2,
+      143.3,
+      258.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b017",
+    "text": "5. Design technology responsibly",
+    "bbox": [
+      64.8,
+      268.0,
+      224.3,
+      282.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b018",
+    "text": "Collaborative and iterative design or adaptation of technology can help ensure that tools and",
+    "bbox": [
+      76.2,
+      281.6,
+      502.4,
+      295.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b019",
+    "text": "platforms are fit for purpose in different response contexts. Organizations should allow for testing",
+    "bbox": [
+      76.2,
+      294.8,
+      522.4,
+      308.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b020",
+    "text": "and refinement of solutions in safe environments before deploying them in the field, and, where",
+    "bbox": [
+      76.2,
+      308.0,
+      516.1,
+      321.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b021",
+    "text": "appropriate, they should ensure a user-centred approach to how solutions are designed.18 Tools",
+    "bbox": [
+      76.2,
+      321.2,
+      514.6,
+      335.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b022",
+    "text": "should always be designed with privacy and data protection in mind. Positioning this kind of",
+    "bbox": [
+      76.2,
+      334.4,
+      499.1,
+      348.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b023",
+    "text": "responsible, value-sensitive design19 as a core component of partnerships can help draw attention,",
+    "bbox": [
+      76.2,
+      347.6,
+      527.6,
+      361.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b024",
+    "text": "build trust and even attract additional investment.",
+    "bbox": [
+      76.2,
+      360.8,
+      306.5,
+      374.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b025",
+    "text": "Contact the Centre at centrehumdata@un.org to share case studies of successful partnerships in this",
+    "bbox": [
+      53.5,
+      387.0,
+      516.7,
+      401.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b026",
+    "text": "space.",
+    "bbox": [
+      53.5,
+      400.4,
+      82.6,
+      414.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b027",
+    "text": "16  For more information specifically on the mechanisms for data sharing partnerships, see the World Economic Forum report on Data Collaboration",
+    "bbox": [
+      53.9,
+      671.0,
+      538.2,
+      679.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b028",
+    "text": "for the Common Good. The Contracts for Data Collaboration project has compiled a repository of agreements for data-focused PPPs.The Centre for",
+    "bbox": [
+      53.9,
+      680.0,
+      540.2,
+      688.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b029",
+    "text": "Humanitarian Data is developing different templates for data sharing governance instruments, which are available upon request. Other initiatives",
+    "bbox": [
+      53.9,
+      689.1,
+      536.5,
+      697.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b030",
+    "text": "designed to facilitate different types of partnerships around ICTs and data include the OPAL Project and the GovLab Data Collaboratives Repository.",
+    "bbox": [
+      53.9,
+      698.0,
+      543.7,
+      706.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b031",
+    "text": "17  Note that while data security measures are part of the solution, a different setup of a PPP (e.g. where less data is moving around) can offer an",
+    "bbox": [
+      53.9,
+      710.1,
+      514.7,
+      718.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b032",
+    "text": "alternative route. The GovLab at NYU has developed a helpful typology of such ‘data collaboratives’.",
+    "bbox": [
+      53.9,
+      719.0,
+      386.8,
+      727.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b033",
+    "text": "18 “A user-centred approach is a creative problem-solving approach used to design products, services and programmes across a wide range of sectors",
+    "bbox": [
+      53.9,
+      731.1,
+      539.0,
+      739.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b034",
+    "text": "that puts the needs and experiences of intended end-users at the centre of the design process and engages the users throughout this process.” Sofya",
+    "bbox": [
+      53.9,
+      740.1,
+      542.1,
+      748.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b035",
+    "text": "Bourne (2019), User-Centred Design and Humanitarian Adaptiveness.",
+    "bbox": [
+      53.9,
+      749.0,
+      288.2,
+      757.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b036",
+    "text": "19 See for example this report by the Overseas Development Institute, p. 27. For more information about ICT and Value Sensitive Design, see for",
+    "bbox": [
+      53.9,
+      761.0,
+      517.9,
+      769.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b037",
+    "text": "example this paper by prof. Van den Hoven of TU Delft.",
+    "bbox": [
+      53.9,
+      770.0,
+      239.3,
+      778.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b038",
+    "text": "This project is co-funded",
+    "bbox": [
+      54.0,
+      642.1,
+      136.4,
+      651.7
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b039",
+    "text": "by the European Union",
+    "bbox": [
+      54.0,
+      651.3,
+      128.5,
+      660.9
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b040",
+    "text": "This document covers humanitarian aid activities implemented with the financial assistance of the",
+    "bbox": [
+      145.5,
+      582.6,
+      514.7,
+      593.9
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b041",
+    "text": "European Union. The views expressed herein should not be taken, in any way, to reflect the official opinion",
+    "bbox": [
+      145.5,
+      593.4,
+      543.9,
+      604.7
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b042",
+    "text": "of the European Union, and the European Commission is not responsible for any use that may be made of",
+    "bbox": [
+      145.5,
+      604.2,
+      540.6,
+      615.5
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b043",
+    "text": "the information it contains.",
+    "bbox": [
+      145.5,
+      615.0,
+      247.4,
+      626.3
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b044",
+    "text": "COLLABORATORS: THIS GUIDANCE NOTE WAS PREPARED IN COLLABORATION WITH KAREN SMITH OF THE",
+    "bbox": [
+      53.4,
+      429.5,
+      492.7,
+      442.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b045",
+    "text": "CONNECTING BUSINESS INITIATIVE AND WILLIAM HOFFMAN OF THE WORLD ECONOMIC FORUM. THE CENTRE",
+    "bbox": [
+      53.4,
+      441.3,
+      513.0,
+      454.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b046",
+    "text": "THANKS LEIDEN UNIVERSITY’S CENTRE FOR INNOVATION AND THE TILBURG INSTITUTE FOR LAW, TECHNOLOGY",
+    "bbox": [
+      53.4,
+      453.3,
+      528.2,
+      466.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b047",
+    "text": "AND SOCIETY FOR THEIR CONTRIBUTIONS.",
+    "bbox": [
+      53.4,
+      465.3,
+      232.6,
+      478.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b048",
+    "text": "The Centre for Humanitarian Data ('the Center'), together with key partners, is publishing a series of Guidance",
+    "bbox": [
+      65.3,
+      492.6,
+      524.9,
+      505.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b049",
+    "text": "Notes on Data Responsibility in Humanitarian Action over the course of 2019 and 2020. The Guidance Note",
+    "bbox": [
+      65.3,
+      505.0,
+      506.6,
+      517.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b050",
+    "text": "Series follows the publication of the OCHA Data Responsibility Guidelines in March 2019. Through the series,",
+    "bbox": [
+      65.3,
+      516.8,
+      519.2,
+      529.8
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b051",
+    "text": "the Centre aims to provide additional guidance on specific issues, processes and tools for data responsibility",
+    "bbox": [
+      65.3,
+      529.0,
+      516.3,
+      541.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b052",
+    "text": "in practice. This series is made possible with the generous support of the European Union Civil Protection and",
+    "bbox": [
+      65.3,
+      541.0,
+      521.4,
+      553.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "142",
+    "page_number": 6,
+    "block_id": "142_p6_b053",
+    "text": "Humanitarian Aid Operations (DG ECHO).",
+    "bbox": [
+      65.3,
+      553.0,
+      235.8,
+      565.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

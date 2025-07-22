@@ -1,0 +1,1232 @@
+[
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b001",
+    "text": "Precision Indoor Location and Tracking",
+    "bbox": [
+      36.0,
+      91.8,
+      243.8,
+      106.9
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b002",
+    "text": "The Geospatial Location Accountability and Navigation Sys-",
+    "bbox": [
+      36.0,
+      107.9,
+      296.9,
+      121.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b003",
+    "text": "tem for Emergency Responders (GLANSER) project is a part",
+    "bbox": [
+      36.0,
+      119.0,
+      299.5,
+      132.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b004",
+    "text": "of the First Responder Technology Program within DHS S&T",
+    "bbox": [
+      36.0,
+      130.7,
+      299.5,
+      143.8
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b005",
+    "text": "Directorate, Infrastructure Protection Disaster Management Di-",
+    "bbox": [
+      36.0,
+      142.3,
+      297.0,
+      155.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b006",
+    "text": "vision (IDD). The GLANSER project satisfies the Incident Man-",
+    "bbox": [
+      36.0,
+      153.8,
+      297.1,
+      166.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b007",
+    "text": "agement Integrated Projects Team’s high-priority technological",
+    "bbox": [
+      36.0,
+      165.3,
+      299.5,
+      178.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b008",
+    "text": "need for personnel monitoring. The project builds on previous",
+    "bbox": [
+      36.0,
+      176.8,
+      299.5,
+      189.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b009",
+    "text": "efforts from S&T concept exploration of Advance 3-D Location",
+    "bbox": [
+      36.0,
+      188.2,
+      299.5,
+      201.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b010",
+    "text": "System effort (RTAP BAA05-01 EH4) and the 3-D Visualization",
+    "bbox": [
+      36.0,
+      199.8,
+      299.5,
+      212.8
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b011",
+    "text": "System to show First Responders and Assets within Building",
+    "bbox": [
+      36.0,
+      211.3,
+      299.5,
+      224.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b012",
+    "text": "Structures in Urban Areas for Situational Awareness effort",
+    "bbox": [
+      36.0,
+      222.8,
+      299.5,
+      235.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b013",
+    "text": "(SBIR06.02-005). The primary objectives of GLANSER are:",
+    "bbox": [
+      36.0,
+      234.3,
+      282.7,
+      247.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b014",
+    "text": "Improve the precision of locating first responders dur-",
+    "bbox": [
+      72.0,
+      252.6,
+      296.9,
+      265.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b015",
+    "text": "ing an incident in complex environments and in non-",
+    "bbox": [
+      72.0,
+      264.0,
+      296.9,
+      277.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b016",
+    "text": "GPS environments (i.e. subterranean structures, col-",
+    "bbox": [
+      72.0,
+      275.5,
+      296.9,
+      288.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b017",
+    "text": "lapsed buildings, sky-scrapers)",
+    "bbox": [
+      72.0,
+      287.0,
+      195.5,
+      300.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b018",
+    "text": "Provide incident commanders the ability to accurately",
+    "bbox": [
+      72.0,
+      305.2,
+      297.0,
+      318.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b019",
+    "text": "locate and track hundreds of personnel in real-time to",
+    "bbox": [
+      72.0,
+      316.8,
+      296.9,
+      329.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b020",
+    "text": "rapidly and effectively re-deploy and save at-risk re-",
+    "bbox": [
+      72.0,
+      328.2,
+      296.9,
+      341.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b021",
+    "text": "sponders during an incident",
+    "bbox": [
+      72.0,
+      339.7,
+      182.6,
+      352.8
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b022",
+    "text": "Increase situational awareness of the incident by",
+    "bbox": [
+      72.0,
+      357.9,
+      297.0,
+      371.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b023",
+    "text": "providing a 2D/3D view of the building superimposed",
+    "bbox": [
+      72.0,
+      369.5,
+      296.9,
+      382.5
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b024",
+    "text": "with the locations of the first responders and their status",
+    "bbox": [
+      72.0,
+      381.0,
+      296.9,
+      394.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b025",
+    "text": "through a 2-way alarm/status communication feature.",
+    "bbox": [
+      72.0,
+      392.5,
+      285.8,
+      405.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b026",
+    "text": "Operational concept for GLANSER",
+    "bbox": [
+      101.4,
+      588.3,
+      231.4,
+      599.9
+    ],
+    "font_size": 9.0,
+    "font_name": "FranklinGothic-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b027",
+    "text": "This project saves the lives of first responders by allowing the",
+    "bbox": [
+      36.0,
+      612.8,
+      299.5,
+      625.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b028",
+    "text": "Incident Command Post to track, locate, and direct teams to res-",
+    "bbox": [
+      36.0,
+      624.3,
+      297.1,
+      637.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b029",
+    "text": "cue",
+    "bbox": [
+      36.0,
+      635.8,
+      52.3,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b030",
+    "text": "at-risk/down",
+    "bbox": [
+      61.8,
+      635.8,
+      114.7,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b031",
+    "text": "personnel",
+    "bbox": [
+      124.2,
+      635.8,
+      165.7,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b032",
+    "text": "during",
+    "bbox": [
+      175.2,
+      635.8,
+      203.7,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b033",
+    "text": "emergency",
+    "bbox": [
+      213.3,
+      635.8,
+      259.3,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b034",
+    "text": "events.",
+    "bbox": [
+      268.8,
+      635.8,
+      299.5,
+      648.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b035",
+    "text": "GLANSER increases responder survivability by allowing for",
+    "bbox": [
+      36.0,
+      647.3,
+      299.5,
+      660.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b036",
+    "text": "quicker egress of an incident using logged track information. In",
+    "bbox": [
+      36.0,
+      658.9,
+      299.5,
+      672.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b037",
+    "text": "addition, the system will provide HSPD-8 compliance through",
+    "bbox": [
+      36.0,
+      670.3,
+      299.5,
+      683.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b038",
+    "text": "adoption of appropriate first responder equipment standards that",
+    "bbox": [
+      36.0,
+      681.8,
+      299.5,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b039",
+    "text": "support nationwide interoperability and other capabilities con-",
+    "bbox": [
+      315.0,
+      92.6,
+      576.0,
+      105.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b040",
+    "text": "sistent with the national preparedness goals.",
+    "bbox": [
+      315.0,
+      104.1,
+      493.7,
+      117.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b041",
+    "text": "Key Contributions and Deliverables from Science",
+    "bbox": [
+      315.0,
+      121.7,
+      573.5,
+      136.8
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b042",
+    "text": "and Technology",
+    "bbox": [
+      315.0,
+      134.6,
+      399.6,
+      149.7
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b043",
+    "text": "GLANSER will provide position information, alarms, communi-",
+    "bbox": [
+      315.0,
+      150.5,
+      576.0,
+      163.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b044",
+    "text": "cations, and visual presentations to incident commanders. Ad-",
+    "bbox": [
+      315.0,
+      162.1,
+      576.0,
+      175.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b045",
+    "text": "vances in science and technology from this project include de-",
+    "bbox": [
+      315.0,
+      173.6,
+      576.2,
+      186.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b046",
+    "text": "veloping technology to increase 3-D positional accuracy to with-",
+    "bbox": [
+      315.0,
+      185.1,
+      576.0,
+      198.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b047",
+    "text": "in 3 meters in non-GPS environments, increase communication",
+    "bbox": [
+      315.0,
+      196.6,
+      578.5,
+      209.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b048",
+    "text": "range in complex indoor non-line-of-sight environments, provide",
+    "bbox": [
+      315.0,
+      208.0,
+      578.5,
+      221.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b049",
+    "text": "device operational life up to 6 hours, and to decrease overall",
+    "bbox": [
+      315.0,
+      219.6,
+      578.5,
+      232.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b050",
+    "text": "package weight to less than 2 lb. Project deliverables include:",
+    "bbox": [
+      315.0,
+      231.1,
+      578.5,
+      244.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b051",
+    "text": "wearable 3-D Locator Pack(s) for Responders; robust wireless",
+    "bbox": [
+      315.0,
+      242.6,
+      578.5,
+      255.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b052",
+    "text": "mesh data network with 2-way alarm/status communications;",
+    "bbox": [
+      315.0,
+      254.1,
+      578.5,
+      267.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b053",
+    "text": "and 3-D Visualization user interface product for responder’s geo-",
+    "bbox": [
+      315.0,
+      265.6,
+      575.9,
+      278.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b054",
+    "text": "referenced location and tracks for the Incident Command Post.",
+    "bbox": [
+      315.0,
+      277.1,
+      570.8,
+      290.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b055",
+    "text": "Customers, Users, Partnerships, and",
+    "bbox": [
+      315.0,
+      300.6,
+      509.4,
+      315.7
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b056",
+    "text": "Stakeholders",
+    "bbox": [
+      315.0,
+      313.7,
+      387.5,
+      328.8
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b057",
+    "text": "The primary customer for this project is the Federal Emergency",
+    "bbox": [
+      315.0,
+      329.6,
+      578.5,
+      342.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b058",
+    "text": "Management Agency (FEMA). When delivered, the system sup-",
+    "bbox": [
+      315.0,
+      341.1,
+      575.9,
+      354.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b059",
+    "text": "ports a multitude of State/Local Emergency Managers and First",
+    "bbox": [
+      315.0,
+      352.6,
+      578.5,
+      365.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b060",
+    "text": "Responders, who are the ultimate end-users of the product. In",
+    "bbox": [
+      315.0,
+      364.0,
+      578.5,
+      377.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b061",
+    "text": "addition, S&T is working to leverage existing efforts being done",
+    "bbox": [
+      315.0,
+      375.5,
+      578.5,
+      388.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b062",
+    "text": "in the Department of Defense (DOD) and other agencies.",
+    "bbox": [
+      315.0,
+      387.1,
+      548.6,
+      400.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b063",
+    "text": "Transitioning technology to the Emergency",
+    "bbox": [
+      315.0,
+      410.6,
+      542.4,
+      425.7
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b064",
+    "text": "Responder",
+    "bbox": [
+      315.0,
+      423.6,
+      374.3,
+      438.7
+    ],
+    "font_size": 12.0,
+    "font_name": "FranklinGothicDemi",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b065",
+    "text": "The GLANSER system is being field-tested with numerous fire",
+    "bbox": [
+      315.0,
+      439.6,
+      578.5,
+      452.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b066",
+    "text": "departments across the country to assess performance, reliability,",
+    "bbox": [
+      315.0,
+      451.0,
+      578.5,
+      464.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b067",
+    "text": "ease of deployment and use, interoperability, and consistency",
+    "bbox": [
+      315.0,
+      462.5,
+      578.5,
+      475.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b068",
+    "text": "with first responder procedures and equipment. Feedback from",
+    "bbox": [
+      315.0,
+      474.1,
+      578.5,
+      487.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b069",
+    "text": "these field trials will be used to further improve the technology",
+    "bbox": [
+      315.0,
+      485.6,
+      578.5,
+      498.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b070",
+    "text": "and packaging to make it feasible for commercialization. The",
+    "bbox": [
+      315.0,
+      497.1,
+      578.5,
+      510.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b071",
+    "text": "initial strategy consists of FEMA endorsement of the product for",
+    "bbox": [
+      315.0,
+      508.5,
+      578.5,
+      521.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b072",
+    "text": "use by end-users through Authorized Equipment List (AEL) and",
+    "bbox": [
+      315.0,
+      520.0,
+      578.5,
+      533.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b073",
+    "text": "the Interagency Board (IAB) Standardized Equipment List",
+    "bbox": [
+      315.0,
+      531.6,
+      578.5,
+      544.6
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b074",
+    "text": "(SEL). Also being discussed is procurement of the system",
+    "bbox": [
+      315.0,
+      543.1,
+      578.5,
+      556.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b075",
+    "text": "through Commercial Equipment Direct Assistance Program",
+    "bbox": [
+      315.0,
+      554.6,
+      578.5,
+      567.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b076",
+    "text": "(CEDAP) in FEMA.",
+    "bbox": [
+      315.0,
+      566.1,
+      399.9,
+      579.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b077",
+    "text": "DHS Science and Technology Directorate",
+    "bbox": [
+      37.3,
+      8.8,
+      349.9,
+      32.8
+    ],
+    "font_size": 18.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b078",
+    "text": "Geospatial Location Accountability and Navigation",
+    "bbox": [
+      36.0,
+      34.1,
+      548.0,
+      64.9
+    ],
+    "font_size": 24.0,
+    "font_name": "FranklinGothic-Book",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b079",
+    "text": "System for Emergency Responders     Know WHERE they are…",
+    "bbox": [
+      37.3,
+      61.3,
+      546.6,
+      92.2
+    ],
+    "font_size": 24.0,
+    "font_name": "FranklinGothic-Book",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b080",
+    "text": "To learn more about GLANSER, contact Jalal Mapar, Director RSD, at",
+    "bbox": [
+      212.9,
+      733.1,
+      557.4,
+      748.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b081",
+    "text": "jalal.mapar@hq.dhs.gov",
+    "bbox": [
+      212.9,
+      746.9,
+      333.2,
+      762.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "791",
+    "page_number": 1,
+    "block_id": "791_p1_b082",
+    "text": "2013",
+    "bbox": [
+      568.6,
+      749.5,
+      578.9,
+      768.2
+    ],
+    "font_size": 8.0,
+    "font_name": "FranklinGothic-Book",
+    "label": "BODY"
+  }
+]

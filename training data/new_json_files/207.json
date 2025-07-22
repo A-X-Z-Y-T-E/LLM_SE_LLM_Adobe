@@ -1,0 +1,6047 @@
+[
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b003",
+    "text": "1    OCHA Data Responsibility Guidelines.",
+    "bbox": [
+      53.9,
+      768.2,
+      181.2,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b004",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      54.0,
+      55.3,
+      374.4,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b005",
+    "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+    "bbox": [
+      53.3,
+      98.4,
+      273.8,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b006",
+    "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+    "bbox": [
+      53.3,
+      116.4,
+      467.7,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b007",
+    "text": "ÉTICA DE LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.3,
+      138.7,
+      442.1,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b008",
+    "text": "CONCLUSIONES FUNDAMENTALES:",
+    "bbox": [
+      63.7,
+      190.0,
+      274.5,
+      205.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b009",
+    "text": "•\t La ética se define como el estudio de lo que es moralmente correcto e incorrecto, o un conjunto",
+    "bbox": [
+      75.0,
+      211.7,
+      523.1,
+      225.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b010",
+    "text": "de creencias sobre lo que es moralmente correcto e incorrecto. La ética ayuda a sentar las bases",
+    "bbox": [
+      86.3,
+      224.9,
+      525.7,
+      238.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b011",
+    "text": "de las normas, puede utilizarse para interpretar las normas establecidas y puede aplicarse",
+    "bbox": [
+      86.3,
+      238.1,
+      499.1,
+      252.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b012",
+    "text": "directamente como guía en situaciones para las que las normas, las leyes y los reglamentos no",
+    "bbox": [
+      86.3,
+      251.3,
+      518.9,
+      265.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b013",
+    "text": "brinden orientación alguna.",
+    "bbox": [
+      86.3,
+      264.5,
+      213.8,
+      278.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b014",
+    "text": "•\t La ética humanitaria se ha desarrollado como una ética basada en principios, fundamentada",
+    "bbox": [
+      75.0,
+      286.7,
+      511.5,
+      300.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b015",
+    "text": "en los principios de humanidad, imparcialidad, neutralidad e independencia que guían",
+    "bbox": [
+      86.3,
+      299.9,
+      485.9,
+      313.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b016",
+    "text": "la prestación de asistencia y protección humanitarias. Los marcos existentes para la ética",
+    "bbox": [
+      86.3,
+      313.1,
+      493.5,
+      327.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b017",
+    "text": "humanitaria deben ampliarse para que el personal y las organizaciones puedan afrontar los",
+    "bbox": [
+      86.3,
+      326.3,
+      505.8,
+      340.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b018",
+    "text": "retos y las oportunidades de la era digital.",
+    "bbox": [
+      86.3,
+      339.5,
+      277.2,
+      353.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b019",
+    "text": "•\t La ética de los datos es la rama de la ética que estudia y evalúa los problemas morales y ofrece",
+    "bbox": [
+      75.0,
+      361.7,
+      518.7,
+      375.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b020",
+    "text": "orientación normativa relacionada con el uso de datos, algoritmos y las prácticas asociadas. Los",
+    "bbox": [
+      86.3,
+      374.9,
+      526.4,
+      388.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b021",
+    "text": "problemas éticos más comunes en la gestión de datos incluyen cuestiones de imparcialidad,",
+    "bbox": [
+      86.3,
+      388.1,
+      509.6,
+      402.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b022",
+    "text": "validez, sesgo, osificación, transparencia y explicabilidad, anonimato, privacidad y propiedad de",
+    "bbox": [
+      86.3,
+      401.3,
+      527.8,
+      415.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b023",
+    "text": "los datos y la información.",
+    "bbox": [
+      86.3,
+      414.5,
+      206.3,
+      428.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b024",
+    "text": "•\t Además, pueden surgir otras cuestiones éticas en los proyectos relacionados con los datos en el",
+    "bbox": [
+      75.0,
+      436.7,
+      524.8,
+      450.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b025",
+    "text": "sector humanitario, como pueden ser el daño potencial de la acción humanitaria, las dificultades",
+    "bbox": [
+      86.3,
+      449.9,
+      530.4,
+      463.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b026",
+    "text": "de asociación, la complicidad y la trampa moral, la obligación de proteger al personal",
+    "bbox": [
+      86.3,
+      463.1,
+      478.3,
+      477.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b027",
+    "text": "humanitario y el \"dilema coste-efectividad”.",
+    "bbox": [
+      86.3,
+      476.3,
+      286.1,
+      490.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b028",
+    "text": "•\t Las organizaciones humanitarias pueden mejorar la deliberación y la toma de decisiones",
+    "bbox": [
+      75.0,
+      498.5,
+      493.2,
+      512.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b029",
+    "text": "éticas en la gestión de datos estableciendo códigos de conducta claros para la gestión ética de",
+    "bbox": [
+      86.3,
+      511.7,
+      517.4,
+      525.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b030",
+    "text": "los datos, apoyando al personal para que identifique, comprenda y analice cuestiones éticas",
+    "bbox": [
+      86.3,
+      524.9,
+      509.4,
+      538.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b031",
+    "text": "utilizando herramientas comunes y, por último, incorporando \"auditorías éticas\" como parte de",
+    "bbox": [
+      86.3,
+      538.1,
+      525.2,
+      552.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b032",
+    "text": "la práctica habitual.",
+    "bbox": [
+      86.3,
+      551.3,
+      177.2,
+      565.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b033",
+    "text": "INTRODUCCIÓN",
+    "bbox": [
+      53.5,
+      584.8,
+      149.5,
+      599.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b034",
+    "text": "La responsabilidad de datos es la gestión segura, ética y eficaz de los mismos.1 Esta guía se centra en los",
+    "bbox": [
+      53.5,
+      606.4,
+      528.9,
+      620.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b035",
+    "text": "aspectos éticos de la gestión de datos humanitarios, desde actividades habituales como la recopilación y el",
+    "bbox": [
+      53.4,
+      619.6,
+      544.5,
+      633.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b036",
+    "text": "procesamiento de datos sobre el terreno, hasta aplicaciones más avanzadas de tecnología de datos, como",
+    "bbox": [
+      53.4,
+      632.8,
+      539.0,
+      646.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b037",
+    "text": "el análisis predictivo.",
+    "bbox": [
+      53.4,
+      646.0,
+      151.9,
+      659.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b038",
+    "text": "El objetivo de esta guía es ayudar a los agentes humanitarios a identificar, evaluar y abordar los problemas",
+    "bbox": [
+      53.4,
+      669.2,
+      541.4,
+      683.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b039",
+    "text": "éticos que surgen en los proyectos en los que se hace uso de datos. Comienza con una visión general de la",
+    "bbox": [
+      53.4,
+      682.4,
+      537.4,
+      696.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b040",
+    "text": "ética humanitaria y la ética de los datos, centrándose en los valores que impulsan la toma de decisiones",
+    "bbox": [
+      53.4,
+      695.6,
+      529.0,
+      709.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b041",
+    "text": "éticas en ambos campos. A continuación, presenta algunas de las preocupaciones y desafíos éticos más",
+    "bbox": [
+      53.4,
+      708.8,
+      528.4,
+      722.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b042",
+    "text": "comunes a los que pueden enfrentarse los agentes humanitarios en la gestión de datos. Por último, ofrece",
+    "bbox": [
+      53.4,
+      722.0,
+      538.6,
+      735.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b043",
+    "text": "recomendaciones para las organizaciones humanitarias que buscan hacer una mejor interpretación ética",
+    "bbox": [
+      53.4,
+      735.2,
+      534.0,
+      749.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 1,
+    "block_id": "207_p1_b044",
+    "text": "del uso y el impacto de los datos en sus operaciones.",
+    "bbox": [
+      53.4,
+      748.4,
+      293.9,
+      762.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b003",
+    "text": "La ética se define como el estudio de lo que es moralmente correcto e incorrecto, o un conjunto de",
+    "bbox": [
+      53.6,
+      45.5,
+      504.1,
+      59.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b004",
+    "text": "creencias sobre lo que es moralmente correcto e incorrecto.2 El papel de la ética como guía se hace esencial",
+    "bbox": [
+      53.6,
+      58.7,
+      545.8,
+      72.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b005",
+    "text": "en el contexto de una profesión como la de la acción humanitaria, en la que individuos de diversos orígenes",
+    "bbox": [
+      53.6,
+      71.9,
+      545.7,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b006",
+    "text": "y sistemas de valores coinciden en la búsqueda de un objetivo común: ayudar y proteger a las personas",
+    "bbox": [
+      53.6,
+      85.1,
+      526.1,
+      99.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b007",
+    "text": "afectadas por la guerra y las catástrofes.",
+    "bbox": [
+      53.6,
+      98.3,
+      238.5,
+      112.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b008",
+    "text": "Problemas éticos más comunes en la gestión de datos5",
+    "bbox": [
+      64.8,
+      385.4,
+      304.5,
+      397.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b009",
+    "text": "•\t Validez: ¿son los datos y/o el modelo representativos de lo que se quiere medir?",
+    "bbox": [
+      64.8,
+      417.0,
+      440.3,
+      431.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b010",
+    "text": "•\t Sesgo e imparcialidad: ¿existe un sesgo sistemático de los datos recogidos y/o hay prejuicio o",
+    "bbox": [
+      64.8,
+      441.2,
+      502.7,
+      455.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b011",
+    "text": "favoritismo en los datos o el modelo? Por ejemplo, ¿se ha producido una sobreestimación o",
+    "bbox": [
+      64.8,
+      454.6,
+      493.3,
+      468.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b012",
+    "text": "subestimación de lo que se está midiendo o están algunos miembros de la población más o menos",
+    "bbox": [
+      64.8,
+      467.8,
+      525.9,
+      481.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b013",
+    "text": "representados que otros?",
+    "bbox": [
+      64.8,
+      481.0,
+      194.5,
+      494.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b014",
+    "text": "•\t Osificación: ¿el modelo (o los datos que lo sustentan) copia el estado actual del mundo y, por lo",
+    "bbox": [
+      64.8,
+      505.0,
+      512.1,
+      519.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b015",
+    "text": "tanto, dificulta el cambio? Por ejemplo, ¿estamos construyendo modelos que perpetúan o repiten",
+    "bbox": [
+      76.1,
+      518.4,
+      521.4,
+      532.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b016",
+    "text": "errores pasados?",
+    "bbox": [
+      76.1,
+      531.6,
+      153.9,
+      545.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b017",
+    "text": "•\t Transparencia y explicabilidad: ¿está claramente documentado el proceso de gestión de datos y se",
+    "bbox": [
+      64.8,
+      555.6,
+      529.0,
+      569.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b018",
+    "text": "sabe cómo funciona el modelo o el algoritmo? Por ejemplo, ¿puede alguien que no esté",
+    "bbox": [
+      76.1,
+      569.0,
+      474.6,
+      582.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b019",
+    "text": "directamente implicado en el proceso explicar el procedimiento?",
+    "bbox": [
+      76.1,
+      582.2,
+      372.0,
+      596.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b020",
+    "text": "•\t Privacidad y anonimato: ¿los datos o su uso revelan la identidad de un individuo o grupo de",
+    "bbox": [
+      64.8,
+      606.2,
+      497.0,
+      620.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b021",
+    "text": "personas?",
+    "bbox": [
+      76.1,
+      619.6,
+      125.0,
+      633.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b022",
+    "text": "•\t Propiedad de los datos y la información: ¿están claramente definidos los derechos sobre los datos",
+    "bbox": [
+      64.8,
+      643.6,
+      529.3,
+      657.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b023",
+    "text": "y la información relacionada? Por ejemplo, ¿está claro cómo se toman las decisiones sobre cómo y",
+    "bbox": [
+      76.1,
+      657.0,
+      524.4,
+      670.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b024",
+    "text": "quién puede utilizar los datos, cómo deben subsanarse los problemas relacionados con los datos",
+    "bbox": [
+      69.5,
+      670.2,
+      518.6,
+      684.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b025",
+    "text": "y otras cuestiones relacionadas?).",
+    "bbox": [
+      69.5,
+      683.4,
+      234.4,
+      697.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b026",
+    "text": "2   Cambridge Dictionary, disponible aquí: https://dictionary.cambridge.org/dictionary/english/ethics.",
+    "bbox": [
+      53.9,
+      732.0,
+      381.7,
+      740.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b027",
+    "text": "3    Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 118-119.",
+    "bbox": [
+      53.9,
+      744.1,
+      373.9,
+      752.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b028",
+    "text": "4  Luciano Floridi, 2018. Soft Ethics and the Governance of the Digital, Philos. Technol. 31: 1.",
+    "bbox": [
+      53.9,
+      756.0,
+      346.0,
+      764.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b029",
+    "text": "5   Luciano Floridi y Mariarosaria Taddeo, 2016. What is data Ethics?, Phil. Trans. R. Soc. A 374: 20160360.",
+    "bbox": [
+      53.9,
+      768.0,
+      387.9,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b030",
+    "text": "“La ética no es solo ser racional y afectivo. Nuestras elecciones deben buscar",
+    "bbox": [
+      111.6,
+      121.6,
+      483.2,
+      134.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b031",
+    "text": "también la eficacia... Los actos son, pues, el resultado último de la ética. El",
+    "bbox": [
+      111.6,
+      135.6,
+      465.9,
+      148.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b032",
+    "text": "ámbito práctico de la ética humanitaria se conoce deliberadamente como",
+    "bbox": [
+      111.6,
+      148.8,
+      471.5,
+      161.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b033",
+    "text": "acción humanitaria debido a esta idea moral básica de que la ética sin acción",
+    "bbox": [
+      111.6,
+      162.0,
+      485.0,
+      174.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b034",
+    "text": "no tiene sentido.”3",
+    "bbox": [
+      111.6,
+      175.2,
+      203.1,
+      187.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b035",
+    "text": "- Hugo Slim, Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster",
+    "bbox": [
+      111.6,
+      201.1,
+      429.4,
+      211.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b036",
+    "text": "La ética tiene un papel especialmente importante en el campo de la gestión de datos, ya que las",
+    "bbox": [
+      53.9,
+      240.3,
+      492.7,
+      254.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b037",
+    "text": "herramientas técnicas de gestión de datos han evolucionado más rápidamente que las herramientas que",
+    "bbox": [
+      53.9,
+      253.5,
+      534.1,
+      267.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b038",
+    "text": "rigen su uso. Como afirma el filósofo Luciano Floridi, \"la ética en general y la ética digital en particular no",
+    "bbox": [
+      53.9,
+      266.7,
+      533.5,
+      280.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b039",
+    "text": "pueden ser un mero complemento […] cuando ya ha tenido lugar la innovación digital y posiblemente se",
+    "bbox": [
+      53.9,
+      279.9,
+      534.5,
+      293.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b040",
+    "text": "han aplicado malas soluciones, se han elegido alternativas menos buenas o se han cometido errores”4. En",
+    "bbox": [
+      53.9,
+      293.1,
+      538.6,
+      307.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b041",
+    "text": "cada sector, los especialistas deben identificar, evaluar y desarrollar estrategias para mitigar los problemas",
+    "bbox": [
+      53.9,
+      306.3,
+      542.7,
+      320.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b042",
+    "text": "éticos más comunes que pueden presentarse en la gestión de datos. A medida que estas cuestiones se",
+    "bbox": [
+      53.9,
+      319.5,
+      521.3,
+      333.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b043",
+    "text": "van aclarando, lo que es \"bueno\" o \"correcto\" desde una perspectiva ética debe servir de base para los",
+    "bbox": [
+      53.9,
+      332.7,
+      523.2,
+      346.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 2,
+    "block_id": "207_p2_b044",
+    "text": "instrumentos políticos y jurídicos que, en última instancia, rigen la gestión de datos en el sector.",
+    "bbox": [
+      53.9,
+      345.9,
+      490.6,
+      359.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b003",
+    "text": "ÉTICA HUMANITARIA",
+    "bbox": [
+      53.9,
+      32.6,
+      181.9,
+      47.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b004",
+    "text": "Como explica Hugo Slim en Humanitarian Ethics: A Guide to the Morality of Aid in War and Disasters, “la ética",
+    "bbox": [
+      53.9,
+      57.3,
+      543.0,
+      71.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b005",
+    "text": "humanitaria se ha desarrollado como una ética basada en principios... fundamentada en los principios de",
+    "bbox": [
+      53.9,
+      70.5,
+      537.9,
+      84.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b006",
+    "text": "humanidad, imparcialidad, neutralidad e independencia que se han desarrollado para guiar la prestación",
+    "bbox": [
+      53.9,
+      83.7,
+      536.8,
+      97.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b007",
+    "text": "de asistencia y protección humanitaria”6. Según Slim, los principios sirven específicamente para tres",
+    "bbox": [
+      53.9,
+      96.9,
+      513.3,
+      110.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b008",
+    "text": "propósitos principales en la ética aplicada: ratificar normas morales, actuar como guías operativas en la",
+    "bbox": [
+      53.9,
+      110.1,
+      528.8,
+      124.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b009",
+    "text": "toma de decisiones éticas y para elaborar reglas específicas.7",
+    "bbox": [
+      53.9,
+      123.3,
+      331.1,
+      137.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b010",
+    "text": "Principios humanitarios",
+    "bbox": [
+      53.4,
+      154.9,
+      169.5,
+      169.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b011",
+    "text": "Fuente: OCHA en Mensaje: Principios humanitarios8s.8",
+    "bbox": [
+      363.7,
+      360.8,
+      539.2,
+      372.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b012",
+    "text": "Estos principios y las reglas relacionadas con ellos están recogidos en varios códigos de conducta",
+    "bbox": [
+      53.9,
+      393.0,
+      498.6,
+      406.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b013",
+    "text": "ampliamente reconocidos como los fundamentos de la práctica humanitaria ética, como la Carta",
+    "bbox": [
+      53.9,
+      406.2,
+      498.1,
+      420.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b014",
+    "text": "Humanitaria y las Normas Mínimas de Respuesta Humanitaria, que incluyen las Normas Esfera y los",
+    "bbox": [
+      53.9,
+      419.4,
+      508.9,
+      433.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b015",
+    "text": "Principios de Protección9, la Norma Humanitaria Esencial10 y el Código de Conducta de la Cruz Roja y las",
+    "bbox": [
+      53.9,
+      432.6,
+      529.0,
+      446.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b016",
+    "text": "ONG11. Aunque estos principios sirven como guías útiles para la toma de decisiones éticas, lo cierto es que",
+    "bbox": [
+      53.9,
+      445.8,
+      538.4,
+      459.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b017",
+    "text": "no pueden aplicarse de manera sencilla en la compleja gama de entornos en los que el personal humanitario",
+    "bbox": [
+      53.9,
+      459.0,
+      552.4,
+      472.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b018",
+    "text": "presta asistencia. Más bien, como señala Slim, \"suelen interpretarse desde dentro de una situación. Por lo",
+    "bbox": [
+      53.9,
+      472.2,
+      537.9,
+      486.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b019",
+    "text": "tanto, la ética humanitaria consiste en luchar por interpretar los límites éticos y equilibrar varios principios\"12",
+    "bbox": [
+      53.9,
+      485.4,
+      550.6,
+      499.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b020",
+    "text": "La interpretación de estos principios se hace más compleja y esencial en los ámbitos de la acción",
+    "bbox": [
+      53.9,
+      511.8,
+      497.6,
+      525.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b021",
+    "text": "humanitaria en los que faltan normativas claras y orientación específica para el sector. La gestión de datos",
+    "bbox": [
+      53.9,
+      525.0,
+      539.9,
+      538.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b022",
+    "text": "humanitarios es uno de esos ámbitos.",
+    "bbox": [
+      53.9,
+      538.2,
+      228.2,
+      552.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b023",
+    "text": "6   Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 40.",
+    "bbox": [
+      53.9,
+      669.2,
+      358.7,
+      677.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b024",
+    "text": "7    Ibid.",
+    "bbox": [
+      53.9,
+      681.2,
+      73.9,
+      689.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b025",
+    "text": "8   OCHA en Mensaje: Principios Humanitarios.",
+    "bbox": [
+      53.9,
+      693.1,
+      205.8,
+      701.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b026",
+    "text": "9   Fundación Esfera, 2018. El Manual Esfera: Carta Humanitaria y normas mínimas para la respuesta humanitaria en casos de catástrofe. Cuarta",
+    "bbox": [
+      53.9,
+      705.1,
+      525.5,
+      713.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b027",
+    "text": "edición.",
+    "bbox": [
+      53.9,
+      714.1,
+      85.7,
+      722.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b028",
+    "text": "10 CHS Alliance, Groupe URD y el Proyecto Esfera, 2014. La Norma Humanitaria Esencial: La Norma Humanitaria Esencial en materia de calidad y",
+    "bbox": [
+      53.9,
+      726.1,
+      529.4,
+      734.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b029",
+    "text": "rendición de cuentas.",
+    "bbox": [
+      53.9,
+      735.1,
+      130.4,
+      743.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b030",
+    "text": "11  Comité Internacional de la Cruz Roja y Federación Internacional de la Cruz Roja, 1994. Código de conducta relativo al socorro en casos de desastre",
+    "bbox": [
+      53.9,
+      747.1,
+      545.3,
+      755.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b031",
+    "text": "para el Movimiento Internacional de la Cruz Roja y las organizaciones no gubernamentales (ONG).",
+    "bbox": [
+      53.9,
+      756.1,
+      384.0,
+      764.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 3,
+    "block_id": "207_p3_b032",
+    "text": "12 Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 117.",
+    "bbox": [
+      53.9,
+      768.2,
+      358.5,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b003",
+    "text": "ÉTICA DE DATOS",
+    "bbox": [
+      53.3,
+      44.4,
+      151.9,
+      59.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b004",
+    "text": "La ética de datos ha surgido en los últimos años como un área específica de investigación y reflexión ética.",
+    "bbox": [
+      53.2,
+      69.1,
+      539.5,
+      82.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b005",
+    "text": "En un informe de 2017, el Open Data Institute (ODI) señaló la creciente importancia de la ética de los datos",
+    "bbox": [
+      53.2,
+      82.3,
+      539.6,
+      96.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b006",
+    "text": "en el discurso público. \"Cada vez más\", observa el ODI, \"los que recopilan, comparten y trabajan con datos",
+    "bbox": [
+      53.2,
+      95.5,
+      539.5,
+      109.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b007",
+    "text": "están explorando la ética de sus prácticas y, en algunos casos, se ven obligados a enfrentarse a esa ética",
+    "bbox": [
+      53.2,
+      108.7,
+      528.4,
+      122.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b008",
+    "text": "ante la opinión pública”13.",
+    "bbox": [
+      53.2,
+      121.6,
+      172.4,
+      135.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b009",
+    "text": "ASegún Luciano Floridi y Mariarosario Taddeo, \"la ética de datos puede definirse como una rama de la",
+    "bbox": [
+      53.2,
+      148.3,
+      519.9,
+      162.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b010",
+    "text": "ética que estudia y evalúa los problemas morales relacionados con datos (incluyendo su generación,",
+    "bbox": [
+      53.2,
+      161.5,
+      513.7,
+      175.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b011",
+    "text": "registro, conservación, procesamiento, difusión, intercambio y uso), algoritmos (incluyendo inteligencia",
+    "bbox": [
+      53.2,
+      174.7,
+      529.4,
+      188.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b012",
+    "text": "artificial, agentes artificiales, aprendizaje automático y robots) y sus correspondientes aplicaciones",
+    "bbox": [
+      53.2,
+      187.9,
+      507.3,
+      201.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b013",
+    "text": "(incluyendo innovación responsable, programación, piratería y códigos profesionales)”14. En la práctica, las",
+    "bbox": [
+      53.2,
+      201.1,
+      543.2,
+      214.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b014",
+    "text": "instituciones del sector público suelen enfocar la ética de datos como \"una rama de la ética que evalúa el",
+    "bbox": [
+      53.2,
+      214.3,
+      534.1,
+      228.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b015",
+    "text": "impacto potencial de los datos sobre las personas y la sociedad, ya sea en su recopilación, difusión o uso”15.",
+    "bbox": [
+      53.2,
+      227.2,
+      544.0,
+      241.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b016",
+    "text": "A medida que los datos se han ido convirtiendo en un elemento central del funcionamiento de las",
+    "bbox": [
+      53.2,
+      253.9,
+      500.3,
+      267.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b017",
+    "text": "instituciones públicas y privadas, las cuestiones relativas a la ética de datos se han hecho más comunes en",
+    "bbox": [
+      53.2,
+      267.1,
+      540.9,
+      280.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b018",
+    "text": "los debates sobre el impacto de los datos y la tecnología en la sociedad. Esto se aprecia sobre todo en los",
+    "bbox": [
+      53.2,
+      280.3,
+      533.9,
+      294.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b019",
+    "text": "debates mundiales sobre la ética de la Inteligencia Artificial (IA). En un análisis sobre el panorama de los",
+    "bbox": [
+      53.2,
+      293.5,
+      528.6,
+      307.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b020",
+    "text": "enfoques éticos de la IA a nivel mundial, publicado en septiembre de 2019, se identificó una \"convergencia",
+    "bbox": [
+      53.2,
+      306.7,
+      540.4,
+      320.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b021",
+    "text": "emergente en torno a cinco principios éticos (transparencia, justicia e imparcialidad, no maleficencia,",
+    "bbox": [
+      53.2,
+      319.9,
+      518.2,
+      333.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b022",
+    "text": "responsabilidad y privacidad), con una divergencia sustantiva en relación con la forma en que se",
+    "bbox": [
+      53.2,
+      333.1,
+      494.9,
+      346.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b023",
+    "text": "interpretan estos principios, por qué se consideran importantes, a qué tema, dominio o actores pertenecen",
+    "bbox": [
+      53.2,
+      346.3,
+      543.7,
+      360.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b024",
+    "text": "y cómo deben aplicarse”16. Sin embargo, por sí sola, la existencia de principios de alto nivel no garantiza",
+    "bbox": [
+      53.2,
+      359.5,
+      528.7,
+      373.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b025",
+    "text": "una reflexión y toma de decisiones éticas eficaces17.",
+    "bbox": [
+      53.2,
+      372.4,
+      288.9,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b026",
+    "text": "La ética humanitaria constituye una base más sólida para debatir las cuestiones relativas a la gestión ética",
+    "bbox": [
+      53.2,
+      399.1,
+      538.7,
+      412.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b027",
+    "text": "de datos con fines humanitarios que los diversos enfoques independientes de los distintos ámbitos de la",
+    "bbox": [
+      53.2,
+      412.3,
+      529.0,
+      426.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b028",
+    "text": "ética de datos aplicada. Los actuales modelos de ética humanitaria deben ampliarse para que el personal",
+    "bbox": [
+      53.2,
+      425.5,
+      535.8,
+      439.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b029",
+    "text": "y las organizaciones humanitarias puedan hacer frente a las nuevas complejidades que presenta la gestión",
+    "bbox": [
+      53.2,
+      438.7,
+      541.1,
+      452.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b030",
+    "text": "de datos.",
+    "bbox": [
+      53.2,
+      451.9,
+      95.3,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b031",
+    "text": "13  Open Data Institute, 2017. Helping organizations navigate ethical concerns in their data practices.",
+    "bbox": [
+      53.9,
+      720.0,
+      377.4,
+      728.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b032",
+    "text": "14  Luciano Floridi y Mariarosario Taddeo, 2016. What is data Ethics? Phil. Trans. R. Soc. A 374: 20160360.",
+    "bbox": [
+      53.9,
+      732.0,
+      386.9,
+      740.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b033",
+    "text": "15  Open Data Institute, 2017. Helping organizations navigate ethical concerns in their data practices.",
+    "bbox": [
+      53.9,
+      744.0,
+      377.7,
+      752.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b034",
+    "text": "16  Anna Jobin, Marcello Ienca y Effy Vayena, 2019. The global landscape of AI ethics guidelines. Nat Mach Intell 1, 389–399.",
+    "bbox": [
+      53.9,
+      756.0,
+      448.1,
+      764.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b035",
+    "text": "17  Brent Mittelstadt, 2019. Principles alone cannot guarantee ethical AI. Nat Mach Intell 1, 501–507 (2019).",
+    "bbox": [
+      53.9,
+      768.0,
+      389.1,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b036",
+    "text": "CONSIDERACIONES ÉTICAS PARA LA GESTIÓN DE DATOS HUMANITARIOS",
+    "bbox": [
+      53.1,
+      494.8,
+      499.0,
+      509.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b037",
+    "text": "El personal humanitario se enfrenta a decisiones difíciles a la hora de prestar asistencia y proporcionar",
+    "bbox": [
+      53.0,
+      519.5,
+      522.7,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b038",
+    "text": "protección a los grupos de población en crisis. Si bien estos problemas afectan a la acción humanitaria en su",
+    "bbox": [
+      53.0,
+      532.7,
+      549.0,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b039",
+    "text": "conjunto, muchos de ellos son especialmente importantes o se agravan en los proyectos relacionados con",
+    "bbox": [
+      53.0,
+      545.9,
+      538.9,
+      559.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b040",
+    "text": "datos. En la tabla que sigue se presentan algunos tipos comunes de dilemas éticos y se ofrecen ejemplos de",
+    "bbox": [
+      53.0,
+      559.1,
+      545.2,
+      572.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b041",
+    "text": "cómo pueden presentarse en la gestión de datos humanitarios. Al evaluar las dimensiones éticas de un",
+    "bbox": [
+      53.0,
+      572.3,
+      523.3,
+      586.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b042",
+    "text": "proyecto relacionado con datos, el personal humanitario debe tener en cuenta las dificultades que se",
+    "bbox": [
+      53.0,
+      585.5,
+      516.8,
+      599.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b043",
+    "text": "exponen a continuación, así como los problemas más comunes en materia de ética de datos (descritos con",
+    "bbox": [
+      53.0,
+      598.7,
+      541.6,
+      612.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b044",
+    "text": "más detalle en el recuadro anterior), entre las que se incluyen: imparcialidad, validez, sesgo, osificación,",
+    "bbox": [
+      53.0,
+      611.9,
+      529.8,
+      625.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 4,
+    "block_id": "207_p4_b045",
+    "text": "transparencia y explicabilidad, anonimato, privacidad y propiedad de datos e información.",
+    "bbox": [
+      53.0,
+      625.1,
+      466.4,
+      638.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b003",
+    "text": "18 Estos ejemplos se basan en el trabajo de Hugo Slim y Jennifer Rubenstein, véase Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in",
+    "bbox": [
+      53.9,
+      759.1,
+      532.6,
+      767.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b004",
+    "text": "War and Disaster, 117 y Jennifer Rubenstein, 2015. Between Samaritans and States, 10-15.",
+    "bbox": [
+      53.9,
+      768.1,
+      338.2,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-BookItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b005",
+    "text": "Conflictos éticos habituales",
+    "bbox": [
+      63.8,
+      45.1,
+      187.4,
+      56.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b006",
+    "text": "en la acción humanitaria18",
+    "bbox": [
+      63.8,
+      55.5,
+      181.1,
+      67.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b007",
+    "text": "Dificultad de asociación",
+    "bbox": [
+      64.3,
+      256.7,
+      165.6,
+      269.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b008",
+    "text": "El hecho de haber colaborado",
+    "bbox": [
+      64.3,
+      274.5,
+      184.1,
+      286.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b009",
+    "text": "con organizaciones de diversos",
+    "bbox": [
+      64.3,
+      285.9,
+      189.1,
+      297.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b010",
+    "text": "orígenes políticos, religiosos",
+    "bbox": [
+      64.3,
+      297.3,
+      178.5,
+      309.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b011",
+    "text": "o de otro tipo puede crear",
+    "bbox": [
+      64.3,
+      308.7,
+      168.7,
+      320.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b012",
+    "text": "tensiones con nuevos aliados.",
+    "bbox": [
+      64.3,
+      320.1,
+      182.6,
+      332.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b013",
+    "text": "Potencial daño o perjuicio de",
+    "bbox": [
+      64.3,
+      87.7,
+      186.8,
+      100.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b014",
+    "text": "la acción humanitaria",
+    "bbox": [
+      64.3,
+      98.7,
+      156.6,
+      111.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b015",
+    "text": "Daño directo o indirecto",
+    "bbox": [
+      64.3,
+      116.4,
+      161.5,
+      128.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b016",
+    "text": "causado por las actividades de",
+    "bbox": [
+      64.3,
+      127.8,
+      187.4,
+      139.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b017",
+    "text": "respuesta humanitaria.",
+    "bbox": [
+      64.3,
+      139.2,
+      156.0,
+      151.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b018",
+    "text": "Es necesario realizar una evaluación de las necesidades para definir las",
+    "bbox": [
+      215.3,
+      87.6,
+      496.2,
+      99.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b019",
+    "text": "actividades de respuesta. Aunque los datos recogidos durante la evaluación",
+    "bbox": [
+      215.3,
+      99.0,
+      515.4,
+      111.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b020",
+    "text": "permiten a las organizaciones humanitarias focalizar más eficazmente la",
+    "bbox": [
+      215.3,
+      110.4,
+      503.0,
+      122.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b021",
+    "text": "asistencia en función de las necesidades, también revelan las comunidades",
+    "bbox": [
+      215.3,
+      121.8,
+      514.1,
+      133.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b022",
+    "text": "en las que los habitantes han expresado opiniones desfavorables sobre las",
+    "bbox": [
+      215.3,
+      133.2,
+      510.7,
+      145.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b023",
+    "text": "autoridades locales. Las autoridades locales obtienen estos datos y excluyen",
+    "bbox": [
+      215.3,
+      144.6,
+      519.0,
+      156.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b024",
+    "text": "sistemáticamente a estas comunidades de futuras campañas de ayuda,",
+    "bbox": [
+      215.3,
+      156.0,
+      497.7,
+      168.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b025",
+    "text": "causando un daño directo. Esto compromete la protección de la vida y la",
+    "bbox": [
+      215.3,
+      167.4,
+      503.0,
+      179.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b026",
+    "text": "salud de ciertos miembros de la población y socava la independencia de",
+    "bbox": [
+      215.3,
+      178.8,
+      502.2,
+      190.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b027",
+    "text": "la respuesta en su conjunto. Aunque las organizaciones de ayuda no están",
+    "bbox": [
+      215.3,
+      190.2,
+      508.4,
+      202.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b028",
+    "text": "directamente implicadas en esta exclusión, el uso de los datos recogidos",
+    "bbox": [
+      215.3,
+      201.6,
+      502.4,
+      213.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b029",
+    "text": "por el personal humanitario con fines perversos puede comprometer su",
+    "bbox": [
+      215.3,
+      213.0,
+      500.2,
+      225.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b030",
+    "text": "neutralidad.",
+    "bbox": [
+      215.3,
+      224.4,
+      263.9,
+      236.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b031",
+    "text": "Escenarios en la gestión de datos humanitarios",
+    "bbox": [
+      215.8,
+      50.8,
+      423.8,
+      62.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b032",
+    "text": "Una organización humanitaria anuncia públicamente su asociación con  una",
+    "bbox": [
+      215.3,
+      256.3,
+      518.1,
+      268.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b033",
+    "text": "empresa tecnológica del sector privado que también ha prestado servicios",
+    "bbox": [
+      215.3,
+      267.7,
+      510.5,
+      279.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b034",
+    "text": "tecnológicos a agencias de inteligencia. Los grupos políticos locales que se",
+    "bbox": [
+      215.3,
+      279.1,
+      509.6,
+      291.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b035",
+    "text": "oponen a la presencia de la organización humanitaria utilizan su asociación",
+    "bbox": [
+      215.3,
+      290.5,
+      513.2,
+      302.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b036",
+    "text": "con dicha empresa para acusar a la organización humanitaria de espionaje.",
+    "bbox": [
+      215.3,
+      301.9,
+      511.9,
+      313.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b037",
+    "text": "Implicarse en esta controversia política pone en peligro la neutralidad",
+    "bbox": [
+      215.3,
+      313.3,
+      490.8,
+      325.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b038",
+    "text": "de la organización humanitaria.",
+    "bbox": [
+      215.3,
+      324.7,
+      340.2,
+      336.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b039",
+    "text": "Complicidad y trampa moral",
+    "bbox": [
+      64.3,
+      356.7,
+      182.9,
+      369.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b040",
+    "text": "Las organizaciones participan de",
+    "bbox": [
+      64.3,
+      374.5,
+      195.5,
+      386.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b041",
+    "text": "hecho en graves irregularidades,",
+    "bbox": [
+      64.3,
+      385.9,
+      194.7,
+      397.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b042",
+    "text": "intencionadamente o no, o se",
+    "bbox": [
+      64.3,
+      397.3,
+      183.4,
+      409.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b043",
+    "text": "encuentran \"atrapadas\" en",
+    "bbox": [
+      64.3,
+      408.7,
+      173.3,
+      420.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b044",
+    "text": "circunstancias en las que deben",
+    "bbox": [
+      64.3,
+      420.1,
+      192.0,
+      432.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b045",
+    "text": "sopesar entre seguir actuando",
+    "bbox": [
+      64.3,
+      431.5,
+      186.1,
+      443.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b046",
+    "text": "mal y \"el bien común\".",
+    "bbox": [
+      64.3,
+      442.9,
+      152.7,
+      454.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b047",
+    "text": "Como requisito para dejar entrar a los humanitarios en el país, las",
+    "bbox": [
+      215.3,
+      356.3,
+      475.7,
+      368.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b048",
+    "text": "autoridades locales exigen que se adopte un \"enfoque científico\". Exigen que",
+    "bbox": [
+      215.3,
+      367.7,
+      521.0,
+      379.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b049",
+    "text": "se desarrolle un modelo para predecir las necesidades humanitarias y que",
+    "bbox": [
+      215.3,
+      379.1,
+      511.2,
+      391.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b050",
+    "text": "se les incluya en el desarrollo de ese modelo. Las autoridades limitan el",
+    "bbox": [
+      215.3,
+      390.5,
+      498.3,
+      402.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b051",
+    "text": "conjunto de datos utilizados para diseñar el modelo de manera que se",
+    "bbox": [
+      215.3,
+      401.9,
+      493.5,
+      413.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b052",
+    "text": "obtengan resultados que pasen por alto las necesidades críticas de una",
+    "bbox": [
+      215.3,
+      413.3,
+      497.8,
+      425.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b053",
+    "text": "minoría oprimida. Esto socava la protección de la vida de la minoría en",
+    "bbox": [
+      215.3,
+      424.7,
+      495.6,
+      436.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b054",
+    "text": "cuestión y compromete la neutralidad e independencia de las organizaciones",
+    "bbox": [
+      215.3,
+      436.1,
+      522.0,
+      448.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b055",
+    "text": "humanitarias.",
+    "bbox": [
+      215.3,
+      447.5,
+      270.4,
+      459.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b056",
+    "text": "Obligación de proteger al",
+    "bbox": [
+      64.3,
+      480.0,
+      171.0,
+      492.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b057",
+    "text": "personal humanitario",
+    "bbox": [
+      64.3,
+      491.0,
+      155.1,
+      503.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b058",
+    "text": "Las organizaciones deben",
+    "bbox": [
+      64.3,
+      508.8,
+      168.2,
+      520.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b059",
+    "text": "encontrar un equilibrio entre su",
+    "bbox": [
+      64.3,
+      520.2,
+      191.4,
+      532.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b060",
+    "text": "obligación de prestar asistencia",
+    "bbox": [
+      64.3,
+      531.6,
+      190.9,
+      543.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b061",
+    "text": "a las poblaciones en zonas de",
+    "bbox": [
+      64.3,
+      543.0,
+      183.2,
+      555.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b062",
+    "text": "alto riesgo y su obligación de",
+    "bbox": [
+      64.3,
+      554.4,
+      180.4,
+      566.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b063",
+    "text": "garantizar la protección del",
+    "bbox": [
+      64.3,
+      565.8,
+      173.8,
+      577.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b064",
+    "text": "personal de primera línea.",
+    "bbox": [
+      64.3,
+      577.2,
+      167.8,
+      589.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b065",
+    "text": "An organization needs to conduct a rapid assessment in order to respond to",
+    "bbox": [
+      215.3,
+      479.9,
+      514.9,
+      491.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b066",
+    "text": "a displacement in a conflict zone. The data is expected to elicit a negative",
+    "bbox": [
+      215.3,
+      491.3,
+      505.1,
+      503.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b067",
+    "text": "reaction from the authorities given the nature of the conflict and sensitivity",
+    "bbox": [
+      215.3,
+      502.7,
+      512.8,
+      514.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b068",
+    "text": "of the humanitarian response in the region in question. While the head of",
+    "bbox": [
+      215.3,
+      514.1,
+      504.7,
+      526.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b069",
+    "text": "office understands that there is a risk of reprisal toward staff if they proceed",
+    "bbox": [
+      215.3,
+      525.5,
+      514.4,
+      537.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b070",
+    "text": "with the assessment, they also know that they cannot deliver assistance",
+    "bbox": [
+      215.3,
+      536.9,
+      500.7,
+      548.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b071",
+    "text": "without new data. This situation creates a tension between the need to",
+    "bbox": [
+      215.3,
+      548.3,
+      496.5,
+      560.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b072",
+    "text": "deliver assistance and the obligation to ensure staff safety.",
+    "bbox": [
+      215.3,
+      559.7,
+      445.1,
+      571.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b073",
+    "text": "Dilema coste-efectividad",
+    "bbox": [
+      64.3,
+      610.0,
+      167.7,
+      622.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b074",
+    "text": "Las organizaciones se esfuerzan",
+    "bbox": [
+      64.3,
+      627.8,
+      192.0,
+      639.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b075",
+    "text": "por lograr un equilibrio entre",
+    "bbox": [
+      64.3,
+      639.2,
+      180.7,
+      651.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b076",
+    "text": "hacer el mayor bien posible",
+    "bbox": [
+      64.3,
+      650.6,
+      175.2,
+      662.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b077",
+    "text": "y otras consideraciones,",
+    "bbox": [
+      64.3,
+      662.0,
+      161.2,
+      674.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b078",
+    "text": "como priorizar a los más",
+    "bbox": [
+      64.3,
+      673.4,
+      162.7,
+      685.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b079",
+    "text": "desfavorecidos, dar prioridad",
+    "bbox": [
+      64.3,
+      684.8,
+      182.6,
+      696.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b080",
+    "text": "a las víctimas de agresiones",
+    "bbox": [
+      64.3,
+      696.2,
+      175.8,
+      708.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b081",
+    "text": "intencionadas o seguir asistiendo",
+    "bbox": [
+      64.3,
+      707.6,
+      198.4,
+      719.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b082",
+    "text": "a los actuales beneficiados por",
+    "bbox": [
+      64.3,
+      719.0,
+      188.0,
+      731.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b083",
+    "text": "la ayuda.",
+    "bbox": [
+      64.3,
+      730.4,
+      100.2,
+      742.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b084",
+    "text": "Se desarrolla un modelo para predecir la evolución de las necesidades",
+    "bbox": [
+      215.3,
+      610.4,
+      494.3,
+      622.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b085",
+    "text": "humanitarias. El modelo es muy eficaz para predecir las necesidades de",
+    "bbox": [
+      215.3,
+      621.8,
+      499.6,
+      633.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b086",
+    "text": "la mayor parte de la población, lo que supone un importante aumento",
+    "bbox": [
+      215.3,
+      633.2,
+      494.5,
+      645.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b087",
+    "text": "de la eficacia. Sin embargo, las comunidades menos visibles en los datos",
+    "bbox": [
+      215.3,
+      644.6,
+      503.4,
+      656.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b088",
+    "text": "pasan a estar estructuralmente desfavorecidas, creando una población",
+    "bbox": [
+      215.3,
+      656.0,
+      496.9,
+      668.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b089",
+    "text": "algorítmicamente segmentada que sigue estando desatendida. Al obviar",
+    "bbox": [
+      215.3,
+      667.4,
+      502.7,
+      679.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b090",
+    "text": "las necesidades de un grupo concreto, se socava la imparcialidad de",
+    "bbox": [
+      215.3,
+      678.8,
+      485.6,
+      690.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b091",
+    "text": "la respuesta, se pone en duda la independencia de las organizaciones",
+    "bbox": [
+      215.3,
+      690.2,
+      491.2,
+      702.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b092",
+    "text": "de respuesta y se pone en peligro la vida y la salud del grupo o grupos",
+    "bbox": [
+      215.3,
+      701.6,
+      491.8,
+      713.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 5,
+    "block_id": "207_p5_b093",
+    "text": "infrarrepresentados o ausentes en los datos.",
+    "bbox": [
+      215.3,
+      713.0,
+      390.2,
+      725.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b003",
+    "text": "1. ESTABLECER CÓDIGOS DE CONDUCTA CLAROS PARA LA GESTIÓN ÉTICA DE DATOS",
+    "bbox": [
+      53.2,
+      293.7,
+      511.3,
+      307.0
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b004",
+    "text": "A pesar de la existencia de principios y códigos de conducta aplicables a todos los sectores, el personal",
+    "bbox": [
+      53.5,
+      316.9,
+      523.8,
+      330.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b005",
+    "text": "humanitario carece de una orientación clara sobre sus obligaciones éticas específicas en relación con la",
+    "bbox": [
+      53.5,
+      330.1,
+      527.7,
+      344.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b006",
+    "text": "gestión de datos. Las organizaciones necesitan aclarar y conseguir el entendimiento colectivo sobre cómo",
+    "bbox": [
+      53.5,
+      343.3,
+      537.7,
+      357.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b007",
+    "text": "se aplican los principios humanitarios y los diferentes valores institucionales al trabajo relacionado con",
+    "bbox": [
+      53.5,
+      356.5,
+      526.6,
+      370.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b008",
+    "text": "datos.",
+    "bbox": [
+      53.5,
+      369.7,
+      84.1,
+      383.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b009",
+    "text": "Hasta la fecha, la mayoría de las organizaciones se han centrado en establecer políticas sobre cuestiones",
+    "bbox": [
+      53.5,
+      395.9,
+      532.4,
+      409.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b010",
+    "text": "específicas como la protección y la privacidad de datos, mientras que el conjunto más amplio de",
+    "bbox": [
+      53.5,
+      408.9,
+      494.9,
+      422.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b011",
+    "text": "consideraciones éticas sigue estando mal definido y no se aborda de manera suficiente. Dos notables",
+    "bbox": [
+      53.5,
+      421.9,
+      516.3,
+      435.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b012",
+    "text": "excepciones a esto que pueden servir de inspiración para las organizaciones en la definición de sus",
+    "bbox": [
+      53.5,
+      434.9,
+      505.9,
+      448.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b013",
+    "text": "propios códigos de conducta ética para la gestión de datos son la nota orientativa del Grupo de las",
+    "bbox": [
+      53.5,
+      447.9,
+      503.1,
+      461.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b014",
+    "text": "Naciones Unidas para el Desarrollo (UNDG) sobre \"Confidencialidad, ética y protección de datos: big",
+    "bbox": [
+      53.5,
+      460.9,
+      511.8,
+      474.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b015",
+    "text": "data para el logro de la agenda 203020\", y el Código Signal: obligaciones éticas para actividades",
+    "bbox": [
+      53.5,
+      474.1,
+      482.9,
+      488.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b016",
+    "text": "humanitarias21 del programa Signal de seguridad y tecnología humana.",
+    "bbox": [
+      53.5,
+      487.1,
+      379.8,
+      501.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b017",
+    "text": "•\t La nota orientativa de UNDG ofrece un enfoque de big data basado no solo en la privacidad, sino",
+    "bbox": [
+      64.8,
+      511.5,
+      517.1,
+      525.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b018",
+    "text": "también en las obligaciones éticas y morales relativas al uso de datos en contextos humanitarios y de",
+    "bbox": [
+      76.2,
+      524.7,
+      538.8,
+      538.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b019",
+    "text": "desarrollo. Ofrece un conjunto de principios y anima a las organizaciones a adaptarlos bajo la forma",
+    "bbox": [
+      76.2,
+      537.9,
+      533.6,
+      551.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b020",
+    "text": "de directrices operativas que tengan en cuenta la aplicación de sus respectivos protocolos, así como",
+    "bbox": [
+      76.2,
+      551.1,
+      534.6,
+      565.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b021",
+    "text": "sus reglamentos, normas y políticas existentes en relación con la privacidad, la protección, la ética y la",
+    "bbox": [
+      76.2,
+      564.3,
+      543.9,
+      578.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b022",
+    "text": "seguridad de datos.",
+    "bbox": [
+      76.2,
+      577.5,
+      168.5,
+      591.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b023",
+    "text": "•\t El Código Signal traduce y aplica las bases de la práctica humanitaria ética a las denominadas",
+    "bbox": [
+      64.8,
+      601.7,
+      504.3,
+      615.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b024",
+    "text": "actividades de información humanitaria, que incluyen la recogida, el almacenamiento y el análisis",
+    "bbox": [
+      76.2,
+      614.9,
+      525.4,
+      628.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b025",
+    "text": "de datos. Enuncia nueve obligaciones diseñadas para ayudar a las organizaciones a comprender los",
+    "bbox": [
+      76.2,
+      628.1,
+      532.7,
+      642.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b026",
+    "text": "riesgos y mitigar los daños relacionados con el ciclo de vida de los datos cuando participan en dichas",
+    "bbox": [
+      76.2,
+      641.3,
+      538.7,
+      655.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b027",
+    "text": "actividades de información humanitaria.",
+    "bbox": [
+      76.2,
+      654.5,
+      262.0,
+      668.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b028",
+    "text": "19 Asociación Internacional de Profesionales en Asistencia y Protección Humanitaria (PHAP), Code of Ethics.",
+    "bbox": [
+      53.9,
+      743.9,
+      407.1,
+      752.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b029",
+    "text": "20 UN Global Pulse, 2017. “Data Privacy, Ethics and Protection: Big Data for the achievement of the 2030 Agenda”.",
+    "bbox": [
+      53.9,
+      755.9,
+      419.9,
+      764.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b030",
+    "text": "21  Programa Signal de seguridad y tecnología humana, 2018. “The Signal Code: Ethical Obligations for Humanitarian Information Activities”.",
+    "bbox": [
+      53.9,
+      767.9,
+      510.8,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b031",
+    "text": "RECOMENDACIONES PARA MEJORAR LA REFLEXIÓN ÉTICA Y LA TOMA DE",
+    "bbox": [
+      53.4,
+      40.3,
+      500.0,
+      55.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b032",
+    "text": "DECISIONES EN LA GESTIÓN DE DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      53.5,
+      389.2,
+      68.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b033",
+    "text": "Cuando se enfrentan a los diferentes dilemas que pueden surgir en los proyectos relacionados con datos,",
+    "bbox": [
+      53.4,
+      79.0,
+      534.5,
+      92.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b034",
+    "text": "los agentes humanitarios deben interpretar los límites éticos y equilibrar los diversos principios en los que",
+    "bbox": [
+      53.4,
+      92.2,
+      539.3,
+      106.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b035",
+    "text": "se basa la buena práctica para determinar el curso de acción adecuado. Como se reconoce en el Código",
+    "bbox": [
+      53.4,
+      105.4,
+      526.3,
+      119.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b036",
+    "text": "de Ética y Conducta Profesional de la Asociación Internacional de Profesionales en Asistencia y Protección",
+    "bbox": [
+      53.4,
+      118.6,
+      538.7,
+      132.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b037",
+    "text": "Humanitaria (PHAP), \"la mejor manera de responder a las cuestiones relacionadas con los dilemas éticos es",
+    "bbox": [
+      53.4,
+      131.8,
+      545.9,
+      145.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b038",
+    "text": "mediante la reflexión de los principios fundamentales, en lugar de basarse en regulaciones detalladas”19.",
+    "bbox": [
+      53.4,
+      144.8,
+      531.4,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b039",
+    "text": "El Centro de Datos Humanitarios (el Centro) recomienda que las organizaciones inviertan en tres áreas para",
+    "bbox": [
+      53.4,
+      171.4,
+      544.4,
+      185.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b040",
+    "text": "mejorar la reflexión ética y la toma de decisiones en la gestión de datos humanitarios:",
+    "bbox": [
+      53.4,
+      184.6,
+      443.8,
+      198.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b041",
+    "text": "1.\tEstablecer códigos de conducta claros para la gestión ética de datos.",
+    "bbox": [
+      64.7,
+      206.4,
+      403.6,
+      221.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b042",
+    "text": "2.\tApoyar al personal para que identifique, comprenda y analice temas éticos utilizando",
+    "bbox": [
+      64.7,
+      227.6,
+      488.0,
+      242.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b043",
+    "text": "herramientas comunes.",
+    "bbox": [
+      76.0,
+      240.8,
+      190.4,
+      255.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 6,
+    "block_id": "207_p6_b044",
+    "text": "3.\tImplementar \"auditorías éticas\" como parte de la práctica habitual.",
+    "bbox": [
+      64.7,
+      262.0,
+      403.9,
+      276.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b003",
+    "text": "22 Hugo Slim, 2015. Humanitarian Ethics: A Guide to the Morality of Aid in War and Disaster, 143-144.",
+    "bbox": [
+      53.7,
+      735.0,
+      373.2,
+      743.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b004",
+    "text": "23 For more on IHL, see: https://www.icrc.org/en/war-and-law. For more on refugee law, see: https://phap.org/PHAP/Themes/Law_and_protection/IRL/",
+    "bbox": [
+      53.7,
+      746.9,
+      541.3,
+      755.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b005",
+    "text": "PHAP/Themes/IRL.aspx. For more on disaster law, see: https://media.ifrc.org/ifrc/what-we-do/disaster-law/.",
+    "bbox": [
+      53.7,
+      755.9,
+      409.9,
+      764.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b006",
+    "text": "24 Open Data Institute, Data Ethics Canvas.",
+    "bbox": [
+      53.7,
+      767.9,
+      190.1,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b007",
+    "text": "3. IMPLEMENTAR “AUDITORÍAS ÉTICAS” COMO PARTE DE LA PRÁCTICA HABITUAL",
+    "bbox": [
+      53.4,
+      541.8,
+      495.9,
+      555.1
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b008",
+    "text": "Para complementar el proceso de reflexión ética en los equipos de trabajo y en el conjunto de la",
+    "bbox": [
+      54.3,
+      565.0,
+      492.8,
+      578.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b009",
+    "text": "organización, hay que contemplar la posibilidad de establecer mecanismos de control de calidad que",
+    "bbox": [
+      54.3,
+      578.2,
+      518.2,
+      592.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b010",
+    "text": "ayuden a \" hacer cumplir\" el procedimiento de diseño y toma de decisiones éticas en función de un",
+    "bbox": [
+      54.3,
+      591.4,
+      508.8,
+      605.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b011",
+    "text": "conjunto de criterios comunes. Una forma de hacerlo es implementar \"auditorías éticas\" como parte de las",
+    "bbox": [
+      54.3,
+      604.6,
+      543.6,
+      618.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b012",
+    "text": "prácticas estándar de gestión de datos. Estas auditorías son especialmente útiles en las áreas de la ciencia",
+    "bbox": [
+      54.3,
+      617.8,
+      539.8,
+      631.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b013",
+    "text": "de datos más innovadoras, para las que todavía están surgiendo normas y estándares profesionales y para",
+    "bbox": [
+      54.3,
+      631.0,
+      540.5,
+      644.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b014",
+    "text": "las que los diferentes desafíos éticos no son tan conocidos.",
+    "bbox": [
+      54.3,
+      644.2,
+      323.0,
+      658.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b015",
+    "text": "Como se explica en una nota orientativa de 2017 de la Asociación Internacional de Profesionales de la",
+    "bbox": [
+      54.3,
+      669.4,
+      519.1,
+      683.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b016",
+    "text": "Privacidad y UN Global Pulse, “existen varios modelos que pueden complementar los procesos de toma",
+    "bbox": [
+      54.3,
+      682.6,
+      527.9,
+      696.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b017",
+    "text": "de decisiones de las organizaciones para abordar este nuevo campo de la ética de datos. Estos modelos",
+    "bbox": [
+      54.3,
+      695.8,
+      528.3,
+      709.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b018",
+    "text": "ofrecen diferentes perspectivas y opciones de gestión a las organizaciones que se enfrentan a cuestiones",
+    "bbox": [
+      54.3,
+      709.0,
+      530.9,
+      722.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b019",
+    "text": "2. APOYAR AL PERSONAL PARA QUE IDENTIFIQUE, COMPRENDA Y ANALICE TEMAS ÉTICOS",
+    "bbox": [
+      53.9,
+      44.9,
+      555.4,
+      58.2
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b020",
+    "text": "UTILIZANDO HERRAMIENTAS COMUNES",
+    "bbox": [
+      53.9,
+      59.9,
+      283.7,
+      73.2
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b021",
+    "text": "La mayoría de las organizaciones humanitarias no cuentan con personal responsable de garantizar que",
+    "bbox": [
+      54.0,
+      83.2,
+      526.3,
+      97.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b022",
+    "text": "las intervenciones se diseñen y realicen de forma ética. Se espera que el personal de las organizaciones",
+    "bbox": [
+      54.0,
+      96.4,
+      526.1,
+      110.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b023",
+    "text": "humanitarias comprenda y respete los principios humanitarios y los códigos de conducta relacionados",
+    "bbox": [
+      54.0,
+      109.6,
+      524.2,
+      123.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b024",
+    "text": "con ellos en el desempeño de sus respectivas funciones, a menudo sin ninguna formación u orientación",
+    "bbox": [
+      54.0,
+      122.8,
+      529.1,
+      136.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b025",
+    "text": "formal sobre el tema. Medidas sencillas como establecer un listado de control ético y apoyar el uso de",
+    "bbox": [
+      54.0,
+      136.0,
+      519.0,
+      149.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b026",
+    "text": "herramientas de diseño ético pueden ayudar al personal a identificar, comprender y analizar con más",
+    "bbox": [
+      54.0,
+      149.2,
+      517.7,
+      163.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b027",
+    "text": "confianza las cuestiones éticas que puedan surgir en su trabajo.",
+    "bbox": [
+      54.0,
+      162.4,
+      343.9,
+      176.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b028",
+    "text": "El personal humanitario puede utilizar las siguientes preguntas a la hora de considerar las dimensiones",
+    "bbox": [
+      54.0,
+      188.8,
+      526.2,
+      202.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b029",
+    "text": "éticas de una determinada intervención22:",
+    "bbox": [
+      54.0,
+      202.0,
+      245.4,
+      215.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b030",
+    "text": "•\t ¿Estamos respetando los principios humanitarios fundamentales y el Código de Conducta?",
+    "bbox": [
+      65.3,
+      223.2,
+      490.7,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b031",
+    "text": "•\t .¿Es probable que potenciemos acciones que se ajusten o incumplan el Derecho Internacional",
+    "bbox": [
+      65.3,
+      244.4,
+      503.9,
+      258.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b032",
+    "text": "Humanitario, el derecho de los refugiados y el derecho de catástrofes23?",
+    "bbox": [
+      76.6,
+      257.6,
+      403.2,
+      271.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b033",
+    "text": "•\t .¿Es probable que incrementemos o disminuyamos la capacidad de los profesionales humanitarios de",
+    "bbox": [
+      65.3,
+      278.8,
+      540.8,
+      292.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b034",
+    "text": "cumplir las Normas Esfera?",
+    "bbox": [
+      76.7,
+      292.0,
+      200.5,
+      305.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b035",
+    "text": "•\t ¿Es probable que mejoremos o empeoremos la dignidad y las condiciones de la población objetivo?",
+    "bbox": [
+      65.3,
+      313.2,
+      531.5,
+      327.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b036",
+    "text": "•\t ¿Es probable que incrementemos o disminuyamos nuestra capacidad de cumplir con los principios",
+    "bbox": [
+      65.3,
+      334.4,
+      530.1,
+      348.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b037",
+    "text": "de la buena gestión humanitaria?",
+    "bbox": [
+      76.7,
+      347.6,
+      229.1,
+      361.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b038",
+    "text": "•\t ¿Podrán los afectados entender y respetar nuestra decisión?",
+    "bbox": [
+      65.3,
+      368.8,
+      350.9,
+      382.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b039",
+    "text": "Estas preguntas pueden aplicarse fácilmente a los proyectos de datos humanitarios y servir de base sólida",
+    "bbox": [
+      54.0,
+      394.0,
+      539.3,
+      407.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b040",
+    "text": "para la deliberación colectiva de las cuestiones éticas que puedan surgir en ellos.",
+    "bbox": [
+      54.0,
+      407.2,
+      425.3,
+      421.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b041",
+    "text": "Las organizaciones también pueden considerar utilizar herramientas de diseño ético más adaptadas a los",
+    "bbox": [
+      54.0,
+      432.4,
+      535.9,
+      446.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b042",
+    "text": "proyectos relacionados con datos. Un ejemplo es el \"Data Ethics Canvas\" del Open Data Institute. Como",
+    "bbox": [
+      54.0,
+      444.4,
+      528.1,
+      458.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b043",
+    "text": "explica el ODI, “el Data Ethics Canvas es una herramienta que ayuda a cualquiera que recopile, comparta o",
+    "bbox": [
+      54.0,
+      457.6,
+      540.0,
+      471.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b044",
+    "text": "utilice datos a identificar y gestionar las cuestiones éticas en todas las fases de un proyecto. Está diseñado",
+    "bbox": [
+      54.0,
+      470.8,
+      539.1,
+      484.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b045",
+    "text": "como un marco flexible para desarrollar una orientación ética que se adapte a cualquier contexto”24. Como",
+    "bbox": [
+      54.0,
+      484.0,
+      542.3,
+      497.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b046",
+    "text": "tal, puede ser un punto de partida útil para las organizaciones humanitarias que deseen gestionar de",
+    "bbox": [
+      54.0,
+      497.2,
+      515.4,
+      511.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 7,
+    "block_id": "207_p7_b047",
+    "text": "forma más sistemática los aspectos éticos del trabajo relacionado con datos.",
+    "bbox": [
+      54.0,
+      510.4,
+      403.4,
+      524.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b003",
+    "text": "25 AIPP y UN Global Pulse, Building Ethics into Privacy Frameworks for Big Data and AI.",
+    "bbox": [
+      53.7,
+      732.0,
+      338.8,
+      740.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b004",
+    "text": "26 Ibid.",
+    "bbox": [
+      53.7,
+      744.1,
+      74.4,
+      752.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b005",
+    "text": "27 Estos elementos son una adaptación del enfoque de la auditoría algorítmica recomendado por O’Neil Risk Consulting & Algorithmic Auditing (ORCAA).",
+    "bbox": [
+      53.7,
+      756.1,
+      530.7,
+      764.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b006",
+    "text": "28 Cathy O’Neil, 2016. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy.",
+    "bbox": [
+      53.7,
+      768.1,
+      413.1,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b007",
+    "text": "Destacado: La ética como componente central de la revisión por pares para el análisis predictivo",
+    "bbox": [
+      67.0,
+      273.3,
+      491.5,
+      285.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b008",
+    "text": "El Centro ha establecido un marco de revisión por pares para el análisis predictivo en la respuesta",
+    "bbox": [
+      67.0,
+      296.9,
+      481.1,
+      309.8
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b009",
+    "text": "humanitaria. El objetivo del proceso de revisión por pares es crear normas y procesos para el uso de modelos en",
+    "bbox": [
+      67.0,
+      308.9,
+      534.4,
+      321.8
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b010",
+    "text": "el sector humanitario. El marco de revisión por pares del Centro se centra en el desarrollo y los resultados de los",
+    "bbox": [
+      67.0,
+      321.1,
+      532.3,
+      333.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b011",
+    "text": "modelos predictivos. Tiene en cuenta el rigor técnico de un modelo, su preparación operativa y las cuestiones",
+    "bbox": [
+      67.0,
+      333.1,
+      523.1,
+      345.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b012",
+    "text": "éticas relacionadas. A través de la revisión por pares, el Centro trata de garantizar que los modelos puedan ser",
+    "bbox": [
+      67.0,
+      345.1,
+      524.6,
+      357.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b013",
+    "text": "comprendidos y sean de confianza para todas las partes interesadas, incluidas las personas afectadas.",
+    "bbox": [
+      67.0,
+      357.1,
+      492.1,
+      369.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b014",
+    "text": "La revisión ética implica identificar a todas las partes interesadas y sus inquietudes en relación con la forma en",
+    "bbox": [
+      67.0,
+      381.1,
+      527.4,
+      393.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b015",
+    "text": "que podría utilizarse el modelo. Por ejemplo, podría ser necesario ajustar un modelo en un escenario en el que",
+    "bbox": [
+      67.0,
+      393.1,
+      527.0,
+      405.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b016",
+    "text": "un falso negativo fuera inaceptable para las poblaciones afectadas o un falso positivo fuera inaceptable para un",
+    "bbox": [
+      67.0,
+      405.1,
+      530.1,
+      417.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b017",
+    "text": "donante. Las consideraciones éticas de un determinado modelo se evaluarán utilizando la Matriz Ética extraída",
+    "bbox": [
+      67.0,
+      417.1,
+      528.5,
+      429.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b018",
+    "text": "del trabajo de Cathy O'Neil28.",
+    "bbox": [
+      67.0,
+      429.1,
+      189.8,
+      443.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b019",
+    "text": "Se anima a las organizaciones a que compartan con el Centro su experiencia en la resolución de dilemas",
+    "bbox": [
+      53.5,
+      463.3,
+      526.7,
+      477.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b020",
+    "text": "éticos en la gestión de datos a través de centrehumdata@un.org.",
+    "bbox": [
+      53.5,
+      476.3,
+      350.8,
+      490.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b021",
+    "text": "éticas de peso o al tratamiento a gran escala de datos sensibles”25. éticas de peso o al tratamiento a gran",
+    "bbox": [
+      53.9,
+      45.8,
+      531.2,
+      59.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b022",
+    "text": "escala de datos sensibles”25. Las auditorías éticas pueden realizarse a través de organismos internos,",
+    "bbox": [
+      53.9,
+      59.0,
+      514.4,
+      72.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b023",
+    "text": "externos o una combinación de ambos26.",
+    "bbox": [
+      53.9,
+      72.2,
+      242.1,
+      86.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b024",
+    "text": "Independientemente del enfoque que se adopte para implementar las auditorías éticas, el proceso debe",
+    "bbox": [
+      53.9,
+      97.4,
+      533.7,
+      111.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b025",
+    "text": "incluir los siguientes elementos27:",
+    "bbox": [
+      53.9,
+      110.6,
+      207.3,
+      124.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b026",
+    "text": "•\t .Identificar a las partes interesadas afectadas por la gestión de datos en cuestión.",
+    "bbox": [
+      65.2,
+      131.8,
+      443.6,
+      145.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b027",
+    "text": "•\t Promover una conversación entre personas que puedan representar a los distintos grupos de",
+    "bbox": [
+      65.2,
+      153.0,
+      503.7,
+      166.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b028",
+    "text": "interesados y comentar sus preocupaciones, positivas y negativas, sobre la práctica en cuestión (por",
+    "bbox": [
+      76.5,
+      166.2,
+      535.3,
+      180.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b029",
+    "text": "ejemplo, cómo funciona el algoritmo de un modelo predictivo, cómo se procesan sus datos en una",
+    "bbox": [
+      76.5,
+      179.4,
+      527.5,
+      193.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b030",
+    "text": "encuesta a gran escala, etc.).",
+    "bbox": [
+      76.5,
+      192.6,
+      207.2,
+      206.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b031",
+    "text": "•\t Priorizar las preocupaciones en función de las aportaciones de las partes interesadas.",
+    "bbox": [
+      65.2,
+      213.8,
+      471.2,
+      227.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 8,
+    "block_id": "207_p8_b032",
+    "text": "•\t Desarrollar pautas y otras medidas para abordar y remediar las preocupaciones identificadas.",
+    "bbox": [
+      65.2,
+      233.0,
+      503.6,
+      246.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b002",
+    "text": "ENERO 2020",
+    "bbox": [
+      276.7,
+      791.9,
+      318.0,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b003",
+    "text": "Este proyecto está",
+    "bbox": [
+      54.0,
+      741.9,
+      113.3,
+      751.6
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b004",
+    "text": "cofinanciado por la Unión",
+    "bbox": [
+      54.0,
+      751.1,
+      137.7,
+      760.7
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b005",
+    "text": "Europea",
+    "bbox": [
+      54.0,
+      760.3,
+      80.7,
+      769.9
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b006",
+    "text": "El presente documento abarca actividades de ayuda humanitaria realizadas con la ayuda financiera de la",
+    "bbox": [
+      145.0,
+      682.4,
+      538.2,
+      693.7
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b007",
+    "text": "Unión Europea. Las opiniones expresadas en él no deben considerarse, en modo alguno, como la opinión",
+    "bbox": [
+      145.0,
+      693.2,
+      539.4,
+      704.5
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b008",
+    "text": "oficial de la Unión Europea, y la Comisión Europea no es responsable del uso que pueda hacerse de la",
+    "bbox": [
+      145.0,
+      704.0,
+      525.8,
+      715.3
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b009",
+    "text": "información que contiene.",
+    "bbox": [
+      145.0,
+      714.8,
+      243.8,
+      726.1
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b010",
+    "text": "El Centro Para Los Datos Humanitarios, (‘El Centro’), en colaboración con socios destacados, está publicando,",
+    "bbox": [
+      65.5,
+      528.9,
+      524.6,
+      542.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b011",
+    "text": "en el curso de 2019 y 2020, una serie de ocho guías explicativas sobre la responsabilidad de datos en la acción",
+    "bbox": [
+      65.5,
+      541.3,
+      521.7,
+      554.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b012",
+    "text": "humanitaria. Estas guías son la continuación de la publicación del borrador de trabajo de las Directrices de",
+    "bbox": [
+      65.5,
+      553.1,
+      514.3,
+      566.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b013",
+    "text": "Responsabilidad de Datos de la OCHA en marzo de 2019.",
+    "bbox": [
+      65.5,
+      565.1,
+      305.0,
+      578.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b014",
+    "text": "El Centro pretende, a través de estas guías, proporcionar orientación adicional sobre cuestiones, procesos",
+    "bbox": [
+      65.5,
+      589.3,
+      506.8,
+      602.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b015",
+    "text": "y herramientas específicas en materia de responsabilidad de los datos en la práctica. Esto ha sido posible",
+    "bbox": [
+      65.5,
+      601.3,
+      503.0,
+      614.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b016",
+    "text": "gracias al generoso apoyo de la Dirección General de Protección Civil y Operaciones de Ayuda Humanitaria de",
+    "bbox": [
+      65.5,
+      613.3,
+      520.8,
+      626.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b017",
+    "text": "la Unión Europea (DG ECHO). La presente guía ha sido elaborada en colaboración con O'Neil Risk Consulting &",
+    "bbox": [
+      65.5,
+      625.3,
+      523.5,
+      638.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b018",
+    "text": "Algorithmic Auditing, el Tilburg Institute for Law, Technology, and Society, y el International Organisation for",
+    "bbox": [
+      65.5,
+      637.3,
+      516.0,
+      650.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b019",
+    "text": "Migration Data Science and Ethics Group.",
+    "bbox": [
+      65.5,
+      649.3,
+      235.9,
+      662.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b020",
+    "text": "CON LA COLABORACIÓN DE: O'NEIL RISK CONSULTING & ALGORITHMIC AUDITING (ORCAA); TILBURG INSTITUTE",
+    "bbox": [
+      53.9,
+      476.1,
+      526.1,
+      489.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b021",
+    "text": "FOR LAW, TECHNOLOGY, AND SOCIETY (TILT); INTERNATIONAL ORGANIZATION FOR MIGRATION (IOM) DATA",
+    "bbox": [
+      53.9,
+      488.1,
+      506.3,
+      501.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "207",
+    "page_number": 9,
+    "block_id": "207_p9_b022",
+    "text": "SCIENCE AND ETHICS GROUP (DSEG).",
+    "bbox": [
+      53.9,
+      500.1,
+      212.3,
+      513.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  }
+]

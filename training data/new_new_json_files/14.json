@@ -1,0 +1,3257 @@
+[
+  {
+    "pdf_id": "14",
+    "page_number": 1,
+    "block_id": "14_p1_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b002",
+    "text": "About this series: The climate crisis is intensifying humanitarian emergencies around the world and",
+    "bbox": [
+      54.0,
+      50.9,
+      512.5,
+      64.7
+    ],
+    "font_size": 10.5,
+    "font_name": "OpenSans-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b003",
+    "text": "humanitarians are increasingly having to incorporate climate data and forecasts into their analysis",
+    "bbox": [
+      54.0,
+      63.5,
+      513.5,
+      77.3
+    ],
+    "font_size": 10.5,
+    "font_name": "OpenSans-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b004",
+    "text": "and planning. This guidance series has been developed to help humanitarians to access, analyze and",
+    "bbox": [
+      54.0,
+      76.1,
+      521.6,
+      89.9
+    ],
+    "font_size": 10.5,
+    "font_name": "OpenSans-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b005",
+    "text": "interpret common types of climate and weather data, and to provide a common language for working",
+    "bbox": [
+      54.0,
+      88.7,
+      526.4,
+      102.5
+    ],
+    "font_size": 10.5,
+    "font_name": "OpenSans-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b006",
+    "text": "with meteorological and hydrological services.",
+    "bbox": [
+      54.0,
+      101.3,
+      266.5,
+      115.1
+    ],
+    "font_size": 10.5,
+    "font_name": "OpenSans-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b007",
+    "text": "•\t Observational rainfall data such as CHIRPS or ARC2 captures how much rain has fallen over a",
+    "bbox": [
+      53.9,
+      189.4,
+      543.3,
+      203.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b008",
+    "text": "defined period of time.",
+    "bbox": [
+      65.2,
+      202.6,
+      182.8,
+      217.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b009",
+    "text": "•\t The rainfall is measured at weather stations or estimated through satellite or radar imagery.",
+    "bbox": [
+      53.9,
+      229.0,
+      536.4,
+      243.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b010",
+    "text": "•\t The data can be presented as the total amount of rainfall observed over the period of time,",
+    "bbox": [
+      53.9,
+      253.2,
+      533.9,
+      267.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b011",
+    "text": "or as below, at or above normal conditions.",
+    "bbox": [
+      65.2,
+      266.4,
+      289.9,
+      280.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b012",
+    "text": "•\t Datasets that combine station data and satellite or radar imagery are the recommended",
+    "bbox": [
+      53.9,
+      290.6,
+      519.5,
+      305.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b013",
+    "text": "source of data for humanitarian purposes.",
+    "bbox": [
+      65.2,
+      303.8,
+      282.6,
+      318.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b014",
+    "text": "•\t Observational rainfall data can be analyzed to answer a range of questions, such as:",
+    "bbox": [
+      53.9,
+      330.2,
+      494.1,
+      344.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b015",
+    "text": "•\t What areas are currently affected by drought, and how severely?",
+    "bbox": [
+      65.2,
+      352.2,
+      406.7,
+      366.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b016",
+    "text": "•\t What was the duration of the longest dry spell during the past rainy season?",
+    "bbox": [
+      65.2,
+      374.2,
+      465.7,
+      388.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b017",
+    "text": "•\t How many days of heavy rainfall were there in the week leading up to the floods?",
+    "bbox": [
+      65.2,
+      396.2,
+      491.7,
+      410.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b018",
+    "text": "•\t Which area received the most rain last month?",
+    "bbox": [
+      65.2,
+      418.2,
+      314.4,
+      432.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b019",
+    "text": "•\t How often does an area experience dry spells?",
+    "bbox": [
+      65.2,
+      440.2,
+      314.6,
+      454.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b020",
+    "text": "•\t How does this year’s rainfall compare to previous years?",
+    "bbox": [
+      65.2,
+      462.2,
+      364.0,
+      476.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b021",
+    "text": "Key takeaways",
+    "bbox": [
+      53.9,
+      142.4,
+      205.7,
+      169.6
+    ],
+    "font_size": 20.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b022",
+    "text": "What is observational rainfall data?",
+    "bbox": [
+      53.9,
+      507.0,
+      388.6,
+      532.9
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b023",
+    "text": "Observational rainfall data captures how much rain fell over a defined period of time,",
+    "bbox": [
+      53.7,
+      552.0,
+      492.9,
+      566.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b024",
+    "text": "ranging from an hour to a day. This data can then be used to calculate the total rainfall for",
+    "bbox": [
+      53.7,
+      565.2,
+      516.9,
+      579.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b025",
+    "text": "different time periods, such as 5 days (pentad), 10 days (dekad), a week, a month or a season.",
+    "bbox": [
+      53.7,
+      578.4,
+      530.3,
+      593.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b026",
+    "text": "Observational rainfall datasets can go back decades and have broad geographic coverage,",
+    "bbox": [
+      53.7,
+      591.6,
+      516.8,
+      606.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b027",
+    "text": "enabling historical trend analysis and comparisons.",
+    "bbox": [
+      53.7,
+      604.8,
+      316.2,
+      619.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b028",
+    "text": "Observational rainfall data is produced by measuring the amount of rainfall at precise",
+    "bbox": [
+      53.7,
+      631.0,
+      499.3,
+      646.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b029",
+    "text": "locations, which are called measuring stations or gauges (e.g., the stars in Figure 1 below).",
+    "bbox": [
+      53.7,
+      644.4,
+      515.3,
+      659.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b030",
+    "text": "Station data is typically obtained from national or regional meteorological services and should",
+    "bbox": [
+      53.7,
+      657.6,
+      536.9,
+      672.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b031",
+    "text": "only be used in accordance with their guidance. Some of the advantages of station data are",
+    "bbox": [
+      53.7,
+      670.8,
+      523.1,
+      685.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b032",
+    "text": "that it is accurate at the specific locations, it is collected frequently and it has been collected",
+    "bbox": [
+      53.7,
+      684.0,
+      524.4,
+      698.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b033",
+    "text": "over the long-term, allowing for trend analysis. On the other hand, station data is only",
+    "bbox": [
+      53.7,
+      697.2,
+      495.4,
+      711.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b034",
+    "text": "available for specific locations and is subject to bias due to wind, evaporation, and changes in",
+    "bbox": [
+      53.7,
+      710.4,
+      533.1,
+      725.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b035",
+    "text": "measurement devices. Contact the local or regional meteorological services to learn whether",
+    "bbox": [
+      53.7,
+      723.6,
+      530.8,
+      738.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b036",
+    "text": "station data is available, where the stations are located, how often the data is updated, and",
+    "bbox": [
+      53.7,
+      736.8,
+      522.3,
+      751.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 2,
+    "block_id": "14_p2_b037",
+    "text": "whether historical records are available.",
+    "bbox": [
+      53.7,
+      750.0,
+      258.5,
+      764.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b002",
+    "text": "Rainfall can also be estimated using satellite or radar images that cover areas several square",
+    "bbox": [
+      53.9,
+      50.5,
+      534.1,
+      65.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b003",
+    "text": "kilometers wide (e.g., the squares in Figure 1 below). Satellite imagery is typically obtained",
+    "bbox": [
+      53.9,
+      63.9,
+      516.0,
+      78.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b004",
+    "text": "by global providers and academic or research centers (e.g., the Climate Hazards Center) who",
+    "bbox": [
+      53.9,
+      77.1,
+      529.4,
+      91.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b005",
+    "text": "share their derived estimates publicly. Satellite or radar images are useful for understanding",
+    "bbox": [
+      53.9,
+      90.3,
+      529.1,
+      104.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b006",
+    "text": "patterns over larger geographic areas. Some of the advantages of satellite data are that it has",
+    "bbox": [
+      53.9,
+      103.5,
+      534.0,
+      118.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b007",
+    "text": "extensive geographic coverage, including in remote and inaccessible areas, and that it is shared",
+    "bbox": [
+      53.9,
+      116.7,
+      544.3,
+      131.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b008",
+    "text": "in a continuous and consistent way. On the other hand, satellite measurements are subject to",
+    "bbox": [
+      53.9,
+      129.9,
+      535.8,
+      144.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b009",
+    "text": "errors due to cloud contamination, and the data has a shorter historical record.",
+    "bbox": [
+      53.9,
+      143.1,
+      459.9,
+      157.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b010",
+    "text": "Figure 1. Weather Stations in Zambia (red stars). The grid superimposed onto the map consists of individual",
+    "bbox": [
+      53.9,
+      457.0,
+      455.6,
+      467.6
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b011",
+    "text": "boxes, each of which corresponds to a particular location where satellite weather measurements are",
+    "bbox": [
+      53.9,
+      466.6,
+      430.3,
+      477.2
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b012",
+    "text": "conducted by certain providers. In this case, the grid is the one used by the ARC2 dataset (see below). The",
+    "bbox": [
+      53.9,
+      476.2,
+      448.1,
+      486.8
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b013",
+    "text": "size of each box is 0.1 degree (about 11 km at the equator).",
+    "bbox": [
+      53.9,
+      485.8,
+      273.9,
+      496.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b014",
+    "text": "In order to help correct for the inaccuracies and errors that are present in the two types of data",
+    "bbox": [
+      53.9,
+      521.0,
+      544.5,
+      535.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b015",
+    "text": "and take advantage of their individual strengths, research institutions have produced rainfall",
+    "bbox": [
+      53.9,
+      534.2,
+      530.2,
+      548.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b016",
+    "text": "datasets that combine station and satellite/radar observations. Datasets that combine these",
+    "bbox": [
+      53.9,
+      547.1,
+      539.4,
+      562.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b017",
+    "text": "observations are the recommended source of data for humanitarian purposes.",
+    "bbox": [
+      53.9,
+      560.3,
+      488.5,
+      575.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b018",
+    "text": "Observational precipitation data can be presented in various formats, each providing unique",
+    "bbox": [
+      53.9,
+      587.0,
+      530.1,
+      601.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b019",
+    "text": "insights into precipitation patterns. The most common representation is through absolute",
+    "bbox": [
+      53.9,
+      600.2,
+      516.8,
+      614.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b020",
+    "text": "values, which reflect the actual amount of precipitation observed at a specific location and time,",
+    "bbox": [
+      53.9,
+      613.4,
+      546.0,
+      627.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b021",
+    "text": "typically measured in millimeters. Precipitation averages, which are calculated from historical",
+    "bbox": [
+      53.9,
+      626.6,
+      532.6,
+      641.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b022",
+    "text": "records over a period of typically at least 10 years, can be produced for a specific location,",
+    "bbox": [
+      53.9,
+      639.8,
+      515.8,
+      654.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b023",
+    "text": "season, or year. A precipitation anomaly represents the deviation from the expected or average",
+    "bbox": [
+      53.9,
+      653.0,
+      545.4,
+      667.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b024",
+    "text": "precipitation over a particular period, which can be expressed as a difference in millimeters",
+    "bbox": [
+      53.9,
+      666.2,
+      523.9,
+      680.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b025",
+    "text": "or as a percentage. The purpose of the analysis determines the most useful representation.",
+    "bbox": [
+      53.9,
+      679.4,
+      524.9,
+      693.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b026",
+    "text": "Absolute values provide insight into the total precipitation received at a location, while",
+    "bbox": [
+      53.9,
+      692.6,
+      497.3,
+      707.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b027",
+    "text": "anomalies and averages help to understand long-term trends, including dry or wet periods,",
+    "bbox": [
+      53.9,
+      705.8,
+      523.1,
+      720.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 3,
+    "block_id": "14_p3_b028",
+    "text": "which is valuable for assessing drought or excessive rainfall conditions severity.",
+    "bbox": [
+      53.9,
+      719.0,
+      459.7,
+      733.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b002",
+    "text": "1   https://data.humdata.org/organization/wfp?q=chirps",
+    "bbox": [
+      54.0,
+      731.5,
+      229.5,
+      740.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b003",
+    "text": "2   The dataset spans the latitude range 50°S-50°N, and all longitudes.",
+    "bbox": [
+      54.0,
+      743.5,
+      273.6,
+      752.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b004",
+    "text": "3   CHIRPS produces a preliminary version of their estimates with a latency of two days. The final version is published in the third week of the",
+    "bbox": [
+      54.0,
+      755.5,
+      510.5,
+      764.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b005",
+    "text": "following month.",
+    "bbox": [
+      54.0,
+      764.5,
+      115.0,
+      773.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b006",
+    "text": "Common sources of observational rainfall data",
+    "bbox": [
+      52.6,
+      48.1,
+      494.1,
+      74.0
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b007",
+    "text": "Among the many sources of data available, we introduce here two common sources of",
+    "bbox": [
+      52.4,
+      93.1,
+      498.1,
+      107.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b008",
+    "text": "observational rainfall data, both of which combine station and satellite data: CHIRPS and ARC2.",
+    "bbox": [
+      52.4,
+      106.3,
+      540.2,
+      120.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b009",
+    "text": "CHIRPS refers to the Climate Hazards Group InfraRed Precipitation with Station data and is",
+    "bbox": [
+      52.4,
+      119.5,
+      518.6,
+      134.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b010",
+    "text": "produced by scientists from the US Geological Survey and the Climate Hazards Center at the",
+    "bbox": [
+      52.4,
+      132.7,
+      526.6,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b011",
+    "text": "University of Santa Barbara.  ARC2 refers to Africa Rainfall Climatology Version 2 and it is",
+    "bbox": [
+      52.4,
+      145.9,
+      507.4,
+      160.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b012",
+    "text": "produced by The National Oceanic and Atmospheric Administration’s Climate Prediction Center",
+    "bbox": [
+      52.4,
+      159.1,
+      542.3,
+      173.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b013",
+    "text": "for the Famine Early Warning System. You can access the data directly from these providers, or",
+    "bbox": [
+      52.4,
+      172.3,
+      540.0,
+      186.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b014",
+    "text": "use the tabular CHIRPS datasets that provides pre-computed rainfall metrics at admin2 and is",
+    "bbox": [
+      52.4,
+      185.5,
+      533.8,
+      200.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b015",
+    "text": "available on HDX.1",
+    "bbox": [
+      52.4,
+      198.7,
+      145.8,
+      213.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b016",
+    "text": "COMPARISON OF CHIRPS AND ARC2 OBSERVATIONAL RAINFALL DATA",
+    "bbox": [
+      62.0,
+      234.0,
+      428.7,
+      246.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b017",
+    "text": "Source",
+    "bbox": [
+      62.0,
+      257.9,
+      90.0,
+      269.2
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b018",
+    "text": "CHIRPS",
+    "bbox": [
+      197.9,
+      257.8,
+      228.3,
+      269.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b019",
+    "text": "ARC2",
+    "bbox": [
+      368.9,
+      257.8,
+      390.7,
+      269.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b020",
+    "text": "Format",
+    "bbox": [
+      62.0,
+      281.1,
+      91.8,
+      292.4
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b021",
+    "text": "Raster",
+    "bbox": [
+      197.9,
+      281.1,
+      223.2,
+      292.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b022",
+    "text": "Raster",
+    "bbox": [
+      368.9,
+      281.1,
+      394.2,
+      292.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b023",
+    "text": "Geographical coverage",
+    "bbox": [
+      62.0,
+      303.6,
+      157.6,
+      314.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b024",
+    "text": "Global (quasi2)",
+    "bbox": [
+      197.9,
+      303.6,
+      254.9,
+      314.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b025",
+    "text": "Africa",
+    "bbox": [
+      368.9,
+      303.6,
+      391.6,
+      314.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b026",
+    "text": "Spatial granularity",
+    "bbox": [
+      62.0,
+      326.1,
+      139.7,
+      337.4
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b027",
+    "text": "(also referred to as spatial",
+    "bbox": [
+      62.0,
+      338.1,
+      171.4,
+      349.4
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b028",
+    "text": "resolution)",
+    "bbox": [
+      62.0,
+      350.1,
+      106.6,
+      361.4
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b029",
+    "text": "0.05 degree (5.5 km at the equator)",
+    "bbox": [
+      197.9,
+      326.1,
+      337.3,
+      337.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b030",
+    "text": "0.1 degree (11 km at the equator)",
+    "bbox": [
+      368.9,
+      326.1,
+      501.2,
+      337.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b031",
+    "text": "Temporal granularity",
+    "bbox": [
+      62.0,
+      372.6,
+      148.8,
+      383.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b032",
+    "text": "(aso referred to as temporal",
+    "bbox": [
+      62.0,
+      384.6,
+      179.5,
+      395.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b033",
+    "text": "resolution)",
+    "bbox": [
+      62.0,
+      396.6,
+      106.6,
+      407.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b034",
+    "text": "Daily rainfall3",
+    "bbox": [
+      197.9,
+      372.6,
+      249.9,
+      383.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b035",
+    "text": "Daily rainfall",
+    "bbox": [
+      368.9,
+      372.6,
+      418.1,
+      383.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b036",
+    "text": "Historical coverage",
+    "bbox": [
+      62.0,
+      419.1,
+      140.2,
+      430.4
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b037",
+    "text": "1981 - today",
+    "bbox": [
+      197.9,
+      419.1,
+      246.9,
+      430.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b038",
+    "text": "1983 - today",
+    "bbox": [
+      368.9,
+      419.1,
+      417.9,
+      430.3
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b039",
+    "text": "Publication",
+    "bbox": [
+      62.0,
+      441.6,
+      108.1,
+      452.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b040",
+    "text": "Every month, around the third week of",
+    "bbox": [
+      197.9,
+      441.6,
+      353.1,
+      452.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b041",
+    "text": "the following month",
+    "bbox": [
+      197.9,
+      451.8,
+      277.9,
+      463.0
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b042",
+    "text": "Every day, with a 2-day lag",
+    "bbox": [
+      368.9,
+      441.6,
+      472.9,
+      452.8
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b043",
+    "text": "Most common uses",
+    "bbox": [
+      62.0,
+      474.3,
+      141.7,
+      485.6
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b044",
+    "text": "• Monthly, seasonal, or yearly rainfall",
+    "bbox": [
+      197.9,
+      474.3,
+      345.8,
+      485.5
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b045",
+    "text": "monitoring",
+    "bbox": [
+      197.9,
+      484.5,
+      242.0,
+      495.7
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b046",
+    "text": "• Included in other tools including",
+    "bbox": [
+      197.9,
+      500.5,
+      335.2,
+      511.7
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b047",
+    "text": "those used for drought monitoring and",
+    "bbox": [
+      197.9,
+      510.7,
+      355.2,
+      521.9
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b048",
+    "text": "FEWS NET assessments",
+    "bbox": [
+      197.9,
+      520.9,
+      290.5,
+      532.1
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b049",
+    "text": "• Trend analysis across years",
+    "bbox": [
+      197.9,
+      536.9,
+      311.5,
+      548.1
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b050",
+    "text": "• Near real-time monitoring in Africa",
+    "bbox": [
+      368.9,
+      474.3,
+      514.5,
+      485.5
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b051",
+    "text": "• Year-to-year comparisons in Africa",
+    "bbox": [
+      368.9,
+      490.3,
+      510.7,
+      501.5
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b052",
+    "text": "Questions to answer with observational rainfall data",
+    "bbox": [
+      53.0,
+      581.9,
+      543.2,
+      607.7
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b053",
+    "text": "Observational rainfall data can be used to answer a number of questions and inform decision",
+    "bbox": [
+      53.9,
+      627.9,
+      535.2,
+      642.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b054",
+    "text": "making in humanitarian operations. Examples include:",
+    "bbox": [
+      53.9,
+      641.1,
+      335.5,
+      655.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b055",
+    "text": "•\t How much rain fell in the past x days/weeks/months? Observational rainfall datasets",
+    "bbox": [
+      53.9,
+      667.2,
+      521.5,
+      682.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b056",
+    "text": "provide data on the total amount of rainfall for an area over a discrete period of time, which",
+    "bbox": [
+      65.2,
+      680.7,
+      538.5,
+      695.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 4,
+    "block_id": "14_p4_b057",
+    "text": "can be aggregated and used to calculate rainfall over different time intervals.",
+    "bbox": [
+      65.2,
+      693.9,
+      461.0,
+      708.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b002",
+    "text": "•\t Was the rainfall last month above or below normal? And by how much? Observational",
+    "bbox": [
+      53.9,
+      50.5,
+      532.9,
+      65.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b003",
+    "text": "rainfall data goes back decades and can therefore be used to determine whether rainfall for",
+    "bbox": [
+      65.2,
+      63.9,
+      538.1,
+      78.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b004",
+    "text": "a month or a season is above, at or below the historical average.",
+    "bbox": [
+      65.2,
+      77.1,
+      397.2,
+      91.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b005",
+    "text": "•\t Were there more rainy days this month than last month? Observational rainfall data is",
+    "bbox": [
+      53.9,
+      103.3,
+      530.9,
+      118.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b006",
+    "text": "available for each day and can be used to determine if it rained or not on a given day and to",
+    "bbox": [
+      65.2,
+      116.7,
+      537.3,
+      131.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b007",
+    "text": "count the number of dry or wet days during a specific period of time.",
+    "bbox": [
+      65.2,
+      129.9,
+      420.5,
+      144.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b008",
+    "text": "•\t How many dry spells were there during the past rainy season? How long was the",
+    "bbox": [
+      53.9,
+      156.1,
+      508.9,
+      171.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b009",
+    "text": "longest dry spell and the heaviest rain streak this past rainy season? Observational",
+    "bbox": [
+      65.2,
+      169.3,
+      518.4,
+      184.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b010",
+    "text": "rainfall data can be used to detect the occurrence, location and duration of dry spells and",
+    "bbox": [
+      65.2,
+      182.7,
+      525.0,
+      197.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b011",
+    "text": "prolonged periods of heavy rain.",
+    "bbox": [
+      65.2,
+      195.9,
+      237.7,
+      210.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b012",
+    "text": "•\t How often in the past decade were more than x millimeters of rainfall measured?",
+    "bbox": [
+      53.9,
+      222.1,
+      514.9,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b013",
+    "text": "Observational rainfall data provides daily rainfall totals in millimeters and can be used to",
+    "bbox": [
+      65.2,
+      235.5,
+      521.0,
+      250.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b014",
+    "text": "assess how often an area received rain above or below a given threshold.",
+    "bbox": [
+      65.2,
+      248.7,
+      440.1,
+      263.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b015",
+    "text": "•\t Which region received the most rain last month? Observational rainfall data can be",
+    "bbox": [
+      53.9,
+      274.9,
+      510.5,
+      289.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b016",
+    "text": "aggregated to provide rainfall totals for larger geographic areas and then used to compare",
+    "bbox": [
+      65.2,
+      288.3,
+      531.0,
+      302.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b017",
+    "text": "rain for that area.",
+    "bbox": [
+      65.2,
+      301.5,
+      158.1,
+      316.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b018",
+    "text": "Observational rainfall data cannot answer the following questions:",
+    "bbox": [
+      53.9,
+      341.1,
+      396.3,
+      355.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b019",
+    "text": "•\t How much will it rain during a period of time in the future? Observational rainfall data is",
+    "bbox": [
+      53.9,
+      367.3,
+      541.5,
+      382.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b020",
+    "text": "referred to as observational because it describes what happened in the past. It does not tell",
+    "bbox": [
+      65.2,
+      380.7,
+      536.5,
+      395.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b021",
+    "text": "you anything about future rainfall.",
+    "bbox": [
+      65.2,
+      393.9,
+      243.5,
+      408.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b022",
+    "text": "•\t Is a severe flooding event about to occur? Are we going through a severe drought?",
+    "bbox": [
+      53.9,
+      420.1,
+      517.5,
+      435.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b023",
+    "text": "Observational rainfall data does not provide sufficient information to inform you about the",
+    "bbox": [
+      65.2,
+      433.5,
+      532.7,
+      448.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b024",
+    "text": "risk of flooding in the near future or how severe a drought is likely to be. This is because",
+    "bbox": [
+      65.2,
+      446.7,
+      517.8,
+      461.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b025",
+    "text": "floods and droughts are complex phenomena caused by several interacting factors and they",
+    "bbox": [
+      65.2,
+      459.9,
+      540.2,
+      474.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b026",
+    "text": "cannot be explained exclusively by the amount of precipitation.",
+    "bbox": [
+      65.2,
+      473.1,
+      388.9,
+      487.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b027",
+    "text": "•\t How much rainfall from a given period of time in the past was due to specific tropical",
+    "bbox": [
+      53.9,
+      499.3,
+      534.8,
+      514.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b028",
+    "text": "storm or typhoon? It is hard to differentiate between the amount of rain caused by",
+    "bbox": [
+      65.2,
+      512.5,
+      497.8,
+      527.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b029",
+    "text": "average atmospheric conditions and the amount of rain induced by a specific atmospheric",
+    "bbox": [
+      65.2,
+      525.9,
+      529.9,
+      540.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b030",
+    "text": "phenomenon. As a result, using observational rainfall data alone, it is not possible to say how",
+    "bbox": [
+      65.2,
+      539.1,
+      544.4,
+      553.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b031",
+    "text": "much rainfall is due strictly to a tropical storm or typhoon. More data is needed to infer the",
+    "bbox": [
+      65.2,
+      552.3,
+      533.7,
+      566.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 5,
+    "block_id": "14_p5_b032",
+    "text": "origin of a heavy rainfall event.",
+    "bbox": [
+      65.2,
+      565.5,
+      222.5,
+      580.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b002",
+    "text": "4   Learn more: https://www.chc.ucsb.edu/data/chirps",
+    "bbox": [
+      53.4,
+      751.7,
+      223.2,
+      760.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b003",
+    "text": "5   Learn more here: https://wiki.chc.ucsb.edu/CHIRPS_FAQ#What_is_the_spatial_density_of_station_data_used_in_CHIRPS.3F",
+    "bbox": [
+      53.4,
+      763.7,
+      454.2,
+      772.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b004",
+    "text": "Common limitations with observations rainfall data",
+    "bbox": [
+      53.0,
+      48.1,
+      540.7,
+      74.0
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b005",
+    "text": "Once you have identified how you want to use the data, it is important to bear in mind some",
+    "bbox": [
+      53.9,
+      94.1,
+      528.8,
+      108.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b006",
+    "text": "common limitations when conducting your analysis.",
+    "bbox": [
+      53.9,
+      107.3,
+      322.6,
+      121.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b007",
+    "text": "1.\t Low-amount or short-duration rainfall may be underreported in certain geographical",
+    "bbox": [
+      53.9,
+      133.7,
+      507.6,
+      148.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b008",
+    "text": "terrains or during extreme precipitation events.4 Gauges are constantly being improved",
+    "bbox": [
+      70.9,
+      146.9,
+      520.9,
+      161.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b009",
+    "text": "to reduce error and datasets that combine station and satellite/radar data are best at",
+    "bbox": [
+      70.9,
+      160.1,
+      509.9,
+      174.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b010",
+    "text": "correcting for these limitations. However, it is still important to keep these limitations in",
+    "bbox": [
+      70.9,
+      173.3,
+      521.6,
+      187.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b011",
+    "text": "mind, especially when doing analysis that is looking at meteorological events that involve",
+    "bbox": [
+      70.9,
+      186.5,
+      527.8,
+      201.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b012",
+    "text": "low-amount or short-duration rainfall, such as dry spells.",
+    "bbox": [
+      70.9,
+      199.7,
+      363.8,
+      214.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b013",
+    "text": "2.\t There are fewer gauge stations in rural areas and certain developing countries, which",
+    "bbox": [
+      53.9,
+      226.1,
+      509.7,
+      240.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b014",
+    "text": "means that observational rainfall data is often less accurate in these locations. Fewer gauge",
+    "bbox": [
+      70.9,
+      239.3,
+      542.0,
+      253.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b015",
+    "text": "stations means that there are fewer measurements for that geographic area, resulting in",
+    "bbox": [
+      70.9,
+      252.5,
+      527.1,
+      267.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b016",
+    "text": "a less complete picture of what is happening on the ground. Differences in the amount of",
+    "bbox": [
+      70.9,
+      265.7,
+      530.8,
+      280.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b017",
+    "text": "rainfall received in two locations might be missed if there are not stations to capture rainfall",
+    "bbox": [
+      70.9,
+      278.9,
+      543.2,
+      293.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b018",
+    "text": "in both locations.5",
+    "bbox": [
+      70.9,
+      292.1,
+      164.5,
+      306.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b019",
+    "text": "3.\t Observational rainfall data is usually provided as a raster dataset, where the geographic",
+    "bbox": [
+      53.9,
+      318.5,
+      522.8,
+      333.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b020",
+    "text": "area is represented by a contiguous grid of cells, or pixels. Each cell represents a discrete",
+    "bbox": [
+      70.9,
+      331.7,
+      528.0,
+      346.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b021",
+    "text": "area of land, and has a value associated with it but the cells do not neatly fit within",
+    "bbox": [
+      70.9,
+      344.9,
+      494.9,
+      359.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b022",
+    "text": "administrative boundaries. Calculating rainfall for an administrative area requires an",
+    "bbox": [
+      70.9,
+      358.1,
+      505.9,
+      372.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b023",
+    "text": "aggregation. The choice of the aggregation method (average, maximum, total etc.) as well",
+    "bbox": [
+      70.9,
+      371.3,
+      530.3,
+      385.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b024",
+    "text": "as the choice of which cells to include within a given administrative division (all cells fully",
+    "bbox": [
+      70.9,
+      384.5,
+      524.4,
+      399.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b025",
+    "text": "included, or all cells touched etc.) will impact the results. This is especially true for lower",
+    "bbox": [
+      70.9,
+      397.7,
+      521.5,
+      412.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b026",
+    "text": "administrative divisions. As a result, adding together the total rainfall for all the districts in a",
+    "bbox": [
+      70.9,
+      410.9,
+      542.0,
+      425.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b027",
+    "text": "region may not equal the total rainfall calculated for the region.",
+    "bbox": [
+      70.9,
+      424.1,
+      395.0,
+      438.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b028",
+    "text": "4.\t If using station data, it is important to bear in mind that stations are easily subject to",
+    "bbox": [
+      53.9,
+      450.5,
+      505.0,
+      465.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b029",
+    "text": "deterioration and require frequent maintenance, which may affect their accuracy. For",
+    "bbox": [
+      70.9,
+      463.7,
+      510.8,
+      478.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b030",
+    "text": "this reason, calculating temporal averages, anomalies or trends over long periods of time",
+    "bbox": [
+      70.9,
+      476.9,
+      529.4,
+      491.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b031",
+    "text": "should be performed with care. When possible, verify with the provider the adequacy of",
+    "bbox": [
+      70.9,
+      490.1,
+      523.2,
+      504.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b032",
+    "text": "the measurements over long periods of time. This limitation does not apply to CHIRPS and",
+    "bbox": [
+      70.9,
+      503.3,
+      535.5,
+      517.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b033",
+    "text": "ARC2 datasets, which have been calibrated and combined with satellite observations by",
+    "bbox": [
+      70.9,
+      516.5,
+      521.1,
+      531.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b034",
+    "text": "climate institutions.",
+    "bbox": [
+      70.9,
+      529.7,
+      171.3,
+      544.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b035",
+    "text": "5.\t For station data, differences exist between measuring instruments and quality of their",
+    "bbox": [
+      53.9,
+      556.1,
+      513.8,
+      570.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b036",
+    "text": "measurements. This may heavily affect comparisons between different locations. Therefore,",
+    "bbox": [
+      70.9,
+      569.3,
+      544.4,
+      583.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b037",
+    "text": "when performing geographical averages, it is preferable to use radar data, satellite data or",
+    "bbox": [
+      70.9,
+      582.5,
+      535.9,
+      597.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b038",
+    "text": "observational datasets already calibrated by institutions or universities such as CHIRPS or",
+    "bbox": [
+      70.9,
+      595.7,
+      531.0,
+      610.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 6,
+    "block_id": "14_p6_b039",
+    "text": "ARC2.",
+    "bbox": [
+      70.9,
+      608.9,
+      100.8,
+      623.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b001",
+    "text": "CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.6,
+      797.1,
+      216.0,
+      810.3
+    ],
+    "font_size": 10.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b002",
+    "text": "Resources",
+    "bbox": [
+      53.0,
+      48.1,
+      148.9,
+      74.0
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b003",
+    "text": "•\t Learn more about the CHIRPS6 and ARC27 observational datasets and/or download data",
+    "bbox": [
+      53.9,
+      94.1,
+      516.7,
+      108.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b004",
+    "text": "directly from the providers.",
+    "bbox": [
+      65.2,
+      107.3,
+      205.1,
+      121.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b005",
+    "text": "•\t CHIRPS on HDX8: Download pre-computed tabular data (CSV format) on precipitation totals,",
+    "bbox": [
+      53.9,
+      131.3,
+      535.7,
+      145.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b006",
+    "text": "averages, anomalies per administrative region.",
+    "bbox": [
+      65.2,
+      144.5,
+      304.7,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b007",
+    "text": "•\t ARC29: Download 1-month or 10-day cumulative precipitation totals (raster, tabular, image",
+    "bbox": [
+      53.9,
+      168.5,
+      529.3,
+      183.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b008",
+    "text": "data).",
+    "bbox": [
+      65.2,
+      181.7,
+      94.2,
+      196.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b009",
+    "text": "•\t OCHA AnticiPy10: Download raster (NetCDF) data directly from CHIRPS and ARC2 using a",
+    "bbox": [
+      53.9,
+      205.7,
+      515.4,
+      220.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b010",
+    "text": "Python library.",
+    "bbox": [
+      65.2,
+      218.9,
+      140.1,
+      233.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b011",
+    "text": "6   https://www.chc.ucsb.edu/data/chirps",
+    "bbox": [
+      53.9,
+      668.0,
+      182.5,
+      676.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b012",
+    "text": "7   https://www.icpac.net/data-center/arc2/",
+    "bbox": [
+      53.9,
+      680.0,
+      188.6,
+      688.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b013",
+    "text": "8   https://data.humdata.org/dataset?q=CHIRPS",
+    "bbox": [
+      53.9,
+      692.0,
+      202.8,
+      700.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b014",
+    "text": "9    https://gmes.icpac.net/data-center/arc2-rfe",
+    "bbox": [
+      53.9,
+      704.0,
+      197.9,
+      712.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b015",
+    "text": "10 https://github.com/OCHA-DAP/ocha-anticipy",
+    "bbox": [
+      53.9,
+      716.0,
+      205.0,
+      724.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b016",
+    "text": "11   https://centre.humdata.org/",
+    "bbox": [
+      53.9,
+      728.0,
+      149.0,
+      736.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b017",
+    "text": "12  https://www.climate.columbia.edu/",
+    "bbox": [
+      53.9,
+      740.0,
+      174.6,
+      748.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b018",
+    "text": "13  https://iri.columbia.edu/",
+    "bbox": [
+      53.9,
+      752.0,
+      138.1,
+      760.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b019",
+    "text": "14  https://www.knmi.nl/over-het-knmi/about",
+    "bbox": [
+      53.9,
+      764.0,
+      197.0,
+      772.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b020",
+    "text": "This guidance was developed by the OCHA Centre for Humanitarian Data11 with input from",
+    "bbox": [
+      66.9,
+      281.1,
+      492.6,
+      293.1
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b021",
+    "text": "Columbia University Climate School12 International Research Institute for Climate and Society13,",
+    "bbox": [
+      66.9,
+      294.1,
+      515.1,
+      306.1
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b022",
+    "text": "the Royal Netherlands Meteorological Institute14, and the Earth Observation Unit of the Research,",
+    "bbox": [
+      66.9,
+      307.1,
+      520.3,
+      319.1
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "14",
+    "page_number": 7,
+    "block_id": "14_p7_b023",
+    "text": "Assessment and Monitoring division of the World Food Programme.",
+    "bbox": [
+      66.9,
+      320.1,
+      384.8,
+      332.1
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  }
+]

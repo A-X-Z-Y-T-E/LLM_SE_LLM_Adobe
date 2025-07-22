@@ -1,0 +1,2837 @@
+[
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b003",
+    "text": "QU’EST-CE QU’UN INCIDENT LIÉ AUX DONNÉES DANS L’ACTION HUMANITAIRE ?",
+    "bbox": [
+      53.9,
+      418.3,
+      539.6,
+      433.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b004",
+    "text": "Dans le secteur humanitaire, les incidents liés aux données sont des événements impliquant la gestion",
+    "bbox": [
+      53.9,
+      441.0,
+      523.2,
+      454.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b005",
+    "text": "des données qui ont causé des préjudices ou sont susceptibles de causer des préjudices aux populations",
+    "bbox": [
+      53.9,
+      454.2,
+      532.1,
+      468.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b006",
+    "text": "touchées par les crises, aux organisations humanitaires et à leurs opérations, ainsi qu’à d’autres personnes",
+    "bbox": [
+      53.9,
+      467.4,
+      541.5,
+      481.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b007",
+    "text": "ou groupes. Ces événements peuvent exploiter ou exacerber les vulnérabilités existantes.1 Dans certains",
+    "bbox": [
+      53.9,
+      480.6,
+      529.4,
+      494.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b008",
+    "text": "cas, ils peuvent également créer de nouvelles vulnérabilités susceptibles d’augmenter le risque de futurs",
+    "bbox": [
+      53.9,
+      493.8,
+      532.0,
+      507.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b009",
+    "text": "incidents liés aux données.",
+    "bbox": [
+      53.9,
+      507.0,
+      179.3,
+      520.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b010",
+    "text": "Les travailleurs humanitaires n’ont ni une compréhension commune de ce que représente un incident lié",
+    "bbox": [
+      53.9,
+      533.4,
+      532.1,
+      547.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b011",
+    "text": "aux données, ni défini un standard technique minimum quant à la manière dont ces incidents doivent",
+    "bbox": [
+      53.9,
+      546.6,
+      519.9,
+      560.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b012",
+    "text": "être évités et gérés. La manière dont le secteur humanitaire développe des outils et met en œuvre des",
+    "bbox": [
+      53.9,
+      559.8,
+      519.0,
+      573.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b013",
+    "text": "procédures de gestion des incidents liés aux données jouera un rôle important dans l’évolution des",
+    "bbox": [
+      53.9,
+      573.0,
+      506.7,
+      586.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b014",
+    "text": "standards éthiques, techniques et professionnels des opérations humanitaires, ainsi que des droits",
+    "bbox": [
+      53.9,
+      586.2,
+      506.7,
+      600.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b015",
+    "text": "humains.",
+    "bbox": [
+      53.9,
+      599.4,
+      96.6,
+      613.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b016",
+    "text": "1     « On entend par vulnérabilité une faiblesse dans un système d’information, des procédures de sécurité du système, des contrôles internes ou une",
+    "bbox": [
+      53.9,
+      758.9,
+      534.7,
+      767.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b017",
+    "text": "mise en œuvre susceptible d’être exploitée par une source de menace. »  NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk",
+    "bbox": [
+      53.9,
+      767.9,
+      529.9,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b018",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b019",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      98.4,
+      266.8,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b020",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      116.4,
+      479.6,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b021",
+    "text": "LA GESTION DES INCIDENTS LIÉS AUX DONNÉES",
+    "bbox": [
+      53.3,
+      138.7,
+      550.9,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b022",
+    "text": "POINTS CLÉS :",
+    "bbox": [
+      63.7,
+      198.0,
+      152.2,
+      213.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b023",
+    "text": "•\t Les incidents liés aux données humanitaires sont des événements impliquant la gestion des",
+    "bbox": [
+      75.0,
+      216.7,
+      506.7,
+      230.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b024",
+    "text": "données qui ont causé des préjudices ou sont susceptibles de causer des préjudices aux",
+    "bbox": [
+      86.3,
+      229.9,
+      488.6,
+      243.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b025",
+    "text": "populations touchées par les crises, aux organisations et à leurs opérations, ainsi qu’à d’autres",
+    "bbox": [
+      86.3,
+      243.1,
+      518.2,
+      257.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b026",
+    "text": "personnes ou groupes.",
+    "bbox": [
+      86.3,
+      256.3,
+      190.8,
+      270.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b027",
+    "text": "•\t Parmi les exemples d’incidents liés aux données humanitaires, mentionnons les atteintes",
+    "bbox": [
+      75.0,
+      279.5,
+      495.0,
+      293.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b028",
+    "text": "physiques à l’infrastructure, la divulgation non autorisée de données et l’utilisation des données",
+    "bbox": [
+      86.3,
+      292.7,
+      527.4,
+      306.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b029",
+    "text": "des bénéficiaires à des fins non humanitaires, entre autres.",
+    "bbox": [
+      86.3,
+      305.9,
+      354.7,
+      319.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b030",
+    "text": "•\t Un incident lié aux données comporte quatre aspects : une source de menace, un évènement de",
+    "bbox": [
+      75.0,
+      329.1,
+      526.1,
+      343.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b031",
+    "text": "menace, une vulnérabilité et un impact néfaste.",
+    "bbox": [
+      86.3,
+      342.3,
+      305.3,
+      356.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b032",
+    "text": "•\t Il y a cinq étapes pour réagir aux incidents liés aux données : la notification, la classification, le",
+    "bbox": [
+      75.0,
+      365.5,
+      517.4,
+      379.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b033",
+    "text": "traitement et la clôture de l’incident, ainsi que l’apprentissage.",
+    "bbox": [
+      86.3,
+      378.7,
+      372.0,
+      392.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b034",
+    "text": "« Si les acteurs humanitaires numérisent davantage leurs données et leurs",
+    "bbox": [
+      91.9,
+      626.8,
+      433.0,
+      638.8
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b035",
+    "text": "communications, ils ont un besoin urgent d’accroître leurs efforts en sécurité numérique.",
+    "bbox": [
+      91.9,
+      639.8,
+      499.3,
+      651.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b036",
+    "text": "Bien que certains acteurs développent des outils de protection prometteurs, les",
+    "bbox": [
+      91.9,
+      652.8,
+      456.4,
+      664.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b037",
+    "text": "organisations humanitaires dans l’ensemble auraient sans doute intérêt à prendre note",
+    "bbox": [
+      91.9,
+      665.8,
+      490.6,
+      677.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b038",
+    "text": "de la citation suivante provenant des cercles sur la sécurité informatique : « Il existe deux",
+    "bbox": [
+      91.9,
+      678.8,
+      498.8,
+      690.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b039",
+    "text": "types d’organisations : celles qui ont été piratées et celles qui le seront. »",
+    "bbox": [
+      91.9,
+      692.8,
+      417.8,
+      704.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 1,
+    "block_id": "160_p1_b040",
+    "text": "- Rahel Dette, Do No Digital Harm: Mitigating Technology Risk in Humanitarian Contexts",
+    "bbox": [
+      91.9,
+      716.2,
+      435.4,
+      726.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b003",
+    "text": "CADRES ET DÉFINITIONS POUR COMPRENDRE LES INCIDENTS LIÉS AUX",
+    "bbox": [
+      52.9,
+      145.5,
+      486.5,
+      160.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b004",
+    "text": "DONNÉES",
+    "bbox": [
+      52.9,
+      158.7,
+      111.5,
+      173.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b005",
+    "text": "Les gouvernements et le secteur privé ont élaboré des cadres et définitions pour mieux comprendre les",
+    "bbox": [
+      53.9,
+      183.2,
+      525.4,
+      197.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b006",
+    "text": "incidents liés aux données et qui servent de références utiles au secteur humanitaire.",
+    "bbox": [
+      53.9,
+      196.4,
+      441.3,
+      210.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b007",
+    "text": "•\t La norme ISO 27000 de l’Organisation internationale de normalisation (ISO) définit un « incident",
+    "bbox": [
+      65.2,
+      221.6,
+      516.4,
+      235.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b008",
+    "text": "critique » comme « un ou plusieurs événements liés à la sécurité de l’information, indésirables ou",
+    "bbox": [
+      76.5,
+      234.8,
+      521.5,
+      248.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b009",
+    "text": "inattendus, présentant une probabilité forte de compromettre les opérations liées à l’activité de",
+    "bbox": [
+      76.5,
+      248.0,
+      514.4,
+      261.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b010",
+    "text": "l’organisme et de menacer la sécurité de l’information ».2",
+    "bbox": [
+      76.5,
+      261.2,
+      335.7,
+      275.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b011",
+    "text": "•\t Le NIST (United States Department of Commerce National Institute for Standards and Technology)",
+    "bbox": [
+      65.2,
+      286.4,
+      525.9,
+      300.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b012",
+    "text": "définit un événement indésirable impliquant une « cyber menace » comme « un événement ou une",
+    "bbox": [
+      76.5,
+      299.6,
+      528.6,
+      313.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b013",
+    "text": "condition susceptible de provoquer une perte d’actifs et les conséquences ou l’impact indésirables de",
+    "bbox": [
+      76.5,
+      312.8,
+      541.6,
+      326.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b014",
+    "text": "cette perte ».3",
+    "bbox": [
+      76.5,
+      326.0,
+      138.7,
+      339.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b015",
+    "text": "•\t Mahmood Sher-Jan de l’International Association of Privacy Professionals (IAPP) identifie trois",
+    "bbox": [
+      65.2,
+      351.2,
+      509.0,
+      365.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b016",
+    "text": "autres catégories d’événements qui élargissent la définition des événements indésirables du NIST. Il",
+    "bbox": [
+      76.5,
+      364.4,
+      532.8,
+      378.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b017",
+    "text": "s’agit, par ordre de gravité croissant, d’incidents de sécurité, d’incidents liés à la confidentialité et de",
+    "bbox": [
+      76.5,
+      377.6,
+      536.5,
+      391.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b018",
+    "text": "violations des données.4",
+    "bbox": [
+      76.5,
+      390.8,
+      187.8,
+      404.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b019",
+    "text": "2     International Organization for Standardization, ISO/IEC 27000:2018.",
+    "bbox": [
+      53.5,
+      732.3,
+      285.9,
+      741.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b020",
+    "text": "3     NIST Computer Security Resource Center Glossary.",
+    "bbox": [
+      53.5,
+      744.3,
+      230.5,
+      753.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b021",
+    "text": "4     IAPP, Is It an Incident or a Breach, How to Tell and Why It Matters, Mahmoud Sher-Jan (February 2017).",
+    "bbox": [
+      53.5,
+      756.3,
+      396.4,
+      765.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b022",
+    "text": "5     NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.",
+    "bbox": [
+      53.5,
+      768.3,
+      339.1,
+      777.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b023",
+    "text": "Parmi les incidents liés aux données humanitaires, mentionnons les atteintes physiques à l’infrastructure,",
+    "bbox": [
+      53.6,
+      37.5,
+      537.5,
+      51.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b024",
+    "text": "la divulgation non autorisée de données et l’utilisation des données des bénéficiaires à des fins non",
+    "bbox": [
+      53.6,
+      50.7,
+      509.2,
+      64.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b025",
+    "text": "humanitaires, entre autres. Les incidents liés aux données peuvent également se produire sans que",
+    "bbox": [
+      53.6,
+      63.9,
+      508.1,
+      77.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b026",
+    "text": "l’infrastructure technique ne soit compromise de quelque manière que ce soit. La collecte, l’utilisation et le",
+    "bbox": [
+      53.6,
+      77.1,
+      543.0,
+      91.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b027",
+    "text": "partage légitimes de données par des humanitaires peuvent encore avoir des implications opérationnelles",
+    "bbox": [
+      53.6,
+      90.3,
+      540.2,
+      104.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b028",
+    "text": "susceptibles de constituer un incident dans les cas où des rumeurs, des sensibilités culturelles, des",
+    "bbox": [
+      53.6,
+      103.5,
+      505.8,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b029",
+    "text": "dynamiques politiques et d’autres facteurs entraînent des effets préjudiciables liés aux données.",
+    "bbox": [
+      53.6,
+      116.7,
+      492.8,
+      130.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b030",
+    "text": "Exemples d’incidents possibles liés aux données humanitaires",
+    "bbox": [
+      65.2,
+      424.3,
+      369.1,
+      437.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b031",
+    "text": "Un incident comporte quatre facteurs : une source de menace, un évènement de menace, une",
+    "bbox": [
+      65.2,
+      453.2,
+      494.4,
+      467.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b032",
+    "text": "vulnérabilité et un impact néfaste.5 Vous trouverez ci-dessous deux types d’incidents hypothétiques",
+    "bbox": [
+      65.2,
+      466.4,
+      521.2,
+      480.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b033",
+    "text": "susceptibles de se produire dans des contextes humanitaires.",
+    "bbox": [
+      65.2,
+      479.6,
+      346.9,
+      493.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b034",
+    "text": "Le premier scénario est un incident type de violation des données placé dans le contexte d’un conflit",
+    "bbox": [
+      65.2,
+      506.0,
+      524.6,
+      519.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b035",
+    "text": "armé. Le second est un exemple du type de vulnérabilités qui peuvent déclencher des incidents liés",
+    "bbox": [
+      65.2,
+      519.2,
+      519.5,
+      533.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b036",
+    "text": "aux données propres au secteur humanitaire.",
+    "bbox": [
+      65.2,
+      532.4,
+      274.4,
+      546.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b037",
+    "text": "1.\tL’accès non autorisé aux données se produit [impact] en raison de la présence d’acteurs armés",
+    "bbox": [
+      76.5,
+      558.3,
+      521.7,
+      572.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b038",
+    "text": "[source] lors du pillage d’une installation et de la saisie de disques durs contenant des données",
+    "bbox": [
+      87.9,
+      571.5,
+      525.6,
+      586.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b039",
+    "text": "bénéficiaires [événement]. Les disques durs n’étaient pas cryptés [vulnérabilité].",
+    "bbox": [
+      87.9,
+      584.7,
+      463.0,
+      599.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b040",
+    "text": "2.\tL’absence de directives limitant la collecte de données à un but spécifique [vulnérabilité] aboutit",
+    "bbox": [
+      76.5,
+      611.1,
+      530.1,
+      625.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b041",
+    "text": "à ce que le personnel recueille des données sur le statut matrimonial des femmes enceintes",
+    "bbox": [
+      87.9,
+      624.8,
+      505.0,
+      638.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b042",
+    "text": "[source]. Une violation des données [événement] se produit par la suite, entraînant une",
+    "bbox": [
+      87.9,
+      637.5,
+      494.6,
+      652.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b043",
+    "text": "augmentation des risques de violence physique [impact] contre les bénéficiaires enceintes non",
+    "bbox": [
+      87.9,
+      650.7,
+      522.9,
+      665.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b044",
+    "text": "mariées.",
+    "bbox": [
+      87.9,
+      664.4,
+      133.9,
+      678.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b045",
+    "text": "Ces scénarios permettent de comprendre la démarche nécessaire à l’identification de chaînes de",
+    "bbox": [
+      65.2,
+      689.6,
+      505.5,
+      703.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 2,
+    "block_id": "160_p2_b046",
+    "text": "causalité susceptibles de créer des incidents liés aux données spécifiques à un contexte.",
+    "bbox": [
+      65.2,
+      702.8,
+      466.1,
+      716.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b003",
+    "text": "6    NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.",
+    "bbox": [
+      53.9,
+      767.8,
+      338.9,
+      776.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b004",
+    "text": "MODÈLES DE RISQUE",
+    "bbox": [
+      52.9,
+      44.2,
+      182.0,
+      59.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b005",
+    "text": "Le schéma ci-dessous présente un modèle de risque générique avec des facteurs de risque dont les",
+    "bbox": [
+      53.9,
+      68.9,
+      506.8,
+      82.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b006",
+    "text": "organisations peuvent se servir afin de comprendre comment un incident lié aux données peut se produire.",
+    "bbox": [
+      53.9,
+      82.1,
+      545.3,
+      96.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b007",
+    "text": "Un événement de menace exploite une vulnérabilité existante qui est soit amplifiée par des conditions",
+    "bbox": [
+      53.9,
+      95.3,
+      521.9,
+      109.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b008",
+    "text": "préexistantes, soit atténuée par des contrôles de sécurité déjà en place. Cela entraîne des impacts négatifs",
+    "bbox": [
+      53.9,
+      108.5,
+      539.8,
+      122.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b009",
+    "text": "qui engendrent des risques organisationnels, qui peuvent inclure des risques pour l’organisation et pour les",
+    "bbox": [
+      53.9,
+      121.7,
+      545.8,
+      135.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b010",
+    "text": "personnes affectées.",
+    "bbox": [
+      53.9,
+      134.9,
+      148.0,
+      148.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b011",
+    "text": "Figure 1. « Modèle générique de risque avec facteurs de risque clés ». Source : NIST Special",
+    "bbox": [
+      128.9,
+      344.7,
+      466.5,
+      356.0
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b012",
+    "text": "Publication 800-30 pg. 12",
+    "bbox": [
+      128.9,
+      355.5,
+      223.1,
+      366.8
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b013",
+    "text": "Le schéma ci-dessous présente un exemple de la façon dont ce modèle générique de risque pourrait être",
+    "bbox": [
+      53.9,
+      379.5,
+      531.9,
+      393.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b014",
+    "text": "adapté au secteur humanitaire.",
+    "bbox": [
+      53.9,
+      392.7,
+      199.1,
+      406.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 3,
+    "block_id": "160_p3_b015",
+    "text": "Figure 2. Risk Model with Key Risk Factors adapted to a humanitarian context.",
+    "bbox": [
+      153.1,
+      681.7,
+      442.0,
+      693.1
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b003",
+    "text": "Les organisations humanitaires peuvent développer leurs propres modèles de risque spécifiques pour la",
+    "bbox": [
+      53.9,
+      43.2,
+      531.4,
+      57.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b004",
+    "text": "gestion des incidents liés aux données en tenant compte de ces facteurs. La nature de ces facteurs de risque",
+    "bbox": [
+      53.9,
+      56.4,
+      546.5,
+      70.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b005",
+    "text": "et la façon dont ils se réunissent pour constituer un incident lié aux données varient d’une organisation à",
+    "bbox": [
+      53.9,
+      69.6,
+      533.3,
+      83.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b006",
+    "text": "l’autre et doivent être adaptés à des réalités opérationnelles spécifiques.",
+    "bbox": [
+      53.9,
+      82.8,
+      384.1,
+      96.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b007",
+    "text": "ÉTAPES DE LA GESTION DES INCIDENTS LIÉS AUX DONNÉES",
+    "bbox": [
+      53.5,
+      114.1,
+      413.3,
+      129.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b008",
+    "text": "Après avoir clairement défini ce qui constitue un incident lié aux données, les organisations peuvent",
+    "bbox": [
+      53.4,
+      138.8,
+      511.4,
+      152.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b009",
+    "text": "développer des procédures opérationnelles standard (POS) pour la gestion de tels  incidents.",
+    "bbox": [
+      53.4,
+      152.0,
+      476.1,
+      165.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b010",
+    "text": "Les POS de gestion des incidents liés aux données doivent comprendre les 5 étapes suivantes : 1) .7",
+    "bbox": [
+      53.4,
+      178.4,
+      502.1,
+      192.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b011",
+    "text": "7    Le Centre for Humanitarian Data fournit plusieurs sources d’orientation qui peuvent éclairer l’élaboration des POS  sur la gestion des incidents liés",
+    "bbox": [
+      53.9,
+      715.4,
+      535.0,
+      723.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b012",
+    "text": "aux données sur la page Responsabilité des données.",
+    "bbox": [
+      53.9,
+      724.3,
+      233.6,
+      733.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b013",
+    "text": "8    How to handle incidents according to ISO 27001 A.16, Antonio Jose Segovia, (October 2015.).",
+    "bbox": [
+      53.9,
+      736.3,
+      360.7,
+      745.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b014",
+    "text": "9    Pour les organisations humanitaires, un exemple d’une telle classification est le Cadre conceptuel de la Classification internationale pour la",
+    "bbox": [
+      53.9,
+      748.3,
+      516.6,
+      757.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b015",
+    "text": "sécurité des patients (CISP) de l’Organisation mondiale de la Santé (OMS).",
+    "bbox": [
+      53.9,
+      757.3,
+      297.5,
+      766.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b016",
+    "text": "10 OMS, Cadre conceptuel de la Classification internationale pour la sécurité des patients (CISP).",
+    "bbox": [
+      53.9,
+      769.3,
+      366.2,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b017",
+    "text": "Figure 3: Cinq étapes pour le traitement des incidents de sécurité",
+    "bbox": [
+      177.6,
+      257.3,
+      421.7,
+      268.6
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b018",
+    "text": "(Source : How to handle incidents according to ISO 27001 A.16, Antonio Jose Segovia)8",
+    "bbox": [
+      138.4,
+      268.9,
+      459.1,
+      280.6
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b019",
+    "text": "L’application de ces étapes dans une organisation peut se présenter comme suit :",
+    "bbox": [
+      54.0,
+      295.6,
+      425.1,
+      309.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b020",
+    "text": "1.\tNotification de l’incident : Une personne détecte un incident et informe ses collègues responsables",
+    "bbox": [
+      65.3,
+      318.1,
+      536.4,
+      332.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b021",
+    "text": "en fonction des procédures de communication définies de l’organisation (généralement un e-mail, un",
+    "bbox": [
+      76.6,
+      331.8,
+      540.8,
+      345.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b022",
+    "text": "appel téléphonique, un outil logiciel, etc). Une notification doit contenir, si possible, une description",
+    "bbox": [
+      76.6,
+      345.0,
+      534.9,
+      358.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b023",
+    "text": "des principaux facteurs de risque impliqués dans l’incident : source, événement, vulnérabilité et",
+    "bbox": [
+      76.6,
+      358.2,
+      515.9,
+      372.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b024",
+    "text": "impact.",
+    "bbox": [
+      76.6,
+      371.4,
+      111.4,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b025",
+    "text": "2.\tClassification de l’incident : Le destinataire de la notification classe l’incident en fonction de son",
+    "bbox": [
+      65.3,
+      396.1,
+      524.0,
+      410.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b026",
+    "text": "impact (élevé, moyen ou faible) et de l’urgence du traitement (élevé, moyen ou faible).9 La gestion des",
+    "bbox": [
+      76.6,
+      409.8,
+      542.3,
+      423.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b027",
+    "text": "risques commence par la classification de tous les incidents, que des préjudices tangibles en résultent",
+    "bbox": [
+      76.6,
+      423.0,
+      543.1,
+      436.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b028",
+    "text": "ou non.10",
+    "bbox": [
+      76.6,
+      436.2,
+      118.1,
+      450.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b029",
+    "text": "3.\tTraitement de l’incident : Un expert technique décide des mesures nécessaires pour traiter l’incident",
+    "bbox": [
+      65.3,
+      460.9,
+      544.3,
+      475.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b030",
+    "text": "une fois que l’incident a été classé et que le délai de traitement a été convenu.",
+    "bbox": [
+      76.6,
+      474.6,
+      432.1,
+      488.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b031",
+    "text": "4.\tClôture de l’incident : Toutes les informations générées pendant le traitement sont enregistrées et la",
+    "bbox": [
+      65.3,
+      499.3,
+      541.4,
+      513.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b032",
+    "text": "personne qui a envoyé la première notification de l’incident est informée que l’incident est clos.",
+    "bbox": [
+      76.6,
+      513.0,
+      512.7,
+      526.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b033",
+    "text": "5.\tBase de connaissances : Toutes les informations générées lors du traitement de l’incident sont",
+    "bbox": [
+      65.3,
+      537.7,
+      512.9,
+      552.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b034",
+    "text": "utilisées pour informer et former les collègues, et servent de documents de référence pour de futurs",
+    "bbox": [
+      76.6,
+      551.4,
+      533.3,
+      565.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b035",
+    "text": "incidents similaires.",
+    "bbox": [
+      76.6,
+      564.6,
+      167.8,
+      578.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b036",
+    "text": "Les organisations humanitaires peuvent fonder leurs POS sur ce modèle en 5 étapes, en décrivant",
+    "bbox": [
+      54.0,
+      589.8,
+      500.3,
+      603.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b037",
+    "text": "comment chaque étape doit se dérouler au sein de leur organisation. Ceci doit notamment inclure les",
+    "bbox": [
+      54.0,
+      603.0,
+      518.4,
+      616.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b038",
+    "text": "fonctions, les rôles et les équipes au sein d’une organisation qui sont responsables à chaque étape du",
+    "bbox": [
+      54.0,
+      616.2,
+      518.9,
+      630.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b039",
+    "text": "processus. Ces étapes doivent être intégrées ou étendues aux protocoles existants d’intervention en cas",
+    "bbox": [
+      54.0,
+      629.4,
+      528.4,
+      643.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b040",
+    "text": "d’incident (p. ex. gestion des incidents de sécurité liés à l’accès humanitaire).",
+    "bbox": [
+      54.0,
+      642.6,
+      403.4,
+      656.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b041",
+    "text": "Dans un contexte donné de réponse humanitaire, les organisations doivent également s’engager à intégrer",
+    "bbox": [
+      54.0,
+      669.0,
+      540.9,
+      682.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b042",
+    "text": "toute procédure conjointe de gestion des incidents au sein des structures de coordination existantes, telles",
+    "bbox": [
+      54.0,
+      682.2,
+      542.4,
+      696.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 4,
+    "block_id": "160_p4_b043",
+    "text": "que les clusters et les mécanismes de coordination inter et intra-cluster.",
+    "bbox": [
+      54.0,
+      695.4,
+      380.8,
+      709.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b003",
+    "text": "RECOMMANDATIONS POUR AMÉLIORER LA GESTION DES INCIDENTS LIÉS AUX",
+    "bbox": [
+      53.4,
+      44.8,
+      531.4,
+      59.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b004",
+    "text": "DONNÉES",
+    "bbox": [
+      53.4,
+      58.0,
+      111.9,
+      73.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b005",
+    "text": "L’introduction ou l’amélioration de la gestion des incidents liés aux données dans les opérations",
+    "bbox": [
+      53.0,
+      83.8,
+      492.4,
+      97.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b006",
+    "text": "humanitaires est essentielle pour une pratique liée aux données plus responsable dans le secteur. Le",
+    "bbox": [
+      53.0,
+      97.0,
+      513.3,
+      110.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b007",
+    "text": "Centre for Humanitarian Data recommande aux organisations de concentrer leurs efforts sur les domaines",
+    "bbox": [
+      53.0,
+      110.2,
+      538.5,
+      124.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b008",
+    "text": "suivants :",
+    "bbox": [
+      53.0,
+      123.4,
+      95.9,
+      137.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b009",
+    "text": "1.\tÉtablir une interprétation commune de la gestion des incidents liés aux données",
+    "bbox": [
+      64.3,
+      149.3,
+      461.3,
+      163.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b010",
+    "text": "Utiliser un modèle de risque pour comprendre l’enchaînement d’évènements susceptibles d’entraîner",
+    "bbox": [
+      75.6,
+      163.0,
+      541.4,
+      176.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b011",
+    "text": "des incidents pour des bureaux et des systèmes spécifiques. Identifier les principaux acteurs de",
+    "bbox": [
+      75.6,
+      176.2,
+      511.8,
+      190.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b012",
+    "text": "menaces et les vulnérabilités des bureaux et des systèmes. Connaître les contrôles de sécurité",
+    "bbox": [
+      75.6,
+      189.4,
+      505.2,
+      203.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b013",
+    "text": "existants et comprendre leur efficacité. Enfin, cartographier la capacité existante de gestion des",
+    "bbox": [
+      75.6,
+      202.6,
+      511.7,
+      216.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b014",
+    "text": "incidents liés aux données et déterminer si elle est bien positionnée. Une fois que des définitions",
+    "bbox": [
+      75.6,
+      215.8,
+      518.2,
+      229.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b015",
+    "text": "et des processus clairs ont été formulés, investir dans la sensibilisation du personnel et soutenir",
+    "bbox": [
+      75.6,
+      229.0,
+      513.9,
+      242.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b016",
+    "text": "une culture de dialogue ouvert sur les incidents, dans laquelle le reporting proactif et la gestion des",
+    "bbox": [
+      75.6,
+      242.2,
+      530.6,
+      256.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b017",
+    "text": "incidents sont incités, et non punis.",
+    "bbox": [
+      75.6,
+      255.4,
+      237.2,
+      269.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b018",
+    "text": "2.\tRenforcer la capacité de gestion des incidents liés aux données",
+    "bbox": [
+      64.3,
+      281.3,
+      377.6,
+      295.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b019",
+    "text": "Prendre des mesures pour mettre en place des contrôles de sécurité afin de réduire le risque",
+    "bbox": [
+      75.6,
+      295.0,
+      498.0,
+      308.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b020",
+    "text": "d’incidents liés aux données et partager les meilleures pratiques avec les partenaires. S’appuyer",
+    "bbox": [
+      75.6,
+      308.2,
+      514.6,
+      322.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b021",
+    "text": "sur le travail existant dans le secteur pour combler les lacunes de gouvernance qui peuvent créer",
+    "bbox": [
+      75.6,
+      321.4,
+      518.1,
+      335.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b022",
+    "text": "des vulnérabilités pour votre organisation. Collaborer avec les partenaires organisationnels pour",
+    "bbox": [
+      75.6,
+      334.6,
+      517.7,
+      348.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b023",
+    "text": "mettre en place des canaux d’information autour des incidents liés aux données. Partager les",
+    "bbox": [
+      75.6,
+      347.8,
+      501.2,
+      361.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b024",
+    "text": "vulnérabilités connues de manière contrôlée avec des homologues de confiance pour l’apprentissage",
+    "bbox": [
+      75.6,
+      361.0,
+      539.1,
+      374.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b025",
+    "text": "inter-organisationnel.",
+    "bbox": [
+      75.6,
+      374.2,
+      175.1,
+      388.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b026",
+    "text": "3.\tSoutenir l’apprentissage continu",
+    "bbox": [
+      64.3,
+      400.1,
+      233.7,
+      414.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b027",
+    "text": "Soutenir l’apprentissage et le développement de meilleures pratiques de gestion des incidents liés",
+    "bbox": [
+      75.6,
+      413.8,
+      526.1,
+      427.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b028",
+    "text": "aux données en organisant des formations et des exercices basés sur des scénarios susceptibles de",
+    "bbox": [
+      75.6,
+      427.0,
+      527.5,
+      440.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b029",
+    "text": "se produire dans différents contextes opérationnels. Ces exercices doivent avoir lieu régulièrement et",
+    "bbox": [
+      75.6,
+      440.2,
+      538.1,
+      454.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b030",
+    "text": "peuvent même impliquer que plusieurs organisations se forment et s’entraînent ensemble. En outre,",
+    "bbox": [
+      75.6,
+      453.4,
+      536.1,
+      467.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b031",
+    "text": "documenter les incidents réels liés aux données comme cas d’étude pour le développement interne",
+    "bbox": [
+      75.6,
+      466.6,
+      532.1,
+      480.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b032",
+    "text": "des connaissances.",
+    "bbox": [
+      75.6,
+      479.8,
+      163.4,
+      493.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b033",
+    "text": "Les organisations sont encouragées à partager leur expérience dans le développement de la gestion des",
+    "bbox": [
+      53.0,
+      506.2,
+      527.9,
+      520.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b034",
+    "text": "incidents liés aux données avec le Centre for Humanitarian Data via centrehumdata@un.org.",
+    "bbox": [
+      53.0,
+      519.2,
+      478.2,
+      533.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b035",
+    "text": "COLLABORATEUR: UNIVERSITÉ DE YALE, JACKSON INSTITUTE OF GLOBAL AFFAIRS.",
+    "bbox": [
+      53.4,
+      574.9,
+      402.2,
+      587.8
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b036",
+    "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+    "bbox": [
+      65.2,
+      603.2,
+      503.7,
+      616.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b037",
+    "text": "clés, publie une série de huit notes d’orientation sur la Responsabilité des données dans l’action humanitaire",
+    "bbox": [
+      65.2,
+      615.6,
+      517.8,
+      628.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b038",
+    "text": "au cours de 2019 et 2020. La série de notes d’orientation fait suite à la publication du projet de directives",
+    "bbox": [
+      65.2,
+      627.4,
+      500.9,
+      640.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b039",
+    "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+    "bbox": [
+      65.2,
+      639.4,
+      515.1,
+      652.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b040",
+    "text": "des Nations Unies (UNOCHA) en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+    "bbox": [
+      65.2,
+      651.4,
+      519.9,
+      664.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b041",
+    "text": "supplémentaires sur des questions, des processus et des outils spécifiques pour la Responsabilité des données",
+    "bbox": [
+      65.2,
+      663.6,
+      526.3,
+      676.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b042",
+    "text": "dans la pratique. Cette série est rendue possible grâce au généreux soutien de la Direction générale de",
+    "bbox": [
+      65.2,
+      675.6,
+      489.7,
+      688.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b043",
+    "text": "protection civile et opérations d’aide humanitaire européennes (DG ECHO).",
+    "bbox": [
+      65.2,
+      687.6,
+      378.0,
+      700.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b044",
+    "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+    "bbox": [
+      65.2,
+      711.6,
+      522.8,
+      724.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "160",
+    "page_number": 5,
+    "block_id": "160_p5_b045",
+    "text": "Affaires Etrangètres.",
+    "bbox": [
+      65.2,
+      723.6,
+      148.5,
+      736.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

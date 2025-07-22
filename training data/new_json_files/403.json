@@ -1,0 +1,3227 @@
+[
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b002",
+    "text": "The Centre for Humanitarian Data’s ​Peer Review Framework for Predictive Analytics in Humanitarian",
+    "bbox": [
+      72.0,
+      106.2,
+      523.3,
+      125.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b003",
+    "text": "Response​ aims to create standards and processes for the use of models in our sector. The Framework",
+    "bbox": [
+      72.0,
+      121.9,
+      523.0,
+      141.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b004",
+    "text": "consists of five steps: model submission, technical review, implementation plan submission, ethical",
+    "bbox": [
+      72.0,
+      137.7,
+      514.8,
+      151.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b005",
+    "text": "review, and final report. The output of the model submission is a completed Model Card that includes",
+    "bbox": [
+      72.0,
+      154.2,
+      523.0,
+      168.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b006",
+    "text": "information about the intended use, model development, model evaluation, and operational readiness.",
+    "bbox": [
+      72.0,
+      169.9,
+      535.6,
+      183.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b007",
+    "text": "For further information, please contact Leonardo Milano: ​leonardo.milano@un.org​.",
+    "bbox": [
+      72.0,
+      185.7,
+      448.6,
+      205.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b008",
+    "text": "OCHA-Bucky COVID-19 Model - October 2020",
+    "bbox": [
+      192.8,
+      221.4,
+      426.7,
+      239.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b009",
+    "text": "Model Summary",
+    "bbox": [
+      77.2,
+      244.6,
+      170.1,
+      262.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b010",
+    "text": "Organization developing the model: OCHA Centre for Humanitarian Data in collaboration",
+    "bbox": [
+      113.2,
+      262.2,
+      522.0,
+      276.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b011",
+    "text": "with the Johns Hopkins University Applied Physics Laboratory (APL).",
+    "bbox": [
+      113.2,
+      278.7,
+      428.0,
+      292.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b012",
+    "text": "Model date:  Official release on 28 October 2020",
+    "bbox": [
+      113.2,
+      294.4,
+      332.6,
+      308.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b013",
+    "text": "Model version: V1 - October 2020",
+    "bbox": [
+      113.2,
+      310.2,
+      264.9,
+      324.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b014",
+    "text": "Model type: Spatially distributed SEIR model",
+    "bbox": [
+      113.2,
+      325.9,
+      319.3,
+      339.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b015",
+    "text": "License: ​MIT​ License",
+    "bbox": [
+      113.2,
+      341.7,
+      208.5,
+      361.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b016",
+    "text": "Main contacts:  Leonardo Milano, Predictive Analytics team lead, UN OCHA Centre for",
+    "bbox": [
+      113.2,
+      358.2,
+      503.2,
+      372.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b017",
+    "text": "Humanitarian Data leonardo.milano.un.org",
+    "bbox": [
+      113.2,
+      373.9,
+      318.9,
+      387.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b018",
+    "text": "Link): ​GitHub Repository​ and ​Methodology paper",
+    "bbox": [
+      113.2,
+      389.7,
+      341.6,
+      409.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b019",
+    "text": "1.  Intended Use",
+    "bbox": [
+      77.2,
+      422.4,
+      159.1,
+      440.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b020",
+    "text": "In-scope use cases: what is the actual and potential scope of the model? Describe the",
+    "bbox": [
+      113.2,
+      439.9,
+      504.1,
+      453.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b021",
+    "text": "situations in which the model output is expected to be reliable.",
+    "bbox": [
+      113.2,
+      455.7,
+      403.4,
+      469.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b022",
+    "text": "OCHA-Bucky model is a COVID-19 metapopulation compartment model initially designed to",
+    "bbox": [
+      77.2,
+      487.9,
+      498.6,
+      501.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b023",
+    "text": "estimate medium-term (on the order of weeks) case incidence and healthcare usage at the second",
+    "bbox": [
+      77.2,
+      503.7,
+      528.1,
+      517.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b024",
+    "text": "administrative (admin-2, ADM2) level. These ADM2 regions are all coupled using mobility information",
+    "bbox": [
+      77.2,
+      519.4,
+      539.8,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b025",
+    "text": "to approximate the inter- and intra-regional contacts between the members of the populations.",
+    "bbox": [
+      77.2,
+      535.2,
+      516.3,
+      549.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b026",
+    "text": "The model is therefore expected to be reliable for short to medium term projections in all situations",
+    "bbox": [
+      77.2,
+      551.7,
+      534.3,
+      565.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b027",
+    "text": "in which data is available to tune all the model’s parameters.",
+    "bbox": [
+      77.2,
+      567.4,
+      357.3,
+      581.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b028",
+    "text": "Out-of-scope use cases: what are the model’s limits and constraints?",
+    "bbox": [
+      113.2,
+      598.9,
+      428.9,
+      612.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b029",
+    "text": "The OCHA-Bucky methodology is not expected to be applicable for estimating:",
+    "bbox": [
+      77.2,
+      631.2,
+      438.0,
+      645.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b030",
+    "text": "Spread and patterns at a very granular level (city, neighborhood, refugee camp, etc.). Other",
+    "bbox": [
+      113.2,
+      646.9,
+      532.1,
+      660.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b031",
+    "text": "models such as Agent-Based Models are expected to be more reliable in these situations.",
+    "bbox": [
+      113.2,
+      662.7,
+      520.4,
+      676.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b032",
+    "text": "Non-human-to-human communicable diseases. The main transmission route simulated by",
+    "bbox": [
+      113.2,
+      678.4,
+      530.1,
+      692.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 1,
+    "block_id": "403_p1_b033",
+    "text": "OCHA-Bucky is based on contacts between people.",
+    "bbox": [
+      113.2,
+      694.2,
+      348.1,
+      708.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b002",
+    "text": "Describe the situations in which the model output may not be reliable?",
+    "bbox": [
+      113.2,
+      113.7,
+      438.8,
+      127.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b003",
+    "text": "The main know limitations of the model are linked to:",
+    "bbox": [
+      77.2,
+      145.2,
+      324.3,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b004",
+    "text": "The lack of data to tune the model parameters. In absence of such datasets, the model could",
+    "bbox": [
+      113.2,
+      160.9,
+      538.4,
+      174.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b005",
+    "text": "be tuned based on assumptions but the ​projections will depend on them and should be",
+    "bbox": [
+      113.2,
+      176.7,
+      515.0,
+      196.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b006",
+    "text": "interpreted accordingly​. The main inputs to OCHA-Bucky are:",
+    "bbox": [
+      113.2,
+      193.2,
+      394.8,
+      212.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b007",
+    "text": "Subnational historical COVID-19 cases and deaths data to tune the reproduction rate",
+    "bbox": [
+      149.2,
+      208.9,
+      538.2,
+      222.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b008",
+    "text": "Subnational age-disaggregated population data",
+    "bbox": [
+      149.2,
+      224.7,
+      371.6,
+      238.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b009",
+    "text": "Data on non-pharmaceutical interventions currently in place or planned, as it",
+    "bbox": [
+      149.2,
+      240.4,
+      504.4,
+      254.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b010",
+    "text": "impacts the projected reproduction rate",
+    "bbox": [
+      149.2,
+      256.2,
+      335.7,
+      270.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b011",
+    "text": "Contact matrices estimating the social mixing of different age groups",
+    "bbox": [
+      149.2,
+      272.7,
+      466.7,
+      286.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b012",
+    "text": "Location-specific vulnerability factors which may impact the severity of symptoms or",
+    "bbox": [
+      149.2,
+      288.4,
+      539.6,
+      302.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b013",
+    "text": "the mortality.",
+    "bbox": [
+      149.2,
+      304.2,
+      214.0,
+      318.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b014",
+    "text": "The time horizon of the projections. Given the very dynamic nature of the situation, the",
+    "bbox": [
+      113.2,
+      319.9,
+      512.8,
+      333.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b015",
+    "text": "model assumptions change over time. The model has been used so far to produce four week",
+    "bbox": [
+      113.2,
+      335.7,
+      536.9,
+      349.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b016",
+    "text": "projections at the national level and two week projections at the subnational level.",
+    "bbox": [
+      113.2,
+      351.4,
+      493.5,
+      365.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b017",
+    "text": "OCHA-Bucky could be used to explore longer term trends but the ​results should be",
+    "bbox": [
+      113.2,
+      367.9,
+      492.1,
+      387.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b018",
+    "text": "interpreted as a scenario exploration/comparison tool and not as a quantitative model​.",
+    "bbox": [
+      113.2,
+      383.7,
+      514.3,
+      403.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b019",
+    "text": "D. Model interpretation: what does the output represent?",
+    "bbox": [
+      95.2,
+      415.2,
+      365.3,
+      429.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b020",
+    "text": "Model output consists of future projections of geographically distributed COVID-19 cases and deaths,",
+    "bbox": [
+      77.2,
+      447.4,
+      540.5,
+      461.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b021",
+    "text": "as well as severe cases (defined as a proportion of total cases). Moreover, the model projects the",
+    "bbox": [
+      77.2,
+      463.2,
+      518.8,
+      477.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b022",
+    "text": "impact of implemented Non-Pharmaceutical Interventions (NPIs).",
+    "bbox": [
+      77.2,
+      478.9,
+      380.5,
+      492.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b023",
+    "text": "2.  Model Development",
+    "bbox": [
+      77.2,
+      510.9,
+      197.4,
+      528.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b024",
+    "text": "Details of the datasets used to build the model.",
+    "bbox": [
+      113.2,
+      529.2,
+      331.0,
+      543.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b025",
+    "text": "- Describe the sources of data, size, and scope of the datasets.",
+    "bbox": [
+      77.2,
+      544.9,
+      399.0,
+      558.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b026",
+    "text": "For a detailed description of the input datasets and their use in OCHA-Bucky please refer to section",
+    "bbox": [
+      77.2,
+      577.2,
+      530.6,
+      591.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b027",
+    "text": "2.3 in the ​OCHA-Bucky methodology paper.",
+    "bbox": [
+      77.2,
+      592.9,
+      277.6,
+      612.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b028",
+    "text": "These are the datasets needed to run OCHA-Bucky’s projections:",
+    "bbox": [
+      77.2,
+      608.7,
+      374.0,
+      622.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b029",
+    "text": "Population Data: Administrative boundaries shapefiles at the ADM2 level from the",
+    "bbox": [
+      113.2,
+      624.4,
+      488.2,
+      638.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b030",
+    "text": "Humanitarian Data Exchange (HDX)​ and the  United Nations-adjusted ​WorldPop​ age and",
+    "bbox": [
+      113.2,
+      640.2,
+      518.4,
+      659.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b031",
+    "text": "sex-disaggregated population raster data.",
+    "bbox": [
+      113.2,
+      656.7,
+      307.5,
+      670.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b032",
+    "text": "Vulnerability Parameters: the fraction of the population in an ADM2 region that is particularly",
+    "bbox": [
+      113.2,
+      672.4,
+      539.9,
+      686.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 2,
+    "block_id": "403_p2_b033",
+    "text": "vulnerable to COVID-19 is estimated by calculating the proportion of the population affected",
+    "bbox": [
+      113.2,
+      688.2,
+      537.6,
+      702.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b002",
+    "text": "by the following  factors:",
+    "bbox": [
+      113.2,
+      97.2,
+      228.1,
+      111.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b003",
+    "text": "Food insecurity: Food insecurity data is obtained from the ​Integrated Food Security",
+    "bbox": [
+      149.2,
+      113.7,
+      531.9,
+      133.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b004",
+    "text": "Phase Classification (IPC)​ Global Platform",
+    "bbox": [
+      149.2,
+      129.4,
+      341.8,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b005",
+    "text": "Indoor air pollution - indoor cooking fuels. Data on the use of solid fuels is obtained",
+    "bbox": [
+      149.2,
+      145.2,
+      531.6,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b006",
+    "text": "from the ​World Health Organization​.",
+    "bbox": [
+      149.2,
+      160.9,
+      317.7,
+      180.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b007",
+    "text": "Mobility Data: Road density data from Humanitarian ​OpenStreetMap (HOTOSM) ​is used to",
+    "bbox": [
+      113.2,
+      176.7,
+      525.3,
+      196.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b008",
+    "text": "estimate the strength of the connection between all ADM2 regions considered.",
+    "bbox": [
+      113.2,
+      193.2,
+      473.3,
+      207.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b009",
+    "text": "COVID-19 Cases and Deaths: In most countries of interest, the source for COVID case counts is",
+    "bbox": [
+      113.2,
+      208.9,
+      540.6,
+      222.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b010",
+    "text": "the nation’s Ministry of Public Health. Additional federal (ADM0) historical data is also",
+    "bbox": [
+      113.2,
+      224.7,
+      505.1,
+      238.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b011",
+    "text": "obtained from the WHO.",
+    "bbox": [
+      113.2,
+      240.4,
+      226.7,
+      254.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b012",
+    "text": "Contact Matrix: Contact matrices quantify how much people from different age groups",
+    "bbox": [
+      113.2,
+      256.2,
+      509.9,
+      270.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b013",
+    "text": "interact, and are extracted from ​Prem et al​.",
+    "bbox": [
+      113.2,
+      272.7,
+      312.7,
+      292.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b014",
+    "text": "Non-pharmaceutical Interventions (NPIs): For each country, an initial list of NPIs was",
+    "bbox": [
+      113.2,
+      288.4,
+      501.3,
+      302.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b015",
+    "text": "obtained from the ​ACAPS COVID-19 Government Measures Dataset.",
+    "bbox": [
+      113.2,
+      304.2,
+      424.4,
+      323.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b016",
+    "text": "- Is it representative of the population being sampled?",
+    "bbox": [
+      77.2,
+      335.7,
+      364.1,
+      349.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b017",
+    "text": "For the population figures and vulnerability estimates, we largely rely on data collected by partner",
+    "bbox": [
+      77.2,
+      367.9,
+      528.4,
+      381.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b018",
+    "text": "organizations directly in the countries that we are modeling. The population data obtained from",
+    "bbox": [
+      77.2,
+      383.7,
+      518.9,
+      397.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b019",
+    "text": "World Pop is compared and adjusted to match the population figures used for Humanitarian",
+    "bbox": [
+      77.2,
+      399.4,
+      501.2,
+      413.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b020",
+    "text": "Response Planning. Vulnerability parameters may not be up-to-date. For each indicator, we look for",
+    "bbox": [
+      77.2,
+      415.2,
+      534.7,
+      429.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b021",
+    "text": "the most recent and reliable data.",
+    "bbox": [
+      77.2,
+      430.9,
+      234.4,
+      444.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b022",
+    "text": "- How accurate or reliable is the training data?",
+    "bbox": [
+      77.2,
+      463.2,
+      327.4,
+      477.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b023",
+    "text": "One of the main inputs to the model is the historical cumulative number of COVID-19 cases and",
+    "bbox": [
+      77.2,
+      494.7,
+      512.9,
+      508.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b024",
+    "text": "deaths. This dataset is used to tune the parameters of the model related to disease transmission.",
+    "bbox": [
+      77.2,
+      510.4,
+      521.9,
+      524.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b025",
+    "text": "OCHA-Bucky partially corrects for the known gaps and reporting delays in the COVID-19 data",
+    "bbox": [
+      77.2,
+      526.9,
+      501.4,
+      540.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b026",
+    "text": "reported by the authorities in the following way:",
+    "bbox": [
+      77.2,
+      542.7,
+      299.8,
+      556.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b027",
+    "text": "OCHA-Bucky uses recent data to estimate the fraction of cases expected to be reported and",
+    "bbox": [
+      113.2,
+      558.4,
+      532.3,
+      572.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b028",
+    "text": "corrects the projections to account for large underreporting observed in these countries.",
+    "bbox": [
+      113.2,
+      574.2,
+      520.2,
+      588.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b029",
+    "text": "Rather than explicitly including a parameter controlling the transmission rate, Bucky uses",
+    "bbox": [
+      113.2,
+      589.9,
+      524.7,
+      603.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b030",
+    "text": "the recent historical data to estimate transmission at the local level.",
+    "bbox": [
+      113.2,
+      605.7,
+      426.1,
+      619.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b031",
+    "text": "- How is missing data treated? (e.g., exclusion, single imputation, multiple imputation)",
+    "bbox": [
+      77.2,
+      637.9,
+      511.0,
+      651.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b032",
+    "text": "Missing data is generally related to the number of cases and deaths at the subnational level. We deal",
+    "bbox": [
+      77.2,
+      669.4,
+      537.1,
+      683.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 3,
+    "block_id": "403_p3_b033",
+    "text": "with it in the following ways:",
+    "bbox": [
+      77.2,
+      685.2,
+      209.8,
+      699.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b002",
+    "text": "Parameters extracted from national level data (mainly the Doubling Time and the Case",
+    "bbox": [
+      113.2,
+      97.2,
+      511.2,
+      111.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b003",
+    "text": "Reporting Rate) are applied at the ADM2 level when the information for calculating them at",
+    "bbox": [
+      113.2,
+      113.7,
+      530.3,
+      127.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b004",
+    "text": "the local level is missing or insufficient.",
+    "bbox": [
+      113.2,
+      129.4,
+      294.0,
+      143.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b005",
+    "text": "We apply a rolling average, typically with a 14-day rolling window, to smooth out",
+    "bbox": [
+      113.2,
+      145.2,
+      483.7,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b006",
+    "text": "fluctuations in the input datasets.",
+    "bbox": [
+      113.2,
+      160.9,
+      272.1,
+      174.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b007",
+    "text": "What are the model assumptions and approximations?",
+    "bbox": [
+      113.2,
+      193.2,
+      365.9,
+      207.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b008",
+    "text": "Like most of the SEIR models, OCHA-Bucky assumes that:",
+    "bbox": [
+      77.2,
+      224.7,
+      341.0,
+      238.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b009",
+    "text": "Disease transmission is happening exclusively via human-to-human contacts",
+    "bbox": [
+      113.2,
+      240.4,
+      466.8,
+      254.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b010",
+    "text": "People that recover from the disease will be immune and therefore cannot be reinfected",
+    "bbox": [
+      113.2,
+      256.2,
+      518.6,
+      270.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b011",
+    "text": "As we are focusing on short to medium term projections we assume birth rates to be",
+    "bbox": [
+      113.2,
+      272.7,
+      499.8,
+      286.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b012",
+    "text": "negligible",
+    "bbox": [
+      113.2,
+      288.4,
+      160.6,
+      302.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b013",
+    "text": "The severity of severe symptoms and covid related deaths are assumed to be dependent on",
+    "bbox": [
+      113.2,
+      304.2,
+      533.6,
+      318.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b014",
+    "text": "people’s age and vulnerability factors. The impact of COVID-19 on access to healthcare",
+    "bbox": [
+      113.2,
+      319.9,
+      510.8,
+      333.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b015",
+    "text": "facilities is not simulated in OCHA Bucky.",
+    "bbox": [
+      113.2,
+      335.7,
+      302.3,
+      349.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b016",
+    "text": "Death rates from causes other than COVID-19 are also assumed to be negligible within the",
+    "bbox": [
+      113.2,
+      351.4,
+      525.1,
+      365.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b017",
+    "text": "timeframe considered in the simulations.",
+    "bbox": [
+      113.2,
+      367.9,
+      303.9,
+      381.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b018",
+    "text": "Methodology - provide a description of the different analysis steps and how the input",
+    "bbox": [
+      113.2,
+      399.4,
+      503.6,
+      413.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b019",
+    "text": "datasets are used to train the model.",
+    "bbox": [
+      113.2,
+      415.2,
+      283.6,
+      429.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b020",
+    "text": "The OCHA-Bucky model consists of a series of adjustments to an existing COVID-19 model",
+    "bbox": [
+      77.2,
+      447.4,
+      487.8,
+      461.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b021",
+    "text": "(JHUAPL-Bucky) that was developed as part of the Centers for Disease Control and Prevention (CDC)",
+    "bbox": [
+      77.2,
+      463.2,
+      536.7,
+      477.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b022",
+    "text": "COVID-19 Mathematical Modeling Forecasting Ensemble.",
+    "bbox": [
+      77.2,
+      478.9,
+      339.0,
+      492.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b023",
+    "text": "OCHA-Bucky is a collection of coupled and stratified SEIR models. Since COVID-19 exhibits heavily",
+    "bbox": [
+      77.2,
+      494.7,
+      525.0,
+      508.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b024",
+    "text": "age-dependent properties, wherein a majority of severe cases are in older individuals, SEIR models",
+    "bbox": [
+      77.2,
+      510.4,
+      530.3,
+      524.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b025",
+    "text": "are stratified via the age demographic structure of a geographic region to obtain accurate estimates",
+    "bbox": [
+      77.2,
+      526.9,
+      535.6,
+      540.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b026",
+    "text": "of case severity and deaths. Additionally, to model the spatial dynamics of COVID spread, we",
+    "bbox": [
+      77.2,
+      542.7,
+      501.3,
+      556.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b027",
+    "text": "consider a set of SEIR sub-models at the smallest geographic level for which we have appropriate",
+    "bbox": [
+      77.2,
+      558.4,
+      522.7,
+      572.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b028",
+    "text": "data. For a full description of the methodology please refer to the ​OCHA-Bucky methodology paper.",
+    "bbox": [
+      77.2,
+      574.2,
+      533.8,
+      593.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b029",
+    "text": "3.  Model Evaluation",
+    "bbox": [
+      77.2,
+      606.1,
+      185.2,
+      623.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b030",
+    "text": "Are there other similar existing models and how does this model compare?",
+    "bbox": [
+      113.2,
+      624.4,
+      456.9,
+      638.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b031",
+    "text": "OCHA-Bucky is a subnational implementation of a broad class of SEIR models that have been used to",
+    "bbox": [
+      77.2,
+      656.7,
+      539.6,
+      670.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b032",
+    "text": "project the impact of COVID-19. In the United States context, the parent model (JHUAPL-Bucky) is",
+    "bbox": [
+      77.2,
+      672.4,
+      524.7,
+      686.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 4,
+    "block_id": "403_p4_b033",
+    "text": "included in the Centers for Disease Control and Prevention (CDC) COVID-19 ​Mathematical Modeling",
+    "bbox": [
+      77.2,
+      688.2,
+      530.9,
+      707.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b002",
+    "text": "Forecasting Ensemble​.",
+    "bbox": [
+      77.2,
+      97.2,
+      183.5,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b003",
+    "text": "The figure below highlights some of the features of OCHA-Bucky which makes it more adaptable to",
+    "bbox": [
+      77.2,
+      113.7,
+      529.8,
+      127.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b004",
+    "text": "humanitarian contexts.",
+    "bbox": [
+      77.2,
+      129.4,
+      186.4,
+      143.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b005",
+    "text": "Figure 1: features of OCHA-Bucky making it adaptable to humanitarian contexts.",
+    "bbox": [
+      128.2,
+      334.9,
+      488.8,
+      348.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b006",
+    "text": "Have there been any past peer reviews, such as published papers or other review exercises?",
+    "bbox": [
+      113.2,
+      366.4,
+      533.2,
+      380.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b007",
+    "text": "The model hasn’t been published in a peer-reviewed journal yet.",
+    "bbox": [
+      77.2,
+      398.7,
+      373.8,
+      412.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b008",
+    "text": "Is there any reference or benchmark used to evaluate the performance?",
+    "bbox": [
+      113.2,
+      430.2,
+      442.7,
+      444.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b009",
+    "text": "The Bucky model has been validated using U.S. case data. The validation has shown good agreement",
+    "bbox": [
+      77.2,
+      461.7,
+      540.7,
+      475.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b010",
+    "text": "on daily figures with no significant model bias. Some noise on daily case & death counts, especially",
+    "bbox": [
+      77.2,
+      477.4,
+      530.4,
+      491.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b011",
+    "text": "at small numbers is observed.",
+    "bbox": [
+      77.2,
+      493.9,
+      216.1,
+      507.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b012",
+    "text": "The OCHA team is currently working on the validation of the OCHA-Bucky in Afghanistan and",
+    "bbox": [
+      77.2,
+      509.7,
+      501.5,
+      523.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b013",
+    "text": "potentially other humanitarian contexts.",
+    "bbox": [
+      77.2,
+      525.4,
+      265.7,
+      539.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b014",
+    "text": "D. What are the metrics used for model evaluation? Why have these metrics been selected?",
+    "bbox": [
+      95.2,
+      556.9,
+      518.1,
+      570.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b015",
+    "text": "Describe current model performance.",
+    "bbox": [
+      113.2,
+      573.4,
+      287.4,
+      587.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b016",
+    "text": "The model has been evaluated by looking at residuals between projected and actual cases on",
+    "bbox": [
+      77.2,
+      604.9,
+      506.1,
+      618.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b017",
+    "text": "historical model runs. The figure below shows the validation of the JHUAPL-Bucky model in the U.S.",
+    "bbox": [
+      77.2,
+      620.7,
+      535.0,
+      634.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b018",
+    "text": "Most of the data points lie within the estimated model uncertainty band and no significant bias is",
+    "bbox": [
+      77.2,
+      636.4,
+      522.6,
+      650.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 5,
+    "block_id": "403_p5_b019",
+    "text": "observed.",
+    "bbox": [
+      77.2,
+      652.9,
+      127.0,
+      666.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b002",
+    "text": "Figure 2: validation of the JHUAPL-Bucky model in the U.S. Most of the data points lie within the",
+    "bbox": [
+      96.0,
+      357.4,
+      521.1,
+      371.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b003",
+    "text": "estimated model uncertainty band and no significant bias is observed.",
+    "bbox": [
+      150.8,
+      373.2,
+      466.3,
+      387.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b004",
+    "text": "How does performance depend on forecast lead time?",
+    "bbox": [
+      113.2,
+      405.4,
+      363.5,
+      419.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b005",
+    "text": "The reliability of the projections decreases with lead time. The main factor having an impact on this",
+    "bbox": [
+      77.2,
+      436.9,
+      533.3,
+      450.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b006",
+    "text": "is not a limitation of the methodology used but rather the dynamic nature of the disease. At the",
+    "bbox": [
+      77.2,
+      452.7,
+      514.2,
+      466.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b007",
+    "text": "beginning of the outbreak, COVID-19 was spreading in an uncontrolled way in many countries",
+    "bbox": [
+      77.2,
+      469.2,
+      506.5,
+      483.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b008",
+    "text": "resulting in a high reproduction rate (a measure of how fast cases are growing). As governments",
+    "bbox": [
+      77.2,
+      484.9,
+      516.5,
+      498.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b009",
+    "text": "implemented mitigation measures to slow the spread of the disease, the reproduction rate dropped.",
+    "bbox": [
+      77.2,
+      500.7,
+      538.2,
+      514.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b010",
+    "text": "Long term projections couldn’t capture this evolution. We suggest using OCHA-Bucky for projecting",
+    "bbox": [
+      77.2,
+      516.4,
+      532.8,
+      530.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b011",
+    "text": "cases and deaths up to four weeks out. The model can however be used as a scenario exploration",
+    "bbox": [
+      77.2,
+      532.2,
+      523.5,
+      546.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b012",
+    "text": "tool (i.e. not as a quantitative model) for longer lead times.",
+    "bbox": [
+      77.2,
+      547.9,
+      348.1,
+      561.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b013",
+    "text": "What is the risk tolerance of the model? What happens if the model produces false positives,",
+    "bbox": [
+      113.2,
+      580.2,
+      536.0,
+      594.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b014",
+    "text": "false negatives?",
+    "bbox": [
+      113.2,
+      595.9,
+      188.1,
+      609.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b015",
+    "text": "Inaccuracies of the model are limited in the following ways:",
+    "bbox": [
+      77.2,
+      632.7,
+      350.6,
+      646.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b016",
+    "text": "Projections are limited to four weeks at the national level and to two weeks at the",
+    "bbox": [
+      113.2,
+      648.4,
+      488.0,
+      662.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b017",
+    "text": "subnational level.",
+    "bbox": [
+      113.2,
+      664.2,
+      197.0,
+      678.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b018",
+    "text": "Every time a new model run is performed, the disease transmission parameters are",
+    "bbox": [
+      113.2,
+      679.9,
+      494.3,
+      693.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 6,
+    "block_id": "403_p6_b019",
+    "text": "recalibrated from recent data.",
+    "bbox": [
+      113.2,
+      696.4,
+      253.3,
+      710.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b002",
+    "text": "Uncertainties are calculated by varying most of the model parameters within uncertainties",
+    "bbox": [
+      113.2,
+      97.2,
+      529.3,
+      111.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b003",
+    "text": "(Monte Carlo simulation).",
+    "bbox": [
+      113.2,
+      113.7,
+      231.9,
+      127.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b004",
+    "text": "Projections are always presented as a range which covers the projection uncertainties.",
+    "bbox": [
+      113.2,
+      129.4,
+      510.5,
+      143.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b005",
+    "text": "4.  Operational Readiness",
+    "bbox": [
+      77.2,
+      165.9,
+      211.9,
+      183.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b006",
+    "text": "Is the model ready to be used to inform humanitarian response?",
+    "bbox": [
+      113.2,
+      184.2,
+      408.7,
+      198.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b007",
+    "text": "-Is the model kept up-to-date with the latest datasets?",
+    "bbox": [
+      77.2,
+      200.7,
+      365.2,
+      214.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b008",
+    "text": "Yes, the Centre for Humanitarian Data is updating the input datasets and the projections on a regular",
+    "bbox": [
+      77.2,
+      232.2,
+      540.2,
+      246.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b009",
+    "text": "basis. Based on the projections reports are produced and shared with the OCHA country offices and",
+    "bbox": [
+      77.2,
+      247.9,
+      533.6,
+      261.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b010",
+    "text": "other stakeholders. All the reports can be accessed ​here​.",
+    "bbox": [
+      77.2,
+      263.7,
+      337.7,
+      283.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b011",
+    "text": "-  Who is responsible for model updating and/or recalibration?",
+    "bbox": [
+      77.2,
+      295.9,
+      396.3,
+      309.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b012",
+    "text": "The Predictive Analytics team of the OCHA Centre for Humanitarian Data.",
+    "bbox": [
+      77.2,
+      327.4,
+      413.3,
+      341.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b013",
+    "text": "-  Is the model ready to be deployed? If not, what are the additional steps needed (e.g. further",
+    "bbox": [
+      77.2,
+      358.9,
+      540.3,
+      372.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b014",
+    "text": "research, validation, updates)?",
+    "bbox": [
+      77.2,
+      375.4,
+      260.3,
+      389.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b015",
+    "text": "The model has been already deployed and used at different levels to better inform COVID-19",
+    "bbox": [
+      77.2,
+      406.9,
+      500.5,
+      420.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b016",
+    "text": "response strategies.",
+    "bbox": [
+      77.2,
+      422.7,
+      171.5,
+      436.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b017",
+    "text": "Has the model been developed in collaboration with operational partners? Has the model",
+    "bbox": [
+      113.2,
+      454.9,
+      525.4,
+      468.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b018",
+    "text": "previously been used in humanitarian situations?",
+    "bbox": [
+      113.2,
+      470.7,
+      340.9,
+      484.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b019",
+    "text": "OCHA-Bucky is the first model fully developed by the Centre. The Centre acted as an intermediary",
+    "bbox": [
+      77.2,
+      502.2,
+      524.0,
+      516.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b020",
+    "text": "between OCHA field offices and the JHU team of technical experts. The model projections are",
+    "bbox": [
+      77.2,
+      517.9,
+      505.4,
+      531.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b021",
+    "text": "available for six countries: Afghanistan, the Democratic Republic of Congo (DRC), Iraq, Somalia,",
+    "bbox": [
+      77.2,
+      533.7,
+      513.8,
+      547.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b022",
+    "text": "South Sudan and Sudan. Since July 2020, we have worked with OCHA colleagues and partners in",
+    "bbox": [
+      77.2,
+      550.2,
+      519.9,
+      564.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b023",
+    "text": "these locations to finetune the model with country-specific data. Currently, the reports are shared",
+    "bbox": [
+      77.2,
+      565.9,
+      526.8,
+      579.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b024",
+    "text": "with the field offices in these six countries.",
+    "bbox": [
+      77.2,
+      581.7,
+      272.8,
+      595.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b025",
+    "text": "What happens if the model is inaccurate, produces false positives or false negatives?",
+    "bbox": [
+      113.2,
+      613.2,
+      500.7,
+      627.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b026",
+    "text": "Describe expected impact according to the in-scope use cases highlighted in Section 1A",
+    "bbox": [
+      113.2,
+      629.7,
+      514.5,
+      643.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b027",
+    "text": "above.",
+    "bbox": [
+      113.2,
+      645.4,
+      146.4,
+      659.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b028",
+    "text": "The main risks for OCHA-Bucky are related to the underestimation and the overestimation of",
+    "bbox": [
+      77.2,
+      676.9,
+      502.3,
+      690.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 7,
+    "block_id": "403_p7_b029",
+    "text": "COVID-19 cases. Underestimation of cases could potentially lead to a response that is not adequate",
+    "bbox": [
+      77.2,
+      692.7,
+      532.5,
+      706.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b001",
+    "text": "MODEL CARD: OCHA-Bucky COVID-19 Model",
+    "bbox": [
+      122.2,
+      68.6,
+      492.8,
+      92.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b002",
+    "text": "to the actual impact of the outbreak. Overestimation of COVID-19 impact may lead to ill-informed",
+    "bbox": [
+      77.2,
+      97.2,
+      524.1,
+      111.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b003",
+    "text": "allocation of resources and prioritisation. Some of these biases are due to the poor quality of the",
+    "bbox": [
+      77.2,
+      113.7,
+      520.0,
+      127.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b004",
+    "text": "input data. These risks are mitigated in the following ways: i) by reducing the lead time of the",
+    "bbox": [
+      77.2,
+      129.4,
+      503.8,
+      143.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b005",
+    "text": "projections and by updating them as frequently as possible; ii) by presenting the results together",
+    "bbox": [
+      77.2,
+      145.2,
+      521.2,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b006",
+    "text": "with a clear description of the assumptions and the corresponding uncertainties and iii) by inviting",
+    "bbox": [
+      77.2,
+      160.9,
+      529.6,
+      174.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b007",
+    "text": "partners not to rely solely on the model projections but use it as additional evidence to support their",
+    "bbox": [
+      77.2,
+      176.7,
+      538.3,
+      190.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b008",
+    "text": "decisions.",
+    "bbox": [
+      77.2,
+      193.2,
+      125.4,
+      207.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b009",
+    "text": "D. List additional considerations for the use of the model in humanitarian response.",
+    "bbox": [
+      95.2,
+      224.7,
+      487.6,
+      238.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b010",
+    "text": "OCHA-Bucky has been initially developed to inform COVID-19 response but it can be potentially",
+    "bbox": [
+      77.2,
+      256.2,
+      514.0,
+      270.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b011",
+    "text": "adapted to other human-to-human infectious diseases (e.g. influenza, measles, polio, ebola). The",
+    "bbox": [
+      77.2,
+      272.7,
+      523.7,
+      286.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b012",
+    "text": "team is currently working on extending the model to include vaccination scenarios in the",
+    "bbox": [
+      77.2,
+      288.4,
+      485.4,
+      302.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b013",
+    "text": "projections.",
+    "bbox": [
+      77.2,
+      304.2,
+      134.3,
+      318.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b014",
+    "text": "OCHA-Bucky’s code and documentation are publicly available and interested partners can use it to",
+    "bbox": [
+      77.2,
+      319.9,
+      530.5,
+      333.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b015",
+    "text": "run their own simulations. For more information and support please contact the Centre for",
+    "bbox": [
+      77.2,
+      335.7,
+      493.8,
+      349.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "403",
+    "page_number": 8,
+    "block_id": "403_p8_b016",
+    "text": "Humanitarian Data ​centrehumdata@un.org​.",
+    "bbox": [
+      77.2,
+      351.4,
+      282.8,
+      371.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

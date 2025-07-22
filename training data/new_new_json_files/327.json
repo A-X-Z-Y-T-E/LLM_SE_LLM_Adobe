@@ -1,0 +1,1397 @@
+[
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      193.7,
+      443.1,
+      214.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      218.6,
+      277.1,
+      239.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      281.4,
+      270.1,
+      311.9
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b004",
+    "text": "INFORM Risk Index",
+    "bbox": [
+      72.0,
+      318.2,
+      314.6,
+      351.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b005",
+    "text": "Developed by the Inter-Agency Standing Committee",
+    "bbox": [
+      72.0,
+      356.6,
+      437.2,
+      375.3
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b006",
+    "text": "Reference Group on Risk, Early Warning and Preparedness",
+    "bbox": [
+      72.0,
+      378.6,
+      482.8,
+      397.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b007",
+    "text": "and the European Commission",
+    "bbox": [
+      72.0,
+      400.7,
+      286.8,
+      419.5
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 1,
+    "block_id": "327_p1_b008",
+    "text": "June 2023",
+    "bbox": [
+      72.0,
+      438.0,
+      156.2,
+      459.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      150.1,
+      178.8,
+      171.2
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b002",
+    "text": "INFORM Risk Index",
+    "bbox": [
+      72.0,
+      174.4,
+      220.9,
+      195.5
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      229.3,
+      149.4,
+      243.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b004",
+    "text": "This document summarizes the documentation and findings of the peer review of the INFORM",
+    "bbox": [
+      72.0,
+      245.8,
+      539.9,
+      258.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b005",
+    "text": "Risk Index. The INFORM Risk Index is a global, open-source risk assessment for humanitarian",
+    "bbox": [
+      72.0,
+      261.0,
+      539.9,
+      273.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b006",
+    "text": "crises and disasters. It can support decisions about prevention, preparedness and response.",
+    "bbox": [
+      72.0,
+      276.2,
+      539.5,
+      289.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b007",
+    "text": "The objective of the INFORM Risk Index is to identify countries at risk of humanitarian crises",
+    "bbox": [
+      72.0,
+      291.4,
+      539.8,
+      304.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b008",
+    "text": "that could overwhelm national capacity to respond. The model combines indicators of hazard",
+    "bbox": [
+      72.0,
+      306.5,
+      539.6,
+      319.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b009",
+    "text": "and exposure, vulnerability and coping capacity into a composite indicator.",
+    "bbox": [
+      72.0,
+      321.7,
+      433.9,
+      334.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b010",
+    "text": "The review has been conducted between February and June 2023.",
+    "bbox": [
+      72.0,
+      352.1,
+      393.8,
+      365.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b011",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      382.5,
+      287.7,
+      396.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b012",
+    "text": "You can find all the documentation regarding the model, its application and the review process",
+    "bbox": [
+      72.0,
+      399.0,
+      539.9,
+      411.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b013",
+    "text": "at the following links:",
+    "bbox": [
+      72.0,
+      414.2,
+      175.4,
+      427.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b014",
+    "text": "The Model Card describes version 0.6.5 (31 August 2022) of the mode and was",
+    "bbox": [
+      108.0,
+      429.4,
+      540.0,
+      442.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b015",
+    "text": "completed in February 2023.",
+    "bbox": [
+      108.0,
+      444.6,
+      247.1,
+      457.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b016",
+    "text": "The Model Evaluation Matrix was completed in February 2023 by Mesfin Fikre",
+    "bbox": [
+      108.0,
+      459.7,
+      539.6,
+      472.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b017",
+    "text": "Woldmriam, Assistant Professor of Information Systems at the Addis Ababa University.",
+    "bbox": [
+      108.0,
+      474.9,
+      531.2,
+      487.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b018",
+    "text": "The Implementation Plan was completed in March 2023. It summarizes how the Index",
+    "bbox": [
+      108.0,
+      490.1,
+      539.7,
+      503.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b019",
+    "text": "model contributes to the process of identifying priority countries to be recommended for",
+    "bbox": [
+      108.0,
+      505.3,
+      539.3,
+      518.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b020",
+    "text": "funding through the Central Emergency Response Fund’s Underfunded Emergencies",
+    "bbox": [
+      108.0,
+      520.5,
+      539.5,
+      533.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b021",
+    "text": "window.",
+    "bbox": [
+      108.0,
+      535.7,
+      147.9,
+      548.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b022",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      550.8,
+      539.4,
+      563.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b023",
+    "text": "intended use of the model. The Ethical Matrix was completed in May 2023 by Doug",
+    "bbox": [
+      108.0,
+      566.0,
+      539.7,
+      578.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b024",
+    "text": "Specht, Reader in Cultural Geography and Communication in the School of Media and",
+    "bbox": [
+      108.0,
+      581.2,
+      539.7,
+      594.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b025",
+    "text": "Communication at the University of Westminster.",
+    "bbox": [
+      108.0,
+      596.4,
+      346.4,
+      609.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b026",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      626.8,
+      430.4,
+      639.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 2,
+    "block_id": "327_p2_b027",
+    "text": "Ethical Review",
+    "bbox": [
+      72.0,
+      657.1,
+      149.5,
+      671.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b001",
+    "text": "Lack of resources to support interventions",
+    "bbox": [
+      72.0,
+      72.3,
+      295.0,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b002",
+    "text": "The role and position of the Index should be made clear and apparent. Cross-organization",
+    "bbox": [
+      72.0,
+      88.8,
+      539.3,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b003",
+    "text": "planning is needed to ensure that resourcing is available. Consider an 'intervention' index that",
+    "bbox": [
+      72.0,
+      104.0,
+      539.3,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b004",
+    "text": "weights for the kind of funding/resourcing available to a country before, during and after a",
+    "bbox": [
+      72.0,
+      119.2,
+      539.5,
+      132.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b005",
+    "text": "humanitarian crisis. This can help better report on resourcing failures. See for example: Hunt, A.,",
+    "bbox": [
+      72.0,
+      134.4,
+      539.3,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b006",
+    "text": "Specht, D. Crowdsourced mapping in crisis zones: collaboration, organisation and impact. Int J",
+    "bbox": [
+      72.0,
+      149.5,
+      539.6,
+      162.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b007",
+    "text": "Humanitarian Action 4, 1 (2019).",
+    "bbox": [
+      72.0,
+      164.7,
+      230.3,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b008",
+    "text": "Treatment of missing data",
+    "bbox": [
+      72.0,
+      195.1,
+      210.9,
+      209.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b009",
+    "text": "Conflict is given special weighting to account for missing data. Consider other areas where a",
+    "bbox": [
+      72.0,
+      211.6,
+      539.5,
+      224.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b010",
+    "text": "change of weighting might be important to plug the gap of missing data. For example, where a",
+    "bbox": [
+      72.0,
+      226.8,
+      539.8,
+      239.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b011",
+    "text": "country has not reported data due to an extreme non-conflict based humanitarian crisis, or",
+    "bbox": [
+      72.0,
+      242.0,
+      539.5,
+      254.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b012",
+    "text": "where such a crisis might have skewed data significantly.",
+    "bbox": [
+      72.0,
+      257.2,
+      350.0,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b013",
+    "text": "Suitability of the Index to capture rapidly evolving crises",
+    "bbox": [
+      72.0,
+      287.6,
+      365.5,
+      301.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b014",
+    "text": "The model does recognise that capacity and vulnerabilities can change rapidly as a result of",
+    "bbox": [
+      72.0,
+      304.1,
+      539.7,
+      317.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b015",
+    "text": "conflict. The model does not appear to account for the potential for hazards and exposure data",
+    "bbox": [
+      72.0,
+      319.3,
+      539.7,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b016",
+    "text": "to change rapidly. It is worth noting the increase in natural hazards in much of the world and to",
+    "bbox": [
+      72.0,
+      334.5,
+      539.5,
+      347.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b017",
+    "text": "ensure that the datasets being drawn upon recognize and account for increased risk of",
+    "bbox": [
+      72.0,
+      349.7,
+      539.9,
+      362.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b018",
+    "text": "high-impact events, for example. Additional climate modelling data would help to strengthen the",
+    "bbox": [
+      72.0,
+      364.9,
+      539.8,
+      377.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b019",
+    "text": "predictive power of the natural hazards data, which in turn may also support predictions in",
+    "bbox": [
+      72.0,
+      380.0,
+      539.6,
+      392.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b020",
+    "text": "conflict data.",
+    "bbox": [
+      72.0,
+      395.2,
+      135.7,
+      408.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b021",
+    "text": "Index is used to stigmatise population leading to less support",
+    "bbox": [
+      72.0,
+      425.6,
+      395.3,
+      439.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b022",
+    "text": "The concept of risk might suggest a lack of autonomy or self-determination from the",
+    "bbox": [
+      72.0,
+      442.1,
+      539.3,
+      455.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b023",
+    "text": "populations impacted. This can be detrimental or misleading in cases in which the risk factors",
+    "bbox": [
+      72.0,
+      457.3,
+      539.8,
+      470.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b024",
+    "text": "are external (for instance in the case of sanctions or outside actors creating risk). The inequality",
+    "bbox": [
+      72.0,
+      472.5,
+      539.8,
+      485.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b025",
+    "text": "of effects of humanitarian crises should also be noted, with inequality indexes forming a part of",
+    "bbox": [
+      72.0,
+      487.7,
+      539.5,
+      500.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b026",
+    "text": "the methodology and caveats on data presented.",
+    "bbox": [
+      72.0,
+      502.9,
+      309.9,
+      515.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b027",
+    "text": "Biases in input datasets",
+    "bbox": [
+      72.0,
+      533.3,
+      197.9,
+      547.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b028",
+    "text": "The Index should link to the methodologies of all data collected. A detailed description of how",
+    "bbox": [
+      72.0,
+      549.8,
+      540.0,
+      562.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b029",
+    "text": "each dataset was produced should operate alongside the methodology of how the data was",
+    "bbox": [
+      72.0,
+      565.0,
+      539.8,
+      577.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b030",
+    "text": "weighted and used in the model. The flaws in the collection of the input data should be explicitly",
+    "bbox": [
+      72.0,
+      580.2,
+      539.8,
+      593.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b031",
+    "text": "acknowledged and while this happens in the accompanying documentation, a reminder of the",
+    "bbox": [
+      72.0,
+      595.4,
+      539.7,
+      608.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b032",
+    "text": "limitations with the tool and dashboards would strengthen the critical thinking that is needed to",
+    "bbox": [
+      72.0,
+      610.5,
+      539.9,
+      623.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b033",
+    "text": "utilise this tool fully. See for example: Specht, D. (2021), The Technopolitics of Mapping Dar es",
+    "bbox": [
+      72.0,
+      625.7,
+      539.3,
+      638.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b034",
+    "text": "Salaam: An examination of the technological and political motivations of the Humanitarian",
+    "bbox": [
+      72.0,
+      640.9,
+      539.9,
+      653.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 3,
+    "block_id": "327_p3_b035",
+    "text": "OpenStreetMap Team, Espacio Tiempo Y Forma. Serie VI, Geografía, (14), 193–216.",
+    "bbox": [
+      72.0,
+      656.1,
+      477.9,
+      669.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b001",
+    "text": "Misuse of Index by non-humanitarian actors",
+    "bbox": [
+      72.0,
+      72.3,
+      303.2,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b002",
+    "text": "While the majority of the data included within the Index is publicly available in other forms, the",
+    "bbox": [
+      72.0,
+      88.8,
+      539.4,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b003",
+    "text": "impact of bringing this data together into rankings and risk indexes in such a form can have",
+    "bbox": [
+      72.0,
+      104.0,
+      539.9,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b004",
+    "text": "negative as well as positive impacts. The ranking of countries presented can also lead to issues",
+    "bbox": [
+      72.0,
+      119.2,
+      539.7,
+      132.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b005",
+    "text": "of perpetuating binaries around the 'developed' and 'developing' countries. This can enhance",
+    "bbox": [
+      72.0,
+      134.4,
+      539.8,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b006",
+    "text": "stereotyping and xenophobic policies in some countries.",
+    "bbox": [
+      72.0,
+      149.5,
+      346.1,
+      162.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b007",
+    "text": "The monitoring of the use of the Index by other actors should be carried out over the coming",
+    "bbox": [
+      72.0,
+      164.7,
+      539.7,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b008",
+    "text": "years. This could be achieved by tracing citations in policy, government and opposition",
+    "bbox": [
+      72.0,
+      179.9,
+      540.0,
+      192.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b009",
+    "text": "documentation where possible, in order to establish the extent to which this data is used by 'bad",
+    "bbox": [
+      72.0,
+      195.1,
+      540.0,
+      208.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b010",
+    "text": "actors.'",
+    "bbox": [
+      72.0,
+      210.3,
+      106.8,
+      223.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b011",
+    "text": "Missing sanctions index",
+    "bbox": [
+      72.0,
+      240.7,
+      199.3,
+      254.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b012",
+    "text": "Add data on sanctions - trade, economic, etc., and weight for their potential impact on the ability",
+    "bbox": [
+      72.0,
+      257.2,
+      539.9,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b013",
+    "text": "to respond to crises. It may also be useful to consider the actors involved in such sanctions and",
+    "bbox": [
+      72.0,
+      272.4,
+      539.4,
+      285.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b014",
+    "text": "the extent to which this may impact on direct resourcing to support humanitarian crises.",
+    "bbox": [
+      72.0,
+      287.6,
+      500.2,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b015",
+    "text": "lll-informed choices made on the basis of biassed quantitative data",
+    "bbox": [
+      72.0,
+      317.9,
+      425.3,
+      332.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b016",
+    "text": "Encourage critical thinking alongside use of data and ensure the potential biases in data, and",
+    "bbox": [
+      72.0,
+      334.5,
+      539.5,
+      347.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b017",
+    "text": "missing data, remain explicit and at the front of the dashboards, etc. See for example ‘The",
+    "bbox": [
+      72.0,
+      349.7,
+      539.7,
+      362.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b018",
+    "text": "Masters Tools Will Never Dismantle the Masters House: New approaches to ethical issues in",
+    "bbox": [
+      72.0,
+      364.9,
+      539.6,
+      377.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b019",
+    "text": "data’ or ‘The way we use data is a life or death matter – from the refugee crisis to COVID-19.’",
+    "bbox": [
+      72.0,
+      380.0,
+      520.5,
+      392.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b020",
+    "text": "Feedback",
+    "bbox": [
+      72.0,
+      410.4,
+      123.9,
+      424.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b021",
+    "text": "The Centre invites individuals and organizations working in the humanitarian, academic,",
+    "bbox": [
+      72.0,
+      427.0,
+      539.9,
+      439.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b022",
+    "text": "research and private sector to engage with us on the peer review process. Please send feedback",
+    "bbox": [
+      72.0,
+      442.1,
+      539.7,
+      455.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "327",
+    "page_number": 4,
+    "block_id": "327_p4_b023",
+    "text": "on the Framework to centrehumdata@un.org.",
+    "bbox": [
+      72.0,
+      457.3,
+      293.1,
+      470.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

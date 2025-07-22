@@ -1,0 +1,1427 @@
+[
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      193.7,
+      443.1,
+      214.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      218.6,
+      277.1,
+      239.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      281.4,
+      270.1,
+      311.9
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b004",
+    "text": "Trigger for OCHA Anticipatory",
+    "bbox": [
+      72.0,
+      318.2,
+      449.8,
+      351.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b005",
+    "text": "Action on Drought in Chad",
+    "bbox": [
+      72.0,
+      356.8,
+      401.6,
+      389.6
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b006",
+    "text": "Trigger developed by the UN OCHA Centre for Humanitarian Data",
+    "bbox": [
+      72.0,
+      395.2,
+      529.3,
+      414.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 1,
+    "block_id": "5_p1_b007",
+    "text": "June 2023",
+    "bbox": [
+      72.0,
+      432.5,
+      156.2,
+      453.6
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      149.4,
+      178.8,
+      170.5
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b002",
+    "text": "Trigger for OCHA Anticipatory Action on Drought in Chad",
+    "bbox": [
+      72.0,
+      173.6,
+      504.3,
+      194.7
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      228.5,
+      149.4,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b004",
+    "text": "This document summarizes the documentation and findings of the peer review of the model",
+    "bbox": [
+      72.0,
+      245.1,
+      539.5,
+      258.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b005",
+    "text": "used by the UN Central Emergency Response Fund to trigger the drought anticipatory action",
+    "bbox": [
+      72.0,
+      260.2,
+      539.3,
+      273.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b006",
+    "text": "framework in Chad. The model is a go-no-go trigger mechanism designed to anticipate",
+    "bbox": [
+      72.0,
+      275.4,
+      539.9,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b007",
+    "text": "humanitarian impacts of seasonal drought in a sub-region of Chad.",
+    "bbox": [
+      72.0,
+      290.6,
+      397.2,
+      303.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b008",
+    "text": "The review has been conducted between January and May 2023.",
+    "bbox": [
+      72.0,
+      321.0,
+      386.9,
+      333.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b009",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      351.4,
+      287.7,
+      365.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b010",
+    "text": "You can find all the documentation regarding the model, its application and the review process",
+    "bbox": [
+      72.0,
+      367.9,
+      539.9,
+      380.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b011",
+    "text": "at the following links:",
+    "bbox": [
+      72.0,
+      383.1,
+      175.4,
+      396.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b012",
+    "text": "The Model Card describes the version of the model that was endorsed by humanitarian",
+    "bbox": [
+      108.0,
+      398.3,
+      539.6,
+      411.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b013",
+    "text": "action in November 2022 and was completed in January 2023.",
+    "bbox": [
+      108.0,
+      413.4,
+      412.2,
+      426.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b014",
+    "text": "The Model Evaluation Matrix was completed in February 2023 by Carlos Osorio-Ramírez,",
+    "bbox": [
+      108.0,
+      428.6,
+      539.6,
+      441.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b015",
+    "text": "Associate Professor at Universidad Nacional de Colombia.",
+    "bbox": [
+      108.0,
+      443.8,
+      392.4,
+      456.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b016",
+    "text": "The Implementation Plan was completed in February 2023. It summarizes how the",
+    "bbox": [
+      108.0,
+      459.0,
+      539.5,
+      471.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b017",
+    "text": "trigger model is used to trigger anticipatory action and the agreed activation protocol.",
+    "bbox": [
+      108.0,
+      474.2,
+      523.3,
+      487.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b018",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      489.4,
+      539.4,
+      502.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b019",
+    "text": "intended use of the model. The Ethical Matrix was completed in May 2023 by Anna Lena",
+    "bbox": [
+      108.0,
+      504.5,
+      539.6,
+      517.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b020",
+    "text": "Huhn, Southern Africa Regional Anticipatory Action Advisor at the United Nations World",
+    "bbox": [
+      108.0,
+      519.7,
+      539.6,
+      532.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b021",
+    "text": "Food Programme.",
+    "bbox": [
+      108.0,
+      534.9,
+      195.9,
+      547.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b022",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      565.3,
+      430.4,
+      578.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b023",
+    "text": "2.1 Technical Review",
+    "bbox": [
+      72.0,
+      597.0,
+      184.9,
+      611.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b024",
+    "text": "Intended Use",
+    "bbox": [
+      72.0,
+      630.2,
+      141.2,
+      644.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b025",
+    "text": "Overall, the use cases are well-described and adequately explained. The documentation of the",
+    "bbox": [
+      72.0,
+      646.7,
+      539.6,
+      659.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b026",
+    "text": "limitations of the model could be extended in its description, as is the case of the biomass",
+    "bbox": [
+      72.0,
+      661.9,
+      539.3,
+      674.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 2,
+    "block_id": "5_p2_b027",
+    "text": "anomaly and its connection with scenarios like extreme dryness or late onset.",
+    "bbox": [
+      72.0,
+      677.1,
+      449.6,
+      690.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b001",
+    "text": "Model Development and Documentation",
+    "bbox": [
+      72.0,
+      88.8,
+      283.0,
+      102.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b002",
+    "text": "It is advisable to provide further documentation on the different data sources used by the team",
+    "bbox": [
+      72.0,
+      105.4,
+      539.7,
+      118.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b003",
+    "text": "to validate the selection of indicators and estimate the performance of the model. Also, some",
+    "bbox": [
+      72.0,
+      120.6,
+      539.6,
+      133.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b004",
+    "text": "data is not available in a machine readable format and it would be good to explain how the team",
+    "bbox": [
+      72.0,
+      135.7,
+      539.3,
+      148.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b005",
+    "text": "dealt with this issue.",
+    "bbox": [
+      72.0,
+      150.9,
+      171.8,
+      163.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b006",
+    "text": "Model Evaluation",
+    "bbox": [
+      72.0,
+      182.7,
+      162.5,
+      196.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b007",
+    "text": "It is unclear what is an acceptable level of accuracy for the model. The team should better",
+    "bbox": [
+      72.0,
+      199.2,
+      539.3,
+      212.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b008",
+    "text": "articulate how the performance benchmark was established and how the performance metrics",
+    "bbox": [
+      72.0,
+      214.4,
+      539.4,
+      227.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b009",
+    "text": "were evaluated and presented to the final stakeholders.",
+    "bbox": [
+      72.0,
+      229.6,
+      340.7,
+      242.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b010",
+    "text": "Operational Readiness",
+    "bbox": [
+      72.0,
+      261.4,
+      190.4,
+      275.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b011",
+    "text": "It would be good to expand the analysis of the missed activations of the models and the",
+    "bbox": [
+      72.0,
+      277.9,
+      540.0,
+      290.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b012",
+    "text": "potential false alarms that the model could be providing.",
+    "bbox": [
+      72.0,
+      293.1,
+      346.4,
+      306.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b013",
+    "text": "2.2 Ethical Review",
+    "bbox": [
+      72.0,
+      323.5,
+      169.5,
+      337.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b014",
+    "text": "False Negatives",
+    "bbox": [
+      72.0,
+      355.2,
+      155.7,
+      369.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b015",
+    "text": "A false negative occurs when no drought impact is predicted but drought conditions occur.",
+    "bbox": [
+      72.0,
+      371.8,
+      512.3,
+      384.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b016",
+    "text": "The team could consider additional mitigation strategies such as the use of citizen science or",
+    "bbox": [
+      72.0,
+      386.9,
+      539.2,
+      399.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b017",
+    "text": "ground observations to complement the forecast-based trigger.",
+    "bbox": [
+      72.0,
+      402.1,
+      380.0,
+      415.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b018",
+    "text": "Insufficient Data",
+    "bbox": [
+      72.0,
+      432.5,
+      158.1,
+      446.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b019",
+    "text": "Insufficient data refers to the gaps in impact data used to verify the forecast predictions.",
+    "bbox": [
+      72.0,
+      449.0,
+      501.1,
+      461.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b020",
+    "text": "Insufficient data might limit the precise prediction of forecasted humanitarian impact and",
+    "bbox": [
+      72.0,
+      464.2,
+      539.8,
+      477.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b021",
+    "text": "expose local populations to adverse humanitarian impact induced by a drought event, requiring",
+    "bbox": [
+      72.0,
+      479.4,
+      539.7,
+      492.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b022",
+    "text": "a large-scale humanitarian response ex-post. The team should consider the feasibility of adding",
+    "bbox": [
+      72.0,
+      494.6,
+      539.4,
+      507.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b023",
+    "text": "further vulnerability layers in future iterations of the model.",
+    "bbox": [
+      72.0,
+      509.8,
+      356.7,
+      522.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b024",
+    "text": "False Positives",
+    "bbox": [
+      72.0,
+      540.2,
+      151.2,
+      554.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b025",
+    "text": "A false positive happens when drought impact is predicted but no drought conditions occur.",
+    "bbox": [
+      72.0,
+      556.7,
+      517.8,
+      569.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b026",
+    "text": "Anticipatory action follows the ‘no regret’ principle, but a false alarm can still lead to inadequate",
+    "bbox": [
+      72.0,
+      571.9,
+      539.6,
+      584.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b027",
+    "text": "resource allocation with a high potential impact on affected communities. The anticipatory",
+    "bbox": [
+      72.0,
+      587.1,
+      539.4,
+      600.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b028",
+    "text": "action framework could indicate a precise mitigation strategy in a clearer manner.",
+    "bbox": [
+      72.0,
+      602.3,
+      468.5,
+      615.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b029",
+    "text": "Lack of Trust and Ownership",
+    "bbox": [
+      72.0,
+      632.6,
+      222.6,
+      646.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b030",
+    "text": "Lack of trust and ownership refers to the limited involvement of local and regional authorities in",
+    "bbox": [
+      72.0,
+      649.2,
+      539.9,
+      662.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b031",
+    "text": "the model design and validation. This may lead to little ownership and trust put into the model",
+    "bbox": [
+      72.0,
+      664.4,
+      539.7,
+      677.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 3,
+    "block_id": "5_p3_b032",
+    "text": "and eventually to political blockages in activations. In future framework versions a clear strategy",
+    "bbox": [
+      72.0,
+      679.5,
+      540.0,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b001",
+    "text": "for the involvement of affected populations and an approach to accountability to affected",
+    "bbox": [
+      72.0,
+      72.2,
+      540.0,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b002",
+    "text": "populations should be identified.",
+    "bbox": [
+      72.0,
+      87.4,
+      230.7,
+      100.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b003",
+    "text": "Lack of Transparency",
+    "bbox": [
+      72.0,
+      117.8,
+      185.2,
+      131.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b004",
+    "text": "Lack of transparency refers to the algorithms not being made available or not being transparent.",
+    "bbox": [
+      72.0,
+      134.4,
+      538.1,
+      147.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b005",
+    "text": "The anticipatory action framework should reflect clearer strategies to engage with local leaders",
+    "bbox": [
+      72.0,
+      149.5,
+      539.3,
+      162.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b006",
+    "text": "to better understand what is happening on the ground and obtain early buy-in. Mitigation",
+    "bbox": [
+      72.0,
+      164.7,
+      539.5,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b007",
+    "text": "strategy for a potential lack of transparency should be expanded in the model card and/or the",
+    "bbox": [
+      72.0,
+      179.9,
+      539.9,
+      192.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b008",
+    "text": "anticipatory action framework.",
+    "bbox": [
+      72.0,
+      195.1,
+      220.9,
+      208.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b009",
+    "text": "Inaction",
+    "bbox": [
+      72.0,
+      225.5,
+      114.6,
+      239.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b010",
+    "text": "Inaction refers to the situation in which drought impact is predicted but no action is taken.",
+    "bbox": [
+      72.0,
+      242.0,
+      508.4,
+      254.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b011",
+    "text": "Inaction in case of trigger activation is unlikely, given the pre-allocated financing attached to it",
+    "bbox": [
+      72.0,
+      257.2,
+      539.3,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b012",
+    "text": "and the UN-validated anticipatory action framework. Inaction might nevertheless be a",
+    "bbox": [
+      72.0,
+      272.4,
+      539.6,
+      285.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b013",
+    "text": "possibility, if government or local authorities block the roll-out of interventions on the ground or",
+    "bbox": [
+      72.0,
+      287.6,
+      539.7,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b014",
+    "text": "case",
+    "bbox": [
+      91.0,
+      302.7,
+      114.2,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b015",
+    "text": "conflict",
+    "bbox": [
+      144.7,
+      302.7,
+      181.1,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b016",
+    "text": "upsurge.",
+    "bbox": [
+      191.3,
+      302.7,
+      233.7,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b017",
+    "text": "The",
+    "bbox": [
+      243.9,
+      302.7,
+      262.4,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b018",
+    "text": "team",
+    "bbox": [
+      272.6,
+      302.7,
+      297.6,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b019",
+    "text": "could",
+    "bbox": [
+      307.1,
+      302.7,
+      334.1,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b020",
+    "text": "consider",
+    "bbox": [
+      343.5,
+      302.7,
+      385.7,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b021",
+    "text": "adding",
+    "bbox": [
+      395.2,
+      302.7,
+      428.4,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b022",
+    "text": "consensus-based",
+    "bbox": [
+      453.4,
+      302.7,
+      539.3,
+      315.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b023",
+    "text": "decision-making option around activation or non-activation in the event of specific events or",
+    "bbox": [
+      72.0,
+      317.9,
+      539.7,
+      330.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b024",
+    "text": "situational context not considered in the model design (e.g., higher levels of vulnerability or",
+    "bbox": [
+      72.0,
+      333.1,
+      540.0,
+      346.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b025",
+    "text": "increase in armed conflict, etc.)",
+    "bbox": [
+      72.0,
+      348.3,
+      224.8,
+      361.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b026",
+    "text": "Feedback",
+    "bbox": [
+      72.0,
+      378.7,
+      123.9,
+      392.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b027",
+    "text": "The Centre invites individuals and organizations working in the humanitarian, academic,",
+    "bbox": [
+      72.0,
+      395.2,
+      539.9,
+      408.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b028",
+    "text": "research and private sector to engage with us on the peer review process. Please send feedback",
+    "bbox": [
+      72.0,
+      410.4,
+      539.7,
+      423.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "5",
+    "page_number": 4,
+    "block_id": "5_p4_b029",
+    "text": "on the Framework to centrehumdata@un.org.",
+    "bbox": [
+      72.0,
+      425.6,
+      293.1,
+      438.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

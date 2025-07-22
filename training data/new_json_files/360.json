@@ -1,0 +1,3467 @@
+[
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b002",
+    "text": "AUGUST 2019",
+    "bbox": [
+      274.4,
+      791.9,
+      320.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b003",
+    "text": "WHAT IS HUMANITARIAN MICRODATA?",
+    "bbox": [
+      53.9,
+      524.4,
+      290.5,
+      539.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b004",
+    "text": "Data on the characteristics of units of a population (e.g. individuals, households or establishments)",
+    "bbox": [
+      53.9,
+      547.1,
+      506.5,
+      561.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b005",
+    "text": "collected by a census, survey or experiment is referred to in statistics as ‘microdata’.1 In humanitarian",
+    "bbox": [
+      53.9,
+      560.3,
+      515.5,
+      574.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b006",
+    "text": "response, this type of data is typically gathered through exercises such as household surveys and needs",
+    "bbox": [
+      53.9,
+      573.5,
+      527.7,
+      587.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b007",
+    "text": "assessments. Microdata makes up an increasingly significant volume of data in the humanitarian sector",
+    "bbox": [
+      53.9,
+      586.7,
+      526.8,
+      600.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b008",
+    "text": "and is critical to determining the needs and perspectives of people affected by crises.2 Humanitarian",
+    "bbox": [
+      53.9,
+      599.9,
+      512.7,
+      613.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b009",
+    "text": "organizations need to understand how to assess and manage the sensitivity of this type of data in order to",
+    "bbox": [
+      53.9,
+      613.1,
+      538.0,
+      627.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b010",
+    "text": "ensure its responsible use in different response contexts.",
+    "bbox": [
+      53.9,
+      626.3,
+      314.5,
+      640.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b011",
+    "text": "Raw microdata can contain both personal data and non-personal data on a range of topics, including",
+    "bbox": [
+      53.9,
+      650.5,
+      515.2,
+      664.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b012",
+    "text": "sensitive subjects such as gender-based violence, infectious disease and other issues that may be recorded",
+    "bbox": [
+      53.9,
+      663.7,
+      542.4,
+      677.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b013",
+    "text": "in free text fields. Most humanitarian organizations acknowledge the sensitivity of personal data such as",
+    "bbox": [
+      53.9,
+      676.9,
+      529.5,
+      690.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b014",
+    "text": "names, biometric data or ID numbers, and anonymize datasets accordingly as a matter of standard",
+    "bbox": [
+      53.9,
+      690.1,
+      505.2,
+      704.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b015",
+    "text": "practice. However, it may be possible to re-identify individuals or disclose confidential information by",
+    "bbox": [
+      53.9,
+      703.3,
+      518.7,
+      717.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b016",
+    "text": "combining different data points even after such anonymization is applied.",
+    "bbox": [
+      53.9,
+      716.5,
+      390.0,
+      730.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b017",
+    "text": "1     Survey Design and Statistical Methodology Metadata, Software and Standards Management Branch, Systems Support Division, United States",
+    "bbox": [
+      53.9,
+      739.9,
+      519.5,
+      748.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b018",
+    "text": "Bureau of the Census, Washington D.C., August 1998, Section 3.4.4, page 39.",
+    "bbox": [
+      53.9,
+      749.2,
+      299.6,
+      757.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b019",
+    "text": "2    At the time of writing, a search for the word ‘survey’ on the Humanitarian Data Exchange returned 1198 results out of the 9805 datasets on the",
+    "bbox": [
+      53.9,
+      761.2,
+      519.8,
+      769.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b020",
+    "text": "platform; a search for the word ‘assessment’ returned 1399 results.",
+    "bbox": [
+      53.9,
+      770.2,
+      274.0,
+      778.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b021",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b022",
+    "text": "GUIDANCE NOTE SERIES",
+    "bbox": [
+      53.3,
+      100.4,
+      208.3,
+      116.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b023",
+    "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+    "bbox": [
+      53.3,
+      118.4,
+      378.1,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b024",
+    "text": "STATISTICAL DISCLOSURE CONTROL",
+    "bbox": [
+      53.3,
+      140.7,
+      427.5,
+      166.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b025",
+    "text": "KEY TAKEAWAYS:",
+    "bbox": [
+      63.7,
+      199.1,
+      167.1,
+      214.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b026",
+    "text": "•\t Data from household surveys, needs assessments and other forms of microdata make up an",
+    "bbox": [
+      75.0,
+      221.8,
+      507.1,
+      235.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b027",
+    "text": "increasingly significant volume of data in the humanitarian sector. This type of data is critical to",
+    "bbox": [
+      86.3,
+      235.0,
+      522.6,
+      248.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b028",
+    "text": "determining the needs and perspectives of people affected by crises but it also presents unique",
+    "bbox": [
+      86.3,
+      248.2,
+      522.8,
+      262.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b029",
+    "text": "risks.",
+    "bbox": [
+      86.3,
+      261.4,
+      110.2,
+      275.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b030",
+    "text": "•\t Even if an organization removes direct identifiers such as a person’s name or phone number",
+    "bbox": [
+      75.0,
+      283.6,
+      506.7,
+      297.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b031",
+    "text": "from microdata, combining key variables such as location or ethnicity can still allow for the",
+    "bbox": [
+      86.3,
+      296.8,
+      502.6,
+      310.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b032",
+    "text": "re-identification of individuals and vulnerable groups.",
+    "bbox": [
+      86.3,
+      310.0,
+      332.1,
+      323.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b033",
+    "text": "•\t Statistical disclosure control (SDC) is a technique used to assess and lower the risk of a person",
+    "bbox": [
+      75.0,
+      332.2,
+      516.4,
+      346.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b034",
+    "text": "or group being re-identified in the analysis of microdata. Applying SDC to microdata enables",
+    "bbox": [
+      86.3,
+      345.4,
+      508.5,
+      359.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b035",
+    "text": "organizations to share the data more widely without exposing affected people to harm.",
+    "bbox": [
+      86.3,
+      358.6,
+      482.8,
+      372.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b036",
+    "text": "•\t SDC can be used to lower the risk of re-identification to an agreed threshold that  may vary",
+    "bbox": [
+      75.0,
+      380.7,
+      500.8,
+      394.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b037",
+    "text": "depending on the context where the humanitarian response is happening. The overall",
+    "bbox": [
+      86.3,
+      393.9,
+      479.5,
+      407.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b038",
+    "text": "informational value or utility of a dataset will always be impacted when SDC is applied; striking",
+    "bbox": [
+      86.3,
+      407.1,
+      520.6,
+      421.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b039",
+    "text": "an appropriate balance between re-identification risk and information loss key to ensuring safe,",
+    "bbox": [
+      86.3,
+      420.3,
+      524.7,
+      434.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b040",
+    "text": "ethical and effective use of the data.",
+    "bbox": [
+      86.3,
+      433.5,
+      250.9,
+      447.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b041",
+    "text": "•\t To start using SDC, organizations should invest in (1) selecting the right tool, (2) integrating",
+    "bbox": [
+      75.0,
+      455.7,
+      501.2,
+      469.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b042",
+    "text": "SDC into existing data management workflows and (3) improving practice through continuous",
+    "bbox": [
+      86.3,
+      468.9,
+      516.8,
+      482.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 1,
+    "block_id": "360_p1_b043",
+    "text": "learning.",
+    "bbox": [
+      86.3,
+      482.1,
+      129.0,
+      496.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b002",
+    "text": "AUGUST 2019",
+    "bbox": [
+      274.4,
+      791.9,
+      320.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b003",
+    "text": "STATISTICAL DISCLOSURE CONTROL",
+    "bbox": [
+      53.9,
+      262.9,
+      272.7,
+      277.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b004",
+    "text": "Statistical Disclosure Control (SDC) is a technique used in statistics to assess and lower the risk4 of a person",
+    "bbox": [
+      53.9,
+      285.6,
+      542.5,
+      299.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b005",
+    "text": "or group being re-identified from the results of an analysis of survey or administrative data, or in the release",
+    "bbox": [
+      53.9,
+      298.8,
+      546.5,
+      312.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b006",
+    "text": "of microdata. This technique has primarily been used by National Statistical Offices (NSOs) and other",
+    "bbox": [
+      53.9,
+      312.0,
+      515.0,
+      325.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b007",
+    "text": "statistical organizations in relation to census data.",
+    "bbox": [
+      53.9,
+      325.2,
+      283.9,
+      339.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b008",
+    "text": "The application of SDC impacts the overall informational value or utility of a dataset and striking an",
+    "bbox": [
+      53.9,
+      351.6,
+      508.0,
+      365.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b009",
+    "text": "appropriate balance between re-identification risk and information is key. Determining an appropriate",
+    "bbox": [
+      53.9,
+      364.8,
+      522.1,
+      378.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b010",
+    "text": "risk-utility balance requires organizations to consider the various possible uses of a dataset and the context",
+    "bbox": [
+      53.9,
+      378.0,
+      543.8,
+      391.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b011",
+    "text": "in which the data was collected.",
+    "bbox": [
+      53.9,
+      391.2,
+      199.4,
+      405.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b012",
+    "text": "There are three distinct stages involved in applying SDC to limit the risk of disclosure in microdata:",
+    "bbox": [
+      53.9,
+      417.6,
+      503.7,
+      431.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b013",
+    "text": "1.\tAssessing the risk of re-identification",
+    "bbox": [
+      65.2,
+      439.3,
+      255.9,
+      453.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b014",
+    "text": "The first step is to conduct a disclosure risk assessment to determine the probability that disclosure",
+    "bbox": [
+      76.5,
+      453.0,
+      532.0,
+      466.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b015",
+    "text": "could occur for individual respondents within a given dataset.5 Whether this probability of disclosure",
+    "bbox": [
+      76.5,
+      466.2,
+      537.0,
+      480.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b016",
+    "text": "(also referred to as a risk percentage) is acceptable for a dataset will depend on the context of the data.",
+    "bbox": [
+      76.5,
+      479.4,
+      546.2,
+      493.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b017",
+    "text": "For example, in a conflict environment, the permissible risk percentage will typically be lower than in a",
+    "bbox": [
+      76.5,
+      492.6,
+      546.1,
+      506.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b018",
+    "text": "natural disaster response.",
+    "bbox": [
+      76.5,
+      505.8,
+      194.8,
+      519.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b019",
+    "text": "2.\tReducing the risk of re-identification",
+    "bbox": [
+      65.2,
+      527.5,
+      254.2,
+      542.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b020",
+    "text": "The next step is to put the dataset through the actual SDC process, which lowers the re-identification",
+    "bbox": [
+      76.5,
+      541.2,
+      537.2,
+      555.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b021",
+    "text": "risk by applying different anonymization methods. These methods fall into one of two categories:",
+    "bbox": [
+      76.5,
+      554.4,
+      521.4,
+      568.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b022",
+    "text": "perturbative methods, which do not suppress values in the dataset but perturb (i.e., alter) values to",
+    "bbox": [
+      76.5,
+      567.6,
+      530.0,
+      581.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b023",
+    "text": "limit disclosure risk by creating uncertainty around the true values, or non-perturbative methods, which",
+    "bbox": [
+      76.5,
+      580.8,
+      552.1,
+      594.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b024",
+    "text": "reduce the detail in the data by generalization or suppression of certain values (i.e., masking) without",
+    "bbox": [
+      76.5,
+      594.0,
+      539.1,
+      607.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b025",
+    "text": "distorting the data structure.",
+    "bbox": [
+      76.5,
+      607.2,
+      207.8,
+      621.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b026",
+    "text": "3.\tQuantifying information loss",
+    "bbox": [
+      65.2,
+      628.9,
+      215.8,
+      643.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b027",
+    "text": "The final step is to measure the information loss resulting from the application of SDC to the dataset.",
+    "bbox": [
+      76.5,
+      642.6,
+      537.0,
+      656.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b028",
+    "text": "The goal here is to compare the information value of the original dataset with the final information",
+    "bbox": [
+      76.5,
+      655.8,
+      527.1,
+      669.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b029",
+    "text": "value.",
+    "bbox": [
+      76.5,
+      669.0,
+      104.0,
+      682.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b030",
+    "text": "By using SDC to assess and reduce the disclosure risk in microdata, humanitarian organizations can more",
+    "bbox": [
+      53.9,
+      693.2,
+      534.9,
+      707.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b031",
+    "text": "responsibly share data from surveys and needs assessments to inform the overall response effort.",
+    "bbox": [
+      53.9,
+      706.4,
+      498.6,
+      720.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b032",
+    "text": "3    For more information on disclosure risk and related technical considerations for the assessment and management of such risk through SDC,",
+    "bbox": [
+      53.9,
+      728.4,
+      517.9,
+      736.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b033",
+    "text": "see the Statistical Disclosure Control for Microdata: A Practice Guide.",
+    "bbox": [
+      53.9,
+      737.3,
+      286.2,
+      746.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b034",
+    "text": "4    Note: SDC is intended to prevent identity and attribute disclosure but is not specifically designed to prevent inferential disclosure.",
+    "bbox": [
+      53.9,
+      749.4,
+      480.4,
+      757.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b035",
+    "text": "5    Learn how to conduct a disclosure risk assessment through the Centre’s learning path on the subject: https://centre.humdata.org/learning-path/",
+    "bbox": [
+      53.9,
+      761.3,
+      528.3,
+      770.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b036",
+    "text": "disclosure-risk-assessment-overview/.",
+    "bbox": [
+      53.9,
+      770.3,
+      187.2,
+      779.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b037",
+    "text": "RE-IDENTIFICATION AND DISCLOSURE RISK",
+    "bbox": [
+      52.7,
+      36.8,
+      315.8,
+      51.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b038",
+    "text": "A string of data points can allow for re-identification, either in isolation or when combined with basic",
+    "bbox": [
+      53.6,
+      60.5,
+      514.2,
+      74.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b039",
+    "text": "contextual understanding. Advanced data analysis techniques can also extract more sensitive insights than",
+    "bbox": [
+      53.6,
+      73.7,
+      542.3,
+      87.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b040",
+    "text": "may be visible through basic analysis, increasing the potential sensitivity of microdata in the humanitarian",
+    "bbox": [
+      53.6,
+      86.9,
+      540.9,
+      100.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b041",
+    "text": "sector.",
+    "bbox": [
+      53.6,
+      100.1,
+      86.2,
+      113.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b042",
+    "text": "There are three commonly recognized forms3 of disclosure risk, each of which could manifest in",
+    "bbox": [
+      53.6,
+      126.5,
+      489.9,
+      140.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b043",
+    "text": "humanitarian microdata:",
+    "bbox": [
+      53.6,
+      139.7,
+      168.1,
+      153.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b044",
+    "text": "•\t Identity disclosure: when it is possible to associate a known individual with a released data record",
+    "bbox": [
+      65.0,
+      161.4,
+      528.6,
+      176.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b045",
+    "text": "•\t Attribute disclosure: when it is possible to determine some new characteristic of an individual based",
+    "bbox": [
+      65.0,
+      183.6,
+      541.4,
+      198.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b046",
+    "text": "on the information available in the released data",
+    "bbox": [
+      76.3,
+      197.3,
+      298.1,
+      211.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b047",
+    "text": "•\t Inferential disclosure: when it is possible to determine the value of some characteristic of an",
+    "bbox": [
+      65.0,
+      219.0,
+      505.0,
+      233.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 2,
+    "block_id": "360_p2_b048",
+    "text": "individual more accurately with the released data than would otherwise have been possible",
+    "bbox": [
+      76.3,
+      232.7,
+      496.2,
+      246.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b002",
+    "text": "AUGUST 2019",
+    "bbox": [
+      274.4,
+      791.9,
+      320.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b003",
+    "text": "Applying SDC to data shared on HDX6",
+    "bbox": [
+      65.5,
+      57.3,
+      231.2,
+      68.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b004",
+    "text": "Since the beginning of 2018, the Centre for Humanitarian Data (‘the Centre’) has conducted a risk",
+    "bbox": [
+      65.5,
+      88.3,
+      508.9,
+      102.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b005",
+    "text": "assessment of 59 datasets uploaded to the Humanitarian Data Exchange (HDX) platform. The risk of",
+    "bbox": [
+      65.5,
+      101.5,
+      519.9,
+      115.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b006",
+    "text": "disclosure of respondents’ identities in 38 of those datasets was considered too high for publication",
+    "bbox": [
+      65.5,
+      114.7,
+      521.1,
+      128.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b007",
+    "text": "on HDX. The contributors of 14 of these datasets agreed to the application of SDC to their data to",
+    "bbox": [
+      65.5,
+      127.9,
+      506.7,
+      141.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b008",
+    "text": "lower the risk level. The HDX team applied SDC to these 14 datasets, for which the risk level was",
+    "bbox": [
+      65.5,
+      141.1,
+      502.2,
+      154.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b009",
+    "text": "lowered to an acceptable level (i.e. 5% or lower7). For 5 of these 14 datasets, this meant that they",
+    "bbox": [
+      65.5,
+      154.3,
+      506.7,
+      168.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b010",
+    "text": "could be made public after anonymization. The remaining 9 datasets were either removed or shared",
+    "bbox": [
+      65.5,
+      167.5,
+      523.2,
+      181.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b011",
+    "text": "privately on HDX, as were the 24 high-risk datasets for which the contributor did not agree to conduct",
+    "bbox": [
+      65.5,
+      180.7,
+      527.9,
+      194.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b012",
+    "text": "SDC. For those 24 datasets, many organizations took measures of their own to lower the risk of",
+    "bbox": [
+      65.5,
+      193.9,
+      497.9,
+      207.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b013",
+    "text": "re-identification, sometimes including the removal of non-essential sensitive variables altogether.",
+    "bbox": [
+      65.5,
+      207.1,
+      511.2,
+      220.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b014",
+    "text": "APPLICATIONS OF SDC IN HUMANITARIAN DATA MANAGEMENT",
+    "bbox": [
+      53.9,
+      251.3,
+      440.6,
+      266.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b015",
+    "text": "In early 2019, the Centre interviewed colleagues from seven humanitarian organizations that conduct",
+    "bbox": [
+      53.8,
+      275.9,
+      517.3,
+      289.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b016",
+    "text": "surveys and needs assessments to understand existing practices for microdata management. Some",
+    "bbox": [
+      53.8,
+      289.1,
+      508.5,
+      303.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b017",
+    "text": "organizations such as UNHCR (see case study below) have relatively advanced approaches and considerable",
+    "bbox": [
+      53.8,
+      302.3,
+      548.0,
+      316.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b018",
+    "text": "in-house expertise for conducting SDC on different forms of microdata. However, most of the organizations",
+    "bbox": [
+      53.8,
+      315.5,
+      542.2,
+      329.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b019",
+    "text": "interviewed require additional support to do this work.",
+    "bbox": [
+      53.8,
+      328.7,
+      305.0,
+      342.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b020",
+    "text": "6    Learn more about the Centre’s use of SDC and overall Quality Assurance (QA) process for data shared on HDX here: https://data.humdata.org/about/",
+    "bbox": [
+      53.9,
+      737.8,
+      541.0,
+      746.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b021",
+    "text": "hdx-qa-process.",
+    "bbox": [
+      53.9,
+      746.8,
+      111.9,
+      755.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b022",
+    "text": "7    The Centre recently adjusted its default threshold of acceptable reidentification risk from 5% to 3%. The exact threshold for a particular dataset is",
+    "bbox": [
+      53.9,
+      758.9,
+      531.7,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b023",
+    "text": "always contextual and is determined together with the organization contributing the dataset.",
+    "bbox": [
+      53.9,
+      767.9,
+      363.0,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b024",
+    "text": "Responsible Curation and Management of Microdata about Refugees",
+    "bbox": [
+      66.0,
+      367.4,
+      400.8,
+      380.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b025",
+    "text": "Experience from UNHCR",
+    "bbox": [
+      66.0,
+      381.3,
+      165.3,
+      391.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b026",
+    "text": "UNHCR routinely collects data on refugees and other populations under its mandate. This data is used",
+    "bbox": [
+      66.0,
+      411.4,
+      532.5,
+      425.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b027",
+    "text": "to assess needs and vulnerabilities, inform programming and better target assistance. Although this",
+    "bbox": [
+      66.0,
+      424.6,
+      522.0,
+      438.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b028",
+    "text": "data has not traditionally been retained in formats and locations that would make it easily retrievable",
+    "bbox": [
+      66.0,
+      437.8,
+      530.1,
+      451.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b029",
+    "text": "for future use, UNHCR is now in the process of creating an internal and an external microdata library.",
+    "bbox": [
+      66.0,
+      451.0,
+      525.3,
+      464.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b030",
+    "text": "By creating these online repositories that will allow public access to microdata for internal and",
+    "bbox": [
+      66.0,
+      464.2,
+      498.2,
+      478.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b031",
+    "text": "external users, UNHCR aims to enable more extensive use of the data by a variety of stakeholders and",
+    "bbox": [
+      66.0,
+      477.4,
+      528.4,
+      491.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b032",
+    "text": "prevent duplication in data collection efforts moving forward.",
+    "bbox": [
+      66.0,
+      490.6,
+      349.1,
+      504.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b033",
+    "text": "Public dissemination of microdata has many potential benefits, but it also comes with potential risks.",
+    "bbox": [
+      66.0,
+      517.0,
+      529.6,
+      530.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b034",
+    "text": "Dissemination without appropriate disclosure control measures can enable intruders to identify the",
+    "bbox": [
+      66.0,
+      530.2,
+      522.6,
+      544.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b035",
+    "text": "entities (individuals or households) whose data is being shared, even if direct identifiers like names",
+    "bbox": [
+      66.0,
+      543.4,
+      519.4,
+      557.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b036",
+    "text": "and addresses have been removed. In accordance with UNHCR’s data protection policy, the identity",
+    "bbox": [
+      66.0,
+      556.3,
+      525.7,
+      570.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b037",
+    "text": "of persons of concern must be protected and therefore datasets must be properly anonymized before",
+    "bbox": [
+      66.0,
+      569.8,
+      529.2,
+      583.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b038",
+    "text": "they can be shared. UNHCR data is especially sensitive, as it concerns particularly vulnerable groups",
+    "bbox": [
+      66.0,
+      583.0,
+      523.6,
+      596.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b039",
+    "text": "of people, whose protection is of the utmost importance.",
+    "bbox": [
+      66.0,
+      596.2,
+      327.7,
+      610.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b040",
+    "text": "To ensure protection and responsible dissemination of microdata, UNHCR utilizes the sdcMicro app",
+    "bbox": [
+      66.0,
+      622.6,
+      520.6,
+      636.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b041",
+    "text": "in R to calculate the re-identification risks of such data before they are published. The process is",
+    "bbox": [
+      66.0,
+      635.8,
+      504.3,
+      649.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b042",
+    "text": "managed by UNHCR’s data curation team, which works together with the data owners to identify key",
+    "bbox": [
+      66.0,
+      649.0,
+      526.0,
+      662.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b043",
+    "text": "variables, assess the sensitivity of the data, and set an acceptable risk level for a particular dataset.",
+    "bbox": [
+      66.0,
+      662.2,
+      517.7,
+      676.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b044",
+    "text": "After anonymization, the modified data is compared to the original and assessed for information loss.",
+    "bbox": [
+      66.0,
+      675.4,
+      529.5,
+      689.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b045",
+    "text": "If the data owner judges that certain modified variables are essential for consumers of the data, the",
+    "bbox": [
+      66.0,
+      688.6,
+      519.6,
+      702.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 3,
+    "block_id": "360_p3_b046",
+    "text": "disclosure control methods can be adjusted accordingly. For example, in the case of the",
+    "bbox": [
+      66.0,
+      701.8,
+      464.4,
+      715.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b002",
+    "text": "AUGUST 2019",
+    "bbox": [
+      274.4,
+      791.9,
+      320.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b003",
+    "text": "Opportunities and challenges to incorporating SDC into an organization’s workflow",
+    "bbox": [
+      65.7,
+      318.9,
+      468.3,
+      331.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b004",
+    "text": "Experience from REACH",
+    "bbox": [
+      65.7,
+      332.8,
+      163.7,
+      343.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b005",
+    "text": "REACH began exploring the potential of SDC in June 2018, when the HDX team first applied the",
+    "bbox": [
+      65.7,
+      363.6,
+      499.0,
+      377.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b006",
+    "text": "sdcMicro R package to a dataset that REACH uploaded to the platform. The types of data for which the",
+    "bbox": [
+      65.7,
+      377.0,
+      531.6,
+      390.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b007",
+    "text": "HDX team have applied SDC for REACH include household surveys and key informant interviews (and",
+    "bbox": [
+      65.7,
+      390.2,
+      528.0,
+      404.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b008",
+    "text": "associated metadata). REACH has not yet applied SDC directly but are looking into the requirements",
+    "bbox": [
+      65.7,
+      403.4,
+      523.5,
+      417.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b009",
+    "text": "for doing so.",
+    "bbox": [
+      65.7,
+      416.6,
+      124.7,
+      430.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b010",
+    "text": "Based on experience to-date, REACH suggests that organizations interested in incorporating SDC into",
+    "bbox": [
+      65.7,
+      443.0,
+      527.3,
+      456.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b011",
+    "text": "their workflow consider the following questions:",
+    "bbox": [
+      65.7,
+      456.2,
+      286.4,
+      470.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b012",
+    "text": "•\t Is this the right methodology for your existing microdata management processes?",
+    "bbox": [
+      77.1,
+      474.2,
+      461.0,
+      488.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b013",
+    "text": "•\t To what extent does application of SDC lower the validity and utility of the data?",
+    "bbox": [
+      77.1,
+      492.2,
+      452.8,
+      506.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b014",
+    "text": "•\t How does the application of SDC affect transparency?",
+    "bbox": [
+      77.1,
+      510.2,
+      333.0,
+      524.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b015",
+    "text": "•\t How can you ensure that personnel do not rely too much on the outcomes of an SDC disclosure",
+    "bbox": [
+      77.1,
+      528.2,
+      524.2,
+      542.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b016",
+    "text": "risk assessment and ensure that they keep thinking critically about potential risks of different",
+    "bbox": [
+      88.4,
+      541.4,
+      515.9,
+      555.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b017",
+    "text": "data types?",
+    "bbox": [
+      88.4,
+      554.6,
+      140.7,
+      568.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b018",
+    "text": "REACH has determined that it would be operationally feasible to roll out the technical aspects of SDC",
+    "bbox": [
+      65.7,
+      581.0,
+      527.1,
+      594.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b019",
+    "text": "relatively easily both at HQ and field level. At HQ this would mean running a script on all datasets",
+    "bbox": [
+      65.7,
+      594.2,
+      508.4,
+      608.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b020",
+    "text": "produced or published by REACH. At the field level, this would mean getting country teams to use",
+    "bbox": [
+      65.7,
+      607.4,
+      511.0,
+      621.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b021",
+    "text": "sdcMicro or a similar tool on all datasets produced in country.",
+    "bbox": [
+      65.7,
+      620.6,
+      348.8,
+      634.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b022",
+    "text": "Beyond the technical aspects of SDC, REACH sees the potential challenge or bottleneck in the",
+    "bbox": [
+      65.7,
+      647.0,
+      492.5,
+      660.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b023",
+    "text": "manual component of the process whereby staff must decide whether a particular disclosure control",
+    "bbox": [
+      65.7,
+      660.2,
+      526.3,
+      674.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b024",
+    "text": "technique is appropriate, which variables to remove or otherwise obfuscate and how to interpret and",
+    "bbox": [
+      65.7,
+      673.4,
+      528.5,
+      687.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b025",
+    "text": "communicate the results of the process. These decisions take time and require an understanding of",
+    "bbox": [
+      65.7,
+      686.6,
+      520.0,
+      700.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b026",
+    "text": "the context to which the data relates.",
+    "bbox": [
+      65.7,
+      699.8,
+      236.9,
+      713.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b027",
+    "text": "In the near-term, REACH will continue collaborating with the HDX team to conduct SDC on survey and",
+    "bbox": [
+      65.7,
+      726.2,
+      528.9,
+      740.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b028",
+    "text": "assessment data before publication on HDX. This experience will enable REACH to determine how",
+    "bbox": [
+      65.7,
+      739.4,
+      512.2,
+      753.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b029",
+    "text": "best to incorporate SDC into its own workflows at the global and country level in the future.",
+    "bbox": [
+      65.7,
+      752.6,
+      481.4,
+      766.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b030",
+    "text": "By working with data contributors like REACH (see case study below) to develop a reliable and secure SDC",
+    "bbox": [
+      53.9,
+      219.3,
+      537.3,
+      233.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b031",
+    "text": "service model, the Centre aims to support responsible sharing of this data and demonstrate the value",
+    "bbox": [
+      53.9,
+      232.5,
+      517.8,
+      246.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b032",
+    "text": "of more robust techniques for disclosure risk assessment and data anonymization. Exposure to these",
+    "bbox": [
+      53.9,
+      245.7,
+      515.6,
+      259.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b033",
+    "text": "techniques also helps humanitarian organizations identify tools and methods that they can incorporate",
+    "bbox": [
+      53.9,
+      258.9,
+      527.2,
+      272.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b034",
+    "text": "into their own data management processes, while contributing to the broader body of knowledge within",
+    "bbox": [
+      53.9,
+      272.1,
+      531.7,
+      286.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b035",
+    "text": "the sector on how to more responsibly manage and share microdata in humanitarian settings.",
+    "bbox": [
+      53.9,
+      285.3,
+      481.7,
+      299.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b036",
+    "text": "Standardized Expanded Nutrition Surveys (SENS), the curation team decided not to apply aggregation",
+    "bbox": [
+      66.0,
+      60.1,
+      532.5,
+      74.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b037",
+    "text": "in age brackets that would normally be applied because these brackets were key to characterizing",
+    "bbox": [
+      66.0,
+      73.3,
+      513.4,
+      87.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b038",
+    "text": "malnutrition by age in years and months for children. The team maintained the age variable but",
+    "bbox": [
+      66.0,
+      86.5,
+      504.2,
+      100.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b039",
+    "text": "excluded the date of birth and the survey date. This led to an acceptable risk scenario while keeping",
+    "bbox": [
+      66.0,
+      99.7,
+      522.2,
+      113.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b040",
+    "text": "the data useful for nutritionists.",
+    "bbox": [
+      66.0,
+      112.9,
+      212.3,
+      126.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b041",
+    "text": "UNHCR continues to invest in this process by growing its curation team and increasing the technical",
+    "bbox": [
+      66.0,
+      139.3,
+      521.5,
+      153.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b042",
+    "text": "expertise in anonymization techniques within the organization. Under the current plan, the UNHCR",
+    "bbox": [
+      66.0,
+      152.3,
+      519.8,
+      166.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b043",
+    "text": "Microdata Library will be fully operational and populated with forced displacement microdata at the",
+    "bbox": [
+      66.0,
+      165.5,
+      527.1,
+      179.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 4,
+    "block_id": "360_p4_b044",
+    "text": "end of 2019.",
+    "bbox": [
+      66.0,
+      178.9,
+      121.7,
+      192.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b002",
+    "text": "AUGUST 2019",
+    "bbox": [
+      274.4,
+      791.9,
+      320.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b003",
+    "text": "The Centre and its collaborators on this guidance note recommend that organizations invest in the following",
+    "bbox": [
+      53.9,
+      72.7,
+      548.7,
+      86.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b004",
+    "text": "three areas for successful adoption of SDC:",
+    "bbox": [
+      53.9,
+      85.9,
+      248.6,
+      99.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b005",
+    "text": "1. Selecting the right tool",
+    "bbox": [
+      65.2,
+      109.7,
+      187.6,
+      124.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b006",
+    "text": "There are a variety of tools to conduct SDC available for free online. The Centre and other humanitarian",
+    "bbox": [
+      76.5,
+      123.3,
+      548.7,
+      137.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b007",
+    "text": "organizations consulted during the Centre’s research currently use sdcMicro. The Centre chose",
+    "bbox": [
+      76.5,
+      136.3,
+      510.0,
+      150.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b008",
+    "text": "sdcMicro for its scalability and because it is free and open source. Other free and open source tools",
+    "bbox": [
+      76.5,
+      149.7,
+      528.1,
+      163.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b009",
+    "text": "include μArgus and ARX. In selecting the appropriate tool for conducting SDC, organizations should",
+    "bbox": [
+      76.5,
+      162.7,
+      531.3,
+      176.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b010",
+    "text": "consider the flexibility of the tool in the selecting key variables, the capacity of the tool to handle large",
+    "bbox": [
+      76.5,
+      176.1,
+      543.6,
+      190.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b011",
+    "text": "datasets, the built in risk-utility trade off functionality and the ease with which staff would be able to",
+    "bbox": [
+      76.5,
+      189.3,
+      535.2,
+      203.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b012",
+    "text": "navigate the tool’s user interface.",
+    "bbox": [
+      76.5,
+      202.5,
+      227.7,
+      216.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b013",
+    "text": "2. Integrating SDC into existing data management workflows",
+    "bbox": [
+      65.2,
+      226.3,
+      358.1,
+      240.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b014",
+    "text": "Establishing a process for the application of SDC within existing data management workflows is key",
+    "bbox": [
+      76.5,
+      239.9,
+      531.1,
+      253.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b015",
+    "text": "to sustainable adoption of the method. SDC requires engagement of staff with different knowledge",
+    "bbox": [
+      76.5,
+      253.1,
+      528.1,
+      267.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b016",
+    "text": "and skills, including a technical specialist to apply the statistical methods and  a programme specialist",
+    "bbox": [
+      76.5,
+      266.3,
+      544.0,
+      280.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b017",
+    "text": "with an understanding of the context of the data to determine the acceptable risk-utility balance. A",
+    "bbox": [
+      76.5,
+      279.5,
+      527.2,
+      293.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b018",
+    "text": "well-organized workflow will help improve efficiency of the process and help prevent misinterpretation",
+    "bbox": [
+      76.5,
+      292.7,
+      548.0,
+      306.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b019",
+    "text": "of or overreliance on the outcomes of SDC.",
+    "bbox": [
+      76.5,
+      305.9,
+      271.1,
+      319.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b020",
+    "text": "3. Improving practice through continuous learning",
+    "bbox": [
+      65.2,
+      329.7,
+      308.1,
+      344.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b021",
+    "text": "As organizations apply SDC, they will learn about the sensitivity of different key variables, the",
+    "bbox": [
+      76.5,
+      343.3,
+      502.7,
+      357.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b022",
+    "text": "appropriate risk level to strive for, the acceptable level of information loss and other considerations",
+    "bbox": [
+      76.5,
+      356.5,
+      530.3,
+      370.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b023",
+    "text": "that must be balanced in the process. Keeping a record of each application of SDC and documenting",
+    "bbox": [
+      76.5,
+      369.7,
+      534.8,
+      383.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b024",
+    "text": "lessons learned will help refine the process over time. Sharing these insights internally and, as",
+    "bbox": [
+      76.5,
+      382.9,
+      507.1,
+      396.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b025",
+    "text": "appropriate, with the broader humanitarian community can support more consistent and responsible",
+    "bbox": [
+      76.5,
+      396.1,
+      542.6,
+      410.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b026",
+    "text": "management of microdata in the sector.",
+    "bbox": [
+      76.5,
+      409.3,
+      259.4,
+      423.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b027",
+    "text": "As part of its efforts to support more responsible management and sharing of sensitive humanitarian data,",
+    "bbox": [
+      53.9,
+      433.5,
+      540.8,
+      447.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b028",
+    "text": "the Centre is enhancing its service model8 for conducting SDC. This work includes the introduction of an",
+    "bbox": [
+      53.9,
+      446.7,
+      529.1,
+      460.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b029",
+    "text": "automated risk detection process for all data shared through HDX, which — when done manually — can",
+    "bbox": [
+      53.9,
+      459.9,
+      526.0,
+      473.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b030",
+    "text": "take several hours for large spreadsheets. Through this process, a script will run on all data uploaded to the",
+    "bbox": [
+      53.9,
+      473.1,
+      543.4,
+      487.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b031",
+    "text": "platform to identify microdata and other forms of potentially sensitive data. High-risk data will be sent into",
+    "bbox": [
+      53.9,
+      486.3,
+      542.1,
+      500.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b032",
+    "text": "a dedicated workflow to be assessed and, if necessary, modified through SDC to reduce re-identification risk",
+    "bbox": [
+      53.9,
+      499.5,
+      548.5,
+      513.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b033",
+    "text": "before the data is shared more widely.",
+    "bbox": [
+      53.9,
+      512.7,
+      227.9,
+      526.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b034",
+    "text": "To learn more about the Centre’s work on SDC, contact centrehumdata@un.org.",
+    "bbox": [
+      53.9,
+      536.7,
+      421.7,
+      550.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b035",
+    "text": "RECOMMENDATIONS FOR INCREASING THE USE OF SDC IN HUMANITARIAN",
+    "bbox": [
+      52.7,
+      35.8,
+      513.1,
+      50.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b036",
+    "text": "SETTINGS",
+    "bbox": [
+      52.7,
+      50.8,
+      111.1,
+      65.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b037",
+    "text": "8    Learn more about the Centre’s approach to SDC here: https://humanitarian.atlassian.net/wiki/spaces/HDXKB/pages/1381498881/.",
+    "bbox": [
+      53.9,
+      770.2,
+      490.9,
+      778.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b038",
+    "text": "This project is co-funded",
+    "bbox": [
+      54.3,
+      742.8,
+      136.8,
+      752.4
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b039",
+    "text": "by the European Union",
+    "bbox": [
+      54.3,
+      752.0,
+      128.9,
+      761.6
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b040",
+    "text": "This document covers humanitarian aid activities implemented with the financial assistance of the",
+    "bbox": [
+      146.0,
+      682.0,
+      515.2,
+      693.4
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b041",
+    "text": "European Union. The views expressed herein should not be taken, in any way, to reflect the official opinion",
+    "bbox": [
+      146.0,
+      692.8,
+      544.4,
+      704.2
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b042",
+    "text": "of the European Union, and the European Commission is not responsible for any use that may be made of",
+    "bbox": [
+      146.0,
+      703.6,
+      541.1,
+      715.0
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b043",
+    "text": "the information it contains.",
+    "bbox": [
+      146.0,
+      714.4,
+      247.9,
+      725.8
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b044",
+    "text": "COLLABORATORS: UNHCR AND REACH INITIATIVE.",
+    "bbox": [
+      53.9,
+      565.7,
+      262.9,
+      578.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b045",
+    "text": "The Centre for Humanitarian Data (‘the Centre’)together with key partners, is publishing a series of eight",
+    "bbox": [
+      65.7,
+      592.1,
+      502.6,
+      605.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b046",
+    "text": "guidance notes on Data Responsibility in Humanitarian Action over the course of 2019 and 2020. The Guidance",
+    "bbox": [
+      65.7,
+      604.5,
+      524.4,
+      617.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b047",
+    "text": "Note series follows the publication of the OCHA Data Responsibility Guidelines in March 2019. Through",
+    "bbox": [
+      65.7,
+      616.3,
+      495.9,
+      629.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b048",
+    "text": "the series, the Centre aims to provide additional guidance on specific issues, processes and tools for data",
+    "bbox": [
+      65.7,
+      628.5,
+      502.5,
+      641.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b049",
+    "text": "responsibility in practice. This series is made possible with the generous support of the Directorate-General for",
+    "bbox": [
+      65.7,
+      640.5,
+      525.0,
+      653.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "360",
+    "page_number": 5,
+    "block_id": "360_p5_b050",
+    "text": "European Civil Protection and Humanitarian Aid Operations (DG ECHO).",
+    "bbox": [
+      65.7,
+      652.5,
+      362.2,
+      665.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

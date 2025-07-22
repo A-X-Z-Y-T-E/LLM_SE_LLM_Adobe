@@ -1,0 +1,2057 @@
+[
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b001",
+    "text": "Idaho Transportation Department",
+    "bbox": [
+      288.7,
+      38.6,
+      499.7,
+      50.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b002",
+    "text": "Monthly Vehicle Speed Report",
+    "bbox": [
+      299.5,
+      53.4,
+      488.9,
+      65.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b003",
+    "text": "February 2004",
+    "bbox": [
+      348.6,
+      68.4,
+      439.8,
+      80.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b004",
+    "text": "County: Butte",
+    "bbox": [
+      664.7,
+      88.5,
+      752.5,
+      100.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b005",
+    "text": "Station # 050",
+    "bbox": [
+      35.9,
+      89.2,
+      177.5,
+      101.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b006",
+    "text": "District: 06",
+    "bbox": [
+      681.0,
+      103.4,
+      752.5,
+      115.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b007",
+    "text": "Route: US-93",
+    "bbox": [
+      35.9,
+      104.1,
+      117.9,
+      116.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b008",
+    "text": "Ascending Direction: East",
+    "bbox": [
+      591.0,
+      118.3,
+      752.6,
+      130.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b009",
+    "text": "Segment Code and Milepost: 002240 229.510",
+    "bbox": [
+      35.9,
+      119.0,
+      320.3,
+      130.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b010",
+    "text": "150 Feet N.E. of Craters of the Moon National Monu",
+    "bbox": [
+      35.9,
+      133.8,
+      360.2,
+      145.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b011",
+    "text": "Speed Limit: 65",
+    "bbox": [
+      653.7,
+      133.8,
+      752.5,
+      145.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b012",
+    "text": "Speeds",
+    "bbox": [
+      177.6,
+      165.7,
+      207.5,
+      173.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b013",
+    "text": "Average Daily Volumes and Percentages",
+    "bbox": [
+      290.6,
+      165.7,
+      461.7,
+      173.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b014",
+    "text": "85th",
+    "bbox": [
+      203.2,
+      177.6,
+      223.5,
+      185.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b015",
+    "text": "over speed limit",
+    "bbox": [
+      238.5,
+      177.6,
+      308.0,
+      185.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b016",
+    "text": "5 mph over limit",
+    "bbox": [
+      317.5,
+      177.6,
+      390.0,
+      185.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b017",
+    "text": "10 mph over limit",
+    "bbox": [
+      397.0,
+      177.6,
+      474.8,
+      185.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b018",
+    "text": "Day",
+    "bbox": [
+      490.4,
+      177.6,
+      506.7,
+      185.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b019",
+    "text": "Direction",
+    "bbox": [
+      45.5,
+      189.6,
+      85.7,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b020",
+    "text": "Average",
+    "bbox": [
+      155.8,
+      189.6,
+      189.7,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b021",
+    "text": "Pctile",
+    "bbox": [
+      201.2,
+      189.6,
+      225.8,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b022",
+    "text": "Volume     %",
+    "bbox": [
+      246.3,
+      189.6,
+      300.4,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b023",
+    "text": "Volume     %",
+    "bbox": [
+      326.9,
+      189.6,
+      381.0,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b024",
+    "text": "Volume     %",
+    "bbox": [
+      408.9,
+      189.6,
+      463.0,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b025",
+    "text": "Total",
+    "bbox": [
+      487.5,
+      189.6,
+      509.8,
+      197.9
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b026",
+    "text": "Ascending",
+    "bbox": [
+      38.9,
+      202.0,
+      79.1,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b027",
+    "text": "61.8",
+    "bbox": [
+      176.5,
+      202.0,
+      194.0,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b028",
+    "text": "70.8",
+    "bbox": [
+      215.3,
+      202.0,
+      232.7,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b029",
+    "text": "143",
+    "bbox": [
+      259.6,
+      202.0,
+      274.6,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b030",
+    "text": "43.5%",
+    "bbox": [
+      285.1,
+      202.0,
+      309.7,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b031",
+    "text": "17.3%",
+    "bbox": [
+      365.7,
+      202.0,
+      390.3,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b032",
+    "text": "4.6%",
+    "bbox": [
+      454.4,
+      202.0,
+      473.9,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b033",
+    "text": "329",
+    "bbox": [
+      504.5,
+      202.0,
+      519.4,
+      209.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b034",
+    "text": "Descending",
+    "bbox": [
+      38.9,
+      214.8,
+      83.9,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b035",
+    "text": "59.3",
+    "bbox": [
+      176.5,
+      214.8,
+      194.0,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b036",
+    "text": "70.8",
+    "bbox": [
+      215.3,
+      214.8,
+      232.7,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b037",
+    "text": "130",
+    "bbox": [
+      259.6,
+      214.8,
+      274.6,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b038",
+    "text": "38.8%",
+    "bbox": [
+      285.1,
+      214.8,
+      309.7,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b039",
+    "text": "16.4%",
+    "bbox": [
+      365.7,
+      214.8,
+      390.3,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b040",
+    "text": "4.2%",
+    "bbox": [
+      454.4,
+      214.8,
+      473.9,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b041",
+    "text": "335",
+    "bbox": [
+      504.5,
+      214.8,
+      519.4,
+      222.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b042",
+    "text": "60.5",
+    "bbox": [
+      176.5,
+      227.4,
+      194.0,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b043",
+    "text": "70.8",
+    "bbox": [
+      215.3,
+      227.4,
+      232.7,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b044",
+    "text": "273",
+    "bbox": [
+      259.6,
+      227.4,
+      274.6,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b045",
+    "text": "41.1",
+    "bbox": [
+      283.9,
+      227.4,
+      301.4,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b046",
+    "text": "112",
+    "bbox": [
+      340.3,
+      227.4,
+      355.2,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b047",
+    "text": "16.9",
+    "bbox": [
+      364.5,
+      227.4,
+      382.0,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b048",
+    "text": "4.4",
+    "bbox": [
+      453.2,
+      227.4,
+      465.7,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b049",
+    "text": "664",
+    "bbox": [
+      504.5,
+      227.4,
+      519.4,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b050",
+    "text": "Total",
+    "bbox": [
+      38.9,
+      227.4,
+      59.2,
+      234.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b051",
+    "text": "Average Daily Volumes by Speed",
+    "bbox": [
+      349.0,
+      251.5,
+      500.6,
+      260.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b052",
+    "text": "Direction",
+    "bbox": [
+      43.7,
+      263.5,
+      87.4,
+      272.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b053",
+    "text": "0>-30",
+    "bbox": [
+      161.3,
+      263.3,
+      185.6,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b054",
+    "text": "30>-35",
+    "bbox": [
+      200.4,
+      263.3,
+      230.2,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b055",
+    "text": "35>-40",
+    "bbox": [
+      242.2,
+      263.3,
+      271.9,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b056",
+    "text": "40>-45",
+    "bbox": [
+      283.9,
+      263.3,
+      313.6,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b057",
+    "text": "45>-50",
+    "bbox": [
+      325.8,
+      263.3,
+      355.5,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b058",
+    "text": "50>-55",
+    "bbox": [
+      367.5,
+      263.3,
+      397.2,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b059",
+    "text": "55>-60",
+    "bbox": [
+      409.4,
+      263.3,
+      439.1,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b060",
+    "text": "60>-65",
+    "bbox": [
+      451.1,
+      263.3,
+      480.8,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b061",
+    "text": "65>-70",
+    "bbox": [
+      493.0,
+      263.3,
+      522.7,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b062",
+    "text": "70>-75",
+    "bbox": [
+      534.7,
+      263.3,
+      564.4,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b063",
+    "text": "75>-80",
+    "bbox": [
+      576.6,
+      263.3,
+      606.3,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b064",
+    "text": "80>-85",
+    "bbox": [
+      618.3,
+      263.3,
+      648.0,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b065",
+    "text": "85>-140",
+    "bbox": [
+      657.3,
+      263.3,
+      692.5,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b066",
+    "text": "Day Total",
+    "bbox": [
+      702.5,
+      263.3,
+      744.0,
+      271.5
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b067",
+    "text": "329",
+    "bbox": [
+      729.9,
+      275.8,
+      746.3,
+      284.1
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b068",
+    "text": "Ascending",
+    "bbox": [
+      38.9,
+      275.8,
+      79.1,
+      283.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b069",
+    "text": "335",
+    "bbox": [
+      729.9,
+      289.0,
+      746.3,
+      297.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b070",
+    "text": "Descending",
+    "bbox": [
+      38.9,
+      289.1,
+      83.9,
+      296.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b071",
+    "text": "132",
+    "bbox": [
+      464.2,
+      301.8,
+      480.5,
+      310.0
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b072",
+    "text": "161",
+    "bbox": [
+      506.0,
+      301.8,
+      522.3,
+      310.0
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b073",
+    "text": "664",
+    "bbox": [
+      730.5,
+      301.8,
+      746.9,
+      310.0
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b074",
+    "text": "Total",
+    "bbox": [
+      38.9,
+      301.6,
+      59.2,
+      309.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b075",
+    "text": "Percentage of Daily Volume by Speed",
+    "bbox": [
+      345.4,
+      325.6,
+      505.1,
+      333.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b076",
+    "text": "Direction",
+    "bbox": [
+      45.5,
+      337.4,
+      85.7,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b077",
+    "text": "0>-30",
+    "bbox": [
+      161.3,
+      337.4,
+      185.6,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b078",
+    "text": "30>-35",
+    "bbox": [
+      200.4,
+      337.4,
+      230.2,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b079",
+    "text": "35>-40",
+    "bbox": [
+      242.2,
+      337.4,
+      271.9,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b080",
+    "text": "40>-45",
+    "bbox": [
+      283.9,
+      337.4,
+      313.6,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b081",
+    "text": "45>-50",
+    "bbox": [
+      325.8,
+      337.4,
+      355.5,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b082",
+    "text": "50>-55",
+    "bbox": [
+      367.5,
+      337.4,
+      397.2,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b083",
+    "text": "55>-60",
+    "bbox": [
+      409.4,
+      337.4,
+      439.1,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b084",
+    "text": "60>-65",
+    "bbox": [
+      451.1,
+      337.4,
+      480.8,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b085",
+    "text": "65>-70",
+    "bbox": [
+      493.0,
+      337.4,
+      522.7,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b086",
+    "text": "70>-75",
+    "bbox": [
+      534.7,
+      337.4,
+      564.4,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b087",
+    "text": "75>-80",
+    "bbox": [
+      576.6,
+      337.4,
+      606.3,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b088",
+    "text": "80>-85",
+    "bbox": [
+      618.3,
+      337.4,
+      648.0,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b089",
+    "text": "85>-140",
+    "bbox": [
+      657.3,
+      337.4,
+      692.5,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b090",
+    "text": "Day Total",
+    "bbox": [
+      702.5,
+      337.4,
+      744.0,
+      345.7
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b091",
+    "text": "Ascending",
+    "bbox": [
+      38.9,
+      349.8,
+      79.1,
+      357.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b092",
+    "text": "0.30%",
+    "bbox": [
+      168.8,
+      350.0,
+      195.7,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b093",
+    "text": "0.61%",
+    "bbox": [
+      210.5,
+      350.0,
+      237.4,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b094",
+    "text": "1.52%",
+    "bbox": [
+      252.4,
+      350.0,
+      279.3,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b095",
+    "text": "3.95%",
+    "bbox": [
+      294.0,
+      350.0,
+      320.9,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b096",
+    "text": "5.78%",
+    "bbox": [
+      336.0,
+      350.0,
+      362.9,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b097",
+    "text": "8.21%",
+    "bbox": [
+      377.7,
+      350.0,
+      404.6,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b098",
+    "text": "13.37%",
+    "bbox": [
+      414.0,
+      350.0,
+      446.3,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b099",
+    "text": "22.80%",
+    "bbox": [
+      455.8,
+      350.0,
+      488.1,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b100",
+    "text": "26.14%",
+    "bbox": [
+      497.7,
+      350.0,
+      530.0,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b101",
+    "text": "12.77%",
+    "bbox": [
+      539.4,
+      350.0,
+      571.7,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b102",
+    "text": "3.04%",
+    "bbox": [
+      586.8,
+      350.0,
+      613.7,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b103",
+    "text": "1.22%",
+    "bbox": [
+      628.5,
+      350.0,
+      655.4,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b104",
+    "text": "0.30%",
+    "bbox": [
+      670.4,
+      350.0,
+      697.3,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b105",
+    "text": "100.0%",
+    "bbox": [
+      715.5,
+      350.0,
+      747.8,
+      358.2
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b106",
+    "text": "Descending",
+    "bbox": [
+      38.9,
+      362.4,
+      83.9,
+      369.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b107",
+    "text": "0.30%",
+    "bbox": [
+      168.8,
+      362.6,
+      195.7,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b108",
+    "text": "0.90%",
+    "bbox": [
+      210.5,
+      362.6,
+      237.4,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b109",
+    "text": "3.58%",
+    "bbox": [
+      252.4,
+      362.6,
+      279.3,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b110",
+    "text": "5.97%",
+    "bbox": [
+      294.0,
+      362.6,
+      320.9,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b111",
+    "text": "8.36%",
+    "bbox": [
+      336.0,
+      362.6,
+      362.9,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b112",
+    "text": "11.34%",
+    "bbox": [
+      372.2,
+      362.6,
+      404.5,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b113",
+    "text": "13.73%",
+    "bbox": [
+      414.0,
+      362.6,
+      446.3,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b114",
+    "text": "17.01%",
+    "bbox": [
+      455.8,
+      362.6,
+      488.1,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b115",
+    "text": "22.39%",
+    "bbox": [
+      497.7,
+      362.6,
+      530.0,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b116",
+    "text": "12.24%",
+    "bbox": [
+      539.4,
+      362.6,
+      571.7,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b117",
+    "text": "3.28%",
+    "bbox": [
+      586.8,
+      362.6,
+      613.7,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b118",
+    "text": "0.60%",
+    "bbox": [
+      628.5,
+      362.6,
+      655.4,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b119",
+    "text": "0.30%",
+    "bbox": [
+      670.4,
+      362.6,
+      697.3,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b120",
+    "text": "100.0%",
+    "bbox": [
+      715.5,
+      362.6,
+      747.8,
+      370.8
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b121",
+    "text": "Total",
+    "bbox": [
+      38.9,
+      374.2,
+      59.2,
+      381.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b122",
+    "text": "0.30%",
+    "bbox": [
+      168.6,
+      375.1,
+      195.5,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b123",
+    "text": "0.75%",
+    "bbox": [
+      210.5,
+      375.1,
+      237.4,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b124",
+    "text": "2.56%",
+    "bbox": [
+      252.4,
+      375.1,
+      279.3,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b125",
+    "text": "4.97%",
+    "bbox": [
+      294.0,
+      375.1,
+      320.9,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b126",
+    "text": "7.08%",
+    "bbox": [
+      336.0,
+      375.1,
+      362.9,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b127",
+    "text": "9.79%",
+    "bbox": [
+      377.7,
+      375.1,
+      404.6,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b128",
+    "text": "13.55%",
+    "bbox": [
+      414.0,
+      375.1,
+      446.3,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b129",
+    "text": "19.88%",
+    "bbox": [
+      455.8,
+      375.1,
+      488.1,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b130",
+    "text": "24.25%",
+    "bbox": [
+      497.7,
+      375.1,
+      530.0,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b131",
+    "text": "12.50%",
+    "bbox": [
+      539.4,
+      375.1,
+      571.7,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b132",
+    "text": "3.16%",
+    "bbox": [
+      586.8,
+      375.1,
+      613.7,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b133",
+    "text": "0.90%",
+    "bbox": [
+      628.5,
+      375.1,
+      655.4,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b134",
+    "text": "0.30%",
+    "bbox": [
+      670.1,
+      375.1,
+      697.0,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b135",
+    "text": "100.0%",
+    "bbox": [
+      715.5,
+      375.1,
+      747.8,
+      383.4
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b136",
+    "text": "Page 1",
+    "bbox": [
+      723.5,
+      562.0,
+      752.2,
+      571.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Bookman Old Style",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "218",
+    "page_number": 1,
+    "block_id": "218_p1_b137",
+    "text": "Creation Date: 10/1/2004 16:00",
+    "bbox": [
+      35.9,
+      561.8,
+      168.5,
+      570.1
+    ],
+    "font_size": 8.2,
+    "font_name": "Bookman Old Style",
+    "label": "BODY"
+  }
+]

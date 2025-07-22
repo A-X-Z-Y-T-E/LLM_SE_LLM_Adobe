@@ -1,0 +1,1037 @@
+[
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b001",
+    "text": "For questions or feedback, please contact Leonardo Milano (milano@un.org) at the OCHA Centre for Humanitarian Data.",
+    "bbox": [
+      52.1,
+      91.4,
+      448.3,
+      98.2
+    ],
+    "font_size": 6.7,
+    "font_name": "Arvo",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b002",
+    "text": "MODEL EVALUATION MATRIX - DRC FORESIGHT MODEL - July 2020",
+    "bbox": [
+      252.2,
+      105.8,
+      539.3,
+      114.1
+    ],
+    "font_size": 8.2,
+    "font_name": "Arvo-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b003",
+    "text": "Model Card Section",
+    "bbox": [
+      52.1,
+      127.1,
+      135.1,
+      135.3
+    ],
+    "font_size": 8.2,
+    "font_name": "Arvo",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b004",
+    "text": "Strengths",
+    "bbox": [
+      155.6,
+      127.1,
+      198.5,
+      135.3
+    ],
+    "font_size": 8.2,
+    "font_name": "Arvo",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b005",
+    "text": "Weakness",
+    "bbox": [
+      351.7,
+      127.1,
+      398.1,
+      135.3
+    ],
+    "font_size": 8.2,
+    "font_name": "Arvo",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b006",
+    "text": "Recommended Actions",
+    "bbox": [
+      547.8,
+      127.1,
+      645.4,
+      135.3
+    ],
+    "font_size": 8.2,
+    "font_name": "Arvo",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b007",
+    "text": "1. Intended Use",
+    "bbox": [
+      52.1,
+      186.5,
+      108.9,
+      194.7
+    ],
+    "font_size": 8.2,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b008",
+    "text": "The limitations of the model are clearly explained and the",
+    "bbox": [
+      155.6,
+      142.6,
+      346.6,
+      150.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b009",
+    "text": "scope is well understood and documented.",
+    "bbox": [
+      155.6,
+      151.2,
+      297.3,
+      158.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b010",
+    "text": "In addition to providing displacement estimates the model",
+    "bbox": [
+      155.6,
+      168.4,
+      347.9,
+      175.9
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b011",
+    "text": "provides insights on the root causes of displacement.",
+    "bbox": [
+      155.6,
+      177.0,
+      331.3,
+      184.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b012",
+    "text": "The model can inform humanitarian reponse at the",
+    "bbox": [
+      155.6,
+      194.2,
+      325.1,
+      201.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b013",
+    "text": "national-level.",
+    "bbox": [
+      155.6,
+      202.8,
+      201.7,
+      210.3
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b014",
+    "text": "The model cannot be used for targeted intervention, nor",
+    "bbox": [
+      351.7,
+      142.6,
+      538.2,
+      150.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b015",
+    "text": "real-time decision-making.",
+    "bbox": [
+      351.7,
+      151.2,
+      438.9,
+      158.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b016",
+    "text": "The model is not capturing dynamic/sudden onset",
+    "bbox": [
+      351.7,
+      168.4,
+      518.7,
+      175.9
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b017",
+    "text": "displacement situations but it is mainly applicable to",
+    "bbox": [
+      351.7,
+      177.0,
+      524.9,
+      184.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b018",
+    "text": "protracted displacement situations, where data quality is",
+    "bbox": [
+      351.7,
+      185.6,
+      539.4,
+      193.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b019",
+    "text": "good and the situation is not too dynamic.",
+    "bbox": [
+      351.7,
+      194.2,
+      489.6,
+      201.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b020",
+    "text": "The team has identified potential use cases but the",
+    "bbox": [
+      351.7,
+      211.4,
+      522.4,
+      218.9
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b021",
+    "text": "model's applications are yet to be explored",
+    "bbox": [
+      351.7,
+      220.0,
+      493.1,
+      227.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b022",
+    "text": "The modeling team should provide evidence supporting a",
+    "bbox": [
+      547.8,
+      142.6,
+      739.7,
+      150.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b023",
+    "text": "specific use of the model, i.e. what is the added value of",
+    "bbox": [
+      547.8,
+      151.2,
+      735.1,
+      158.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b024",
+    "text": "using the model?",
+    "bbox": [
+      547.8,
+      159.8,
+      604.7,
+      167.3
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b025",
+    "text": "When engaging with decision makers the team should be",
+    "bbox": [
+      547.8,
+      177.0,
+      739.3,
+      184.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b026",
+    "text": "transparent regarding the strengths and weakness of the",
+    "bbox": [
+      547.8,
+      185.6,
+      737.2,
+      193.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b027",
+    "text": "projections.",
+    "bbox": [
+      547.8,
+      194.2,
+      586.0,
+      201.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b028",
+    "text": "2. Model Development",
+    "bbox": [
+      52.1,
+      280.8,
+      132.4,
+      289.0
+    ],
+    "font_size": 8.2,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b029",
+    "text": "The model takes into account several underlying factors",
+    "bbox": [
+      155.6,
+      240.4,
+      342.5,
+      247.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b030",
+    "text": "from different sectors.",
+    "bbox": [
+      155.6,
+      249.0,
+      227.9,
+      256.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b031",
+    "text": "The model relies on indicators from the World Bank and",
+    "bbox": [
+      351.7,
+      240.4,
+      538.1,
+      247.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b032",
+    "text": "other sources which are not available in a timely way.",
+    "bbox": [
+      351.7,
+      249.0,
+      528.2,
+      256.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b033",
+    "text": "The limited quality of displacement data is the main",
+    "bbox": [
+      351.7,
+      266.2,
+      523.2,
+      273.6
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b034",
+    "text": "limiting factor in the model reliability.",
+    "bbox": [
+      351.7,
+      274.8,
+      471.7,
+      282.2
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b035",
+    "text": "The modeling team should be clear in documenting how",
+    "bbox": [
+      547.8,
+      240.4,
+      735.1,
+      247.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b036",
+    "text": "the model has been validated (how training/testing and",
+    "bbox": [
+      547.8,
+      249.0,
+      731.0,
+      256.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b037",
+    "text": "cross-validation sets are defined) to ensure it's in line with",
+    "bbox": [
+      547.8,
+      257.6,
+      740.6,
+      265.0
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b038",
+    "text": "the intended use of the model.",
+    "bbox": [
+      547.8,
+      266.2,
+      648.3,
+      273.6
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b039",
+    "text": "The team should improve information reward (IR) metrics",
+    "bbox": [
+      547.8,
+      283.4,
+      738.8,
+      290.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b040",
+    "text": "(rewarding/penalizing predicted vs missed forecast)",
+    "bbox": [
+      547.8,
+      292.0,
+      720.2,
+      299.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b041",
+    "text": "according to the risk tolerance of decision makers.",
+    "bbox": [
+      547.8,
+      300.5,
+      713.9,
+      308.0
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b042",
+    "text": "3. Model Evaluation",
+    "bbox": [
+      52.1,
+      366.4,
+      122.8,
+      374.7
+    ],
+    "font_size": 8.2,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b043",
+    "text": "The model has strong evaluation metrics for protracted",
+    "bbox": [
+      155.6,
+      330.7,
+      338.7,
+      338.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b044",
+    "text": "situation (e.g. Afghanistan).",
+    "bbox": [
+      155.6,
+      339.3,
+      246.6,
+      346.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b045",
+    "text": "The model automatically updates when new data is",
+    "bbox": [
+      155.6,
+      356.4,
+      327.1,
+      363.9
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b046",
+    "text": "available.",
+    "bbox": [
+      155.6,
+      365.0,
+      187.2,
+      372.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b047",
+    "text": "Even though there is an attempt to highlight the root",
+    "bbox": [
+      351.7,
+      330.7,
+      525.3,
+      338.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b048",
+    "text": "causes of displacement, the explainability and",
+    "bbox": [
+      351.7,
+      339.3,
+      505.8,
+      346.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b049",
+    "text": "interpretability elements of the projections can be",
+    "bbox": [
+      351.7,
+      347.8,
+      516.2,
+      355.3
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b050",
+    "text": "improved.",
+    "bbox": [
+      351.7,
+      356.4,
+      384.5,
+      363.9
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b051",
+    "text": "The modeling team should compare the projections of the",
+    "bbox": [
+      547.8,
+      330.7,
+      740.5,
+      338.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b052",
+    "text": "model with a simple linear model to show the added value",
+    "bbox": [
+      547.8,
+      339.3,
+      741.3,
+      346.7
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b053",
+    "text": "of the model and the increase in performance.",
+    "bbox": [
+      547.8,
+      347.8,
+      700.2,
+      355.3
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b054",
+    "text": "The modeling teams should conduct sensitivity analysis",
+    "bbox": [
+      547.8,
+      365.0,
+      733.4,
+      372.5
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b055",
+    "text": "test to understand the weight of the predictors.",
+    "bbox": [
+      547.8,
+      373.6,
+      701.4,
+      381.1
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b056",
+    "text": "4. Operational Readiness",
+    "bbox": [
+      52.1,
+      452.7,
+      140.9,
+      460.9
+    ],
+    "font_size": 8.2,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b057",
+    "text": "The model can provide national level evidence for",
+    "bbox": [
+      155.6,
+      412.3,
+      322.2,
+      419.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b058",
+    "text": "supporting strategic global/regional/national level",
+    "bbox": [
+      155.6,
+      420.9,
+      319.3,
+      428.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b059",
+    "text": "planning.",
+    "bbox": [
+      155.6,
+      429.5,
+      186.0,
+      437.0
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b060",
+    "text": "Data inputs are sometimes outdated, potential not",
+    "bbox": [
+      351.7,
+      412.3,
+      518.6,
+      419.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b061",
+    "text": "reflecting the current situation in the country.",
+    "bbox": [
+      351.7,
+      420.9,
+      498.7,
+      428.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b062",
+    "text": "The model assumes that past conditions will hold in the",
+    "bbox": [
+      351.7,
+      438.1,
+      536.5,
+      445.6
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b063",
+    "text": "future, this may impose a limit on its use for operational",
+    "bbox": [
+      351.7,
+      446.7,
+      536.5,
+      454.2
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b064",
+    "text": "readiness and emergency preparedness.",
+    "bbox": [
+      351.7,
+      455.3,
+      487.6,
+      462.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b065",
+    "text": "Test more situations (beyond Afghanistan and Myanmar)",
+    "bbox": [
+      547.8,
+      412.3,
+      738.0,
+      419.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b066",
+    "text": "to have a reliable proof of concept with both protracted",
+    "bbox": [
+      547.8,
+      420.9,
+      730.1,
+      428.4
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b067",
+    "text": "and sudden onset displacement situations.",
+    "bbox": [
+      547.8,
+      429.5,
+      691.1,
+      437.0
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b068",
+    "text": "The team should provide guidelines for dealing with",
+    "bbox": [
+      547.8,
+      446.7,
+      720.2,
+      454.2
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "192",
+    "page_number": 1,
+    "block_id": "192_p1_b069",
+    "text": "wrong projections and false positive/false negatives.",
+    "bbox": [
+      547.8,
+      455.3,
+      720.2,
+      462.8
+    ],
+    "font_size": 7.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  }
+]

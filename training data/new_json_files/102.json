@@ -1,0 +1,872 @@
+[
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b019",
+    "text": "3305302",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b020",
+    "text": "07/01/2012",
+    "bbox": [
+      212.3,
+      400.0,
+      281.1,
+      418.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b021",
+    "text": "10/31/2013",
+    "bbox": [
+      418.1,
+      194.3,
+      486.9,
+      213.2
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b022",
+    "text": "INI-Initiation of Review",
+    "bbox": [
+      214.7,
+      138.8,
+      297.3,
+      150.1
+    ],
+    "font_size": 8.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b023",
+    "text": "A-428-842",
+    "bbox": [
+      209.4,
+      293.6,
+      265.4,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b024",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b025",
+    "text": "78 FR 65283",
+    "bbox": [
+      213.0,
+      193.9,
+      292.4,
+      212.7
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b026",
+    "text": "11/01/2013",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b027",
+    "text": "Antidumping",
+    "bbox": [
+      417.0,
+      114.1,
+      493.4,
+      133.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b028",
+    "text": "06/30/2013",
+    "bbox": [
+      415.7,
+      397.9,
+      484.4,
+      416.8
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b029",
+    "text": "10/31/2013",
+    "bbox": [
+      212.1,
+      359.9,
+      280.9,
+      378.8
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 1,
+    "block_id": "102_p1_b030",
+    "text": "Message Date: 11/01/2013         Message Number: 3305302         Page 1 of 3",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b001",
+    "text": "Notice of Lifting of Suspension Date:",
+    "bbox": [
+      36.0,
+      23.1,
+      230.1,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b004",
+    "text": "RE:        Initiation of antidumping duty investigation of Grain-Oriented Electrical Steel from",
+    "bbox": [
+      36.0,
+      163.1,
+      511.5,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b005",
+    "text": "Germany (A-428-842)",
+    "bbox": [
+      36.0,
+      183.1,
+      152.7,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b006",
+    "text": "1.  On 10/31/2013, Commerce published in the Federal Register its initiation of the antidumping",
+    "bbox": [
+      36.0,
+      223.1,
+      541.6,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b007",
+    "text": "duty investigation of Grain-Oriented Electrical Steel from Germany (78 FR 65283).",
+    "bbox": [
+      36.0,
+      243.1,
+      471.5,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b008",
+    "text": "2.  The scope of this investigation covers grain-oriented silicon electrical steel (GOES).  GOES is a",
+    "bbox": [
+      36.0,
+      283.1,
+      558.9,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b009",
+    "text": "flat-rolled alloy steel product containing by weight at least 0.6 percent but not more than 6 percent",
+    "bbox": [
+      36.0,
+      303.1,
+      553.6,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b010",
+    "text": "of silicon, not more than 0.08 percent of carbon, not more than 1.0 percent of aluminum, and no",
+    "bbox": [
+      36.0,
+      323.1,
+      542.9,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b011",
+    "text": "other element in an amount that would give the steel the characteristics of another alloy steel, in",
+    "bbox": [
+      36.0,
+      343.1,
+      544.2,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b012",
+    "text": "coils or in straight lengths.  The GOES that is subject to this investigation is currently classifiable",
+    "bbox": [
+      36.0,
+      363.1,
+      545.5,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b013",
+    "text": "under subheadings 7225.11.0000, 7226.11.1000, 7226.11.9030, and 7226.11.9060 of the",
+    "bbox": [
+      36.0,
+      383.1,
+      511.7,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b014",
+    "text": "Harmonized Tariff Schedule of the United States (HTSUS).  Although the HTSUS subheadings are",
+    "bbox": [
+      36.0,
+      403.1,
+      558.9,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b015",
+    "text": "provided for convenience and customs purposes, the written description of the scope of this",
+    "bbox": [
+      36.0,
+      423.1,
+      521.6,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b016",
+    "text": "investigation is dispositive.",
+    "bbox": [
+      36.0,
+      443.1,
+      177.4,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b017",
+    "text": "3.  This investigation has been assigned investigation number A-428-842.",
+    "bbox": [
+      36.0,
+      483.1,
+      426.2,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b018",
+    "text": "4.  If there are any questions by the importing public regarding this message, please contact the",
+    "bbox": [
+      36.0,
+      523.1,
+      543.6,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b019",
+    "text": "Call Center for the Office of AD/CVD Operations, Import Administration, International Trade",
+    "bbox": [
+      36.0,
+      543.1,
+      519.5,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b020",
+    "text": "Administration, U.S. Department of Commerce at (202) 482-0984.  CBP ports should submit their",
+    "bbox": [
+      36.0,
+      563.1,
+      550.9,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b021",
+    "text": "inquiries through authorized CBP channels only.  (This message was generated by O2:SB.)",
+    "bbox": [
+      36.0,
+      583.1,
+      521.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b022",
+    "text": "5.  There are no restrictions on the release of this information.",
+    "bbox": [
+      36.0,
+      623.1,
+      363.5,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b023",
+    "text": "Michael B. Walsh",
+    "bbox": [
+      36.0,
+      663.1,
+      128.7,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 2,
+    "block_id": "102_p2_b024",
+    "text": "Message Date: 11/01/2013         Message Number: 3305302         Page 2 of 3",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 3,
+    "block_id": "102_p3_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 3,
+    "block_id": "102_p3_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 3,
+    "block_id": "102_p3_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "102",
+    "page_number": 3,
+    "block_id": "102_p3_b004",
+    "text": "Message Date: 11/01/2013         Message Number: 3305302         Page 3 of 3",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

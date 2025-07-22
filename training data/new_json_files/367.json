@@ -1,0 +1,2102 @@
+[
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b019",
+    "text": "7340114",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b020",
+    "text": "01/01/1995",
+    "bbox": [
+      212.6,
+      440.1,
+      281.3,
+      459.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b021",
+    "text": "LIQ-Liquidation",
+    "bbox": [
+      214.7,
+      136.0,
+      297.3,
+      152.7
+    ],
+    "font_size": 12.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b022",
+    "text": "C-533-063",
+    "bbox": [
+      209.4,
+      293.6,
+      266.0,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b023",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b024",
+    "text": "12/31/1995",
+    "bbox": [
+      414.1,
+      440.3,
+      482.9,
+      459.2
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b025",
+    "text": "12/05/1996",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b026",
+    "text": "Countervailing",
+    "bbox": [
+      417.0,
+      114.7,
+      499.5,
+      132.4
+    ],
+    "font_size": 12.9,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 1,
+    "block_id": "367_p1_b027",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 1 of 6",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b001",
+    "text": "Notice of Lifting of Suspension Date:",
+    "bbox": [
+      36.0,
+      23.1,
+      230.1,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b004",
+    "text": "RE:        AUTOMATIC LIQUIDATION FOR CERTAIN IRON-METAL CASTINGS FROM INDIA (C-",
+    "bbox": [
+      36.0,
+      163.1,
+      554.1,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b005",
+    "text": "533-063) FOR THE PERIOD 1/1/95-12/31/95",
+    "bbox": [
+      36.0,
+      183.1,
+      276.8,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b006",
+    "text": "MESSAGE NO: 7340114                        DATE: 12 05 1996",
+    "bbox": [
+      36.0,
+      223.1,
+      415.6,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b007",
+    "text": "CATEGORY: CVD                            TYPE: LIQ",
+    "bbox": [
+      36.0,
+      243.1,
+      379.5,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b008",
+    "text": "REFERENCE:                      REFERENCE DATE:",
+    "bbox": [
+      36.0,
+      263.1,
+      402.8,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b009",
+    "text": "CASES:  C - 533 - 063                  -     -",
+    "bbox": [
+      36.0,
+      283.1,
+      348.2,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b010",
+    "text": "-     -                      -     -",
+    "bbox": [
+      36.0,
+      303.1,
+      298.8,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b011",
+    "text": "-     -                      -     -",
+    "bbox": [
+      36.0,
+      323.1,
+      298.8,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b012",
+    "text": "PERIOD COVERED:  01 01 1995  TO  12 31 1995",
+    "bbox": [
+      36.0,
+      363.1,
+      421.6,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b013",
+    "text": "LIQ SUSPENSION DATE:",
+    "bbox": [
+      36.0,
+      403.1,
+      369.5,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b014",
+    "text": "TO: CMC DIRECTORS,",
+    "bbox": [
+      36.0,
+      443.1,
+      364.2,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b015",
+    "text": "PORT DIRECTORS",
+    "bbox": [
+      36.0,
+      463.1,
+      356.8,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b016",
+    "text": "FROM: DIRECTOR, IMPORT OPERATIONS",
+    "bbox": [
+      36.0,
+      503.1,
+      426.1,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b017",
+    "text": "RE: AUTOMATIC LIQUIDATION FOR CERTAIN IRON-METAL CASTINGS",
+    "bbox": [
+      36.0,
+      543.1,
+      506.8,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b018",
+    "text": "FROM INDIA (C-533-063) FOR THE PERIOD",
+    "bbox": [
+      36.0,
+      563.1,
+      416.8,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b019",
+    "text": "1/1/95-12/31/95",
+    "bbox": [
+      36.0,
+      583.1,
+      330.2,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b020",
+    "text": "1.   THE DEPARTMENT OF COMMERCE DID NOT RECEIVE A REQUEST FOR AN",
+    "bbox": [
+      36.0,
+      623.1,
+      540.8,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b021",
+    "text": "ADMINISTRATIVE REVIEW OF THE COUNTERVAILING DUTY ORDERS ON",
+    "bbox": [
+      36.0,
+      643.1,
+      523.4,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b022",
+    "text": "CERTAIN IRON-METAL CASTINGS FROM INDIA (C-533-063) FOR THE",
+    "bbox": [
+      36.0,
+      663.1,
+      495.4,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b023",
+    "text": "PERIOD 1/1/95 - 12/31/95.",
+    "bbox": [
+      36.0,
+      683.1,
+      356.2,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b024",
+    "text": "2.   THE MERCHANDISE COVERED BY THESE INSTRUCTIONS IS CERTAIN",
+    "bbox": [
+      36.0,
+      723.1,
+      521.4,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b025",
+    "text": "IRON-METAL CASTINGS FROM INDIA (C-533-063).  THESE PRODUCTS",
+    "bbox": [
+      36.0,
+      743.1,
+      500.8,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b026",
+    "text": "INCLUDE INDIAN MANHOLE COVERS AND FRAMES, CLEAN-OUT COVERS",
+    "bbox": [
+      36.0,
+      763.1,
+      528.1,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b027",
+    "text": "AND FRAMES, AND CATCH BASIN GRATES AND FRAMES.  THESE",
+    "bbox": [
+      36.0,
+      783.1,
+      498.8,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 2,
+    "block_id": "367_p2_b028",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 2 of 6",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b001",
+    "text": "ARTICLES ARE COMMONLY CALLED MUNICIPAL OR PUBLIC WORKS",
+    "bbox": [
+      36.0,
+      43.1,
+      512.1,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b002",
+    "text": "CASTINGS AND ARE USED FOR ACCESS OR DRAINAGE FOR PUBLIC",
+    "bbox": [
+      36.0,
+      63.1,
+      511.5,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b003",
+    "text": "UTILITY, WATER, AND SANITARY SYSTEMS.  DURING THE REVIEW",
+    "bbox": [
+      36.0,
+      83.1,
+      495.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b004",
+    "text": "PERIOD, SUCH MERCHANDISE WAS CLASSIFIABLE UNDER THE",
+    "bbox": [
+      36.0,
+      103.1,
+      496.1,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b005",
+    "text": "HARMONIZED TARIFF SCHEDULE (HTS) ITEM NUMBERS 7325.10.0010",
+    "bbox": [
+      36.0,
+      123.1,
+      504.8,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b006",
+    "text": "AND 7325.10.0050.",
+    "bbox": [
+      36.0,
+      143.1,
+      344.9,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b007",
+    "text": "3.   THEREFORE, IN ACCORDANCE WITH SECTION 355.22(G) OF THE",
+    "bbox": [
+      36.0,
+      183.1,
+      499.5,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b008",
+    "text": "COMMERCE REGULATIONS, YOU ARE TO ASSESS COUNTERVAILING",
+    "bbox": [
+      36.0,
+      203.1,
+      518.8,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b009",
+    "text": "DUTIES AT RATES EQUAL TO THE CASH DEPOSIT OF ESTIMATED",
+    "bbox": [
+      36.0,
+      223.1,
+      498.1,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b010",
+    "text": "COUNTERVAILING DUTIES REQUIRED AT THE TIME OF ENTRY SUMMARY",
+    "bbox": [
+      36.0,
+      243.1,
+      526.8,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b011",
+    "text": "ON THE SPECIFIED SUBJECT MERCHANDISE EXPORTED ON OR AFTER",
+    "bbox": [
+      36.0,
+      263.1,
+      522.8,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b012",
+    "text": "DECEMBER 1, 1995 AND ON OR BEFORE DECEMBER 31, 1995.",
+    "bbox": [
+      36.0,
+      283.1,
+      482.8,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b013",
+    "text": "4.   THE RATES OF ESTIMATED COUNTERVAILING DUTIES WHICH WERE",
+    "bbox": [
+      36.0,
+      323.1,
+      519.4,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b014",
+    "text": "REQUIRED TO BE DEPOSITED ARE:",
+    "bbox": [
+      36.0,
+      343.1,
+      406.2,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b015",
+    "text": "CERTAIN IRON-METAL",
+    "bbox": [
+      36.0,
+      383.1,
+      366.2,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b016",
+    "text": "CASTINGS",
+    "bbox": [
+      36.0,
+      403.1,
+      330.9,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b017",
+    "text": "FROM INDIA",
+    "bbox": [
+      36.0,
+      423.1,
+      333.5,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b018",
+    "text": "MANUFACTURERS       CASE NUMBER    PERIOD         RATE",
+    "bbox": [
+      36.0,
+      443.1,
+      457.5,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b019",
+    "text": "ALL FIRMS         C-533-063     1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      463.1,
+      402.9,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b020",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      483.1,
+      350.9,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b021",
+    "text": "R.B. AGARWALLA    C-533-063-001 1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      523.1,
+      436.2,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b022",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      543.1,
+      350.9,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b023",
+    "text": "CARNATION         C-533-063-002 1/1/95-8/28/95   16.10%",
+    "bbox": [
+      36.0,
+      583.1,
+      425.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b024",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      603.1,
+      350.9,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b025",
+    "text": "CRESCENT          C-533-063-003 1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      643.1,
+      420.9,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b026",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      663.1,
+      350.9,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b027",
+    "text": "GOVIND            C-533-063-004 1/1/95-8/28/95   20.21%",
+    "bbox": [
+      36.0,
+      723.1,
+      412.2,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b028",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      743.1,
+      350.9,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b029",
+    "text": "KAJARIA             C-533-063-005  1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      783.1,
+      408.2,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 3,
+    "block_id": "367_p3_b030",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 3 of 6",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b001",
+    "text": "8/29/95-12/31/95 16.14%",
+    "bbox": [
+      36.0,
+      43.1,
+      354.2,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b002",
+    "text": "RSI                 C-533-063-006  1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      83.1,
+      391.6,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b003",
+    "text": "8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      103.1,
+      350.9,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b004",
+    "text": "SERAMPORE        C-533-063-007  1/1/95-8/28/95   2.48%",
+    "bbox": [
+      36.0,
+      143.1,
+      428.2,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b005",
+    "text": "8/29/95-12/31/95 5.12%",
+    "bbox": [
+      36.0,
+      163.1,
+      350.9,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b006",
+    "text": "KEJRIWAL         C-533-063-008  1/1/95-8/28/95   2.48%",
+    "bbox": [
+      36.0,
+      203.1,
+      414.9,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b007",
+    "text": "8/29/95-12/31/95 5.12%",
+    "bbox": [
+      36.0,
+      223.1,
+      350.9,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b008",
+    "text": "SELECT           C-533-063-009  1/1/95-8/28/95   2.48%",
+    "bbox": [
+      36.0,
+      263.1,
+      408.2,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b009",
+    "text": "8/29/95-12/31/95 5.12%",
+    "bbox": [
+      36.0,
+      283.1,
+      350.9,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b010",
+    "text": "UMA              C-533-063-010  1/1/95-8/28/95  16.22%",
+    "bbox": [
+      36.0,
+      323.1,
+      401.6,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b011",
+    "text": "8/29/95-12/31/95 5.12%",
+    "bbox": [
+      36.0,
+      343.1,
+      350.9,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b012",
+    "text": "COMMEX           C-533-063-011  1/1/95-8/28/95   2.48%",
+    "bbox": [
+      36.0,
+      383.1,
+      415.5,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b013",
+    "text": "8/29/95-12/31/95 5.12%",
+    "bbox": [
+      36.0,
+      403.1,
+      350.9,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b014",
+    "text": "SUPERCASTINGS    C-533-063-012  1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      443.1,
+      440.9,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b015",
+    "text": "8/29/95-12/31/95 41.75%",
+    "bbox": [
+      36.0,
+      463.1,
+      354.2,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b016",
+    "text": "TIRUPATI         C-533-063-013  1/1/95-8/28/95   20.21%",
+    "bbox": [
+      36.0,
+      503.1,
+      412.9,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b017",
+    "text": "INTERNATIONAL                   8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      523.1,
+      403.5,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b018",
+    "text": "RAGHUNATH PRASA  C-533-063-014  1/1/95-8/28/95   20.21%",
+    "bbox": [
+      36.0,
+      563.1,
+      454.9,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b019",
+    "text": "PHOOLCHAND LTD.                 8/29/95-12/31/95  5.12%",
+    "bbox": [
+      36.0,
+      583.1,
+      414.9,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b020",
+    "text": "DINESH BROTHERS, C-533-063-015  1/1/95-8/28/95    2.48%",
+    "bbox": [
+      36.0,
+      623.1,
+      446.9,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b021",
+    "text": "PVT. LTD.                       8/29/95-12/31/95   ZERO",
+    "bbox": [
+      36.0,
+      643.1,
+      379.5,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b022",
+    "text": "5.   THE ASSESSMENT OF COUNTERVAILING DUTIES BY THE CUSTOMS",
+    "bbox": [
+      36.0,
+      683.1,
+      519.5,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b023",
+    "text": "SERVICE ON SHIPMENTS OR ENTRY SUMMARIES OF THIS MERCHANDISE",
+    "bbox": [
+      36.0,
+      703.1,
+      530.8,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b024",
+    "text": "IS SUBJECT TO THE PROVISIONS OF SECTION 778 OF THE TARIFF",
+    "bbox": [
+      36.0,
+      723.1,
+      493.5,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b025",
+    "text": "ACT OF 1930.  SECTION 778 REQUIRES THAT CUSTOMS PAY INTEREST",
+    "bbox": [
+      36.0,
+      743.1,
+      510.8,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b026",
+    "text": "ON OVERPAYMENTS, OR ASSESS INTEREST ON UNDERPAYMENTS, OF THE",
+    "bbox": [
+      36.0,
+      763.1,
+      540.1,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b027",
+    "text": "REQUIRED AMOUNTS DEPOSITED AS ESTIMATED COUNTERVAILING",
+    "bbox": [
+      36.0,
+      783.1,
+      516.8,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 4,
+    "block_id": "367_p4_b028",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 4 of 6",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b001",
+    "text": "DUTIES.  THE INTEREST PROVISIONS ARE NOT APPLICABLE TO CASH",
+    "bbox": [
+      36.0,
+      43.1,
+      508.2,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b002",
+    "text": "OR BONDS POSTED AS ESTIMATED COUNTERVAILING DUTIES BEFORE THE",
+    "bbox": [
+      36.0,
+      63.1,
+      538.1,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b003",
+    "text": "DATE OF PUBLICATION OF THE COUNTERVAILING DUTY ORDER.",
+    "bbox": [
+      36.0,
+      83.1,
+      498.1,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b004",
+    "text": "INTEREST SHALL BE CALCULATED FROM THE DATE OF PAYMENT OF",
+    "bbox": [
+      36.0,
+      103.1,
+      514.8,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b005",
+    "text": "ESTIMATED COUNTERVAILING DUTIES THROUGH THE DATE OF LIQUIDATION.",
+    "bbox": [
+      36.0,
+      123.1,
+      538.8,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b006",
+    "text": "THE  RATE AT WHICH SUCH INTEREST IS PAYABLE IS THE RATE IN EFFECT",
+    "bbox": [
+      36.0,
+      143.1,
+      520.1,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b007",
+    "text": "UNDER SECTION 6621 OF THE INTERNAL REVENUE CODE OF 1954 FOR",
+    "bbox": [
+      36.0,
+      163.1,
+      516.8,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b008",
+    "text": "SUCH PERIOD.",
+    "bbox": [
+      36.0,
+      183.1,
+      342.9,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b009",
+    "text": "6.   THE SUSPENSION OF LIQUIDATION ORDERED FOR THIS MERCHANDISE",
+    "bbox": [
+      36.0,
+      223.1,
+      530.1,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b010",
+    "text": "EXPORTED ON OR BEFORE 12/31/95 IS LIFTED.  SUSPENSION OF",
+    "bbox": [
+      36.0,
+      243.1,
+      488.8,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b011",
+    "text": "LIQUIDATION FOR ALL ENTRY SUMMARIES OF THIS MERCHANDISE",
+    "bbox": [
+      36.0,
+      263.1,
+      505.5,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b012",
+    "text": "EXPORTED AFTER 12/31/95 WILL CONTINUE.",
+    "bbox": [
+      36.0,
+      283.1,
+      428.8,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b013",
+    "text": "7.   IF THERE ARE ANY QUESTIONS REGARDING THIS MATTER BY CUSTOMS",
+    "bbox": [
+      36.0,
+      323.1,
+      532.8,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b014",
+    "text": "OFFICERS, PLEASE CONTACT VIA E-MAIL, THROUGH THE APPROPRIATE",
+    "bbox": [
+      36.0,
+      343.1,
+      520.8,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b015",
+    "text": "SUPERVISORY CHANNELS, IMPORT OPERATIONS,",
+    "bbox": [
+      36.0,
+      363.1,
+      456.8,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b016",
+    "text": "ANTIDUMPING/COUNTERVAILING DUTY, USING ATTRIBUTE 'HQ OAB'.",
+    "bbox": [
+      36.0,
+      383.1,
+      505.4,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b017",
+    "text": "THE IMPORTING PUBLIC AND OTHER INTERESTED PARTIES SHOULD",
+    "bbox": [
+      36.0,
+      403.1,
+      512.8,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b018",
+    "text": "CONTACT THE OFFICE OF AD/CVD ENFORCEMENT VI, IMPORT",
+    "bbox": [
+      36.0,
+      423.1,
+      491.4,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b019",
+    "text": "ADMINISTRATION, U.S. DEPARTMENT OF COMMERCE, (202) 482-2786.",
+    "bbox": [
+      36.0,
+      443.1,
+      501.5,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b020",
+    "text": "8.   THERE ARE NO RESTRICTIONS ON THE RELEASE OF THIS",
+    "bbox": [
+      36.0,
+      483.1,
+      483.5,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b021",
+    "text": "INFORMATION.",
+    "bbox": [
+      36.0,
+      503.1,
+      343.5,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b022",
+    "text": "WILLIAM D. SLYNE",
+    "bbox": [
+      36.0,
+      543.1,
+      350.2,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 5,
+    "block_id": "367_p5_b023",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 5 of 6",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 6,
+    "block_id": "367_p6_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 6,
+    "block_id": "367_p6_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 6,
+    "block_id": "367_p6_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "367",
+    "page_number": 6,
+    "block_id": "367_p6_b004",
+    "text": "Message Date: 12/05/1996         Message Number: 7340114         Page 6 of 6",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

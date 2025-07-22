@@ -1,0 +1,4382 @@
+[
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b003",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b004",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      98.4,
+      263.7,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b005",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      116.4,
+      479.6,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b006",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS LES",
+    "bbox": [
+      53.3,
+      138.7,
+      530.2,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b007",
+    "text": "TRANSFERTS MONÉTAIRES",
+    "bbox": [
+      53.3,
+      162.7,
+      328.7,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b008",
+    "text": "POINTS CLÉS :",
+    "bbox": [
+      63.7,
+      224.0,
+      149.3,
+      239.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b009",
+    "text": "•\t Au cours des dernières années, les acteurs humanitaires ont accompli des progrès considérables",
+    "bbox": [
+      74.0,
+      245.7,
+      526.3,
+      259.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b010",
+    "text": "dans la promotion de la Responsabilité des données dans les transferts monétaires («TM», en",
+    "bbox": [
+      85.3,
+      258.9,
+      510.9,
+      272.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b011",
+    "text": "anglais « Cash and Voucher Assistance - CVA », à savoir les transferts en espèces et en coupons).",
+    "bbox": [
+      85.3,
+      272.1,
+      520.8,
+      286.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b012",
+    "text": "Toutefois, il subsiste des écarts entre les cadres globaux pour la Responsabilité des données et",
+    "bbox": [
+      85.3,
+      285.3,
+      517.7,
+      299.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b013",
+    "text": "leur application pratique dans la distribution de ces TM.",
+    "bbox": [
+      85.3,
+      298.5,
+      339.5,
+      312.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b014",
+    "text": "•\t Il existe de nombreuses ressources disponibles sur la protection des données dans les",
+    "bbox": [
+      74.0,
+      321.7,
+      478.2,
+      335.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b015",
+    "text": "programmes de TM, mais il manque des conseils et des outils pratiques pour la gestion",
+    "bbox": [
+      85.3,
+      334.9,
+      482.6,
+      348.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b016",
+    "text": "responsable des données sensibles non personnelles.",
+    "bbox": [
+      85.3,
+      348.1,
+      330.6,
+      362.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b017",
+    "text": "•\t Parmi les bénéfices relatifs aux données dans les TM, on retiendra : (i) une meilleure",
+    "bbox": [
+      74.0,
+      371.3,
+      468.5,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b018",
+    "text": "compréhension des priorités, des besoins et des préférences des bénéficiaires ; (ii) un meilleur",
+    "bbox": [
+      85.3,
+      384.5,
+      516.2,
+      398.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b019",
+    "text": "ciblage de l’aide, y compris en évitant le dédoublement quant aux listes de bénéficiaires ; (iii) une",
+    "bbox": [
+      85.3,
+      397.7,
+      529.6,
+      411.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b020",
+    "text": "efficacité et une efficience accrues des différents mécanismes de distribution ; et (iv) une plus",
+    "bbox": [
+      85.3,
+      410.9,
+      512.0,
+      424.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b021",
+    "text": "grande transparence et redevabilité.",
+    "bbox": [
+      85.3,
+      424.1,
+      250.9,
+      438.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b022",
+    "text": "•\t Les risques courants relatifs aux données dans les TM sont : (i) la divulgation de données sensibles",
+    "bbox": [
+      74.0,
+      450.5,
+      534.2,
+      464.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b023",
+    "text": "pouvant entraîner diverses formes de préjudice envers les personnes affectées et/ou le personnel",
+    "bbox": [
+      85.3,
+      463.7,
+      530.5,
+      477.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b024",
+    "text": "humanitaire ; (ii) les violations de la protection des données, de la confidentialité et de la sécurité",
+    "bbox": [
+      85.3,
+      476.9,
+      530.3,
+      490.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b025",
+    "text": "des données ; (iii) l’utilisation abusive potentielle de données à des fins non humanitaires par des",
+    "bbox": [
+      85.3,
+      490.1,
+      530.8,
+      504.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b026",
+    "text": "tiers ; et (iv) la perte de confiance entre les populations affectées et les organisations humani-",
+    "bbox": [
+      85.3,
+      503.3,
+      510.5,
+      517.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b027",
+    "text": "taires.",
+    "bbox": [
+      85.3,
+      516.5,
+      115.8,
+      530.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b028",
+    "text": "•\t Les organisations humanitaires peuvent améliorer la Responsabilité des données dans les TM en",
+    "bbox": [
+      74.0,
+      542.9,
+      527.2,
+      556.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b029",
+    "text": "prenant les mesures suivantes : (i) cartographier l’écosystème des données du TM ; (ii) établir un",
+    "bbox": [
+      85.3,
+      556.1,
+      524.1,
+      570.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b030",
+    "text": "protocole de partage des informations spécifique aux programmes de TM ; (iii) établir des ac-",
+    "bbox": [
+      85.3,
+      569.3,
+      507.5,
+      583.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b031",
+    "text": "cords de partage des données pour l’échange de données personnelles ; (iv) réaliser des analyses",
+    "bbox": [
+      85.3,
+      582.5,
+      529.0,
+      596.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b032",
+    "text": "d’impact relatives aux données pour toutes les interventions de TM ; (v) introduire des procédures",
+    "bbox": [
+      85.3,
+      595.7,
+      533.5,
+      609.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b033",
+    "text": "de gestion des incidents liés aux données ; et (vi) suivre les questions et les progrès réalisés en",
+    "bbox": [
+      85.3,
+      608.9,
+      515.1,
+      622.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b034",
+    "text": "matière de Responsabilité des données dans les TM par le biais de structures de coordination.",
+    "bbox": [
+      85.3,
+      622.1,
+      512.2,
+      636.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b035",
+    "text": "INTRODUCTION",
+    "bbox": [
+      53.5,
+      674.5,
+      149.5,
+      689.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b036",
+    "text": "À mesure que les outils numériques occupent une place de plus en plus centrale dans la fourniture de",
+    "bbox": [
+      53.5,
+      698.2,
+      518.0,
+      712.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b037",
+    "text": "transferts monétaires (TM), les organisations humanitaires, les prestataires de services financiers (PSF) et",
+    "bbox": [
+      53.5,
+      711.4,
+      533.7,
+      725.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b038",
+    "text": "d’autres parties prenantes recueillent, stockent, utilisent et partagent des volumes de données de plus en",
+    "bbox": [
+      53.5,
+      724.6,
+      536.6,
+      738.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b039",
+    "text": "plus importants. Ces tendances ont été accélérées dans la réponse à la COVID-19, pour laquelle les acteurs",
+    "bbox": [
+      53.5,
+      737.8,
+      536.8,
+      751.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 1,
+    "block_id": "248_p1_b040",
+    "text": "fournissant des aides en espèces ont augmenté et adapté leurs programmes de TM afin de mieux répondre",
+    "bbox": [
+      53.5,
+      751.0,
+      541.6,
+      764.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b003",
+    "text": "1     Guidance note on the role of Cash and Voucher Assistance to reduce financial barriers in the response to the COVID-19 pandemic, in countries",
+    "bbox": [
+      53.5,
+      693.0,
+      527.7,
+      701.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b004",
+    "text": "targeted by the Global Humanitarian Response Plan COVID-19.",
+    "bbox": [
+      53.5,
+      702.3,
+      265.4,
+      711.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b005",
+    "text": "2    CaLP, 2020. State of the World’s Cash Report 2020.",
+    "bbox": [
+      53.5,
+      714.3,
+      225.6,
+      723.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b006",
+    "text": "3   Ibid.",
+    "bbox": [
+      53.5,
+      726.3,
+      73.9,
+      734.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b007",
+    "text": "4   These include efforts through the Grand Bargain Cash workstream working group on Cash and Risk, the Cash Learning Partnership (CaLP), the",
+    "bbox": [
+      53.5,
+      738.4,
+      533.9,
+      746.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b008",
+    "text": "Common Cash Delivery Network, and the UN Common Cash Statement, among others.",
+    "bbox": [
+      53.5,
+      747.4,
+      348.3,
+      755.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b009",
+    "text": "5   International Committee of the Red Cross (ICRC) and Privacy International, 2018. The humanitarian metadata problem: “Doing no harm” in the",
+    "bbox": [
+      53.5,
+      759.3,
+      527.8,
+      768.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b010",
+    "text": "digital era.",
+    "bbox": [
+      53.5,
+      768.3,
+      93.9,
+      777.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b011",
+    "text": "6  For more on data protection in cash and voucher assistance, see CaLP’s Protecting Beneficiary Privacy, the Common Cash Delivery (CCD) Network’s",
+    "bbox": [
+      53.5,
+      780.3,
+      542.7,
+      789.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b012",
+    "text": "Protecting personal data and privacy in field work: A guide for data sharing between humanitarian organizations, and the ICRC Handbook on",
+    "bbox": [
+      53.5,
+      789.3,
+      526.4,
+      798.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b013",
+    "text": "aux défis particuliers posés par la pandémie, avec une préférence pour les paiements électroniques ou",
+    "bbox": [
+      53.9,
+      45.2,
+      522.8,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b014",
+    "text": "mobiles sans contact afin de réduire le risque de transmission.1",
+    "bbox": [
+      53.9,
+      58.4,
+      341.3,
+      72.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b015",
+    "text": "Selon le rapport « La situation mondiale des transferts monétaires en 2020 » (2020 State of the World’s Cash",
+    "bbox": [
+      53.9,
+      84.8,
+      544.8,
+      98.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b016",
+    "text": "Report), la perception des risques liés au numérique et à la gestion des données a également augmenté",
+    "bbox": [
+      53.9,
+      98.0,
+      527.4,
+      111.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b017",
+    "text": "ces dernières années.2 Les préoccupations suivantes ont été reconnues dans divers forums sur les TM3 : (i) il",
+    "bbox": [
+      53.9,
+      111.2,
+      543.4,
+      125.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b018",
+    "text": "existe d’importantes lacunes en termes de ressources pratiques permettant aux praticiens de concilier les",
+    "bbox": [
+      53.9,
+      124.4,
+      536.8,
+      138.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b019",
+    "text": "normes éthiques contenues dans les politiques de Responsabilité des données avec la pression quotidienne",
+    "bbox": [
+      53.9,
+      137.6,
+      548.5,
+      151.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b020",
+    "text": "à fournir des programmes ; (ii) il n’y a aucun mécanisme en place pour permettre le partage collectif des",
+    "bbox": [
+      53.9,
+      150.8,
+      528.7,
+      164.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b021",
+    "text": "cas critiques de gestion des incidents liés aux données, ou pour en tirer des enseignements ; et (iii) un",
+    "bbox": [
+      53.9,
+      164.0,
+      518.3,
+      177.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b022",
+    "text": "faible goût du risque en TM, notamment en raison des mesures de lutte contre le blanchiment d’argent, le",
+    "bbox": [
+      53.9,
+      177.2,
+      536.5,
+      191.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b023",
+    "text": "terrorisme, et de l’économie politique des espèces, qui s'étend dans l’espace de gestion des données.",
+    "bbox": [
+      53.9,
+      190.4,
+      514.6,
+      204.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b024",
+    "text": "Les acteurs humanitaires ont accompli des progrès considérables dans la promotion de la Responsabilité",
+    "bbox": [
+      53.9,
+      216.8,
+      534.5,
+      230.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b025",
+    "text": "des données dans les transferts monétaires («TM», en anglais « Cash and Voucher Assistance - CVA », à",
+    "bbox": [
+      53.9,
+      230.0,
+      518.1,
+      243.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b026",
+    "text": "savoir les transferts en espèces et en coupons). Une série d’initiatives4 visent à assurer la protection des",
+    "bbox": [
+      53.9,
+      243.2,
+      526.7,
+      257.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b027",
+    "text": "bénéficiaires et à soutenir des façons de travailler plus efficaces, collaboratives et axées sur les données.",
+    "bbox": [
+      53.9,
+      256.4,
+      530.0,
+      270.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b028",
+    "text": "Les engagements bilatéraux et multilatéraux entre les organisations humanitaires, y compris les accords",
+    "bbox": [
+      53.9,
+      269.6,
+      530.1,
+      283.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b029",
+    "text": "globaux de partage des données et des stratégies conjointes d’exécution des programmes, complètent ces",
+    "bbox": [
+      53.9,
+      282.8,
+      539.7,
+      296.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b030",
+    "text": "efforts collectifs.",
+    "bbox": [
+      53.9,
+      296.0,
+      131.6,
+      309.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b031",
+    "text": "Toutefois, il subsiste des écarts entre les cadres globaux pour la Responsabilité des données et leur",
+    "bbox": [
+      53.9,
+      322.4,
+      506.5,
+      336.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b032",
+    "text": "application pratique dans la fourniture des TM. Cette note d’orientation vise à combler ces lacunes en",
+    "bbox": [
+      53.9,
+      335.6,
+      517.6,
+      349.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b033",
+    "text": "offrant une vue d’ensemble des bénéfices et des risques courants liés aux données rencontrés par les",
+    "bbox": [
+      53.9,
+      348.8,
+      515.2,
+      362.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b034",
+    "text": "acteurs monétaires. Elle détaille un ensemble de mesures que les organisations peuvent prendre pour",
+    "bbox": [
+      53.9,
+      362.0,
+      520.8,
+      375.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b035",
+    "text": "améliorer la Responsabilité des données dans la fourniture des transferts monétaires.",
+    "bbox": [
+      53.9,
+      375.2,
+      444.3,
+      389.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b036",
+    "text": "LA GESTION DES DONNÉES POUR LES TRANSFERTS MONÉTAIRES",
+    "bbox": [
+      53.9,
+      411.2,
+      445.4,
+      426.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b037",
+    "text": "Un transfert monétaire requiert la collecte en amont de données personnelles et non personnelles",
+    "bbox": [
+      53.9,
+      433.9,
+      503.9,
+      447.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b038",
+    "text": "qui seraient considérées comme sensibles dans la plupart des contextes humanitaires. Les données",
+    "bbox": [
+      53.9,
+      447.1,
+      509.2,
+      460.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b039",
+    "text": "personnelles généralement recueillies dans le cadre des programmes de TM comprennent, entre autres,",
+    "bbox": [
+      53.9,
+      460.3,
+      530.1,
+      474.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b040",
+    "text": "notamment les numéros d’identification nationaux, les numéros de téléphone et les adresses, les noms",
+    "bbox": [
+      53.9,
+      473.5,
+      527.3,
+      487.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b041",
+    "text": "des membres de la famille, les données bancaires personnelles et les données biométriques. Les données",
+    "bbox": [
+      53.9,
+      486.7,
+      537.4,
+      500.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b042",
+    "text": "non personnelles couramment rencontrées dans les programmes de TM comprennent des microdonnées",
+    "bbox": [
+      53.9,
+      499.9,
+      535.4,
+      513.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b043",
+    "text": "provenant d’enquêtes et d’évaluations des besoins, des informations d’identification démographique",
+    "bbox": [
+      53.9,
+      513.1,
+      518.0,
+      526.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b044",
+    "text": "sur différents groupes recevant de l’aide, des données de géolocalisation pour les points de distribution",
+    "bbox": [
+      53.9,
+      526.3,
+      527.6,
+      540.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b045",
+    "text": "de TM et des données anonymes et/ou agrégées sur les retours des membres des communauté, entre",
+    "bbox": [
+      53.9,
+      539.5,
+      517.6,
+      553.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b046",
+    "text": "autres. La fourniture de TM génère également de nouvelles formes de métadonnées5 que les organisations",
+    "bbox": [
+      53.9,
+      552.6,
+      540.1,
+      566.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b047",
+    "text": "humanitaires n’avaient pas auparavant à gérer, comme des données sur les transactions avec différents",
+    "bbox": [
+      53.9,
+      565.8,
+      526.6,
+      579.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b048",
+    "text": "prestataires de services financiers et les habitudes de consommation ou de dépenses des populations",
+    "bbox": [
+      53.9,
+      579.0,
+      520.1,
+      592.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b049",
+    "text": "affectées.",
+    "bbox": [
+      53.9,
+      592.2,
+      100.0,
+      606.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b050",
+    "text": "Contrairement à d’autres domaines de l’aide humanitaire, les TM impliquent un éventail particulièrement",
+    "bbox": [
+      53.9,
+      618.6,
+      536.4,
+      632.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b051",
+    "text": "large et diversifié d’acteurs. La complexité du flux de données entre les organisations humanitaires et les",
+    "bbox": [
+      53.9,
+      631.8,
+      531.7,
+      645.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b052",
+    "text": "différents partenaires impliqués dans la fourniture de TM donne lieu à des questions de protection des",
+    "bbox": [
+      53.9,
+      645.0,
+      522.3,
+      658.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 2,
+    "block_id": "248_p2_b053",
+    "text": "données et à d’autres préoccupations, décrites plus en détail ci-dessous.",
+    "bbox": [
+      53.9,
+      658.2,
+      384.1,
+      672.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b003",
+    "text": "BÉNÉFICES ET RISQUES LIÉS AUX DONNÉES DANS L’ASSISTANCE SOUS FORME",
+    "bbox": [
+      53.4,
+      364.6,
+      525.5,
+      379.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b004",
+    "text": "DE TRANSFERTS MONÉTAIRES",
+    "bbox": [
+      53.4,
+      377.6,
+      233.9,
+      392.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b005",
+    "text": "La Responsabilité des données exige une compréhension claire des bénéfices et des risques associés à la",
+    "bbox": [
+      53.3,
+      402.3,
+      532.2,
+      416.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b006",
+    "text": "gestion des données. Bien qu’ils puissent varier d’un contexte à l’autre, il existe des bénéfices et des risques",
+    "bbox": [
+      53.3,
+      415.5,
+      544.0,
+      429.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b007",
+    "text": "communément reconnus liés aux données au sein de la communauté TM.",
+    "bbox": [
+      53.3,
+      428.7,
+      388.6,
+      442.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b008",
+    "text": "Parmi les bénéfices liés aux programmes de transferts monétaires, citons :",
+    "bbox": [
+      53.3,
+      455.1,
+      390.5,
+      468.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b009",
+    "text": "•\t Une compréhension accrue des priorités, des besoins et des préférences des bénéficiaires.",
+    "bbox": [
+      64.6,
+      473.1,
+      487.1,
+      486.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b010",
+    "text": "•\t Un meilleur ciblage de l’aide, y compris en évitant le dédoublement quant aux listes de bénéficiaires.",
+    "bbox": [
+      64.6,
+      491.1,
+      534.8,
+      504.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b011",
+    "text": "•\t Une amélioration de l’efficacité et de l’efficience des différents mécanismes de distribution.",
+    "bbox": [
+      64.6,
+      509.1,
+      491.1,
+      522.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b012",
+    "text": "•\t Une amélioration de la transparence et de la redevabilité.",
+    "bbox": [
+      64.6,
+      529.1,
+      344.2,
+      542.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b013",
+    "text": "Parmi les risques liés aux programmes de transferts monétaires, citons :",
+    "bbox": [
+      53.3,
+      555.5,
+      380.0,
+      569.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b014",
+    "text": "•\t L’exposition de données sensibles pouvant entraîner diverses formes de préjudice pour les personnes",
+    "bbox": [
+      64.6,
+      573.4,
+      540.5,
+      587.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b015",
+    "text": "affectées et/ou le personnel humanitaire.",
+    "bbox": [
+      76.0,
+      586.6,
+      264.1,
+      600.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b016",
+    "text": "•\t Des violations de la protection des données, de la confidentialité et de la sécurité des données.",
+    "bbox": [
+      64.6,
+      604.6,
+      507.9,
+      618.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b017",
+    "text": "•\t Une utilisation abusive potentielle des données à des fins non humanitaires par des tiers.",
+    "bbox": [
+      64.6,
+      622.6,
+      482.2,
+      636.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b018",
+    "text": "•\t Une perte de confiance entre les personnes affectées et les organisations humanitaires.",
+    "bbox": [
+      64.6,
+      640.6,
+      473.5,
+      654.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b019",
+    "text": "Réglementations sur la Connaissance du Client ou en anglais, “Know Your Customer” (KYC)",
+    "bbox": [
+      64.9,
+      178.5,
+      475.6,
+      190.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b020",
+    "text": "Les réglementations « Know Your Customer », appelé aussi « diligence raisonnable envers les clients », sont conçues",
+    "bbox": [
+      64.9,
+      196.7,
+      520.9,
+      208.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b021",
+    "text": "pour lutter contre le blanchiment d’argent, le financement des activités terroristes et d’autres menaces liées au",
+    "bbox": [
+      64.9,
+      208.1,
+      502.7,
+      220.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b022",
+    "text": "système financier. Elles font référence aux contrôles d’identité que les institutions financières effectuent pour se con-",
+    "bbox": [
+      64.9,
+      219.5,
+      525.1,
+      231.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b023",
+    "text": "former aux réglementations financières nationales. Bien que certaines agences humanitaires ne soient pas directe-",
+    "bbox": [
+      64.9,
+      230.9,
+      516.3,
+      242.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b024",
+    "text": "ment soumises aux réglementations KYC, les prestataires de services financiers avec lesquels elles sont partenaires",
+    "bbox": [
+      64.9,
+      242.3,
+      518.7,
+      254.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b025",
+    "text": "le sont. À ce titre, ces réglementations ont une incidence directe sur la gestion responsable des données générées",
+    "bbox": [
+      64.9,
+      253.7,
+      513.0,
+      265.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b026",
+    "text": "et partagées pour l’aide sous forme de transferts monétaires. Les exigences KYC sont définies au niveau national et",
+    "bbox": [
+      64.9,
+      265.1,
+      516.4,
+      277.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b027",
+    "text": "peuvent varier en fonction de critères spécifiques.",
+    "bbox": [
+      64.9,
+      276.5,
+      263.4,
+      288.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b028",
+    "text": "Pour en savoir plus sur les KYC dans les programmes de TM, consultez la fiche de conseils elan's Tip Sheet on KYC",
+    "bbox": [
+      64.9,
+      294.5,
+      512.5,
+      306.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b029",
+    "text": "Regulations et les recommandations du HCR et World Vision : UNHCR and World Vision’s Know Your Customer Stan-",
+    "bbox": [
+      64.9,
+      305.9,
+      524.5,
+      317.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b030",
+    "text": "dards and Privacy Recommendations for Cash Transfers.",
+    "bbox": [
+      64.9,
+      317.3,
+      293.1,
+      329.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b031",
+    "text": "Différentes normes relatives à la Responsabilité des données sont appliquées dans les programmes de",
+    "bbox": [
+      53.9,
+      45.8,
+      522.6,
+      59.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b032",
+    "text": "TM en fonction des organisations et des contextes. Cela s’explique par (i) divers niveaux de connaissance",
+    "bbox": [
+      53.9,
+      59.0,
+      531.0,
+      72.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b033",
+    "text": "des directives existantes en matière de Responsabilité des données et en conséquence, des lacunes quant",
+    "bbox": [
+      53.9,
+      72.2,
+      538.6,
+      86.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b034",
+    "text": "aux capacités des équipes programme, et (ii) l’évolution des risques liés aux données par rapport aux",
+    "bbox": [
+      53.9,
+      85.4,
+      515.7,
+      99.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b035",
+    "text": "nouveaux mécanismes de distribution et modèles de partenariat pour les TM. Les directives existantes6",
+    "bbox": [
+      53.9,
+      98.6,
+      524.5,
+      112.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b036",
+    "text": "sont principalement axées sur la gestion et la protection en toute sécurité des données personnelles, et",
+    "bbox": [
+      53.9,
+      111.8,
+      526.6,
+      125.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b037",
+    "text": "ne traitent pas de manière exhaustive les préoccupations liées aux données non personnelles qui sont",
+    "bbox": [
+      53.9,
+      125.0,
+      520.9,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b038",
+    "text": "sensibles dans de nombreux contextes et qui nécessitent des protections solides.",
+    "bbox": [
+      53.9,
+      138.2,
+      423.2,
+      152.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b039",
+    "text": "6  Pour en savoir plus sur la protection des données dans les programmes de TM, consultez la section Protéger la vie privée des bénéficiaires, du",
+    "bbox": [
+      53.9,
+      749.6,
+      538.6,
+      758.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b040",
+    "text": "CaLP Network, la section Protecting personal data and privacy in field work: A guide for data sharing between humanitarian organizations, du",
+    "bbox": [
+      53.9,
+      758.6,
+      528.2,
+      767.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 3,
+    "block_id": "248_p3_b041",
+    "text": "Collaborative Cash Delivery Network (CDD), et le Manuel sur la protection des données dans l’action humanitaire du CICR.",
+    "bbox": [
+      53.9,
+      767.6,
+      459.6,
+      776.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b003",
+    "text": "RECOMMANDATIONS POUR L’AMÉLIORATION DE LA RESPONSABILITÉ DES",
+    "bbox": [
+      53.3,
+      405.4,
+      504.9,
+      420.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b004",
+    "text": "DONNÉES EN MATIÈRE DE TRANSFERTS MONÉTAIRES",
+    "bbox": [
+      53.3,
+      418.6,
+      374.6,
+      433.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b005",
+    "text": "La Responsabilité des données exige la mise en œuvre d’actions fondées sur des principes à différents",
+    "bbox": [
+      53.2,
+      443.0,
+      518.8,
+      456.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b006",
+    "text": "niveaux d’une réponse humanitaire. Cela comprend des actions visant à assurer la protection et la sécurité",
+    "bbox": [
+      53.2,
+      456.2,
+      540.9,
+      470.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b007",
+    "text": "des données, ainsi que des stratégies visant à minimiser les risques tout en optimisant les bénéfices de la",
+    "bbox": [
+      53.2,
+      469.4,
+      533.9,
+      483.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b008",
+    "text": "gestion des données.",
+    "bbox": [
+      53.2,
+      482.6,
+      149.8,
+      496.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b009",
+    "text": "Le Centre for Humanitarian Data (ci-après dénommé « le Centre »), CaLP et NORCAP/NRC recommandent",
+    "bbox": [
+      53.2,
+      509.0,
+      532.1,
+      522.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b010",
+    "text": "les mesures suivantes pour améliorer la Responsabilité des données dans la prestation de transferts",
+    "bbox": [
+      53.2,
+      522.2,
+      510.8,
+      536.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b011",
+    "text": "monétaires.",
+    "bbox": [
+      53.2,
+      535.4,
+      107.9,
+      549.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b012",
+    "text": "•\t Cartographier l’écosystème de données pour les TM",
+    "bbox": [
+      64.6,
+      555.0,
+      324.5,
+      569.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b013",
+    "text": "•\t Établir un protocole de partage des informations propre aux programmes de transferts",
+    "bbox": [
+      64.6,
+      575.0,
+      495.3,
+      589.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b014",
+    "text": "monétaires",
+    "bbox": [
+      75.9,
+      588.2,
+      131.0,
+      602.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b015",
+    "text": "•\t Établir des accords de partage de données pour l’échange de données personnelles",
+    "bbox": [
+      64.6,
+      608.2,
+      474.6,
+      622.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b016",
+    "text": "•\t Effectuer des analyses d’impact relatives aux données pour toutes les interventions de TM",
+    "bbox": [
+      64.6,
+      628.2,
+      514.5,
+      642.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b017",
+    "text": "•\t Présenter les procédures de gestion des incidents liés aux données",
+    "bbox": [
+      64.6,
+      648.2,
+      400.9,
+      662.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b018",
+    "text": "•\t Suivre les questions et les progrès en matière de Responsabilité des données dans le secteur des",
+    "bbox": [
+      64.6,
+      668.2,
+      541.1,
+      682.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b019",
+    "text": "TM par le biais de structures de coordinations",
+    "bbox": [
+      75.9,
+      681.4,
+      294.9,
+      696.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b020",
+    "text": "Le tableau ci-dessous fournit une description de ces actions et des références à des directives et des",
+    "bbox": [
+      53.2,
+      703.8,
+      509.6,
+      717.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b021",
+    "text": "modèles supplémentaires de différentes organisations humanitaires, le cas échéant.",
+    "bbox": [
+      53.2,
+      717.0,
+      437.5,
+      730.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b022",
+    "text": "Directives pratiques pour la communauté des TM  : Boîte à outils sur la gestion responsable",
+    "bbox": [
+      65.9,
+      54.5,
+      517.1,
+      67.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b023",
+    "text": "des données de CaLP",
+    "bbox": [
+      65.9,
+      67.7,
+      171.2,
+      80.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b024",
+    "text": "La Boîte à outils sur la gestion responsable des données de CaLP offre des conseils détaillés sur la",
+    "bbox": [
+      65.9,
+      96.6,
+      516.9,
+      110.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b025",
+    "text": "Responsabilité des données en matière de transferts monétaires. La boîte à outils vise à mieux refléter",
+    "bbox": [
+      65.9,
+      109.8,
+      532.9,
+      123.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b026",
+    "text": "la complexité des relations avec les partenaires, des modèles opérationnels de distribution et des flux",
+    "bbox": [
+      65.9,
+      123.0,
+      530.7,
+      136.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b027",
+    "text": "de données associés. Elle vise également à aborder les éléments de la collecte de données à distance",
+    "bbox": [
+      65.9,
+      136.2,
+      527.8,
+      150.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b028",
+    "text": "qui ont vu le jour au début de 2020 pendant la pandémie COVID-19.",
+    "bbox": [
+      65.9,
+      149.4,
+      372.2,
+      163.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b029",
+    "text": "La boîte à outils souligne la nécessité d’une approche écosystémique et d’une analyse du pouvoir",
+    "bbox": [
+      65.9,
+      173.6,
+      512.0,
+      187.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b030",
+    "text": "parmi ceux qui recueillent, utilisent et partagent des données des bénéficiaires de TM. Elle souligne",
+    "bbox": [
+      65.9,
+      186.8,
+      520.3,
+      200.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b031",
+    "text": "également la nécessité de contextualisation, de créativité, de capacité et de collaboration entre les",
+    "bbox": [
+      65.9,
+      200.0,
+      516.7,
+      213.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b032",
+    "text": "acteurs des TM et les équipes des organisations afin d’assurer une meilleure protection des données.",
+    "bbox": [
+      65.9,
+      213.2,
+      528.5,
+      227.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b033",
+    "text": "La boîte à outils comprend une étude approfondie de certaines tensions entre les différents acteurs",
+    "bbox": [
+      65.9,
+      237.4,
+      520.3,
+      251.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b034",
+    "text": "en ce qui concerne les données, ainsi qu’une orientation sur : le partage des données, les relations",
+    "bbox": [
+      65.9,
+      250.6,
+      514.8,
+      264.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b035",
+    "text": "entre les responsables de traitement et les sous-traitants, les analyses d’impact sur la vie privée, les",
+    "bbox": [
+      65.9,
+      263.8,
+      521.2,
+      277.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b036",
+    "text": "bases juridiques de la collecte de données (y compris le consentement et les intérêts légitimes), la",
+    "bbox": [
+      65.9,
+      277.0,
+      513.6,
+      290.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b037",
+    "text": "préparation à d’éventuels incidents ou violations de données critiques, et la communication avec les",
+    "bbox": [
+      65.9,
+      290.2,
+      526.2,
+      304.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b038",
+    "text": "populations affectées au sujet de la collecte et du traitement des données.",
+    "bbox": [
+      65.9,
+      303.4,
+      404.7,
+      317.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b039",
+    "text": "Elle est structurée autour des différentes étapes d’un cycle de vie des données typique des",
+    "bbox": [
+      65.9,
+      327.6,
+      479.6,
+      341.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b040",
+    "text": "programmes de TM et couvre à la fois les données personnelles et non personnelles, tout en intégrant",
+    "bbox": [
+      65.9,
+      340.8,
+      530.9,
+      354.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 4,
+    "block_id": "248_p4_b041",
+    "text": "de nouvelles exigences juridiques découlant du Règlement européen sur la protection des données.",
+    "bbox": [
+      65.9,
+      354.0,
+      520.3,
+      367.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b003",
+    "text": "7    Voir par exemple :  Minimum Core Assistance Delivery Dataset for Affected Populations.",
+    "bbox": [
+      53.6,
+      719.8,
+      351.3,
+      728.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b004",
+    "text": "8    OCHA, 2019. Consignes de OCHA sur la Responsabilité des données, 55-62.",
+    "bbox": [
+      53.6,
+      731.8,
+      302.7,
+      740.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b005",
+    "text": "9    Cela comprend les analyses d’impact relative à la protection des données (AIPD) ainsi que d’autres types d’analyses qui tiennent compte des",
+    "bbox": [
+      53.6,
+      743.9,
+      517.6,
+      752.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b006",
+    "text": "risques, des préjudices et des bénéfices potentiels d’un exercice de gestion des données. Pour en savoir plus, consultez la présente note",
+    "bbox": [
+      53.6,
+      752.8,
+      501.4,
+      761.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b007",
+    "text": "d’orientation sur les analyses d’impact relatives aux données par le Centre for Humanitarian Data, le CICR, Privacy International et l’initiative",
+    "bbox": [
+      53.6,
+      761.8,
+      527.2,
+      770.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b008",
+    "text": "Global Pulse des Nations Unies.",
+    "bbox": [
+      53.6,
+      770.9,
+      162.2,
+      779.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b009",
+    "text": "Action",
+    "bbox": [
+      61.7,
+      35.3,
+      95.2,
+      48.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b010",
+    "text": "Cartographier",
+    "bbox": [
+      62.2,
+      60.6,
+      132.5,
+      75.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b011",
+    "text": "l’écosystème de",
+    "bbox": [
+      62.2,
+      73.8,
+      141.4,
+      88.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b012",
+    "text": "données pour les",
+    "bbox": [
+      62.2,
+      87.0,
+      146.8,
+      101.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b013",
+    "text": "Une cartographie de l’écosystème de données permet d’identifier les lacunes",
+    "bbox": [
+      173.2,
+      60.6,
+      526.7,
+      74.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b014",
+    "text": "et éventuels doubles emplois de données, ainsi que de définir les priorités",
+    "bbox": [
+      173.2,
+      73.8,
+      513.3,
+      87.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b015",
+    "text": "et de prendre des décisions stratégiques en matière de gestion responsable",
+    "bbox": [
+      173.2,
+      87.0,
+      518.9,
+      100.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b016",
+    "text": "des données. Elle fournit un résumé des principales activités de gestion des",
+    "bbox": [
+      173.2,
+      100.2,
+      519.3,
+      114.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b017",
+    "text": "données, y compris l’ampleur, la portée et les types de données traitées, les",
+    "bbox": [
+      173.2,
+      113.4,
+      519.3,
+      127.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b018",
+    "text": "parties prenantes impliquées, les flux de données entre les différents acteurs,",
+    "bbox": [
+      173.2,
+      126.6,
+      528.1,
+      140.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b019",
+    "text": "et les processus et plateformes utilisés pour la prestation de TM dans un",
+    "bbox": [
+      173.2,
+      139.8,
+      503.5,
+      153.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b020",
+    "text": "contexte donné. L’exercice de cartographie de l’écosystème de données doit",
+    "bbox": [
+      173.2,
+      153.0,
+      521.0,
+      166.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b021",
+    "text": "être réalisé et mis à jour annuellement par le groupe de travail sur les transferts",
+    "bbox": [
+      173.2,
+      166.2,
+      536.5,
+      180.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b022",
+    "text": "monétaires (CWG, ou Cash Working Group en anglais) en collaboration avec",
+    "bbox": [
+      173.2,
+      179.4,
+      519.5,
+      193.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b023",
+    "text": "leurs partenaires.",
+    "bbox": [
+      173.2,
+      192.6,
+      253.2,
+      206.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b024",
+    "text": "Description",
+    "bbox": [
+      173.7,
+      35.5,
+      232.2,
+      48.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b025",
+    "text": "Un protocole de partage des informations (PPI) sert de fondement à une",
+    "bbox": [
+      173.2,
+      223.3,
+      504.0,
+      237.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b026",
+    "text": "approche collective de l’échange responsable de données et d’informations.",
+    "bbox": [
+      173.2,
+      236.5,
+      523.2,
+      250.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b027",
+    "text": "Le PPI définit des conditions que toutes les organisations humanitaires et les",
+    "bbox": [
+      173.2,
+      249.7,
+      525.0,
+      263.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b028",
+    "text": "prestataires de services tiers impliqués dans la fourniture de TM acceptent de",
+    "bbox": [
+      173.2,
+      262.9,
+      527.3,
+      276.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b029",
+    "text": "respecter. Cela doit compléter les accords bilatéraux de partage de données",
+    "bbox": [
+      173.2,
+      276.1,
+      520.4,
+      290.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b030",
+    "text": "préexistants (voir ci-dessous), s’aligner sur les normes de la Connaissance du",
+    "bbox": [
+      173.2,
+      289.3,
+      525.0,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b031",
+    "text": "Client ou Know Your Customer (KYC) applicables et inclure des éléments clés",
+    "bbox": [
+      173.2,
+      302.5,
+      524.0,
+      316.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b032",
+    "text": "tels qu’une classification de la sensibilité des données, et un calendrier de",
+    "bbox": [
+      173.2,
+      315.7,
+      512.7,
+      329.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b033",
+    "text": "conservation et de destruction des données. Un PPI peut également spécifier",
+    "bbox": [
+      173.2,
+      328.9,
+      526.6,
+      342.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b034",
+    "text": "un socle minimum de données de base7 pour faciliter la distribution d’une aide",
+    "bbox": [
+      173.2,
+      342.1,
+      534.7,
+      356.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b035",
+    "text": "en espèces dans un contexte particulier. Un modèle de PPI8 est inclus dans",
+    "bbox": [
+      173.2,
+      355.3,
+      514.1,
+      369.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b036",
+    "text": "les Consignes sur la Responsabilité des données de OCHA. L’élaboration d’un",
+    "bbox": [
+      173.2,
+      368.5,
+      525.5,
+      382.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b037",
+    "text": "PPI spécifique aux programmes de TM devrait être achevée dans le cadre d’un",
+    "bbox": [
+      173.2,
+      381.7,
+      530.8,
+      395.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b038",
+    "text": "exercice collectif dirigé par le CWG.",
+    "bbox": [
+      173.2,
+      394.9,
+      334.1,
+      408.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b039",
+    "text": "Un accord de partage de données (APD) établit les modalités qui régissent",
+    "bbox": [
+      173.2,
+      425.3,
+      512.1,
+      439.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b040",
+    "text": "le partage des données personnelles. Il est utilisé surtout pour le partage de",
+    "bbox": [
+      173.2,
+      438.5,
+      520.6,
+      452.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b041",
+    "text": "données bilatéral et est typiquement établi au niveau national. Conformément",
+    "bbox": [
+      173.2,
+      451.7,
+      534.0,
+      465.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b042",
+    "text": "aux cadres de la protection des données, la signature d’un APD est obligatoire",
+    "bbox": [
+      173.2,
+      464.9,
+      529.5,
+      478.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b043",
+    "text": "pour le partage de données personnelles. Dans les programmes de TM, des",
+    "bbox": [
+      173.2,
+      478.1,
+      516.8,
+      492.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b044",
+    "text": "ADP ou accords similaires sont requis non seulement entre les organisations",
+    "bbox": [
+      173.2,
+      491.3,
+      522.8,
+      505.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b045",
+    "text": "humanitaires et leurs partenaires, mais aussi avec les PSF et d’autres tiers",
+    "bbox": [
+      173.2,
+      504.5,
+      510.6,
+      518.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b046",
+    "text": "participant à l’effort humanitaire.",
+    "bbox": [
+      173.2,
+      517.7,
+      325.1,
+      531.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b047",
+    "text": "Establish an",
+    "bbox": [
+      62.2,
+      222.6,
+      122.8,
+      237.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b048",
+    "text": "information sharing",
+    "bbox": [
+      62.2,
+      235.8,
+      161.3,
+      250.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b049",
+    "text": "protocol specific to",
+    "bbox": [
+      62.2,
+      249.0,
+      156.5,
+      263.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b050",
+    "text": "CVA programming",
+    "bbox": [
+      62.2,
+      262.2,
+      149.4,
+      276.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b051",
+    "text": "Établir des accords",
+    "bbox": [
+      62.2,
+      425.6,
+      155.1,
+      440.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b052",
+    "text": "de partage de",
+    "bbox": [
+      62.2,
+      438.8,
+      130.3,
+      453.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b053",
+    "text": "données",
+    "bbox": [
+      62.2,
+      452.0,
+      105.7,
+      466.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b054",
+    "text": "Effectuer des",
+    "bbox": [
+      62.5,
+      546.1,
+      128.2,
+      560.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b055",
+    "text": "analyses d’impact",
+    "bbox": [
+      62.5,
+      559.3,
+      152.4,
+      573.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b056",
+    "text": "relatives aux",
+    "bbox": [
+      62.5,
+      572.5,
+      126.8,
+      587.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b057",
+    "text": "données pour",
+    "bbox": [
+      62.5,
+      585.7,
+      131.2,
+      600.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b058",
+    "text": "toutes les",
+    "bbox": [
+      62.5,
+      598.9,
+      111.6,
+      613.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b059",
+    "text": "interventions de",
+    "bbox": [
+      62.5,
+      612.1,
+      144.6,
+      626.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b060",
+    "text": "Les analyses d’impact relatives aux données9 déterminent les risques, les",
+    "bbox": [
+      173.7,
+      547.1,
+      508.8,
+      561.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b061",
+    "text": "préjudices et les bénéfices attendus, ainsi que les répercussions d’une activité",
+    "bbox": [
+      173.7,
+      560.3,
+      530.6,
+      574.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b062",
+    "text": "de gestion des données sur la vie privée, la protection des données et/ou les",
+    "bbox": [
+      173.7,
+      573.5,
+      522.5,
+      587.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b063",
+    "text": "droits humains. Une évaluation informe la conception et la mise en œuvre",
+    "bbox": [
+      173.7,
+      586.7,
+      512.8,
+      600.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b064",
+    "text": "des activités de gestion des données de manière à maximiser les bénéfices",
+    "bbox": [
+      173.7,
+      599.9,
+      515.4,
+      613.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b065",
+    "text": "et à minimiser les risques. Le type le plus courant d’analyse d’impact relative",
+    "bbox": [
+      173.7,
+      613.1,
+      524.8,
+      627.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b066",
+    "text": "aux données dans les programmes de TM est l’analyse d’impact relative à la",
+    "bbox": [
+      173.7,
+      626.3,
+      520.2,
+      640.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b067",
+    "text": "protection des données (AIPD), qui se concentre explicitement sur les données",
+    "bbox": [
+      173.7,
+      639.5,
+      533.5,
+      653.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b068",
+    "text": "personnelles. Si un programme de TM génère également de grandes quantités",
+    "bbox": [
+      173.7,
+      652.7,
+      532.3,
+      666.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b069",
+    "text": "de données non personnelles, les organisations doivent essayer d’étendre leur",
+    "bbox": [
+      173.7,
+      665.9,
+      533.4,
+      679.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b070",
+    "text": "modèle d’analyse standard pour traiter également les risques, les préjudices et",
+    "bbox": [
+      173.7,
+      679.1,
+      534.5,
+      693.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 5,
+    "block_id": "248_p5_b071",
+    "text": "les bénéfices liés aux données non personnelles.",
+    "bbox": [
+      173.7,
+      692.3,
+      395.0,
+      706.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      185.3,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b002",
+    "text": "Décembre 2020",
+    "bbox": [
+      271.0,
+      791.7,
+      323.7,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b003",
+    "text": "10 Pour en savoir plus, consultez la présente note d’orientation sur la gestion des incidents liés aux données du Centre for Humanitarian Data et du",
+    "bbox": [
+      53.9,
+      759.1,
+      537.5,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b004",
+    "text": "Jackson Institute for Global Affairs de l’Université de Yale.",
+    "bbox": [
+      53.9,
+      768.1,
+      245.7,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b005",
+    "text": "La gestion, le suivi et la communication des incidents liés aux données",
+    "bbox": [
+      172.1,
+      54.6,
+      495.0,
+      68.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b006",
+    "text": "nécessitent des procédures opérationnelles standard pour la gestion des",
+    "bbox": [
+      172.1,
+      67.8,
+      505.2,
+      81.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b007",
+    "text": "incidents10 et un registre ou journal central qui fasse état de la nature, de la",
+    "bbox": [
+      172.1,
+      81.0,
+      514.8,
+      94.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b008",
+    "text": "gravité et de la résolution de chaque incident. Cela comportera souvent un",
+    "bbox": [
+      172.1,
+      94.2,
+      514.9,
+      108.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b009",
+    "text": "mécanisme de rectification et de recours par lequel les bénéficiaires peuvent",
+    "bbox": [
+      172.1,
+      107.4,
+      524.1,
+      121.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b010",
+    "text": "chercher à résoudre les problèmes liés à la fourniture de TM, y compris",
+    "bbox": [
+      172.1,
+      120.6,
+      496.2,
+      134.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b011",
+    "text": "les préoccupations concernant la gestion de leurs données. Bien que les",
+    "bbox": [
+      172.1,
+      133.8,
+      502.2,
+      147.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b012",
+    "text": "organisations soient incitées à établir leurs propres procédures de gestion",
+    "bbox": [
+      172.1,
+      147.0,
+      511.1,
+      160.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b013",
+    "text": "des incidents liés aux données, la surveillance collective des incidents et le",
+    "bbox": [
+      172.1,
+      160.2,
+      514.4,
+      174.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b014",
+    "text": "partage des leçons apprises par l’intermédiaire du CWG sont importants dans",
+    "bbox": [
+      172.1,
+      173.4,
+      526.7,
+      187.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b015",
+    "text": "l’écosystème complexe et interconnecté des données de TM.",
+    "bbox": [
+      172.1,
+      186.6,
+      447.3,
+      200.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b016",
+    "text": "Les structures de coordination, comme un groupe de travail sur les transferts",
+    "bbox": [
+      172.1,
+      218.4,
+      524.2,
+      232.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b017",
+    "text": "monétaires (CWG), peuvent servir de plateforme commune pour le suivi des",
+    "bbox": [
+      172.1,
+      231.6,
+      519.1,
+      245.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b018",
+    "text": "progrès collectifs, et/ou des défis et opportunités en matière de Responsabilité",
+    "bbox": [
+      172.1,
+      244.8,
+      533.3,
+      258.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b019",
+    "text": "des données. Elles peuvent également encourager une coordination améliorée",
+    "bbox": [
+      172.1,
+      258.0,
+      533.2,
+      271.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b020",
+    "text": "et une meilleure prise de décision pour faire progresser la Responsabilité des",
+    "bbox": [
+      172.1,
+      271.2,
+      524.8,
+      285.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b021",
+    "text": "données dans la fourniture de TM dans un contexte donné.",
+    "bbox": [
+      172.1,
+      284.4,
+      440.0,
+      298.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b022",
+    "text": "Introduire des",
+    "bbox": [
+      61.9,
+      54.9,
+      132.9,
+      69.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b023",
+    "text": "procédures de",
+    "bbox": [
+      61.9,
+      68.1,
+      132.9,
+      82.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b024",
+    "text": "gestion des",
+    "bbox": [
+      61.9,
+      81.3,
+      118.8,
+      95.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b025",
+    "text": "incidents liés aux",
+    "bbox": [
+      61.9,
+      94.5,
+      147.7,
+      109.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b026",
+    "text": "données",
+    "bbox": [
+      61.9,
+      107.7,
+      103.1,
+      122.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b027",
+    "text": "Suivre les questions",
+    "bbox": [
+      61.9,
+      217.7,
+      160.7,
+      232.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b028",
+    "text": "et les progrès",
+    "bbox": [
+      61.9,
+      230.9,
+      129.4,
+      245.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b029",
+    "text": "en matière de",
+    "bbox": [
+      61.9,
+      244.1,
+      130.4,
+      258.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b030",
+    "text": "Responsabilité",
+    "bbox": [
+      61.9,
+      257.3,
+      135.9,
+      271.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b031",
+    "text": "des données dans",
+    "bbox": [
+      61.9,
+      270.5,
+      149.9,
+      285.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b032",
+    "text": "le secteur des",
+    "bbox": [
+      61.9,
+      283.7,
+      130.1,
+      298.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b033",
+    "text": "TM par le biais",
+    "bbox": [
+      61.9,
+      296.9,
+      133.4,
+      311.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b034",
+    "text": "Les organisations sont encouragées à partager leur expérience quant à la promotion de la Responsabilité",
+    "bbox": [
+      53.9,
+      336.1,
+      533.7,
+      350.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b035",
+    "text": "des données dans la prestation de transferts monétaires avec le Centre via centrehumdata@un.org.",
+    "bbox": [
+      53.9,
+      349.1,
+      510.6,
+      363.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b036",
+    "text": "CONTRIBUTEURS : CALP AND NORCAP/NORWEGIAN REFUGEE COUNCIL.",
+    "bbox": [
+      53.9,
+      554.1,
+      356.1,
+      567.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b037",
+    "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires",
+    "bbox": [
+      64.7,
+      580.5,
+      503.2,
+      593.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b038",
+    "text": "clés, publie une série de huit notes d’orientation sur la Responsabilité des données dans l’action humanitaire",
+    "bbox": [
+      64.7,
+      592.9,
+      517.2,
+      605.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b039",
+    "text": "au cours de 2019 et 2020. La série de notes d’orientation fait suite à la publication du project de directives",
+    "bbox": [
+      64.7,
+      604.7,
+      505.0,
+      617.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b040",
+    "text": "opérationnelles sur la responsabilité des données du Bureau de la coordination des affaires humanitaires",
+    "bbox": [
+      64.7,
+      616.7,
+      514.6,
+      629.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b041",
+    "text": "des Nations Unies en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations",
+    "bbox": [
+      64.7,
+      628.7,
+      474.1,
+      641.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b042",
+    "text": "supplémentaires sur des questions, des processus et des outils spécifiques pour la Responsabilité des données",
+    "bbox": [
+      64.7,
+      640.9,
+      525.8,
+      653.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b043",
+    "text": "dans la pratique. Cette série est rendue possible grâce au généreux soutien de la Direction générale de",
+    "bbox": [
+      64.7,
+      652.9,
+      489.2,
+      665.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b044",
+    "text": "protection civile et opérations d’aide humanitaire européennes (DG ECHO).",
+    "bbox": [
+      64.7,
+      664.9,
+      375.4,
+      677.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b045",
+    "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+    "bbox": [
+      64.7,
+      688.9,
+      522.3,
+      701.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "248",
+    "page_number": 6,
+    "block_id": "248_p6_b046",
+    "text": "Affaires Etrangètres.",
+    "bbox": [
+      64.7,
+      700.9,
+      147.9,
+      713.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

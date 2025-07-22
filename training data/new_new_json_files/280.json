@@ -1,0 +1,932 @@
+[
+  {
+    "pdf_id": "280",
+    "page_number": 1,
+    "block_id": "280_p1_b001",
+    "text": "Weather State Variability at the Azores Site and the",
+    "bbox": [
+      111.5,
+      88.5,
+      614.5,
+      119.5
+    ],
+    "font_size": 24.0,
+    "font_name": "Calibri-Italic",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 1,
+    "block_id": "280_p1_b002",
+    "text": "Relevance to Climate Model Evaluation",
+    "bbox": [
+      171.0,
+      117.3,
+      554.9,
+      148.3
+    ],
+    "font_size": 24.0,
+    "font_name": "Calibri-Italic",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 1,
+    "block_id": "280_p1_b003",
+    "text": "George Tselioudis, Jasmine Remillard, Andy Ackerman, Ann Fridlind",
+    "bbox": [
+      63.9,
+      295.2,
+      661.6,
+      323.5
+    ],
+    "font_size": 22.0,
+    "font_name": "Calibri-Italic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 1,
+    "block_id": "280_p1_b004",
+    "text": "NASA/GISS – Columbia University",
+    "bbox": [
+      212.2,
+      321.6,
+      513.3,
+      349.9
+    ],
+    "font_size": 22.0,
+    "font_name": "Calibri-Italic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b001",
+    "text": "Global Weather States (WS)",
+    "bbox": [
+      403.1,
+      22.9,
+      660.5,
+      49.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b002",
+    "text": "derived through cluster analysis of",
+    "bbox": [
+      403.1,
+      45.2,
+      711.9,
+      71.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b003",
+    "text": "ISCCP TAU-PC histograms:",
+    "bbox": [
+      403.1,
+      67.5,
+      656.9,
+      94.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b004",
+    "text": "11 WS going from deep convective",
+    "bbox": [
+      403.1,
+      112.2,
+      717.2,
+      138.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b005",
+    "text": "to stratocumulus clouds",
+    "bbox": [
+      403.1,
+      134.5,
+      618.8,
+      161.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b006",
+    "text": "Fair-weather WS7 most frequent",
+    "bbox": [
+      403.1,
+      179.2,
+      697.6,
+      205.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b007",
+    "text": "one",
+    "bbox": [
+      403.1,
+      201.5,
+      447.5,
+      228.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b008",
+    "text": "Separation of tropical and",
+    "bbox": [
+      25.1,
+      307.2,
+      258.5,
+      333.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b009",
+    "text": "midlatitude convective clouds",
+    "bbox": [
+      25.1,
+      329.5,
+      290.9,
+      356.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b010",
+    "text": "Tropical-subtropical region",
+    "bbox": [
+      25.1,
+      374.2,
+      265.9,
+      400.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b011",
+    "text": "shows a stratocumulus-shallow",
+    "bbox": [
+      25.1,
+      396.5,
+      307.7,
+      423.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b012",
+    "text": "cumulus-fair weather balance",
+    "bbox": [
+      25.1,
+      418.8,
+      292.0,
+      445.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 2,
+    "block_id": "280_p2_b013",
+    "text": "Tselioudis et al. 2013",
+    "bbox": [
+      25.1,
+      487.6,
+      178.7,
+      508.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 3,
+    "block_id": "280_p3_b001",
+    "text": "Cloud Vertical Structure (CVS) of the ISCCP WS derived from CloudSat-",
+    "bbox": [
+      7.2,
+      21.1,
+      712.6,
+      50.4
+    ],
+    "font_size": 22.0,
+    "font_name": "ArialMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 3,
+    "block_id": "280_p3_b002",
+    "text": "CALIPSO retrievals",
+    "bbox": [
+      264.6,
+      45.6,
+      467.6,
+      74.9
+    ],
+    "font_size": 22.0,
+    "font_name": "ArialMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b001",
+    "text": "Weather States in the Azores",
+    "bbox": [
+      439.1,
+      21.3,
+      703.3,
+      47.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b002",
+    "text": "Fair-weather most frequent but",
+    "bbox": [
+      439.1,
+      66.2,
+      690.0,
+      90.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b003",
+    "text": "significant amounts of shallow",
+    "bbox": [
+      439.1,
+      86.3,
+      682.5,
+      110.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b004",
+    "text": "cumulus, stratocumulus, and",
+    "bbox": [
+      439.1,
+      106.4,
+      672.9,
+      130.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b005",
+    "text": "storm clouds",
+    "bbox": [
+      439.1,
+      126.5,
+      546.0,
+      150.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b006",
+    "text": "Fair-weather increases southward",
+    "bbox": [
+      439.1,
+      166.6,
+      714.5,
+      190.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b007",
+    "text": "and storm clouds northward of the",
+    "bbox": [
+      439.1,
+      186.7,
+      715.9,
+      210.7
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b008",
+    "text": "Azores grid box.",
+    "bbox": [
+      439.1,
+      206.8,
+      573.9,
+      230.7
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b009",
+    "text": "Azores vs Global WS",
+    "bbox": [
+      18.2,
+      307.1,
+      212.7,
+      333.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b010",
+    "text": "Lower fair-weather and",
+    "bbox": [
+      18.2,
+      351.8,
+      228.2,
+      378.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b011",
+    "text": "deep convection  frequency",
+    "bbox": [
+      18.2,
+      374.1,
+      268.4,
+      400.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b012",
+    "text": "and higher frequency of",
+    "bbox": [
+      18.2,
+      396.4,
+      233.6,
+      423.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b013",
+    "text": "shallow cumulus and",
+    "bbox": [
+      18.2,
+      418.8,
+      209.6,
+      445.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 4,
+    "block_id": "280_p4_b014",
+    "text": "stratocumulus clouds",
+    "bbox": [
+      18.2,
+      441.1,
+      222.5,
+      467.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 5,
+    "block_id": "280_p5_b001",
+    "text": "Cloud Vertical Structure (CVS) of the Azores WS derived from AMF retrievals",
+    "bbox": [
+      11.7,
+      1.0,
+      702.4,
+      27.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b001",
+    "text": "Weather States in the GISS GCM",
+    "bbox": [
+      408.8,
+      28.3,
+      681.6,
+      52.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b002",
+    "text": "Model severely overpredicts the fair-",
+    "bbox": [
+      408.8,
+      68.5,
+      698.7,
+      92.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b003",
+    "text": "weather WS and underpredicts the",
+    "bbox": [
+      408.8,
+      88.6,
+      690.7,
+      112.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b004",
+    "text": "low cloud WS",
+    "bbox": [
+      408.8,
+      108.7,
+      522.9,
+      132.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b005",
+    "text": "Tropical convection is overpredicted",
+    "bbox": [
+      408.8,
+      148.9,
+      699.8,
+      172.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b006",
+    "text": "in the model",
+    "bbox": [
+      408.8,
+      168.9,
+      511.6,
+      192.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b007",
+    "text": "GISS GCM WS in the Azores",
+    "bbox": [
+      7.1,
+      307.1,
+      271.6,
+      333.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b008",
+    "text": "Most GCM WS deficiencies in",
+    "bbox": [
+      7.1,
+      351.8,
+      277.0,
+      378.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b009",
+    "text": "the global domain are present in",
+    "bbox": [
+      7.1,
+      374.1,
+      298.1,
+      400.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 6,
+    "block_id": "280_p6_b010",
+    "text": "the Azores analysis",
+    "bbox": [
+      7.1,
+      396.4,
+      185.0,
+      423.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 7,
+    "block_id": "280_p7_b001",
+    "text": "The case of Nov. 22, 2009: WS11 at 12z, WS10 at 15z",
+    "bbox": [
+      146.1,
+      7.5,
+      585.4,
+      31.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 7,
+    "block_id": "280_p7_b002",
+    "text": "Model simulations using the GISS SCM and the Dharma LES",
+    "bbox": [
+      61.1,
+      262.9,
+      608.7,
+      289.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b001",
+    "text": "Summary",
+    "bbox": [
+      317.0,
+      61.3,
+      408.3,
+      87.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b002",
+    "text": "Weather State analysis shows Azores to be a good lab to study major",
+    "bbox": [
+      61.1,
+      144.2,
+      618.5,
+      168.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b003",
+    "text": "deficiencies in GISS GCM cloud property simulations",
+    "bbox": [
+      61.1,
+      164.2,
+      487.9,
+      188.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b004",
+    "text": "Tools are in place to allow us to slide back and forth between global and",
+    "bbox": [
+      61.1,
+      224.5,
+      637.8,
+      248.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b005",
+    "text": "local scale observations and model simulations.",
+    "bbox": [
+      61.1,
+      244.6,
+      445.9,
+      268.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b006",
+    "text": "The strategy is to use case study SCM and LES simulations constrained",
+    "bbox": [
+      61.1,
+      304.8,
+      640.7,
+      328.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b007",
+    "text": "by AMF observations to understand model deficiencies in simulating cloud",
+    "bbox": [
+      61.1,
+      324.9,
+      654.7,
+      348.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b008",
+    "text": "processes and attribute them to forcing field inadequacies  or",
+    "bbox": [
+      61.1,
+      345.0,
+      551.9,
+      369.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b009",
+    "text": "parameterization problems, and then use the satellite and GCM analysis to",
+    "bbox": [
+      61.1,
+      365.1,
+      660.8,
+      389.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b010",
+    "text": "understand the relevance of those deficiencies to the global model climate",
+    "bbox": [
+      61.1,
+      385.2,
+      655.8,
+      409.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 8,
+    "block_id": "280_p8_b011",
+    "text": "simulations.",
+    "bbox": [
+      61.1,
+      405.3,
+      160.9,
+      429.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 9,
+    "block_id": "280_p9_b001",
+    "text": "500mb vertical velocity for the 12 WS",
+    "bbox": [
+      352.6,
+      91.1,
+      693.4,
+      117.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 9,
+    "block_id": "280_p9_b002",
+    "text": "SW and LW",
+    "bbox": [
+      7.1,
+      318.8,
+      118.0,
+      345.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 9,
+    "block_id": "280_p9_b003",
+    "text": "Cloud Radiative",
+    "bbox": [
+      7.1,
+      341.1,
+      154.0,
+      367.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 9,
+    "block_id": "280_p9_b004",
+    "text": "Effect (CRE) for",
+    "bbox": [
+      7.1,
+      363.4,
+      153.2,
+      390.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "280",
+    "page_number": 9,
+    "block_id": "280_p9_b005",
+    "text": "the 11 WS",
+    "bbox": [
+      7.1,
+      385.8,
+      110.0,
+      412.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "HH3"
+  }
+]

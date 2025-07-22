@@ -1,0 +1,7937 @@
+[
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b001",
+    "text": "Complex Systems Modeling for",
+    "bbox": [
+      72.0,
+      173.7,
+      386.0,
+      201.4
+    ],
+    "font_size": 21.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b002",
+    "text": "Humanitarian Action:",
+    "bbox": [
+      72.0,
+      205.6,
+      289.9,
+      233.3
+    ],
+    "font_size": 21.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b003",
+    "text": "Methods and Opportunities",
+    "bbox": [
+      72.0,
+      237.4,
+      342.7,
+      265.1
+    ],
+    "font_size": 21.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b004",
+    "text": "by Roberta Rocca",
+    "bbox": [
+      72.0,
+      281.3,
+      163.2,
+      296.4
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b005",
+    "text": "2021 Data Fellow (Predictive Analytics)",
+    "bbox": [
+      72.0,
+      298.6,
+      264.3,
+      313.7
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b006",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      72.0,
+      316.0,
+      250.8,
+      331.0
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 1,
+    "block_id": "394_p1_b007",
+    "text": "November 2021",
+    "bbox": [
+      442.0,
+      692.3,
+      523.3,
+      704.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b001",
+    "text": "Table of Contents",
+    "bbox": [
+      72.0,
+      105.2,
+      187.2,
+      123.6
+    ],
+    "font_size": 14.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b002",
+    "text": "Executive Summary",
+    "bbox": [
+      72.0,
+      138.8,
+      176.5,
+      151.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b003",
+    "text": "I. What is a complex system?",
+    "bbox": [
+      72.0,
+      161.4,
+      224.7,
+      173.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b004",
+    "text": "II. Why use complex systems modeling in the humanitarian sector?",
+    "bbox": [
+      72.0,
+      184.0,
+      423.2,
+      196.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b005",
+    "text": "III. When is complex systems modeling feasible, viable and desirable in",
+    "bbox": [
+      72.0,
+      206.7,
+      444.0,
+      219.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b006",
+    "text": "humanitarian settings?",
+    "bbox": [
+      72.0,
+      229.3,
+      192.9,
+      241.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b007",
+    "text": "IV. How is a complex systems model developed?",
+    "bbox": [
+      72.0,
+      252.0,
+      326.3,
+      264.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b008",
+    "text": "V. What’s next for complex systems modeling?",
+    "bbox": [
+      72.0,
+      274.6,
+      316.7,
+      286.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b009",
+    "text": "References",
+    "bbox": [
+      72.0,
+      297.3,
+      131.3,
+      309.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b010",
+    "text": "Acknowledgements",
+    "bbox": [
+      72.0,
+      526.2,
+      167.3,
+      538.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b011",
+    "text": "The research for this report was conducted by Roberta Rocca in June and July 2021 as part",
+    "bbox": [
+      72.0,
+      555.3,
+      518.7,
+      567.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b012",
+    "text": "of the OCHA Centre for Humanitarian Data’s Data Fellows Programme. The research was",
+    "bbox": [
+      72.0,
+      569.9,
+      508.4,
+      582.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b013",
+    "text": "supervised by Leonardo Milano, team lead for predictive analytics at the Centre and Stuart",
+    "bbox": [
+      72.0,
+      584.4,
+      511.3,
+      596.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b014",
+    "text": "Campo, the lead for the Data Fellows Programme. The findings and recommendations draw",
+    "bbox": [
+      72.0,
+      598.9,
+      518.4,
+      611.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b015",
+    "text": "primarily on interviews with key informants from ACAPS, ICRC, IDMC, IFRC, the Millennium",
+    "bbox": [
+      72.0,
+      613.5,
+      518.5,
+      625.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b016",
+    "text": "Institute, OCHA, REACH, the University of Bergen, and WFP. The author gratefully",
+    "bbox": [
+      72.0,
+      628.0,
+      473.6,
+      640.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b017",
+    "text": "acknowledges the inputs and feedback from everyone involved in this research. The",
+    "bbox": [
+      72.0,
+      642.6,
+      480.6,
+      654.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b018",
+    "text": "research findings are presented in a descriptive manner based on the author’s analysis.",
+    "bbox": [
+      72.0,
+      657.1,
+      498.1,
+      669.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b019",
+    "text": "Given the limited duration of the research and relatively small number of key informants, the",
+    "bbox": [
+      72.0,
+      671.7,
+      518.0,
+      684.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 2,
+    "block_id": "394_p2_b020",
+    "text": "findings should not be considered to be representative of the entire humanitarian sector.",
+    "bbox": [
+      72.0,
+      686.2,
+      499.1,
+      698.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b001",
+    "text": "Executive Summary",
+    "bbox": [
+      72.0,
+      72.5,
+      224.0,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b002",
+    "text": "The Global Humanitarian Overview 2021 estimates that 235 million people are in need of",
+    "bbox": [
+      72.0,
+      97.5,
+      504.0,
+      109.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b003",
+    "text": "humanitarian assistance, with 160 million targeted for assistance in over 30 countries. These",
+    "bbox": [
+      72.0,
+      112.1,
+      521.5,
+      124.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b004",
+    "text": "estimates are based on needs assessments that take place on a yearly basis to inform",
+    "bbox": [
+      72.0,
+      126.6,
+      492.4,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b005",
+    "text": "Humanitarian Needs Overviews and Humanitarian Response Plans in different crisis",
+    "bbox": [
+      72.0,
+      141.2,
+      481.8,
+      153.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b006",
+    "text": "contexts.1",
+    "bbox": [
+      72.0,
+      155.5,
+      119.7,
+      168.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b007",
+    "text": "Although efforts are being made to include scenarios and risk projections in humanitarian",
+    "bbox": [
+      72.0,
+      184.8,
+      504.4,
+      197.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b008",
+    "text": "planning, they largely remain static representations of humanitarian crises at a given",
+    "bbox": [
+      72.0,
+      199.3,
+      481.4,
+      211.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b009",
+    "text": "moment in time. However, in many humanitarian contexts, the number of people in need of",
+    "bbox": [
+      72.0,
+      213.9,
+      512.5,
+      226.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b010",
+    "text": "humanitarian assistance can fluctuate over short time scales as a result of sudden shocks",
+    "bbox": [
+      72.0,
+      228.4,
+      508.3,
+      240.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b011",
+    "text": "(e.g., escalations in armed conflict) or seasonal environmental phenomena (e.g., floods),",
+    "bbox": [
+      72.0,
+      243.0,
+      502.1,
+      255.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b012",
+    "text": "among other factors. Humanitarians need more robust methods for understanding and",
+    "bbox": [
+      72.0,
+      257.5,
+      491.2,
+      269.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b013",
+    "text": "modeling these dynamics in order to more effectively address the needs of people affected",
+    "bbox": [
+      72.0,
+      272.1,
+      512.2,
+      284.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b014",
+    "text": "by crises.",
+    "bbox": [
+      72.0,
+      286.6,
+      118.4,
+      298.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b015",
+    "text": "Complex systems modeling is a class of mathematical methods that predict the behavior of a",
+    "bbox": [
+      72.0,
+      315.7,
+      522.9,
+      328.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b016",
+    "text": "system over time based on a set of assumptions on how components of the system interact.",
+    "bbox": [
+      72.0,
+      330.3,
+      519.2,
+      342.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b017",
+    "text": "These techniques are suited to providing dynamic projections of how a humanitarian crisis",
+    "bbox": [
+      72.0,
+      344.8,
+      509.5,
+      357.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b018",
+    "text": "will unfold and what effects different potential interventions could have in a given context.",
+    "bbox": [
+      72.0,
+      359.4,
+      503.6,
+      371.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b019",
+    "text": "Recognizing this potential, the Centre for Humanitarian Data (the Centre) conducted",
+    "bbox": [
+      72.0,
+      388.4,
+      480.8,
+      400.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b020",
+    "text": "research on opportunities to apply complex systems modeling to humanitarian needs",
+    "bbox": [
+      72.0,
+      403.0,
+      484.4,
+      415.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b021",
+    "text": "assessment as part of its 2021 Data Fellows Programme. This report summarizes the main",
+    "bbox": [
+      72.0,
+      417.5,
+      514.1,
+      429.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b022",
+    "text": "findings from the Centre’s research. The first section provides a definition of complex",
+    "bbox": [
+      72.0,
+      432.1,
+      483.4,
+      444.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b023",
+    "text": "systems and an overview of the main modeling techniques relevant to humanitarian action.",
+    "bbox": [
+      72.0,
+      446.6,
+      513.2,
+      458.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b024",
+    "text": "The second section explains why the use of complex systems modeling would be desirable",
+    "bbox": [
+      72.0,
+      461.2,
+      514.4,
+      473.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b025",
+    "text": "in the humanitarian sector. The third section outlines feasibility, viability, and desirability",
+    "bbox": [
+      72.0,
+      475.7,
+      494.2,
+      488.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b026",
+    "text": "criteria that can help assess whether specific problem spaces are suitable to complex",
+    "bbox": [
+      72.0,
+      490.3,
+      486.9,
+      502.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b027",
+    "text": "systems modeling techniques. The fourth section proposes a general workflow for the",
+    "bbox": [
+      72.0,
+      504.8,
+      487.3,
+      517.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b028",
+    "text": "development of the most suitable model for humanitarian settings.",
+    "bbox": [
+      72.0,
+      519.4,
+      392.8,
+      531.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b029",
+    "text": "The research yielded the following key findings:",
+    "bbox": [
+      72.0,
+      548.5,
+      303.0,
+      560.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b030",
+    "text": "There is strong interest within the humanitarian community in the prospect of using",
+    "bbox": [
+      108.0,
+      563.0,
+      509.4,
+      575.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b031",
+    "text": "complex systems modeling to improve the ability to understand, predict and respond",
+    "bbox": [
+      108.0,
+      577.5,
+      517.4,
+      589.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b032",
+    "text": "to the needs of crisis-affected communities.",
+    "bbox": [
+      108.0,
+      592.1,
+      319.2,
+      604.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b033",
+    "text": "To determine which problems are best suited to being modeled using complex",
+    "bbox": [
+      108.0,
+      606.6,
+      486.8,
+      618.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b034",
+    "text": "systems techniques, humanitarians should consider the following criteria:",
+    "bbox": [
+      108.0,
+      621.2,
+      463.0,
+      633.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b035",
+    "text": "Feasibility: clear goals and output; clear target geographic area; existence of",
+    "bbox": [
+      144.0,
+      635.7,
+      515.5,
+      648.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b036",
+    "text": "previous models and/or literature relevant to the problem space.",
+    "bbox": [
+      144.0,
+      650.3,
+      455.0,
+      662.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b037",
+    "text": "Viability: data availability; synergy with domain experts and humanitarian",
+    "bbox": [
+      144.0,
+      664.8,
+      496.3,
+      677.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b038",
+    "text": "actors in the field.",
+    "bbox": [
+      144.0,
+      679.4,
+      230.2,
+      691.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b039",
+    "text": "Desirability: complexity of the problem space; ability to inform response",
+    "bbox": [
+      144.0,
+      693.9,
+      489.8,
+      706.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b040",
+    "text": "activities; potential impact.",
+    "bbox": [
+      144.0,
+      708.5,
+      272.3,
+      720.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 3,
+    "block_id": "394_p3_b041",
+    "text": "1 See the Global Humanitarian Overview 2021 for more details: https://hum-insight.info/",
+    "bbox": [
+      72.0,
+      757.9,
+      379.4,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b001",
+    "text": "Out of the techniques considered (network/graph models, agent-based modeling and",
+    "bbox": [
+      108.0,
+      72.4,
+      520.5,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b002",
+    "text": "System Dynamics), System Dynamics is currently the most suitable for a pilot of",
+    "bbox": [
+      108.0,
+      86.9,
+      495.4,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b003",
+    "text": "complex systems modeling in the humanitarian sector. This is due to its potential to",
+    "bbox": [
+      108.0,
+      101.5,
+      511.0,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b004",
+    "text": "support response simulation even in contexts with limited data availability and due to",
+    "bbox": [
+      108.0,
+      116.0,
+      518.6,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b005",
+    "text": "availability of relevant expertise.",
+    "bbox": [
+      108.0,
+      130.5,
+      263.8,
+      142.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b006",
+    "text": "The main recommendations include:",
+    "bbox": [
+      72.0,
+      159.6,
+      249.2,
+      171.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b007",
+    "text": "The Centre should coordinate initial pilots to better understand the potential impact of",
+    "bbox": [
+      108.0,
+      174.2,
+      521.7,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b008",
+    "text": "complex systems modeling techniques in the sector. One promising use case relates",
+    "bbox": [
+      108.0,
+      188.7,
+      519.2,
+      201.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b009",
+    "text": "to infectious diseases modeling. The development of a Cholera Response Simulator",
+    "bbox": [
+      108.0,
+      203.3,
+      516.6,
+      215.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b010",
+    "text": "(i.e, a model that would make it possible to simulate and evaluate the effectiveness",
+    "bbox": [
+      108.0,
+      217.8,
+      511.1,
+      230.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b011",
+    "text": "of different possible cholera response strategies) has been identified as a suitable",
+    "bbox": [
+      108.0,
+      232.4,
+      505.0,
+      244.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b012",
+    "text": "problem space for a pilot and an opportunity to concretely understand the potential",
+    "bbox": [
+      108.0,
+      246.9,
+      508.9,
+      259.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b013",
+    "text": "impact of these techniques in the sector. More detailed information on this pilot and",
+    "bbox": [
+      108.0,
+      261.5,
+      511.3,
+      273.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b014",
+    "text": "preliminary data exploration is available in this repository.",
+    "bbox": [
+      108.0,
+      276.0,
+      386.6,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b015",
+    "text": "The Centre should develop partnerships with actors from technical research",
+    "bbox": [
+      108.0,
+      290.6,
+      476.4,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b016",
+    "text": "environments and the development sector, where complex systems modeling is more",
+    "bbox": [
+      108.0,
+      305.1,
+      522.2,
+      317.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b017",
+    "text": "widely in use.",
+    "bbox": [
+      108.0,
+      319.6,
+      174.0,
+      331.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b018",
+    "text": "The Centre should create medium-term (6-12 months) research fellowships with",
+    "bbox": [
+      108.0,
+      334.2,
+      496.6,
+      346.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b019",
+    "text": "academic institutions for students with relevant technical training in systems",
+    "bbox": [
+      108.0,
+      348.7,
+      475.8,
+      361.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b020",
+    "text": "modeling or sponsor applied doctoral fellowships which would involve sustained",
+    "bbox": [
+      108.0,
+      363.3,
+      495.4,
+      375.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b021",
+    "text": "collaborations with the Centre on systems modeling projects.",
+    "bbox": [
+      108.0,
+      377.8,
+      403.7,
+      390.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b022",
+    "text": "The Centre should coordinate events and develop educational resources tailored to",
+    "bbox": [
+      108.0,
+      392.4,
+      513.1,
+      404.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b023",
+    "text": "humanitarians to increase uptake of these techniques within the sector.",
+    "bbox": [
+      108.0,
+      406.9,
+      453.2,
+      419.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b024",
+    "text": "To help bridge the technical gaps that constitute the main barrier to the adoption of",
+    "bbox": [
+      108.0,
+      421.5,
+      508.3,
+      433.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b025",
+    "text": "predictive modeling techniques in the sector, the Centre should leverage its annual",
+    "bbox": [
+      108.0,
+      436.0,
+      509.5,
+      448.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b026",
+    "text": "Data Fellows Programme to implement projects at the intersection of predictive",
+    "bbox": [
+      108.0,
+      450.6,
+      491.7,
+      462.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b027",
+    "text": "analytics, data literacy, and data visualization.",
+    "bbox": [
+      108.0,
+      465.1,
+      330.2,
+      477.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b028",
+    "text": "The Centre should continue its work in closing data gaps and consider how to",
+    "bbox": [
+      108.0,
+      479.7,
+      485.0,
+      491.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b029",
+    "text": "improve and communicate model accuracy through collaboration between modelers",
+    "bbox": [
+      108.0,
+      494.2,
+      515.5,
+      506.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 4,
+    "block_id": "394_p4_b030",
+    "text": "and actors in the field.",
+    "bbox": [
+      108.0,
+      508.7,
+      215.5,
+      521.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b001",
+    "text": "I. What is a complex system?",
+    "bbox": [
+      72.0,
+      109.7,
+      294.2,
+      127.6
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b002",
+    "text": "Many social and natural phenomena can be described as complex systems. The climate is a",
+    "bbox": [
+      72.0,
+      134.7,
+      520.9,
+      147.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b003",
+    "text": "notable example of a complex system: climate phenomena emerge from the interactions",
+    "bbox": [
+      72.0,
+      149.2,
+      500.9,
+      161.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b004",
+    "text": "between multiple subsystems, including the atmosphere, oceans and terrestrial ecosystems,",
+    "bbox": [
+      72.0,
+      163.8,
+      520.5,
+      176.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b005",
+    "text": "(which are themselves complex systems). The nervous system is another notable example:",
+    "bbox": [
+      72.0,
+      178.3,
+      515.3,
+      190.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b006",
+    "text": "the biological and cognitive functions supported by the system cannot be explained in terms",
+    "bbox": [
+      72.0,
+      192.9,
+      517.5,
+      205.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b007",
+    "text": "of the ‘sum’ of the activities of single neurons. The behavioral dynamics of both human and",
+    "bbox": [
+      72.0,
+      207.4,
+      513.2,
+      219.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b008",
+    "text": "non-human social groups can also often be described as complex systems.",
+    "bbox": [
+      72.0,
+      222.0,
+      438.0,
+      234.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b009",
+    "text": "Complex systems are systems whose global behavior is emergent, non-linear and adaptive:",
+    "bbox": [
+      72.0,
+      251.0,
+      518.0,
+      263.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b010",
+    "text": "Emergent: It cannot be explained from the behavior of individual components but is",
+    "bbox": [
+      108.0,
+      265.6,
+      514.3,
+      277.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b011",
+    "text": "said to emerge from the interactions between individual components.",
+    "bbox": [
+      108.0,
+      280.1,
+      442.8,
+      292.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b012",
+    "text": "Non-linear: Due to the ways in which interactions between the multiple components",
+    "bbox": [
+      108.0,
+      294.7,
+      516.1,
+      307.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b013",
+    "text": "of the system accumulate, small changes in the behavior of individual components",
+    "bbox": [
+      108.0,
+      309.2,
+      508.2,
+      321.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b014",
+    "text": "may result in disproportionate effects on the global state of the system.",
+    "bbox": [
+      108.0,
+      323.8,
+      451.8,
+      336.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b015",
+    "text": "Adaptive: Individual components of the system can change their behavior to adapt to",
+    "bbox": [
+      108.0,
+      338.3,
+      522.9,
+      350.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b016",
+    "text": "changes in the behavior of other components.",
+    "bbox": [
+      108.0,
+      352.9,
+      331.0,
+      365.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b017",
+    "text": "Given these properties of emergence, non-linearity and adaptiveness, the behavior of",
+    "bbox": [
+      72.0,
+      382.0,
+      486.9,
+      394.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b018",
+    "text": "complex systems can only be predicted through techniques that explicitly factor in the",
+    "bbox": [
+      72.0,
+      396.5,
+      486.9,
+      408.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 5,
+    "block_id": "394_p5_b019",
+    "text": "dynamic interconnectedness between system components.",
+    "bbox": [
+      72.0,
+      411.1,
+      359.8,
+      423.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b001",
+    "text": "II. Why use complex systems modeling in the humanitarian",
+    "bbox": [
+      72.0,
+      72.5,
+      520.9,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b002",
+    "text": "sector?",
+    "bbox": [
+      72.0,
+      93.7,
+      129.8,
+      111.6
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b003",
+    "text": "Many humanitarian crises can be considered complex systems. Crises often come about as",
+    "bbox": [
+      72.0,
+      118.7,
+      517.4,
+      131.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b004",
+    "text": "a result of interactions between multiple, mutually reinforcing political, social, and",
+    "bbox": [
+      72.0,
+      133.2,
+      464.9,
+      145.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b005",
+    "text": "environmental factors, whose effects accumulate over time in non-linear ways. This makes",
+    "bbox": [
+      72.0,
+      147.8,
+      511.5,
+      160.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b006",
+    "text": "these crises prone to sudden escalations and often resistant to humanitarian intervention.",
+    "bbox": [
+      72.0,
+      162.3,
+      506.5,
+      174.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b007",
+    "text": "In slow-onset and protracted crises, the effects of the interaction between multiple crisis",
+    "bbox": [
+      72.0,
+      191.4,
+      497.0,
+      203.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b008",
+    "text": "drivers accumulate non-linearly over long time scales. This is the case, for example, for",
+    "bbox": [
+      72.0,
+      206.0,
+      495.4,
+      218.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b009",
+    "text": "protracted food insecurity crises, where environmental, social, economic, and geopolitical",
+    "bbox": [
+      72.0,
+      220.5,
+      505.2,
+      232.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b010",
+    "text": "factors reinforce each other in ways which make interventions targeting single crisis drivers",
+    "bbox": [
+      72.0,
+      235.0,
+      513.7,
+      247.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b011",
+    "text": "often ineffective. Other crises are punctuated by sudden-onset seasonal shocks, such as",
+    "bbox": [
+      72.0,
+      249.6,
+      503.2,
+      261.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b012",
+    "text": "floods or typhoons, whose effects propagate to the whole system over very short time",
+    "bbox": [
+      72.0,
+      264.1,
+      487.3,
+      276.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b013",
+    "text": "scales.",
+    "bbox": [
+      72.0,
+      278.7,
+      106.2,
+      291.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b014",
+    "text": "To intervene in humanitarian contexts where needs can change dramatically over time,",
+    "bbox": [
+      72.0,
+      307.8,
+      493.0,
+      320.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b015",
+    "text": "current needs assessment techniques need to be complemented by modeling techniques",
+    "bbox": [
+      72.0,
+      322.3,
+      505.9,
+      334.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b016",
+    "text": "which factor in these complex systems characteristics. Complex systems modeling can",
+    "bbox": [
+      72.0,
+      336.9,
+      494.1,
+      349.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b017",
+    "text": "support more effective and data-driven humanitarian response. Modeling techniques that",
+    "bbox": [
+      72.0,
+      351.4,
+      503.2,
+      363.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b018",
+    "text": "factor in complexity help better predict how and why needs may change over the timeline of",
+    "bbox": [
+      72.0,
+      366.0,
+      516.2,
+      378.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b019",
+    "text": "a crisis. They also support the development of tools that enable humanitarians to run more",
+    "bbox": [
+      72.0,
+      380.5,
+      511.1,
+      392.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b020",
+    "text": "dynamic projections of possible scenarios, which can help identify leverage points for",
+    "bbox": [
+      72.0,
+      395.1,
+      485.0,
+      407.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b021",
+    "text": "interventions to maximise the impact of humanitarian action.",
+    "bbox": [
+      72.0,
+      409.6,
+      364.0,
+      421.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b022",
+    "text": "Complex systems modeling can also help humanitarians understand the likely evolution of",
+    "bbox": [
+      72.0,
+      438.7,
+      509.5,
+      451.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b023",
+    "text": "the situation at different time scales, enabling responders and policy makers to better",
+    "bbox": [
+      72.0,
+      453.2,
+      484.8,
+      465.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b024",
+    "text": "understand the short and long-term impacts of planned response activities. In this way, it can",
+    "bbox": [
+      72.0,
+      467.8,
+      522.1,
+      480.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b025",
+    "text": "provide insights on how to better coordinate humanitarian and development activities in",
+    "bbox": [
+      72.0,
+      482.3,
+      495.5,
+      494.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b026",
+    "text": "order to address needs while also fostering the coping capacity of affected populations.",
+    "bbox": [
+      72.0,
+      496.9,
+      495.3,
+      509.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b027",
+    "text": "These models could also help humanitarians understand the unintended consequences that",
+    "bbox": [
+      72.0,
+      511.4,
+      518.7,
+      523.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b028",
+    "text": "immediate actions could have in the long run.",
+    "bbox": [
+      72.0,
+      526.0,
+      292.6,
+      538.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b029",
+    "text": "The potential applications of complex systems modeling in humanitarian action have pushed",
+    "bbox": [
+      72.0,
+      555.1,
+      520.5,
+      567.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b030",
+    "text": "both practitioners and researchers to advocate for its introduction in the sector. Support has",
+    "bbox": [
+      72.0,
+      569.6,
+      516.2,
+      581.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b031",
+    "text": "also been expressed by the technical experts and humanitarian actors interviewed as a part",
+    "bbox": [
+      72.0,
+      584.2,
+      517.4,
+      596.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b032",
+    "text": "of this research. In addition, the high level of participation in the Complex Systems Modeling",
+    "bbox": [
+      72.0,
+      598.7,
+      518.6,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b033",
+    "text": "webinar organized by the Centre in June 2021 suggests a more general interest from within",
+    "bbox": [
+      72.0,
+      613.2,
+      516.2,
+      625.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b034",
+    "text": "the humanitarian and academic communities in partnering to explore the possibilities offered",
+    "bbox": [
+      72.0,
+      627.8,
+      520.3,
+      640.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 6,
+    "block_id": "394_p6_b035",
+    "text": "by these new techniques for humanitarian action.",
+    "bbox": [
+      72.0,
+      642.3,
+      310.9,
+      654.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b001",
+    "text": "III. When is complex systems modeling feasible, viable and",
+    "bbox": [
+      72.0,
+      72.5,
+      520.0,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b002",
+    "text": "desirable in humanitarian settings?",
+    "bbox": [
+      72.0,
+      93.7,
+      341.3,
+      111.6
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b003",
+    "text": "Not all humanitarian issues are well suited to complex systems modeling. Some may be too",
+    "bbox": [
+      72.0,
+      118.7,
+      516.8,
+      131.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b004",
+    "text": "vaguely defined to be modeled accurately (e.g., in terms of the target geographical area, the",
+    "bbox": [
+      72.0,
+      133.2,
+      519.3,
+      145.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b005",
+    "text": "goals, or what factors should be included in the model). Others may require domain",
+    "bbox": [
+      72.0,
+      147.8,
+      477.1,
+      160.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b006",
+    "text": "knowledge that is not available to the modeler or require data that cannot be collected. While",
+    "bbox": [
+      72.0,
+      162.3,
+      522.3,
+      174.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b007",
+    "text": "modeling may be feasible in terms of clarity of target and data availability, responding to the",
+    "bbox": [
+      72.0,
+      176.9,
+      516.0,
+      189.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b008",
+    "text": "model outputs may remain a challenge due to factors such as limited humanitarian access in",
+    "bbox": [
+      72.0,
+      191.4,
+      521.7,
+      203.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b009",
+    "text": "the area or relevant interventions falling beyond the scope of the response.",
+    "bbox": [
+      72.0,
+      206.0,
+      436.2,
+      218.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b010",
+    "text": "Before embarking on the development of a complex systems model, humanitarians should",
+    "bbox": [
+      72.0,
+      235.0,
+      510.7,
+      247.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b011",
+    "text": "evaluate whether the problem space meets a number of feasibility, viability, and desirability",
+    "bbox": [
+      72.0,
+      249.6,
+      512.1,
+      261.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b012",
+    "text": "criteria outlined in Figure 1 and described in more detail below. These criteria are based on a",
+    "bbox": [
+      72.0,
+      264.1,
+      522.7,
+      276.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b013",
+    "text": "review of modeling literature as well as the interviews conducted with modeling experts and",
+    "bbox": [
+      72.0,
+      278.7,
+      515.6,
+      291.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b014",
+    "text": "humanitarians as part of this research.",
+    "bbox": [
+      72.0,
+      293.2,
+      259.0,
+      305.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b015",
+    "text": "Figure 1. Criteria for determining the feasibility, viability and desirability of complex",
+    "bbox": [
+      77.2,
+      328.3,
+      512.6,
+      340.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b016",
+    "text": "systems modeling in humanitarian settings",
+    "bbox": [
+      77.2,
+      341.0,
+      303.3,
+      353.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b017",
+    "text": "Feasibility",
+    "bbox": [
+      77.2,
+      364.9,
+      131.0,
+      377.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b018",
+    "text": "Viability",
+    "bbox": [
+      227.2,
+      364.9,
+      269.0,
+      377.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b019",
+    "text": "Desirability",
+    "bbox": [
+      377.2,
+      364.9,
+      436.5,
+      377.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b020",
+    "text": "Clear goals and output",
+    "bbox": [
+      77.2,
+      388.8,
+      187.9,
+      401.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b021",
+    "text": "Data availability",
+    "bbox": [
+      227.2,
+      388.8,
+      304.2,
+      401.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b022",
+    "text": "Complexity of the problem",
+    "bbox": [
+      377.2,
+      388.8,
+      504.9,
+      401.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b023",
+    "text": "space",
+    "bbox": [
+      377.2,
+      401.4,
+      406.6,
+      413.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b024",
+    "text": "Clear target geographic",
+    "bbox": [
+      77.2,
+      425.3,
+      192.1,
+      437.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b025",
+    "text": "area",
+    "bbox": [
+      77.2,
+      438.0,
+      99.3,
+      450.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b026",
+    "text": "Synergy with domain",
+    "bbox": [
+      227.2,
+      425.3,
+      329.3,
+      437.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b027",
+    "text": "experts and humanitarian",
+    "bbox": [
+      227.2,
+      438.0,
+      351.3,
+      450.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b028",
+    "text": "actors in the field",
+    "bbox": [
+      227.2,
+      450.6,
+      310.3,
+      462.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b029",
+    "text": "Ability to inform response",
+    "bbox": [
+      377.2,
+      425.3,
+      500.7,
+      437.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b030",
+    "text": "activities",
+    "bbox": [
+      377.2,
+      439.9,
+      419.4,
+      452.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b031",
+    "text": "Existence of previous",
+    "bbox": [
+      77.2,
+      474.5,
+      181.7,
+      486.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b032",
+    "text": "models and/or literature",
+    "bbox": [
+      77.2,
+      487.2,
+      192.7,
+      499.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b033",
+    "text": "Potential impact",
+    "bbox": [
+      377.2,
+      474.5,
+      455.5,
+      486.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b034",
+    "text": "Feasibility criteria",
+    "bbox": [
+      72.0,
+      520.4,
+      165.5,
+      532.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b035",
+    "text": "The following criteria help determine whether it is feasible to model a specific problem space",
+    "bbox": [
+      72.0,
+      534.9,
+      520.5,
+      547.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b036",
+    "text": "using complex systems methods:",
+    "bbox": [
+      72.0,
+      549.5,
+      233.9,
+      561.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b037",
+    "text": "Clear goals and outputs: The possibility to develop a model depends on clearly",
+    "bbox": [
+      108.0,
+      578.5,
+      500.8,
+      590.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b038",
+    "text": "specified goals and outputs. This translates into defining: a) what the applications of",
+    "bbox": [
+      108.0,
+      593.1,
+      514.8,
+      605.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b039",
+    "text": "the model should be; b) what exactly the model should predict/monitor dynamically;",
+    "bbox": [
+      108.0,
+      607.6,
+      512.5,
+      619.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b040",
+    "text": "c) how confident one is that this/these variable(s) adequately reflect the type of",
+    "bbox": [
+      108.0,
+      622.2,
+      490.5,
+      634.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b041",
+    "text": "humanitarian need one wants to address through intervention. Model development",
+    "bbox": [
+      108.0,
+      636.7,
+      508.9,
+      649.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b042",
+    "text": "will be a challenge if any of these points is underspecified.",
+    "bbox": [
+      108.0,
+      651.3,
+      390.3,
+      663.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b043",
+    "text": "Clear target geographic area: Successful model development requires the",
+    "bbox": [
+      108.0,
+      665.8,
+      477.0,
+      678.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b044",
+    "text": "identification of a specific target geographical area (at least for initial iterations of",
+    "bbox": [
+      108.0,
+      680.4,
+      498.4,
+      692.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b045",
+    "text": "model development). This criterion is specific to applications of complex systems",
+    "bbox": [
+      108.0,
+      694.9,
+      500.0,
+      707.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b046",
+    "text": "modeling to humanitarian crises, where drivers may be highly specific from crisis to",
+    "bbox": [
+      108.0,
+      709.5,
+      511.2,
+      721.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b047",
+    "text": "crisis, and domain knowledge on the context will be necessary to develop a plausible",
+    "bbox": [
+      108.0,
+      724.0,
+      520.5,
+      736.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 7,
+    "block_id": "394_p7_b048",
+    "text": "model of the crisis.",
+    "bbox": [
+      108.0,
+      738.6,
+      199.6,
+      750.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b001",
+    "text": "Existence of previous models and/or literature: The existence of literature on",
+    "bbox": [
+      108.0,
+      72.4,
+      498.4,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b002",
+    "text": "systems modeling for the problem space of interest supports (but is not essential to)",
+    "bbox": [
+      108.0,
+      86.9,
+      515.5,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b003",
+    "text": "the feasibility of modeling. Existing work can provide a robust starting point for model",
+    "bbox": [
+      108.0,
+      101.5,
+      519.8,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b004",
+    "text": "development.",
+    "bbox": [
+      108.0,
+      116.0,
+      174.0,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b005",
+    "text": "Viability criteria",
+    "bbox": [
+      72.0,
+      145.1,
+      153.7,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b006",
+    "text": "The following criteria help determine whether model development is viable within the",
+    "bbox": [
+      72.0,
+      159.6,
+      482.0,
+      171.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b007",
+    "text": "constraints posed by the specific target context(s):",
+    "bbox": [
+      72.0,
+      174.2,
+      316.4,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b008",
+    "text": "Data availability: A core aspect to consider is whether sufficient data are available",
+    "bbox": [
+      108.0,
+      203.3,
+      511.1,
+      215.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b009",
+    "text": "to support validation and estimation of a model. Data availability (especially historical",
+    "bbox": [
+      108.0,
+      217.8,
+      519.8,
+      230.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b010",
+    "text": "data) is often a challenge in countries with humanitarian operations. The lack of data",
+    "bbox": [
+      108.0,
+      232.4,
+      517.8,
+      244.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b011",
+    "text": "can jeopardize the possibility to build reliable predictive tools2’3. Nevertheless,",
+    "bbox": [
+      108.0,
+      246.7,
+      485.0,
+      259.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b012",
+    "text": "developing the conceptual component of a model may bring value by fostering trust",
+    "bbox": [
+      108.0,
+      261.5,
+      512.5,
+      273.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b013",
+    "text": "and synergy between stakeholders, even when quantitative model estimation is not",
+    "bbox": [
+      108.0,
+      276.0,
+      511.9,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b014",
+    "text": "possible. Imperfect proxies or imputed data may also be sufficient in contexts when",
+    "bbox": [
+      108.0,
+      290.6,
+      511.7,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b015",
+    "text": "the focus is not on maximizing the accuracy of pointwise prediction of a certain",
+    "bbox": [
+      108.0,
+      305.1,
+      489.9,
+      317.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b016",
+    "text": "variable at each time point (e.g., daily numbers of cases in an epidemic), but on",
+    "bbox": [
+      108.0,
+      319.6,
+      494.2,
+      331.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b017",
+    "text": "projecting holistic scenarios and trends (e.g., when and whether the number of cases",
+    "bbox": [
+      108.0,
+      334.2,
+      521.1,
+      346.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b018",
+    "text": "is expected to rise significantly).",
+    "bbox": [
+      108.0,
+      348.7,
+      263.2,
+      361.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b019",
+    "text": "Synergy with domain experts and actors in the field: Receiving an explicit",
+    "bbox": [
+      108.0,
+      363.3,
+      484.3,
+      375.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b020",
+    "text": "endorsement and establishing strong partnerships with domain experts and actors in",
+    "bbox": [
+      108.0,
+      377.8,
+      518.6,
+      390.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b021",
+    "text": "the field is another key condition for model development to be viable. Although this is",
+    "bbox": [
+      108.0,
+      392.4,
+      519.2,
+      404.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b022",
+    "text": "the case for many predictive modeling efforts, it is especially important for complex",
+    "bbox": [
+      108.0,
+      406.9,
+      509.2,
+      419.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b023",
+    "text": "systems modeling. In order to identify direct and indirect drivers of humanitarian",
+    "bbox": [
+      108.0,
+      421.5,
+      494.7,
+      433.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b024",
+    "text": "needs, formulate hypotheses on how these drivers interact, and best tailor the model",
+    "bbox": [
+      108.0,
+      436.0,
+      519.2,
+      448.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b025",
+    "text": "to its intended applications, modelers need to rely on knowledge provided by domain",
+    "bbox": [
+      108.0,
+      450.6,
+      519.2,
+      462.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b026",
+    "text": "experts, decision makers and actors close to operations.",
+    "bbox": [
+      108.0,
+      465.1,
+      382.3,
+      477.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b027",
+    "text": "Desirability criteria",
+    "bbox": [
+      72.0,
+      494.2,
+      171.0,
+      506.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b028",
+    "text": "The following criteria help assess whether it is desirable to model a specific problem space",
+    "bbox": [
+      72.0,
+      508.7,
+      512.5,
+      521.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b029",
+    "text": "through complex systems modeling techniques:",
+    "bbox": [
+      72.0,
+      523.3,
+      303.6,
+      535.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b030",
+    "text": "Complexity of the problem space: It is essential to consider whether the target",
+    "bbox": [
+      108.0,
+      552.4,
+      499.6,
+      564.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b031",
+    "text": "problem space displays complex systems characteristics, which can only be captured",
+    "bbox": [
+      108.0,
+      566.9,
+      522.8,
+      579.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b032",
+    "text": "through dynamic and causal modeling strategies, or whether traditional non-dynamic",
+    "bbox": [
+      108.0,
+      581.5,
+      518.6,
+      593.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b033",
+    "text": "and non-causal predictive models may yield comparable insights. Preliminary data",
+    "bbox": [
+      108.0,
+      596.0,
+      507.6,
+      608.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b034",
+    "text": "analyses may help clarify this point. This is a general criterion that applies to complex",
+    "bbox": [
+      108.0,
+      610.6,
+      522.0,
+      622.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b035",
+    "text": "systems modeling beyond humanitarian settings.",
+    "bbox": [
+      108.0,
+      625.1,
+      345.7,
+      637.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b036",
+    "text": "Ability to inform response activities: Complex systems models can be used to",
+    "bbox": [
+      108.0,
+      639.7,
+      501.4,
+      652.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b037",
+    "text": "simply test hypotheses on the structure of causal drivers of a crisis, but their impact",
+    "bbox": [
+      108.0,
+      654.2,
+      512.4,
+      666.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b038",
+    "text": "on humanitarian response may be significantly larger if they can directly provide",
+    "bbox": [
+      108.0,
+      668.8,
+      495.4,
+      681.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b039",
+    "text": "decision makers with a tool to test and evaluate the potential consequences of",
+    "bbox": [
+      108.0,
+      683.3,
+      488.1,
+      695.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b040",
+    "text": "different types of response activities. Considering whether a problem space affords",
+    "bbox": [
+      108.0,
+      697.8,
+      510.3,
+      710.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b041",
+    "text": "3 See Centre for Humanitarian Data: State of Open Humanitarian Data 2021, p. 21. Available here:",
+    "bbox": [
+      72.0,
+      748.7,
+      419.3,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b042",
+    "text": "https://centre.humdata.org/the-state-of-open-humanitarian-data-2021/",
+    "bbox": [
+      72.0,
+      761.0,
+      318.1,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b043",
+    "text": "2 See Bodanac, Nicholas, Predictive Analytics for Anticipatory Action: Challenges and Opportunities, p. 12. Available here:",
+    "bbox": [
+      72.0,
+      721.1,
+      501.0,
+      733.1
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b044",
+    "text": "https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/89546fb6-b130-4189-9da9-c962053e729",
+    "bbox": [
+      72.0,
+      733.4,
+      522.1,
+      742.3
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 8,
+    "block_id": "394_p8_b045",
+    "text": "f/download/pa_2020_fellow_report_final.pdf.",
+    "bbox": [
+      72.0,
+      742.6,
+      228.9,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b001",
+    "text": "similar applications (and assessing whether decision makers in the target context are",
+    "bbox": [
+      108.0,
+      72.4,
+      521.0,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b002",
+    "text": "open to deploying such a tool) is key to understanding whether the practical benefits",
+    "bbox": [
+      108.0,
+      86.9,
+      516.8,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b003",
+    "text": "justify the time and resources required to develop and validate a complex systems",
+    "bbox": [
+      108.0,
+      101.5,
+      507.0,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b004",
+    "text": "model.",
+    "bbox": [
+      108.0,
+      116.0,
+      141.0,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b005",
+    "text": "Potential impact: It is important to consider whether the trade-off between resources",
+    "bbox": [
+      108.0,
+      130.5,
+      522.6,
+      142.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b006",
+    "text": "required to develop a model and its overall impact on the context of focus is",
+    "bbox": [
+      108.0,
+      145.1,
+      475.2,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b007",
+    "text": "sustainable. Relatedly, it may be worth considering how likely it is that the model",
+    "bbox": [
+      108.0,
+      159.6,
+      497.6,
+      171.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b008",
+    "text": "could be re-used for and adapted to other geographical areas, which could support",
+    "bbox": [
+      108.0,
+      174.2,
+      510.1,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 9,
+    "block_id": "394_p9_b009",
+    "text": "impact beyond the initial context of focus.",
+    "bbox": [
+      108.0,
+      188.7,
+      309.0,
+      201.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b001",
+    "text": "IV. How is a complex systems model developed?",
+    "bbox": [
+      72.0,
+      72.5,
+      442.1,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b002",
+    "text": "There are a number of modeling techniques that are designed to understand complex",
+    "bbox": [
+      72.0,
+      97.5,
+      487.5,
+      109.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b003",
+    "text": "systems (see Figure 2 below for more detail). The goals and constraints of the specific",
+    "bbox": [
+      72.0,
+      112.1,
+      490.9,
+      124.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b004",
+    "text": "problem of interest determine which modeling technique is most appropriate in a given",
+    "bbox": [
+      72.0,
+      126.6,
+      491.2,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b005",
+    "text": "context.",
+    "bbox": [
+      72.0,
+      141.2,
+      110.5,
+      153.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b006",
+    "text": "The Centre’s research determined that System Dynamics is likely to be the most suitable",
+    "bbox": [
+      72.0,
+      170.2,
+      503.1,
+      182.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b007",
+    "text": "technique for a pilot of complex systems modeling in the humanitarian sector due to the",
+    "bbox": [
+      72.0,
+      184.8,
+      496.7,
+      197.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b008",
+    "text": "potential of this technique to support response simulation even in contexts with limited data",
+    "bbox": [
+      72.0,
+      199.3,
+      513.8,
+      211.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b009",
+    "text": "availability.4 Our research also highlighted how humanitarian and development partners are",
+    "bbox": [
+      72.0,
+      209.7,
+      514.8,
+      226.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b010",
+    "text": "already exploring the use of System Dynamics modeling (see Figure 3 for more concrete",
+    "bbox": [
+      72.0,
+      228.4,
+      502.7,
+      240.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b011",
+    "text": "examples).",
+    "bbox": [
+      72.0,
+      243.0,
+      125.8,
+      255.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b012",
+    "text": "Figure 2. Selected methods for complex systems modeling",
+    "bbox": [
+      77.2,
+      278.1,
+      384.5,
+      290.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b013",
+    "text": "Complex systems modeling refers to any method that can be used to represent a system of",
+    "bbox": [
+      77.2,
+      307.1,
+      480.6,
+      318.3
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b014",
+    "text": "interacting components and predict its behavior given a description of its components and a set of",
+    "bbox": [
+      77.2,
+      320.4,
+      509.0,
+      331.5
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b015",
+    "text": "assumptions on the rules that define how the components behave. The following methods are",
+    "bbox": [
+      77.2,
+      333.6,
+      491.0,
+      344.8
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b016",
+    "text": "among those most commonly used to model complex systems and with the highest potential",
+    "bbox": [
+      77.2,
+      346.8,
+      485.1,
+      358.0
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b017",
+    "text": "relevance for use in the humanitarian sector.",
+    "bbox": [
+      77.2,
+      360.0,
+      274.0,
+      371.2
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b018",
+    "text": "Network/graph models: Components of the systems are represented as nodes in a network, and",
+    "bbox": [
+      77.2,
+      391.3,
+      510.1,
+      402.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b019",
+    "text": "their relations (i.e., whether and how each node interacts with each other) are defined by edges",
+    "bbox": [
+      77.2,
+      404.5,
+      498.5,
+      415.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b020",
+    "text": "connecting each node (which may include loops, i.e., edges that connect nodes with themselves).",
+    "bbox": [
+      77.2,
+      417.7,
+      508.4,
+      428.9
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b021",
+    "text": "Complex networks are a specific class of networks which display special topological features.",
+    "bbox": [
+      77.2,
+      430.9,
+      488.9,
+      442.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b022",
+    "text": "Small-world networks, for example, are networks where nodes tend to be grouped in tight clusters,",
+    "bbox": [
+      77.2,
+      444.1,
+      511.7,
+      455.3
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b023",
+    "text": "but a few long-range connections between nodes make clusters communicate with each other. This",
+    "bbox": [
+      77.2,
+      457.4,
+      516.0,
+      468.5
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b024",
+    "text": "is an example of a class of complex networks that is often found in real-world phenomena. In",
+    "bbox": [
+      77.2,
+      470.6,
+      486.8,
+      481.8
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b025",
+    "text": "human social networks, for example, small-world properties motivate hypotheses postulating that",
+    "bbox": [
+      77.2,
+      483.8,
+      505.1,
+      495.0
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b026",
+    "text": "all people are on average a few social connections away from each other (e.g., the six degrees of",
+    "bbox": [
+      77.2,
+      497.0,
+      507.3,
+      508.2
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b027",
+    "text": "separation hypothesis). In addition to the complexity of the network structure itself, these models",
+    "bbox": [
+      77.2,
+      510.3,
+      502.9,
+      521.4
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b028",
+    "text": "are also able to capture the evolution of dynamic processes in connected complex networks (e.g.,",
+    "bbox": [
+      77.2,
+      523.5,
+      508.4,
+      534.7
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b029",
+    "text": "an epidemic spreading in a society).",
+    "bbox": [
+      77.2,
+      536.7,
+      236.7,
+      547.9
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b030",
+    "text": "Agent-based modeling: Agent-based models are computational models that make it possible to",
+    "bbox": [
+      77.2,
+      567.9,
+      504.5,
+      579.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b031",
+    "text": "simulate the behavior of a system based on a description of (i) the type of agents the system",
+    "bbox": [
+      77.2,
+      581.2,
+      485.6,
+      592.3
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b032",
+    "text": "consists of and (ii) the rules on how these agents behave and interact. Agent-based models are a",
+    "bbox": [
+      77.2,
+      594.4,
+      506.8,
+      605.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b033",
+    "text": "microscale modeling technique: the level of description is that of the individual agents, and the",
+    "bbox": [
+      77.2,
+      607.6,
+      492.9,
+      618.8
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b034",
+    "text": "macroscale behavior of the system emerges (over the course of a computer simulation) as a",
+    "bbox": [
+      77.2,
+      620.8,
+      485.1,
+      632.0
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b035",
+    "text": "function of the cumulative effects of agents’ behaviors and their interactions over time. Agent-based",
+    "bbox": [
+      77.2,
+      634.1,
+      515.7,
+      645.2
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b036",
+    "text": "models are often used to predict the dynamics of epidemic diseases as a function of assumptions",
+    "bbox": [
+      77.2,
+      647.3,
+      507.3,
+      658.5
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b037",
+    "text": "on how individuals behave (e.g., the average number and duration of social contacts) and on",
+    "bbox": [
+      77.2,
+      660.5,
+      486.8,
+      671.7
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b038",
+    "text": "epidemiological parameters (e.g., incubation time, recovery rate). Beyond epidemiology,",
+    "bbox": [
+      77.2,
+      673.7,
+      465.4,
+      684.9
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b039",
+    "text": "agent-based modeling is widely used in a number of other fields (e.g., biology, computational social",
+    "bbox": [
+      77.2,
+      687.0,
+      514.9,
+      698.1
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b040",
+    "text": "science, and economics). Agent-based models can be validated against real data to understand",
+    "bbox": [
+      77.2,
+      700.2,
+      500.1,
+      711.3
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b041",
+    "text": "4 Note, however, that this is not a general recommendation for all humanitarian applications. If sufficient data are available and",
+    "bbox": [
+      72.0,
+      739.5,
+      523.0,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b042",
+    "text": "the problem space affords it, other techniques such as agent-based models or network approaches may yield higher predictive",
+    "bbox": [
+      72.0,
+      751.8,
+      522.5,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 10,
+    "block_id": "394_p10_b043",
+    "text": "accuracy, and be more generalizable across problem spaces.",
+    "bbox": [
+      72.0,
+      761.0,
+      289.1,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b001",
+    "text": "which set of assumptions best explains the emergence of behaviors observed in real life, or used to",
+    "bbox": [
+      77.2,
+      78.3,
+      516.2,
+      89.5
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b002",
+    "text": "compare outcomes resulting from alternative sets of assumptions.",
+    "bbox": [
+      77.2,
+      91.6,
+      368.4,
+      102.7
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b003",
+    "text": "System Dynamics: System Dynamics is a technique initially developed for business and industrial",
+    "bbox": [
+      77.2,
+      122.8,
+      513.4,
+      133.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b004",
+    "text": "applications where systems are represented at the macroscale in terms of stocks (system-level",
+    "bbox": [
+      77.2,
+      136.0,
+      496.7,
+      147.2
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b005",
+    "text": "variables), flows (relations between stocks), feedback loops, and time delays. Development of a",
+    "bbox": [
+      77.2,
+      149.2,
+      500.1,
+      160.4
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b006",
+    "text": "System Dynamics model involves first formulating hypotheses on which variables are relevant to",
+    "bbox": [
+      77.2,
+      162.4,
+      502.8,
+      173.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b007",
+    "text": "defining the behavior of the system, and how they interact (i.e., formulating a causal loop diagram",
+    "bbox": [
+      77.2,
+      175.7,
+      507.9,
+      186.8
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b008",
+    "text": "and a stock and flow diagram). Equations that quantify the flows are then defined in order to run",
+    "bbox": [
+      77.2,
+      188.9,
+      500.1,
+      200.1
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b009",
+    "text": "dynamic simulations of how the system will evolve given a description of its initial state. These",
+    "bbox": [
+      77.2,
+      202.1,
+      492.1,
+      213.3
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b010",
+    "text": "simulations can be used to clarify how a variety of mutually interacting factors give rise to specific",
+    "bbox": [
+      77.2,
+      215.3,
+      506.2,
+      226.5
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b011",
+    "text": "dynamics in a system, and which component of the system someone could intervene on, in order to",
+    "bbox": [
+      77.2,
+      228.6,
+      516.8,
+      239.7
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b012",
+    "text": "change the behavior of the system in the desired direction.",
+    "bbox": [
+      77.2,
+      241.8,
+      336.2,
+      253.0
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b013",
+    "text": "As described in Figure 2, a System Dynamics model is a way of representing a problem in",
+    "bbox": [
+      72.0,
+      281.6,
+      509.4,
+      293.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b014",
+    "text": "terms of a graph of variables (“stocks”), relations between variables (“flows”), time delays",
+    "bbox": [
+      72.0,
+      296.1,
+      503.9,
+      308.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b015",
+    "text": "(the time scale at which these relations take place), and feedback loops. System Dynamics",
+    "bbox": [
+      72.0,
+      310.7,
+      513.7,
+      323.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b016",
+    "text": "models allow users not only to visualize the complex causal factors that are hypothesized to",
+    "bbox": [
+      72.0,
+      325.2,
+      518.0,
+      337.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b017",
+    "text": "define the behavior of a system, but also to simulate--given these causal assumptions--how",
+    "bbox": [
+      72.0,
+      339.8,
+      516.2,
+      352.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b018",
+    "text": "the system may evolve over time, and how external interventions on its components may",
+    "bbox": [
+      72.0,
+      354.3,
+      503.3,
+      366.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b019",
+    "text": "change the way it evolves. This makes System Dynamics especially suitable to use cases",
+    "bbox": [
+      72.0,
+      368.9,
+      508.0,
+      381.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b020",
+    "text": "where the aim is to simulate impacts and consequences of a humanitarian response plan",
+    "bbox": [
+      72.0,
+      383.4,
+      504.6,
+      395.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b021",
+    "text": "and related interventions.",
+    "bbox": [
+      72.0,
+      398.0,
+      195.4,
+      410.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b022",
+    "text": "Developing a System Dynamics model in the humanitarian sector requires various types of",
+    "bbox": [
+      72.0,
+      427.1,
+      512.5,
+      439.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b023",
+    "text": "expertise. Domain experts and actors directly involved in response operations in the",
+    "bbox": [
+      72.0,
+      441.6,
+      479.5,
+      453.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b024",
+    "text": "geographical area of interest are needed to identify relevant variables and formulate",
+    "bbox": [
+      72.0,
+      456.1,
+      479.6,
+      468.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b025",
+    "text": "hypotheses on how different factors influence each other. Technical experts should be in",
+    "bbox": [
+      72.0,
+      470.7,
+      500.0,
+      483.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b026",
+    "text": "charge of developing, validating and estimating the model. Coordination actors are needed",
+    "bbox": [
+      72.0,
+      485.2,
+      512.6,
+      497.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b027",
+    "text": "to develop and maintain synergies between parties involved, and to make sure that modeling",
+    "bbox": [
+      72.0,
+      499.8,
+      523.0,
+      512.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b028",
+    "text": "efforts are tailored to the needs of the end users.",
+    "bbox": [
+      72.0,
+      514.3,
+      308.9,
+      526.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b029",
+    "text": "There are four key steps5 in developing a System Dynamics model: 1) problem identification",
+    "bbox": [
+      72.0,
+      539.3,
+      518.6,
+      555.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b030",
+    "text": "and system conceptualization; 2) model formulation and analysis; 3) model validation; and 4)",
+    "bbox": [
+      72.0,
+      558.0,
+      522.3,
+      570.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b031",
+    "text": "policy analysis and implementation. These steps are explained in more detail below.",
+    "bbox": [
+      72.0,
+      572.5,
+      480.0,
+      584.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b032",
+    "text": "Step 1: Problem identification and system conceptualization",
+    "bbox": [
+      72.0,
+      601.6,
+      386.6,
+      613.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b033",
+    "text": "The problem should be narrowed down to a few concrete goals and outputs. Stakeholders",
+    "bbox": [
+      72.0,
+      616.2,
+      509.5,
+      628.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b034",
+    "text": "should define which variables the model should predict, and what these predictions will be",
+    "bbox": [
+      72.0,
+      630.7,
+      508.9,
+      643.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b035",
+    "text": "concretely used for. For example, if the target problem is modeling the unfolding of an",
+    "bbox": [
+      72.0,
+      645.2,
+      487.5,
+      657.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b036",
+    "text": "epidemic, interviews with stakeholders and experts should be conducted to define whether",
+    "bbox": [
+      72.0,
+      659.8,
+      511.3,
+      672.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b037",
+    "text": "the model should simply help to monitor the number of cases (e.g., to increase",
+    "bbox": [
+      72.0,
+      674.3,
+      453.3,
+      686.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b038",
+    "text": "preparedness of the healthcare system) or rather understand how to intervene in order to",
+    "bbox": [
+      72.0,
+      688.9,
+      504.6,
+      701.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b039",
+    "text": "minimize the number of deaths.",
+    "bbox": [
+      72.0,
+      703.4,
+      225.4,
+      715.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b040",
+    "text": "5 These steps are based on the Centre’s findings and existing literature on System Dynamics modeling process (See for",
+    "bbox": [
+      72.0,
+      739.5,
+      523.0,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b041",
+    "text": "instance ‘Aguiar, A. The role of systematic reviews in the System Dynamics modelling process. Syst Res Behav Sci. 2020; 37:",
+    "bbox": [
+      72.0,
+      751.8,
+      523.1,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 11,
+    "block_id": "394_p11_b042",
+    "text": "892– 895. https://doi.org/10.1002/sres.2758’).",
+    "bbox": [
+      72.0,
+      761.0,
+      233.3,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b001",
+    "text": "If the model should allow simulation of the effect of a response plan, interviews with",
+    "bbox": [
+      72.0,
+      72.4,
+      476.9,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b002",
+    "text": "stakeholders should be conducted to identify a list of specific types of responses the model",
+    "bbox": [
+      72.0,
+      86.9,
+      513.2,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b003",
+    "text": "should be able to evaluate. Expanding on the example above, if the model is intended to",
+    "bbox": [
+      72.0,
+      101.5,
+      501.0,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b004",
+    "text": "help us understand how to minimize deaths due to cholera, interventions such as the",
+    "bbox": [
+      72.0,
+      116.0,
+      483.8,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b005",
+    "text": "distribution of rehydration kits, oral cholera vaccinations, or increased testing capacity may",
+    "bbox": [
+      72.0,
+      130.5,
+      511.3,
+      142.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b006",
+    "text": "be relevant.",
+    "bbox": [
+      72.0,
+      145.1,
+      129.4,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b007",
+    "text": "Note that this step is optional if the model is not primarily intended to test the effect of a",
+    "bbox": [
+      72.0,
+      174.2,
+      494.6,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b008",
+    "text": "response plan (but, for example, its goal is simply that of making it possible to explore",
+    "bbox": [
+      72.0,
+      188.7,
+      488.1,
+      201.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b009",
+    "text": "hypotheses on causal drivers of a crisis).",
+    "bbox": [
+      72.0,
+      203.3,
+      270.6,
+      215.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b010",
+    "text": "Step 2: Model formulation and analysis",
+    "bbox": [
+      72.0,
+      232.4,
+      276.0,
+      244.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b011",
+    "text": "Factors that may directly or indirectly influence an output variable should be identified",
+    "bbox": [
+      72.0,
+      246.9,
+      486.3,
+      259.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b012",
+    "text": "through interviews and/or workshops involving domain experts. Decisions should then be",
+    "bbox": [
+      72.0,
+      261.5,
+      504.0,
+      273.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b013",
+    "text": "made on which factors to include based on relevance and practical considerations. Building",
+    "bbox": [
+      72.0,
+      276.0,
+      515.6,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b014",
+    "text": "on the previous example of an epidemic, even though conflict events may influence the",
+    "bbox": [
+      72.0,
+      290.6,
+      494.8,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b015",
+    "text": "number of deaths from a disease, modelers may decide not to include this variable if such",
+    "bbox": [
+      72.0,
+      305.1,
+      508.3,
+      317.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b016",
+    "text": "events are sparse or not relevant to response plans in the target context.",
+    "bbox": [
+      72.0,
+      319.6,
+      425.2,
+      331.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b017",
+    "text": "Hypotheses on how different factors may influence each other (what causes what, and at",
+    "bbox": [
+      72.0,
+      348.7,
+      503.8,
+      361.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b018",
+    "text": "which delay) should be developed. This step culminates in the formulation of a map or",
+    "bbox": [
+      72.0,
+      363.3,
+      489.7,
+      375.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b019",
+    "text": "causal loop diagram of the causal structure of the problem. Literature review and input from",
+    "bbox": [
+      72.0,
+      377.8,
+      515.6,
+      390.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b020",
+    "text": "domain experts and other stakeholders (in the form of bilateral interviews and workshops)",
+    "bbox": [
+      72.0,
+      392.4,
+      507.0,
+      404.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b021",
+    "text": "are the key instruments to achieving this.",
+    "bbox": [
+      72.0,
+      406.9,
+      271.2,
+      419.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b022",
+    "text": "Technical actors should review available data sources to identify proxies for the qualitative",
+    "bbox": [
+      72.0,
+      436.0,
+      508.9,
+      448.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b023",
+    "text": "variables of interest. If no proxy is available, data may be imputed.",
+    "bbox": [
+      72.0,
+      450.6,
+      394.0,
+      462.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b024",
+    "text": "Step 3: Model validation",
+    "bbox": [
+      72.0,
+      479.7,
+      197.8,
+      491.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b025",
+    "text": "The resulting causal loop diagram and the description of how relevant variables will be",
+    "bbox": [
+      72.0,
+      494.2,
+      491.2,
+      506.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b026",
+    "text": "operationalized quantitatively (i.e., which proxy will be used for each variable, and from",
+    "bbox": [
+      72.0,
+      508.7,
+      493.6,
+      521.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b027",
+    "text": "which datasets this information will be extracted) should be validated by a panel of",
+    "bbox": [
+      72.0,
+      523.3,
+      471.6,
+      535.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b028",
+    "text": "independent experts. This step may lead to changes in the model. Whenever possible, this",
+    "bbox": [
+      72.0,
+      537.8,
+      512.4,
+      550.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b029",
+    "text": "step should follow the guidelines of the Centre’s Peer Review Framework for Predictive",
+    "bbox": [
+      72.0,
+      552.4,
+      495.2,
+      564.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b030",
+    "text": "Analytics in Humanitarian Response.6",
+    "bbox": [
+      72.0,
+      566.7,
+      255.3,
+      579.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b031",
+    "text": "The model should then be validated against available data. If performance is not satisfactory,",
+    "bbox": [
+      72.0,
+      596.0,
+      522.7,
+      608.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b032",
+    "text": "the model may be revised. Ideally, an independent dataset should be kept aside for the final",
+    "bbox": [
+      72.0,
+      610.6,
+      517.3,
+      622.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b033",
+    "text": "validation of the model.",
+    "bbox": [
+      72.0,
+      625.1,
+      185.0,
+      637.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b034",
+    "text": "Step 4: Policy analysis and implementation",
+    "bbox": [
+      72.0,
+      654.2,
+      297.4,
+      666.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b035",
+    "text": "If the model is intended to be deployed as a predictive tool or a scenario exploration tool,",
+    "bbox": [
+      72.0,
+      668.8,
+      502.8,
+      681.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b036",
+    "text": "user-friendly interfaces can be developed to make deployment easier and results more",
+    "bbox": [
+      72.0,
+      683.3,
+      493.0,
+      695.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b037",
+    "text": "intuitive.",
+    "bbox": [
+      72.0,
+      697.9,
+      112.3,
+      710.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b038",
+    "text": "6 Available here:",
+    "bbox": [
+      72.0,
+      739.5,
+      129.6,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b039",
+    "text": "https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/76e488d9-b69d-41bd-927c-116d633bac",
+    "bbox": [
+      72.0,
+      751.8,
+      518.9,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 12,
+    "block_id": "394_p12_b040",
+    "text": "7b/download/peer-review-framework-2020.pdf",
+    "bbox": [
+      72.0,
+      761.0,
+      235.0,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b001",
+    "text": "End users should be briefed on what use cases the model supports, and on the uncertainties",
+    "bbox": [
+      72.0,
+      72.4,
+      523.0,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b002",
+    "text": "and risks involved in its deployment. The level of detail and contents of these briefings will",
+    "bbox": [
+      72.0,
+      86.9,
+      508.1,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b003",
+    "text": "depend on whether end users will deploy the model with or without mediation from technical",
+    "bbox": [
+      72.0,
+      101.5,
+      518.0,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b004",
+    "text": "staff.",
+    "bbox": [
+      72.0,
+      116.0,
+      95.6,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b005",
+    "text": "Finally, the model should be used to provide end users with insights according to the use",
+    "bbox": [
+      72.0,
+      145.1,
+      502.6,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b006",
+    "text": "case defined in step 1 (problem identification and system conceptualization), allowing them",
+    "bbox": [
+      72.0,
+      159.6,
+      513.8,
+      171.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b007",
+    "text": "to test the impact of policies and experiment with different scenarios.",
+    "bbox": [
+      72.0,
+      174.2,
+      404.8,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b008",
+    "text": "Figure 3. Examples of System Dynamics models",
+    "bbox": [
+      77.2,
+      209.3,
+      329.6,
+      221.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b009",
+    "text": "A few System Dynamics models have already been developed in the humanitarian and",
+    "bbox": [
+      77.2,
+      236.5,
+      498.9,
+      248.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b010",
+    "text": "development sectors. A notable example is the model developed by the Internal",
+    "bbox": [
+      77.2,
+      251.0,
+      463.4,
+      263.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b011",
+    "text": "Displacement Monitoring Centre at the Norwegian Refugee Council to simulate how",
+    "bbox": [
+      77.2,
+      265.6,
+      484.2,
+      277.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b012",
+    "text": "displacement in the Horn of Africa is affected by a number of climate and human-induced",
+    "bbox": [
+      77.2,
+      280.1,
+      509.0,
+      292.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b013",
+    "text": "factors7.",
+    "bbox": [
+      77.2,
+      294.5,
+      117.0,
+      306.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b014",
+    "text": "While models and applications in the humanitarian sector are still sparse, System",
+    "bbox": [
+      77.2,
+      323.7,
+      471.9,
+      336.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b015",
+    "text": "Dynamics is more widely used in the development sector. The Millennium Institute has",
+    "bbox": [
+      77.2,
+      338.3,
+      496.2,
+      350.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b016",
+    "text": "supported the development of a number of models which make it possible to perform",
+    "bbox": [
+      77.2,
+      352.8,
+      489.1,
+      365.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b017",
+    "text": "dynamic analyses and policy simulations concerning the achievement of the Sustainable",
+    "bbox": [
+      77.2,
+      367.4,
+      506.8,
+      379.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b018",
+    "text": "Development Goals8.",
+    "bbox": [
+      77.2,
+      381.7,
+      180.5,
+      394.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b019",
+    "text": "Other examples relevant to the humanitarian sector are models such as World3 and",
+    "bbox": [
+      77.2,
+      411.0,
+      484.6,
+      423.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b020",
+    "text": "Threshold21, which are inspired by Donella Meadows’ seminal work on systems thinking.",
+    "bbox": [
+      77.2,
+      425.6,
+      510.0,
+      437.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b021",
+    "text": "These models project scenarios on the dynamics of natural resource availability, climate,",
+    "bbox": [
+      77.2,
+      440.1,
+      507.2,
+      452.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b022",
+    "text": "and socio-economic parameters over long time spans. These two models and related",
+    "bbox": [
+      77.2,
+      454.7,
+      491.3,
+      467.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b023",
+    "text": "simulation interfaces are available online9 .",
+    "bbox": [
+      77.2,
+      465.0,
+      285.0,
+      481.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b024",
+    "text": "9 See Insight Maker, The World3 model. Available here:",
+    "bbox": [
+      72.0,
+      748.7,
+      267.0,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b025",
+    "text": "https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation",
+    "bbox": [
+      72.0,
+      761.0,
+      363.5,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b026",
+    "text": "8 See The Millenium Institute, The Integrated Sustainable Development Goals (iSDG). Available here:",
+    "bbox": [
+      72.0,
+      730.3,
+      429.2,
+      742.3
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b027",
+    "text": "https://www.millennium-institute.org/isdg",
+    "bbox": [
+      72.0,
+      742.6,
+      214.1,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b028",
+    "text": "7 See Internal Displacement Monitoring Centre: Assessing Drought Displacement Risk for Kenyan and Ethiopian pastoralists,",
+    "bbox": [
+      72.0,
+      693.5,
+      512.7,
+      705.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b029",
+    "text": "Available here:",
+    "bbox": [
+      72.0,
+      705.8,
+      124.7,
+      714.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b030",
+    "text": "https://www.internal-displacement.org/publications/assessing-drought-displacement-risk-for-kenyan-ethiopian-and-somali-pasto",
+    "bbox": [
+      72.0,
+      715.0,
+      521.1,
+      723.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 13,
+    "block_id": "394_p13_b031",
+    "text": "ralists",
+    "bbox": [
+      72.0,
+      724.2,
+      92.9,
+      733.1
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b001",
+    "text": "V. What’s next for complex systems modeling?",
+    "bbox": [
+      72.0,
+      72.5,
+      428.2,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b002",
+    "text": "Complex systems modeling is a potentially powerful technique to help improve the",
+    "bbox": [
+      72.0,
+      97.5,
+      471.0,
+      109.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b003",
+    "text": "effectiveness of humanitarian response. To realize this potential, humanitarians must",
+    "bbox": [
+      72.0,
+      112.1,
+      482.8,
+      124.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b004",
+    "text": "address a number of challenges including: identifying suitable target problems; effectively",
+    "bbox": [
+      72.0,
+      126.6,
+      505.6,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b005",
+    "text": "coordinating the multiple actors involved; finding relevant data; and bridging the technical",
+    "bbox": [
+      72.0,
+      141.2,
+      504.0,
+      153.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b006",
+    "text": "gaps that may cause resistance towards adopting these techniques in the context of",
+    "bbox": [
+      72.0,
+      155.7,
+      480.2,
+      168.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b007",
+    "text": "decision making.",
+    "bbox": [
+      72.0,
+      170.2,
+      153.9,
+      182.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b008",
+    "text": "To better understand the potential impact of complex systems modeling techniques in",
+    "bbox": [
+      72.0,
+      199.3,
+      521.9,
+      211.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b009",
+    "text": "the sector, the Centre should coordinate initial pilots for different types of",
+    "bbox": [
+      72.0,
+      213.9,
+      456.8,
+      226.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b010",
+    "text": "humanitarian crises. Due to their highly dynamic nature and their impact on affected",
+    "bbox": [
+      72.0,
+      228.4,
+      487.3,
+      240.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b011",
+    "text": "communities, epidemic disease modeling is a good use case for an initial pilot. More",
+    "bbox": [
+      72.0,
+      243.0,
+      480.8,
+      255.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b012",
+    "text": "specifically, in line with the feasibility, viability and desirable criteria identified in this report,",
+    "bbox": [
+      72.0,
+      257.5,
+      508.4,
+      269.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b013",
+    "text": "the development of a Cholera Response Simulator10 could be a suitable opportunity to",
+    "bbox": [
+      72.0,
+      267.9,
+      490.0,
+      284.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b014",
+    "text": "concretely understand the potential impact of these techniques in the sector. The Centre",
+    "bbox": [
+      72.0,
+      286.6,
+      500.1,
+      298.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b015",
+    "text": "should further explore this opportunity according to the proposed roadmap for development.",
+    "bbox": [
+      72.0,
+      301.2,
+      517.5,
+      313.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b016",
+    "text": "To advance this work, the Centre should develop partnerships with actors from",
+    "bbox": [
+      72.0,
+      330.3,
+      485.3,
+      342.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b017",
+    "text": "technical research environments and the development sector, where complex",
+    "bbox": [
+      72.0,
+      344.8,
+      477.6,
+      357.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b018",
+    "text": "systems modeling is more widely in use. Institutions such as the Millennium Institute and",
+    "bbox": [
+      72.0,
+      359.4,
+      518.0,
+      371.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b019",
+    "text": "consortia such as the Complex Systems Society11 are examples of research partners that",
+    "bbox": [
+      72.0,
+      369.7,
+      505.3,
+      386.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b020",
+    "text": "could help humanitarians to better understand the possibilities offered by complex systems",
+    "bbox": [
+      72.0,
+      388.4,
+      512.3,
+      400.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b021",
+    "text": "modeling.",
+    "bbox": [
+      72.0,
+      403.0,
+      119.7,
+      415.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b022",
+    "text": "The impact of initial pilots and of potential subsequent work on complex system modeling",
+    "bbox": [
+      72.0,
+      432.1,
+      504.6,
+      444.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b023",
+    "text": "conducted at the Centre would benefit from additional in-house expertise and longer-term",
+    "bbox": [
+      72.0,
+      446.6,
+      505.8,
+      458.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b024",
+    "text": "collaborations with technical experts. The Centre should create medium-term (6-12",
+    "bbox": [
+      72.0,
+      461.2,
+      487.4,
+      473.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b025",
+    "text": "months) research fellowships with academic institutions for students with relevant",
+    "bbox": [
+      72.0,
+      475.7,
+      504.4,
+      488.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b026",
+    "text": "technical training in systems modeling or sponsor applied doctoral fellowships which",
+    "bbox": [
+      72.0,
+      490.3,
+      520.3,
+      502.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b027",
+    "text": "would involve sustained collaborations with the Centre on systems modeling",
+    "bbox": [
+      72.0,
+      504.8,
+      475.1,
+      517.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b028",
+    "text": "projects.",
+    "bbox": [
+      72.0,
+      519.4,
+      117.8,
+      531.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b029",
+    "text": "Although complex systems modeling is gaining awareness in the sector, adoption of these",
+    "bbox": [
+      72.0,
+      548.5,
+      508.9,
+      560.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b030",
+    "text": "techniques in humanitarian contexts is still relatively limited. This is due to the level of",
+    "bbox": [
+      72.0,
+      563.0,
+      486.0,
+      575.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b031",
+    "text": "technical expertise required to understand how these methods work and how they can",
+    "bbox": [
+      72.0,
+      577.5,
+      490.6,
+      589.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b032",
+    "text": "inform humanitarian decision making. To support uptake of these techniques within the",
+    "bbox": [
+      72.0,
+      592.1,
+      492.2,
+      604.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b033",
+    "text": "sector (and ideally, in the longer term, their implementation as part of the humanitarian",
+    "bbox": [
+      72.0,
+      606.6,
+      490.9,
+      618.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b034",
+    "text": "planning cycles or the anticipatory action plans), the Centre should coordinate events and",
+    "bbox": [
+      72.0,
+      621.2,
+      522.2,
+      633.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b035",
+    "text": "develop educational resources tailored to humanitarians.",
+    "bbox": [
+      72.0,
+      635.7,
+      370.7,
+      648.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b036",
+    "text": "The Centre should leverage its annual Data Fellows Programme to implement projects",
+    "bbox": [
+      72.0,
+      664.8,
+      522.2,
+      677.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b037",
+    "text": "at the intersection of predictive analytics, data literacy, and data visualization. Projects",
+    "bbox": [
+      72.0,
+      679.4,
+      520.8,
+      691.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b038",
+    "text": "11 The Complex Systems Society is already committed to exploring applications of systems modeling in sectors adjacent to the",
+    "bbox": [
+      72.0,
+      748.7,
+      517.6,
+      760.7
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b039",
+    "text": "humanitarian sector. See: https://www.cnn.group.cam.ac.uk/news/CCS2021-Complex-Systems-for-the-most-vulnerable.",
+    "bbox": [
+      72.0,
+      761.0,
+      494.9,
+      769.9
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b040",
+    "text": "10 As part of this research, we developed a roadmap for the development of a Cholera Response Simulator based on System",
+    "bbox": [
+      72.0,
+      710.7,
+      522.7,
+      723.4
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b041",
+    "text": "Dynamics techniques. We assessed the main data requirements and methodological challenges. This work has been done in",
+    "bbox": [
+      72.0,
+      724.2,
+      522.9,
+      733.1
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b042",
+    "text": "collaboration with a student from the University of Bergen, Norway. More information is available in the GitHub repository linked",
+    "bbox": [
+      72.0,
+      733.4,
+      523.2,
+      742.3
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 14,
+    "block_id": "394_p14_b043",
+    "text": "above.",
+    "bbox": [
+      72.0,
+      742.6,
+      96.0,
+      751.5
+    ],
+    "font_size": 8.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b001",
+    "text": "may be centered on developing educational resources that help humanitarians navigate",
+    "bbox": [
+      72.0,
+      72.4,
+      497.9,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b002",
+    "text": "existing methods and understanding how these methods map onto possible problem spaces",
+    "bbox": [
+      72.0,
+      86.9,
+      519.9,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b003",
+    "text": "and applications. In practice, this could be done by developing a predictive modeling",
+    "bbox": [
+      72.0,
+      101.5,
+      481.4,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b004",
+    "text": "cheat-sheet illustrated by examples, or a set of notebooks (e.g., as Jupyter books, or",
+    "bbox": [
+      72.0,
+      116.0,
+      483.2,
+      128.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b005",
+    "text": "Observable notebooks) which introduces the reader to different techniques through toy",
+    "bbox": [
+      72.0,
+      130.5,
+      492.8,
+      142.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b006",
+    "text": "models. The Centre could also supplement its catalogue of predictive models12 with practical",
+    "bbox": [
+      72.0,
+      140.9,
+      520.5,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b007",
+    "text": "demonstrations of the main models.",
+    "bbox": [
+      72.0,
+      159.6,
+      246.1,
+      171.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b008",
+    "text": "Finally, limited data availability and poor data quality is one of the main barriers to the",
+    "bbox": [
+      72.0,
+      188.7,
+      485.4,
+      201.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b009",
+    "text": "development of complex systems models. The Centre should continue its work on",
+    "bbox": [
+      72.0,
+      203.3,
+      485.5,
+      215.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b010",
+    "text": "closing data gaps and consider how to improve and communicate model accuracy",
+    "bbox": [
+      72.0,
+      217.8,
+      503.2,
+      230.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b011",
+    "text": "through collaboration between modelers and actors in the field.",
+    "bbox": [
+      72.0,
+      232.4,
+      404.3,
+      244.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 15,
+    "block_id": "394_p15_b012",
+    "text": "12 https://centre.humdata.org/catalogue-for-predictive-models-in-the-humanitarian-sector/",
+    "bbox": [
+      72.0,
+      755.0,
+      429.3,
+      769.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b001",
+    "text": "References",
+    "bbox": [
+      72.0,
+      72.5,
+      158.3,
+      90.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b002",
+    "text": "Humanitarian needs assessment",
+    "bbox": [
+      72.0,
+      99.5,
+      243.1,
+      111.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b003",
+    "text": "Global Humanitarian Overview 2021",
+    "bbox": [
+      72.0,
+      114.1,
+      248.6,
+      126.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b004",
+    "text": "HNO - HRP Step by Step Guidance 2021",
+    "bbox": [
+      72.0,
+      138.6,
+      272.8,
+      150.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b005",
+    "text": "Addendum HNO + HRP Guidance",
+    "bbox": [
+      72.0,
+      163.2,
+      238.3,
+      175.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b006",
+    "text": "2021 JIAF Guidance",
+    "bbox": [
+      72.0,
+      187.7,
+      172.2,
+      200.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b007",
+    "text": "General Resources on Complex Systems and Complex Systems modeling methods",
+    "bbox": [
+      72.0,
+      216.8,
+      507.5,
+      229.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b008",
+    "text": "Melanie Mitchell, 2009: Complexity: A guided tour. Oxford University Press.",
+    "bbox": [
+      72.0,
+      231.3,
+      438.0,
+      243.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b009",
+    "text": "Santa Fe Institute “Complexity Explorer”: https://www.complexityexplorer.org",
+    "bbox": [
+      72.0,
+      255.9,
+      445.3,
+      268.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b010",
+    "text": "Complexity Explained: https://complexityexplained.github.io/",
+    "bbox": [
+      72.0,
+      280.4,
+      363.5,
+      292.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b011",
+    "text": "Donella H. Meadows (2008). Thinking in systems: A primer. Chelsea Green Publishing.",
+    "bbox": [
+      72.0,
+      305.0,
+      495.4,
+      317.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b012",
+    "text": "John Sterman, 2000: Business Dynamics, McGraw-Hill",
+    "bbox": [
+      72.0,
+      329.5,
+      339.0,
+      341.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b013",
+    "text": "Complex systems modeling in the humanitarian sector",
+    "bbox": [
+      72.0,
+      358.6,
+      357.9,
+      370.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b014",
+    "text": "Paulo Gonçalves (2008). System dynamics modeling of humanitarian relief operations.",
+    "bbox": [
+      72.0,
+      373.2,
+      493.0,
+      385.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b015",
+    "text": "https://dspace.mit.edu/handle/1721.1/65430",
+    "bbox": [
+      72.0,
+      387.7,
+      285.9,
+      400.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b016",
+    "text": "Irene Monasterolo, Roberto Pasqualino, and Edoardo Mollona (2015). The role of System",
+    "bbox": [
+      72.0,
+      412.3,
+      507.1,
+      424.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b017",
+    "text": "Dynamics modelling to understand food chain complexity and address challenges for",
+    "bbox": [
+      72.0,
+      426.8,
+      484.4,
+      439.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b018",
+    "text": "sustainability policies.",
+    "bbox": [
+      72.0,
+      441.4,
+      177.7,
+      453.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b019",
+    "text": "http://www.fao.org/fileadmin/templates/ags/docs/MUFN/CALL_FILES_EXPERT_2015/CFP3-",
+    "bbox": [
+      72.0,
+      455.9,
+      522.1,
+      468.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b020",
+    "text": "06_Full_Paper.pdf",
+    "bbox": [
+      72.0,
+      470.4,
+      161.2,
+      482.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b021",
+    "text": "Elisa Omodei and Manuel Garcia-Herranz, Complex Systems for the Most Vulnerable:",
+    "bbox": [
+      72.0,
+      498.2,
+      490.3,
+      510.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b022",
+    "text": "https://www.unicef.org/innovation/magicbox/complex-systems-for-most-vulnerable",
+    "bbox": [
+      72.0,
+      512.8,
+      469.1,
+      525.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b023",
+    "text": "Justin Ginnetti and Travis Franck - Norwegian Refugee Council (NRC) Internal Displacement",
+    "bbox": [
+      72.0,
+      537.3,
+      522.3,
+      549.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b024",
+    "text": "Monitoring Center (IDMC) (2014). Assessing drought displacement risk for Kenyan,",
+    "bbox": [
+      72.0,
+      551.9,
+      475.8,
+      564.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b025",
+    "text": "Ethiopian and Somali Pastoralists:",
+    "bbox": [
+      72.0,
+      566.4,
+      238.8,
+      578.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b026",
+    "text": "https://www.internal-displacement.org/sites/default/files/publications/documents/201405-horn",
+    "bbox": [
+      72.0,
+      580.9,
+      522.3,
+      593.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b027",
+    "text": "-of-africa-technical-report-en.pdf",
+    "bbox": [
+      72.0,
+      595.5,
+      229.0,
+      607.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b028",
+    "text": "Matteo Pedercini, Holger Maximilian Kleemann, Nombuso Dlamini, Vangile Dlamini, and",
+    "bbox": [
+      72.0,
+      624.6,
+      499.5,
+      636.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b029",
+    "text": "Birgit Kopainsky (2017), Integrated simulation for national development planning,",
+    "bbox": [
+      72.0,
+      639.1,
+      464.9,
+      651.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b030",
+    "text": "https://www.emerald.com/insight/content/doi/10.1108/K-11-2017-0440/full/html",
+    "bbox": [
+      72.0,
+      653.7,
+      451.0,
+      666.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b031",
+    "text": "Maria Besiou, Orla Stapleton, & and Luk N. Van Wassenhove (2011). System dynamics for",
+    "bbox": [
+      72.0,
+      681.4,
+      512.3,
+      693.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b032",
+    "text": "humanitarian operations.",
+    "bbox": [
+      72.0,
+      696.0,
+      193.0,
+      708.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b033",
+    "text": "https://www.emerald.com/insight/content/doi/10.1108/20426741111122420/full/html",
+    "bbox": [
+      72.0,
+      710.5,
+      473.1,
+      722.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b034",
+    "text": "Allahi, Fahimeh, Sander De Leeuw, Ehsan Sabet, Ramez Kian, Lorenzo Damiani, Pietro",
+    "bbox": [
+      72.0,
+      739.6,
+      500.3,
+      751.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 16,
+    "block_id": "394_p16_b035",
+    "text": "Giribone, Roberto Revetria, and Roberto Cianci. (2018) A review of System Dynamics",
+    "bbox": [
+      72.0,
+      754.2,
+      488.9,
+      766.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b001",
+    "text": "models applied in social and humanitarian researches.",
+    "bbox": [
+      72.0,
+      72.4,
+      337.2,
+      84.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b002",
+    "text": "https://repository.lboro.ac.uk/articles/conference_contribution/A_review_of_system_dynamic",
+    "bbox": [
+      72.0,
+      86.9,
+      519.0,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b003",
+    "text": "s_models_applied_in_social_and_humanitarian_researches/12616550",
+    "bbox": [
+      72.0,
+      101.5,
+      416.1,
+      113.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b004",
+    "text": "Previous years reports",
+    "bbox": [
+      72.0,
+      130.5,
+      191.1,
+      142.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b005",
+    "text": "Peer Review Framework for Predictive Analytics in Humanitarian Response",
+    "bbox": [
+      72.0,
+      145.1,
+      438.6,
+      157.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b006",
+    "text": "Predictive Analytics for Anticipatory Action: Challenges and Opportunities",
+    "bbox": [
+      72.0,
+      169.6,
+      426.4,
+      181.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b007",
+    "text": "Some useful resources for the Cholera Response Simulator pilot",
+    "bbox": [
+      72.0,
+      198.7,
+      409.8,
+      211.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b008",
+    "text": "Russell Harpring, Amin Maghsoudi, Christian Fikar, Wojciech D. Piotrowicz, Graham Heaslip",
+    "bbox": [
+      72.0,
+      213.3,
+      520.2,
+      225.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b009",
+    "text": "(2020), An analysis of compounding factors of epidemics in complex emergencies: a System",
+    "bbox": [
+      72.0,
+      227.8,
+      521.7,
+      240.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b010",
+    "text": "Dynamics approach",
+    "bbox": [
+      72.0,
+      242.4,
+      169.1,
+      254.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b011",
+    "text": "(https://www.emerald.com/insight/content/doi/10.1108/JHLSCM-07-2020-0063/full/pdf?title=a",
+    "bbox": [
+      72.0,
+      256.9,
+      522.4,
+      269.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b012",
+    "text": "n-analysis-of-compounding-factors-of-epidemics-in-complex-emergencies-a-system-dynamic",
+    "bbox": [
+      72.0,
+      271.5,
+      522.8,
+      283.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b013",
+    "text": "s-approach)",
+    "bbox": [
+      72.0,
+      286.0,
+      130.7,
+      298.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b014",
+    "text": "Global Task Force on Cholera Control (GTFCC), Roadmap 2030:",
+    "bbox": [
+      72.0,
+      310.6,
+      388.5,
+      322.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b015",
+    "text": "https://www.gtfcc.org/wp-content/uploads/2019/10/gtfcc-ending-cholera-a-global-roadmap-to",
+    "bbox": [
+      72.0,
+      325.1,
+      519.9,
+      337.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b016",
+    "text": "-2030.pdf",
+    "bbox": [
+      72.0,
+      339.6,
+      118.5,
+      351.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b017",
+    "text": "Andrea Rinaldo, Enrico Bertuzzo, Lorenzo Mari, Lorenzo Righetto, Melanie Blokesch,",
+    "bbox": [
+      72.0,
+      364.2,
+      486.9,
+      376.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b018",
+    "text": "Marino Gatto, Renato Casagrandi, Megan Murray, Silvan M. Vesenbeckh, and Ignacio",
+    "bbox": [
+      72.0,
+      378.7,
+      489.7,
+      391.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b019",
+    "text": "Rodriguez-Iturbe (2012), Reassessment of the 2010–2011 Haiti cholera outbreak and",
+    "bbox": [
+      72.0,
+      393.3,
+      486.7,
+      405.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b020",
+    "text": "rainfall-driven multiseason projections,",
+    "bbox": [
+      72.0,
+      407.8,
+      259.0,
+      420.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b021",
+    "text": "https://www.pnas.org/content/pnas/109/17/6602.full.pdf",
+    "bbox": [
+      72.0,
+      422.4,
+      339.7,
+      434.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b022",
+    "text": "Anton Camacho, Malika Bouhenia, Reema Alyusfi, Abdulhakeem Alkohlani, (2018), Cholera",
+    "bbox": [
+      72.0,
+      451.5,
+      518.7,
+      463.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b023",
+    "text": "epidemic in Yemen, 2016-18: an analysis of surveillance data",
+    "bbox": [
+      72.0,
+      466.0,
+      370.0,
+      478.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b024",
+    "text": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30230-4/fulltext",
+    "bbox": [
+      72.0,
+      480.6,
+      478.3,
+      492.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b025",
+    "text": "Yonatan H. Grad, Joel C. Miller, Marc Lipsitch (2013), Cholera Modeling: Challenges to",
+    "bbox": [
+      72.0,
+      505.1,
+      493.8,
+      517.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b026",
+    "text": "Quantitative Analysis and Predicting the Impact of Interventions,",
+    "bbox": [
+      72.0,
+      519.7,
+      383.6,
+      531.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b027",
+    "text": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3380087/",
+    "bbox": [
+      72.0,
+      534.2,
+      345.7,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b028",
+    "text": "Dennis L. Chao, Ira M. Longini Jr., J. Glenn Morris Jr., (2014), Modeling cholera outbreaks,",
+    "bbox": [
+      72.0,
+      558.7,
+      512.5,
+      571.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "394",
+    "page_number": 17,
+    "block_id": "394_p17_b029",
+    "text": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238032/",
+    "bbox": [
+      72.0,
+      573.3,
+      345.7,
+      585.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  }
+]

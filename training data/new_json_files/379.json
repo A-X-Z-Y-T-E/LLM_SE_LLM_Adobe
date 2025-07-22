@@ -1,0 +1,4247 @@
+[
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b001",
+    "text": "Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      115.2,
+      199.0,
+      127.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Univers-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b002",
+    "text": "Administrator of National Banks",
+    "bbox": [
+      72.0,
+      127.2,
+      216.5,
+      139.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Univers-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b003",
+    "text": "Washington, D.C.  20219",
+    "bbox": [
+      72.0,
+      144.5,
+      190.8,
+      156.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Univers",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b004",
+    "text": "Corporate Decision #97-72",
+    "bbox": [
+      339.8,
+      171.4,
+      540.0,
+      190.1
+    ],
+    "font_size": 15.8,
+    "font_name": "Arial-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b005",
+    "text": "August 1997",
+    "bbox": [
+      446.4,
+      190.6,
+      540.1,
+      209.3
+    ],
+    "font_size": 15.8,
+    "font_name": "Arial-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b006",
+    "text": "DECISION OF THE OFFICE OF THE COMPTROLLER OF THE CURRENCY",
+    "bbox": [
+      93.6,
+      223.9,
+      518.4,
+      238.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b007",
+    "text": "ON THE APPLICATION TO MERGE",
+    "bbox": [
+      204.5,
+      238.3,
+      407.8,
+      252.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b008",
+    "text": "FIRST AMERICAN BANK, N.A., LISBON, NORTH DAKOTA,",
+    "bbox": [
+      135.4,
+      252.7,
+      476.9,
+      266.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b009",
+    "text": "WITH AND INTO",
+    "bbox": [
+      257.3,
+      267.1,
+      354.7,
+      281.3
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b010",
+    "text": "FIRST AMERICAN BANK, N.A., MOORHEAD, MINNESOTA",
+    "bbox": [
+      136.6,
+      281.5,
+      475.7,
+      295.7
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b011",
+    "text": "July 21, 1997",
+    "bbox": [
+      271.4,
+      310.3,
+      340.5,
+      324.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b012",
+    "text": "_____________________________________________________________________________",
+    "bbox": [
+      75.1,
+      324.7,
+      537.1,
+      338.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b013",
+    "text": "INTRODUCTION",
+    "bbox": [
+      108.0,
+      353.5,
+      203.5,
+      367.7
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b014",
+    "text": "On May 21, 1997, an Application was filed with the Office of the Comptroller of the",
+    "bbox": [
+      108.0,
+      382.3,
+      540.0,
+      396.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b015",
+    "text": "Currency (\"OCC\") for approval to merge First American Bank, National Association, Lisbon,",
+    "bbox": [
+      72.0,
+      396.7,
+      539.9,
+      410.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b016",
+    "text": "North Dakota (\"Lisbon Bank\") with and into First American Bank, National Association,",
+    "bbox": [
+      72.0,
+      411.1,
+      539.9,
+      425.3
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b017",
+    "text": "Moorhead, Minnesota (\"Moorhead Bank\"), under the charter and title of the latter, under 12",
+    "bbox": [
+      72.0,
+      425.5,
+      540.0,
+      439.7
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b018",
+    "text": "U.S.C. §§ 215a-1, 1828(c) & 1831u(a) (\"the Merger Application\").  Moorhead Bank has its main",
+    "bbox": [
+      72.0,
+      439.9,
+      540.0,
+      454.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b019",
+    "text": "office in Moorhead, Minnesota.  It also has a branch in Moorhead, Minnesota.  Lisbon Bank has",
+    "bbox": [
+      72.0,
+      454.3,
+      540.0,
+      468.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b020",
+    "text": "its main office in Lisbon, North Dakota, and operates branches in North Dakota.  In the Merger",
+    "bbox": [
+      72.0,
+      468.7,
+      540.0,
+      482.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b021",
+    "text": "Application, OCC approval is also requested for the resulting bank to retain Moorhead Bank's",
+    "bbox": [
+      72.0,
+      483.1,
+      540.1,
+      497.3
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b022",
+    "text": "main office as the main office of the resulting bank under 12 U.S.C. § 1831u(d)(1), and to retain",
+    "bbox": [
+      72.0,
+      497.5,
+      540.0,
+      511.7
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b023",
+    "text": "Moorhead Bank's branch and Lisbon Bank's main office and branches, as branches after the",
+    "bbox": [
+      72.0,
+      511.9,
+      540.0,
+      526.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b024",
+    "text": "merger under 12 U.S.C. §§ 36(d) & 1831u(d)(1).",
+    "bbox": [
+      72.0,
+      526.3,
+      317.0,
+      540.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b025",
+    "text": "Both Lisbon Bank and Moorhead Bank are subsidiaries of Bremer Financial Corporation",
+    "bbox": [
+      108.0,
+      555.1,
+      540.0,
+      569.3
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b026",
+    "text": "(\"Bremer\"), a multistate bank holding company headquartered in St. Paul, Minnesota.  In the",
+    "bbox": [
+      72.0,
+      569.5,
+      540.0,
+      583.7
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b027",
+    "text": "proposed merger, two of Bremer's existing bank subsidiaries will be combined into one bank with",
+    "bbox": [
+      72.0,
+      583.9,
+      540.0,
+      598.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b028",
+    "text": "branches.  As of March 31, 1997, the Lisbon Bank had approximately $91.8 million in assets and",
+    "bbox": [
+      72.0,
+      598.3,
+      540.0,
+      612.5
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b029",
+    "text": "$75.8 million in deposits.  As of the same date, the Moorhead Bank had approximately $3.6",
+    "bbox": [
+      72.0,
+      612.7,
+      540.0,
+      626.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b030",
+    "text": "million in assets and $343,000 in deposits.",
+    "bbox": [
+      72.0,
+      627.1,
+      281.3,
+      641.3
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b031",
+    "text": "II.",
+    "bbox": [
+      72.0,
+      655.9,
+      85.2,
+      670.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b032",
+    "text": "LEGAL AUTHORITY",
+    "bbox": [
+      108.0,
+      655.9,
+      227.0,
+      670.1
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 1,
+    "block_id": "379_p1_b033",
+    "text": "The Interstate Merger is Authorized under 12 U.S.C. §§ 215a-1 & 1831u.",
+    "bbox": [
+      108.0,
+      684.7,
+      491.5,
+      698.9
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b001",
+    "text": "- 2 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b002",
+    "text": "For purposes of section 1831u, the following definitions apply:  The term \"home State\" means, with respect",
+    "bbox": [
+      110.4,
+      636.4,
+      540.0,
+      648.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b003",
+    "text": "to a national bank, \"the State in which the main office of the bank is located.\"  The term \"host State\" means, \"with",
+    "bbox": [
+      72.0,
+      648.4,
+      540.1,
+      660.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b004",
+    "text": "respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and",
+    "bbox": [
+      72.0,
+      660.4,
+      540.1,
+      672.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b005",
+    "text": "maintain, a branch.\"  The term \"interstate merger transaction\" means any merger transaction approved pursuant to section",
+    "bbox": [
+      72.0,
+      672.4,
+      540.1,
+      684.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b006",
+    "text": "1831u(a)(1).  The term \"out-of-State bank\" means, \"with respect to any State, a bank whose home State is another State.\"",
+    "bbox": [
+      72.0,
+      684.4,
+      540.0,
+      696.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b007",
+    "text": "The term \"responsible agency\" means the agency determined in accordance with 12 U.S.C. § 1828(c)(2) (namely, the",
+    "bbox": [
+      72.0,
+      696.4,
+      540.0,
+      708.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b008",
+    "text": "OCC if the acquiring, assuming, or resulting bank is a national bank).  See 12 U.S.C. § 1831u(f)(4), (5), (6), (8) & (10).",
+    "bbox": [
+      72.0,
+      708.4,
+      540.0,
+      720.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b009",
+    "text": "In 1994, Congress enacted legislation to create a framework for interstate mergers and",
+    "bbox": [
+      108.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b010",
+    "text": "branching by banks.  See Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994,",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b011",
+    "text": "Pub. L. No. 103-328, 108 Stat. 2338 (enacted September 29, 1994) (\"the Riegle-Neal Act\").  The",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b012",
+    "text": "Riegle-Neal Act added a new section 44 to the Federal Deposit Insurance Act that authorizes",
+    "bbox": [
+      72.0,
+      120.2,
+      540.1,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b013",
+    "text": "certain interstate merger transactions beginning on June 1, 1997.  See Riegle-Neal Act § 102(a)",
+    "bbox": [
+      72.0,
+      134.6,
+      540.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b014",
+    "text": "(adding new section 44, 12 U.S.C. § 1831u).  It also made conforming amendments to the",
+    "bbox": [
+      72.0,
+      149.0,
+      540.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b015",
+    "text": "provisions on mergers and consolidations of national banks to permit national banks to engage in",
+    "bbox": [
+      72.0,
+      163.4,
+      540.0,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b016",
+    "text": "such section 44 interstate merger transactions.  See Riegle-Neal Act § 102(b)(4) (adding a new",
+    "bbox": [
+      72.0,
+      177.8,
+      540.0,
+      192.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b017",
+    "text": "section, codified at 12 U.S.C. § 215a-1).  It also added a similar conforming amendment to the",
+    "bbox": [
+      72.0,
+      192.2,
+      540.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b018",
+    "text": "McFadden Act to permit national banks to maintain and operate branches in accordance with",
+    "bbox": [
+      72.0,
+      206.6,
+      540.0,
+      220.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b019",
+    "text": "section 44.  See Riegle-Neal Act § 102(b)(1)(B) (adding new subsection 12 U.S.C. § 36(d)).",
+    "bbox": [
+      72.0,
+      221.0,
+      527.7,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b020",
+    "text": "Section 44 authorizes mergers between banks with different home states:",
+    "bbox": [
+      108.0,
+      249.8,
+      464.6,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b021",
+    "text": "(1)  In General. -- Beginning on June 1, 1997, the responsible agency may",
+    "bbox": [
+      108.0,
+      278.6,
+      504.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b022",
+    "text": "approve a merger transaction under section 18(c) [12 U.S.C. § 1828(c), the Bank",
+    "bbox": [
+      108.0,
+      293.0,
+      504.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b023",
+    "text": "Merger Act] between insured banks with different home States, without regard to",
+    "bbox": [
+      108.0,
+      307.4,
+      504.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b024",
+    "text": "whether such transaction is prohibited under the law of any State.",
+    "bbox": [
+      108.0,
+      321.8,
+      429.8,
+      336.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b025",
+    "text": "12 U.S.C. § 1831u(a)(1).   The Act permits a state to elect to prohibit such interstate merger",
+    "bbox": [
+      72.0,
+      350.6,
+      540.1,
+      364.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b026",
+    "text": "transactions involving a bank whose home state is the prohibiting state by enacting a law between",
+    "bbox": [
+      72.0,
+      365.0,
+      540.0,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b027",
+    "text": "September 29, 1994, and May 31, 1997, that expressly prohibits all mergers with all out-of-state",
+    "bbox": [
+      72.0,
+      379.4,
+      540.0,
+      393.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b028",
+    "text": "banks.  See 12 U.S.C. § 1831u(a)(2) (state \"opt-out\" laws).  In this Merger Application, the home",
+    "bbox": [
+      72.0,
+      393.8,
+      540.0,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b029",
+    "text": "states of the banks are Minnesota and North Dakota; neither state has opted out.  Accordingly,",
+    "bbox": [
+      72.0,
+      408.2,
+      540.0,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b030",
+    "text": "this Merger Application may be approved under 12 U.S.C. §§ 215a-1 & 1831u(a).",
+    "bbox": [
+      72.0,
+      422.6,
+      483.1,
+      436.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b031",
+    "text": "In addition, an application to engage in an interstate merger transaction under 12 U.S.C.",
+    "bbox": [
+      108.0,
+      451.4,
+      540.0,
+      465.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b032",
+    "text": "§ 1831u is also subject to certain requirements and conditions set forth in sections 1831u(a)(5) and",
+    "bbox": [
+      72.0,
+      465.8,
+      540.0,
+      480.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b033",
+    "text": "1831u(b) of the Riegle-Neal Act.  These conditions are: (1) compliance with state-imposed age",
+    "bbox": [
+      72.0,
+      480.2,
+      540.0,
+      494.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b034",
+    "text": "limits, if any, subject to the Act’s limits; (2) compliance with certain state filing requirements,",
+    "bbox": [
+      72.0,
+      494.6,
+      539.9,
+      508.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b035",
+    "text": "to the extent the filing requirements are permitted in the Act; (3) compliance with nationwide and",
+    "bbox": [
+      72.0,
+      509.0,
+      540.0,
+      523.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b036",
+    "text": "state concentration limits; (4) community reinvestment compliance; and (5) adequacy of capital",
+    "bbox": [
+      72.0,
+      523.4,
+      540.0,
+      537.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b037",
+    "text": "and management skills.",
+    "bbox": [
+      72.0,
+      537.8,
+      186.9,
+      552.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b038",
+    "text": "The Merger Application satisfies all these conditions to the extent applicable.  First, the",
+    "bbox": [
+      108.0,
+      566.6,
+      540.0,
+      580.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b039",
+    "text": "proposal satisfies the state-imposed age requirements permitted by section 1831u(a)(5).  Under",
+    "bbox": [
+      72.0,
+      581.0,
+      540.1,
+      595.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 2,
+    "block_id": "379_p2_b040",
+    "text": "that section, the OCC may not approve a merger under section 1831u(a)(1) \"that would have the",
+    "bbox": [
+      72.0,
+      595.4,
+      540.0,
+      609.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b001",
+    "text": "- 3 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b002",
+    "text": "Under this provision, states are permitted to impose a filing requirement on out-of-state banks that will operate",
+    "bbox": [
+      110.4,
+      564.4,
+      540.1,
+      576.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b003",
+    "text": "branches in the state as a result of an interstate merger transaction under the Riegle-Neal Act, but the states may impose",
+    "bbox": [
+      72.0,
+      576.4,
+      540.0,
+      588.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b004",
+    "text": "only those requirements that are within the terms specified.  Since Congress has specifically set forth and limited what",
+    "bbox": [
+      72.0,
+      588.4,
+      540.0,
+      600.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b005",
+    "text": "state filing requirements apply for these interstate transactions, it clearly intended that only those requirements would",
+    "bbox": [
+      72.0,
+      600.4,
+      540.1,
+      612.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b006",
+    "text": "apply, and the states may not impose others.  Thus, in a transaction involving only national banks, only the filing",
+    "bbox": [
+      72.0,
+      612.4,
+      540.1,
+      624.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b007",
+    "text": "requirements allowed under section 1831u(b)(1) must be complied with.  However, where a state bank is involved, a state",
+    "bbox": [
+      72.0,
+      624.4,
+      540.1,
+      636.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b008",
+    "text": "may continue to have authority to impose greater requirements on its own state-chartered banks, because of the",
+    "bbox": [
+      72.0,
+      636.4,
+      540.0,
+      648.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b009",
+    "text": "reservation of authority in section 1831u(c)(3).  Moreover, as a general matter, national banks are formed and",
+    "bbox": [
+      72.0,
+      648.4,
+      540.1,
+      660.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b010",
+    "text": "incorporated under, and governed by, federal law.  Their authority to enter mergers, to establish branches, or to undergo",
+    "bbox": [
+      72.0,
+      660.4,
+      540.1,
+      672.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b011",
+    "text": "other changes in their corporate existence is determined by federal law, not state law; and any requisite approval is by",
+    "bbox": [
+      72.0,
+      672.4,
+      540.1,
+      684.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b012",
+    "text": "the OCC, not state authorities.  For a fuller discussion of this subject, see, e.g., Decision on the Applications to Merge",
+    "bbox": [
+      72.0,
+      684.4,
+      540.1,
+      696.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b013",
+    "text": "First Interstate Banks into Wells Fargo Bank, N.A. (OCC Corporate Decision No. 96-29, June 1, 1996) (at pages 4-5,",
+    "bbox": [
+      72.0,
+      696.4,
+      540.0,
+      708.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b014",
+    "text": "12-14 & note 11).",
+    "bbox": [
+      72.0,
+      708.4,
+      143.8,
+      720.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b015",
+    "text": "effect of permitting an out-of-State bank or out-of-State bank holding company to acquire a bank",
+    "bbox": [
+      72.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b016",
+    "text": "in a host state that has not been in existence for the minimum period of time, if any, specified in",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b017",
+    "text": "the statutory law of the host State.\"  12 U.S.C. § 1831u(a)(5)(A).  In this Merger Application,",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b018",
+    "text": "Moorhead Bank is acquiring by merger a bank (Lisbon Bank) in the host state of North Dakota.",
+    "bbox": [
+      72.0,
+      120.2,
+      540.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b019",
+    "text": "The statutory laws of North Dakota do not contain any minimum age requirement.  Thus, the",
+    "bbox": [
+      72.0,
+      134.6,
+      540.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b020",
+    "text": "Lisbon Bank/Moorhead Bank merger satisfies the Riegle-Neal Act requirement of compliance with",
+    "bbox": [
+      72.0,
+      149.0,
+      540.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b021",
+    "text": "state age laws.",
+    "bbox": [
+      72.0,
+      163.4,
+      143.5,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b022",
+    "text": "Second, the proposal meets the applicable filing requirements.  A bank applying for an",
+    "bbox": [
+      108.0,
+      192.2,
+      540.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b023",
+    "text": "interstate merger transaction under section 1831u(a) must (1) \"comply with the filing requirements",
+    "bbox": [
+      72.0,
+      206.6,
+      540.0,
+      220.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b024",
+    "text": "of any host State of the bank which will result from such transaction\" as long as the filing",
+    "bbox": [
+      72.0,
+      221.0,
+      540.0,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b025",
+    "text": "requirement does not discriminate against out-of-state banks and is similar in effect to filing",
+    "bbox": [
+      72.0,
+      235.4,
+      540.0,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b026",
+    "text": "requirements imposed by the host state on out-of-state nonbanking corporations doing business in",
+    "bbox": [
+      72.0,
+      249.8,
+      540.0,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b027",
+    "text": "the host state, and (2) submit a copy of the application to the state bank supervisor of the host",
+    "bbox": [
+      72.0,
+      264.2,
+      540.0,
+      278.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b028",
+    "text": "state.  See 12 U.S.C. § 1831u(b)(1).   The North Dakota interstate banking statute provides that",
+    "bbox": [
+      72.0,
+      278.6,
+      540.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b029",
+    "text": "an \"out-of-state bank that will be the resulting bank pursuant to an interstate merger involving a",
+    "bbox": [
+      72.0,
+      293.0,
+      540.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b030",
+    "text": "North Dakota bank must notify and submit a copy of its interstate merger application to the board",
+    "bbox": [
+      72.0,
+      307.4,
+      540.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b031",
+    "text": "of the proposed merger not later than the date on which it files the application with the responsible",
+    "bbox": [
+      72.0,
+      321.8,
+      540.0,
+      336.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b032",
+    "text": "federal regulatory authority.\"  N.D. Cent. Code § 6-08.4-05 (1996).  As implemented to date,",
+    "bbox": [
+      72.0,
+      336.2,
+      540.0,
+      350.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b033",
+    "text": "the filing requirements of section 6-08.4-05 do not appear to discriminate against out-of-state",
+    "bbox": [
+      72.0,
+      350.6,
+      540.0,
+      364.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b034",
+    "text": "banks or to impose a filing requirement more burdensome than that imposed on nonbanking",
+    "bbox": [
+      72.0,
+      365.0,
+      540.0,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b035",
+    "text": "corporations.  Moorhead Bank provided a copy of its OCC Merger Application to the North",
+    "bbox": [
+      72.0,
+      379.4,
+      540.0,
+      393.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b036",
+    "text": "Dakota state bank supervisor.  Thus, the Lisbon Bank/Moorhead Bank merger satisfies the Riegle-",
+    "bbox": [
+      72.0,
+      393.8,
+      540.0,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b037",
+    "text": "Neal Act requirement of compliance with state filing requirements.",
+    "bbox": [
+      72.0,
+      408.2,
+      401.3,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b038",
+    "text": "Third, the proposed interstate merger transaction does not raise issues with respect to the",
+    "bbox": [
+      108.0,
+      437.0,
+      540.0,
+      451.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b039",
+    "text": "deposit concentration limits of the Riegle-Neal Act.  Section 1831u(b)(2) places certain nationwide",
+    "bbox": [
+      72.0,
+      451.4,
+      540.0,
+      465.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b040",
+    "text": "and statewide deposit concentration limits on section 1831u(a) interstate merger transactions.",
+    "bbox": [
+      72.0,
+      465.8,
+      539.9,
+      480.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b041",
+    "text": "However, interstate merger transactions involving only affiliated banks are specifically excepted",
+    "bbox": [
+      72.0,
+      480.2,
+      540.0,
+      494.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b042",
+    "text": "from these provisions.  See 12 U.S.C. § 1831u(b)(2)(E).  Lisbon Bank and Moorhead Bank are",
+    "bbox": [
+      72.0,
+      494.6,
+      540.0,
+      508.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 3,
+    "block_id": "379_p3_b043",
+    "text": "affiliates; thus section 1831u(b)(2) is not applicable to this merger.",
+    "bbox": [
+      72.0,
+      509.0,
+      400.3,
+      523.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b001",
+    "text": "- 4 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b002",
+    "text": "Fourth, the proposed interstate merger transaction also does not raise issues with respect",
+    "bbox": [
+      108.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b003",
+    "text": "to the special community reinvestment compliance provisions of the Riegle-Neal Act.  In",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b004",
+    "text": "determining whether to approve an application for an interstate merger transaction under section",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b005",
+    "text": "1831u(a), the OCC must (1) comply with its responsibilities under section 804 of the federal",
+    "bbox": [
+      72.0,
+      120.2,
+      540.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b006",
+    "text": "Community Reinvestment Act (\"CRA\"), 12 U.S.C. § 2903, (2) take into account the CRA",
+    "bbox": [
+      72.0,
+      134.6,
+      540.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b007",
+    "text": "evaluations of any bank which would be an affiliate of the resulting bank, and (3) take into",
+    "bbox": [
+      72.0,
+      149.0,
+      540.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b008",
+    "text": "account the applicant banks' record of compliance with applicable state community reinvestment",
+    "bbox": [
+      72.0,
+      163.4,
+      540.0,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b009",
+    "text": "laws.  See 12 U.S.C. § 1831u(b)(3).  However, this provision does not apply to mergers between",
+    "bbox": [
+      72.0,
+      177.8,
+      540.0,
+      192.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b010",
+    "text": "affiliated banks since it applies only \"for an interstate merger transaction in which the resulting",
+    "bbox": [
+      72.0,
+      192.2,
+      540.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b011",
+    "text": "bank would have a branch or bank affiliate immediately following the transaction in any State in",
+    "bbox": [
+      72.0,
+      206.6,
+      540.0,
+      220.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b012",
+    "text": "which the bank submitting the application (as the acquiring bank) had no branch or bank affiliate",
+    "bbox": [
+      72.0,
+      221.0,
+      540.0,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b013",
+    "text": "immediately before the transaction.\"  12 U.S.C. § 1831u(b)(3).  See also H.R. Conf. Rep. No.",
+    "bbox": [
+      72.0,
+      235.4,
+      540.0,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b014",
+    "text": "651, 103d Cong., 2d Sess. 52 (1994).  In this Merger Application, Moorhead Bank (the bank",
+    "bbox": [
+      72.0,
+      249.8,
+      540.0,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b015",
+    "text": "submitting the application as the acquiring bank) has a bank affiliate in North Dakota before the",
+    "bbox": [
+      72.0,
+      264.2,
+      540.0,
+      278.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b016",
+    "text": "transaction (i.e., Lisbon Bank), and is also not otherwise obtaining a branch or bank affiliate in",
+    "bbox": [
+      72.0,
+      278.6,
+      540.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b017",
+    "text": "any state in which it did not have a branch or bank affiliate before.  Thus, this Riegle-Neal Act",
+    "bbox": [
+      72.0,
+      293.0,
+      540.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b018",
+    "text": "provision is not applicable to the Merger Application.  However, the Community Reinvestment",
+    "bbox": [
+      72.0,
+      307.4,
+      540.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b019",
+    "text": "Act itself is applicable, as discussed below, see Part III-B.",
+    "bbox": [
+      72.0,
+      321.8,
+      358.5,
+      336.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b020",
+    "text": "Fifth, the proposal satisfies the adequacy of capital and management skills requirements",
+    "bbox": [
+      108.0,
+      350.6,
+      540.0,
+      364.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b021",
+    "text": "in the Riegle-Neal Act.  The OCC may approve an application for an interstate merger transaction",
+    "bbox": [
+      72.0,
+      365.0,
+      540.0,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b022",
+    "text": "under section 1831u(a) only if each bank involved in the transaction is adequately capitalized as",
+    "bbox": [
+      72.0,
+      379.4,
+      540.0,
+      393.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b023",
+    "text": "of the date the application is filed and the resulting bank will continue to be adequately capitalized",
+    "bbox": [
+      72.0,
+      393.8,
+      540.0,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b024",
+    "text": "and adequately managed upon consummation of the transaction.  See 12 U.S.C. § 1831u(b)(4).",
+    "bbox": [
+      72.0,
+      408.2,
+      540.0,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b025",
+    "text": "As of the date the application was filed, both Lisbon Bank and Moorhead Bank satisfied all",
+    "bbox": [
+      72.0,
+      422.6,
+      540.0,
+      436.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b026",
+    "text": "regulatory and supervisory requirements relating to adequate capitalization.  Currently, each bank",
+    "bbox": [
+      72.0,
+      437.0,
+      540.0,
+      451.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b027",
+    "text": "is at least satisfactorily managed.  The OCC has also determined that, following the merger,",
+    "bbox": [
+      72.0,
+      451.4,
+      539.9,
+      465.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b028",
+    "text": "Moorhead Bank will continue to exceed the standards for an adequately capitalized and adequately",
+    "bbox": [
+      72.0,
+      465.8,
+      540.0,
+      480.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b029",
+    "text": "managed bank.  The requirements of 12 U.S.C. § 1831u(b)(4) are therefore satisfied.",
+    "bbox": [
+      72.0,
+      480.2,
+      492.5,
+      494.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b030",
+    "text": "Accordingly, the proposed interstate merger transaction between Lisbon Bank and",
+    "bbox": [
+      108.0,
+      509.0,
+      540.0,
+      523.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b031",
+    "text": "Moorhead Bank is legally permissible under section 1831u.",
+    "bbox": [
+      72.0,
+      523.4,
+      363.1,
+      537.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b032",
+    "text": "Following the Merger, the Resulting Bank May Retain Moorhead Bank's and Lisbon",
+    "bbox": [
+      108.0,
+      552.2,
+      540.0,
+      566.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b033",
+    "text": "Bank's Existing Main Offices and Branches under 12 U.S.C. §§ 36(d) & 1831u(d)(1).",
+    "bbox": [
+      108.0,
+      566.6,
+      539.9,
+      580.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b034",
+    "text": "The Applicants have requested that, upon the completion of the merger, Moorhead Bank",
+    "bbox": [
+      108.0,
+      595.4,
+      540.0,
+      609.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b035",
+    "text": "(as the resulting bank in the merger) be permitted to retain and continue to operate its existing",
+    "bbox": [
+      72.0,
+      609.8,
+      540.0,
+      624.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b036",
+    "text": "main office in Moorhead, Minnesota, as the main office of the resulting bank, and to retain and",
+    "bbox": [
+      72.0,
+      624.2,
+      540.0,
+      638.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 4,
+    "block_id": "379_p4_b037",
+    "text": "operate as branches (1) its own branch and (2) the main office and branches of Lisbon Bank in",
+    "bbox": [
+      72.0,
+      638.6,
+      540.0,
+      652.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b001",
+    "text": "- 5 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b002",
+    "text": "Lisbon Bank has received approval to open a branch in Fargo, North Dakota, which will not open prior to",
+    "bbox": [
+      110.9,
+      480.4,
+      540.1,
+      492.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b003",
+    "text": "the merger.  North Dakota law permits state-wide branching. N.D. Cent. Code § 6-03-13.1 (1996).  We note that after",
+    "bbox": [
+      72.0,
+      492.4,
+      540.0,
+      504.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b004",
+    "text": "the merger, Moorhead Bank, by virtue of its branches in North Dakota, would be authorized to establish and operate this",
+    "bbox": [
+      72.0,
+      504.4,
+      540.1,
+      516.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b005",
+    "text": "branch under 12 U.S.C. § 36(c).  As a result, the unopened branch will continue to be approved by the OCC after the",
+    "bbox": [
+      72.0,
+      516.4,
+      540.1,
+      528.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b006",
+    "text": "merger.",
+    "bbox": [
+      72.0,
+      528.4,
+      103.7,
+      540.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b007",
+    "text": "By its action in adding section 36(d), Congress made it clear that section 44(d)(1) is an express and complete",
+    "bbox": [
+      110.4,
+      552.4,
+      540.0,
+      564.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b008",
+    "text": "grant of office-retention authority for interstate merger transactions effected under section 44 and that it operates",
+    "bbox": [
+      72.0,
+      564.4,
+      540.0,
+      576.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b009",
+    "text": "independently of the provisions for branch retention in mergers under 12 U.S.C. § 36(b)(2).  Neither section 36(d) nor",
+    "bbox": [
+      72.0,
+      576.4,
+      540.0,
+      588.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b010",
+    "text": "section 1831u(d)(1) refers to section 36(b)(2).  Congress clearly was aware of the McFadden Act's existing provisions",
+    "bbox": [
+      72.0,
+      588.4,
+      540.0,
+      600.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b011",
+    "text": "for branch retention in mergers at the time it acted on section 44 and the way in which those provisions applied for",
+    "bbox": [
+      72.0,
+      600.4,
+      540.0,
+      612.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b012",
+    "text": "interstate national banks, since the OCC had approved interstate main office relocation transactions that also involved",
+    "bbox": [
+      72.0,
+      612.4,
+      540.1,
+      624.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b013",
+    "text": "mergers with affiliate banks in which the resulting bank's authority to retain branches was based on section 36(b)(2).",
+    "bbox": [
+      72.0,
+      624.4,
+      539.9,
+      636.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b014",
+    "text": "The Conference Report to the Riegle-Neal Act makes reference to such OCC decisions.  See H.R. Conf. Rep. No. 651,",
+    "bbox": [
+      72.0,
+      636.4,
+      540.0,
+      648.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b015",
+    "text": "103d Cong., 2d Sess. 57 (1994).  By expressly providing for office-retention in section 1831u(d)(1) and then",
+    "bbox": [
+      72.0,
+      648.4,
+      540.1,
+      660.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b016",
+    "text": "incorporating that into the McFadden Act in section 36(d), Congress clearly intended that those provisions apply to branch",
+    "bbox": [
+      72.0,
+      660.4,
+      540.1,
+      672.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b017",
+    "text": "retention in interstate merger transactions under section 1831u, rather than the complex branch retention provisions of",
+    "bbox": [
+      72.0,
+      672.4,
+      540.1,
+      684.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b018",
+    "text": "section 36(b)(2).  Of course, section 36(b)(2) continues to govern branch retention in national bank mergers that are not",
+    "bbox": [
+      72.0,
+      684.4,
+      540.1,
+      696.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b019",
+    "text": "entered into under section 1831u, including mergers involving an interstate bank (such as a merger of an interstate bank",
+    "bbox": [
+      72.0,
+      696.4,
+      540.1,
+      708.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b020",
+    "text": "into another national bank in its home state).",
+    "bbox": [
+      72.0,
+      708.4,
+      248.7,
+      720.0
+    ],
+    "font_size": 9.8,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b021",
+    "text": "North Dakota .  In an interstate merger transaction under section 1831u, the resulting bank's",
+    "bbox": [
+      72.0,
+      77.0,
+      540.1,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b022",
+    "text": "retention and continued operation of the offices of the merging banks is expressly provided for:",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b023",
+    "text": "(1)  Continued Operations. -- A resulting bank may, subject to the approval of",
+    "bbox": [
+      108.0,
+      120.2,
+      504.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b024",
+    "text": "the appropriate Federal banking agency, retain and operate, as a main office or a",
+    "bbox": [
+      108.0,
+      134.6,
+      504.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b025",
+    "text": "branch, any office that any bank involved in an interstate merger transaction was",
+    "bbox": [
+      108.0,
+      149.0,
+      504.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b026",
+    "text": "operating as a main office or a branch immediately before the merger transaction.",
+    "bbox": [
+      108.0,
+      163.4,
+      504.0,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b027",
+    "text": "12 U.S.C. § 1831u(d)(1).  The resulting bank is the \"bank that has resulted from an interstate",
+    "bbox": [
+      72.0,
+      192.2,
+      540.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b028",
+    "text": "merger transaction under this section [section 1831u(a)].\"  12 U.S.C. § 1831u(f)(11).  In addition,",
+    "bbox": [
+      72.0,
+      206.6,
+      540.0,
+      220.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b029",
+    "text": "Congress also added a conforming amendment to the McFadden Act to emphasize that branch",
+    "bbox": [
+      72.0,
+      221.0,
+      540.0,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b030",
+    "text": "retention in an interstate merger transaction under section 1831u occurs under the authority of",
+    "bbox": [
+      72.0,
+      235.4,
+      539.9,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b031",
+    "text": "section 1831u(d):",
+    "bbox": [
+      72.0,
+      249.8,
+      157.7,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b032",
+    "text": "(d)  Branches Resulting From Interstate Merger Transactions. -- A national bank",
+    "bbox": [
+      108.0,
+      278.6,
+      504.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b033",
+    "text": "resulting from an interstate merger transaction (as defined in section 44(f)(6) of the",
+    "bbox": [
+      108.0,
+      293.0,
+      504.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b034",
+    "text": "Federal Deposit Insurance Act) may maintain and operate a branch in a State other",
+    "bbox": [
+      108.0,
+      307.4,
+      504.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b035",
+    "text": "than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance",
+    "bbox": [
+      108.0,
+      321.8,
+      504.0,
+      336.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b036",
+    "text": "with section 44 of the Federal Deposit Insurance Act [12 U.S.C. § 1831u].",
+    "bbox": [
+      108.0,
+      336.2,
+      477.1,
+      350.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b037",
+    "text": "12 U.S.C. § 36(d) (as added by Riegle-Neal Act § 102(b)(1)(B)).  Therefore, Moorhead Bank,",
+    "bbox": [
+      72.0,
+      365.0,
+      540.0,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b038",
+    "text": "the resulting bank in this interstate merger transaction, may retain and continue to operate all of",
+    "bbox": [
+      72.0,
+      379.4,
+      540.0,
+      393.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b039",
+    "text": "the existing banking offices of both Moorhead Bank and Lisbon Bank under 12 U.S.C. §§ 36(d)",
+    "bbox": [
+      72.0,
+      393.8,
+      540.0,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 5,
+    "block_id": "379_p5_b040",
+    "text": "& 1831u(d)(1).",
+    "bbox": [
+      72.0,
+      408.2,
+      158.1,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b001",
+    "text": "- 6 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b002",
+    "text": "Moreover, at its branches in North Dakota and Minnesota, Moorhead Bank is authorized",
+    "bbox": [
+      108.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b003",
+    "text": "to engage in all activities permissible for national banks.  See, e.g., 12 U.S.C. §§ 215a-1 (Riegle-",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b004",
+    "text": "Neal mergers with a resulting national bank occur under the National Bank Consolidation and",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b005",
+    "text": "Merger Act), 215a(e) (the resulting national bank in a merger succeeds to all the rights, franchises",
+    "bbox": [
+      72.0,
+      120.2,
+      540.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b006",
+    "text": "and interests of the merging banks), & 1831u(d)(1) (continued operations at retained interstate",
+    "bbox": [
+      72.0,
+      134.6,
+      540.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b007",
+    "text": "branches).  See also 12 U.S.C. § 36(f) (general provisions for host state laws applicable to",
+    "bbox": [
+      72.0,
+      149.0,
+      540.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b008",
+    "text": "branches in the host state of out-of-state national banks).",
+    "bbox": [
+      72.0,
+      163.4,
+      349.4,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b009",
+    "text": "III.",
+    "bbox": [
+      72.0,
+      192.2,
+      89.8,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b010",
+    "text": "ADDITIONAL STATUTORY AND POLICY REVIEWS",
+    "bbox": [
+      108.0,
+      192.2,
+      403.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b011",
+    "text": "The Bank Merger Act.",
+    "bbox": [
+      108.0,
+      221.0,
+      226.5,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b012",
+    "text": "The Bank Merger Act, 12 U.S.C. § 1828(c), requires the OCC's approval for any merger",
+    "bbox": [
+      108.0,
+      249.8,
+      540.0,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b013",
+    "text": "between insured banks where the resulting institution will be a national bank.  Under the Act, the",
+    "bbox": [
+      72.0,
+      264.2,
+      540.0,
+      278.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b014",
+    "text": "OCC generally may not approve a merger which would substantially lessen competition.  In",
+    "bbox": [
+      72.0,
+      278.6,
+      540.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b015",
+    "text": "addition, the Act also requires the OCC to take into consideration the financial and managerial",
+    "bbox": [
+      72.0,
+      293.0,
+      540.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b016",
+    "text": "resources and future prospects of the existing and proposed institutions, and the convenience and",
+    "bbox": [
+      72.0,
+      307.4,
+      540.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b017",
+    "text": "needs of the community to be served.  For the reasons stated below, we find the Merger",
+    "bbox": [
+      72.0,
+      321.8,
+      540.1,
+      336.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b018",
+    "text": "Application may be approved under section 1828(c).",
+    "bbox": [
+      72.0,
+      336.2,
+      330.0,
+      350.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b019",
+    "text": "Competitive Analysis",
+    "bbox": [
+      108.0,
+      365.0,
+      217.4,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b020",
+    "text": "Since Moorhead Bank and Lisbon Bank are already owned by the same bank holding",
+    "bbox": [
+      108.0,
+      393.8,
+      540.0,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b021",
+    "text": "company, their merger will have no anticompetitive effects.",
+    "bbox": [
+      72.0,
+      408.2,
+      366.0,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b022",
+    "text": "Financial and managerial resources",
+    "bbox": [
+      108.0,
+      437.0,
+      292.3,
+      451.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b023",
+    "text": "The financial and managerial resources of both banks are presently satisfactory.  Moorhead",
+    "bbox": [
+      108.0,
+      465.8,
+      540.0,
+      480.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b024",
+    "text": "Bank expects to achieve efficiencies by operating the offices in North Dakota as branches rather",
+    "bbox": [
+      72.0,
+      480.2,
+      540.0,
+      494.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b025",
+    "text": "than as a separate corporate entity.  The geographic diversification of its operations will also",
+    "bbox": [
+      72.0,
+      494.6,
+      540.0,
+      508.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b026",
+    "text": "strengthen the combined bank.  The future prospects of the existing institutions, individually and",
+    "bbox": [
+      72.0,
+      509.0,
+      540.0,
+      523.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b027",
+    "text": "combined, are favorable.  Thus, we find the financial and managerial resources factor is consistent",
+    "bbox": [
+      72.0,
+      523.4,
+      540.0,
+      537.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b028",
+    "text": "with approval of the Merger Application.",
+    "bbox": [
+      72.0,
+      537.8,
+      275.0,
+      552.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b029",
+    "text": "Convenience and needs",
+    "bbox": [
+      108.0,
+      566.6,
+      228.5,
+      580.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b030",
+    "text": "The resulting bank will help to meet the convenience and needs of the communities to be",
+    "bbox": [
+      108.0,
+      595.4,
+      540.0,
+      609.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b031",
+    "text": "served.  Moorhead Bank will continue to serve the same areas in Minnesota where it has offices,",
+    "bbox": [
+      72.0,
+      609.8,
+      540.0,
+      624.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b032",
+    "text": "and it will add Lisbon Bank’s offices in North Dakota.  Both banks currently offer a full line of",
+    "bbox": [
+      72.0,
+      624.2,
+      540.0,
+      638.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b033",
+    "text": "banking services, and there will be no reductions in the products or services as a result of the",
+    "bbox": [
+      72.0,
+      638.6,
+      540.0,
+      652.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b034",
+    "text": "merger.  The combined bank will continue to offer a full line of banking products and services.",
+    "bbox": [
+      72.0,
+      653.0,
+      540.0,
+      667.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b035",
+    "text": "The branches in North Dakota will continue to engage in the same business, serving the same",
+    "bbox": [
+      72.0,
+      667.4,
+      540.0,
+      681.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 6,
+    "block_id": "379_p6_b036",
+    "text": "communities, that Lisbon Bank is currently engaged in.",
+    "bbox": [
+      72.0,
+      681.8,
+      347.9,
+      696.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b001",
+    "text": "- 7 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b002",
+    "text": "Upon completion of the merger, customers of each bank will have available to them a",
+    "bbox": [
+      108.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b003",
+    "text": "greater number of branches at which to bank.  Currently, banking is not as convenient as it could",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b004",
+    "text": "be for customers who frequently travel across the state lines or for business customers who have",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b005",
+    "text": "operations in more than one state.  Following the merger, customers would be dealing with the",
+    "bbox": [
+      72.0,
+      120.2,
+      540.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b006",
+    "text": "same bank in the two states and will be able to readily access their accounts with greater",
+    "bbox": [
+      72.0,
+      134.6,
+      540.1,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b007",
+    "text": "convenience.  The merger will permit the resulting bank to better serve its customers and at a",
+    "bbox": [
+      72.0,
+      149.0,
+      540.0,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b008",
+    "text": "lower cost.  The combined resources, including capital and reserves, of the currently separate",
+    "bbox": [
+      72.0,
+      163.4,
+      540.0,
+      177.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b009",
+    "text": "banks will provide a more substantial capital cushion for unexpected losses as well as provide",
+    "bbox": [
+      72.0,
+      177.8,
+      540.0,
+      192.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b010",
+    "text": "business customers with a higher legal lending limit.",
+    "bbox": [
+      72.0,
+      192.2,
+      330.0,
+      206.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b011",
+    "text": "No branch closings are contemplated as a result of this merger since the two banks serve",
+    "bbox": [
+      108.0,
+      221.0,
+      540.0,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b012",
+    "text": "different areas.  However, as part of its ongoing business plans, Moorhead Bank will evaluate its",
+    "bbox": [
+      72.0,
+      235.4,
+      540.0,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b013",
+    "text": "branches and, as a part of the normal course of business, may close redundant or unprofitable",
+    "bbox": [
+      72.0,
+      249.8,
+      540.0,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b014",
+    "text": "branches.  Any such closures will be made in accordance with applicable statutes and regulations,",
+    "bbox": [
+      72.0,
+      264.2,
+      540.0,
+      278.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b015",
+    "text": "including notification of customers of the branches, and will consider the needs of the community",
+    "bbox": [
+      72.0,
+      278.6,
+      540.0,
+      292.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b016",
+    "text": "affected.  Accordingly, we believe the impact of the merger on the convenience and needs of the",
+    "bbox": [
+      72.0,
+      293.0,
+      540.0,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b017",
+    "text": "communities to be served is consistent with approval of the Merger Application.",
+    "bbox": [
+      72.0,
+      307.4,
+      466.3,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b018",
+    "text": "The Community Reinvestment Act",
+    "bbox": [
+      108.0,
+      336.2,
+      287.7,
+      350.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b019",
+    "text": "The Community Reinvestment Act (\"CRA\") requires the OCC to take into account the",
+    "bbox": [
+      108.0,
+      365.0,
+      540.0,
+      379.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b020",
+    "text": "applicants' record of helping to meet the credit needs of their entire communities, including low-",
+    "bbox": [
+      72.0,
+      379.4,
+      540.0,
+      393.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b021",
+    "text": "and moderate-income neighborhoods, when evaluating certain applications.  See 12 U.S.C.",
+    "bbox": [
+      72.0,
+      393.8,
+      539.9,
+      408.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b022",
+    "text": "§ 2903.  Lisbon Bank does not have a current CRA rating from the OCC because it recently",
+    "bbox": [
+      72.0,
+      408.2,
+      540.0,
+      422.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b023",
+    "text": "converted to a national bank.  Its predecessor, a state bank, had a satisfactory rating with respect",
+    "bbox": [
+      72.0,
+      422.6,
+      540.0,
+      436.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b024",
+    "text": "to CRA performance.  Moorhead Bank does not have a current CRA rating because it is a",
+    "bbox": [
+      72.0,
+      437.0,
+      540.0,
+      451.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b025",
+    "text": "relatively new charter.  No public comments were received by the OCC relating to this",
+    "bbox": [
+      72.0,
+      451.4,
+      540.1,
+      465.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b026",
+    "text": "Application, and the OCC has no other basis to question the banks' performance in complying",
+    "bbox": [
+      72.0,
+      465.8,
+      540.0,
+      480.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b027",
+    "text": "with the CRA.",
+    "bbox": [
+      72.0,
+      480.2,
+      144.0,
+      494.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b028",
+    "text": "The merger is not expected to have any adverse effect on the resulting bank's CRA",
+    "bbox": [
+      108.0,
+      509.0,
+      540.0,
+      523.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b029",
+    "text": "performance.  The resulting bank will continue to serve the same communities that the merging",
+    "bbox": [
+      72.0,
+      523.4,
+      540.0,
+      537.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b030",
+    "text": "banks currently serve.  Moorhead Bank will continue its current CRA programs and policies in",
+    "bbox": [
+      72.0,
+      537.8,
+      540.0,
+      552.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b031",
+    "text": "Minnesota.  After Lisbon Bank is merged into Moorhead Bank, its North Dakota offices will",
+    "bbox": [
+      72.0,
+      552.2,
+      540.0,
+      566.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b032",
+    "text": "remain open as branches of Moorhead Bank.  Moorhead Bank will carry forward the same CRA",
+    "bbox": [
+      72.0,
+      566.6,
+      540.0,
+      580.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b033",
+    "text": "programs and policies that the bank has today and add other programs it develops.  As a general",
+    "bbox": [
+      72.0,
+      581.0,
+      540.0,
+      595.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b034",
+    "text": "matter, the resulting bank will have the same commitment to helping meet the credit needs of all",
+    "bbox": [
+      72.0,
+      595.4,
+      540.0,
+      609.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b035",
+    "text": "the communities it serves as Moorhead Bank and Lisbon Bank have today as separate banks.  The",
+    "bbox": [
+      72.0,
+      609.8,
+      540.0,
+      624.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b036",
+    "text": "merger and operation of interstate branches do not alter the resulting bank's obligation to help",
+    "bbox": [
+      72.0,
+      624.2,
+      540.0,
+      638.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b037",
+    "text": "meet the credit needs of its communities in both states it serves.  We find that approval of the",
+    "bbox": [
+      72.0,
+      638.6,
+      540.0,
+      652.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b038",
+    "text": "proposed merger is consistent with the Community Reinvestment Act.",
+    "bbox": [
+      72.0,
+      653.0,
+      415.9,
+      667.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b039",
+    "text": "IV.",
+    "bbox": [
+      72.0,
+      681.8,
+      89.3,
+      696.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 7,
+    "block_id": "379_p7_b040",
+    "text": "CONCLUSION AND APPROVAL",
+    "bbox": [
+      108.0,
+      681.8,
+      288.5,
+      696.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes-Bold",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b001",
+    "text": "- 8 -",
+    "bbox": [
+      295.4,
+      36.2,
+      316.7,
+      50.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b002",
+    "text": "For the reasons set forth above, including the representations and commitments made by",
+    "bbox": [
+      108.0,
+      77.0,
+      540.0,
+      91.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b003",
+    "text": "the applicants, we find that the merger of Moorhead Bank and Lisbon Bank is legally authorized",
+    "bbox": [
+      72.0,
+      91.4,
+      540.0,
+      105.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b004",
+    "text": "as an interstate merger transaction under the Riegle-Neal Act, 12 U.S.C. §§ 215a-1 & 1831u(a),",
+    "bbox": [
+      72.0,
+      105.8,
+      540.0,
+      120.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b005",
+    "text": "the resulting bank is authorized to retain and operate the offices of both banks under 12 U.S.C.",
+    "bbox": [
+      72.0,
+      120.2,
+      540.0,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b006",
+    "text": "§§ 36(d) & 1831u(d)(1), and that the merger meets the other statutory criteria for approval.",
+    "bbox": [
+      72.0,
+      134.6,
+      539.9,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b007",
+    "text": "Accordingly, this Merger Application is hereby approved.",
+    "bbox": [
+      72.0,
+      149.0,
+      357.6,
+      163.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b008",
+    "text": "/s/",
+    "bbox": [
+      72.0,
+      221.0,
+      189.1,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b009",
+    "text": "07-21-97",
+    "bbox": [
+      396.0,
+      221.0,
+      508.5,
+      235.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b010",
+    "text": "Steven J. Weiss",
+    "bbox": [
+      72.0,
+      235.4,
+      160.0,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b011",
+    "text": "Date",
+    "bbox": [
+      432.0,
+      235.4,
+      462.0,
+      249.6
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b012",
+    "text": "Deputy Comptroller",
+    "bbox": [
+      72.0,
+      249.8,
+      170.6,
+      264.0
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b013",
+    "text": "Bank Organization and Structure",
+    "bbox": [
+      72.0,
+      264.2,
+      232.1,
+      278.4
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "379",
+    "page_number": 8,
+    "block_id": "379_p8_b014",
+    "text": "Application Control Number:  97-MW-02-0040",
+    "bbox": [
+      72.0,
+      293.0,
+      306.5,
+      307.2
+    ],
+    "font_size": 12.0,
+    "font_name": "CGTimes",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,3917 @@
+[
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b001",
+    "text": "Greater Peoria Mass Transit District (CityLink)",
+    "bbox": [
+      365.5,
+      19.3,
+      584.5,
+      33.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica-Bold",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b002",
+    "text": "ID Number:    5056",
+    "bbox": [
+      20.0,
+      24.7,
+      87.6,
+      35.7
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b003",
+    "text": "www.ridecitylink.org",
+    "bbox": [
+      20.0,
+      34.4,
+      90.7,
+      45.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b004",
+    "text": "2105 Northeast Jefferson Street",
+    "bbox": [
+      20.0,
+      46.4,
+      133.4,
+      57.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b005",
+    "text": "Peoria, IL  61603-3587",
+    "bbox": [
+      20.0,
+      58.4,
+      101.4,
+      69.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b006",
+    "text": "General Manager:  Mr. Thomas Lucek",
+    "bbox": [
+      794.8,
+      46.4,
+      930.0,
+      57.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b007",
+    "text": "(309) 679-8158",
+    "bbox": [
+      875.3,
+      58.4,
+      930.0,
+      69.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b008",
+    "text": "General Information",
+    "bbox": [
+      20.0,
+      79.8,
+      90.7,
+      90.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b009",
+    "text": "Urbanized Area (UZA) Statistics - 2000 Census",
+    "bbox": [
+      20.0,
+      94.8,
+      187.6,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b010",
+    "text": "Peoria, IL",
+    "bbox": [
+      20.0,
+      104.8,
+      54.2,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b011",
+    "text": "Square Miles",
+    "bbox": [
+      20.0,
+      114.8,
+      71.1,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b012",
+    "text": "Population",
+    "bbox": [
+      20.0,
+      124.8,
+      62.2,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b013",
+    "text": "Population Ranking out of 465 UZAs",
+    "bbox": [
+      20.0,
+      134.8,
+      153.8,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b014",
+    "text": "Other UZAs Served",
+    "bbox": [
+      20.0,
+      144.8,
+      89.8,
+      155.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b015",
+    "text": "Service Area Statistics",
+    "bbox": [
+      20.0,
+      164.8,
+      100.0,
+      175.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b016",
+    "text": "Square Miles",
+    "bbox": [
+      20.0,
+      174.8,
+      71.1,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b017",
+    "text": "Population",
+    "bbox": [
+      20.0,
+      184.8,
+      62.2,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b018",
+    "text": "123",
+    "bbox": [
+      206.7,
+      114.8,
+      220.0,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b019",
+    "text": "247,172",
+    "bbox": [
+      191.1,
+      124.8,
+      220.0,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b020",
+    "text": "129",
+    "bbox": [
+      206.7,
+      134.8,
+      220.0,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b021",
+    "text": "105",
+    "bbox": [
+      206.7,
+      174.8,
+      220.0,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b022",
+    "text": "207,795",
+    "bbox": [
+      191.1,
+      184.8,
+      220.0,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b023",
+    "text": "Service Consumption",
+    "bbox": [
+      240.0,
+      94.8,
+      316.0,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b024",
+    "text": "Annual Passenger Miles",
+    "bbox": [
+      240.0,
+      104.8,
+      330.7,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b025",
+    "text": "Annual Unlinked Trips",
+    "bbox": [
+      240.0,
+      114.8,
+      322.7,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b026",
+    "text": "Average Weekday Unlinked Trips",
+    "bbox": [
+      240.0,
+      124.8,
+      363.2,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b027",
+    "text": "Average Saturday Unlinked Trips",
+    "bbox": [
+      240.0,
+      134.8,
+      361.8,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b028",
+    "text": "Average Sunday Unlinked Trips",
+    "bbox": [
+      240.0,
+      144.8,
+      356.9,
+      155.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b029",
+    "text": "Service Supplied",
+    "bbox": [
+      240.0,
+      164.8,
+      300.0,
+      175.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b030",
+    "text": "Annual Vehicle Revenue Miles",
+    "bbox": [
+      240.0,
+      174.8,
+      352.9,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b031",
+    "text": "Annual Vehicle Revenue Hours",
+    "bbox": [
+      240.0,
+      184.8,
+      355.6,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b032",
+    "text": "Vehicles Operated in Maximum Service",
+    "bbox": [
+      240.0,
+      194.8,
+      384.5,
+      205.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b033",
+    "text": "Vehicles Available for Maximum Service",
+    "bbox": [
+      240.0,
+      204.8,
+      386.7,
+      215.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b034",
+    "text": "Base Period Requirement",
+    "bbox": [
+      240.0,
+      214.8,
+      336.0,
+      225.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b035",
+    "text": "15,222,096",
+    "bbox": [
+      420.0,
+      104.8,
+      460.0,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b036",
+    "text": "2,858,795",
+    "bbox": [
+      424.4,
+      114.8,
+      460.0,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b037",
+    "text": "9,691",
+    "bbox": [
+      440.0,
+      124.8,
+      460.0,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b038",
+    "text": "6,924",
+    "bbox": [
+      440.0,
+      134.8,
+      460.0,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b039",
+    "text": "2,526,088",
+    "bbox": [
+      424.4,
+      174.8,
+      460.0,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b040",
+    "text": "160,397",
+    "bbox": [
+      431.1,
+      184.8,
+      460.0,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b041",
+    "text": "108",
+    "bbox": [
+      446.7,
+      204.8,
+      460.0,
+      215.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b042",
+    "text": "Financial Information",
+    "bbox": [
+      485.0,
+      79.8,
+      559.2,
+      90.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b043",
+    "text": "Fare Revenues Earned",
+    "bbox": [
+      485.0,
+      94.8,
+      567.7,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b044",
+    "text": "Sources of Operating Funds Expended",
+    "bbox": [
+      485.0,
+      104.8,
+      623.3,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b045",
+    "text": "Fare Revenues",
+    "bbox": [
+      485.0,
+      114.8,
+      544.1,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b046",
+    "text": "(10%)",
+    "bbox": [
+      585.0,
+      114.8,
+      606.3,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b047",
+    "text": "Local Funds",
+    "bbox": [
+      485.0,
+      124.8,
+      533.0,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b048",
+    "text": "(7%)",
+    "bbox": [
+      585.0,
+      124.8,
+      601.9,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b049",
+    "text": "State Funds",
+    "bbox": [
+      485.0,
+      134.8,
+      532.6,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b050",
+    "text": "(62%)",
+    "bbox": [
+      585.0,
+      134.8,
+      606.3,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b051",
+    "text": "Federal Assistance",
+    "bbox": [
+      485.0,
+      144.8,
+      557.5,
+      155.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b052",
+    "text": "(19%)",
+    "bbox": [
+      585.0,
+      144.8,
+      606.3,
+      155.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b053",
+    "text": "Other Funds",
+    "bbox": [
+      485.0,
+      154.8,
+      533.9,
+      165.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b054",
+    "text": "(1%)",
+    "bbox": [
+      585.0,
+      154.8,
+      601.9,
+      165.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b055",
+    "text": "Total Operating Funds Expended",
+    "bbox": [
+      485.0,
+      164.8,
+      602.8,
+      175.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b056",
+    "text": "Sources of Capital Funds Expended",
+    "bbox": [
+      485.0,
+      174.8,
+      613.1,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b057",
+    "text": "Local Funds",
+    "bbox": [
+      485.0,
+      184.8,
+      533.0,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b058",
+    "text": "(0%)",
+    "bbox": [
+      585.0,
+      184.8,
+      601.9,
+      195.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b059",
+    "text": "State Funds",
+    "bbox": [
+      485.0,
+      194.8,
+      532.6,
+      205.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b060",
+    "text": "(0%)",
+    "bbox": [
+      585.0,
+      194.8,
+      601.9,
+      205.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b061",
+    "text": "Federal Assistance",
+    "bbox": [
+      485.0,
+      204.8,
+      557.5,
+      215.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b062",
+    "text": "(0%)",
+    "bbox": [
+      585.0,
+      204.8,
+      601.9,
+      215.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b063",
+    "text": "Other Funds",
+    "bbox": [
+      485.0,
+      214.8,
+      533.9,
+      225.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b064",
+    "text": "(0%)",
+    "bbox": [
+      585.0,
+      214.8,
+      601.9,
+      225.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b065",
+    "text": "Total Capital Funds Expended",
+    "bbox": [
+      485.0,
+      224.8,
+      592.6,
+      235.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b066",
+    "text": "$2,143,715",
+    "bbox": [
+      665.0,
+      94.8,
+      705.0,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b067",
+    "text": "$2,143,715",
+    "bbox": [
+      665.0,
+      114.8,
+      705.0,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b068",
+    "text": "$1,388,122",
+    "bbox": [
+      665.0,
+      124.8,
+      705.0,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b069",
+    "text": "$12,787,147",
+    "bbox": [
+      660.5,
+      134.8,
+      705.0,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b070",
+    "text": "$3,906,771",
+    "bbox": [
+      665.0,
+      144.8,
+      705.0,
+      155.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b071",
+    "text": "$274,754",
+    "bbox": [
+      671.6,
+      154.8,
+      705.0,
+      165.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b072",
+    "text": "$20,500,509",
+    "bbox": [
+      660.5,
+      164.8,
+      705.0,
+      175.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b073",
+    "text": "Summary Operating Expenses",
+    "bbox": [
+      725.0,
+      79.8,
+      833.9,
+      90.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b074",
+    "text": "Salary, Wages, Benefits",
+    "bbox": [
+      725.0,
+      94.8,
+      814.8,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b075",
+    "text": "Materials and Supplies",
+    "bbox": [
+      725.0,
+      104.8,
+      810.4,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b076",
+    "text": "Purchased Transportation",
+    "bbox": [
+      725.0,
+      114.8,
+      821.5,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b077",
+    "text": "Other Operating Expenses",
+    "bbox": [
+      725.0,
+      124.8,
+      824.2,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b078",
+    "text": "Total Operating Expenses",
+    "bbox": [
+      725.0,
+      134.8,
+      817.5,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b079",
+    "text": "Reconciling Cash Expenditures",
+    "bbox": [
+      725.0,
+      174.8,
+      836.2,
+      185.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b080",
+    "text": "$13,336,764",
+    "bbox": [
+      885.5,
+      94.8,
+      930.0,
+      105.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b081",
+    "text": "$2,875,036",
+    "bbox": [
+      890.0,
+      104.8,
+      930.0,
+      115.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b082",
+    "text": "$1,865,427",
+    "bbox": [
+      890.0,
+      114.8,
+      930.0,
+      125.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b083",
+    "text": "$2,423,282",
+    "bbox": [
+      890.0,
+      124.8,
+      930.0,
+      135.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b084",
+    "text": "$20,500,509",
+    "bbox": [
+      885.5,
+      134.8,
+      930.0,
+      145.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b085",
+    "text": "Vehicles Operated in Maximum Service and Uses of Capital Funds",
+    "bbox": [
+      20.0,
+      246.8,
+      256.5,
+      257.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b086",
+    "text": "Mode",
+    "bbox": [
+      20.0,
+      271.8,
+      40.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b087",
+    "text": "Directly",
+    "bbox": [
+      143.3,
+      262.6,
+      170.0,
+      273.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b088",
+    "text": "Operated",
+    "bbox": [
+      136.6,
+      271.8,
+      170.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b089",
+    "text": "Purchased",
+    "bbox": [
+      196.8,
+      262.6,
+      235.0,
+      273.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b090",
+    "text": "Transportation1",
+    "bbox": [
+      183.4,
+      266.8,
+      240.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b091",
+    "text": "Revenue",
+    "bbox": [
+      273.0,
+      262.6,
+      305.0,
+      273.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b092",
+    "text": "Vehicles",
+    "bbox": [
+      274.8,
+      271.8,
+      305.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b093",
+    "text": "Systems and",
+    "bbox": [
+      328.8,
+      262.6,
+      375.0,
+      273.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b094",
+    "text": "Guideways",
+    "bbox": [
+      335.4,
+      271.8,
+      375.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b095",
+    "text": "Facilities and",
+    "bbox": [
+      398.3,
+      262.6,
+      445.0,
+      273.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b096",
+    "text": "Stations",
+    "bbox": [
+      416.1,
+      271.8,
+      445.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b097",
+    "text": "Other",
+    "bbox": [
+      485.0,
+      271.8,
+      505.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b098",
+    "text": "Total",
+    "bbox": [
+      567.2,
+      271.8,
+      585.0,
+      282.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b099",
+    "text": "Bus",
+    "bbox": [
+      20.0,
+      283.0,
+      33.8,
+      294.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b100",
+    "text": "Demand Response",
+    "bbox": [
+      20.0,
+      293.0,
+      88.5,
+      304.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b101",
+    "text": "Total",
+    "bbox": [
+      20.0,
+      305.8,
+      37.8,
+      316.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b102",
+    "text": "Sources of Operating Funds Expended",
+    "bbox": [
+      625.8,
+      244.8,
+      764.1,
+      255.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b103",
+    "text": "Sources of Capital Funds Expended",
+    "bbox": [
+      781.0,
+      244.8,
+      909.0,
+      255.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b104",
+    "text": "62%",
+    "bbox": [
+      647.9,
+      299.4,
+      659.9,
+      307.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b105",
+    "text": "19%",
+    "bbox": [
+      729.2,
+      272.2,
+      741.3,
+      280.4
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b106",
+    "text": "10%",
+    "bbox": [
+      730.5,
+      289.7,
+      742.5,
+      297.9
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b107",
+    "text": "Modal Characteristics",
+    "bbox": [
+      20.0,
+      351.8,
+      96.9,
+      362.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b108",
+    "text": "Mode",
+    "bbox": [
+      20.0,
+      371.8,
+      40.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b109",
+    "text": "Operating",
+    "bbox": [
+      149.9,
+      362.6,
+      185.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b110",
+    "text": "Expenses1",
+    "bbox": [
+      149.9,
+      371.8,
+      190.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b111",
+    "text": "Fare",
+    "bbox": [
+      243.6,
+      362.6,
+      260.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b112",
+    "text": "Revenues1",
+    "bbox": [
+      224.0,
+      371.8,
+      265.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b113",
+    "text": "Uses of",
+    "bbox": [
+      307.9,
+      362.6,
+      335.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b114",
+    "text": "Capital Funds",
+    "bbox": [
+      285.6,
+      371.8,
+      335.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b115",
+    "text": "Annual",
+    "bbox": [
+      380.1,
+      353.4,
+      405.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b116",
+    "text": "Passenger",
+    "bbox": [
+      366.8,
+      362.6,
+      405.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b117",
+    "text": "Miles",
+    "bbox": [
+      386.3,
+      371.8,
+      405.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b118",
+    "text": "Annual Vehicle",
+    "bbox": [
+      416.6,
+      362.6,
+      470.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b119",
+    "text": "Revenue Miles",
+    "bbox": [
+      417.1,
+      371.8,
+      470.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b120",
+    "text": "Annual",
+    "bbox": [
+      515.1,
+      353.4,
+      540.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b121",
+    "text": "Unlinked",
+    "bbox": [
+      508.9,
+      362.6,
+      540.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b122",
+    "text": "Trips",
+    "bbox": [
+      522.2,
+      371.8,
+      540.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b123",
+    "text": "Annual Vehicle",
+    "bbox": [
+      551.6,
+      362.6,
+      605.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b124",
+    "text": "Revenue Hours",
+    "bbox": [
+      549.4,
+      371.8,
+      605.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b125",
+    "text": "Fixed",
+    "bbox": [
+      645.4,
+      344.2,
+      665.0,
+      355.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b126",
+    "text": "Guideway",
+    "bbox": [
+      629.4,
+      353.4,
+      665.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b127",
+    "text": "Directional",
+    "bbox": [
+      627.2,
+      362.6,
+      665.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b128",
+    "text": "Route Miles",
+    "bbox": [
+      622.8,
+      371.8,
+      665.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b129",
+    "text": "Vehicles",
+    "bbox": [
+      689.8,
+      344.2,
+      720.0,
+      355.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b130",
+    "text": "Available for",
+    "bbox": [
+      676.0,
+      353.4,
+      720.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b131",
+    "text": "Maximum",
+    "bbox": [
+      685.3,
+      362.6,
+      720.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b132",
+    "text": "Service",
+    "bbox": [
+      693.3,
+      371.8,
+      720.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b133",
+    "text": "Average",
+    "bbox": [
+      745.2,
+      353.4,
+      775.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b134",
+    "text": "Fleet Age",
+    "bbox": [
+      740.8,
+      362.6,
+      775.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b135",
+    "text": "in Years",
+    "bbox": [
+      745.7,
+      371.8,
+      775.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b136",
+    "text": "Vehicles",
+    "bbox": [
+      799.8,
+      344.2,
+      830.0,
+      355.2
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b137",
+    "text": "Operated in",
+    "bbox": [
+      788.2,
+      353.4,
+      830.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b138",
+    "text": "Maximum",
+    "bbox": [
+      795.3,
+      362.6,
+      830.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b139",
+    "text": "Service",
+    "bbox": [
+      803.3,
+      371.8,
+      830.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b140",
+    "text": "Peak to",
+    "bbox": [
+      852.9,
+      353.4,
+      880.0,
+      364.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b141",
+    "text": "Base",
+    "bbox": [
+      861.8,
+      362.6,
+      880.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b142",
+    "text": "Ratio",
+    "bbox": [
+      861.3,
+      371.8,
+      880.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b143",
+    "text": "Percent",
+    "bbox": [
+      901.4,
+      362.6,
+      929.0,
+      373.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b144",
+    "text": "Spares",
+    "bbox": [
+      903.7,
+      371.8,
+      929.0,
+      382.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b145",
+    "text": "Bus",
+    "bbox": [
+      20.0,
+      383.0,
+      33.8,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b146",
+    "text": "$17,919,805",
+    "bbox": [
+      140.5,
+      383.0,
+      185.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b147",
+    "text": "$1,729,497",
+    "bbox": [
+      220.0,
+      383.0,
+      260.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b148",
+    "text": "14,090,997",
+    "bbox": [
+      365.0,
+      383.0,
+      405.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b149",
+    "text": "1,862,027",
+    "bbox": [
+      434.4,
+      383.0,
+      470.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b150",
+    "text": "2,736,116",
+    "bbox": [
+      504.4,
+      383.0,
+      540.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b151",
+    "text": "106,235",
+    "bbox": [
+      576.1,
+      383.0,
+      605.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b152",
+    "text": "N/A",
+    "bbox": [
+      651.7,
+      383.0,
+      665.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b153",
+    "text": "12.2",
+    "bbox": [
+      759.4,
+      383.0,
+      775.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b154",
+    "text": "1.88",
+    "bbox": [
+      864.4,
+      383.0,
+      880.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b155",
+    "text": "72%",
+    "bbox": [
+      913.0,
+      383.0,
+      929.0,
+      394.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b156",
+    "text": "Demand Response",
+    "bbox": [
+      20.0,
+      393.0,
+      88.5,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b157",
+    "text": "$2,580,704",
+    "bbox": [
+      145.0,
+      393.0,
+      185.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b158",
+    "text": "$414,218",
+    "bbox": [
+      226.6,
+      393.0,
+      260.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b159",
+    "text": "1,131,099",
+    "bbox": [
+      369.4,
+      393.0,
+      405.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b160",
+    "text": "664,061",
+    "bbox": [
+      441.1,
+      393.0,
+      470.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b161",
+    "text": "122,679",
+    "bbox": [
+      511.1,
+      393.0,
+      540.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b162",
+    "text": "54,162",
+    "bbox": [
+      580.5,
+      393.0,
+      605.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b163",
+    "text": "N/A",
+    "bbox": [
+      651.7,
+      393.0,
+      665.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b164",
+    "text": "2.3",
+    "bbox": [
+      763.9,
+      393.0,
+      775.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b165",
+    "text": "N/A",
+    "bbox": [
+      866.7,
+      393.0,
+      880.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b166",
+    "text": "12%",
+    "bbox": [
+      913.0,
+      393.0,
+      929.0,
+      404.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b167",
+    "text": "Performance Measures",
+    "bbox": [
+      20.0,
+      414.8,
+      103.1,
+      425.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b168",
+    "text": "Service Efficiency",
+    "bbox": [
+      233.4,
+      414.8,
+      296.6,
+      425.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b169",
+    "text": "Service Effectiveness",
+    "bbox": [
+      496.8,
+      414.8,
+      573.2,
+      425.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b170",
+    "text": "Service Effectiveness",
+    "bbox": [
+      766.8,
+      414.8,
+      843.2,
+      425.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b171",
+    "text": "Mode",
+    "bbox": [
+      20.0,
+      435.8,
+      40.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b172",
+    "text": "Operating Expense per",
+    "bbox": [
+      182.7,
+      426.6,
+      265.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b173",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      187.6,
+      435.8,
+      265.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b174",
+    "text": "Operating Expense per",
+    "bbox": [
+      307.7,
+      426.6,
+      390.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b175",
+    "text": "Vehicle Revenue Hour",
+    "bbox": [
+      310.0,
+      435.8,
+      390.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b176",
+    "text": "Operating Expense per",
+    "bbox": [
+      452.7,
+      426.6,
+      535.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b177",
+    "text": "Passenger Mile",
+    "bbox": [
+      479.9,
+      435.8,
+      535.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b178",
+    "text": "Operating Expense per",
+    "bbox": [
+      577.7,
+      426.6,
+      660.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b179",
+    "text": "Unlinked Passenger Trip",
+    "bbox": [
+      572.4,
+      435.8,
+      660.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b180",
+    "text": "Unlinked Passenger Trips per",
+    "bbox": [
+      699.6,
+      426.6,
+      805.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b181",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      727.6,
+      435.8,
+      805.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b182",
+    "text": "Unlinked Passenger Trips per",
+    "bbox": [
+      823.6,
+      426.6,
+      929.0,
+      437.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b183",
+    "text": "Vehicle Revenue Hour",
+    "bbox": [
+      849.0,
+      435.8,
+      929.0,
+      446.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b184",
+    "text": "Bus",
+    "bbox": [
+      20.0,
+      447.0,
+      33.8,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b185",
+    "text": "$9.62",
+    "bbox": [
+      245.0,
+      447.0,
+      265.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b186",
+    "text": "$168.68",
+    "bbox": [
+      361.1,
+      447.0,
+      390.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b187",
+    "text": "$1.27",
+    "bbox": [
+      515.0,
+      447.0,
+      535.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b188",
+    "text": "$6.55",
+    "bbox": [
+      640.0,
+      447.0,
+      660.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b189",
+    "text": "1.47",
+    "bbox": [
+      789.4,
+      447.0,
+      805.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b190",
+    "text": "25.76",
+    "bbox": [
+      909.0,
+      447.0,
+      929.0,
+      458.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b191",
+    "text": "Demand Response",
+    "bbox": [
+      20.0,
+      457.0,
+      88.5,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b192",
+    "text": "$3.89",
+    "bbox": [
+      245.0,
+      457.0,
+      265.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b193",
+    "text": "$47.65",
+    "bbox": [
+      365.5,
+      457.0,
+      390.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b194",
+    "text": "$2.28",
+    "bbox": [
+      515.0,
+      457.0,
+      535.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b195",
+    "text": "$21.04",
+    "bbox": [
+      635.5,
+      457.0,
+      660.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b196",
+    "text": "0.18",
+    "bbox": [
+      789.4,
+      457.0,
+      805.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b197",
+    "text": "2.27",
+    "bbox": [
+      913.4,
+      457.0,
+      929.0,
+      468.0
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b198",
+    "text": "Operating Expense per",
+    "bbox": [
+      53.9,
+      473.6,
+      136.1,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b199",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      56.3,
+      482.8,
+      133.7,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b200",
+    "text": "Operating Expenses per",
+    "bbox": [
+      201.9,
+      473.6,
+      288.1,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b201",
+    "text": "Passenger Mile",
+    "bbox": [
+      217.4,
+      482.8,
+      272.6,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b202",
+    "text": "Unlinked Passenger Trips per",
+    "bbox": [
+      342.3,
+      473.6,
+      447.7,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b203",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      356.3,
+      482.8,
+      433.7,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b204",
+    "text": "01 02 03 04 05 06 07 08 09 10",
+    "bbox": [
+      48.5,
+      565.0,
+      156.5,
+      573.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b205",
+    "text": "0.00",
+    "bbox": [
+      23.8,
+      553.3,
+      35.5,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b206",
+    "text": "2.50",
+    "bbox": [
+      23.8,
+      541.2,
+      35.5,
+      549.4
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b207",
+    "text": "5.00",
+    "bbox": [
+      23.8,
+      529.1,
+      35.5,
+      537.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b208",
+    "text": "7.50",
+    "bbox": [
+      23.8,
+      517.0,
+      35.5,
+      525.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b209",
+    "text": "10.00",
+    "bbox": [
+      20.5,
+      504.9,
+      35.5,
+      513.2
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b210",
+    "text": "12.50",
+    "bbox": [
+      20.5,
+      492.9,
+      35.5,
+      501.1
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b211",
+    "text": "0.00",
+    "bbox": [
+      170.5,
+      553.3,
+      182.2,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b212",
+    "text": "0.25",
+    "bbox": [
+      170.5,
+      544.1,
+      182.2,
+      552.4
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b213",
+    "text": "0.50",
+    "bbox": [
+      170.5,
+      535.0,
+      182.2,
+      543.2
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b214",
+    "text": "0.75",
+    "bbox": [
+      170.5,
+      525.8,
+      182.2,
+      534.1
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b215",
+    "text": "1.00",
+    "bbox": [
+      170.5,
+      516.7,
+      182.2,
+      524.9
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b216",
+    "text": "1.25",
+    "bbox": [
+      170.5,
+      507.5,
+      182.2,
+      515.8
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b217",
+    "text": "1.50",
+    "bbox": [
+      170.5,
+      498.4,
+      182.2,
+      506.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b218",
+    "text": "0.00",
+    "bbox": [
+      320.5,
+      553.3,
+      332.2,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b219",
+    "text": "0.25",
+    "bbox": [
+      320.5,
+      545.4,
+      332.2,
+      553.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b220",
+    "text": "0.50",
+    "bbox": [
+      320.5,
+      537.6,
+      332.2,
+      545.8
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b221",
+    "text": "0.75",
+    "bbox": [
+      320.5,
+      529.8,
+      332.2,
+      538.0
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b222",
+    "text": "1.00",
+    "bbox": [
+      320.5,
+      521.9,
+      332.2,
+      530.2
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b223",
+    "text": "1.25",
+    "bbox": [
+      320.5,
+      514.1,
+      332.2,
+      522.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b224",
+    "text": "1.50",
+    "bbox": [
+      320.5,
+      506.3,
+      332.2,
+      514.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b225",
+    "text": "1.75",
+    "bbox": [
+      320.5,
+      498.4,
+      332.2,
+      506.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b226",
+    "text": "Bus",
+    "bbox": [
+      81.2,
+      519.9,
+      108.8,
+      541.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b227",
+    "text": "Bus",
+    "bbox": [
+      231.2,
+      519.9,
+      258.8,
+      541.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b228",
+    "text": "Bus",
+    "bbox": [
+      381.2,
+      519.9,
+      408.8,
+      541.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b229",
+    "text": "Operating Expense per",
+    "bbox": [
+      513.9,
+      473.6,
+      596.1,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b230",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      516.3,
+      482.8,
+      593.7,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b231",
+    "text": "Operating Expenses per",
+    "bbox": [
+      661.9,
+      473.6,
+      748.1,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b232",
+    "text": "Passenger Mile",
+    "bbox": [
+      677.4,
+      482.8,
+      732.6,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b233",
+    "text": "Unlinked Passenger Trips per",
+    "bbox": [
+      802.3,
+      473.6,
+      907.7,
+      484.6
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b234",
+    "text": "Vehicle Revenue Mile",
+    "bbox": [
+      816.3,
+      482.8,
+      893.7,
+      493.8
+    ],
+    "font_size": 8.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b235",
+    "text": "0.00",
+    "bbox": [
+      480.5,
+      553.3,
+      492.2,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b236",
+    "text": "1.00",
+    "bbox": [
+      480.5,
+      542.3,
+      492.2,
+      550.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b237",
+    "text": "2.00",
+    "bbox": [
+      480.5,
+      531.3,
+      492.2,
+      539.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b238",
+    "text": "3.00",
+    "bbox": [
+      480.5,
+      520.3,
+      492.2,
+      528.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b239",
+    "text": "4.00",
+    "bbox": [
+      480.5,
+      509.3,
+      492.2,
+      517.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b240",
+    "text": "5.00",
+    "bbox": [
+      480.5,
+      498.3,
+      492.2,
+      506.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b241",
+    "text": "01 02 03 04 05 06 07 08 09 10",
+    "bbox": [
+      658.5,
+      565.0,
+      766.5,
+      573.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b242",
+    "text": "0.00",
+    "bbox": [
+      633.8,
+      553.3,
+      645.5,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b243",
+    "text": "5.00",
+    "bbox": [
+      633.8,
+      541.9,
+      645.5,
+      550.1
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b244",
+    "text": "10.00",
+    "bbox": [
+      630.5,
+      530.5,
+      645.5,
+      538.7
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b245",
+    "text": "15.00",
+    "bbox": [
+      630.5,
+      519.1,
+      645.5,
+      527.3
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b246",
+    "text": "20.00",
+    "bbox": [
+      630.5,
+      507.7,
+      645.5,
+      515.9
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b247",
+    "text": "25.00",
+    "bbox": [
+      630.5,
+      496.3,
+      645.5,
+      504.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b248",
+    "text": "0.00",
+    "bbox": [
+      780.5,
+      553.3,
+      792.2,
+      561.5
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b249",
+    "text": "0.10",
+    "bbox": [
+      780.5,
+      539.6,
+      792.2,
+      547.9
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b250",
+    "text": "0.20",
+    "bbox": [
+      780.5,
+      526.0,
+      792.2,
+      534.2
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b251",
+    "text": "0.30",
+    "bbox": [
+      780.5,
+      512.3,
+      792.2,
+      520.6
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b252",
+    "text": "0.40",
+    "bbox": [
+      780.5,
+      498.7,
+      792.2,
+      507.0
+    ],
+    "font_size": 6.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b253",
+    "text": "Demand",
+    "bbox": [
+      524.8,
+      510.7,
+      585.2,
+      532.7
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b254",
+    "text": "Response",
+    "bbox": [
+      519.0,
+      529.1,
+      591.0,
+      551.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b255",
+    "text": "Demand",
+    "bbox": [
+      674.8,
+      510.7,
+      735.2,
+      532.7
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b256",
+    "text": "Response",
+    "bbox": [
+      669.0,
+      529.1,
+      741.0,
+      551.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b257",
+    "text": "Demand",
+    "bbox": [
+      824.8,
+      510.7,
+      885.2,
+      532.7
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b258",
+    "text": "Response",
+    "bbox": [
+      819.0,
+      529.1,
+      891.0,
+      551.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b259",
+    "text": "1 Excludes data for purchased transportation reported separately",
+    "bbox": [
+      20.0,
+      709.6,
+      221.5,
+      719.3
+    ],
+    "font_size": 7.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b260",
+    "text": "Data Source: 2010 National Transit Database",
+    "bbox": [
+      688.8,
+      708.2,
+      830.0,
+      717.8
+    ],
+    "font_size": 7.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "561",
+    "page_number": 1,
+    "block_id": "561_p1_b261",
+    "text": "09/29/2011  1:09  PM",
+    "bbox": [
+      863.1,
+      708.2,
+      930.0,
+      717.8
+    ],
+    "font_size": 7.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

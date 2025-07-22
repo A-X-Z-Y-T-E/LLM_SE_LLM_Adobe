@@ -1,0 +1,4877 @@
+[
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b001",
+    "text": "ORNL is managed by UT-Battelle",
+    "bbox": [
+      23.1,
+      498.9,
+      176.4,
+      512.1
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b002",
+    "text": "for the US Department of Energy",
+    "bbox": [
+      23.1,
+      510.9,
+      170.4,
+      524.1
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b003",
+    "text": "CORAL Acquisition Update:",
+    "bbox": [
+      19.2,
+      12.8,
+      464.9,
+      51.7
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b004",
+    "text": "OLCF-4 Project",
+    "bbox": [
+      19.2,
+      41.3,
+      258.3,
+      80.2
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b005",
+    "text": "Buddy Bland",
+    "bbox": [
+      25.2,
+      173.7,
+      179.7,
+      207.1
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b006",
+    "text": "OLCF Project Director",
+    "bbox": [
+      25.2,
+      213.5,
+      283.8,
+      247.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b007",
+    "text": "Presented to:",
+    "bbox": [
+      25.2,
+      294.4,
+      150.2,
+      319.5
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b008",
+    "text": "Advanced Scientific Computing Advisory",
+    "bbox": [
+      25.2,
+      313.8,
+      382.3,
+      338.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b009",
+    "text": "Committee",
+    "bbox": [
+      25.2,
+      333.3,
+      128.2,
+      358.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b010",
+    "text": "November 21, 2014",
+    "bbox": [
+      25.2,
+      354.9,
+      198.2,
+      380.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 1,
+    "block_id": "371_p1_b011",
+    "text": "New Orleans",
+    "bbox": [
+      25.2,
+      376.5,
+      139.1,
+      401.6
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b001",
+    "text": "2 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b002",
+    "text": "Oak Ridge Leadership Computing Facility",
+    "bbox": [
+      50.9,
+      8.5,
+      692.4,
+      47.4
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b003",
+    "text": "(OLCF)",
+    "bbox": [
+      315.3,
+      37.1,
+      428.1,
+      76.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b004",
+    "text": "Providing world-leading computational and data resources",
+    "bbox": [
+      55.7,
+      163.4,
+      647.1,
+      191.4
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings-Regular",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b005",
+    "text": "and specialized services for the most computationally",
+    "bbox": [
+      82.7,
+      185.0,
+      601.0,
+      213.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b006",
+    "text": "intensive problems",
+    "bbox": [
+      82.7,
+      206.6,
+      270.5,
+      234.6
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b007",
+    "text": "Providing stable hardware/software path of increasing scale",
+    "bbox": [
+      55.7,
+      257.0,
+      659.0,
+      285.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings-Regular",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b008",
+    "text": "to maximize productive applications development",
+    "bbox": [
+      82.7,
+      278.6,
+      561.3,
+      306.6
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b009",
+    "text": "Providing the resources to investigate otherwise inaccessible",
+    "bbox": [
+      55.7,
+      329.0,
+      674.7,
+      356.9
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings-Regular",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b010",
+    "text": "systems at every scale: from galaxy formation to supernovae",
+    "bbox": [
+      82.7,
+      350.6,
+      668.7,
+      378.5
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b011",
+    "text": "to earth systems to automobiles to nanomaterials",
+    "bbox": [
+      82.7,
+      372.2,
+      560.3,
+      400.1
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b012",
+    "text": "With our partners, deliver transforming discoveries in",
+    "bbox": [
+      55.7,
+      422.6,
+      597.3,
+      450.5
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings-Regular",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b013",
+    "text": "materials, biology, climate, energy technologies, and basic",
+    "bbox": [
+      82.7,
+      444.2,
+      645.1,
+      472.1
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b014",
+    "text": "science",
+    "bbox": [
+      82.7,
+      465.8,
+      161.8,
+      493.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b015",
+    "text": "Mission: Deploy and operate the computational",
+    "bbox": [
+      93.1,
+      84.8,
+      639.5,
+      118.3
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 2,
+    "block_id": "371_p2_b016",
+    "text": "resources required to tackle global challenges",
+    "bbox": [
+      98.3,
+      113.6,
+      634.2,
+      147.1
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b001",
+    "text": "3 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b002",
+    "text": "CORAL System",
+    "bbox": [
+      408.1,
+      426.2,
+      534.8,
+      455.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b003",
+    "text": "Our Science requires that we continue to",
+    "bbox": [
+      72.4,
+      1.3,
+      667.5,
+      37.5
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b004",
+    "text": "advance OLCF’s computational capability over",
+    "bbox": [
+      36.0,
+      27.8,
+      703.9,
+      64.0
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b005",
+    "text": "the next decade on the roadmap to Exascale.",
+    "bbox": [
+      41.7,
+      54.3,
+      698.3,
+      90.5
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b006",
+    "text": "Since clock-rate scaling ended in 2003,",
+    "bbox": [
+      24.1,
+      115.0,
+      332.6,
+      143.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b007",
+    "text": "HPC performance has been achieved",
+    "bbox": [
+      24.1,
+      136.6,
+      317.6,
+      164.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b008",
+    "text": "through increased parallelism.  Jaguar",
+    "bbox": [
+      24.1,
+      158.2,
+      329.0,
+      186.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b009",
+    "text": "scaled to 300,000 cores.",
+    "bbox": [
+      24.1,
+      179.8,
+      216.2,
+      208.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b010",
+    "text": "Titan and beyond deliver hierarchical",
+    "bbox": [
+      367.2,
+      115.0,
+      660.8,
+      143.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b011",
+    "text": "parallelism with very powerful nodes.  MPI",
+    "bbox": [
+      367.2,
+      136.6,
+      701.0,
+      164.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b012",
+    "text": "plus thread level parallelism through",
+    "bbox": [
+      367.2,
+      158.2,
+      657.6,
+      186.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b013",
+    "text": "OpenACC or OpenMP plus vectors",
+    "bbox": [
+      367.2,
+      179.8,
+      641.8,
+      208.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b014",
+    "text": "Jaguar: 2.3 PF",
+    "bbox": [
+      76.2,
+      413.7,
+      169.2,
+      436.3
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b015",
+    "text": "Multi-core CPU",
+    "bbox": [
+      76.2,
+      431.0,
+      173.6,
+      453.6
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b016",
+    "text": "7 MW",
+    "bbox": [
+      76.1,
+      448.3,
+      114.0,
+      470.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b017",
+    "text": "Titan: 27 PF",
+    "bbox": [
+      236.4,
+      389.7,
+      314.1,
+      412.3
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b018",
+    "text": "Hybrid GPU/CPU",
+    "bbox": [
+      236.4,
+      407.0,
+      345.0,
+      429.6
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b019",
+    "text": "9 MW",
+    "bbox": [
+      236.4,
+      424.3,
+      274.3,
+      446.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b020",
+    "text": "2010",
+    "bbox": [
+      24.4,
+      474.4,
+      66.5,
+      493.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b021",
+    "text": "2012",
+    "bbox": [
+      175.3,
+      474.4,
+      217.4,
+      493.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b022",
+    "text": "2017",
+    "bbox": [
+      352.6,
+      474.4,
+      394.7,
+      493.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b023",
+    "text": "2022",
+    "bbox": [
+      513.6,
+      474.4,
+      555.7,
+      493.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b024",
+    "text": "OLCF5: 5-10x Summit",
+    "bbox": [
+      571.2,
+      346.0,
+      710.8,
+      368.5
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b025",
+    "text": "~20 MW",
+    "bbox": [
+      571.2,
+      363.2,
+      623.9,
+      385.8
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b026",
+    "text": "Summit:  5-10x Titan",
+    "bbox": [
+      407.9,
+      365.7,
+      539.3,
+      388.3
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b027",
+    "text": "Hybrid GPU/CPU",
+    "bbox": [
+      407.9,
+      383.0,
+      516.5,
+      405.6
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 3,
+    "block_id": "371_p3_b028",
+    "text": "10 MW",
+    "bbox": [
+      407.9,
+      400.3,
+      453.0,
+      422.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b001",
+    "text": "4 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b002",
+    "text": "Today’s Leadership System - Titan",
+    "bbox": [
+      21.7,
+      5.2,
+      594.9,
+      46.9
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b003",
+    "text": "Hybrid CPU/GPU architecture, Hierarchical Parallelism",
+    "bbox": [
+      21.7,
+      42.3,
+      650.1,
+      77.3
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b004",
+    "text": "Vendors: Cray™ / NVIDIA™",
+    "bbox": [
+      25.2,
+      101.0,
+      391.8,
+      140.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b005",
+    "text": "• 27 PF peak",
+    "bbox": [
+      25.2,
+      146.5,
+      153.5,
+      174.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b006",
+    "text": "• 18,688 Compute nodes, each with",
+    "bbox": [
+      25.2,
+      182.0,
+      374.2,
+      210.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b007",
+    "text": "– 1.45 TF peak",
+    "bbox": [
+      52.4,
+      211.7,
+      200.1,
+      239.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b008",
+    "text": "– NVIDIA Kepler™ GPU - 1,311 GF",
+    "bbox": [
+      52.4,
+      241.3,
+      383.6,
+      269.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b009",
+    "text": "• 6 GB GDDR5 memory",
+    "bbox": [
+      79.1,
+      270.8,
+      308.1,
+      298.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b010",
+    "text": "– AMD Opteron™- 141 GF",
+    "bbox": [
+      52.4,
+      300.5,
+      307.7,
+      328.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b011",
+    "text": "• 32 GB DDR3 memory",
+    "bbox": [
+      79.1,
+      330.1,
+      303.7,
+      358.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b012",
+    "text": "– PCIe2 link between GPU and CPU",
+    "bbox": [
+      52.4,
+      359.6,
+      398.8,
+      387.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b013",
+    "text": "• Cray Gemini 3-D Torus Interconnect",
+    "bbox": [
+      25.2,
+      395.3,
+      389.8,
+      423.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 4,
+    "block_id": "371_p4_b014",
+    "text": "• 32 PB / 1 TB/s Lustre® file system",
+    "bbox": [
+      25.2,
+      430.9,
+      366.0,
+      458.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b001",
+    "text": "5 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b002",
+    "text": "Scientific Progress at all Scales",
+    "bbox": [
+      23.2,
+      -0.0,
+      595.1,
+      44.5
+    ],
+    "font_size": 32.0,
+    "font_name": "Arial-Black",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b003",
+    "text": "Fusion Energy",
+    "bbox": [
+      25.2,
+      61.9,
+      118.8,
+      79.9
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b004",
+    "text": "A Princeton Plasma Physics",
+    "bbox": [
+      25.2,
+      77.6,
+      172.0,
+      93.0
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b005",
+    "text": "Laboratory team led by C.S. Chang",
+    "bbox": [
+      25.2,
+      91.4,
+      208.8,
+      106.8
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b006",
+    "text": "was able to simulate and explain",
+    "bbox": [
+      25.2,
+      105.2,
+      194.2,
+      120.6
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b007",
+    "text": "nonlinear coherent turbulence",
+    "bbox": [
+      25.2,
+      119.0,
+      180.3,
+      134.4
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b008",
+    "text": "structures on the plasma edge in a",
+    "bbox": [
+      25.2,
+      132.8,
+      205.1,
+      148.2
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b009",
+    "text": "fusion reactor by exploiting",
+    "bbox": [
+      25.2,
+      146.7,
+      168.5,
+      162.0
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b010",
+    "text": "increased performance of  the Titan",
+    "bbox": [
+      25.2,
+      160.5,
+      210.2,
+      175.8
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b011",
+    "text": "architecture.",
+    "bbox": [
+      25.2,
+      174.3,
+      98.2,
+      189.6
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b012",
+    "text": "Turbomachinery",
+    "bbox": [
+      25.2,
+      207.0,
+      129.4,
+      225.1
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b013",
+    "text": "Ramgen Power Systems is using",
+    "bbox": [
+      25.2,
+      222.8,
+      197.0,
+      238.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b014",
+    "text": "the Titan system to significantly",
+    "bbox": [
+      25.2,
+      236.6,
+      188.4,
+      251.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b015",
+    "text": "reduce time to solution  in the",
+    "bbox": [
+      25.2,
+      250.4,
+      178.7,
+      265.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b016",
+    "text": "optimization of novel designs",
+    "bbox": [
+      25.2,
+      264.2,
+      175.9,
+      279.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b017",
+    "text": "based on aerospace shock wave",
+    "bbox": [
+      25.2,
+      278.0,
+      195.4,
+      293.3
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b018",
+    "text": "compression technology for gas",
+    "bbox": [
+      25.2,
+      291.8,
+      190.7,
+      307.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b019",
+    "text": "compression systems, such as",
+    "bbox": [
+      25.2,
+      305.6,
+      185.1,
+      320.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b020",
+    "text": "carbon dioxide compressors.",
+    "bbox": [
+      25.2,
+      319.4,
+      175.5,
+      334.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b021",
+    "text": "Nuclear Reactors",
+    "bbox": [
+      25.2,
+      357.0,
+      135.6,
+      375.1
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b022",
+    "text": "Center for the Advanced Simulation",
+    "bbox": [
+      25.2,
+      372.8,
+      213.2,
+      388.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b023",
+    "text": "of Lightwater Reactors (CASL)",
+    "bbox": [
+      25.2,
+      386.6,
+      184.4,
+      401.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b024",
+    "text": "investigators successfully performed",
+    "bbox": [
+      25.2,
+      400.4,
+      213.9,
+      415.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b025",
+    "text": "full core physics power-up simulations",
+    "bbox": [
+      25.2,
+      414.2,
+      222.1,
+      429.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b026",
+    "text": "of the Westinghouse AP1000",
+    "bbox": [
+      25.2,
+      428.0,
+      177.3,
+      443.3
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b027",
+    "text": "pressurized water reactor core using",
+    "bbox": [
+      25.2,
+      441.8,
+      214.5,
+      457.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b028",
+    "text": "their Virtual Environment for Reactor",
+    "bbox": [
+      25.2,
+      455.6,
+      214.5,
+      470.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b029",
+    "text": "Application code that has been",
+    "bbox": [
+      25.2,
+      469.4,
+      185.5,
+      484.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b030",
+    "text": "designed on Titan architecture.",
+    "bbox": [
+      25.2,
+      483.2,
+      189.6,
+      498.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b031",
+    "text": "Liquid Crystal Film Stability",
+    "bbox": [
+      523.3,
+      61.9,
+      698.0,
+      79.9
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b032",
+    "text": "ORNL Postdoctoral fellow Trung",
+    "bbox": [
+      529.7,
+      77.6,
+      697.6,
+      93.0
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b033",
+    "text": "Nguyen ran unprecedented",
+    "bbox": [
+      555.4,
+      91.4,
+      701.1,
+      106.8
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b034",
+    "text": "large-scale molecular dynamics",
+    "bbox": [
+      533.5,
+      105.2,
+      700.9,
+      120.6
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b035",
+    "text": "simulations on Titan to model the",
+    "bbox": [
+      525.7,
+      119.0,
+      697.6,
+      134.4
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b036",
+    "text": "beginnings of ruptures in thin",
+    "bbox": [
+      546.8,
+      132.8,
+      700.9,
+      148.2
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b037",
+    "text": "films wetting a solid substrate.",
+    "bbox": [
+      541.1,
+      146.7,
+      697.6,
+      162.0
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b038",
+    "text": "Earthquake Hazard",
+    "bbox": [
+      576.6,
+      207.0,
+      698.0,
+      225.1
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b039",
+    "text": "Assessment",
+    "bbox": [
+      618.2,
+      222.6,
+      698.0,
+      240.7
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b040",
+    "text": "To better prepare California for large",
+    "bbox": [
+      508.3,
+      238.4,
+      697.6,
+      253.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b041",
+    "text": "seismic events SCEC joint",
+    "bbox": [
+      559.7,
+      252.2,
+      697.7,
+      267.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b042",
+    "text": "researchers have simulated",
+    "bbox": [
+      553.0,
+      266.0,
+      697.6,
+      281.3
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b043",
+    "text": "earthquakes at high frequencies",
+    "bbox": [
+      530.8,
+      279.8,
+      697.6,
+      295.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b044",
+    "text": "allowing structural engineers to",
+    "bbox": [
+      536.0,
+      293.6,
+      697.6,
+      308.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b045",
+    "text": "conduct realistic physics-based",
+    "bbox": [
+      535.6,
+      307.4,
+      697.7,
+      322.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b046",
+    "text": "probabilistic seismic hazard analyses.",
+    "bbox": [
+      502.4,
+      321.2,
+      697.7,
+      336.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b047",
+    "text": "Climate Science",
+    "bbox": [
+      594.8,
+      357.0,
+      698.0,
+      375.1
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b048",
+    "text": "Simulations on OLCF resources",
+    "bbox": [
+      531.7,
+      372.8,
+      701.0,
+      388.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b049",
+    "text": "recreated the evolution of the climate",
+    "bbox": [
+      505.4,
+      386.6,
+      697.7,
+      401.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b050",
+    "text": "state during the first half of the last",
+    "bbox": [
+      518.2,
+      400.4,
+      697.7,
+      415.7
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b051",
+    "text": "deglaciation period allowing scientists",
+    "bbox": [
+      503.2,
+      414.2,
+      697.6,
+      429.5
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b052",
+    "text": "to explain the mechanisms that",
+    "bbox": [
+      535.9,
+      428.0,
+      697.6,
+      443.3
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b053",
+    "text": "triggered the last period  of Southern",
+    "bbox": [
+      507.6,
+      441.8,
+      697.6,
+      457.1
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 5,
+    "block_id": "371_p5_b054",
+    "text": "Hemisphere warning and deglaciation.",
+    "bbox": [
+      499.2,
+      455.6,
+      697.6,
+      470.9
+    ],
+    "font_size": 11.5,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b001",
+    "text": "6 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b002",
+    "text": "Two Architecture Paths for",
+    "bbox": [
+      21.7,
+      13.3,
+      485.0,
+      55.0
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b003",
+    "text": "Today and Future Leadership Systems",
+    "bbox": [
+      21.7,
+      43.9,
+      659.5,
+      85.6
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b004",
+    "text": "Hybrid Multi-Core (like Titan)",
+    "bbox": [
+      31.6,
+      180.2,
+      309.9,
+      208.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b005",
+    "text": "• CPU / GPU hybrid systems",
+    "bbox": [
+      31.6,
+      216.1,
+      296.6,
+      242.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b006",
+    "text": "• Likely to have multiple CPUs and",
+    "bbox": [
+      31.6,
+      251.6,
+      348.8,
+      278.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b007",
+    "text": "GPUs per node",
+    "bbox": [
+      49.7,
+      273.2,
+      193.2,
+      299.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b008",
+    "text": "• Small number of very powerful",
+    "bbox": [
+      31.6,
+      308.9,
+      325.3,
+      335.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b009",
+    "text": "nodes",
+    "bbox": [
+      49.7,
+      330.5,
+      110.0,
+      357.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b010",
+    "text": "• Expect data movement issues to",
+    "bbox": [
+      31.6,
+      366.1,
+      344.0,
+      392.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b011",
+    "text": "be much easier than previous",
+    "bbox": [
+      49.7,
+      387.7,
+      317.6,
+      414.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b012",
+    "text": "systems – coherent shared",
+    "bbox": [
+      49.7,
+      409.3,
+      295.4,
+      436.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b013",
+    "text": "memory within a node",
+    "bbox": [
+      49.7,
+      430.9,
+      250.9,
+      457.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b014",
+    "text": "• Multiple levels of memory – on",
+    "bbox": [
+      31.6,
+      466.4,
+      325.3,
+      493.1
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b015",
+    "text": "package, DDR, and non-volatile",
+    "bbox": [
+      49.7,
+      488.0,
+      343.2,
+      514.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b016",
+    "text": "Many Core (like Sequoia/Mira)",
+    "bbox": [
+      378.6,
+      180.2,
+      668.6,
+      208.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b017",
+    "text": "• 10’s of thousands of nodes with",
+    "bbox": [
+      378.6,
+      216.1,
+      681.7,
+      242.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b018",
+    "text": "millions of cores",
+    "bbox": [
+      396.7,
+      237.7,
+      546.0,
+      264.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b019",
+    "text": "• Homogeneous cores",
+    "bbox": [
+      378.6,
+      273.2,
+      587.1,
+      299.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b020",
+    "text": "• Multiple levels of memory – on",
+    "bbox": [
+      378.6,
+      308.9,
+      672.3,
+      335.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b021",
+    "text": "package, DDR, and non-volatile",
+    "bbox": [
+      396.7,
+      330.5,
+      684.8,
+      357.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b022",
+    "text": "• Unlike prior generations, future",
+    "bbox": [
+      378.6,
+      366.1,
+      675.7,
+      392.8
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b023",
+    "text": "products are likely to be self",
+    "bbox": [
+      396.7,
+      387.7,
+      650.0,
+      414.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b024",
+    "text": "hosted",
+    "bbox": [
+      396.7,
+      409.3,
+      462.6,
+      436.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b025",
+    "text": "Power concerns for large supercomputers are driving the largest",
+    "bbox": [
+      42.7,
+      102.9,
+      664.8,
+      130.8
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 6,
+    "block_id": "371_p6_b026",
+    "text": "systems to either Hybrid or Many-core architectures",
+    "bbox": [
+      103.3,
+      126.9,
+      604.3,
+      154.8
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b001",
+    "text": "7 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b002",
+    "text": "Where do we go from here?",
+    "bbox": [
+      21.7,
+      13.3,
+      482.4,
+      55.0
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b003",
+    "text": "• Provide the Leadership computing capabilities",
+    "bbox": [
+      22.7,
+      77.4,
+      621.1,
+      114.6
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b004",
+    "text": "needed for the DOE Office of Science mission",
+    "bbox": [
+      40.8,
+      107.6,
+      619.8,
+      144.8
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b005",
+    "text": "from 2018 through 2022",
+    "bbox": [
+      40.8,
+      137.9,
+      348.1,
+      175.1
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b006",
+    "text": "– Capabilities for INCITE and ALCC science projects",
+    "bbox": [
+      49.9,
+      176.6,
+      617.8,
+      208.6
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b007",
+    "text": "• CORAL was formed by grouping the three Labs",
+    "bbox": [
+      22.7,
+      249.9,
+      638.4,
+      287.1
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b008",
+    "text": "who would be acquiring Leadership computers in",
+    "bbox": [
+      40.8,
+      280.2,
+      657.1,
+      317.4
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b009",
+    "text": "the same timeframe (2017).",
+    "bbox": [
+      40.8,
+      310.4,
+      393.1,
+      347.6
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b010",
+    "text": "– Benefits include:",
+    "bbox": [
+      49.9,
+      349.2,
+      261.4,
+      381.1
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b011",
+    "text": "• Shared technical expertise",
+    "bbox": [
+      76.6,
+      383.6,
+      341.3,
+      410.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b012",
+    "text": "• Decreases risks due to the broader experiences, and broader",
+    "bbox": [
+      76.6,
+      413.3,
+      643.6,
+      440.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b013",
+    "text": "range of expertise of the collaboration",
+    "bbox": [
+      94.7,
+      434.9,
+      434.8,
+      461.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 7,
+    "block_id": "371_p7_b014",
+    "text": "• Lower collective cost for developing and responding to RFP",
+    "bbox": [
+      76.6,
+      464.5,
+      626.9,
+      491.2
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b001",
+    "text": "8 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b002",
+    "text": "CORAL Collaboration ORNL, ANL, LLNL)",
+    "bbox": [
+      28.2,
+      -0.6,
+      639.5,
+      44.5
+    ],
+    "font_size": 32.0,
+    "font_name": "Arial-Black",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b003",
+    "text": "Approach",
+    "bbox": [
+      24.7,
+      224.3,
+      113.2,
+      249.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b004",
+    "text": "Competitive process - one RFP (issued by LLNL) leading to 2 R&D contracts and",
+    "bbox": [
+      47.3,
+      247.9,
+      696.7,
+      271.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b005",
+    "text": "3 computer procurement contracts",
+    "bbox": [
+      47.3,
+      267.4,
+      326.2,
+      291.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b006",
+    "text": "For risk reduction and to meet a broad set of requirements, 2 architectural paths",
+    "bbox": [
+      47.3,
+      294.9,
+      688.1,
+      318.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b007",
+    "text": "will be selected and Oak Ridge and Argonne must choose different architectures",
+    "bbox": [
+      47.3,
+      314.3,
+      690.8,
+      338.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b008",
+    "text": "Once Selected, Multi-year Lab-Awardee relationship to co-design computers",
+    "bbox": [
+      47.3,
+      341.8,
+      659.8,
+      365.7
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b009",
+    "text": "Both R&D contracts jointly managed by the 3 Labs",
+    "bbox": [
+      47.3,
+      369.1,
+      454.1,
+      393.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b010",
+    "text": "Each lab manages and negotiates its own computer procurement contract, and",
+    "bbox": [
+      47.3,
+      396.6,
+      680.1,
+      420.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b011",
+    "text": "may exercise options to meet their specific needs",
+    "bbox": [
+      47.3,
+      416.1,
+      445.1,
+      440.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b012",
+    "text": "Understanding that long procurement lead-time may impact architectural",
+    "bbox": [
+      47.3,
+      443.5,
+      627.9,
+      467.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b013",
+    "text": "characteristics and designs of procured computers",
+    "bbox": [
+      47.3,
+      463.0,
+      454.1,
+      486.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b014",
+    "text": "Leadership Computers RFP requests >100 PF, 2 GB/core main memory, local",
+    "bbox": [
+      24.7,
+      163.4,
+      662.2,
+      188.5
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b015",
+    "text": "NVRAM, and science performance 4x-8x Titan or Sequoia",
+    "bbox": [
+      24.7,
+      185.2,
+      491.4,
+      209.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b016",
+    "text": "Objective - Procure 3 leadership computers to be",
+    "bbox": [
+      24.5,
+      57.1,
+      427.5,
+      85.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b017",
+    "text": "sited at Argonne, Oak Ridge and Lawrence Livermore",
+    "bbox": [
+      24.4,
+      81.5,
+      457.2,
+      105.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b018",
+    "text": "in 2017.  Two of the contracts have been awarded with",
+    "bbox": [
+      24.4,
+      103.1,
+      463.6,
+      127.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b019",
+    "text": "the Argonne contract in process.",
+    "bbox": [
+      24.4,
+      124.7,
+      287.3,
+      148.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b020",
+    "text": "Sequoia (LLNL)",
+    "bbox": [
+      557.3,
+      78.0,
+      633.8,
+      91.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b021",
+    "text": "2012 - 2017",
+    "bbox": [
+      557.3,
+      90.0,
+      624.0,
+      103.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b022",
+    "text": "Mira (ANL)",
+    "bbox": [
+      653.2,
+      76.4,
+      706.1,
+      90.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b023",
+    "text": "2012 - 2017",
+    "bbox": [
+      653.2,
+      88.4,
+      708.9,
+      102.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b024",
+    "text": "Titan (ORNL)",
+    "bbox": [
+      476.3,
+      78.8,
+      540.7,
+      92.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b025",
+    "text": "2012 - 2017",
+    "bbox": [
+      476.3,
+      90.8,
+      534.7,
+      104.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 8,
+    "block_id": "371_p8_b026",
+    "text": "Current DOE Leadership Computers",
+    "bbox": [
+      481.6,
+      58.0,
+      709.2,
+      76.1
+    ],
+    "font_size": 13.0,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b001",
+    "text": "9 ASCAC11/2014 - Bland",
+    "bbox": [
+      12.8,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b002",
+    "text": "CORAL Evaluation Process",
+    "bbox": [
+      15.9,
+      6.0,
+      466.3,
+      47.7
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b003",
+    "text": "A buying team consisting of the management, technical,",
+    "bbox": [
+      49.2,
+      54.0,
+      649.6,
+      85.9
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b004",
+    "text": "and procurement leadership of the three CORAL labs",
+    "bbox": [
+      49.2,
+      79.9,
+      622.2,
+      111.8
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b005",
+    "text": "met to select the set of two proposals that provided the",
+    "bbox": [
+      49.2,
+      105.5,
+      657.1,
+      139.0
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b006",
+    "text": "best value to the government",
+    "bbox": [
+      49.2,
+      131.7,
+      365.4,
+      163.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b007",
+    "text": "Evaluation Criteria:",
+    "bbox": [
+      58.0,
+      177.2,
+      244.2,
+      211.2
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b008",
+    "text": "• DOE mission requirements - the best overall combination of solutions",
+    "bbox": [
+      58.0,
+      210.0,
+      696.3,
+      244.4
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b009",
+    "text": "• Technical proposal excellence; projected performance on the",
+    "bbox": [
+      58.0,
+      243.3,
+      612.9,
+      277.2
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b010",
+    "text": "applications is the single most important criterion",
+    "bbox": [
+      76.1,
+      272.1,
+      512.9,
+      305.5
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialNarrow",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b011",
+    "text": "• Feasibility of schedule and performance",
+    "bbox": [
+      58.0,
+      304.9,
+      430.4,
+      338.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b012",
+    "text": "• Diversity",
+    "bbox": [
+      58.0,
+      337.7,
+      156.9,
+      371.6
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b013",
+    "text": "• Overall Price",
+    "bbox": [
+      58.0,
+      370.5,
+      199.9,
+      404.4
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b014",
+    "text": "• Supplier attributes",
+    "bbox": [
+      58.0,
+      403.3,
+      240.4,
+      437.1
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 9,
+    "block_id": "371_p9_b015",
+    "text": "• Risk evaluation",
+    "bbox": [
+      58.0,
+      436.1,
+      221.1,
+      470.0
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b001",
+    "text": "10 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b002",
+    "text": "Results of CORAL Procurement",
+    "bbox": [
+      15.9,
+      6.0,
+      540.0,
+      47.7
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b003",
+    "text": "RFP",
+    "bbox": [
+      67.4,
+      290.5,
+      108.4,
+      315.6
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b004",
+    "text": "Two Diverse Architecture Paths",
+    "bbox": [
+      56.0,
+      116.8,
+      335.0,
+      141.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b005",
+    "text": "NRE contract",
+    "bbox": [
+      197.4,
+      153.8,
+      309.3,
+      177.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b006",
+    "text": "OLCF Lab computer contract",
+    "bbox": [
+      197.4,
+      197.0,
+      439.3,
+      221.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b007",
+    "text": "LLNL computer contract",
+    "bbox": [
+      197.4,
+      240.2,
+      398.7,
+      264.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b008",
+    "text": "IBM with",
+    "bbox": [
+      559.2,
+      197.1,
+      638.6,
+      222.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b009",
+    "text": "NVIDIA &",
+    "bbox": [
+      559.2,
+      218.7,
+      642.5,
+      243.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b010",
+    "text": "Mellanox",
+    "bbox": [
+      559.2,
+      240.3,
+      641.2,
+      265.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b011",
+    "text": "NRE contract",
+    "bbox": [
+      197.4,
+      342.1,
+      309.3,
+      366.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b012",
+    "text": "ALCF computer contract",
+    "bbox": [
+      197.4,
+      385.3,
+      397.4,
+      409.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b013",
+    "text": "To be",
+    "bbox": [
+      567.0,
+      365.9,
+      618.7,
+      391.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 10,
+    "block_id": "371_p10_b014",
+    "text": "announced",
+    "bbox": [
+      542.3,
+      387.5,
+      643.5,
+      412.6
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b001",
+    "text": "11 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b002",
+    "text": "2017 OLCF Leadership System",
+    "bbox": [
+      16.2,
+      22.7,
+      528.4,
+      64.4
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b003",
+    "text": "Hybrid CPU/GPU architecture",
+    "bbox": [
+      16.2,
+      59.8,
+      360.2,
+      94.9
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b004",
+    "text": "Vendor: IBM (Prime) / NVIDIA™ / Mellanox Technologies®",
+    "bbox": [
+      40.2,
+      107.7,
+      572.1,
+      141.1
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b005",
+    "text": "At least 5X Titan’s Application Performance",
+    "bbox": [
+      40.2,
+      148.2,
+      463.6,
+      176.1
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b006",
+    "text": "Approximately 3,400 nodes, each with:",
+    "bbox": [
+      40.2,
+      183.7,
+      413.7,
+      211.6
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b007",
+    "text": "• Multiple IBM POWER9 CPUs and multiple NVIDIA Tesla® GPUs",
+    "bbox": [
+      40.2,
+      213.6,
+      634.2,
+      240.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b008",
+    "text": "using the NVIDIA Volta™ architecture",
+    "bbox": [
+      58.3,
+      235.2,
+      396.3,
+      261.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b009",
+    "text": "• CPUs and GPUs completely connected with high speed NVLink™",
+    "bbox": [
+      40.2,
+      264.8,
+      652.9,
+      291.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b010",
+    "text": "• Large coherent memory: over 512 GB (HBM + DDR4)",
+    "bbox": [
+      40.2,
+      294.4,
+      539.7,
+      321.0
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b011",
+    "text": "– all directly addressable from the CPUs and GPUs",
+    "bbox": [
+      67.4,
+      324.0,
+      538.2,
+      350.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b012",
+    "text": "• An additional 800 GB of NVRAM, which can be configured as either a",
+    "bbox": [
+      40.2,
+      353.6,
+      678.2,
+      380.3
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b013",
+    "text": "burst buffer or as extended memory",
+    "bbox": [
+      58.3,
+      375.2,
+      385.1,
+      401.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b014",
+    "text": "• over 40 TF peak performance",
+    "bbox": [
+      40.2,
+      404.8,
+      332.2,
+      431.4
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b015",
+    "text": "Dual-rail Mellanox® EDR-IB full, non-blocking fat-tree interconnect",
+    "bbox": [
+      40.2,
+      440.2,
+      677.0,
+      468.1
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 11,
+    "block_id": "371_p11_b016",
+    "text": "IBM Elastic Storage (GPFS™) - 1TB/s I/O and 120 PB disk capacity.",
+    "bbox": [
+      40.2,
+      475.8,
+      678.0,
+      503.7
+    ],
+    "font_size": 20.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b001",
+    "text": "INTRODUCING NVLINK AND STACKED MEMORY",
+    "bbox": [
+      36.5,
+      28.6,
+      693.1,
+      67.2
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b002",
+    "text": "TRANSFORMATIVE TECHNOLOGY FOR 2016 WITH POWER 8+ ®, AND BEYOND",
+    "bbox": [
+      25.6,
+      58.3,
+      700.4,
+      86.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b003",
+    "text": "NVLINK",
+    "bbox": [
+      25.2,
+      153.4,
+      129.0,
+      188.4
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b004",
+    "text": "GPU high speed interconnect",
+    "bbox": [
+      52.2,
+      199.3,
+      317.9,
+      223.4
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b005",
+    "text": "5X-12X PCI-E Gen3 Bandwidth",
+    "bbox": [
+      52.2,
+      225.7,
+      324.6,
+      249.8
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b006",
+    "text": "Planned support for POWER® CPUs",
+    "bbox": [
+      52.2,
+      248.4,
+      364.7,
+      276.2
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b007",
+    "text": "Stacked (HBM) Memory",
+    "bbox": [
+      25.2,
+      337.9,
+      333.6,
+      372.8
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b008",
+    "text": "4x Higher Bandwidth (~1 TB/s)",
+    "bbox": [
+      52.2,
+      377.1,
+      332.9,
+      401.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b009",
+    "text": "3x Larger Capacity",
+    "bbox": [
+      52.2,
+      405.9,
+      225.5,
+      430.1
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b010",
+    "text": "4x More Energy Efficient per bit",
+    "bbox": [
+      52.2,
+      434.7,
+      343.6,
+      458.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 12,
+    "block_id": "371_p12_b011",
+    "text": "Slide courtesy of NVIDIA",
+    "bbox": [
+      146.2,
+      515.2,
+      345.1,
+      536.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b001",
+    "text": "13 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b002",
+    "text": "Summit’s High-Speed Interconnect",
+    "bbox": [
+      50.3,
+      12.6,
+      669.2,
+      57.2
+    ],
+    "font_size": 32.0,
+    "font_name": "Arial-Black",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b003",
+    "text": "Mellanox Technologies® Dual-Rail EDR Infiniband",
+    "bbox": [
+      31.7,
+      47.9,
+      685.3,
+      81.2
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-Black",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b004",
+    "text": "InfiniBand Interconnect",
+    "bbox": [
+      22.2,
+      107.0,
+      296.6,
+      140.5
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b005",
+    "text": "• 3-Level Fat Tree",
+    "bbox": [
+      22.2,
+      146.6,
+      252.2,
+      183.9
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b006",
+    "text": "• 23 GB/s (dual plane",
+    "bbox": [
+      22.2,
+      190.8,
+      295.9,
+      228.0
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b007",
+    "text": "100Gb/s)",
+    "bbox": [
+      40.3,
+      221.1,
+      163.4,
+      258.3
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b008",
+    "text": "• 5 hops max",
+    "bbox": [
+      22.2,
+      265.3,
+      193.0,
+      302.5
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b009",
+    "text": "• Adaptive routing",
+    "bbox": [
+      22.2,
+      309.6,
+      250.7,
+      346.8
+    ],
+    "font_size": 28.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b010",
+    "text": "Three-level Fat Tree Interconnect",
+    "bbox": [
+      313.2,
+      107.0,
+      696.0,
+      140.5
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b011",
+    "text": "IB Top of Rack switches",
+    "bbox": [
+      372.4,
+      315.0,
+      567.6,
+      339.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b012",
+    "text": "IB core switches",
+    "bbox": [
+      417.0,
+      238.5,
+      552.5,
+      262.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b013",
+    "text": "IB core switches",
+    "bbox": [
+      413.6,
+      157.5,
+      549.1,
+      181.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 13,
+    "block_id": "371_p13_b014",
+    "text": "Dual 100 Gb/s links",
+    "bbox": [
+      619.0,
+      172.9,
+      640.2,
+      316.3
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b001",
+    "text": "14 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b002",
+    "text": "Summit Key Software Components",
+    "bbox": [
+      21.7,
+      13.3,
+      602.7,
+      55.0
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b003",
+    "text": "• System",
+    "bbox": [
+      22.7,
+      60.3,
+      132.5,
+      93.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b004",
+    "text": "– Linux®",
+    "bbox": [
+      49.9,
+      91.0,
+      132.9,
+      114.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b005",
+    "text": "– IBM Elastic Storage (GPFS™)",
+    "bbox": [
+      49.9,
+      114.1,
+      318.9,
+      138.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b006",
+    "text": "– IBM Platform Computing™ (LSF)",
+    "bbox": [
+      49.9,
+      137.3,
+      340.9,
+      161.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b007",
+    "text": "– IBM Platform Cluster Manager™ (xCAT)",
+    "bbox": [
+      49.9,
+      160.3,
+      397.5,
+      184.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b008",
+    "text": "• Programming Environment",
+    "bbox": [
+      22.7,
+      186.9,
+      356.7,
+      220.3
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b009",
+    "text": "– Compilers supporting OpenMP and OpenACC",
+    "bbox": [
+      49.9,
+      216.8,
+      486.3,
+      243.5
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b010",
+    "text": "• IBM XL, PGI, LLVM, GNU, NVIDIA",
+    "bbox": [
+      76.6,
+      243.3,
+      344.6,
+      264.5
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b011",
+    "text": "– Libraries",
+    "bbox": [
+      49.9,
+      263.0,
+      154.5,
+      289.7
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b012",
+    "text": "• IBM Engineering and Scientific Subroutine Library (ESSL)",
+    "bbox": [
+      76.6,
+      289.5,
+      507.8,
+      310.7
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b013",
+    "text": "• FFTW, ScaLAPACK, PETSc, Trilinos, BLAS-1,-2,-3, NVBLAS",
+    "bbox": [
+      76.6,
+      310.9,
+      532.5,
+      332.2
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b014",
+    "text": "• cuFFT, cuSPARSE, cuRAND, NPP, Thrust",
+    "bbox": [
+      76.6,
+      332.3,
+      397.4,
+      353.5
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b015",
+    "text": "– Debugging",
+    "bbox": [
+      49.9,
+      352.2,
+      174.5,
+      378.9
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b016",
+    "text": "• Allinea DDT, IBM Parallel Environment Runtime Edition (pdb)",
+    "bbox": [
+      76.6,
+      378.6,
+      530.6,
+      399.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b017",
+    "text": "• Cuda-gdb, Cuda-memcheck, valgrind, memcheck, helgrind, stacktrace",
+    "bbox": [
+      76.6,
+      400.0,
+      598.0,
+      421.2
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b018",
+    "text": "– Profiling",
+    "bbox": [
+      49.9,
+      419.9,
+      149.8,
+      446.6
+    ],
+    "font_size": 20.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b019",
+    "text": "• IBM Parallel Environment Developer Edition (HPC Toolkit)",
+    "bbox": [
+      76.6,
+      446.3,
+      512.7,
+      467.5
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 14,
+    "block_id": "371_p14_b020",
+    "text": "• VAMPIR, Tau, Open|Speedshop, nvprof, gprof, Rice HPCToolkit",
+    "bbox": [
+      76.6,
+      467.7,
+      550.1,
+      488.9
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b001",
+    "text": "15 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b002",
+    "text": "How does Summit compare to Titan",
+    "bbox": [
+      21.7,
+      13.3,
+      620.1,
+      55.0
+    ],
+    "font_size": 30.0,
+    "font_name": "Arial-Black",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b003",
+    "text": "Feature",
+    "bbox": [
+      22.7,
+      92.8,
+      92.6,
+      117.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b004",
+    "text": "Summit",
+    "bbox": [
+      400.7,
+      92.8,
+      471.7,
+      117.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b005",
+    "text": "Titan",
+    "bbox": [
+      646.0,
+      92.8,
+      693.7,
+      117.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b006",
+    "text": "Application Performance",
+    "bbox": [
+      22.7,
+      122.2,
+      223.5,
+      146.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b007",
+    "text": "5-10x Titan",
+    "bbox": [
+      377.6,
+      122.2,
+      471.6,
+      146.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b008",
+    "text": "Baseline",
+    "bbox": [
+      619.9,
+      122.2,
+      693.7,
+      146.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b009",
+    "text": "Number of Nodes",
+    "bbox": [
+      22.7,
+      151.4,
+      168.6,
+      175.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b010",
+    "text": "~3,400",
+    "bbox": [
+      411.2,
+      151.4,
+      471.7,
+      175.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b011",
+    "text": "18,688",
+    "bbox": [
+      633.9,
+      151.4,
+      693.7,
+      175.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b012",
+    "text": "Node performance",
+    "bbox": [
+      22.7,
+      180.6,
+      176.5,
+      204.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b013",
+    "text": "> 40 TF",
+    "bbox": [
+      404.3,
+      180.6,
+      471.7,
+      204.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b014",
+    "text": "1.4 TF",
+    "bbox": [
+      636.9,
+      180.6,
+      693.7,
+      204.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b015",
+    "text": "Memory per Node",
+    "bbox": [
+      22.7,
+      209.8,
+      171.6,
+      233.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b016",
+    "text": ">512 GB (HBM + DDR4)",
+    "bbox": [
+      268.8,
+      209.8,
+      471.7,
+      233.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b017",
+    "text": "38GB (GDDR5+DDR3)",
+    "bbox": [
+      503.4,
+      209.8,
+      693.7,
+      233.8
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b018",
+    "text": "NVRAM per Node",
+    "bbox": [
+      22.7,
+      239.0,
+      171.6,
+      262.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b019",
+    "text": "800 GB",
+    "bbox": [
+      405.6,
+      239.0,
+      471.7,
+      262.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b020",
+    "text": "Node Interconnect",
+    "bbox": [
+      22.7,
+      268.2,
+      174.6,
+      292.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b021",
+    "text": "NVLink (5-12x PCIe 3)",
+    "bbox": [
+      286.7,
+      268.2,
+      471.7,
+      292.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b022",
+    "text": "PCIe 2",
+    "bbox": [
+      633.7,
+      268.2,
+      693.7,
+      292.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b023",
+    "text": "System Interconnect",
+    "bbox": [
+      22.7,
+      297.4,
+      191.6,
+      321.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b024",
+    "text": "(node injection bandwidth)",
+    "bbox": [
+      22.7,
+      319.1,
+      213.5,
+      340.4
+    ],
+    "font_size": 16.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b025",
+    "text": "Dual Rail EDR-IB (23 GB/s)",
+    "bbox": [
+      245.6,
+      297.4,
+      471.7,
+      321.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b026",
+    "text": "Gemini (6.4 GB/s)",
+    "bbox": [
+      544.6,
+      297.4,
+      693.7,
+      321.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b027",
+    "text": "Interconnect Topology",
+    "bbox": [
+      22.7,
+      345.4,
+      203.0,
+      369.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b028",
+    "text": "Non-blocking Fat Tree",
+    "bbox": [
+      289.7,
+      345.4,
+      471.6,
+      369.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b029",
+    "text": "3D Torus",
+    "bbox": [
+      616.9,
+      345.4,
+      693.7,
+      369.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b030",
+    "text": "Processors",
+    "bbox": [
+      22.7,
+      374.6,
+      117.6,
+      398.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b031",
+    "text": "IBM POWER9",
+    "bbox": [
+      351.7,
+      374.6,
+      471.7,
+      398.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b032",
+    "text": "NVIDIA Volta™",
+    "bbox": [
+      344.8,
+      396.2,
+      471.7,
+      420.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b033",
+    "text": "AMD Opteron™",
+    "bbox": [
+      560.8,
+      374.6,
+      693.7,
+      398.6
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b034",
+    "text": "NVIDIA Kepler™",
+    "bbox": [
+      554.9,
+      396.2,
+      693.7,
+      420.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b035",
+    "text": "File System",
+    "bbox": [
+      22.7,
+      425.0,
+      121.5,
+      449.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b036",
+    "text": "120 PB, 1 TB/s, GPFS™",
+    "bbox": [
+      268.9,
+      425.0,
+      471.7,
+      449.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b037",
+    "text": "32 PB, 1 TB/s, Lustre®",
+    "bbox": [
+      509.2,
+      423.8,
+      692.0,
+      449.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b038",
+    "text": "Peak power consumption",
+    "bbox": [
+      22.7,
+      454.2,
+      229.4,
+      478.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b039",
+    "text": "10 MW",
+    "bbox": [
+      409.7,
+      454.2,
+      471.7,
+      478.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 15,
+    "block_id": "371_p15_b040",
+    "text": "9 MW",
+    "bbox": [
+      641.6,
+      454.2,
+      693.7,
+      478.2
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b001",
+    "text": "16 ASCAC11/2014 - Bland",
+    "bbox": [
+      7.3,
+      510.9,
+      131.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b002",
+    "text": "Questions?AS@ornl.gov",
+    "bbox": [
+      22.4,
+      10.2,
+      545.1,
+      65.7
+    ],
+    "font_size": 40.0,
+    "font_name": "Arial-Black",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b003",
+    "text": "This research used resources of the Oak Ridge Leadership",
+    "bbox": [
+      201.2,
+      495.5,
+      479.7,
+      509.6
+    ],
+    "font_size": 10.6,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b004",
+    "text": "Computing Facility, which is a DOE Office of Science User Facility",
+    "bbox": [
+      185.2,
+      508.1,
+      495.6,
+      522.2
+    ],
+    "font_size": 10.6,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b005",
+    "text": "supported under Contract DE-AC05-00OR22725",
+    "bbox": [
+      225.2,
+      519.6,
+      456.2,
+      534.5
+    ],
+    "font_size": 10.6,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "371",
+    "page_number": 16,
+    "block_id": "371_p16_b006",
+    "text": "GPU Hackathon October 2014",
+    "bbox": [
+      381.6,
+      471.7,
+      641.4,
+      496.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  }
+]

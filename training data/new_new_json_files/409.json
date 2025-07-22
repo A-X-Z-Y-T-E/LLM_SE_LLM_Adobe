@@ -1,0 +1,1202 @@
+[
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b001",
+    "text": "State of Idaho                                                                                                                     Fixed Asset System (FAS)",
+    "bbox": [
+      72.0,
+      36.1,
+      538.0,
+      46.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b002",
+    "text": "Office of the State Controller                                                                                                                    FAS Manual",
+    "bbox": [
+      72.0,
+      46.5,
+      538.6,
+      56.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b003",
+    "text": "Division of Statewide Accounting",
+    "bbox": [
+      72.0,
+      56.8,
+      217.1,
+      66.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b004",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      67.2,
+      539.9,
+      77.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b005",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      694.0,
+      539.9,
+      704.1
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b006",
+    "text": "FAS Manual",
+    "bbox": [
+      72.0,
+      714.7,
+      126.0,
+      724.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b007",
+    "text": "Transferring an Asset",
+    "bbox": [
+      431.7,
+      714.7,
+      527.2,
+      724.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b008",
+    "text": "FIXED ASSET MANUAL ..............................................................1",
+    "bbox": [
+      72.0,
+      88.2,
+      542.5,
+      106.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b009",
+    "text": "TRANSFERRING AN ASSET TO ANOTHER AGENCY..............1",
+    "bbox": [
+      72.0,
+      106.6,
+      542.5,
+      124.5
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b010",
+    "text": "INTRODUCTION ......................................................................................................... 1",
+    "bbox": [
+      82.8,
+      130.9,
+      542.5,
+      144.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b011",
+    "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS THAN $5,000........... 1",
+    "bbox": [
+      82.8,
+      153.7,
+      542.5,
+      167.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b012",
+    "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000 OR MORE.............. 2",
+    "bbox": [
+      82.8,
+      176.5,
+      542.5,
+      189.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b013",
+    "text": "Rev. Date: 05/26/2005",
+    "bbox": [
+      72.0,
+      725.1,
+      166.0,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 1,
+    "block_id": "409_p1_b014",
+    "text": "TOC  Page 1",
+    "bbox": [
+      471.7,
+      725.1,
+      527.2,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b001",
+    "text": "State of Idaho                                                                                                  Capital Asset Management System",
+    "bbox": [
+      72.0,
+      36.1,
+      528.0,
+      46.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b002",
+    "text": "Office of the State Controller                                                                                                                FAS Manual",
+    "bbox": [
+      72.0,
+      46.5,
+      528.7,
+      56.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b003",
+    "text": "Division of Statewide Accounting",
+    "bbox": [
+      72.0,
+      56.8,
+      217.1,
+      66.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b004",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      67.2,
+      539.9,
+      77.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b005",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      704.4,
+      539.9,
+      714.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b006",
+    "text": "FIXED ASSET MANUAL",
+    "bbox": [
+      72.0,
+      95.0,
+      368.7,
+      124.0
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b007",
+    "text": "TRANSFERRING AN ASSET TO",
+    "bbox": [
+      72.0,
+      131.3,
+      465.5,
+      160.3
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b008",
+    "text": "ANOTHER AGENCY",
+    "bbox": [
+      72.0,
+      161.2,
+      325.3,
+      190.2
+    ],
+    "font_size": 26.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b009",
+    "text": "INTRODUCTION",
+    "bbox": [
+      72.0,
+      204.3,
+      199.1,
+      222.1
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b010",
+    "text": "Transferring an asset between agencies simply means that one agency sends an asset to another",
+    "bbox": [
+      72.0,
+      225.5,
+      532.3,
+      238.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b011",
+    "text": "agency. The agency transferring the asset out is referred to as the \"transfer out\" agency and the",
+    "bbox": [
+      72.0,
+      239.3,
+      529.6,
+      252.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b012",
+    "text": "agency receiving the asset is referred to as the \"receiving agency\".",
+    "bbox": [
+      72.0,
+      253.1,
+      393.0,
+      266.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b013",
+    "text": "The book value of the asset is an important factor in determining how to record the transaction.",
+    "bbox": [
+      72.0,
+      280.7,
+      531.9,
+      294.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b014",
+    "text": "If the book value of the asset is less than $5,000, the agency transferring will treat the transaction",
+    "bbox": [
+      72.0,
+      294.5,
+      541.2,
+      307.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b015",
+    "text": "as a disposition, e.g., a donation or scrap, using transaction codes DD1 through DD4, depending",
+    "bbox": [
+      72.0,
+      308.3,
+      537.0,
+      321.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b016",
+    "text": "on the class of asset. The receiving agency can enter the acquisition by whatever method seems",
+    "bbox": [
+      72.0,
+      322.1,
+      532.9,
+      335.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b017",
+    "text": "appropriate.",
+    "bbox": [
+      72.0,
+      335.9,
+      132.6,
+      349.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b018",
+    "text": "If the book value of the asset is $5,000 or more, both agencies should contact the DSAHelpline",
+    "bbox": [
+      72.0,
+      349.7,
+      531.6,
+      363.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b019",
+    "text": "for assistance.",
+    "bbox": [
+      72.0,
+      363.5,
+      143.0,
+      376.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b020",
+    "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF LESS",
+    "bbox": [
+      72.0,
+      389.4,
+      520.9,
+      407.3
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b021",
+    "text": "THAN $5,000",
+    "bbox": [
+      72.0,
+      407.8,
+      174.2,
+      425.7
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b022",
+    "text": "The transfer out agency should dispose of the asset using the following steps:",
+    "bbox": [
+      72.0,
+      429.1,
+      446.4,
+      442.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b023",
+    "text": "1. Type 35 at the FAS Main Menu and press ENTER.",
+    "bbox": [
+      90.0,
+      442.7,
+      357.0,
+      456.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b024",
+    "text": "2. Enter an A in the FUNCTION field, and enter the property number and component",
+    "bbox": [
+      90.0,
+      456.5,
+      512.9,
+      470.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b025",
+    "text": "number in the PROP NO and COMP NO fields. Confirm that the property and",
+    "bbox": [
+      108.0,
+      470.5,
+      494.3,
+      483.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b026",
+    "text": "component number exactly match the record in the FAS Property File (i.e., screen S040).",
+    "bbox": [
+      108.0,
+      484.3,
+      539.2,
+      497.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b027",
+    "text": "3. Enter the sequence number (usually 0001) in the SEQ NO field.",
+    "bbox": [
+      90.0,
+      497.9,
+      419.9,
+      511.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b028",
+    "text": "4. Enter the transaction code (FAS TC) for the class code of the property number being",
+    "bbox": [
+      90.0,
+      511.7,
+      519.6,
+      525.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b029",
+    "text": "disposed. The FAS TC will be DD1, DD2, DD3, or DD4. (Refer to FAS Descriptor",
+    "bbox": [
+      108.0,
+      525.7,
+      514.0,
+      539.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b030",
+    "text": "Table 15.)",
+    "bbox": [
+      108.0,
+      539.5,
+      160.4,
+      552.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b031",
+    "text": "5. Enter the status code in the STATUS field.",
+    "bbox": [
+      90.0,
+      553.1,
+      318.4,
+      566.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b032",
+    "text": "For a full disposition, enter the following:",
+    "bbox": [
+      108.0,
+      567.1,
+      312.0,
+      580.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b033",
+    "text": "• D (disposed)",
+    "bbox": [
+      108.0,
+      580.4,
+      190.7,
+      595.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SymbolMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b034",
+    "text": "6. Enter a disposition code (e.g., S (if Sold), D (donated or scrapped), etc.) in the DSP",
+    "bbox": [
+      90.0,
+      595.4,
+      511.9,
+      608.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b035",
+    "text": "MTH field. (Refer to FAS Descriptor Table 22 for more disposition codes.)",
+    "bbox": [
+      108.0,
+      609.3,
+      475.3,
+      622.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b036",
+    "text": "7. Enter the amount of cash actually received in the ADT AMT field.",
+    "bbox": [
+      90.0,
+      626.0,
+      433.0,
+      639.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b037",
+    "text": "8. Enter the three-digit number representing the percentage of the asset being disposed in",
+    "bbox": [
+      90.0,
+      642.8,
+      526.3,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b038",
+    "text": "the DISP % field. For a full disposition, enter 100.",
+    "bbox": [
+      108.0,
+      656.7,
+      356.4,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b039",
+    "text": "9. Enter the disposition date in the ADT DATE field.",
+    "bbox": [
+      90.0,
+      673.4,
+      356.1,
+      686.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b040",
+    "text": "FAS Manual",
+    "bbox": [
+      72.0,
+      725.1,
+      126.0,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b041",
+    "text": "Transferring an Asset",
+    "bbox": [
+      447.0,
+      725.1,
+      542.5,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b042",
+    "text": "Rev. Date: 05/26/2005",
+    "bbox": [
+      72.0,
+      735.4,
+      166.0,
+      745.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 2,
+    "block_id": "409_p2_b043",
+    "text": "Page 1",
+    "bbox": [
+      511.0,
+      735.4,
+      542.5,
+      745.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b001",
+    "text": "State of Idaho                                                                                                  Capital Asset Management System",
+    "bbox": [
+      72.0,
+      36.1,
+      528.0,
+      46.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b002",
+    "text": "Office of the State Controller                                                                                                                FAS Manual",
+    "bbox": [
+      72.0,
+      46.5,
+      528.7,
+      56.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b003",
+    "text": "Division of Statewide Accounting",
+    "bbox": [
+      72.0,
+      56.8,
+      217.1,
+      66.9
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b004",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      67.2,
+      539.9,
+      77.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b005",
+    "text": "_____________________________________________________________________________________________",
+    "bbox": [
+      72.0,
+      704.4,
+      539.9,
+      714.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b006",
+    "text": "10. Enter the quantity in the QTY field. For a full disposition, the quantity should equal that",
+    "bbox": [
+      90.0,
+      87.9,
+      535.4,
+      101.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b007",
+    "text": "of the asset in the FAS Property File.",
+    "bbox": [
+      108.0,
+      101.9,
+      288.9,
+      115.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b008",
+    "text": "11. Press F1 or ENTER to post the record to the FAS Property File.",
+    "bbox": [
+      90.0,
+      118.5,
+      417.3,
+      132.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b009",
+    "text": "• If you do not have disposition-release authority (i.e., approval level 3 or lower),",
+    "bbox": [
+      108.0,
+      135.0,
+      511.5,
+      149.7
+    ],
+    "font_size": 12.0,
+    "font_name": "SymbolMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b010",
+    "text": "'INVALID APPROVAL LEVEL' will appear in the message section of the screen,",
+    "bbox": [
+      126.0,
+      150.2,
+      525.3,
+      163.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b011",
+    "text": "and the status in the FAS Hold File record will be 'H'.",
+    "bbox": [
+      126.0,
+      164.0,
+      387.2,
+      177.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b012",
+    "text": "• If you have disposition-release authority (i.e., approval level 4 or greater), 'RECORD",
+    "bbox": [
+      108.0,
+      177.3,
+      538.0,
+      192.0
+    ],
+    "font_size": 12.0,
+    "font_name": "SymbolMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b013",
+    "text": "ADDED' will appear in the message section of the screen and there will be a 'P' in the",
+    "bbox": [
+      126.0,
+      192.4,
+      541.0,
+      205.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b014",
+    "text": "FAS Hold File record.",
+    "bbox": [
+      126.0,
+      206.2,
+      236.4,
+      219.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b015",
+    "text": "The receiving agency should enter the acquisition using standard acquisition steps. Click here for",
+    "bbox": [
+      72.0,
+      233.8,
+      541.6,
+      247.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b016",
+    "text": "steps to enter acquisitions.",
+    "bbox": [
+      72.0,
+      247.6,
+      201.7,
+      260.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b017",
+    "text": "TO TRANSFER AN ASSET WITH A BOOK VALUE OF $5,000",
+    "bbox": [
+      72.0,
+      273.5,
+      527.9,
+      291.4
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b018",
+    "text": "OR MORE",
+    "bbox": [
+      72.0,
+      291.9,
+      152.9,
+      309.8
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b019",
+    "text": "For either transferring out or receiving the asset, contact the DSAHelpline for assistance.",
+    "bbox": [
+      72.0,
+      313.2,
+      501.6,
+      326.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b020",
+    "text": "FAS Manual",
+    "bbox": [
+      72.0,
+      725.1,
+      126.0,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b021",
+    "text": "Transferring an Asset",
+    "bbox": [
+      447.0,
+      725.1,
+      542.5,
+      735.2
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b022",
+    "text": "Rev. Date: 05/26/2005",
+    "bbox": [
+      72.0,
+      735.4,
+      166.0,
+      745.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "409",
+    "page_number": 3,
+    "block_id": "409_p3_b023",
+    "text": "Page 2",
+    "bbox": [
+      511.0,
+      735.4,
+      542.5,
+      745.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  }
+]

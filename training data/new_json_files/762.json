@@ -1,0 +1,2957 @@
+[
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b001",
+    "text": "114",
+    "bbox": [
+      93.7,
+      43.1,
+      111.0,
+      56.4
+    ],
+    "font_size": 9.5,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b002",
+    "text": "Group II",
+    "bbox": [
+      294.8,
+      43.2,
+      334.1,
+      56.7
+    ],
+    "font_size": 10.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b003",
+    "text": "COHERENT INSTABILITIES IN THE 20 TeV RING*)",
+    "bbox": [
+      92.2,
+      68.4,
+      299.1,
+      81.3
+    ],
+    "font_size": 9.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b004",
+    "text": "E.D. Courant",
+    "bbox": [
+      92.2,
+      88.2,
+      152.5,
+      101.2
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b005",
+    "text": "Brookhaven National Laboratory, Upton, NY and State University of New York, Stony Brook,",
+    "bbox": [
+      92.4,
+      102.6,
+      517.6,
+      115.5
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b006",
+    "text": "NY, USA.",
+    "bbox": [
+      92.1,
+      112.5,
+      127.8,
+      125.2
+    ],
+    "font_size": 8.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b007",
+    "text": "C. Pellegrini",
+    "bbox": [
+      92.0,
+      129.8,
+      157.7,
+      144.5
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b008",
+    "text": "Brookhaven National Laboratory, Upton, NY, USA",
+    "bbox": [
+      92.4,
+      145.9,
+      315.5,
+      158.8
+    ],
+    "font_size": 9.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b009",
+    "text": "ABSTRACT",
+    "bbox": [
+      148.3,
+      230.8,
+      189.0,
+      243.7
+    ],
+    "font_size": 8.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b010",
+    "text": "We discuss some of the limits on the average and peak current in the",
+    "bbox": [
+      148.3,
+      245.1,
+      479.6,
+      258.0
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b011",
+    "text": "20 TeV ring, produced by coherent .instabilities.",
+    "bbox": [
+      149.2,
+      254.8,
+      382.0,
+      267.8
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b012",
+    "text": "We also discuss",
+    "bbox": [
+      389.1,
+      254.8,
+      464.2,
+      267.8
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b013",
+    "text": "some effects of synchrotron radiation.",
+    "bbox": [
+      148.7,
+      264.4,
+      333.5,
+      277.3
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b014",
+    "text": "INTRODUCTION",
+    "bbox": [
+      92.8,
+      346.8,
+      151.6,
+      359.8
+    ],
+    "font_size": 8.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b015",
+    "text": "We investigate the limitations on the performance of the 20 TeV proton ring due to co-",
+    "bbox": [
+      115.6,
+      365.9,
+      529.4,
+      378.9
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b016",
+    "text": "herent instabilities. This investigation uses a simple model",
+    "bbox": [
+      91.7,
+      380.5,
+      387.3,
+      393.4
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b017",
+    "text": ") to describe the stability",
+    "bbox": [
+      390.8,
+      380.5,
+      524.2,
+      393.4
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b018",
+    "text": "1imits, based on the asstunption that all low frequency instabilities, w < c/d, where d is",
+    "bbox": [
+      92.0,
+      395.0,
+      523.4,
+      407.9
+    ],
+    "font_size": 11.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b019",
+    "text": "the vacUlUn tank dimension, can be cured by feedback.",
+    "bbox": [
+      92.1,
+      409.5,
+      343.1,
+      422.4
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b020",
+    "text": "To stabilize high frequency effects",
+    "bbox": [
+      351.4,
+      409.5,
+      523.2,
+      422.4
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b021",
+    "text": "one has to rely on Landau damping.",
+    "bbox": [
+      91.6,
+      424.0,
+      256.3,
+      436.9
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b022",
+    "text": "We discuss the limitations on the beam intensity and beam configuration obtained from",
+    "bbox": [
+      115.4,
+      443.3,
+      527.1,
+      456.2
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b023",
+    "text": "this model.",
+    "bbox": [
+      92.1,
+      457.8,
+      145.7,
+      470.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b024",
+    "text": "We also discuss some of the effects introduced by synchrotron radiation.",
+    "bbox": [
+      154.2,
+      457.8,
+      503.0,
+      470.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b025",
+    "text": "STABILITY CRITERIA",
+    "bbox": [
+      91.8,
+      481.7,
+      180.9,
+      494.6
+    ],
+    "font_size": 9.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b026",
+    "text": "As discussed in Ref. (1) we use two stability conditions, one for longitudinal effects,",
+    "bbox": [
+      115.2,
+      499.2,
+      537.0,
+      514.1
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b027",
+    "text": "the microwave instability, and the other for transverse effects. They can be written as",
+    "bbox": [
+      91.9,
+      515.3,
+      518.2,
+      528.2
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b028",
+    "text": "(1)",
+    "bbox": [
+      521.4,
+      544.8,
+      536.4,
+      556.7
+    ],
+    "font_size": 8.9,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b029",
+    "text": "e I",
+    "bbox": [
+      274.4,
+      576.7,
+      288.2,
+      591.6
+    ],
+    "font_size": 11.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b030",
+    "text": "eff",
+    "bbox": [
+      308.2,
+      586.5,
+      326.1,
+      599.5
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b031",
+    "text": "(2)",
+    "bbox": [
+      521.4,
+      592.3,
+      533.4,
+      604.0
+    ],
+    "font_size": 9.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b032",
+    "text": "--'Zr\"7f-v'E\"\"---",
+    "bbox": [
+      273.5,
+      594.4,
+      332.7,
+      606.1
+    ],
+    "font_size": 8.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b033",
+    "text": "~ /).v",
+    "bbox": [
+      337.3,
+      594.4,
+      357.4,
+      606.1
+    ],
+    "font_size": 7.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b034",
+    "text": "where lill/E is the beam energy spread, I is the peak current in a btmch, a. is the momentum",
+    "bbox": [
+      91.2,
+      619.8,
+      527.2,
+      632.7
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b035",
+    "text": "compaction factor, E is the beam energy, e is the electron charge, v the betatron frequency,",
+    "bbox": [
+      91.6,
+      633.6,
+      536.0,
+      646.5
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b036",
+    "text": "R the machine radius, /).V the betatron frequency spread providing Landau damping, (Z/n)eff is",
+    "bbox": [
+      92.1,
+      647.9,
+      537.8,
+      660.8
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b037",
+    "text": "the longitudinal coupling impedance of the btmch to the surrotmding environment and",
+    "bbox": [
+      91.9,
+      661.8,
+      494.1,
+      674.8
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 1,
+    "block_id": "762_p1_b038",
+    "text": "(3)",
+    "bbox": [
+      521.4,
+      691.3,
+      536.0,
+      703.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b001",
+    "text": "115",
+    "bbox": [
+      519.3,
+      52.7,
+      536.1,
+      65.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b002",
+    "text": "p and pp machines",
+    "bbox": [
+      275.0,
+      51.9,
+      353.9,
+      65.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b003",
+    "text": "y being the beam particle energy in rest energy lIDits, a the beam radius, d the vacuum tank",
+    "bbox": [
+      91.8,
+      76.7,
+      532.8,
+      89.2
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b004",
+    "text": "radius and 2 0 the vacuum impedance.",
+    "bbox": [
+      92.1,
+      91.0,
+      261.3,
+      104.1
+    ],
+    "font_size": 9.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b005",
+    "text": "The last tenn in (3) describes the space charge effects",
+    "bbox": [
+      269.2,
+      91.0,
+      537.3,
+      103.6
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b006",
+    "text": "and can be neglected for our 20 TeV ring.",
+    "bbox": [
+      92.0,
+      105.5,
+      290.5,
+      118.1
+    ],
+    "font_size": 10.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b007",
+    "text": "For a beam having B blIDches, each of length L we introduce the total longitudinal emit-",
+    "bbox": [
+      116.1,
+      124.2,
+      533.4,
+      136.9
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b008",
+    "text": "tance",
+    "bbox": [
+      92.1,
+      139.2,
+      118.9,
+      151.8
+    ],
+    "font_size": 9.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b009",
+    "text": "6 11 ;; B 6E L/C",
+    "bbox": [
+      280.5,
+      158.3,
+      343.9,
+      170.4
+    ],
+    "font_size": 8.8,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b010",
+    "text": "(4)",
+    "bbox": [
+      521.0,
+      157.7,
+      536.0,
+      169.7
+    ],
+    "font_size": 9.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b011",
+    "text": "the total average current",
+    "bbox": [
+      92.3,
+      182.2,
+      214.7,
+      194.7
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b012",
+    "text": "(5)",
+    "bbox": [
+      520.9,
+      205.7,
+      535.3,
+      217.7
+    ],
+    "font_size": 9.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b013",
+    "text": "and a bunch factor",
+    "bbox": [
+      92.0,
+      234.8,
+      181.1,
+      247.4
+    ],
+    "font_size": 10.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b014",
+    "text": "(6)",
+    "bbox": [
+      520.9,
+      258.5,
+      535.8,
+      270.5
+    ],
+    "font_size": 9.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b015",
+    "text": "With the help of (4), (5) and (6) we can rewrite (1) and (2) as",
+    "bbox": [
+      115.4,
+      285.4,
+      420.9,
+      300.4
+    ],
+    "font_size": 11.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b016",
+    "text": "(2)",
+    "bbox": [
+      278.7,
+      299.5,
+      295.9,
+      333.7
+    ],
+    "font_size": 19.2,
+    "font_name": "Times-Roman",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b017",
+    "text": "a.c 6 11",
+    "bbox": [
+      327.2,
+      309.0,
+      356.7,
+      322.6
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b018",
+    "text": "<--~­",
+    "bbox": [
+      313.3,
+      319.3,
+      366.7,
+      326.0
+    ],
+    "font_size": 8.5,
+    "font_name": "HiddenHorzOCR",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b019",
+    "text": "(7)",
+    "bbox": [
+      521.0,
+      316.2,
+      533.1,
+      328.2
+    ],
+    "font_size": 9.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b020",
+    "text": "T neff -",
+    "bbox": [
+      269.4,
+      322.9,
+      316.2,
+      335.6
+    ],
+    "font_size": 11.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b021",
+    "text": "(2nR)2F E",
+    "bbox": [
+      323.8,
+      322.9,
+      366.9,
+      335.6
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b022",
+    "text": "(8)",
+    "bbox": [
+      520.9,
+      359.7,
+      535.8,
+      372.2
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b023",
+    "text": "In (8) we neglected the space charge contribution to the transverse impedance.",
+    "bbox": [
+      92.4,
+      393.4,
+      468.0,
+      405.9
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b024",
+    "text": "One can see from (7), (8) that a small F",
+    "bbox": [
+      115.5,
+      412.5,
+      308.5,
+      425.1
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b025",
+    "text": "is convenient to raise the longitudinal in-",
+    "bbox": [
+      317.9,
+      412.5,
+      523.9,
+      425.1
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b026",
+    "text": "stability limit and a large FB to raise the transverse limit.",
+    "bbox": [
+      91.6,
+      426.8,
+      387.2,
+      444.2
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b027",
+    "text": "The opt:imum value is obtained\u0001",
+    "bbox": [
+      394.8,
+      426.8,
+      540.5,
+      439.4
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b028",
+    "text": "when the two limits are equal or",
+    "bbox": [
+      91.2,
+      441.2,
+      248.5,
+      453.7
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b029",
+    "text": "a. )%",
+    "bbox": [
+      356.1,
+      452.1,
+      386.7,
+      483.6
+    ],
+    "font_size": 15.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b030",
+    "text": "(9)",
+    "bbox": [
+      520.5,
+      470.3,
+      532.6,
+      482.7
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b031",
+    "text": "-(-21T-R-)-*--E ( 1TV 6v",
+    "bbox": [
+      283.1,
+      474.5,
+      373.4,
+      488.1
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b032",
+    "text": "For FB < Fi we are limited by the transverse instability and for FB > F; by the longitudinal",
+    "bbox": [
+      91.5,
+      508.7,
+      541.4,
+      526.3
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b033",
+    "text": "one.",
+    "bbox": [
+      91.5,
+      523.0,
+      112.1,
+      535.6
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b034",
+    "text": "Of course if Fi > 1 the transverse effect is always the limiting one.",
+    "bbox": [
+      119.9,
+      522.7,
+      453.9,
+      535.7
+    ],
+    "font_size": 11.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b035",
+    "text": "Using (9) we can write (7) and (8) as",
+    "bbox": [
+      115.2,
+      540.3,
+      295.5,
+      554.8
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b036",
+    "text": "c 6 II (d/R) (1Ta.V AV) % FB",
+    "bbox": [
+      288.3,
+      562.6,
+      398.9,
+      579.4
+    ],
+    "font_size": 12.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b037",
+    "text": "e IT (ii",
+    "bbox": [
+      220.8,
+      572.0,
+      259.8,
+      586.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b038",
+    "text": "2 R",
+    "bbox": [
+      303.0,
+      571.6,
+      318.6,
+      586.5
+    ],
+    "font_size": 11.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b039",
+    "text": "(10)",
+    "bbox": [
+      515.7,
+      571.0,
+      532.6,
+      583.6
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b040",
+    "text": "eff",
+    "bbox": [
+      259.6,
+      579.0,
+      277.6,
+      591.6
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b041",
+    "text": "L.I",
+    "bbox": [
+      355.9,
+      578.7,
+      361.6,
+      584.6
+    ],
+    "font_size": 4.3,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b042",
+    "text": "e I",
+    "bbox": [
+      220.8,
+      610.8,
+      235.5,
+      622.6
+    ],
+    "font_size": 8.6,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b043",
+    "text": "(~)",
+    "bbox": [
+      244.7,
+      606.3,
+      260.2,
+      623.7
+    ],
+    "font_size": 7.9,
+    "font_name": "HiddenHorzOCR",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b044",
+    "text": "< cEil (d/R) (mlv6v) Y2 ~ •",
+    "bbox": [
+      278.7,
+      606.3,
+      405.9,
+      623.7
+    ],
+    "font_size": 12.1,
+    "font_name": "HiddenHorzOCR",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b045",
+    "text": "(11)",
+    "bbox": [
+      516.0,
+      613.3,
+      532.6,
+      625.8
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b046",
+    "text": "T neff -",
+    "bbox": [
+      234.9,
+      619.6,
+      281.9,
+      632.1
+    ],
+    "font_size": 11.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b047",
+    "text": "2nR",
+    "bbox": [
+      303.2,
+      619.6,
+      319.9,
+      632.1
+    ],
+    "font_size": 9.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b048",
+    "text": "APPLICATION TO 'I1IE 20 TeV RING",
+    "bbox": [
+      90.6,
+      651.0,
+      236.8,
+      663.6
+    ],
+    "font_size": 9.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b049",
+    "text": "We want to evaluate (10), (11) for the 20 TeV ring.",
+    "bbox": [
+      114.4,
+      670.2,
+      362.0,
+      682.7
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b050",
+    "text": "Since a. ::: 1/v2 there is only a",
+    "bbox": [
+      370.1,
+      670.0,
+      516.2,
+      683.0
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b051",
+    "text": "weak dependence on v and we will only evaluate (10), (11) for the case of the 'weak focusing",
+    "bbox": [
+      90.4,
+      684.1,
+      536.3,
+      696.7
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b052",
+    "text": "ring\".",
+    "bbox": [
+      91.0,
+      698.3,
+      120.6,
+      710.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 2,
+    "block_id": "762_p2_b053",
+    "text": "We use the following values:",
+    "bbox": [
+      129.1,
+      698.3,
+      265.3,
+      710.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b001",
+    "text": "116",
+    "bbox": [
+      81.7,
+      48.1,
+      98.8,
+      61.9
+    ],
+    "font_size": 9.6,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b002",
+    "text": "Group II",
+    "bbox": [
+      282.9,
+      49.0,
+      322.7,
+      62.6
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b003",
+    "text": "2~R = 5.7 x 10~ m",
+    "bbox": [
+      259.8,
+      75.0,
+      346.4,
+      89.3
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b004",
+    "text": "= 60",
+    "bbox": [
+      278.4,
+      92.8,
+      299.3,
+      109.3
+    ],
+    "font_size": 12.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b005",
+    "text": "= 3.4 x 10-~",
+    "bbox": [
+      278.4,
+      111.1,
+      335.9,
+      127.9
+    ],
+    "font_size": 12.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b006",
+    "text": "IT = 0.84 A",
+    "bbox": [
+      259.0,
+      152.2,
+      321.5,
+      167.0
+    ],
+    "font_size": 11.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b007",
+    "text": "Rid = 2.27 x 105",
+    "bbox": [
+      258.4,
+      170.4,
+      336.8,
+      185.7
+    ],
+    "font_size": 10.7,
+    "font_name": "Helvetica-Oblique",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b008",
+    "text": "t:.v = 0.01",
+    "bbox": [
+      258.0,
+      189.0,
+      308.4,
+      205.8
+    ],
+    "font_size": 12.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b009",
+    "text": "where the current corresponds to a total of 10 1 5 circulating protons.",
+    "bbox": [
+      81.1,
+      213.0,
+      415.8,
+      225.7
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b010",
+    "text": "We obtain:",
+    "bbox": [
+      423.8,
+      213.0,
+      474.3,
+      225.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b011",
+    "text": "Fi = 0.08",
+    "bbox": [
+      245.2,
+      233.5,
+      291.5,
+      251.4
+    ],
+    "font_size": 13.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b012",
+    "text": "at E = 1 TeV",
+    "bbox": [
+      322.4,
+      234.0,
+      382.3,
+      250.5
+    ],
+    "font_size": 12.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b013",
+    "text": "(12)",
+    "bbox": [
+      502.2,
+      237.2,
+      521.7,
+      249.9
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b014",
+    "text": "and",
+    "bbox": [
+      81.4,
+      260.0,
+      98.9,
+      272.7
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b015",
+    "text": "F* = 4 X 10- 3",
+    "bbox": [
+      245.1,
+      278.6,
+      308.6,
+      292.5
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b016",
+    "text": "at E = 20 TeV •",
+    "bbox": [
+      322.2,
+      278.6,
+      396.7,
+      292.5
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b017",
+    "text": "(13)",
+    "bbox": [
+      502.2,
+      280.6,
+      519.0,
+      293.2
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b018",
+    "text": "Equations (10), (11) become",
+    "bbox": [
+      81.1,
+      302.4,
+      213.6,
+      317.4
+    ],
+    "font_size": 11.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b019",
+    "text": "(14)",
+    "bbox": [
+      501.8,
+      338.0,
+      521.1,
+      351.6
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b020",
+    "text": "The small values of Fi mean that we are mainly limited by the longitudinal instability.",
+    "bbox": [
+      104.7,
+      371.9,
+      526.7,
+      384.6
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b021",
+    "text": "In fact for a coasting beam at 1 TeV and for the assumed e1\\ the energy spread is very small",
+    "bbox": [
+      81.4,
+      381.9,
+      522.4,
+      400.4
+    ],
+    "font_size": 15.1,
+    "font_name": "Times-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b022",
+    "text": "lillIE ::: 2.6 x 10- 5 •",
+    "bbox": [
+      80.8,
+      400.2,
+      167.3,
+      413.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b023",
+    "text": "For FB = Fi = 0.08 the energy spread is increased to 3.3 x 10- ~ •",
+    "bbox": [
+      177.2,
+      397.0,
+      488.2,
+      417.8
+    ],
+    "font_size": 12.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b024",
+    "text": "For a total circulating current of 0.84 A we have from (14) that the effective longitu-",
+    "bbox": [
+      105.0,
+      419.1,
+      523.9,
+      432.7
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b025",
+    "text": "dinal coupling impedance must satisfy the condition",
+    "bbox": [
+      80.7,
+      434.2,
+      329.9,
+      446.9
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b026",
+    "text": "( ~)",
+    "bbox": [
+      262.8,
+      460.6,
+      279.4,
+      479.5
+    ],
+    "font_size": 7.5,
+    "font_name": "HiddenHorzOCR",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b027",
+    "text": "$3.5Q.",
+    "bbox": [
+      297.5,
+      463.2,
+      343.5,
+      475.8
+    ],
+    "font_size": 11.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b028",
+    "text": "(IS)",
+    "bbox": [
+      501.5,
+      463.3,
+      521.2,
+      475.5
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b029",
+    "text": "neff",
+    "bbox": [
+      268.2,
+      471.9,
+      296.9,
+      484.6
+    ],
+    "font_size": 11.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b030",
+    "text": "This condition need only be satisfied in the frequency range w ~ cld where feedback cannot",
+    "bbox": [
+      80.5,
+      496.5,
+      517.7,
+      509.3
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b031",
+    "text": "be used.",
+    "bbox": [
+      80.4,
+      510.5,
+      120.3,
+      523.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b032",
+    "text": ".An impedance of the order of a few ohm has been obtained in the electron-positron",
+    "bbox": [
+      127.8,
+      511.1,
+      523.1,
+      523.8
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b033",
+    "text": "storage ring, PETRA.",
+    "bbox": [
+      80.6,
+      525.2,
+      177.1,
+      537.9
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b034",
+    "text": "SYNQIROTRON RADIATION EFFECTS",
+    "bbox": [
+      80.4,
+      549.1,
+      221.9,
+      561.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b035",
+    "text": "The synchrotron radiation energy loss per turn U0, can be obtained from",
+    "bbox": [
+      104.2,
+      568.0,
+      446.8,
+      580.6
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b036",
+    "text": "(16)",
+    "bbox": [
+      501.3,
+      596.6,
+      520.6,
+      608.7
+    ],
+    "font_size": 9.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b037",
+    "text": "where p is the bending radius, ro the classical proton radius and mc 2 the proton rest energy.",
+    "bbox": [
+      79.8,
+      624.5,
+      530.2,
+      637.5
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b038",
+    "text": "For an energy of 20 TeV, y = 2.13 X 10\", p = 6.68 x 10 3 m we have",
+    "bbox": [
+      80.3,
+      639.2,
+      395.9,
+      651.9
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b039",
+    "text": "Uo = 1.82 X 105 eV •",
+    "bbox": [
+      253.3,
+      659.3,
+      352.1,
+      677.0
+    ],
+    "font_size": 12.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b040",
+    "text": "(17)",
+    "bbox": [
+      501.1,
+      662.5,
+      520.6,
+      675.2
+    ],
+    "font_size": 9.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b041",
+    "text": "For a total current IT = 0.84 A the radiated power is",
+    "bbox": [
+      103.8,
+      684.7,
+      363.1,
+      701.2
+    ],
+    "font_size": 12.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b042",
+    "text": "W = 152 kW •",
+    "bbox": [
+      272.5,
+      708.3,
+      333.2,
+      724.9
+    ],
+    "font_size": 12.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 3,
+    "block_id": "762_p3_b043",
+    "text": "(18)",
+    "bbox": [
+      501.3,
+      711.2,
+      520.5,
+      724.8
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b001",
+    "text": "117",
+    "bbox": [
+      525.3,
+      52.6,
+      542.4,
+      65.6
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b002",
+    "text": "p and pp machines",
+    "bbox": [
+      281.0,
+      49.5,
+      360.0,
+      67.9
+    ],
+    "font_size": 12.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b003",
+    "text": "To evaluate the damping times we assume that the radial and vertical betatron damping",
+    "bbox": [
+      123.9,
+      78.1,
+      535.4,
+      91.0
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b004",
+    "text": "Th'",
+    "bbox": [
+      388.9,
+      89.0,
+      404.9,
+      102.0
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b005",
+    "text": "b 2)",
+    "bbox": [
+      480.3,
+      89.2,
+      498.6,
+      102.0
+    ],
+    "font_size": 9.3,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b006",
+    "text": "times are equal to twice the synchrotron damp1ng",
+    "bbox": [
+      100.6,
+      92.8,
+      334.1,
+      105.8
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b007",
+    "text": "t~e, L S•",
+    "bbox": [
+      336.1,
+      92.8,
+      381.7,
+      109.9
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b008",
+    "text": "1S 1S",
+    "bbox": [
+      399.1,
+      92.8,
+      424.9,
+      105.7
+    ],
+    "font_size": 9.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b009",
+    "text": "en g1ven y",
+    "bbox": [
+      437.4,
+      92.8,
+      492.5,
+      105.8
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b010",
+    "text": "= 2TIR ~ = 2.09 x 10~ s = 5.8 hrs •",
+    "bbox": [
+      240.1,
+      118.3,
+      410.7,
+      134.0
+    ],
+    "font_size": 11.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b011",
+    "text": "(19)",
+    "bbox": [
+      520.5,
+      119.6,
+      537.2,
+      132.5
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b012",
+    "text": "C Uo",
+    "bbox": [
+      254.2,
+      126.4,
+      280.9,
+      140.6
+    ],
+    "font_size": 8.6,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b013",
+    "text": "The equi1ibritml energy spread produced by radiation damping and quantlDll fluctuations",
+    "bbox": [
+      124.7,
+      149.9,
+      531.1,
+      162.8
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b014",
+    "text": "is given by",
+    "bbox": [
+      101.7,
+      165.9,
+      157.0,
+      178.9
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b015",
+    "text": "(20)",
+    "bbox": [
+      520.7,
+      196.1,
+      540.1,
+      209.0
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b016",
+    "text": "where",
+    "bbox": [
+      100.8,
+      228.7,
+      128.0,
+      241.6
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b017",
+    "text": "(21)",
+    "bbox": [
+      521.4,
+      249.6,
+      540.8,
+      262.5
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b018",
+    "text": "At 20 TeV we obtain",
+    "bbox": [
+      101.4,
+      280.7,
+      196.2,
+      293.7
+    ],
+    "font_size": 10.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b019",
+    "text": "::: 415 eV",
+    "bbox": [
+      308.6,
+      299.2,
+      349.1,
+      312.1
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b020",
+    "text": "(22)",
+    "bbox": [
+      521.4,
+      297.7,
+      540.8,
+      310.6
+    ],
+    "font_size": 9.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b021",
+    "text": "3 OS X 10- 6 •",
+    "bbox": [
+      299.4,
+      330.9,
+      362.3,
+      344.7
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b022",
+    "text": "(23)",
+    "bbox": [
+      521.8,
+      332.2,
+      538.4,
+      344.4
+    ],
+    "font_size": 9.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b023",
+    "text": "-r= .",
+    "bbox": [
+      273.9,
+      330.4,
+      312.3,
+      349.1
+    ],
+    "font_size": 14.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b024",
+    "text": "The energy spread is smaller than the value detennined by the longitudinal emittance 8 II ,",
+    "bbox": [
+      102.1,
+      361.2,
+      524.9,
+      375.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b025",
+    "text": "which is 2.6 x 10- 5 for a coasting beam and 6.5 x 10- 3 fOT a beam with a btmching factor",
+    "bbox": [
+      101.4,
+      376.1,
+      528.7,
+      389.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b026",
+    "text": "F = 4 x 10-:3 and at 20 TeV.",
+    "bbox": [
+      102.3,
+      387.4,
+      237.1,
+      404.4
+    ],
+    "font_size": 12.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b027",
+    "text": "Hence, according to our present tmderstanding of the microwave",
+    "bbox": [
+      245.7,
+      390.6,
+      544.6,
+      403.5
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b028",
+    "text": "instability, as soon as the energy spread starts to decrease the btmch should become tmStable",
+    "bbox": [
+      102.8,
+      405.1,
+      552.4,
+      418.0
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b029",
+    "text": "and the energy spread should remain at the value corresponding to the threshold of the in-",
+    "bbox": [
+      102.4,
+      419.4,
+      534.8,
+      432.4
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b030",
+    "text": "stability.",
+    "bbox": [
+      102.4,
+      433.8,
+      152.5,
+      446.7
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b031",
+    "text": "The radial betatron emittance as determined by radiation alone is given by2)",
+    "bbox": [
+      126.0,
+      452.8,
+      493.5,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b032",
+    "text": "E = TIy 2R (aE)",
+    "bbox": [
+      236.3,
+      472.4,
+      308.8,
+      496.6
+    ],
+    "font_size": 14.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b033",
+    "text": "= 5.2 x 10- 8 m rad",
+    "bbox": [
+      318.7,
+      479.0,
+      409.2,
+      494.8
+    ],
+    "font_size": 11.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b034",
+    "text": "v 3",
+    "bbox": [
+      275.1,
+      487.9,
+      285.5,
+      500.5
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b035",
+    "text": "and is again much smaller than the emittance at injection, E",
+    "bbox": [
+      102.4,
+      510.7,
+      394.4,
+      523.6
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b036",
+    "text": "tV 2TI x 10- 5 m rad.",
+    "bbox": [
+      400.5,
+      510.7,
+      488.9,
+      523.6
+    ],
+    "font_size": 10.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b037",
+    "text": "The reduc-",
+    "bbox": [
+      496.7,
+      510.7,
+      544.2,
+      523.6
+    ],
+    "font_size": 9.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b038",
+    "text": "tion in transverse emittance produced by radiation might become important in a p-p configura-",
+    "bbox": [
+      102.3,
+      525.2,
+      549.0,
+      538.1
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b039",
+    "text": "tion, where the reduction in beam transverse size would increase the beam-beam ttme shift,",
+    "bbox": [
+      102.3,
+      539.7,
+      537.5,
+      552.6
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b040",
+    "text": "!:lv, and the ltuninosity by a factor equal to the emittance ratio or about 1200. Again we ex-",
+    "bbox": [
+      102.0,
+      554.0,
+      544.1,
+      566.9
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b041",
+    "text": "pect that the beam-beam interaction will start to blow up the beams long before such a large",
+    "bbox": [
+      102.0,
+      568.5,
+      547.6,
+      581.5
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b042",
+    "text": "increase is reached.",
+    "bbox": [
+      102.4,
+      582.8,
+      199.4,
+      595.8
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b043",
+    "text": "However we can assume that the p-p system will adjust itself to the",
+    "bbox": [
+      207.3,
+      582.8,
+      533.2,
+      595.8
+    ],
+    "font_size": 11.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b044",
+    "text": "optimum value of !:lv.",
+    "bbox": [
+      101.7,
+      597.0,
+      198.7,
+      609.9
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b045",
+    "text": "Also the radiation damping might be helpful in cOtmteracting slow",
+    "bbox": [
+      206.9,
+      597.0,
+      523.8,
+      609.9
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b046",
+    "text": "diffusion processes.",
+    "bbox": [
+      101.9,
+      610.9,
+      199.6,
+      623.9
+    ],
+    "font_size": 10.3,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b047",
+    "text": "CONCLUSIONS",
+    "bbox": [
+      102.1,
+      634.5,
+      156.2,
+      647.4
+    ],
+    "font_size": 8.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b048",
+    "text": "The results obtained in Section 3 show that coherent instabilities should not prevent",
+    "bbox": [
+      125.6,
+      653.7,
+      537.9,
+      666.7
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b049",
+    "text": "us from reaching the design intensity of 1015 circulating protons. However to reach this",
+    "bbox": [
+      101.6,
+      667.8,
+      533.3,
+      680.8
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b050",
+    "text": "goal one will have to use feedback to control the low frequency instabilities and to reduce",
+    "bbox": [
+      101.9,
+      682.0,
+      542.8,
+      694.9
+    ],
+    "font_size": 10.7,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b051",
+    "text": "the longitudinal coupling impedance to a few ohm.",
+    "bbox": [
+      102.3,
+      696.1,
+      338.4,
+      709.1
+    ],
+    "font_size": 10.4,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b052",
+    "text": "Also when these conditions are satisfied",
+    "bbox": [
+      347.0,
+      696.1,
+      543.5,
+      709.1
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b053",
+    "text": "one requires a very small blll1ching factor to avoid a blow up of the longitudinal phase space.",
+    "bbox": [
+      102.1,
+      710.3,
+      550.8,
+      723.2
+    ],
+    "font_size": 10.5,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 4,
+    "block_id": "762_p4_b054",
+    "text": "Of course, a much more detailed analysis will be needed when the ring is designed.",
+    "bbox": [
+      101.9,
+      724.6,
+      498.3,
+      737.5
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b001",
+    "text": "118",
+    "bbox": [
+      67.3,
+      48.0,
+      84.8,
+      60.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b002",
+    "text": "Group II",
+    "bbox": [
+      268.9,
+      46.7,
+      308.5,
+      60.9
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b003",
+    "text": "Synchrotron radiation effects are not negligible and can influence the beam properties",
+    "bbox": [
+      90.8,
+      71.9,
+      508.1,
+      86.1
+    ],
+    "font_size": 10.9,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b004",
+    "text": "in the storage configuration after a time of the order of ten hours.",
+    "bbox": [
+      67.0,
+      86.1,
+      395.7,
+      100.3
+    ],
+    "font_size": 11.2,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b005",
+    "text": "REFERENCES",
+    "bbox": [
+      259.4,
+      145.0,
+      309.2,
+      157.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b006",
+    "text": "C.\u0001 Pellegrini and M. Sands, Phenomenological analysis of current limits in storage",
+    "bbox": [
+      85.9,
+      162.7,
+      484.4,
+      176.8
+    ],
+    "font_size": 11.1,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b007",
+    "text": "rings, to be published in Nuc1. Instnnn. and Methods.",
+    "bbox": [
+      100.4,
+      172.3,
+      356.6,
+      186.5
+    ],
+    "font_size": 10.8,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b008",
+    "text": "M.\u0001 Sands, in Physics of Storage Rings, Internat. School of Phys. E. Fermi, Varenna,",
+    "bbox": [
+      84.8,
+      191.9,
+      487.5,
+      206.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "762",
+    "page_number": 5,
+    "block_id": "762_p5_b009",
+    "text": "1969 Cede B. Touschek).",
+    "bbox": [
+      100.1,
+      201.0,
+      212.5,
+      216.0
+    ],
+    "font_size": 10.6,
+    "font_name": "Times-Roman",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,8042 @@
+[
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b001",
+    "text": "The CCPP-ARM Parameterization Testbed (CAPT): A Strategic Plan",
+    "bbox": [
+      72.0,
+      84.8,
+      494.1,
+      100.6
+    ],
+    "font_size": 14.2,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b002",
+    "text": "(Last update 28 April 2003)",
+    "bbox": [
+      76.5,
+      107.8,
+      220.5,
+      121.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b003",
+    "text": "1. Introduction",
+    "bbox": [
+      72.0,
+      139.6,
+      152.1,
+      155.3
+    ],
+    "font_size": 14.2,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b004",
+    "text": "Climate simulations performed with general circulation models (GCMs) are widely viewed",
+    "bbox": [
+      93.8,
+      161.1,
+      533.6,
+      174.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b005",
+    "text": "as the principal scientific basis for developing policies to address potential future global change",
+    "bbox": [
+      72.0,
+      174.6,
+      533.0,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b006",
+    "text": "scenarios (e.g. global warming, ozone depletion, changes in land use, etc.). Hence, there is a",
+    "bbox": [
+      72.0,
+      188.8,
+      516.4,
+      202.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b007",
+    "text": "compelling need to systematically improve the performance of GCMs in simulating the present",
+    "bbox": [
+      72.0,
+      202.3,
+      531.5,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b008",
+    "text": "climate, and thereby to reduce their uncertainties in predicting climate change (e.g. Goody et al.",
+    "bbox": [
+      72.0,
+      216.6,
+      534.0,
+      229.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b009",
+    "text": "2002).  This endeavor requires a two-pronged strategy that entails",
+    "bbox": [
+      72.0,
+      230.1,
+      390.0,
+      243.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b010",
+    "text": "• comparison of GCM simulations with observations over a broad range of time scales in",
+    "bbox": [
+      90.0,
+      248.9,
+      526.3,
+      263.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b011",
+    "text": "order to diagnose the details of the associated simulation errors, and",
+    "bbox": [
+      104.2,
+      264.6,
+      435.8,
+      277.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b012",
+    "text": "• reduction of these errors by improving representations of key physical processes and",
+    "bbox": [
+      90.0,
+      283.4,
+      512.9,
+      298.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b013",
+    "text": "feedback mechanisms, thereby enhancing the physical realism of GCM climate",
+    "bbox": [
+      104.2,
+      299.1,
+      487.3,
+      312.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b014",
+    "text": "simulations.",
+    "bbox": [
+      104.2,
+      312.6,
+      165.0,
+      325.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b015",
+    "text": "Much of our collective understanding of current strengths and weaknesses of GCM climate",
+    "bbox": [
+      93.8,
+      332.8,
+      534.0,
+      346.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b016",
+    "text": "simulations comes from periodic assessments of the Intergovernmental Panel on Climate Change",
+    "bbox": [
+      72.0,
+      346.3,
+      540.8,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b017",
+    "text": "(IPCC 2001).  These, in turn, are largely based on the findings of model intercomparison projects",
+    "bbox": [
+      72.0,
+      360.6,
+      541.5,
+      373.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b018",
+    "text": "organized chiefly by the World Climate Research Programme (e.g. WCRP 2001).",
+    "bbox": [
+      72.0,
+      374.1,
+      466.5,
+      387.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b019",
+    "text": "In particular, a wealth of model-performance information is provided by the Atmospheric",
+    "bbox": [
+      93.8,
+      393.6,
+      525.8,
+      406.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b020",
+    "text": "Model Intercomparison Project (AMIP) in which some 30 GCMs, with common forcing by",
+    "bbox": [
+      72.0,
+      407.8,
+      513.8,
+      421.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b021",
+    "text": "observed ocean boundary conditions, are simulating the present climate (Gates 1992).  On",
+    "bbox": [
+      72.0,
+      421.3,
+      507.0,
+      434.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b022",
+    "text": "distilling the many technical details of the first AMIP experiment (e.g. Gates et al. 1999), an",
+    "bbox": [
+      72.0,
+      435.6,
+      517.5,
+      448.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b023",
+    "text": "intriguing result emerges:  the climate simulations of GCMs designed mainly for numerical",
+    "bbox": [
+      72.0,
+      449.1,
+      513.0,
+      462.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b024",
+    "text": "weather prediction (NWP) are surprisingly \"competitive\" with those of GCMs designed",
+    "bbox": [
+      72.0,
+      462.6,
+      495.8,
+      475.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b025",
+    "text": "expressly for climate studies.  This outcome arguably stems from NWP modelers' adoption of a",
+    "bbox": [
+      72.0,
+      476.8,
+      532.5,
+      490.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b026",
+    "text": "standard diagnostic protocol, which is summarized as follows.",
+    "bbox": [
+      72.0,
+      490.3,
+      376.5,
+      503.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b027",
+    "text": "GCMs designed for numerical weather prediction (hereafter, \"NWP GCMs\") are developed",
+    "bbox": [
+      93.8,
+      510.6,
+      535.5,
+      523.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b028",
+    "text": "so as to optimize their short-range (~ 0-72 hour) forecast performance, as evaluated against either",
+    "bbox": [
+      72.0,
+      524.1,
+      542.2,
+      537.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b029",
+    "text": "observations or NWP analyses that are synthesize observations and model-derived quantities.",
+    "bbox": [
+      72.0,
+      537.6,
+      525.8,
+      550.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b030",
+    "text": "However, even though an NWP GCM usually is run at comparatively high resolution (~ 0.5x0.5-",
+    "bbox": [
+      72.0,
+      551.8,
+      537.2,
+      565.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b031",
+    "text": "degree grid and ~ 30+ vertical layers), it cannot explicitly resolve many phenomena (e.g.",
+    "bbox": [
+      72.0,
+      565.3,
+      500.6,
+      578.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b032",
+    "text": "individual clouds and associated radiation, precipitation and related microphysics, turbulent",
+    "bbox": [
+      72.0,
+      579.6,
+      514.5,
+      592.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b033",
+    "text": "boundary layer processes, etc.).   These effects must be parameterized in terms of the model's",
+    "bbox": [
+      72.0,
+      593.1,
+      522.5,
+      606.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b034",
+    "text": "resolved variables, and deficiencies in these parameterizations are identified by diagnosing",
+    "bbox": [
+      72.0,
+      606.6,
+      510.8,
+      619.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b035",
+    "text": "discrepancies between",
+    "bbox": [
+      72.0,
+      620.8,
+      182.2,
+      634.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b036",
+    "text": "1) model forecasts and NWP analyses,",
+    "bbox": [
+      93.8,
+      646.3,
+      284.2,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b037",
+    "text": "2) model forecasts and observations that are not assimilated in the NWP analyses (e.g.",
+    "bbox": [
+      93.8,
+      666.6,
+      514.5,
+      679.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b038",
+    "text": "clouds, precipitation, etc.), and",
+    "bbox": [
+      93.8,
+      680.1,
+      259.5,
+      693.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 1,
+    "block_id": "288_p1_b039",
+    "text": "3) NWP analyses and observations.",
+    "bbox": [
+      93.8,
+      699.6,
+      272.2,
+      712.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b001",
+    "text": "The efficacy of modifying selected parameterizations is assessed according to whether such",
+    "bbox": [
+      93.8,
+      91.3,
+      536.2,
+      104.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b002",
+    "text": "changes increase the skill of the GCM's short-range forecasts and/or improve the NWP analyses.",
+    "bbox": [
+      72.0,
+      105.6,
+      541.5,
+      118.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b003",
+    "text": "If these parameterization changes also improve model performance at time scales longer than the",
+    "bbox": [
+      72.0,
+      119.1,
+      539.6,
+      132.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b004",
+    "text": "deterministic forecast range of ~15 days (owing to reductions in systematic model biases), the",
+    "bbox": [
+      72.0,
+      133.3,
+      525.4,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b005",
+    "text": "new schemes are included in the next-generation NWP GCM.  When this diagnostic protocol is",
+    "bbox": [
+      72.0,
+      146.8,
+      532.3,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b006",
+    "text": "followed rigorously, the new GCM also has a higher probability of performing well in simulating",
+    "bbox": [
+      72.0,
+      160.3,
+      542.0,
+      173.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b007",
+    "text": "climate (seasonal, inter-annual, and multi-annual) time scales, provided that the new",
+    "bbox": [
+      72.0,
+      174.6,
+      478.5,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b008",
+    "text": "parameterizations function satisfactorily at the coarser resolutions (~3x3-degrees and ~15",
+    "bbox": [
+      72.0,
+      188.1,
+      504.8,
+      201.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b009",
+    "text": "vertical layers) typical of GCMs designed for climate simulation (hereafter, \"climate GCMs\").",
+    "bbox": [
+      72.0,
+      202.3,
+      533.2,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b010",
+    "text": "Owing to the demonstrated improvements in model performance resulting from applying",
+    "bbox": [
+      93.8,
+      221.8,
+      523.3,
+      235.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b011",
+    "text": "such a diagnostic protocol to NWP GCMs, the WCRP's Working Group on Numerical",
+    "bbox": [
+      72.0,
+      235.3,
+      489.6,
+      248.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b012",
+    "text": "Experimentation has advocated a ‘Transpose AMIP’ project (WGNE 1999) to encourage",
+    "bbox": [
+      72.0,
+      249.6,
+      501.8,
+      262.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b013",
+    "text": "adoption of similar methods for coarse-resolution climate GCMs. Practical impetus for this effort",
+    "bbox": [
+      72.0,
+      263.1,
+      541.0,
+      276.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b014",
+    "text": "now is being provided by a new U.S. Department of Energy (USDOE) initiative: the CCPP-",
+    "bbox": [
+      72.0,
+      277.3,
+      514.0,
+      290.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b015",
+    "text": "ARM Parameterization Testbed (CAPT).",
+    "bbox": [
+      72.0,
+      290.8,
+      277.5,
+      304.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b016",
+    "text": "CAPT will apply the first component of the NWP diagnostic protocol (comparison of model",
+    "bbox": [
+      93.8,
+      310.3,
+      539.2,
+      323.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b017",
+    "text": "forecasts with analyses) to climate GCMs that are supported by the USDOE Climate Change",
+    "bbox": [
+      72.0,
+      324.6,
+      519.6,
+      337.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b018",
+    "text": "Prediction Program (CCPP).  In addition, CAPT will implement the second component of this",
+    "bbox": [
+      72.0,
+      338.1,
+      525.5,
+      351.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b019",
+    "text": "diagnostic protocol (comparison of GCM forecasts with observations not assimilated in the",
+    "bbox": [
+      72.0,
+      352.3,
+      511.8,
+      365.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b020",
+    "text": "analyses) by employing USDOE Atmospheric Radiation Measurement (ARM) observations and",
+    "bbox": [
+      72.0,
+      365.8,
+      536.7,
+      379.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b021",
+    "text": "similar field data for model evaluation. Moreover, CAPT will foster closer collaborations",
+    "bbox": [
+      72.0,
+      379.3,
+      502.9,
+      392.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b022",
+    "text": "between GCM developers and parameterization specialists, especially those funded under the",
+    "bbox": [
+      72.0,
+      393.6,
+      522.3,
+      406.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b023",
+    "text": "CCPP and ARM Programs.  Finally, CAPT will supply evaluation data and diagnostic software",
+    "bbox": [
+      72.0,
+      407.1,
+      532.5,
+      420.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b024",
+    "text": "in a form that can be conveniently applied to climate GCMs.",
+    "bbox": [
+      72.0,
+      421.3,
+      365.2,
+      434.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b025",
+    "text": "The remainder of this paper discusses the CAPT strategy, first by explaining its scientific",
+    "bbox": [
+      93.8,
+      440.8,
+      524.7,
+      454.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b026",
+    "text": "rationale in Section 2, then by outlining the proposed diagnostic protocol in Section 3, and",
+    "bbox": [
+      72.0,
+      454.3,
+      508.3,
+      467.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b027",
+    "text": "finally by elaborating relevant technical details in Section 4.  A brief summary is given in",
+    "bbox": [
+      72.0,
+      468.6,
+      503.2,
+      481.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b028",
+    "text": "Section 5.",
+    "bbox": [
+      72.0,
+      482.1,
+      122.2,
+      495.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b029",
+    "text": "CAPT: Scientific Basis",
+    "bbox": [
+      93.8,
+      524.1,
+      213.8,
+      537.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b030",
+    "text": "2.1 Perspective",
+    "bbox": [
+      72.0,
+      554.8,
+      149.2,
+      568.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b031",
+    "text": "The standard approach in developing a climate GCM is to focus on whether a given",
+    "bbox": [
+      93.8,
+      574.3,
+      497.0,
+      587.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b032",
+    "text": "parameterization favorably impacts the model’s climate statistics and/or their perceived",
+    "bbox": [
+      72.0,
+      587.8,
+      495.0,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b033",
+    "text": "departures from the observed climate, such as can be estimated from relatively sparse spatio-",
+    "bbox": [
+      72.0,
+      602.1,
+      517.0,
+      615.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b034",
+    "text": "temporal sampling. However, such an approach limits accurate identification of specific",
+    "bbox": [
+      72.0,
+      615.6,
+      497.1,
+      628.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b035",
+    "text": "parameterization deficiencies, since the GCM’s climate statistics reflect compensating errors in",
+    "bbox": [
+      72.0,
+      629.8,
+      531.0,
+      643.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b036",
+    "text": "the simulation of atmospheric dynamics as well as many different physical processes.",
+    "bbox": [
+      72.0,
+      643.3,
+      491.2,
+      656.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b037",
+    "text": "Instead, CAPT is advocating a different approach for parameterization testing: the use of",
+    "bbox": [
+      93.8,
+      662.8,
+      522.8,
+      676.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b038",
+    "text": "high-frequency (~6 hourly) NWP analyses both to realistically initialize a coarse-resolution",
+    "bbox": [
+      72.0,
+      677.1,
+      513.8,
+      690.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b039",
+    "text": "climate GCM and to evaluate the accuracy of its subsequent short-range weather forecasts. The",
+    "bbox": [
+      72.0,
+      690.6,
+      531.8,
+      703.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 2,
+    "block_id": "288_p2_b040",
+    "text": "rationale is that most of the GCM's forecast error can be attributed to parameterization",
+    "bbox": [
+      72.0,
+      704.8,
+      495.0,
+      718.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b001",
+    "text": "deficiencies, once the model's dynamical state is initialized realistically.  This is especially true",
+    "bbox": [
+      72.0,
+      71.8,
+      531.3,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b002",
+    "text": "when comparing analysis-initialized GCM forecasts with observations that are not assimilated in",
+    "bbox": [
+      72.0,
+      85.3,
+      537.4,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b003",
+    "text": "the NWP analysis (e.g. radiative and turbulent fluxes, clouds, precipitation). Such unassimilated",
+    "bbox": [
+      72.0,
+      99.6,
+      535.2,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b004",
+    "text": "observations can be obtained, for example, from ARM field data or satellite measurements.",
+    "bbox": [
+      72.0,
+      113.1,
+      519.0,
+      126.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b005",
+    "text": "There are other reasons as well to adopt this more physically based diagnostic protocol.",
+    "bbox": [
+      93.8,
+      133.3,
+      519.0,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b006",
+    "text": "Because forecast skill can be readily quantified using standard NWP metrics, the effects of",
+    "bbox": [
+      72.0,
+      146.8,
+      509.1,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b007",
+    "text": "modifying a parameterization can be objectively determined.  In addition, the rich variety of",
+    "bbox": [
+      72.0,
+      160.3,
+      516.8,
+      173.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b008",
+    "text": "weather phenomena allows GCM parameterizations to be comprehensively tested.  Moreover,",
+    "bbox": [
+      72.0,
+      174.6,
+      525.8,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b009",
+    "text": "the short-range behavior of the GCM is relevant for climate simulation, since systematic model",
+    "bbox": [
+      72.0,
+      188.1,
+      531.4,
+      201.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b010",
+    "text": "errors often arise within the first few days of a simulation, and then just grow larger with time.",
+    "bbox": [
+      72.0,
+      202.3,
+      534.0,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b011",
+    "text": "In principle, a climate GCM that demonstrates generally enhanced short-range forecast skill",
+    "bbox": [
+      93.8,
+      221.8,
+      537.7,
+      235.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b012",
+    "text": "also should show improved simulation of climate statistics, since these are aggregates of the",
+    "bbox": [
+      72.0,
+      235.3,
+      516.0,
+      248.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b013",
+    "text": "detailed evolution of the model, rather than stochastically predicted quantities.  Such",
+    "bbox": [
+      72.0,
+      249.6,
+      480.8,
+      262.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b014",
+    "text": "improvements must be demonstrated in practice, though, by first testing the parameterization in",
+    "bbox": [
+      72.0,
+      263.1,
+      532.9,
+      276.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b015",
+    "text": "GCM predictions beyond the deterministic range of  ~15 days, and then in long climate",
+    "bbox": [
+      72.0,
+      277.3,
+      493.1,
+      290.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b016",
+    "text": "simulations.  To the degree that connections exist between forecasting errors and climate errors,",
+    "bbox": [
+      72.0,
+      290.8,
+      534.8,
+      304.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b017",
+    "text": "the testing of GCM parameterizations also will proceed more efficiently by focusing attention",
+    "bbox": [
+      72.0,
+      304.3,
+      524.2,
+      317.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b018",
+    "text": "first on many short forecasts rather than a few long climate simulations.",
+    "bbox": [
+      72.0,
+      318.6,
+      419.2,
+      331.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b019",
+    "text": "Hence, CAPT's premise is that application of high-frequency NWP analyses to evaluate the",
+    "bbox": [
+      93.8,
+      338.1,
+      535.1,
+      351.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b020",
+    "text": "weather forecasts of climate GCMs is an effective technique for",
+    "bbox": [
+      72.0,
+      352.3,
+      384.0,
+      365.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b021",
+    "text": "identifying deficiencies in model parameterizations,",
+    "bbox": [
+      136.5,
+      377.8,
+      391.5,
+      391.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b022",
+    "text": "providing insights into the causes of these shortcomings, and",
+    "bbox": [
+      136.5,
+      397.3,
+      431.2,
+      410.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b023",
+    "text": "quantifying the impact of changes made to the models.",
+    "bbox": [
+      136.5,
+      417.6,
+      402.0,
+      430.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b024",
+    "text": "In applying this diagnostic protocol, CAPT's overriding goal is to improve GCM",
+    "bbox": [
+      93.8,
+      451.3,
+      483.8,
+      464.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b025",
+    "text": "performance--as manifested initially in short-range forecasts, but ultimately in climate",
+    "bbox": [
+      72.0,
+      464.8,
+      488.0,
+      478.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b026",
+    "text": "simulations.",
+    "bbox": [
+      72.0,
+      478.3,
+      141.8,
+      491.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b027",
+    "text": "2.2 NWP analyses",
+    "bbox": [
+      72.0,
+      518.1,
+      165.0,
+      531.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b028",
+    "text": "It is evident that NWP analyses (remapped to the coarser resolution of a climate GCM) will",
+    "bbox": [
+      93.8,
+      538.3,
+      535.5,
+      551.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b029",
+    "text": "play a central role in the CAPT diagnostic protocol. The typical analysis is generated by a four-",
+    "bbox": [
+      72.0,
+      551.8,
+      529.7,
+      565.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b030",
+    "text": "dimensional data assimilation (FDDA) system that applies variational mathematics to optimally",
+    "bbox": [
+      72.0,
+      565.3,
+      534.6,
+      578.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b031",
+    "text": "estimate global weather from ingested surface, radiosonde, and satellite observations (Haltiner",
+    "bbox": [
+      72.0,
+      579.6,
+      527.7,
+      592.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b032",
+    "text": "and Williams 1980, Daley 1991).  This data assimilation also entails the application of an NWP",
+    "bbox": [
+      72.0,
+      593.1,
+      534.0,
+      606.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b033",
+    "text": "GCM--often the same model as that used for weather forecasting.",
+    "bbox": [
+      72.0,
+      607.3,
+      392.2,
+      620.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b034",
+    "text": "The success of the CAPT strategy hinges on the accuracy of the NWP analyses to be used",
+    "bbox": [
+      93.8,
+      626.8,
+      527.0,
+      640.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b035",
+    "text": "for evaluating the weather forecasts of the climate GCM.  Hollingsworth et al. (2002), for",
+    "bbox": [
+      72.0,
+      640.3,
+      504.8,
+      653.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b036",
+    "text": "example, have shown that the short-range forecasts of a representative NWP GCM track",
+    "bbox": [
+      72.0,
+      654.6,
+      498.8,
+      667.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b037",
+    "text": "observations of atmospheric state variables (i.e. pressure, temperature, moisture, and momentum",
+    "bbox": [
+      72.0,
+      668.1,
+      536.8,
+      681.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b038",
+    "text": "fields) with an accuracy that falls within current measurement uncertainties.  Thus, at least in",
+    "bbox": [
+      72.0,
+      682.3,
+      520.9,
+      695.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 3,
+    "block_id": "288_p3_b039",
+    "text": "observation-rich regions, today’s operational NWP analyses (and, by extension, multi-decadal",
+    "bbox": [
+      72.0,
+      695.8,
+      526.5,
+      709.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b001",
+    "text": "reanalyses) are demonstrably reliable references for accurately identifying errors in GCM",
+    "bbox": [
+      72.0,
+      71.8,
+      503.7,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b002",
+    "text": "weather forecasts.",
+    "bbox": [
+      72.0,
+      85.3,
+      167.2,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b003",
+    "text": "Moreover, the existence of high-quality NWP analyses makes it feasible to initialize a",
+    "bbox": [
+      93.8,
+      105.6,
+      508.7,
+      118.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b004",
+    "text": "climate GCM by methods that do not require developing a full-blown FDDA system for the",
+    "bbox": [
+      72.0,
+      119.1,
+      514.9,
+      132.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b005",
+    "text": "model (see Section 4.2).  If the initial state of the GCM is consistent with both the model",
+    "bbox": [
+      72.0,
+      133.3,
+      500.7,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b006",
+    "text": "parameterizations and the NWP analyses and is also close to dynamical balance, the initialization",
+    "bbox": [
+      72.0,
+      146.8,
+      540.7,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b007",
+    "text": "noise associated with gravity waves should be relatively small.  In that event, the forecast errors",
+    "bbox": [
+      72.0,
+      160.3,
+      534.4,
+      173.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b008",
+    "text": "will grow gradually (i.e. without sudden/sharp breaks) as the prediction period increases, and",
+    "bbox": [
+      72.0,
+      174.6,
+      521.0,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b009",
+    "text": "most of the error growth that exceeds that of the inherent (in part, resolution-dependent)",
+    "bbox": [
+      72.0,
+      188.1,
+      497.3,
+      201.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b010",
+    "text": "predictability error will be attributable to deficiencies in the model parameterizations.",
+    "bbox": [
+      72.0,
+      202.3,
+      491.2,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b011",
+    "text": "Although NWP analyses have previously been applied to the evaluation and development of",
+    "bbox": [
+      93.8,
+      221.8,
+      538.5,
+      235.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b012",
+    "text": "climate GCMs (e.g. Jeuken et al.1996, POTENTIALS 1999), such studies have focused on",
+    "bbox": [
+      72.0,
+      235.3,
+      509.7,
+      248.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b013",
+    "text": "analysis-forced integrations of these models.  CAPT's innovation is to recognize the value of",
+    "bbox": [
+      72.0,
+      249.6,
+      518.0,
+      262.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b014",
+    "text": "diagnosing a climate GCM’s weather forecasts, wherein the parameterizations are free to interact",
+    "bbox": [
+      72.0,
+      263.1,
+      540.4,
+      276.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b015",
+    "text": "with each other and with the model dynamics. Even though the forecast skill of a coarse-",
+    "bbox": [
+      72.0,
+      277.3,
+      498.2,
+      290.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b016",
+    "text": "resolution climate GCM is likely to be less than that of a fine-resolution NWP GCM, relative",
+    "bbox": [
+      72.0,
+      290.8,
+      522.8,
+      304.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b017",
+    "text": "improvement in the climate GCM's forecasts still should be attainable by making appropriate",
+    "bbox": [
+      72.0,
+      304.3,
+      521.1,
+      317.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b018",
+    "text": "changes in the model’s physical parameterizations.  Thus, CAPT's objective is not to improve the",
+    "bbox": [
+      72.0,
+      318.6,
+      541.3,
+      331.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b019",
+    "text": "short-range forecasts of a climate GCM per se, but rather to use weather forecasting as a context",
+    "bbox": [
+      72.0,
+      332.1,
+      537.0,
+      345.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b020",
+    "text": "for parameterization testing.",
+    "bbox": [
+      72.0,
+      346.3,
+      210.0,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b021",
+    "text": "2.3 Ancillary evaluation data",
+    "bbox": [
+      72.0,
+      371.8,
+      219.0,
+      385.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b022",
+    "text": "However, an NWP analysis is not sufficient to evaluate the GCM’s short-range forecast in",
+    "bbox": [
+      93.8,
+      391.3,
+      529.5,
+      404.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b023",
+    "text": "all respects: although the analysis is an optimal estimate of atmospheric state variables (given the",
+    "bbox": [
+      72.0,
+      405.6,
+      542.2,
+      418.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b024",
+    "text": "available weather observations), it cannot furnish precise checks on physical forcings such as",
+    "bbox": [
+      72.0,
+      419.1,
+      521.8,
+      432.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b025",
+    "text": "radiation and its interaction with clouds, convective processes, and turbulent fluxes.   That is,",
+    "bbox": [
+      72.0,
+      433.3,
+      521.8,
+      446.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b026",
+    "text": "although an NWP analysis includes estimates of such forcings, these depend strongly on the",
+    "bbox": [
+      72.0,
+      446.8,
+      517.1,
+      460.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b027",
+    "text": "physical parameterizations of the analysis GCM, and so are only indirectly related to the",
+    "bbox": [
+      72.0,
+      460.3,
+      498.8,
+      473.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b028",
+    "text": "assimilated observations.",
+    "bbox": [
+      72.0,
+      474.6,
+      195.0,
+      487.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b029",
+    "text": "Hence, for independent evaluation of GCM physical parameterizations, high-frequency",
+    "bbox": [
+      93.8,
+      494.1,
+      515.2,
+      507.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b030",
+    "text": "satellite data and field observations such as those provided by the ARM Program (Stokes and",
+    "bbox": [
+      72.0,
+      508.3,
+      522.5,
+      521.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b031",
+    "text": "Schwartz 1994) are indispensable--indeed,  their practical value for identifying GCM",
+    "bbox": [
+      72.0,
+      521.8,
+      483.2,
+      535.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b032",
+    "text": "parameterization problems has been amply demonstrated (e.g. Webb et al. 2001, Morcrette",
+    "bbox": [
+      72.0,
+      535.3,
+      510.7,
+      548.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b033",
+    "text": "2002).  Of course, the physical consequences of changing particular parameterizations also can",
+    "bbox": [
+      72.0,
+      549.6,
+      530.2,
+      562.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b034",
+    "text": "be assessed using these ancillary data.  Moreover, field observations of state variables provide a",
+    "bbox": [
+      72.0,
+      563.1,
+      534.0,
+      576.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b035",
+    "text": "local check on the NWP analyses.",
+    "bbox": [
+      72.0,
+      577.3,
+      237.8,
+      590.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b036",
+    "text": "CAPT: Diagnostic Protocol",
+    "bbox": [
+      93.8,
+      618.6,
+      239.2,
+      631.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b037",
+    "text": "An overview of the proposed CAPt diagnostic protocol is illustrated by Figure 1. As a first",
+    "bbox": [
+      93.8,
+      635.8,
+      531.5,
+      649.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b038",
+    "text": "step, an appropriate regional case study is selected, based on availability of high-frequency",
+    "bbox": [
+      72.0,
+      649.3,
+      510.8,
+      662.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b039",
+    "text": "evaluation data (NWP analyses, satellite data, and field observations) that can effectively test a",
+    "bbox": [
+      72.0,
+      662.8,
+      530.0,
+      676.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b040",
+    "text": "candidate parameterization implemented in the climate GCM.  (Such candidates may include, for",
+    "bbox": [
+      72.0,
+      677.1,
+      540.4,
+      690.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 4,
+    "block_id": "288_p4_b041",
+    "text": "example, radiation, convection, or cloud-formation schemes.)",
+    "bbox": [
+      72.0,
+      690.6,
+      369.8,
+      703.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b001",
+    "text": "The climate GCM’s state variables first are globally initialized from NWP analyses that are",
+    "bbox": [
+      94.5,
+      71.8,
+      535.5,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b002",
+    "text": "remapped to the coarser resolution of the climate GCM and temporally interpolated for times",
+    "bbox": [
+      76.5,
+      85.3,
+      525.8,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b003",
+    "text": "pertinent to the case study.  Climate GCM forecasts then are generated, with data archived at",
+    "bbox": [
+      76.5,
+      99.6,
+      524.1,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b004",
+    "text": "regular intervals.  At each forecast interval, the departures of the GCM state variables from the",
+    "bbox": [
+      76.5,
+      113.1,
+      533.5,
+      126.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b005",
+    "text": "remapped NWP analysis data will be quantified by standard forecast skill scores. These metrics",
+    "bbox": [
+      76.5,
+      127.3,
+      537.2,
+      140.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b006",
+    "text": "also may be computed for forecasts that are stratified according to different synoptic regimes for",
+    "bbox": [
+      76.5,
+      140.8,
+      542.2,
+      154.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b007",
+    "text": "the case study region so as to identify model errors that are more obvious for particular",
+    "bbox": [
+      76.5,
+      154.3,
+      496.3,
+      167.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b008",
+    "text": "atmospheric conditions.",
+    "bbox": [
+      76.5,
+      168.6,
+      193.5,
+      181.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b009",
+    "text": "Figure 1: Schematic depiction of the CAPT diagnostic protocol.",
+    "bbox": [
+      72.0,
+      633.3,
+      344.4,
+      644.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b010",
+    "text": "If the candidate parameterization does not improve the overall forecast skill of the GCM",
+    "bbox": [
+      93.8,
+      664.3,
+      520.2,
+      677.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b011",
+    "text": "(e.g. relative to forecasts made with a \"standard version\" parameterization), the model developers",
+    "bbox": [
+      72.0,
+      677.8,
+      541.9,
+      691.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b012",
+    "text": "will need to formulate potential correctives.  To guide this process, the case study observations",
+    "bbox": [
+      72.0,
+      692.1,
+      529.3,
+      705.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 5,
+    "block_id": "288_p5_b013",
+    "text": "of physical forcings can be used to infer connections between the GCM forecast errors and",
+    "bbox": [
+      72.0,
+      705.6,
+      510.0,
+      718.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b001",
+    "text": "physics errors, and in turn to suggest needed modifications in the candidate parameterization. At",
+    "bbox": [
+      72.0,
+      71.8,
+      537.0,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b002",
+    "text": "this stage, other analysis tools such as single-column models (SCMs) and/or cloud-resolving",
+    "bbox": [
+      72.0,
+      85.3,
+      518.3,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b003",
+    "text": "models (CRMs) also may be enlisted in developing an improved parameterization.",
+    "bbox": [
+      72.0,
+      99.6,
+      471.0,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b004",
+    "text": "Whether these parameterization changes translate into actual model improvement will be",
+    "bbox": [
+      93.8,
+      119.1,
+      523.3,
+      132.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b005",
+    "text": "assessed by repeating all of the above diagnostic procedures for a new set of GCM forecasts.",
+    "bbox": [
+      72.0,
+      133.3,
+      522.8,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b006",
+    "text": "General improvement in model forecast skill then will be tested further in climate simulations,",
+    "bbox": [
+      72.0,
+      146.8,
+      527.7,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b007",
+    "text": "where the relevant evaluation will be determined from the statistics of the appropriate high-",
+    "bbox": [
+      72.0,
+      160.3,
+      511.0,
+      173.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b008",
+    "text": "frequency data over the simulation period.  A need for additional parameterization changes may,",
+    "bbox": [
+      72.0,
+      174.6,
+      537.6,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b009",
+    "text": "of course, become obvious in these longer simulations.  When general improvements in the",
+    "bbox": [
+      72.0,
+      188.1,
+      512.7,
+      201.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b010",
+    "text": "climate statistics of the GCM have been demonstrated, the details will be documented in",
+    "bbox": [
+      72.0,
+      202.3,
+      498.8,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b011",
+    "text": "technical reports and/or peer-reviewed publications that are coauthored by all participants.  The",
+    "bbox": [
+      72.0,
+      215.8,
+      532.5,
+      229.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b012",
+    "text": "entire process then may be repeated for another candidate parameterization.",
+    "bbox": [
+      72.0,
+      229.3,
+      437.2,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b013",
+    "text": "CAPT: Technical Details",
+    "bbox": [
+      93.8,
+      271.3,
+      225.0,
+      284.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b014",
+    "text": "A prototype of the CAPT diagnostic protocol is presently being implemented for the NCAR",
+    "bbox": [
+      93.8,
+      302.1,
+      537.4,
+      315.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b015",
+    "text": "Community Atmospheric Model Version 2 (CAM2).  In this preliminary phase of the work,",
+    "bbox": [
+      72.0,
+      315.6,
+      515.1,
+      328.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b016",
+    "text": "many details are yet to be settled, so it is possible only to convey a general sense of the technical",
+    "bbox": [
+      72.0,
+      329.8,
+      538.1,
+      343.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b017",
+    "text": "issues to be addressed.  These are organized according to the elements of Figure 1, as follows.",
+    "bbox": [
+      72.0,
+      343.3,
+      525.8,
+      356.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b018",
+    "text": "4.1 Evaluation data",
+    "bbox": [
+      72.0,
+      371.1,
+      176.2,
+      384.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b019",
+    "text": "CAPT will use the high-frequency (6-hourly) ERA-40 and NCEP R2 reanalyses (ECMWF",
+    "bbox": [
+      93.8,
+      390.6,
+      531.6,
+      403.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b020",
+    "text": "2002, Kanamitsu et al. 2002), remapped to the coarser GCM resolution (e.g. spectral T42 with 26",
+    "bbox": [
+      72.0,
+      404.8,
+      542.1,
+      418.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b021",
+    "text": "vertical levels for CAM2), for primary evaluation of the model weather forecasts.  Such a",
+    "bbox": [
+      72.0,
+      418.3,
+      503.7,
+      431.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b022",
+    "text": "remapping is also necessary in using the reanalyses as target data for initializing these forecasts",
+    "bbox": [
+      72.0,
+      431.8,
+      532.1,
+      445.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b023",
+    "text": "(see Section 4.2).",
+    "bbox": [
+      72.0,
+      446.1,
+      157.5,
+      459.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b024",
+    "text": "Ancillary (field and satellite) data, available at 6-hourly and higher frequencies  (in some",
+    "bbox": [
+      93.8,
+      465.6,
+      523.1,
+      478.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b025",
+    "text": "cases, at frequencies comparable to GCM time steps), will provide independent checks on the",
+    "bbox": [
+      72.0,
+      479.8,
+      523.9,
+      493.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b026",
+    "text": "model forecast, and on other variables that are more directly related to parameterized processes.",
+    "bbox": [
+      72.0,
+      493.3,
+      534.4,
+      506.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b027",
+    "text": "Continuous field observations are available at selected points, notably at the ARM sites (ARM",
+    "bbox": [
+      72.0,
+      506.8,
+      528.5,
+      520.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b028",
+    "text": "2002) in the U.S. Southern Great Plains (SGP), the North Slope of Alaska (NSA), and the",
+    "bbox": [
+      72.0,
+      521.1,
+      505.3,
+      534.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b029",
+    "text": "Tropical West Pacific (TWP).",
+    "bbox": [
+      72.0,
+      534.6,
+      224.2,
+      547.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b030",
+    "text": "The most comprehensive set of high-frequency observations are presently available during",
+    "bbox": [
+      93.8,
+      554.8,
+      531.7,
+      568.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b031",
+    "text": "sporadic intensive observation periods (IOPs), but ARM increasingly is providing continuous",
+    "bbox": [
+      72.0,
+      568.3,
+      523.5,
+      581.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b032",
+    "text": "records of these data sets. Selected examples at the ARM SGP site include:",
+    "bbox": [
+      72.0,
+      581.8,
+      435.0,
+      595.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b033",
+    "text": "• Radiosonde soundings of temperature and humidity at 3-hourly frequencies at the SGP",
+    "bbox": [
+      90.0,
+      601.4,
+      523.2,
+      616.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b034",
+    "text": "central facility (CF) near Lamont, Oklahoma, as well as at 4 neighboring stations. (These",
+    "bbox": [
+      104.2,
+      616.3,
+      534.4,
+      629.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b035",
+    "text": "can provide independent local checks on NWP analyses.)",
+    "bbox": [
+      104.2,
+      630.6,
+      381.8,
+      643.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b036",
+    "text": "• Wind profiler measurements at hourly frequencies;",
+    "bbox": [
+      90.0,
+      649.4,
+      351.8,
+      664.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b037",
+    "text": "• Solar Infrared Radiation Station (SIRS) measurements of surface upwelling/downwelling",
+    "bbox": [
+      90.0,
+      670.4,
+      535.9,
+      685.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 6,
+    "block_id": "288_p6_b038",
+    "text": "longwave and shortwave irradiances at 1-minute frequencies;",
+    "bbox": [
+      104.2,
+      685.3,
+      401.2,
+      698.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b001",
+    "text": "• Energy Budget Bowen Ratio (EBBR) measurements of surface latent and sensible heat",
+    "bbox": [
+      90.0,
+      71.2,
+      523.9,
+      85.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b002",
+    "text": "fluxes at 30-minute frequencies;",
+    "bbox": [
+      104.2,
+      86.8,
+      261.8,
+      100.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b003",
+    "text": "• Microwave Radiometer (MWR) measurements of column precipitable water and total",
+    "bbox": [
+      90.0,
+      105.7,
+      518.8,
+      120.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b004",
+    "text": "cloud liquid water at 5-minute frequencies;",
+    "bbox": [
+      104.2,
+      120.6,
+      313.5,
+      133.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b005",
+    "text": "• Surface Meteorological Observation Stations (SMOS) and Oklahoma and Kansas Mesonet",
+    "bbox": [
+      90.0,
+      140.2,
+      542.2,
+      154.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b006",
+    "text": "stations (OKM and KAM) observations of surface meteorology (precipitation, pressure,",
+    "bbox": [
+      104.2,
+      155.1,
+      527.9,
+      168.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b007",
+    "text": "winds, temperature, and relative humidity) at 5 to 30-minute frequencies.",
+    "bbox": [
+      104.2,
+      169.3,
+      458.2,
+      182.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b008",
+    "text": "In addition, collocated Geostationary Operational Environmental Satellite (GOES)",
+    "bbox": [
+      93.8,
+      203.1,
+      492.6,
+      216.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b009",
+    "text": "temperature and dew point retrievals are available at 30-minute frequencies.",
+    "bbox": [
+      72.0,
+      216.6,
+      445.5,
+      229.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b010",
+    "text": "Similar types of point field data also are available at a few other locations where",
+    "bbox": [
+      93.8,
+      236.1,
+      482.0,
+      249.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b011",
+    "text": "international Global Energy and Water Cycle Experiment (GEWEX) Continental-Scale",
+    "bbox": [
+      72.0,
+      250.3,
+      494.3,
+      263.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b012",
+    "text": "Experiments have been conducted (CSE 2002). There also are plans to expand this observational",
+    "bbox": [
+      72.0,
+      263.8,
+      539.1,
+      277.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b013",
+    "text": "network to some 30 sites during the 2003-2004 GEWEX Coordinated Enhanced Observing",
+    "bbox": [
+      72.0,
+      278.1,
+      512.9,
+      291.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b014",
+    "text": "Period (CEOP 2002).",
+    "bbox": [
+      72.0,
+      291.6,
+      183.8,
+      304.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b015",
+    "text": "Other potentially relevant evaluation data include coordinated satellite, aircraft, and surface",
+    "bbox": [
+      93.8,
+      311.1,
+      535.2,
+      324.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b016",
+    "text": "measurements that have been collected during one-time field campaigns. Many of these have",
+    "bbox": [
+      72.0,
+      325.3,
+      520.9,
+      338.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b017",
+    "text": "been centralized by the GEWEX International Satellite Cloud Climatology Project (ISCCP), in",
+    "bbox": [
+      72.0,
+      338.8,
+      529.5,
+      352.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b018",
+    "text": "particular for several locations and time periods that are under intensive investigation by",
+    "bbox": [
+      72.0,
+      353.1,
+      497.7,
+      366.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b019",
+    "text": "GEWEX Cloud System Study participants (GCSS 2002).",
+    "bbox": [
+      72.0,
+      366.6,
+      355.5,
+      379.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b020",
+    "text": "To make these point observations fully relevant for model evaluation, they need to be",
+    "bbox": [
+      93.8,
+      386.1,
+      506.5,
+      399.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b021",
+    "text": "aggregated to the scale of a GCM grid box. To this end, some of the ARM SGP data has been",
+    "bbox": [
+      72.0,
+      400.3,
+      523.4,
+      413.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b022",
+    "text": "subjected to objective variational analysis (Zhang and Lin1997, Zhang, et al. 2000). This method",
+    "bbox": [
+      72.0,
+      413.8,
+      539.8,
+      427.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b023",
+    "text": "uses the domain-averaged surface precipitation and latent and sensible heat fluxes as well as the",
+    "bbox": [
+      72.0,
+      428.1,
+      534.6,
+      441.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b024",
+    "text": "surface and top-of-atmosphere (TOA) radiative fluxes to constrain the atmospheric variables, so",
+    "bbox": [
+      72.0,
+      441.6,
+      535.3,
+      454.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b025",
+    "text": "that heat, moisture, and momentum are conserved.  Thus, the resulting derived data are",
+    "bbox": [
+      72.0,
+      455.1,
+      491.7,
+      468.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b026",
+    "text": "dynamically and thermodynamically consistent.",
+    "bbox": [
+      72.0,
+      469.3,
+      304.5,
+      482.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b027",
+    "text": "Another complication of using such ancillary data for model evaluation is that a \"forward",
+    "bbox": [
+      93.8,
+      488.8,
+      525.0,
+      502.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b028",
+    "text": "model\" (e.g. Morcrette 1991, Klein and Jakob 1999) often must be applied to translate the",
+    "bbox": [
+      72.0,
+      503.1,
+      506.1,
+      516.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b029",
+    "text": "GCM’s output variables into relevant observables (e.g. band radiances, cloud reflectivies, etc.).",
+    "bbox": [
+      72.0,
+      516.6,
+      533.8,
+      529.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b030",
+    "text": "For example, the ISSCP cloud simulator (Webb 2002) is currently being incorporated in the",
+    "bbox": [
+      72.0,
+      530.1,
+      516.0,
+      543.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b031",
+    "text": "CAM2 model. In addition, modifications of the model’s standard configuration (e.g. increasing",
+    "bbox": [
+      72.0,
+      544.3,
+      530.0,
+      557.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b032",
+    "text": "the frequency of the radiation calculations and of the archiving of model output) may be",
+    "bbox": [
+      72.0,
+      557.8,
+      497.8,
+      571.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b033",
+    "text": "necessary to match the frequency of the observations.",
+    "bbox": [
+      72.0,
+      572.1,
+      331.5,
+      585.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b034",
+    "text": "4.2 Model initialization",
+    "bbox": [
+      72.0,
+      616.3,
+      197.2,
+      629.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b035",
+    "text": "In order to isolate a climate GCM's parameterization-related errors, proper initialization of",
+    "bbox": [
+      93.8,
+      644.1,
+      529.5,
+      657.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b036",
+    "text": "the climate GCM (initially, CAM2) is crucial for minimizing noise resulting from an unbalanced",
+    "bbox": [
+      72.0,
+      657.6,
+      538.8,
+      670.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b037",
+    "text": "land/atmosphere initial state and for producing needed unobserved variables (e.g. cloud water",
+    "bbox": [
+      72.0,
+      671.8,
+      523.8,
+      685.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b038",
+    "text": "and ice, soil moisture and temperature profile, etc.).  Hence, CAPT is currently investigating the",
+    "bbox": [
+      72.0,
+      685.3,
+      535.8,
+      698.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 7,
+    "block_id": "288_p7_b039",
+    "text": "relative merits of two standard techniques--\"nudging\" and \"forecast-analysis\"--for initializing a",
+    "bbox": [
+      72.0,
+      698.8,
+      531.8,
+      712.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b001",
+    "text": "model's atmospheric state variables using an NWP analysis as target data",
+    "bbox": [
+      72.0,
+      71.8,
+      428.2,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b002",
+    "text": "Nudging (e.g. Jeuken et al. 1996) attempts to steer atmospheric variable α toward that of the",
+    "bbox": [
+      93.8,
+      84.7,
+      540.0,
+      99.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b003",
+    "text": "corresponding analysis variable ?α0  (that is interpolated to the model's horizontal/vertical grid) by",
+    "bbox": [
+      72.0,
+      99.7,
+      540.8,
+      115.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b004",
+    "text": "adding a Newtonian relaxation term to the relevant prognostic equation:",
+    "bbox": [
+      72.0,
+      115.3,
+      420.0,
+      128.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b005",
+    "text": "Dα/Dt = F(α, x, t) + (α0 −α)/τ",
+    "bbox": [
+      244.5,
+      134.2,
+      392.2,
+      149.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b006",
+    "text": "Here F includes all spatio-temporal forcings, and the relaxation time constant  τ may be",
+    "bbox": [
+      93.8,
+      155.2,
+      516.0,
+      169.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b007",
+    "text": "specific to each nudged variable α (e.g. including atmospheric temperature T, winds u/v, surface",
+    "bbox": [
+      72.0,
+      169.4,
+      538.1,
+      184.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b008",
+    "text": "pressure Ps, and humidity q). Nudging is currently implemented at every model time step for six",
+    "bbox": [
+      72.0,
+      185.1,
+      537.8,
+      198.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b009",
+    "text": "months prior to the first forecast (see schematic in Figure 2a).  This lengthy integration serves to",
+    "bbox": [
+      72.0,
+      198.6,
+      537.0,
+      211.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b010",
+    "text": "spin up \"slow\" CAM2 land variables (e.g. soil moisture/temperature and snow cover) to a state in",
+    "bbox": [
+      72.0,
+      212.8,
+      540.6,
+      226.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b011",
+    "text": "which the associated surface radiative and turbulent fluxes are consistent with the nudged model",
+    "bbox": [
+      72.0,
+      226.3,
+      536.2,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b012",
+    "text": "atmosphere.  Aside from this long spin-up period, the chief disadvantage of implementing the",
+    "bbox": [
+      72.0,
+      239.8,
+      523.9,
+      253.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b013",
+    "text": "nudging technique is that the model prognostic equations must be modified to include the",
+    "bbox": [
+      72.0,
+      254.1,
+      504.0,
+      267.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b014",
+    "text": "necessary relaxation terms.",
+    "bbox": [
+      72.0,
+      267.6,
+      210.8,
+      280.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b015",
+    "text": "Nudging Technique",
+    "bbox": [
+      184.5,
+      307.5,
+      354.8,
+      328.9
+    ],
+    "font_size": 19.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b016",
+    "text": "Atm",
+    "bbox": [
+      93.7,
+      400.4,
+      118.6,
+      415.4
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b017",
+    "text": "Land",
+    "bbox": [
+      93.7,
+      465.7,
+      123.5,
+      480.7
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b018",
+    "text": "Forecast",
+    "bbox": [
+      369.8,
+      365.9,
+      417.7,
+      380.9
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b019",
+    "text": "Time",
+    "bbox": [
+      236.2,
+      515.9,
+      269.8,
+      530.9
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b020",
+    "text": "Atmospheric T, u,v,Ps,q are nudged at every time step",
+    "bbox": [
+      102.0,
+      335.9,
+      413.4,
+      350.9
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b021",
+    "text": "for 6 months prior to the first forecast",
+    "bbox": [
+      102.0,
+      352.4,
+      316.4,
+      367.4
+    ],
+    "font_size": 13.9,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b022",
+    "text": "Figure 2a: Schematic depiction of the nudging initialization technique.",
+    "bbox": [
+      72.0,
+      558.3,
+      373.7,
+      569.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b023",
+    "text": "Such model code changes are not needed in implementing the forecast-analysis technique",
+    "bbox": [
+      93.8,
+      606.6,
+      526.5,
+      619.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b024",
+    "text": "(e.g. Harrison et al. 1999).  In this approach, the model’s forecast (including unobserved",
+    "bbox": [
+      72.0,
+      620.1,
+      497.6,
+      633.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b025",
+    "text": "variables) is compared directly to the NWP analysis at six-hour intervals, and a fractional",
+    "bbox": [
+      72.0,
+      634.3,
+      504.0,
+      647.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b026",
+    "text": "difference between forecast and analysis (the \"increment\") is added repeatedly to the evolving",
+    "bbox": [
+      72.0,
+      647.8,
+      524.8,
+      661.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b027",
+    "text": "model atmospheric state.  (When the entire difference between the forecast and the analysis is",
+    "bbox": [
+      72.0,
+      662.1,
+      524.7,
+      675.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b028",
+    "text": "added, the forecast-analysis technique is identical to \"full-field insertion\".)  As in the nudging",
+    "bbox": [
+      72.0,
+      675.6,
+      522.4,
+      688.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b029",
+    "text": "technique, the model's slow land variables adjust so that the surface fluxes are consistent with the",
+    "bbox": [
+      72.0,
+      689.1,
+      541.2,
+      702.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 8,
+    "block_id": "288_p8_b030",
+    "text": "updated atmospheric state (Figure 2b). A disadvantage of forecast-analysis is that the model's",
+    "bbox": [
+      72.0,
+      703.3,
+      522.1,
+      716.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b001",
+    "text": "atmospheric state variables must be mapped to the analysis data grid, and the increment mapped",
+    "bbox": [
+      72.0,
+      71.8,
+      535.9,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b002",
+    "text": "back to the model grid.  In addition, it may be necessary to apply a digital filter in order to damp",
+    "bbox": [
+      72.0,
+      85.3,
+      536.8,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b003",
+    "text": "gravity waves which may be more extensive when initializing by the forecast-analysis technique",
+    "bbox": [
+      72.0,
+      99.6,
+      537.8,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b004",
+    "text": "(Lynch and Huang 1992, Polavarapu et al. 2000).",
+    "bbox": [
+      72.0,
+      113.1,
+      312.0,
+      126.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b005",
+    "text": "Atm",
+    "bbox": [
+      81.8,
+      273.9,
+      108.4,
+      286.8
+    ],
+    "font_size": 13.1,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b006",
+    "text": "Land",
+    "bbox": [
+      81.8,
+      330.1,
+      112.3,
+      343.0
+    ],
+    "font_size": 13.1,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b007",
+    "text": "Forecast-Analysis Technique",
+    "bbox": [
+      96.8,
+      169.5,
+      407.1,
+      190.9
+    ],
+    "font_size": 21.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b008",
+    "text": "T,u,v,Ps,q",
+    "bbox": [
+      204.8,
+      242.1,
+      246.1,
+      250.7
+    ],
+    "font_size": 8.7,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b009",
+    "text": "T,u,v,Ps,q",
+    "bbox": [
+      86.2,
+      242.1,
+      127.6,
+      250.7
+    ],
+    "font_size": 8.7,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b010",
+    "text": "T,u,v,Ps,q",
+    "bbox": [
+      333.8,
+      244.4,
+      376.2,
+      252.9
+    ],
+    "font_size": 8.7,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b011",
+    "text": "Forecast",
+    "bbox": [
+      267.0,
+      227.4,
+      317.7,
+      240.3
+    ],
+    "font_size": 13.1,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b012",
+    "text": "Time",
+    "bbox": [
+      215.2,
+      355.6,
+      323.9,
+      368.5
+    ],
+    "font_size": 13.1,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b013",
+    "text": "The land model is restarted prior to the forecast",
+    "bbox": [
+      89.2,
+      379.4,
+      414.5,
+      394.4
+    ],
+    "font_size": 15.2,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b014",
+    "text": "Figure 2b: Schematic depiction of the forecast-analysis initialization technique.",
+    "bbox": [
+      72.0,
+      415.1,
+      414.9,
+      425.9
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b015",
+    "text": "CAPT is currently applying both of these initialization techniques in studies designed to",
+    "bbox": [
+      94.5,
+      449.1,
+      519.4,
+      462.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b016",
+    "text": "estimate the magnitude of initialization errors in different contexts.  For example, a \"perfect",
+    "bbox": [
+      72.0,
+      462.6,
+      514.2,
+      475.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b017",
+    "text": "model\" study is estimating the irreducible part of the CAM2 initialization error by using the",
+    "bbox": [
+      72.0,
+      476.1,
+      515.0,
+      489.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b018",
+    "text": "model's own outputs as the target data set. Preliminary results indicate the need to nudge the",
+    "bbox": [
+      72.0,
+      490.3,
+      517.2,
+      503.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b019",
+    "text": "model for as long as ~ 6 months, depending on the seasonally dependent adjustment time of the",
+    "bbox": [
+      72.0,
+      503.8,
+      533.0,
+      517.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b020",
+    "text": "slower land and snow processes. In addition, a \"perfect analysis\" study is providing estimates of",
+    "bbox": [
+      72.0,
+      518.1,
+      535.0,
+      531.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b021",
+    "text": "the minimum initialization error to be expected when the NCEP R2 reanalysis is used for",
+    "bbox": [
+      72.0,
+      531.6,
+      502.2,
+      544.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b022",
+    "text": "initializing the associated NCEP GCM.",
+    "bbox": [
+      72.0,
+      545.1,
+      269.2,
+      558.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b023",
+    "text": "A \"practical initialization\" study is also underway to assess the relative merits of nudging vs.",
+    "bbox": [
+      93.8,
+      565.3,
+      541.2,
+      578.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b024",
+    "text": "forecast-analysis methods for initialization of the model atmosphere using the ERA-40 reanalysis",
+    "bbox": [
+      72.0,
+      578.8,
+      542.2,
+      592.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b025",
+    "text": "as target data. Thus far, the principal technical issue concerns how to appropriately remap the",
+    "bbox": [
+      72.0,
+      593.1,
+      522.4,
+      606.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b026",
+    "text": "reanalysis surface pressure and net downward radiation to the coarser model resolution, given the",
+    "bbox": [
+      72.0,
+      606.6,
+      542.0,
+      619.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b027",
+    "text": "associated large differences in topographic elevations.  Following Morcrette (2002), initialization",
+    "bbox": [
+      72.0,
+      620.1,
+      540.7,
+      633.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b028",
+    "text": "noise is judged to be tolerable if a 30+ day time series formed by concatenation of a sequence of",
+    "bbox": [
+      72.0,
+      634.3,
+      536.4,
+      647.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b029",
+    "text": "forecasts started at fixed intervals apart show qualitatively similar features, without evincing",
+    "bbox": [
+      72.0,
+      647.8,
+      517.3,
+      661.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b030",
+    "text": "sudden/sharp breaks.",
+    "bbox": [
+      72.0,
+      662.1,
+      174.8,
+      675.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b031",
+    "text": "Another unresolved issue is whether the CAM2 land model (Bonan et al. 2002) should be",
+    "bbox": [
+      93.8,
+      681.6,
+      526.5,
+      694.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 9,
+    "block_id": "288_p9_b032",
+    "text": "initialized in a different way than in the current practice of \"slaving\" it to the atmospheric model.",
+    "bbox": [
+      72.0,
+      695.1,
+      542.5,
+      708.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b001",
+    "text": "Here, at least three different approaches might be pursued.  Using the initialization of the soil",
+    "bbox": [
+      72.0,
+      71.8,
+      521.7,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b002",
+    "text": "moisture profile as an example, these methods are summarized below, in ascending order of",
+    "bbox": [
+      72.0,
+      85.3,
+      515.5,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b003",
+    "text": "implementation difficulty:",
+    "bbox": [
+      72.0,
+      99.6,
+      209.2,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b004",
+    "text": "• Remapping a reanalysis soil moisture profile to that of the climate model, subject to",
+    "bbox": [
+      90.0,
+      118.4,
+      509.1,
+      133.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b005",
+    "text": "maintaining equivalent soil moisture availabilities (personal communication, P. Viterbo,",
+    "bbox": [
+      104.2,
+      134.1,
+      530.0,
+      147.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b006",
+    "text": "M. Best, and H. Douville).",
+    "bbox": [
+      104.2,
+      147.6,
+      234.8,
+      160.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b007",
+    "text": "• Scaling of the mean and variance of the reanalysis soil moisture profile, where the scaling",
+    "bbox": [
+      90.0,
+      167.2,
+      538.2,
+      181.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b008",
+    "text": "coefficients are estimated from a multi-year run of the climate model made with observed",
+    "bbox": [
+      104.2,
+      182.1,
+      537.3,
+      195.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b009",
+    "text": "sea surface temperatures as ocean boundary conditions (personal communication, M.",
+    "bbox": [
+      104.2,
+      195.6,
+      515.1,
+      208.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b010",
+    "text": "Kanamitsu).",
+    "bbox": [
+      104.2,
+      209.8,
+      165.8,
+      223.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b011",
+    "text": "• Specifying soil moisture profiles from a multi-annual off-line or coupled integration of the",
+    "bbox": [
+      90.0,
+      228.7,
+      541.2,
+      243.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b012",
+    "text": "climate model's land scheme forced by estimates of observed terrestrial precipitation and",
+    "bbox": [
+      104.2,
+      244.3,
+      533.1,
+      257.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b013",
+    "text": "surface insolation (personal communication P. Dirmeyer, R. Koster, and K. Mitchell).",
+    "bbox": [
+      104.2,
+      257.8,
+      519.0,
+      271.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b014",
+    "text": "In practice, it will be necessary to strike a compromise between a land initialization scheme",
+    "bbox": [
+      93.8,
+      291.6,
+      535.2,
+      304.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b015",
+    "text": "that can be easily implemented versus one that yields a close initial land-atmosphere balance, but",
+    "bbox": [
+      72.0,
+      305.1,
+      540.8,
+      318.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b016",
+    "text": "at excessive computational cost.",
+    "bbox": [
+      72.0,
+      319.3,
+      228.8,
+      332.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b017",
+    "text": "4.3 Model forecasts",
+    "bbox": [
+      72.0,
+      354.6,
+      174.8,
+      367.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b018",
+    "text": "Although much useful diagnostic information can be gleaned in the course of initializing the",
+    "bbox": [
+      93.8,
+      385.3,
+      540.0,
+      398.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b019",
+    "text": "model, intrinsic behaviors are more fully revealed in forecasts.  For example, the observed",
+    "bbox": [
+      72.0,
+      399.6,
+      508.5,
+      412.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b020",
+    "text": "propensity of the CAM2 atmosphere to dry excessively when nudged toward the NWP",
+    "bbox": [
+      72.0,
+      413.1,
+      491.3,
+      426.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b021",
+    "text": "reanalyses is even more evident in its forecasts of atmospheric moisture at the ARM SGP site",
+    "bbox": [
+      72.0,
+      427.3,
+      523.3,
+      440.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b022",
+    "text": "(apparently related to incorrect forecast of precipitation events and/or amounts). This pattern is",
+    "bbox": [
+      72.0,
+      440.8,
+      529.9,
+      454.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b023",
+    "text": "evident whether the forecasts are compared to the corresponding nudged initial states (Figure 3)",
+    "bbox": [
+      72.0,
+      454.3,
+      534.7,
+      467.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b024",
+    "text": "or to ARM field observations (Figure 4). These results are thought to be linked to deficiencies in",
+    "bbox": [
+      72.0,
+      468.6,
+      537.0,
+      481.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b025",
+    "text": "the CAM’s convective triggering mechanism over land (Xie et al. 2002).",
+    "bbox": [
+      72.0,
+      482.1,
+      423.8,
+      495.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b026",
+    "text": "The current CAPT practice is to generate 3-day (0-72 hour) CAM2 forecasts, with data",
+    "bbox": [
+      93.8,
+      502.3,
+      513.4,
+      515.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b027",
+    "text": "archived every 3 hours.  A new 3-day forecast is started at 00Z for each day of the time period of",
+    "bbox": [
+      72.0,
+      515.8,
+      539.1,
+      529.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b028",
+    "text": "interest (e.g. during an ARM IOP), where the model atmosphere is initialized by application of",
+    "bbox": [
+      72.0,
+      529.3,
+      530.3,
+      542.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b029",
+    "text": "either nudging or forecast-analysis techniques.",
+    "bbox": [
+      72.0,
+      543.6,
+      297.8,
+      556.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b030",
+    "text": "Both the magnitude of forecast errors and their growth rate are of diagnostic value.  These",
+    "bbox": [
+      93.8,
+      563.1,
+      528.4,
+      576.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b031",
+    "text": "aspects of the forecast can be quantified using standard NWP metrics, for example by computing",
+    "bbox": [
+      72.0,
+      577.3,
+      539.1,
+      590.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b032",
+    "text": "the temporal variation of the mean bias and the root-mean-square (RMS) error (yielding error",
+    "bbox": [
+      72.0,
+      590.8,
+      523.4,
+      604.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b033",
+    "text": "amplitude information) or that of the anomaly correlation coefficient (yielding error pattern",
+    "bbox": [
+      72.0,
+      604.3,
+      512.2,
+      617.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 10,
+    "block_id": "288_p10_b034",
+    "text": "information).",
+    "bbox": [
+      72.0,
+      618.6,
+      138.0,
+      631.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b001",
+    "text": "-2.8",
+    "bbox": [
+      92.2,
+      264.6,
+      107.9,
+      273.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b002",
+    "text": "-2.4",
+    "bbox": [
+      135.8,
+      282.6,
+      150.8,
+      291.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b003",
+    "text": "- 2",
+    "bbox": [
+      183.0,
+      264.6,
+      190.9,
+      273.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b004",
+    "text": "-1.6",
+    "bbox": [
+      222.0,
+      282.6,
+      237.1,
+      291.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b005",
+    "text": "-1.2",
+    "bbox": [
+      264.8,
+      264.6,
+      279.3,
+      273.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b006",
+    "text": "-0.8",
+    "bbox": [
+      308.2,
+      282.6,
+      323.3,
+      291.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b007",
+    "text": "-0.4",
+    "bbox": [
+      351.0,
+      264.6,
+      365.5,
+      273.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b008",
+    "text": "0.4",
+    "bbox": [
+      439.5,
+      264.6,
+      451.0,
+      273.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b009",
+    "text": "0.8",
+    "bbox": [
+      482.2,
+      282.6,
+      494.2,
+      291.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b010",
+    "text": "time",
+    "bbox": [
+      289.5,
+      253.4,
+      306.0,
+      261.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b011",
+    "text": "level",
+    "bbox": [
+      68.9,
+      156.4,
+      77.4,
+      176.2
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b012",
+    "text": "190",
+    "bbox": [
+      93.0,
+      245.9,
+      106.2,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b013",
+    "text": "190.2 190.4 190.6 190.8",
+    "bbox": [
+      114.7,
+      245.9,
+      213.2,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b014",
+    "text": "191",
+    "bbox": [
+      222.7,
+      245.9,
+      234.9,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b015",
+    "text": "191.2 191.4 191.6",
+    "bbox": [
+      243.7,
+      245.9,
+      315.5,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b016",
+    "text": "191.8",
+    "bbox": [
+      321.7,
+      245.9,
+      342.3,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b017",
+    "text": "192",
+    "bbox": [
+      351.7,
+      245.9,
+      364.9,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b018",
+    "text": "192.2 192.4",
+    "bbox": [
+      373.5,
+      245.9,
+      419.0,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b019",
+    "text": "192.6 192.8",
+    "bbox": [
+      425.2,
+      245.9,
+      470.7,
+      254.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b020",
+    "text": "120",
+    "bbox": [
+      80.2,
+      88.4,
+      92.9,
+      96.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b021",
+    "text": "180",
+    "bbox": [
+      80.2,
+      98.9,
+      92.9,
+      107.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b022",
+    "text": "240",
+    "bbox": [
+      80.2,
+      109.4,
+      92.9,
+      117.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b023",
+    "text": "300",
+    "bbox": [
+      80.2,
+      120.6,
+      92.9,
+      129.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b024",
+    "text": "360",
+    "bbox": [
+      80.2,
+      131.1,
+      92.9,
+      139.6
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b025",
+    "text": "420",
+    "bbox": [
+      80.2,
+      142.4,
+      92.9,
+      150.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b026",
+    "text": "480",
+    "bbox": [
+      80.2,
+      152.9,
+      92.9,
+      161.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b027",
+    "text": "540",
+    "bbox": [
+      80.2,
+      163.4,
+      92.9,
+      171.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b028",
+    "text": "600",
+    "bbox": [
+      80.2,
+      174.6,
+      92.9,
+      183.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b029",
+    "text": "660",
+    "bbox": [
+      80.2,
+      185.1,
+      92.9,
+      193.6
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b030",
+    "text": "720",
+    "bbox": [
+      80.2,
+      196.4,
+      92.9,
+      204.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b031",
+    "text": "780",
+    "bbox": [
+      80.2,
+      206.9,
+      92.9,
+      215.4
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b032",
+    "text": "840",
+    "bbox": [
+      80.2,
+      217.4,
+      92.9,
+      225.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b033",
+    "text": "900",
+    "bbox": [
+      80.2,
+      228.6,
+      92.9,
+      237.1
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b034",
+    "text": "960",
+    "bbox": [
+      80.2,
+      239.1,
+      92.9,
+      247.6
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b035",
+    "text": "Figure 3: Evolution over three-day intervals (for arbitrarily numbered days 190-193) of ensemble-",
+    "bbox": [
+      72.0,
+      294.3,
+      492.9,
+      305.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b036",
+    "text": "mean differences between forecasts of the vertical profile of CAM2 specific humidity and nudged-run",
+    "bbox": [
+      72.0,
+      305.6,
+      508.7,
+      316.4
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b037",
+    "text": "profiles (on pressure levels in hPa) for the ARM SGP site. The ensemble-mean difference is computed",
+    "bbox": [
+      72.0,
+      317.6,
+      510.2,
+      328.4
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b038",
+    "text": "over 10 three-day forecasts and corresponding nudged runs during the period 1-10 July of the 1997",
+    "bbox": [
+      72.0,
+      328.8,
+      516.2,
+      339.6
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b039",
+    "text": "IOP. Note the anomalous drying of the lower troposphere (negative forecast-minus-nudged humidity",
+    "bbox": [
+      72.0,
+      340.1,
+      508.7,
+      350.9
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b040",
+    "text": "differences, denoted by cooler colors) that intensifies with time over the three-day interval.",
+    "bbox": [
+      72.0,
+      352.1,
+      459.2,
+      362.9
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b041",
+    "text": "Figure 4: Ensemble-mean of 29 three-day forecasts of precipitable water at the ARM SGP site",
+    "bbox": [
+      72.0,
+      648.3,
+      477.2,
+      659.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b042",
+    "text": "during June/July 1997 and corresponding mean 3-hourly observations. Note that the model",
+    "bbox": [
+      72.0,
+      660.3,
+      465.2,
+      671.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 11,
+    "block_id": "288_p11_b043",
+    "text": "erroneously forecasts atmospheric drying and an attenuated diurnal cycle.",
+    "bbox": [
+      72.0,
+      669.6,
+      391.5,
+      682.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b001",
+    "text": "Figure 5, for example, shows spatially averaged anomaly correlations of 3-day forecasts of",
+    "bbox": [
+      93.8,
+      71.8,
+      531.0,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b002",
+    "text": "500 hPa heights by the CAM2 model versus remapped 6-hourly ERA-40 reanalysis data.  Here, a",
+    "bbox": [
+      72.0,
+      85.3,
+      542.3,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b003",
+    "text": "different 3-day forecast is generated at 00Z for each day of the 19 June-18 July 1997 ARM IOP,",
+    "bbox": [
+      72.0,
+      99.6,
+      536.9,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b004",
+    "text": "where the initial conditions are obtained by nudging the CAM2 atmospheric state variables and",
+    "bbox": [
+      72.0,
+      113.1,
+      531.5,
+      126.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b005",
+    "text": "surface pressure toward the corresponding remapped ERA-40 reanalysis data.",
+    "bbox": [
+      72.0,
+      127.3,
+      447.8,
+      140.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b006",
+    "text": "The anomaly correlations of different forecasts in Figure 5 decrease fairly smoothly",
+    "bbox": [
+      115.5,
+      154.3,
+      520.3,
+      167.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b007",
+    "text": "with time, suggesting that the initial CAM2 500 hPa heights are sufficiently balanced by the",
+    "bbox": [
+      72.0,
+      168.6,
+      516.4,
+      181.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b008",
+    "text": "nudging to reduce the initialization noise in this variable to a tolerable level.  However, the",
+    "bbox": [
+      72.0,
+      182.1,
+      510.3,
+      195.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b009",
+    "text": "anomaly correlations of separate forecasts are of different initial magnitudes and fall off at",
+    "bbox": [
+      72.0,
+      196.3,
+      508.2,
+      209.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b010",
+    "text": "varying rates with time, implying a sensitivity to synoptic conditions.  This sensitivity will be",
+    "bbox": [
+      72.0,
+      209.8,
+      522.5,
+      223.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b011",
+    "text": "exploited in diagnosing the model's parameterizations.",
+    "bbox": [
+      72.0,
+      223.3,
+      336.0,
+      236.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b012",
+    "text": "Figure 5: Spatially averaged (over latitudes 25N-90N) anomaly correlations of three-day",
+    "bbox": [
+      72.0,
+      534.3,
+      451.7,
+      545.1
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b013",
+    "text": "CAM2 forecasts of 500 hPa height versus ERA-40 reanalysis during June/July 1997.",
+    "bbox": [
+      72.0,
+      545.6,
+      435.2,
+      556.4
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b014",
+    "text": "The ensemble-mean anomaly correlation is indicated by the darker line.",
+    "bbox": [
+      72.0,
+      556.8,
+      382.7,
+      567.6
+    ],
+    "font_size": 9.8,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b015",
+    "text": "4.4 Model parameterization diagnosis",
+    "bbox": [
+      72.0,
+      590.1,
+      268.5,
+      603.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b016",
+    "text": "The attribution of forecast errors to deficiencies in model parameterizations and the",
+    "bbox": [
+      93.8,
+      620.8,
+      497.0,
+      634.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b017",
+    "text": "subsequent correction of these schemes are central to the improvement of climate GCMs.   Since",
+    "bbox": [
+      72.0,
+      634.3,
+      539.1,
+      647.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b018",
+    "text": "most parameterization deficiencies will be more starkly revealed under certain weather",
+    "bbox": [
+      72.0,
+      647.8,
+      491.2,
+      661.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b019",
+    "text": "conditions, CAPT will diagnose CAM2 forecasts that are stratified according to regional",
+    "bbox": [
+      72.0,
+      662.1,
+      498.6,
+      675.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b020",
+    "text": "synoptic conditions (e.g. clear vs. cloudy, dry vs. wet, summer vs. winter cases, etc.).",
+    "bbox": [
+      72.0,
+      675.6,
+      489.0,
+      688.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 12,
+    "block_id": "288_p12_b021",
+    "text": "Because of the highly nonlinear character of GCMs, it is rarely easy to draw connections",
+    "bbox": [
+      93.8,
+      695.8,
+      522.8,
+      709.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b001",
+    "text": "between forecast errors in the atmospheric state variables and the physical forcings that are",
+    "bbox": [
+      72.0,
+      71.8,
+      511.2,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b002",
+    "text": "governed by the model's parameterizations.  Thus, CAPT will analyze CAM2 forecasts that are",
+    "bbox": [
+      72.0,
+      85.3,
+      531.4,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b003",
+    "text": "coincident with case studies (e.g. short-term field campaigns, ARM IOPs, etc.) where available",
+    "bbox": [
+      72.0,
+      99.6,
+      531.0,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b004",
+    "text": "high-frequency field data can augment the reanalyses by providing independent checks on model",
+    "bbox": [
+      72.0,
+      113.1,
+      539.1,
+      126.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b005",
+    "text": "physics and state variables. CAPT analysis of such case studies will attempt to identify a",
+    "bbox": [
+      72.0,
+      127.3,
+      500.2,
+      140.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b006",
+    "text": "recurring connection between a forecast error in a state variable and anomalous physical forcing",
+    "bbox": [
+      72.0,
+      140.8,
+      536.2,
+      154.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b007",
+    "text": "that can be tied to particular deficiencies in a selected parameterization.",
+    "bbox": [
+      72.0,
+      154.3,
+      423.8,
+      167.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b008",
+    "text": "When a problematical connection of this type is found, CAPT will report the",
+    "bbox": [
+      93.8,
+      174.6,
+      464.0,
+      187.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b009",
+    "text": "forecast/forcing error metrics and related phenomenological details to GCM developers and",
+    "bbox": [
+      72.0,
+      188.1,
+      515.2,
+      201.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b010",
+    "text": "collaborating parameterization specialists so that they have a basis to formulate potential",
+    "bbox": [
+      72.0,
+      202.3,
+      500.1,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b011",
+    "text": "correctives for the relevant parameterization. In addition, before a modified parameterization is",
+    "bbox": [
+      72.0,
+      215.8,
+      530.7,
+      229.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b012",
+    "text": "implemented in the climate GCM, parameterization developers may test it in a single-column",
+    "bbox": [
+      72.0,
+      229.3,
+      522.8,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b013",
+    "text": "and/or cloud-resolving model (SCM and CRM), and in a simplified (e.g. linearized, aqua-planet,",
+    "bbox": [
+      72.0,
+      243.6,
+      537.8,
+      256.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b014",
+    "text": "etc.) GCM (e.g. Xie et al. 2002, Xu et al. 2002).",
+    "bbox": [
+      72.0,
+      257.1,
+      310.5,
+      270.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b015",
+    "text": "Once a new scheme is implemented in the climate model, it will be extensively tested to",
+    "bbox": [
+      93.8,
+      277.3,
+      519.4,
+      290.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b016",
+    "text": "determine whether a reduction in forecast errors results for the case study in question, as well as",
+    "bbox": [
+      72.0,
+      290.8,
+      535.2,
+      304.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b017",
+    "text": "for other initial conditions.  A parameterization that produces global reductions in forecast errors",
+    "bbox": [
+      72.0,
+      304.3,
+      539.2,
+      317.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b018",
+    "text": "will also need to be tested in long integrations so that its effects on the simulation of different",
+    "bbox": [
+      72.0,
+      318.6,
+      522.4,
+      331.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b019",
+    "text": "climate processes can be assessed.  Moreover, even if a new parameterization is successful in",
+    "bbox": [
+      72.0,
+      332.1,
+      521.0,
+      345.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b020",
+    "text": "reducing certain types of climate errors, it is likely that the GCM's other parameterizations will",
+    "bbox": [
+      72.0,
+      346.3,
+      530.0,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b021",
+    "text": "need to be \"retuned\" before its climate simulation displays overall improvement. In that event,",
+    "bbox": [
+      72.0,
+      359.8,
+      527.0,
+      373.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b022",
+    "text": "this new version of the climate model will be the starting point for testing additional",
+    "bbox": [
+      72.0,
+      373.3,
+      478.1,
+      386.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b023",
+    "text": "parameterization changes.",
+    "bbox": [
+      72.0,
+      387.6,
+      199.5,
+      400.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b024",
+    "text": "Summary",
+    "bbox": [
+      93.8,
+      428.8,
+      147.0,
+      442.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b025",
+    "text": "CAPT is motivated by the historical experience that it is exceedingly difficult to unravel",
+    "bbox": [
+      93.8,
+      459.6,
+      518.7,
+      472.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b026",
+    "text": "parameterization deficiencies solely by diagnosing a GCM’s climate statistics, which reflect",
+    "bbox": [
+      72.0,
+      473.8,
+      516.8,
+      487.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b027",
+    "text": "systematic biases resulting from the convolution of nonlinear/nonlocal interactions of many",
+    "bbox": [
+      72.0,
+      487.3,
+      513.6,
+      500.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b028",
+    "text": "different schemes.  Instead, the starting point of the CAPT protocol is to focus on the short-range",
+    "bbox": [
+      72.0,
+      500.8,
+      540.0,
+      514.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b029",
+    "text": "forecasts of the climate GCM, and to closely compare these against well-sampled observations",
+    "bbox": [
+      72.0,
+      515.1,
+      529.5,
+      528.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b030",
+    "text": "provided by NWP analyses and satellite/field data as the first criterion for assessing model",
+    "bbox": [
+      72.0,
+      528.6,
+      507.5,
+      541.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b031",
+    "text": "performance/improvement.",
+    "bbox": [
+      72.0,
+      542.8,
+      211.5,
+      556.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b032",
+    "text": "Thus, new parameterizations will be considered for testing in GCM climate simulations only",
+    "bbox": [
+      93.8,
+      562.3,
+      540.4,
+      575.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b033",
+    "text": "after they improve the model's weather forecasts.  It should not be expected, however, that the",
+    "bbox": [
+      72.0,
+      575.8,
+      525.8,
+      589.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b034",
+    "text": "transition from the short-range to climate scales will be entirely straightforward--further model",
+    "bbox": [
+      72.0,
+      590.1,
+      529.9,
+      603.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b035",
+    "text": "adjustments may be needed before overall improvement in the climate simulation is evident.",
+    "bbox": [
+      72.0,
+      603.6,
+      521.2,
+      616.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b036",
+    "text": "Hence, the CAPT protocol should not be viewed as a panacea, but only as one element in a",
+    "bbox": [
+      72.0,
+      617.8,
+      511.4,
+      631.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b037",
+    "text": "hierarchy of techniques (including, for example, diagnostics based on single-column, cloud-",
+    "bbox": [
+      72.0,
+      631.3,
+      514.0,
+      644.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b038",
+    "text": "resolving, and simplified global models) to bolster the observational/ scientific foundations of",
+    "bbox": [
+      72.0,
+      644.8,
+      523.9,
+      658.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b039",
+    "text": "climate model development. Nevertheless, it is anticipated that important insights on improving",
+    "bbox": [
+      72.0,
+      659.1,
+      534.0,
+      672.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 13,
+    "block_id": "288_p13_b040",
+    "text": "climate GCMs will flow from adopting this NWP-inspired methodology.",
+    "bbox": [
+      72.0,
+      672.6,
+      424.5,
+      685.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b001",
+    "text": "Acknowledgments",
+    "bbox": [
+      72.0,
+      71.8,
+      162.0,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b002",
+    "text": "This work was performed under the auspices of the U.S. Department of Energy by the",
+    "bbox": [
+      93.8,
+      88.3,
+      509.0,
+      101.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b003",
+    "text": "University of California Lawrence Livermore National Laboratory under Contract No. W-7405-",
+    "bbox": [
+      72.0,
+      102.6,
+      533.5,
+      115.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b004",
+    "text": "ENG-48.",
+    "bbox": [
+      72.0,
+      116.1,
+      118.5,
+      129.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b005",
+    "text": "References",
+    "bbox": [
+      72.0,
+      158.1,
+      132.0,
+      171.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b006",
+    "text": "ARM, 2002: ARM cloud and radiation test bed sites. Accessible online at",
+    "bbox": [
+      76.5,
+      188.8,
+      432.6,
+      202.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b007",
+    "text": "http://www.arm.gov/docs/sites.html .",
+    "bbox": [
+      94.5,
+      202.3,
+      275.2,
+      215.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b008",
+    "text": "Bonan, G.B., K.W. Oleson, M. Vertenstein, S. Levis, X. Zeng, Y. Dai, R.E. Dickinson, and Z-L.",
+    "bbox": [
+      76.5,
+      222.6,
+      542.2,
+      235.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b009",
+    "text": "Yang, 2002: The land surface climatology of the Community Land Model coupled to the",
+    "bbox": [
+      94.5,
+      236.1,
+      523.3,
+      249.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b010",
+    "text": "NCAR Community Climate Model. J. Climate (submitted).",
+    "bbox": [
+      94.5,
+      249.6,
+      382.5,
+      262.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b011",
+    "text": "CEOP, 2002: Coordinated Enhanced Observing Period. Accessible online at",
+    "bbox": [
+      76.5,
+      269.8,
+      445.3,
+      283.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b012",
+    "text": "http://www.gewex.org/ceop.htm.",
+    "bbox": [
+      94.5,
+      283.3,
+      255.8,
+      296.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b013",
+    "text": "CSE, 2002:  Locations of present/future GEWEX continental-scale experiments. Accessible",
+    "bbox": [
+      76.5,
+      303.6,
+      520.2,
+      316.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b014",
+    "text": "online at http://www.gewex.org/cseslocation.html.",
+    "bbox": [
+      94.5,
+      317.1,
+      339.8,
+      330.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b015",
+    "text": "Daley, R., 1991: Atmospheric Data Analysis. Cambridge University Press, 457 pp.",
+    "bbox": [
+      76.5,
+      336.6,
+      477.0,
+      349.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b016",
+    "text": "ECMWF, 2002: ECMWF re-analysis ERA. Accessible online at",
+    "bbox": [
+      76.5,
+      356.8,
+      390.8,
+      370.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b017",
+    "text": "http://www.ecmwf.int/ research/era .",
+    "bbox": [
+      94.5,
+      376.3,
+      273.0,
+      389.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b018",
+    "text": "Gates, W.L., 1992: AMIP: The Atmospheric Model Intercomparison Project. Bull. Amer.",
+    "bbox": [
+      76.5,
+      396.6,
+      507.8,
+      409.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b019",
+    "text": "Meteor. Soc., 73, 1962-1970.",
+    "bbox": [
+      94.5,
+      410.1,
+      237.8,
+      423.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b020",
+    "text": "Gates, W.L., J.S. Boyle, C. Covey, C.G. Dease, C.M. Doutriaux, R.S. Drach, M. Fiorino, P.J.",
+    "bbox": [
+      76.5,
+      429.6,
+      527.0,
+      442.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b021",
+    "text": "Gleckler, J.J. Hnilo, S.M. Marlais, T.J. Phillips, G.L. Potter, B.D. Santer, K.R. Sperber, K.E.",
+    "bbox": [
+      94.5,
+      443.8,
+      541.4,
+      457.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b022",
+    "text": "Taylor, and D.N. Williams, 1999: An overview of the results of the Atmospheric Model",
+    "bbox": [
+      94.5,
+      457.3,
+      518.1,
+      470.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b023",
+    "text": "Intercomparison Project (AMIP). Bull. Amer. Meteor. Soc., 80, 29-55.",
+    "bbox": [
+      94.5,
+      470.8,
+      434.2,
+      484.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b024",
+    "text": "GCSS, 2002: GEWEX Cloud System Study data integration for model evaluation. Accessible",
+    "bbox": [
+      76.5,
+      491.1,
+      529.1,
+      504.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b025",
+    "text": "online at http://gcss-dime.giss.nasa.gov/ .",
+    "bbox": [
+      94.5,
+      504.6,
+      295.5,
+      517.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b026",
+    "text": "Goody, R., J. Anderson, T. Karl, R. Balstad Miller, G. North, J. Simpson, G. Stephens, and W.",
+    "bbox": [
+      76.5,
+      524.8,
+      533.1,
+      538.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b027",
+    "text": "Washington, 2002: Why monitor the climate? Bull. Amer. Meteor. Soc., 83, 873-878.",
+    "bbox": [
+      94.5,
+      538.3,
+      506.2,
+      551.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b028",
+    "text": "Haltiner, G.J., and R.T. Williams, 1980: Numerical Prediction and Dynamic Meteorology, John",
+    "bbox": [
+      76.5,
+      557.8,
+      537.6,
+      571.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b029",
+    "text": "Wiley and Sons, Inc., second edition, 477 pp.",
+    "bbox": [
+      94.5,
+      572.1,
+      315.0,
+      585.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b030",
+    "text": "Harrison, M., T.N. Palmer, D.S. Richardson, and R. Buizza, 1999: Analysis and model",
+    "bbox": [
+      76.5,
+      591.6,
+      494.8,
+      604.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b031",
+    "text": "dependencies in medium-range ensembles: Two transplant case studies. Quart. J. Roy.",
+    "bbox": [
+      94.5,
+      605.8,
+      512.0,
+      619.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b032",
+    "text": "Meteor. Soc., 125, 2487-2515.",
+    "bbox": [
+      94.5,
+      619.3,
+      243.8,
+      632.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b033",
+    "text": "Hollingsworth, A., P. Viterbo, and A.J. Simmons, 2002: The relevance of numerical weather",
+    "bbox": [
+      76.5,
+      638.8,
+      523.9,
+      652.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b034",
+    "text": "prediction for forecasting natural hazards and for monitoring the global environment.",
+    "bbox": [
+      94.5,
+      653.1,
+      505.1,
+      666.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b035",
+    "text": "ECMWF Tech. Memo 361, March 2002. Also accessible online at",
+    "bbox": [
+      94.5,
+      666.6,
+      415.3,
+      679.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 14,
+    "block_id": "288_p14_b036",
+    "text": "http://www.ecmwf.int/publications/ library/ecpublications/_pdf/tm361.pdf .",
+    "bbox": [
+      94.5,
+      680.8,
+      460.5,
+      694.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b001",
+    "text": "IPCC, 2001: Climate Change 2001: The Scientific Basis, J. Houghton, Y. Ding, D.J. Griggs, M.",
+    "bbox": [
+      76.5,
+      71.8,
+      539.1,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b002",
+    "text": "Noguer, P.J. Van Der Linden, and D. Aiaosu  (eds.), Cambridge University Press,",
+    "bbox": [
+      94.5,
+      85.3,
+      489.5,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b003",
+    "text": "Cambridge CB@1BR, UK, 944 pp.",
+    "bbox": [
+      94.5,
+      99.6,
+      270.8,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b004",
+    "text": "Jeuken, A.B.M., P.C. Siegmund, and L.C. Heijboer, 1996: On the potential of assimilating",
+    "bbox": [
+      76.5,
+      119.1,
+      512.1,
+      132.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b005",
+    "text": "meteorological analyses in a global climate model for the purpose of model validation. J.",
+    "bbox": [
+      94.5,
+      133.3,
+      524.2,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b006",
+    "text": "Geophys. Res., D12, 101, 16939-16950.",
+    "bbox": [
+      94.5,
+      146.8,
+      289.5,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b007",
+    "text": "Kaas, E., A. Guldberg, W. May, and M. Deque, 1999: Using tendency errors to tune the",
+    "bbox": [
+      76.5,
+      166.3,
+      500.7,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b008",
+    "text": "parameterization of unresolved dynamical scale interactions in atmospheric general",
+    "bbox": [
+      94.5,
+      180.6,
+      496.3,
+      193.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b009",
+    "text": "circulation models. Tellus, 51A, 612-629.",
+    "bbox": [
+      94.5,
+      194.1,
+      297.0,
+      207.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b010",
+    "text": "Kanamitsu, M. W. Ebisuzaki, J. Woolen, S-K. Yang, J.J. Hnilo, M. Fiorino, and G.L. Potter,",
+    "bbox": [
+      76.5,
+      214.3,
+      522.7,
+      227.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b011",
+    "text": "2002: NCEP/DOE AMIP-II Reanalysis (R-2). Bull. Amer. Meteor. Soc., 83, 1631-1643.",
+    "bbox": [
+      94.5,
+      227.8,
+      519.8,
+      241.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b012",
+    "text": "Klein, S.A, and C. Jakob, 1999: Validation and sensitivities of frontal clouds simulated by the",
+    "bbox": [
+      76.5,
+      247.3,
+      530.2,
+      260.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b013",
+    "text": "ECMWF model. Mon. Wea. Rev., 127, 2514-2531.",
+    "bbox": [
+      94.5,
+      261.6,
+      342.0,
+      274.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b014",
+    "text": "Lynch, P., and X.Y. Huang, 1992: Initialization of the HIRLAM model using a digital filter.",
+    "bbox": [
+      76.5,
+      281.1,
+      521.7,
+      294.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b015",
+    "text": "Mon. Wea. Rev., 120, 1019-1034.",
+    "bbox": [
+      94.5,
+      295.3,
+      259.5,
+      308.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b016",
+    "text": "Morcrette, J-J., 1991: Evaluation of model-generated cloudiness: Satellite-observed and model-",
+    "bbox": [
+      76.5,
+      314.8,
+      534.2,
+      328.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b017",
+    "text": "generated diurnal variability of brightness temperature. Mon. Wea. Rev., 119, 1205-1224.",
+    "bbox": [
+      94.5,
+      328.3,
+      527.2,
+      341.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b018",
+    "text": "Morcrette, J-J., 2002: Assessment of the ECMWF model cloudiness and surface radiation fields",
+    "bbox": [
+      76.5,
+      348.6,
+      538.8,
+      361.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b019",
+    "text": "at the ARM SGP site. Mon. Wea. Rev., 130, 257-277.",
+    "bbox": [
+      94.5,
+      362.1,
+      354.8,
+      375.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b020",
+    "text": "Polavarapu, S., M. Tanguay, and L. Fillion, 2000: Four-dimensional variational data",
+    "bbox": [
+      76.5,
+      382.3,
+      483.5,
+      395.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b021",
+    "text": "assimilation with digital filter initialization. Mon. Wea. Rev., 128, 2491-2510.",
+    "bbox": [
+      94.5,
+      395.8,
+      471.0,
+      409.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b022",
+    "text": "POTENTIALS, 1999: Project on tendency evaluations using new techniques to improve",
+    "bbox": [
+      76.5,
+      415.3,
+      502.2,
+      428.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b023",
+    "text": "atmospheric long-term simulations: Final Report. Available online at",
+    "bbox": [
+      94.5,
+      429.6,
+      431.2,
+      442.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b024",
+    "text": "http://www.dmi.dk/pub/POTENTIALS/Final/Final.pdf .",
+    "bbox": [
+      94.5,
+      449.1,
+      366.8,
+      462.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b025",
+    "text": "Stokes, G.M., and S.E. Schwartz, 1994: The Atmospheric Radiation Measurement (ARM) Pro",
+    "bbox": [
+      76.5,
+      469.3,
+      532.2,
+      482.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b026",
+    "text": "gram: Programmatic background and design of the cloud and radiation test bed.  Bull. Amer.",
+    "bbox": [
+      94.5,
+      482.8,
+      540.7,
+      496.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b027",
+    "text": "Meteor. Soc., 75, 1201-1221.",
+    "bbox": [
+      94.5,
+      496.3,
+      237.8,
+      509.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b028",
+    "text": "WCRP, 2001: Annual review of the World Climate Research Programme and report of the",
+    "bbox": [
+      76.5,
+      516.6,
+      514.3,
+      529.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b029",
+    "text": "twenty-second session of the Joint Scientific Committee.  WMO/TD No. 1096, World",
+    "bbox": [
+      94.5,
+      530.1,
+      509.9,
+      543.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b030",
+    "text": "Meteorological Organization, Geneva, Switzerland.  Also available online at",
+    "bbox": [
+      94.5,
+      544.3,
+      464.2,
+      557.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b031",
+    "text": "http://www.wmo.ch/web/wcrp/documents/jsc22rpt.pdf .",
+    "bbox": [
+      94.5,
+      557.8,
+      366.0,
+      571.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b032",
+    "text": "Webb, M., 2002: Using the ISCCP simulator to evaluate midlatitude cloud regimes. In the",
+    "bbox": [
+      76.5,
+      577.3,
+      512.1,
+      590.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b033",
+    "text": "Proceedings of the 2002 Atmospheric Model Intercomparison Project (AMIP) International",
+    "bbox": [
+      94.5,
+      591.6,
+      535.6,
+      604.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b034",
+    "text": "Workshop (in press), 12-14 November 2002, Toulouse, France.",
+    "bbox": [
+      94.5,
+      605.1,
+      402.0,
+      618.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b035",
+    "text": "Webb, M., C. Senior, S. Bony, and J.-J. Morcrette, 2001: Combining ERBE and ISCCP data to",
+    "bbox": [
+      76.5,
+      625.3,
+      535.3,
+      638.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b036",
+    "text": "assess clouds in the Hadley Centre, ECMWF and LMD atmospheric climate models.",
+    "bbox": [
+      94.5,
+      638.8,
+      503.6,
+      652.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b037",
+    "text": "Climate Dyn., 17, 905-922.",
+    "bbox": [
+      94.5,
+      652.3,
+      228.8,
+      665.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b038",
+    "text": "WGNE, 1999: Discussion of the ‘Transpose AMIP’ Project. In Report of the Fourteenth Session",
+    "bbox": [
+      76.5,
+      672.6,
+      541.4,
+      685.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b039",
+    "text": "of the CAS/JSC Working Group on Numerical Experimentation, CAS/JSC WGNE Report",
+    "bbox": [
+      94.5,
+      686.1,
+      530.9,
+      699.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 15,
+    "block_id": "288_p15_b040",
+    "text": "No. 14, pp. 7-8, WMO/TD-No. 964, 1999.",
+    "bbox": [
+      94.5,
+      700.3,
+      302.2,
+      713.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b001",
+    "text": "Xie et al., 2002: Intercomparison and evaluation of cumulus parameterizations under",
+    "bbox": [
+      76.5,
+      71.8,
+      485.9,
+      85.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b002",
+    "text": "summertime midlatitude continental conditions. Quart. J. Roy. Meteor. Soc., 128, 1095-",
+    "bbox": [
+      94.5,
+      85.3,
+      516.2,
+      98.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b003",
+    "text": "1135.",
+    "bbox": [
+      94.5,
+      99.6,
+      124.5,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b004",
+    "text": "Xu et al., 2002: An intercomparison of cloud-resolving models with the ARM measurement",
+    "bbox": [
+      76.5,
+      119.1,
+      520.2,
+      132.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b005",
+    "text": "summer 1997 IOP data. Quart. J. Roy. Meteor. Soc., 128, 593-624.",
+    "bbox": [
+      94.5,
+      133.3,
+      419.2,
+      146.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b006",
+    "text": "Zhang, M. H., and J. L. Lin, 1997: Constrained variational analysis of sounding data bases on",
+    "bbox": [
+      76.5,
+      152.8,
+      527.1,
+      166.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b007",
+    "text": "column-integrated budgets of mass, heat, moisture, and momentum: Approach and",
+    "bbox": [
+      94.5,
+      166.3,
+      494.0,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b008",
+    "text": "application to ARM measurements. J. Atmos. Sci., 54, 1503-1524.",
+    "bbox": [
+      94.5,
+      180.6,
+      415.5,
+      193.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b009",
+    "text": "Zhang, M.H., J.L. Lin, R.T. Cederwall, J.J. Yio, and S.C. Xie, 2000: Objective analysis of ARM",
+    "bbox": [
+      76.5,
+      200.1,
+      542.1,
+      213.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b010",
+    "text": "IOP data: Method and sensitivity.  Mon. Weather Rev., 129, 295-311.",
+    "bbox": [
+      94.5,
+      214.3,
+      431.2,
+      227.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "288",
+    "page_number": 16,
+    "block_id": "288_p16_b011",
+    "text": "UCRL-MI-150662-DR",
+    "bbox": [
+      72.0,
+      261.6,
+      193.5,
+      274.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman,Bold",
+    "label": "HH2"
+  }
+]

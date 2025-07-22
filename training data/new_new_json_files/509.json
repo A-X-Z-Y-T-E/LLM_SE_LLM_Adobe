@@ -1,0 +1,1952 @@
+[
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b001",
+    "text": "Department of Health Services",
+    "bbox": [
+      28.8,
+      214.7,
+      112.7,
+      220.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b002",
+    "text": "STATE OF WISCONSIN",
+    "bbox": [
+      28.8,
+      205.6,
+      96.3,
+      211.8
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b003",
+    "text": "DIRECTORY OF LICENSED WISCONSIN NURSING HOMES - ALPHABETICAL BY COUNTY AND CITY",
+    "bbox": [
+      117.1,
+      189.8,
+      484.9,
+      197.5
+    ],
+    "font_size": 7.7,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b004",
+    "text": "KEY TO DESCRIPTIONS:",
+    "bbox": [
+      186.1,
+      205.5,
+      258.2,
+      211.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b005",
+    "text": "Title 18 = Title XVIII, Medicare Certification",
+    "bbox": [
+      186.1,
+      214.7,
+      303.1,
+      220.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b006",
+    "text": "Title 19 = Title XIX, Medicaid Certifcation",
+    "bbox": [
+      186.1,
+      224.0,
+      297.7,
+      230.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b007",
+    "text": "IMD = Institute for Mental Diseases",
+    "bbox": [
+      315.6,
+      205.5,
+      411.7,
+      211.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b008",
+    "text": "SNF = Skilled Nursing Facility",
+    "bbox": [
+      315.6,
+      214.7,
+      397.0,
+      220.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b009",
+    "text": "NF = Nursing Facility",
+    "bbox": [
+      315.6,
+      224.0,
+      373.0,
+      230.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b010",
+    "text": "Tuesday, November 17, 2009",
+    "bbox": [
+      28.8,
+      224.0,
+      109.9,
+      230.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b011",
+    "text": "DIVISION OF QUALITY ASSURANCE",
+    "bbox": [
+      456.7,
+      205.6,
+      562.8,
+      211.8
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b012",
+    "text": "PO Box 2969",
+    "bbox": [
+      456.7,
+      214.7,
+      493.3,
+      220.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b013",
+    "text": "Madison, WI  53701-2969",
+    "bbox": [
+      456.7,
+      224.0,
+      527.2,
+      230.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b014",
+    "text": "PROVIDER/ADDRESS",
+    "bbox": [
+      28.8,
+      252.0,
+      92.6,
+      258.2
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b015",
+    "text": "County:",
+    "bbox": [
+      28.8,
+      240.4,
+      53.5,
+      246.6
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b016",
+    "text": "MARATHON",
+    "bbox": [
+      58.9,
+      240.4,
+      94.4,
+      246.6
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b017",
+    "text": "Contact and Phones",
+    "bbox": [
+      209.2,
+      252.0,
+      268.6,
+      258.2
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b018",
+    "text": "DQA Region",
+    "bbox": [
+      297.1,
+      252.0,
+      333.0,
+      258.2
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b019",
+    "text": "County",
+    "bbox": [
+      297.1,
+      242.7,
+      318.2,
+      248.9
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b020",
+    "text": "Level and Beds",
+    "bbox": [
+      357.2,
+      252.0,
+      402.2,
+      258.2
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b021",
+    "text": "License Number,",
+    "bbox": [
+      357.2,
+      242.7,
+      408.5,
+      248.9
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b022",
+    "text": "Types, Provider Number",
+    "bbox": [
+      435.9,
+      252.0,
+      506.7,
+      258.2
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b023",
+    "text": "Owner, Ownership, Certification",
+    "bbox": [
+      435.9,
+      242.7,
+      529.7,
+      248.9
+    ],
+    "font_size": 6.2,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b024",
+    "text": "GOLDEN LIVINGCENTER-CONTINENTAL MANOR",
+    "bbox": [
+      28.8,
+      268.0,
+      172.0,
+      274.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b025",
+    "text": "600 E ELM ST",
+    "bbox": [
+      28.8,
+      277.3,
+      68.9,
+      283.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b026",
+    "text": "(715) 223-2359",
+    "bbox": [
+      239.7,
+      268.0,
+      281.7,
+      274.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b027",
+    "text": "FAX: (715) 223-6539",
+    "bbox": [
+      224.3,
+      277.3,
+      281.7,
+      283.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b028",
+    "text": "Administrator: CATHY WITT",
+    "bbox": [
+      204.6,
+      286.6,
+      281.9,
+      292.7
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b029",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      268.0,
+      332.3,
+      274.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b030",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      279.6,
+      321.0,
+      285.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b031",
+    "text": "Lic. 2874",
+    "bbox": [
+      357.2,
+      268.0,
+      382.2,
+      274.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b032",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      277.3,
+      401.4,
+      283.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b033",
+    "text": "78 Beds",
+    "bbox": [
+      357.2,
+      286.6,
+      379.8,
+      292.7
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b034",
+    "text": "GGNSC ABBOTSFORD LLC",
+    "bbox": [
+      435.9,
+      268.0,
+      515.5,
+      274.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b035",
+    "text": "525435",
+    "bbox": [
+      435.9,
+      286.6,
+      456.4,
+      292.7
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b036",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      286.6,
+      544.1,
+      292.7
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b037",
+    "text": "ABBOTSFORD, WI  54405",
+    "bbox": [
+      28.8,
+      286.6,
+      102.7,
+      292.7
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b038",
+    "text": "KENNEDY PARK MEDICAL AND REHABILITATION",
+    "bbox": [
+      28.8,
+      305.1,
+      173.2,
+      311.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b039",
+    "text": "6001 ALDERSON ST",
+    "bbox": [
+      28.8,
+      320.8,
+      87.6,
+      327.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b040",
+    "text": "(715) 359-4257",
+    "bbox": [
+      239.7,
+      305.1,
+      281.7,
+      311.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b041",
+    "text": "FAX: (715) 355-7802",
+    "bbox": [
+      224.3,
+      320.8,
+      281.7,
+      327.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b042",
+    "text": "Administrator: JAMES TORGERSON, SR",
+    "bbox": [
+      168.2,
+      330.1,
+      281.9,
+      336.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b043",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      305.1,
+      332.3,
+      311.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b044",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      323.2,
+      321.0,
+      329.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b045",
+    "text": "Lic. 3237",
+    "bbox": [
+      357.2,
+      305.1,
+      382.2,
+      311.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b046",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      320.8,
+      401.4,
+      327.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b047",
+    "text": "148 Beds",
+    "bbox": [
+      357.2,
+      330.1,
+      383.3,
+      336.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b048",
+    "text": "KINDRED NURSING CENTERS LIMITED",
+    "bbox": [
+      435.9,
+      305.1,
+      552.5,
+      311.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b049",
+    "text": "PARTNERSHIP",
+    "bbox": [
+      435.9,
+      312.2,
+      479.7,
+      318.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b050",
+    "text": "525420",
+    "bbox": [
+      435.9,
+      330.1,
+      456.4,
+      336.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b051",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      330.1,
+      544.1,
+      336.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b052",
+    "text": "SCHOFIELD, WI  54476",
+    "bbox": [
+      28.8,
+      330.1,
+      95.5,
+      336.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b053",
+    "text": "FOR PROFIT PARTNERSHIP",
+    "bbox": [
+      435.9,
+      320.8,
+      518.6,
+      327.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b054",
+    "text": "COLONIAL MANOR MEDICAL AND REHABILITATION",
+    "bbox": [
+      28.8,
+      348.6,
+      182.3,
+      354.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b055",
+    "text": "CENTER",
+    "bbox": [
+      28.8,
+      355.7,
+      54.1,
+      361.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b056",
+    "text": "1010 E WAUSAU AVE",
+    "bbox": [
+      28.8,
+      364.4,
+      91.1,
+      370.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b057",
+    "text": "(715) 842-2028",
+    "bbox": [
+      239.7,
+      348.6,
+      281.7,
+      354.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b058",
+    "text": "FAX: (715) 845-5810",
+    "bbox": [
+      224.3,
+      364.4,
+      281.7,
+      370.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b059",
+    "text": "Administrator: ERICCA YLITALO",
+    "bbox": [
+      191.9,
+      373.6,
+      281.9,
+      379.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b060",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      348.6,
+      332.3,
+      354.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b061",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      366.7,
+      321.0,
+      372.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b062",
+    "text": "Lic. 3234",
+    "bbox": [
+      357.2,
+      348.6,
+      382.2,
+      354.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b063",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      364.4,
+      401.4,
+      370.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b064",
+    "text": "150 Beds",
+    "bbox": [
+      357.2,
+      373.6,
+      383.3,
+      379.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b065",
+    "text": "KINDRED NURSING CENTERS LIMITED",
+    "bbox": [
+      435.9,
+      348.6,
+      552.5,
+      354.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b066",
+    "text": "PARTNERSHIP",
+    "bbox": [
+      435.9,
+      355.7,
+      479.7,
+      361.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b067",
+    "text": "525405",
+    "bbox": [
+      435.9,
+      373.6,
+      456.4,
+      379.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b068",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      373.6,
+      544.1,
+      379.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b069",
+    "text": "WAUSAU, WI  54403",
+    "bbox": [
+      28.8,
+      373.6,
+      87.4,
+      379.8
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b070",
+    "text": "FOR PROFIT PARTNERSHIP",
+    "bbox": [
+      435.9,
+      364.3,
+      518.6,
+      370.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b071",
+    "text": "MARYWOOD CONVALESCENT CENTER",
+    "bbox": [
+      28.8,
+      392.1,
+      145.4,
+      398.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b072",
+    "text": "1821 N 4TH AVE",
+    "bbox": [
+      28.8,
+      401.4,
+      76.0,
+      407.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b073",
+    "text": "(715) 675-9451",
+    "bbox": [
+      239.7,
+      392.1,
+      281.7,
+      398.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b074",
+    "text": "FAX: (715) 675-4051",
+    "bbox": [
+      224.3,
+      401.4,
+      281.7,
+      407.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b075",
+    "text": "Administrator: JERRY FRESE",
+    "bbox": [
+      199.7,
+      410.7,
+      281.9,
+      416.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b076",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      392.1,
+      332.3,
+      398.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b077",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      403.7,
+      321.0,
+      409.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b078",
+    "text": "Lic. 2674",
+    "bbox": [
+      357.2,
+      392.1,
+      382.2,
+      398.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b079",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      401.4,
+      401.4,
+      407.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b080",
+    "text": "90 Beds",
+    "bbox": [
+      357.2,
+      410.7,
+      379.8,
+      416.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b081",
+    "text": "CATHOLIC RESIDENTIAL SERVICES INC",
+    "bbox": [
+      435.9,
+      392.1,
+      554.3,
+      398.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b082",
+    "text": "525503",
+    "bbox": [
+      435.9,
+      410.7,
+      456.4,
+      416.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b083",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      410.7,
+      544.1,
+      416.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b084",
+    "text": "WAUSAU, WI  54401",
+    "bbox": [
+      28.8,
+      410.7,
+      87.4,
+      416.9
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b085",
+    "text": "NONPROFIT CHURCH/CORP",
+    "bbox": [
+      435.9,
+      401.4,
+      519.8,
+      407.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b086",
+    "text": "NORTH CENTRAL HEALTH CARE",
+    "bbox": [
+      28.8,
+      429.3,
+      125.9,
+      435.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b087",
+    "text": "1100 LAKE VIEW DR",
+    "bbox": [
+      28.8,
+      445.0,
+      88.0,
+      451.1
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b088",
+    "text": "(715) 848-4402",
+    "bbox": [
+      239.7,
+      429.3,
+      281.7,
+      435.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b089",
+    "text": "FAX: (715) 848-2362",
+    "bbox": [
+      224.3,
+      445.0,
+      281.7,
+      451.1
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b090",
+    "text": "Administrator: LORI KOEPPEL",
+    "bbox": [
+      197.2,
+      454.2,
+      281.8,
+      460.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b091",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      429.3,
+      332.3,
+      435.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b092",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      447.3,
+      321.0,
+      453.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b093",
+    "text": "Lic. 2931",
+    "bbox": [
+      357.2,
+      429.3,
+      382.2,
+      435.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b094",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      445.0,
+      401.4,
+      451.1
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b095",
+    "text": "280 Beds",
+    "bbox": [
+      357.2,
+      454.2,
+      383.3,
+      460.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b096",
+    "text": "NORTH CENTRAL HEALTH CARE",
+    "bbox": [
+      435.9,
+      429.3,
+      534.7,
+      435.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b097",
+    "text": "FACILITIES",
+    "bbox": [
+      435.9,
+      436.3,
+      468.7,
+      442.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b098",
+    "text": "525132",
+    "bbox": [
+      435.9,
+      454.2,
+      456.4,
+      460.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b099",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      454.2,
+      544.1,
+      460.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b100",
+    "text": "WAUSAU, WI  54403",
+    "bbox": [
+      28.8,
+      454.2,
+      87.4,
+      460.4
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b101",
+    "text": "GOVERNMENT COUNTY",
+    "bbox": [
+      435.9,
+      445.0,
+      507.6,
+      451.1
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b102",
+    "text": "WAUSAU MANOR",
+    "bbox": [
+      28.8,
+      472.8,
+      80.5,
+      479.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b103",
+    "text": "3107 WESTHILL DR",
+    "bbox": [
+      28.8,
+      482.1,
+      85.6,
+      488.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b104",
+    "text": "(715) 842-0575",
+    "bbox": [
+      239.7,
+      472.8,
+      281.7,
+      479.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b105",
+    "text": "FAX: (715) 842-0577",
+    "bbox": [
+      224.3,
+      482.1,
+      281.7,
+      488.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b106",
+    "text": "Administrator: MARIA LOW",
+    "bbox": [
+      206.8,
+      491.3,
+      281.8,
+      497.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b107",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      472.8,
+      332.3,
+      479.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b108",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      484.4,
+      321.0,
+      490.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b109",
+    "text": "Lic. 2890",
+    "bbox": [
+      357.2,
+      472.8,
+      382.2,
+      479.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b110",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      482.1,
+      401.4,
+      488.2
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b111",
+    "text": "60 Beds",
+    "bbox": [
+      357.2,
+      491.3,
+      379.8,
+      497.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b112",
+    "text": "EHF WAUSAU SNF OP, LLC",
+    "bbox": [
+      435.9,
+      472.8,
+      516.3,
+      479.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b113",
+    "text": "525369",
+    "bbox": [
+      435.9,
+      491.3,
+      456.4,
+      497.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b114",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      491.3,
+      544.1,
+      497.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b115",
+    "text": "WAUSAU, WI  54401",
+    "bbox": [
+      28.8,
+      491.3,
+      87.4,
+      497.5
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b116",
+    "text": "RENNES HEALTH AND REHAB CENTER-WESTON",
+    "bbox": [
+      28.8,
+      509.9,
+      174.2,
+      516.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b117",
+    "text": "4605 VALDRES SPRINGS CT",
+    "bbox": [
+      28.8,
+      519.1,
+      112.3,
+      525.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b118",
+    "text": "(715) 393-0400",
+    "bbox": [
+      239.7,
+      509.9,
+      281.7,
+      516.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b119",
+    "text": "FAX: (715) 355-6161",
+    "bbox": [
+      224.3,
+      519.1,
+      281.7,
+      525.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b120",
+    "text": "Administrator: PETER LEER",
+    "bbox": [
+      203.7,
+      528.4,
+      281.8,
+      534.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b121",
+    "text": "MARATHON",
+    "bbox": [
+      297.1,
+      509.9,
+      332.3,
+      516.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b122",
+    "text": "Northern",
+    "bbox": [
+      297.1,
+      521.4,
+      321.0,
+      527.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b123",
+    "text": "Lic. 5030",
+    "bbox": [
+      357.2,
+      509.9,
+      382.2,
+      516.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b124",
+    "text": "SKILLED CARE",
+    "bbox": [
+      357.2,
+      519.1,
+      401.4,
+      525.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b125",
+    "text": "34 Beds",
+    "bbox": [
+      357.2,
+      528.4,
+      379.8,
+      534.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b126",
+    "text": "TDR INC",
+    "bbox": [
+      435.9,
+      509.9,
+      460.8,
+      516.0
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b127",
+    "text": "525699",
+    "bbox": [
+      435.9,
+      528.4,
+      456.4,
+      534.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b128",
+    "text": "Title 18 SNF    Title 19 NF",
+    "bbox": [
+      472.9,
+      528.4,
+      544.1,
+      534.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b129",
+    "text": "WESTON, WI  54476",
+    "bbox": [
+      28.8,
+      528.4,
+      87.3,
+      534.6
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "509",
+    "page_number": 1,
+    "block_id": "509_p1_b130",
+    "text": "FOR PROFIT PARTNERSHIP",
+    "bbox": [
+      435.9,
+      519.1,
+      518.6,
+      525.3
+    ],
+    "font_size": 6.2,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  }
+]

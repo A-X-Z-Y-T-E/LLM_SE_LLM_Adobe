@@ -1,0 +1,827 @@
+[
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b001",
+    "text": "BATCH_JOB",
+    "bbox": [
+      238.9,
+      391.9,
+      297.7,
+      403.2
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b002",
+    "text": "# BATCH_JOB _ID",
+    "bbox": [
+      238.9,
+      403.3,
+      302.7,
+      411.8
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b003",
+    "text": "* BATCH_JOB _NUM BER",
+    "bbox": [
+      238.9,
+      411.5,
+      326.6,
+      419.9
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b004",
+    "text": "* BATCH_JOB _NAM E",
+    "bbox": [
+      238.9,
+      419.8,
+      316.1,
+      428.2
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b005",
+    "text": "* RUNNING_STATE",
+    "bbox": [
+      238.9,
+      428.1,
+      310.0,
+      436.5
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b006",
+    "text": "* SUBMIT_DATE",
+    "bbox": [
+      238.9,
+      436.2,
+      299.3,
+      444.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b007",
+    "text": "* CR EATE _DATE",
+    "bbox": [
+      238.9,
+      444.5,
+      301.2,
+      452.9
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b008",
+    "text": "* CR EATE _USE R",
+    "bbox": [
+      238.9,
+      452.7,
+      301.7,
+      461.1
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b009",
+    "text": "o STAR T_DATE",
+    "bbox": [
+      238.9,
+      460.9,
+      295.7,
+      469.4
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b010",
+    "text": "o END_DATE",
+    "bbox": [
+      238.9,
+      469.2,
+      287.0,
+      477.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b011",
+    "text": "o UPDATE _DATE",
+    "bbox": [
+      238.9,
+      477.4,
+      302.4,
+      485.8
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b012",
+    "text": "o UPDATE _USE R",
+    "bbox": [
+      238.9,
+      485.7,
+      302.9,
+      494.1
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b013",
+    "text": "BATCH_JOB_S ECTIONS_NOD E S",
+    "bbox": [
+      539.8,
+      186.0,
+      698.6,
+      197.2
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b014",
+    "text": "# BATCH_JOB _SE CTION _NOD E _ID",
+    "bbox": [
+      539.8,
+      197.4,
+      670.0,
+      205.8
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b015",
+    "text": "* NOD E _PROC ES S _ID",
+    "bbox": [
+      539.8,
+      205.7,
+      623.6,
+      214.1
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b016",
+    "text": "* CR EATE _DATE",
+    "bbox": [
+      539.8,
+      213.9,
+      602.2,
+      222.3
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b017",
+    "text": "* CR EATE _USE R",
+    "bbox": [
+      539.8,
+      222.1,
+      602.7,
+      230.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b018",
+    "text": "o UPDATE _DATE",
+    "bbox": [
+      539.8,
+      230.3,
+      603.4,
+      238.7
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b019",
+    "text": "o UPDATE _USE R",
+    "bbox": [
+      539.8,
+      238.6,
+      603.9,
+      247.0
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b020",
+    "text": "BATCH_JOB_S ECTION",
+    "bbox": [
+      666.4,
+      391.9,
+      775.2,
+      403.2
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b021",
+    "text": "# BATCH_JOB _SE CTION _ID",
+    "bbox": [
+      666.4,
+      403.3,
+      767.9,
+      411.8
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b022",
+    "text": "* BATCH_JOB _SE CTION _NAM E",
+    "bbox": [
+      666.4,
+      411.5,
+      781.4,
+      419.9
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b023",
+    "text": "* RUNNING_STATE",
+    "bbox": [
+      666.4,
+      419.8,
+      737.5,
+      428.2
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b024",
+    "text": "* NUM BER _OF_PR OCES S ES",
+    "bbox": [
+      666.4,
+      428.1,
+      771.7,
+      436.5
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b025",
+    "text": "* CPU_CON S UME D",
+    "bbox": [
+      666.4,
+      436.2,
+      736.9,
+      444.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b026",
+    "text": "* DE SCRIPTION",
+    "bbox": [
+      666.4,
+      444.5,
+      723.7,
+      452.9
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b027",
+    "text": "* CR EATE _DATE",
+    "bbox": [
+      666.4,
+      452.7,
+      728.8,
+      461.1
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b028",
+    "text": "* CR EATE _USE R",
+    "bbox": [
+      666.4,
+      460.9,
+      729.3,
+      469.4
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b029",
+    "text": "o STAR T_DATE",
+    "bbox": [
+      666.4,
+      469.2,
+      723.3,
+      477.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b030",
+    "text": "o END_DATE",
+    "bbox": [
+      666.4,
+      477.4,
+      714.5,
+      485.8
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b031",
+    "text": "o UPDATE _DATE",
+    "bbox": [
+      666.4,
+      485.7,
+      730.0,
+      494.1
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b032",
+    "text": "o UPDATE _USE R",
+    "bbox": [
+      666.4,
+      493.9,
+      730.5,
+      502.4
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b033",
+    "text": "o OUT_DIR",
+    "bbox": [
+      666.4,
+      502.1,
+      710.1,
+      510.5
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b034",
+    "text": "QU E UE",
+    "bbox": [
+      413.1,
+      439.5,
+      448.3,
+      450.7
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b035",
+    "text": "# QUEUE_ID",
+    "bbox": [
+      413.1,
+      450.9,
+      459.3,
+      459.3
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b036",
+    "text": "* QUEUE_NAM E",
+    "bbox": [
+      413.1,
+      459.0,
+      472.7,
+      467.4
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b037",
+    "text": "* CR EATE _DATE",
+    "bbox": [
+      413.1,
+      467.3,
+      475.4,
+      475.7
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b038",
+    "text": "* CR EATE _USE R",
+    "bbox": [
+      413.1,
+      475.5,
+      476.0,
+      483.9
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b039",
+    "text": "o UPDATE _DATE",
+    "bbox": [
+      413.1,
+      483.7,
+      476.6,
+      492.2
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b040",
+    "text": "o UPDATE _USE R",
+    "bbox": [
+      413.1,
+      492.0,
+      477.2,
+      500.4
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b041",
+    "text": "QU E UE _S TATUS",
+    "bbox": [
+      475.1,
+      602.2,
+      555.5,
+      613.4
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b042",
+    "text": "# QUEUE_STATUS",
+    "bbox": [
+      475.1,
+      613.6,
+      543.8,
+      622.0
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b043",
+    "text": "* CR EATE _DATE",
+    "bbox": [
+      475.1,
+      621.9,
+      537.5,
+      630.3
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b044",
+    "text": "* CR EATE _USE R",
+    "bbox": [
+      475.1,
+      630.1,
+      538.0,
+      638.6
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b045",
+    "text": "o DE SC",
+    "bbox": [
+      475.1,
+      638.3,
+      503.7,
+      646.7
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b046",
+    "text": "o UPDATE _DATE",
+    "bbox": [
+      475.1,
+      646.6,
+      538.7,
+      655.0
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b047",
+    "text": "o UPDATE _USE R",
+    "bbox": [
+      475.1,
+      654.7,
+      539.2,
+      663.2
+    ],
+    "font_size": 7.6,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b048",
+    "text": "have",
+    "bbox": [
+      679.1,
+      296.9,
+      702.9,
+      308.1
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b049",
+    "text": "invoke",
+    "bbox": [
+      638.0,
+      366.5,
+      669.3,
+      377.7
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b050",
+    "text": "belong to",
+    "bbox": [
+      606.3,
+      404.5,
+      651.1,
+      415.8
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b051",
+    "text": "contain",
+    "bbox": [
+      349.7,
+      385.6,
+      382.8,
+      396.8
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b052",
+    "text": "belong to",
+    "bbox": [
+      606.3,
+      483.7,
+      651.1,
+      495.0
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b053",
+    "text": "contain",
+    "bbox": [
+      603.1,
+      464.8,
+      636.1,
+      476.0
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b054",
+    "text": "have",
+    "bbox": [
+      515.7,
+      518.5,
+      539.4,
+      529.8
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "510",
+    "page_number": 1,
+    "block_id": "510_p1_b055",
+    "text": "identify",
+    "bbox": [
+      474.5,
+      578.2,
+      510.9,
+      589.4
+    ],
+    "font_size": 10.1,
+    "font_name": "CourierStd",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,2477 @@
+[
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b001",
+    "text": "Recipient Report: Grant or Loan",
+    "bbox": [
+      55.4,
+      597.7,
+      65.4,
+      732.8
+    ],
+    "font_size": 8.9,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b002",
+    "text": "Version: 1.1",
+    "bbox": [
+      55.4,
+      411.1,
+      65.4,
+      463.8
+    ],
+    "font_size": 8.9,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b003",
+    "text": "Final Report*",
+    "bbox": [
+      112.0,
+      384.3,
+      119.1,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b004",
+    "text": "Recipient Congressional District*",
+    "bbox": [
+      175.7,
+      323.1,
+      182.8,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b005",
+    "text": "Award Date*",
+    "bbox": [
+      268.7,
+      386.4,
+      275.8,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b006",
+    "text": "04/10/2009",
+    "bbox": [
+      290.2,
+      392.0,
+      297.3,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b007",
+    "text": "Agency Drop-Down List: 0500 - Government Accountability Office",
+    "bbox": [
+      290.2,
+      80.5,
+      297.3,
+      272.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b008",
+    "text": "Program Source (TAS)",
+    "bbox": [
+      303.5,
+      194.5,
+      310.6,
+      264.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b009",
+    "text": "Drop-Down List: 05-0108-Salaries and Expenses, Recovery Act",
+    "bbox": [
+      311.6,
+      62.8,
+      318.8,
+      246.1
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b010",
+    "text": "Enter Agency Code: 0500",
+    "bbox": [
+      345.9,
+      180.5,
+      353.0,
+      256.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b011",
+    "text": "Agency Name: Government Accountability Office",
+    "bbox": [
+      366.7,
+      100.3,
+      374.5,
+      238.1
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b012",
+    "text": "Enter Program Source",
+    "bbox": [
+      377.6,
+      194.6,
+      384.7,
+      263.9
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b013",
+    "text": "(TAS) Code: 05-0108",
+    "bbox": [
+      385.9,
+      171.3,
+      393.0,
+      233.0
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b014",
+    "text": "Program Source (TAS)",
+    "bbox": [
+      397.1,
+      194.9,
+      404.2,
+      261.4
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b015",
+    "text": "Name: Salaries and Expenses, Recovery Act",
+    "bbox": [
+      405.1,
+      88.2,
+      414.5,
+      215.4
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b016",
+    "text": "Enter Agency Name: Government Accountability Office",
+    "bbox": [
+      443.6,
+      100.3,
+      450.7,
+      260.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b017",
+    "text": "Agency Code: 0500",
+    "bbox": [
+      465.0,
+      180.5,
+      472.8,
+      236.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b018",
+    "text": "Enter Program Source",
+    "bbox": [
+      478.9,
+      194.6,
+      486.0,
+      263.9
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b019",
+    "text": "(TAS) Name: Salaries and Expenses, Recovery Act",
+    "bbox": [
+      487.2,
+      88.2,
+      494.9,
+      234.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b020",
+    "text": "Program Source (TAS)",
+    "bbox": [
+      496.8,
+      194.9,
+      503.9,
+      261.4
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b021",
+    "text": "Code: 05-0108",
+    "bbox": [
+      504.3,
+      171.3,
+      511.9,
+      213.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b022",
+    "text": "Amount of Award*",
+    "bbox": [
+      312.3,
+      677.7,
+      319.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b023",
+    "text": "$175,966.00",
+    "bbox": [
+      331.2,
+      697.8,
+      338.3,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b024",
+    "text": "CFDA Number*",
+    "bbox": [
+      312.3,
+      532.6,
+      319.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b025",
+    "text": "84.387",
+    "bbox": [
+      331.2,
+      559.1,
+      338.3,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b026",
+    "text": "Program Source (TAS)*",
+    "bbox": [
+      345.9,
+      662.5,
+      353.0,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b027",
+    "text": "N/A",
+    "bbox": [
+      367.4,
+      567.9,
+      374.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b028",
+    "text": "Total Amount of Sub Awards to Individuals*",
+    "bbox": [
+      385.9,
+      446.0,
+      393.0,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b029",
+    "text": "$0.00",
+    "bbox": [
+      407.4,
+      562.6,
+      414.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b030",
+    "text": "0.00",
+    "bbox": [
+      487.8,
+      720.8,
+      494.9,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b031",
+    "text": "Prime Recipient",
+    "bbox": [
+      69.5,
+      470.7,
+      80.7,
+      546.8
+    ],
+    "font_size": 10.1,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b032",
+    "text": "Funding Agency Code*",
+    "bbox": [
+      268.7,
+      663.2,
+      275.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b033",
+    "text": "9146",
+    "bbox": [
+      290.2,
+      719.1,
+      297.3,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b034",
+    "text": "Reporting Information",
+    "bbox": [
+      95.2,
+      469.5,
+      103.6,
+      548.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b035",
+    "text": "Award Recipient Information",
+    "bbox": [
+      158.2,
+      457.7,
+      166.6,
+      560.6
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b036",
+    "text": "Award Type*",
+    "bbox": [
+      112.0,
+      694.7,
+      119.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b037",
+    "text": "Grant",
+    "bbox": [
+      135.0,
+      717.3,
+      142.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b038",
+    "text": "Award Number*",
+    "bbox": [
+      112.0,
+      530.8,
+      119.1,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b039",
+    "text": "S387A090041",
+    "bbox": [
+      135.0,
+      538.2,
+      142.1,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b040",
+    "text": "Recipient Account Number",
+    "bbox": [
+      175.7,
+      496.9,
+      182.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b041",
+    "text": "4572104",
+    "bbox": [
+      223.3,
+      553.8,
+      230.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b042",
+    "text": "Total Number of Payments to Vendors less than",
+    "bbox": [
+      417.1,
+      586.5,
+      424.2,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b043",
+    "text": "$25,000/award*",
+    "bbox": [
+      425.4,
+      687.6,
+      432.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b044",
+    "text": "91-1001",
+    "bbox": [
+      367.5,
+      709.9,
+      374.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b045",
+    "text": "Total Amount of Sub Awards less than",
+    "bbox": [
+      457.5,
+      460.1,
+      464.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b046",
+    "text": "$25,000/award*",
+    "bbox": [
+      465.7,
+      532.9,
+      472.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b047",
+    "text": "$0.00",
+    "bbox": [
+      487.8,
+      562.6,
+      494.9,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b048",
+    "text": "Total Number of Sub Awards less than",
+    "bbox": [
+      457.5,
+      614.8,
+      464.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b049",
+    "text": "$25,000/award*",
+    "bbox": [
+      465.7,
+      687.6,
+      472.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b050",
+    "text": "Total Number of Sub Awards to Individuals*",
+    "bbox": [
+      385.9,
+      600.7,
+      393.0,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b051",
+    "text": "$0.00",
+    "bbox": [
+      443.7,
+      562.6,
+      450.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b052",
+    "text": "0.00",
+    "bbox": [
+      443.7,
+      720.8,
+      450.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b053",
+    "text": "Recipient DUNS Number*",
+    "bbox": [
+      175.7,
+      656.5,
+      182.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b054",
+    "text": "929956563",
+    "bbox": [
+      223.3,
+      701.4,
+      230.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b055",
+    "text": "Award Description*",
+    "bbox": [
+      504.4,
+      674.5,
+      511.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b056",
+    "text": "Need Help Finding Award Information?",
+    "bbox": [
+      254.8,
+      97.0,
+      263.2,
+      236.9
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b057",
+    "text": "Total Amount of Payments to Vendors less than",
+    "bbox": [
+      417.1,
+      431.9,
+      424.2,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b058",
+    "text": "$25,000/award*",
+    "bbox": [
+      425.4,
+      532.9,
+      432.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b059",
+    "text": "Sub Account Number for Program Source (TAS)",
+    "bbox": [
+      346.0,
+      433.3,
+      353.1,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b060",
+    "text": "Know the code and want to check the name?",
+    "bbox": [
+      322.9,
+      98.5,
+      330.0,
+      234.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b061",
+    "text": "Search by Code",
+    "bbox": [
+      331.2,
+      142.4,
+      338.3,
+      190.4
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b062",
+    "text": "Know the name and want to find the code?",
+    "bbox": [
+      417.1,
+      101.8,
+      424.2,
+      231.1
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b063",
+    "text": "Search by Name",
+    "bbox": [
+      425.4,
+      141.5,
+      432.5,
+      191.0
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b064",
+    "text": "Awarding Agency Code*",
+    "bbox": [
+      268.7,
+      504.7,
+      275.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b065",
+    "text": "9146",
+    "bbox": [
+      290.2,
+      564.4,
+      297.3,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b066",
+    "text": "Award Information",
+    "bbox": [
+      250.0,
+      475.9,
+      258.4,
+      542.6
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b067",
+    "text": "0.00",
+    "bbox": [
+      407.4,
+      720.8,
+      414.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b068",
+    "text": "Browse the Full Listings by using the drop-down lists.",
+    "bbox": [
+      268.7,
+      84.7,
+      275.8,
+      248.3
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 1,
+    "block_id": "143_p1_b069",
+    "text": "Education of Homeless Children and Youth (rev)",
+    "bbox": [
+      26.3,
+      562.8,
+      36.9,
+      734.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b001",
+    "text": "Total Federal Amount ARRA Funds",
+    "bbox": [
+      207.6,
+      315.7,
+      214.7,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b002",
+    "text": "Received/Invoiced*",
+    "bbox": [
+      215.9,
+      365.9,
+      223.0,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b003",
+    "text": "$0.00",
+    "bbox": [
+      264.6,
+      407.9,
+      271.7,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b004",
+    "text": "B03.03",
+    "bbox": [
+      538.2,
+      700.1,
+      545.3,
+      720.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b005",
+    "text": "Activity Code Drop-Down",
+    "bbox": [
+      529.3,
+      194.7,
+      536.4,
+      273.1
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b006",
+    "text": "List:",
+    "bbox": [
+      537.6,
+      194.8,
+      544.7,
+      210.0
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b007",
+    "text": "111219 - Other Vegetable (except Potato) and",
+    "bbox": [
+      529.4,
+      62.4,
+      536.5,
+      194.6
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b008",
+    "text": "Melon Farming",
+    "bbox": [
+      537.5,
+      152.2,
+      544.6,
+      194.6
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b009",
+    "text": "Quarterly Activities/Project Description*",
+    "bbox": [
+      421.6,
+      612.3,
+      428.7,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b010",
+    "text": "Project Name or Project/Program Title*",
+    "bbox": [
+      215.9,
+      615.9,
+      223.0,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b011",
+    "text": "Ensure that each homeless child and youth has equal access to the same free, appropriate public education, including a public preschool education, as other",
+    "bbox": [
+      480.5,
+      290.2,
+      487.6,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b012",
+    "text": "children and youth",
+    "bbox": [
+      488.5,
+      681.2,
+      495.6,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b013",
+    "text": "Number of characters entered:    175",
+    "bbox": [
+      155.0,
+      629.3,
+      162.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b014",
+    "text": "Education for Homeless Children and Youth",
+    "bbox": [
+      265.3,
+      609.5,
+      272.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b015",
+    "text": "Project Status*",
+    "bbox": [
+      215.9,
+      533.3,
+      223.0,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b016",
+    "text": "Less than 50% completed",
+    "bbox": [
+      265.3,
+      505.3,
+      272.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b017",
+    "text": "Activity Code (NAICS or NTEE-NPC)*",
+    "bbox": [
+      520.9,
+      621.9,
+      528.0,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b018",
+    "text": "0.01",
+    "bbox": [
+      409.0,
+      720.8,
+      416.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b019",
+    "text": "The ARRA provides $70 million in fiscal year (FY) 2009 funds under the McKinney Vento Education fo",
+    "bbox": [
+      281.3,
+      291.5,
+      288.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b020",
+    "text": "Homeless Children and Youth program, which is authorized under Title VII-B of the McKinney-Vento",
+    "bbox": [
+      289.3,
+      295.4,
+      296.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b021",
+    "text": "Homeless Assistance Act, 42 U.S.C. 11431 et seq. (McKinney-Vento Act). The McKinney-Vento ARRA",
+    "bbox": [
+      297.4,
+      287.6,
+      304.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b022",
+    "text": "funds are a one-time source of funds that supplement the McKinney-Vento funds made available under",
+    "bbox": [
+      305.4,
+      287.2,
+      312.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b023",
+    "text": "the regular FY 2009 appropriation.",
+    "bbox": [
+      313.4,
+      478.1,
+      320.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b024",
+    "text": "McKinney-Vento ARRA funds must be used for activities authorized under Title VII-B of the McKinney-",
+    "bbox": [
+      329.5,
+      291.1,
+      336.6,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b025",
+    "text": "Vento Act and are subject to the same statutory and regulatory requirements as McKinney-Vento funds",
+    "bbox": [
+      337.6,
+      287.2,
+      344.7,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b026",
+    "text": "made available through the regular FY 2009 appropriation. LEAs created and/or retained jobs with",
+    "bbox": [
+      345.6,
+      301.0,
+      352.7,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b027",
+    "text": "McKinney-Vento ARRA funds to address the educational and related needs of some of children and yout",
+    "bbox": [
+      353.6,
+      284.4,
+      360.7,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b028",
+    "text": "experiencing homelessness.",
+    "bbox": [
+      361.7,
+      498.3,
+      368.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b029",
+    "text": "Instructional staff are being hired or retained to provide instructional programming for students.  Job titles",
+    "bbox": [
+      377.8,
+      282.3,
+      384.9,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b030",
+    "text": "in this category include teachers for both math and literacy and teacher assistant positions. McKinney-",
+    "bbox": [
+      385.8,
+      291.5,
+      392.9,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b031",
+    "text": "Vento ARRA funds are also being used to provide stipends for additional hours of work for teacher aides",
+    "bbox": [
+      393.8,
+      283.7,
+      400.9,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b032",
+    "text": "Number of characters entered: 1563",
+    "bbox": [
+      408.4,
+      476.4,
+      415.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b033",
+    "text": "Browse the Full Listing by using the drop-down list.",
+    "bbox": [
+      520.9,
+      88.2,
+      528.0,
+      244.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b034",
+    "text": "Number of characters entered:    175",
+    "bbox": [
+      498.2,
+      629.3,
+      505.3,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b035",
+    "text": "Need Help Finding an Activity, State, or Country Code?",
+    "bbox": [
+      497.2,
+      68.2,
+      505.6,
+      266.0
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b036",
+    "text": "Ensure that each homeless child and youth has equal access to the same free, appropriate public education, including a public preschool education, as other",
+    "bbox": [
+      138.2,
+      290.2,
+      145.3,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b037",
+    "text": "children and youth.",
+    "bbox": [
+      146.3,
+      679.5,
+      153.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b038",
+    "text": "Project Information",
+    "bbox": [
+      185.6,
+      474.6,
+      194.1,
+      544.0
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b039",
+    "text": "Description of Jobs Created*",
+    "bbox": [
+      278.5,
+      491.2,
+      285.6,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b040",
+    "text": "Number of Jobs*",
+    "bbox": [
+      278.5,
+      682.3,
+      285.6,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 2,
+    "block_id": "143_p2_b041",
+    "text": "Education of Homeless Children and Youth (rev)",
+    "bbox": [
+      26.3,
+      562.8,
+      36.9,
+      734.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b001",
+    "text": "State Drop-Down List: AK - Alaska",
+    "bbox": [
+      67.0,
+      161.4,
+      74.2,
+      263.4
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b002",
+    "text": "Country Drop-Down List: US - United States",
+    "bbox": [
+      86.8,
+      142.0,
+      94.0,
+      272.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b003",
+    "text": "Enter Activity Code: 111110",
+    "bbox": [
+      129.5,
+      173.4,
+      136.6,
+      259.3
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b004",
+    "text": "Infrastructure Contact Name",
+    "bbox": [
+      147.7,
+      338.0,
+      154.8,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b005",
+    "text": "Activity Name: Soybean Farming",
+    "bbox": [
+      147.6,
+      144.4,
+      155.4,
+      239.4
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b006",
+    "text": "Enter State Code: CA",
+    "bbox": [
+      170.4,
+      185.8,
+      177.5,
+      252.0
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b007",
+    "text": "Infrastructure Contact Phone Ext",
+    "bbox": [
+      182.4,
+      324.2,
+      189.5,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b008",
+    "text": "State Name: California",
+    "bbox": [
+      183.0,
+      167.8,
+      190.1,
+      234.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b009",
+    "text": "Enter Country Code: US",
+    "bbox": [
+      205.7,
+      185.8,
+      212.8,
+      260.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b010",
+    "text": "Infrastructure Contact Street Address 3",
+    "bbox": [
+      217.1,
+      304.7,
+      224.2,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b011",
+    "text": "Country Name: United States",
+    "bbox": [
+      217.7,
+      156.5,
+      224.8,
+      241.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b012",
+    "text": "Infrastructure ZIP Code+4",
+    "bbox": [
+      259.2,
+      345.9,
+      266.3,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b013",
+    "text": "Enter Activity Name:",
+    "bbox": [
+      259.2,
+      196.8,
+      266.3,
+      260.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b014",
+    "text": "Other Vegetable (except Potato) and Melon",
+    "bbox": [
+      251.0,
+      70.2,
+      258.1,
+      194.6
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b015",
+    "text": "Farming",
+    "bbox": [
+      259.1,
+      171.3,
+      266.2,
+      194.6
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b016",
+    "text": "Activity Code: 111219",
+    "bbox": [
+      280.7,
+      173.4,
+      287.8,
+      237.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b017",
+    "text": "Enter State Name: California",
+    "bbox": [
+      299.6,
+      167.8,
+      306.7,
+      253.4
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b018",
+    "text": "State Code: CA",
+    "bbox": [
+      401.6,
+      185.8,
+      408.7,
+      232.3
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b019",
+    "text": "Enter Country Name: United States",
+    "bbox": [
+      413.9,
+      156.5,
+      421.0,
+      262.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b020",
+    "text": "Country Code: US",
+    "bbox": [
+      429.6,
+      185.8,
+      436.7,
+      239.3
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b021",
+    "text": "City*",
+    "bbox": [
+      458.5,
+      409.3,
+      465.6,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b022",
+    "text": "Providence",
+    "bbox": [
+      481.6,
+      392.0,
+      488.7,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b023",
+    "text": "Congressional District*",
+    "bbox": [
+      494.3,
+      353.5,
+      501.4,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b024",
+    "text": "Infrastructure Contact Phone",
+    "bbox": [
+      183.0,
+      490.5,
+      190.1,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b025",
+    "text": "Street Address 2",
+    "bbox": [
+      458.5,
+      528.0,
+      465.6,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b026",
+    "text": "ZIP Code+4*",
+    "bbox": [
+      494.3,
+      541.2,
+      501.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b027",
+    "text": "797 Westminster Street",
+    "bbox": [
+      481.7,
+      666.8,
+      488.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b028",
+    "text": "Infrastructure Purpose and Rationale",
+    "bbox": [
+      299.6,
+      621.2,
+      306.7,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b029",
+    "text": "Number of characters entered:    81",
+    "bbox": [
+      413.9,
+      632.8,
+      421.0,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b030",
+    "text": "Infrastructure Contact Street Address 2",
+    "bbox": [
+      217.7,
+      459.4,
+      224.8,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b031",
+    "text": "Infrastructure State",
+    "bbox": [
+      259.2,
+      519.9,
+      266.3,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b032",
+    "text": "$0.00",
+    "bbox": [
+      170.4,
+      560.8,
+      177.5,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b033",
+    "text": "Infrastructure Contact Email",
+    "bbox": [
+      183.0,
+      647.7,
+      190.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b034",
+    "text": "$0.00",
+    "bbox": [
+      170.4,
+      717.3,
+      177.5,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b035",
+    "text": "Total Federal Amount of ARRA Expenditure*",
+    "bbox": [
+      148.3,
+      598.9,
+      155.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b036",
+    "text": "Total Federal ARRA Infrastructure Expenditure",
+    "bbox": [
+      148.3,
+      437.2,
+      155.4,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b037",
+    "text": "029034018",
+    "bbox": [
+      520.1,
+      546.7,
+      527.2,
+      578.5
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b038",
+    "text": "Infrastructure Contact Street Address 1",
+    "bbox": [
+      217.7,
+      614.1,
+      224.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b039",
+    "text": "This is not applicable to Education of Homeless Children and Youth, Recovery Act.",
+    "bbox": [
+      401.6,
+      500.3,
+      408.7,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b040",
+    "text": "Primary Place of Performance",
+    "bbox": [
+      441.2,
+      455.7,
+      449.7,
+      563.3
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b041",
+    "text": "Street Address 1",
+    "bbox": [
+      458.5,
+      682.7,
+      465.6,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b042",
+    "text": "State*",
+    "bbox": [
+      494.3,
+      715.2,
+      501.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b043",
+    "text": "Country*",
+    "bbox": [
+      533.3,
+      706.3,
+      540.4,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b044",
+    "text": "Infrastructure City",
+    "bbox": [
+      259.2,
+      678.1,
+      266.3,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b045",
+    "text": "Know the code and want to check the name?",
+    "bbox": [
+      99.6,
+      98.5,
+      106.7,
+      234.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b046",
+    "text": "Search by Code",
+    "bbox": [
+      107.9,
+      142.4,
+      115.0,
+      190.4
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b047",
+    "text": "Know the name and want to find the code?",
+    "bbox": [
+      232.1,
+      101.8,
+      239.2,
+      231.1
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b048",
+    "text": "Search by Name",
+    "bbox": [
+      240.4,
+      141.5,
+      247.5,
+      191.0
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 3,
+    "block_id": "143_p3_b049",
+    "text": "Education of Homeless Children and Youth (rev)",
+    "bbox": [
+      26.3,
+      562.8,
+      36.9,
+      734.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Arial",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b001",
+    "text": "Officer Name",
+    "bbox": [
+      117.7,
+      526.0,
+      124.8,
+      565.6
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b002",
+    "text": "Officer Compensation",
+    "bbox": [
+      117.7,
+      357.4,
+      124.8,
+      423.8
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b003",
+    "text": "Recipient Highly Compensated Officers",
+    "bbox": [
+      103.0,
+      438.3,
+      111.4,
+      580.3
+    ],
+    "font_size": 7.6,
+    "font_name": "Arial-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b004",
+    "text": "Prime Recipient Indication of Reporting",
+    "bbox": [
+      117.7,
+      612.0,
+      124.8,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b005",
+    "text": "Applicability*",
+    "bbox": [
+      126.0,
+      692.9,
+      133.1,
+      733.2
+    ],
+    "font_size": 6.4,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "143",
+    "page_number": 4,
+    "block_id": "143_p4_b006",
+    "text": "Education of Homeless Children and Youth (rev)",
+    "bbox": [
+      26.3,
+      562.8,
+      36.9,
+      734.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Arial",
+    "label": "BODY"
+  }
+]

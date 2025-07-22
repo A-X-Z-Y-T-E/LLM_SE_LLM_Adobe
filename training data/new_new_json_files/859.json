@@ -1,0 +1,3602 @@
+[
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b001",
+    "text": "August 1, 2011",
+    "bbox": [
+      269.0,
+      126.1,
+      346.0,
+      138.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b002",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.4,
+      151.5,
+      275.9,
+      163.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b003",
+    "text": "250 E Street, SW, Mail",
+    "bbox": [
+      72.0,
+      164.1,
+      186.3,
+      176.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b004",
+    "text": "Stop 2–3, Washington, DC 20219",
+    "bbox": [
+      72.4,
+      176.8,
+      242.4,
+      189.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b005",
+    "text": "(Via: regs.comments@occ.treas.gov)",
+    "bbox": [
+      72.4,
+      189.4,
+      256.5,
+      201.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b006",
+    "text": "Jennifer J. Johnson, Secretary",
+    "bbox": [
+      72.4,
+      214.7,
+      230.0,
+      226.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b007",
+    "text": "Federal Reserve Board of Governors",
+    "bbox": [
+      72.4,
+      227.4,
+      258.9,
+      239.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b008",
+    "text": "20th Street and Constitution Avenue, NW",
+    "bbox": [
+      72.4,
+      240.0,
+      279.6,
+      252.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b009",
+    "text": "Washington, DC 20551",
+    "bbox": [
+      72.4,
+      252.6,
+      192.2,
+      264.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b010",
+    "text": "(Via E-mail: regs.comments@federalreserve.gov)",
+    "bbox": [
+      72.0,
+      265.3,
+      316.0,
+      277.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b011",
+    "text": "Robert E. Feldman, Executive Secretary",
+    "bbox": [
+      72.0,
+      290.6,
+      271.2,
+      302.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b012",
+    "text": "Attention: Comments, Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      303.2,
+      376.5,
+      315.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b013",
+    "text": "550 17th Street, NW",
+    "bbox": [
+      72.0,
+      314.5,
+      174.4,
+      328.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b014",
+    "text": "Washington, DC 20429",
+    "bbox": [
+      72.0,
+      328.5,
+      188.7,
+      340.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b015",
+    "text": "(Via E-mail: Comments@FDIC.gov)",
+    "bbox": [
+      72.0,
+      341.2,
+      249.3,
+      353.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b016",
+    "text": "Elizabeth M. Murphy, Secretary",
+    "bbox": [
+      72.0,
+      366.5,
+      228.4,
+      378.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b017",
+    "text": "Securities and Exchange Commission,",
+    "bbox": [
+      72.0,
+      379.2,
+      263.3,
+      391.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b018",
+    "text": "100 F Street, NE",
+    "bbox": [
+      72.0,
+      391.8,
+      157.0,
+      404.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b019",
+    "text": "Washington, DC 20549–1090",
+    "bbox": [
+      72.0,
+      404.4,
+      219.3,
+      416.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b020",
+    "text": "(Via E-mail: rule-comments@sec.gov)",
+    "bbox": [
+      73.0,
+      417.1,
+      261.3,
+      429.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b021",
+    "text": "Alfred M. Pollard, General Counsel,",
+    "bbox": [
+      72.0,
+      442.4,
+      248.1,
+      454.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b022",
+    "text": "Attention: Comments/RIN 2590–AA43",
+    "bbox": [
+      72.0,
+      455.1,
+      260.3,
+      467.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b023",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      467.6,
+      237.6,
+      479.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b024",
+    "text": "Fourth Floor, 1700 G Street, NW",
+    "bbox": [
+      72.0,
+      480.3,
+      233.9,
+      492.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b025",
+    "text": "Washington, DC 20552",
+    "bbox": [
+      72.4,
+      493.0,
+      189.1,
+      505.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b026",
+    "text": "(Via E-mail: RegComments@fhfa.gov)",
+    "bbox": [
+      72.4,
+      505.6,
+      262.6,
+      517.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b027",
+    "text": "RE:",
+    "bbox": [
+      72.0,
+      529.3,
+      95.7,
+      543.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b028",
+    "text": "OCC: Docket Number OCC–2011–0002;",
+    "bbox": [
+      108.0,
+      530.9,
+      315.9,
+      543.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b029",
+    "text": "FRB: Docket No. 2011–1411;",
+    "bbox": [
+      108.0,
+      543.6,
+      259.6,
+      555.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b030",
+    "text": "FDIC: Docket No. RIN 3064–AD74;",
+    "bbox": [
+      108.0,
+      556.3,
+      288.2,
+      568.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b031",
+    "text": "SEC: Release No. 34–64148; File No. S7–14–11",
+    "bbox": [
+      108.0,
+      568.9,
+      354.4,
+      581.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b032",
+    "text": "FHFA: RIN 2590–AA43",
+    "bbox": [
+      108.0,
+      581.6,
+      227.7,
+      593.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b033",
+    "text": "Dear Regulators,",
+    "bbox": [
+      72.0,
+      606.8,
+      158.2,
+      619.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b034",
+    "text": "The Michigan Credit Union League (MCUL) appreciates the opportunity to comment on the",
+    "bbox": [
+      72.0,
+      632.1,
+      543.0,
+      644.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b035",
+    "text": "proposed rule issued by the Office of the Comptroller of the Currency, the Federal Reserve",
+    "bbox": [
+      72.0,
+      644.8,
+      543.0,
+      657.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b036",
+    "text": "Board, the Federal Deposit Insurance Corporation, the Securities and Exchange Commission,",
+    "bbox": [
+      72.0,
+      657.4,
+      542.9,
+      669.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b037",
+    "text": "and the Federal Housing Finance Agency (collectively, the “Agencies”) to implement the risk",
+    "bbox": [
+      72.0,
+      670.0,
+      543.0,
+      682.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b038",
+    "text": "retention requirements and the definition of a Qualified Residential Mortgage (QRM), as",
+    "bbox": [
+      72.0,
+      682.7,
+      542.8,
+      694.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 1,
+    "block_id": "859_p1_b039",
+    "text": "required by the Dodd-Frank Wall Street Reform and Consumer Protection Act’s (Dodd-Frank",
+    "bbox": [
+      72.0,
+      695.3,
+      542.9,
+      707.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b001",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      36.2,
+      290.8,
+      49.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b002",
+    "text": "Board of Governors of the Federal Reserve System",
+    "bbox": [
+      72.0,
+      50.0,
+      348.8,
+      63.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b003",
+    "text": "Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      63.8,
+      282.1,
+      77.2
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b004",
+    "text": "Securities and Exchange Commission",
+    "bbox": [
+      72.0,
+      77.6,
+      277.4,
+      91.0
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b005",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      91.4,
+      252.8,
+      104.8
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b006",
+    "text": "August 1, 2011",
+    "bbox": [
+      72.0,
+      105.2,
+      156.1,
+      118.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b007",
+    "text": "Page 2",
+    "bbox": [
+      72.0,
+      119.0,
+      113.4,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b008",
+    "text": "Act). MCUL is a statewide trade association representing 95% of the credit unions located in the",
+    "bbox": [
+      72.0,
+      174.3,
+      543.1,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b009",
+    "text": "State of Michigan.",
+    "bbox": [
+      72.0,
+      186.9,
+      163.2,
+      199.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b010",
+    "text": "MCUL understands the necessity to address weaknesses and failures in the securitization",
+    "bbox": [
+      72.0,
+      212.2,
+      543.1,
+      224.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b011",
+    "text": "process and the securitization markets in response to the actions of unscrupulous mortgage",
+    "bbox": [
+      72.0,
+      224.8,
+      543.1,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b012",
+    "text": "lenders who originated and sold high-risk, low-quality mortgage products that resulted in high-",
+    "bbox": [
+      72.0,
+      237.5,
+      540.1,
+      249.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b013",
+    "text": "risk, low-quality mortgage backed securities (MBSs).",
+    "bbox": [
+      72.0,
+      250.2,
+      336.6,
+      262.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b014",
+    "text": "Though the proposed rules were not designed to have a direct impact on the credit union",
+    "bbox": [
+      72.0,
+      275.4,
+      543.0,
+      287.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b015",
+    "text": "industry, credit unions and their respective members will be negatively impacted by the",
+    "bbox": [
+      72.0,
+      288.1,
+      543.0,
+      300.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b016",
+    "text": "definition of a Qualified Residential Mortgage (QRM), given that QRMs will very likely become",
+    "bbox": [
+      72.0,
+      300.8,
+      543.0,
+      313.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b017",
+    "text": "the industry standard for mortgage loans sold on the secondary market. As a result, credit",
+    "bbox": [
+      72.0,
+      313.4,
+      543.0,
+      325.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b018",
+    "text": "unions, especially smaller credit unions, will have to evaluate the burden of compliance costs of",
+    "bbox": [
+      72.0,
+      326.1,
+      543.1,
+      338.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b019",
+    "text": "this proposal and if excessive, there is a very real likelihood they could cut back on the type and",
+    "bbox": [
+      72.0,
+      338.7,
+      542.9,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b020",
+    "text": "number of mortgage loan products offered, which in turn will have a negative impact on potential",
+    "bbox": [
+      72.0,
+      351.3,
+      543.1,
+      363.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b021",
+    "text": "mortgage loan borrowers.",
+    "bbox": [
+      72.0,
+      364.0,
+      200.4,
+      376.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b022",
+    "text": "MCUL strongly urges the Agencies to withdraw this proposed rule and issue a more reasonable",
+    "bbox": [
+      72.0,
+      389.3,
+      543.0,
+      401.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b023",
+    "text": "framework to address the weaknesses in the securitization process while ensuring that potential",
+    "bbox": [
+      72.0,
+      401.9,
+      543.0,
+      414.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b024",
+    "text": "borrowers have adequate access to mortgage credit.",
+    "bbox": [
+      72.0,
+      414.6,
+      335.0,
+      426.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b025",
+    "text": "Treatment of Government-Sponsored Enterprises (GSEs)",
+    "bbox": [
+      72.0,
+      439.9,
+      355.6,
+      452.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b026",
+    "text": "The proposed rule would exempt the Federal National Mortgage Association (Fannie Mae) and",
+    "bbox": [
+      72.0,
+      465.2,
+      543.0,
+      477.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b027",
+    "text": "the Federal Home Loan Mortgage Corporation (Freddie Mac) (collectively, the GSEs) from the",
+    "bbox": [
+      72.0,
+      477.8,
+      543.0,
+      490.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b028",
+    "text": "5% risk retention requirements while each is operating under the conservatorship or",
+    "bbox": [
+      72.0,
+      490.5,
+      543.0,
+      502.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b029",
+    "text": "receivership of the Federal Housing Finance Agency.",
+    "bbox": [
+      72.0,
+      503.1,
+      339.7,
+      515.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b030",
+    "text": "MCUL is concerned that this provision places the GSEs at an unfair advantage at a time when",
+    "bbox": [
+      72.0,
+      528.4,
+      543.1,
+      540.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b031",
+    "text": "many in the U.S. Congress are seeking to encourage more private-sector involvement as a",
+    "bbox": [
+      72.0,
+      541.0,
+      543.0,
+      553.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b032",
+    "text": "result of the poor performance of the GSEs in securitizing high-risk mortgages and purchasing",
+    "bbox": [
+      72.0,
+      553.7,
+      543.1,
+      565.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b033",
+    "text": "high-risk MSBs. Given the fact that the proposed rule provides evidence that less than 20% of",
+    "bbox": [
+      72.0,
+      566.3,
+      543.1,
+      578.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b034",
+    "text": "all residential mortgage loans purchased or repackaged by the GSEs from 1997 through 2009",
+    "bbox": [
+      72.0,
+      579.0,
+      543.0,
+      591.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b035",
+    "text": "would have met the proposed standards for QRMs, MCUL does not believe that such an",
+    "bbox": [
+      72.0,
+      591.7,
+      542.9,
+      603.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b036",
+    "text": "exemption would serve to improve the health of the residential mortgage loan industry.",
+    "bbox": [
+      72.0,
+      604.3,
+      495.1,
+      616.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b037",
+    "text": "Additionally, MCUL believes this exemption and the restrictive definition of a QRM will force",
+    "bbox": [
+      72.0,
+      629.6,
+      543.1,
+      641.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b038",
+    "text": "virtually all low down payment lending to the Federal Housing Agency (FHA), due to the fact that",
+    "bbox": [
+      72.0,
+      642.3,
+      543.0,
+      654.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b039",
+    "text": "FHA requires only a 3.5% down payment. This will increase borrower costs, reduce borrower",
+    "bbox": [
+      72.0,
+      654.9,
+      543.0,
+      667.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b040",
+    "text": "choice, and place non-FHA mortgage loan providers (like many credit unions) at a severe",
+    "bbox": [
+      72.0,
+      667.6,
+      543.0,
+      679.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 2,
+    "block_id": "859_p2_b041",
+    "text": "disadvantage.",
+    "bbox": [
+      72.0,
+      680.2,
+      143.6,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b001",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      36.2,
+      290.8,
+      49.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b002",
+    "text": "Board of Governors of the Federal Reserve System",
+    "bbox": [
+      72.0,
+      50.0,
+      348.8,
+      63.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b003",
+    "text": "Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      63.8,
+      282.1,
+      77.2
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b004",
+    "text": "Securities and Exchange Commission",
+    "bbox": [
+      72.0,
+      77.6,
+      277.4,
+      91.0
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b005",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      91.4,
+      252.8,
+      104.8
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b006",
+    "text": "August 1, 2011",
+    "bbox": [
+      72.0,
+      105.2,
+      156.1,
+      118.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b007",
+    "text": "Page 3",
+    "bbox": [
+      72.0,
+      119.0,
+      113.4,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b008",
+    "text": "Qualified Residential Mortgages",
+    "bbox": [
+      72.0,
+      174.3,
+      230.9,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b009",
+    "text": "Overall Approach to Defining Qualifying Residential Mortgages",
+    "bbox": [
+      72.0,
+      199.6,
+      380.2,
+      211.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b010",
+    "text": "Despite the fact that the standards of a QRM would be very difficult for many potential",
+    "bbox": [
+      72.0,
+      224.8,
+      543.0,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b011",
+    "text": "borrowers to achieve, the Agencies believe that “the amount of non-QRM residential mortgages",
+    "bbox": [
+      72.0,
+      237.5,
+      542.9,
+      249.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b012",
+    "text": "should be sufficiently large, and include enough prudently underwritten loans, so that ABS",
+    "bbox": [
+      72.0,
+      250.2,
+      543.1,
+      262.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b013",
+    "text": "backed by non-QRM residential mortgages may be routinely issued and purchased by a wide",
+    "bbox": [
+      72.0,
+      262.8,
+      542.8,
+      275.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b014",
+    "text": "variety of investors.” MCUL believes in order for this to be accurate, the Agencies would have",
+    "bbox": [
+      72.0,
+      275.4,
+      542.9,
+      287.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b015",
+    "text": "to assume that securitizers would be readily willing to comply with the complex risk retention",
+    "bbox": [
+      72.0,
+      288.1,
+      543.0,
+      300.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b016",
+    "text": "and disclosure requirements under the proposed rule, and that non-FHA QRMs will even remain",
+    "bbox": [
+      72.0,
+      300.7,
+      543.1,
+      313.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b017",
+    "text": "an acceptable option for potential borrowers.  MCUL believes that there is a much greater",
+    "bbox": [
+      72.0,
+      313.4,
+      543.1,
+      325.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b018",
+    "text": "incentive to offer QRMs in order to reduce the already overwhelming and ever-increasing",
+    "bbox": [
+      72.0,
+      326.1,
+      543.1,
+      338.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b019",
+    "text": "regulatory burden, which will have a directly negative impact on the availability of mortgage",
+    "bbox": [
+      72.0,
+      338.7,
+      543.0,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b020",
+    "text": "credit, especially for low- to moderate-income consumers.",
+    "bbox": [
+      72.0,
+      351.3,
+      362.3,
+      363.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b021",
+    "text": "In considering how to determine whether a mortgage is of sufficient credit quality, the Agencies",
+    "bbox": [
+      72.0,
+      376.6,
+      543.0,
+      388.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b022",
+    "text": "examined data from various sources and reviewed specific aspects of borrowers who defaulted",
+    "bbox": [
+      72.0,
+      389.3,
+      543.0,
+      401.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b023",
+    "text": "on their respective mortgages. The Agencies then appeared to take each element that may",
+    "bbox": [
+      72.0,
+      401.9,
+      542.9,
+      414.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b024",
+    "text": "have contributed to a default and combined them to define the QRM.  MCUL believes the",
+    "bbox": [
+      72.0,
+      414.5,
+      543.0,
+      426.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b025",
+    "text": "definition of a QRM is inconsistent with prudent underwriting practices and the assessment of",
+    "bbox": [
+      72.0,
+      427.2,
+      543.0,
+      439.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b026",
+    "text": "credit risk that take different criteria into account to determine whether the low-risk factors offset",
+    "bbox": [
+      72.0,
+      439.9,
+      543.1,
+      452.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b027",
+    "text": "the higher-risk factors.",
+    "bbox": [
+      72.0,
+      452.5,
+      183.8,
+      464.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b028",
+    "text": "Borrower Credit History",
+    "bbox": [
+      72.0,
+      477.8,
+      189.3,
+      490.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b029",
+    "text": "Under the proposed rule, a borrower could not qualify for a QRM if currently 30 days late, in",
+    "bbox": [
+      72.0,
+      503.1,
+      542.9,
+      515.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b030",
+    "text": "whole or in part, on any debt obligation; 60 days or more days late on any debt obligation within",
+    "bbox": [
+      72.0,
+      515.8,
+      543.0,
+      528.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b031",
+    "text": "the preceding 24 months; or, within the past 36 months the borrower had been a debtor in",
+    "bbox": [
+      72.0,
+      528.4,
+      543.1,
+      540.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b032",
+    "text": "bankruptcy, had property repossessed or foreclosed upon, had engaged in a short sale or deed­",
+    "bbox": [
+      72.0,
+      541.0,
+      540.0,
+      553.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b033",
+    "text": "in-lieu of foreclosure, or had been subject to a Federal or State judgment for collection of any",
+    "bbox": [
+      72.0,
+      553.7,
+      543.0,
+      565.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b034",
+    "text": "unpaid debt.",
+    "bbox": [
+      72.0,
+      566.3,
+      135.7,
+      578.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b035",
+    "text": "While much of this criteria is reasonable and generally taken into account by prudent",
+    "bbox": [
+      72.0,
+      591.7,
+      543.0,
+      603.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b036",
+    "text": "underwriters, there are many legitimate reasons why a consumer would be 30 days late on a",
+    "bbox": [
+      72.0,
+      604.3,
+      543.0,
+      616.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b037",
+    "text": "payment that do not relate to the ability to repay a mortgage loan or the overall creditworthiness",
+    "bbox": [
+      72.0,
+      616.9,
+      542.9,
+      629.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b038",
+    "text": "of a borrower. Additionally, the proposed rule does not define a “debt obligation.”  A late",
+    "bbox": [
+      72.0,
+      629.6,
+      542.9,
+      641.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b039",
+    "text": "mortgage payment might be a good indication of an inability to repay a new mortgage loan, but",
+    "bbox": [
+      72.0,
+      642.2,
+      543.0,
+      654.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b040",
+    "text": "a late electric bill does not provide sufficient evidence that a borrower is a credit risk on a new",
+    "bbox": [
+      72.0,
+      654.9,
+      543.1,
+      667.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b041",
+    "text": "mortgage loan.",
+    "bbox": [
+      72.0,
+      667.6,
+      148.4,
+      679.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b042",
+    "text": "MCUL is not as optimistic as the Agencies that non-QRMs would be available for potential",
+    "bbox": [
+      72.0,
+      692.8,
+      543.0,
+      705.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 3,
+    "block_id": "859_p3_b043",
+    "text": "borrowers, and believes the end result of this provision of the proposal would be that borrowers",
+    "bbox": [
+      72.0,
+      705.5,
+      543.0,
+      717.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b001",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      36.2,
+      290.8,
+      49.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b002",
+    "text": "Board of Governors of the Federal Reserve System",
+    "bbox": [
+      72.0,
+      50.0,
+      348.8,
+      63.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b003",
+    "text": "Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      63.8,
+      282.1,
+      77.2
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b004",
+    "text": "Securities and Exchange Commission",
+    "bbox": [
+      72.0,
+      77.6,
+      277.4,
+      91.0
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b005",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      91.4,
+      252.8,
+      104.8
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b006",
+    "text": "August 1, 2011",
+    "bbox": [
+      72.0,
+      105.2,
+      156.1,
+      118.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b007",
+    "text": "Page 4",
+    "bbox": [
+      72.0,
+      119.0,
+      113.4,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b008",
+    "text": "who had spent years to save for the required 20% down payment and were inadvertently late on",
+    "bbox": [
+      72.0,
+      174.3,
+      543.0,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b009",
+    "text": "one payment would be denied mortgage credit.  MCUL does not believe this was the intent of",
+    "bbox": [
+      72.0,
+      186.9,
+      543.0,
+      199.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b010",
+    "text": "the United States Congress when the Dodd-Frank Act was deliberated or passed.",
+    "bbox": [
+      72.0,
+      199.5,
+      474.8,
+      211.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b011",
+    "text": "Payment Terms",
+    "bbox": [
+      72.0,
+      224.9,
+      152.6,
+      237.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b012",
+    "text": "The proposed rule would prohibit QRMs from having, among other features, payment terms that",
+    "bbox": [
+      72.0,
+      250.2,
+      543.0,
+      262.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b013",
+    "text": "allow interest-only payments, negative amortization, or adjustable-rate mortgages with interest",
+    "bbox": [
+      72.0,
+      262.8,
+      542.9,
+      275.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b014",
+    "text": "rates that do not exceed prescribed limits under the proposal.",
+    "bbox": [
+      72.0,
+      275.4,
+      373.5,
+      287.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b015",
+    "text": "Credit unions mortgage loan portfolios have performed well during the mortgage meltdown due",
+    "bbox": [
+      72.0,
+      300.7,
+      543.0,
+      313.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b016",
+    "text": "to strong underwriting practices and lower-risk mortgage product offerings, even though many of",
+    "bbox": [
+      72.0,
+      313.4,
+      543.1,
+      325.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b017",
+    "text": "those loans were provided to borrowers who would not have been approved under the proposed",
+    "bbox": [
+      72.0,
+      326.1,
+      543.0,
+      338.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b018",
+    "text": "QRM standards. MCUL strongly supports limiting the availability of high-risk mortgage loan",
+    "bbox": [
+      72.0,
+      338.7,
+      542.9,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b019",
+    "text": "features, and believes the focus should be on the types of mortgages that pose the greatest risk",
+    "bbox": [
+      72.0,
+      351.3,
+      543.1,
+      363.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b020",
+    "text": "to the residential mortgage market rather than placing restrictions on those that do not.",
+    "bbox": [
+      72.0,
+      364.0,
+      501.9,
+      376.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b021",
+    "text": "Loan-to-Value (LTV) Ratio",
+    "bbox": [
+      72.0,
+      389.4,
+      203.4,
+      401.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b022",
+    "text": "For purchase mortgage transactions, the proposed rule would require an LTV ratio of 80%; 75%",
+    "bbox": [
+      72.0,
+      414.6,
+      543.0,
+      426.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b023",
+    "text": "on rate and refinance loans; and 70% for cash-out refinance loans.",
+    "bbox": [
+      72.0,
+      427.2,
+      405.9,
+      439.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b024",
+    "text": "MCUL is concerned that these provisions will have the effect of reducing the number of eligible",
+    "bbox": [
+      72.0,
+      452.5,
+      543.1,
+      464.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b025",
+    "text": "borrowers for mortgage loans, and will prevent the refinancing of loans that are in the best",
+    "bbox": [
+      72.0,
+      465.2,
+      543.0,
+      477.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b026",
+    "text": "interest of many homeowners.",
+    "bbox": [
+      72.0,
+      477.8,
+      228.5,
+      490.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b027",
+    "text": "MCUL urges the Agencies to re-examine these proposed provisions in order to further study the",
+    "bbox": [
+      72.0,
+      503.1,
+      543.0,
+      515.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b028",
+    "text": "impact of private mortgage insurance on loans with higher LTV ratios, given that such insurers",
+    "bbox": [
+      72.0,
+      515.8,
+      543.0,
+      528.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b029",
+    "text": "may be willing to accept the risks of default.",
+    "bbox": [
+      72.0,
+      528.4,
+      287.2,
+      540.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b030",
+    "text": "Down Payment",
+    "bbox": [
+      72.0,
+      553.8,
+      149.6,
+      566.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b031",
+    "text": "The proposed rule would require borrowers to provide a 20% down payment (plus costs) in",
+    "bbox": [
+      72.0,
+      579.0,
+      543.1,
+      591.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b032",
+    "text": "order to qualify for a QRM. MCUL believes this requirement is harsh and will likely force",
+    "bbox": [
+      72.0,
+      591.7,
+      542.9,
+      603.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b033",
+    "text": "otherwise qualified borrowers, who could afford to make monthly mortgage payments with some",
+    "bbox": [
+      72.0,
+      604.3,
+      543.0,
+      616.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b034",
+    "text": "smaller amount of down payment, or a combination of a smaller amount of down payment and",
+    "bbox": [
+      72.0,
+      616.9,
+      543.0,
+      629.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b035",
+    "text": "PMI, out of the mortgage market for decades. Low-to-moderate income consumers would very",
+    "bbox": [
+      72.0,
+      629.6,
+      543.0,
+      641.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b036",
+    "text": "likely lose the opportunity to achieve the dream of home ownership permanently.",
+    "bbox": [
+      72.0,
+      642.3,
+      466.9,
+      654.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b037",
+    "text": "The Agencies appear to have recognized this fact in its footnoted statement that “while many",
+    "bbox": [
+      72.0,
+      667.6,
+      543.1,
+      679.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b038",
+    "text": "creditworthy homebuyers seeking to purchase a home will likely not have the 20% down",
+    "bbox": [
+      72.0,
+      680.2,
+      542.9,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b039",
+    "text": "payment required for a QRM, sound underwriting of these loans may well require the prudent",
+    "bbox": [
+      72.0,
+      692.8,
+      543.0,
+      705.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 4,
+    "block_id": "859_p4_b040",
+    "text": "use of judgment about the borrower’s ability to repay the loan and other risk mitigants that are",
+    "bbox": [
+      72.0,
+      705.5,
+      543.0,
+      717.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b001",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      36.2,
+      290.8,
+      49.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b002",
+    "text": "Board of Governors of the Federal Reserve System",
+    "bbox": [
+      72.0,
+      50.0,
+      348.8,
+      63.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b003",
+    "text": "Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      63.8,
+      282.1,
+      77.2
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b004",
+    "text": "Securities and Exchange Commission",
+    "bbox": [
+      72.0,
+      77.6,
+      277.4,
+      91.0
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b005",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      91.4,
+      252.8,
+      104.8
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b006",
+    "text": "August 1, 2011",
+    "bbox": [
+      72.0,
+      105.2,
+      156.1,
+      118.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b007",
+    "text": "Page 5",
+    "bbox": [
+      72.0,
+      119.0,
+      113.4,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b008",
+    "text": "likely to change over time and vary from borrower to borrower.”  MCUL agrees with this",
+    "bbox": [
+      72.0,
+      174.3,
+      543.0,
+      186.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b009",
+    "text": "statement, and does not believe this provision of the proposed rule represents the intention of",
+    "bbox": [
+      72.0,
+      186.9,
+      543.0,
+      199.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b010",
+    "text": "the U.S. Congress when deliberating and passing the Dodd-Frank Act.  MCUL strongly urges",
+    "bbox": [
+      72.0,
+      199.5,
+      543.0,
+      211.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b011",
+    "text": "the Agencies to reconsider its position to require borrowers to put 20% down on a home in order",
+    "bbox": [
+      72.0,
+      212.2,
+      543.0,
+      224.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b012",
+    "text": "to qualify for a QRM.",
+    "bbox": [
+      72.0,
+      224.8,
+      175.9,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b013",
+    "text": "The proposed rule would not consider the risk mitigation effects of mortgage guarantee",
+    "bbox": [
+      72.0,
+      250.2,
+      543.0,
+      262.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b014",
+    "text": "insurance or other credit enhancements obtained at the time of origination, as the Agencies",
+    "bbox": [
+      72.0,
+      262.8,
+      543.0,
+      275.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b015",
+    "text": "“have not identified studies or historical loan performance data adequately demonstrating that",
+    "bbox": [
+      72.0,
+      275.4,
+      543.0,
+      287.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b016",
+    "text": "mortgages with such credit enhancements are less likely to default than other mortgages.”",
+    "bbox": [
+      72.0,
+      288.1,
+      512.9,
+      300.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b017",
+    "text": "MCUL urges the Agencies to reconsider this position. Borrowers that do not have a 20% down",
+    "bbox": [
+      72.0,
+      313.4,
+      542.9,
+      325.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b018",
+    "text": "payment, but otherwise meet responsible underwriting criteria, receive a valuable benefit from",
+    "bbox": [
+      72.0,
+      326.1,
+      543.0,
+      338.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b019",
+    "text": "mortgage guarantee insurance. Without it, borrowers would either be confronted with having to",
+    "bbox": [
+      72.0,
+      338.6,
+      543.0,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b020",
+    "text": "pay exponentially more to obtain a mortgage loan, or be prevented from obtaining home",
+    "bbox": [
+      72.0,
+      351.3,
+      542.9,
+      363.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b021",
+    "text": "ownership status for a much longer period of time in order to save enough money for a down",
+    "bbox": [
+      72.0,
+      364.0,
+      543.0,
+      376.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b022",
+    "text": "payment. MCUL respectfully submits that while there does not appear to be any evidence to",
+    "bbox": [
+      72.0,
+      376.6,
+      543.0,
+      388.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b023",
+    "text": "suggest that mortgages with mortgage guarantee insurance or other credit enhancements are",
+    "bbox": [
+      72.0,
+      389.3,
+      543.1,
+      401.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b024",
+    "text": "less likely to default than other mortgages, there is no evidence to suggest that mortgages with",
+    "bbox": [
+      72.0,
+      401.9,
+      543.1,
+      414.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b025",
+    "text": "these additional products are any more likely to default than mortgages without them.",
+    "bbox": [
+      72.0,
+      414.5,
+      489.0,
+      426.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b026",
+    "text": "Qualifying Appraisal",
+    "bbox": [
+      72.0,
+      439.9,
+      172.9,
+      452.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b027",
+    "text": "A QRM would be required to be supported by a written appraisal that conforms to generally",
+    "bbox": [
+      72.0,
+      465.2,
+      543.0,
+      477.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b028",
+    "text": "accepted appraisal standards, as evidenced by the Uniform Standards of Professional Appraisal",
+    "bbox": [
+      72.0,
+      477.8,
+      542.9,
+      490.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b029",
+    "text": "Practice, the appraisal requirements of the Federal banking agencies, and applicable laws.",
+    "bbox": [
+      72.0,
+      490.4,
+      515.9,
+      502.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b030",
+    "text": "MCUL supports this provision as part of the definition of a QRM.",
+    "bbox": [
+      72.0,
+      515.8,
+      386.2,
+      528.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b031",
+    "text": "Ability to Repay",
+    "bbox": [
+      72.0,
+      541.1,
+      151.5,
+      553.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b032",
+    "text": "The rule proposes a front-end debt-to-income (DTI) ratio limit of 28% and a back-end ratio limit",
+    "bbox": [
+      72.0,
+      566.3,
+      543.0,
+      578.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b033",
+    "text": "of 36%. For purposes of calculating these proposed ratios, the proposal would require",
+    "bbox": [
+      72.0,
+      579.0,
+      543.0,
+      591.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b034",
+    "text": "originators to use the borrower’s monthly gross income, as determined in accordance with the",
+    "bbox": [
+      72.0,
+      591.7,
+      543.0,
+      603.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b035",
+    "text": "effective income standards set forth in the HUD Handbook, which have been incorporated into",
+    "bbox": [
+      72.0,
+      604.3,
+      542.9,
+      616.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b036",
+    "text": "the Additional QRM Standards Appendix to the proposed rules.",
+    "bbox": [
+      72.0,
+      616.9,
+      381.9,
+      629.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b037",
+    "text": "While MCUL believes that DTI ratios are an appropriate risk indicator for residential mortgages,",
+    "bbox": [
+      72.0,
+      642.2,
+      541.9,
+      654.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b038",
+    "text": "the proposal would require this ratio to be viewed in isolation. MCUL believes the proposed",
+    "bbox": [
+      72.0,
+      654.9,
+      541.9,
+      667.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b039",
+    "text": "back-end DTI of 36% is overly restrictive and should be relaxed so long as low-risk mitigating",
+    "bbox": [
+      72.0,
+      667.6,
+      541.8,
+      679.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b040",
+    "text": "factors are also present in the underwriting process.  MCUL urges the Agencies to amend these",
+    "bbox": [
+      72.0,
+      680.2,
+      542.0,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 5,
+    "block_id": "859_p5_b041",
+    "text": "provisions in order to prevent otherwise creditworthy borrowers from obtaining home ownership.",
+    "bbox": [
+      72.0,
+      692.8,
+      543.9,
+      705.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b001",
+    "text": "Office of the Comptroller of the Currency",
+    "bbox": [
+      72.0,
+      36.2,
+      290.8,
+      49.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b002",
+    "text": "Board of Governors of the Federal Reserve System",
+    "bbox": [
+      72.0,
+      50.0,
+      348.8,
+      63.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b003",
+    "text": "Federal Deposit Insurance Corporation",
+    "bbox": [
+      72.0,
+      63.8,
+      282.1,
+      77.2
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b004",
+    "text": "Securities and Exchange Commission",
+    "bbox": [
+      72.0,
+      77.6,
+      277.4,
+      91.0
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b005",
+    "text": "Federal Housing Finance Agency",
+    "bbox": [
+      72.0,
+      91.4,
+      252.8,
+      104.8
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b006",
+    "text": "August 1, 2011",
+    "bbox": [
+      72.0,
+      105.2,
+      156.1,
+      118.6
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b007",
+    "text": "Page 6",
+    "bbox": [
+      72.0,
+      119.0,
+      113.4,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b008",
+    "text": "Points and Fees",
+    "bbox": [
+      72.0,
+      174.3,
+      154.5,
+      186.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b009",
+    "text": "Under the proposal, in order for a mortgage to qualify as a QRM, the total points and fees",
+    "bbox": [
+      72.0,
+      199.5,
+      543.0,
+      211.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b010",
+    "text": "payable by the borrower in connection with the mortgage transaction shall not exceed 3% of the",
+    "bbox": [
+      72.0,
+      212.2,
+      543.0,
+      224.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b011",
+    "text": "total loan amount, which would be calculated in the same manner as in Regulation Z.  MCUL",
+    "bbox": [
+      72.0,
+      224.8,
+      542.9,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b012",
+    "text": "does not see the correlation between higher points and fees and mortgage default, and urges",
+    "bbox": [
+      72.0,
+      237.5,
+      543.0,
+      249.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b013",
+    "text": "the Agencies to remove these criteria from the definition of a QRM.",
+    "bbox": [
+      72.0,
+      250.2,
+      400.3,
+      262.4
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b014",
+    "text": "Assumability Prohibition",
+    "bbox": [
+      72.0,
+      275.5,
+      191.9,
+      287.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b015",
+    "text": "Under the proposed rules, a QRM could not be assumable by any person who was not a",
+    "bbox": [
+      72.0,
+      300.7,
+      543.1,
+      313.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b016",
+    "text": "borrower under the original mortgage transaction.",
+    "bbox": [
+      72.0,
+      313.4,
+      319.0,
+      325.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b017",
+    "text": "Many home owners have taken advantage of the low-rate market by refinancing their existing",
+    "bbox": [
+      72.0,
+      338.7,
+      543.0,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b018",
+    "text": "mortgages for lower rate options. In a rising interest rate market, potential borrowers may",
+    "bbox": [
+      72.0,
+      351.3,
+      543.0,
+      363.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b019",
+    "text": "choose to assume an existing low-rate mortgage rather than seeking a higher mortgage loan",
+    "bbox": [
+      72.0,
+      364.0,
+      543.1,
+      376.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b020",
+    "text": "amount with a higher interest rate.  Provided the purchaser otherwise met the criteria of a QRM-",
+    "bbox": [
+      72.0,
+      376.7,
+      539.9,
+      388.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b021",
+    "text": "qualified borrower, MCUL does not see the risk that an assumed mortgage would pose. MCUL",
+    "bbox": [
+      72.0,
+      389.3,
+      542.9,
+      401.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b022",
+    "text": "urges the Agencies to reconsider this provision of the proposed rule.",
+    "bbox": [
+      72.0,
+      401.9,
+      413.2,
+      414.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b023",
+    "text": "Conclusion",
+    "bbox": [
+      72.0,
+      427.2,
+      129.5,
+      439.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b024",
+    "text": "While MCUL appreciates the difficult task the Agencies were charged with in order to mitigate",
+    "bbox": [
+      72.0,
+      452.5,
+      543.0,
+      464.8
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b025",
+    "text": "risk in the mortgage market, MCUL believes this proposed rule will end up harming the still",
+    "bbox": [
+      72.0,
+      465.2,
+      543.0,
+      477.5
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b026",
+    "text": "fragile residential mortgage industry the rule was designed to protect, as the number of eligible",
+    "bbox": [
+      72.0,
+      477.8,
+      543.0,
+      490.1
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b027",
+    "text": "borrowers and the availability of attainable mortgage credit would be severely reduced.",
+    "bbox": [
+      72.0,
+      490.5,
+      512.2,
+      502.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b028",
+    "text": "MCUL supports aspects of the proposed rule that focus on the types of high-risk, exotic",
+    "bbox": [
+      72.0,
+      515.8,
+      543.1,
+      528.0
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b029",
+    "text": "mortgage products that were packaged into high-risk MSBs that the Dodd-Frank Act was",
+    "bbox": [
+      72.0,
+      528.4,
+      543.0,
+      540.7
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b030",
+    "text": "designed to limit. MCUL strongly urges the Agencies to focus on mortgages that pose the",
+    "bbox": [
+      72.0,
+      541.0,
+      542.9,
+      553.3
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b031",
+    "text": "greatest risk to the residential mortgage market rather than broadly restricting those that do not",
+    "bbox": [
+      72.0,
+      553.7,
+      543.0,
+      565.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b032",
+    "text": "when crafting a definition of a QRM.",
+    "bbox": [
+      72.0,
+      566.4,
+      249.8,
+      578.6
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b033",
+    "text": "MCUL appreciates the opportunity to comment.",
+    "bbox": [
+      72.0,
+      591.7,
+      305.5,
+      603.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b034",
+    "text": "Sincerely,",
+    "bbox": [
+      72.0,
+      616.9,
+      123.3,
+      629.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b035",
+    "text": "VP Regulatory Affairs",
+    "bbox": [
+      72.0,
+      679.0,
+      180.2,
+      691.2
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "859",
+    "page_number": 6,
+    "block_id": "859_p6_b036",
+    "text": "Michigan Credit Union League",
+    "bbox": [
+      72.0,
+      691.6,
+      223.0,
+      703.9
+    ],
+    "font_size": 11.0,
+    "font_name": "ArialMT",
+    "label": "BODY"
+  }
+]

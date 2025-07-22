@@ -1,0 +1,3317 @@
+[
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b001",
+    "text": "JULY 2020",
+    "bbox": [
+      280.3,
+      791.7,
+      314.4,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b002",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b003",
+    "text": "1    Defined as the safe, ethical and effective management of data. For more information, see the working draft OCHA Data Responsibility Guidelines.",
+    "bbox": [
+      53.9,
+      700.8,
+      521.4,
+      709.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b004",
+    "text": "2   A literature review of 55 publicly available guidance documents informing responsible data management across the humanitarian sector revealed 22",
+    "bbox": [
+      53.9,
+      711.9,
+      538.5,
+      720.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b005",
+    "text": "different approaches, included as tools or recommended in the guidance document. The literature review is available from the Centre for",
+    "bbox": [
+      53.9,
+      720.9,
+      497.7,
+      729.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b006",
+    "text": "Humanitarian Data (“The Centre”) upon request.",
+    "bbox": [
+      53.9,
+      729.9,
+      213.7,
+      738.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b007",
+    "text": "3   Positive implications of data management are usually referred to as ‘benefits’, while negative implications include risks and harms — with rights",
+    "bbox": [
+      53.9,
+      740.9,
+      516.0,
+      749.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b008",
+    "text": "infringements often called out specifically.",
+    "bbox": [
+      53.9,
+      749.9,
+      194.9,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b009",
+    "text": "4   DIAs contribute to Data Protection by Design or Privacy by Design if they are conducted at the outset of the development or use of a new tool or",
+    "bbox": [
+      53.9,
+      761.9,
+      516.9,
+      770.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b010",
+    "text": "architecture. For more information, see for example Privacy By Design, The 7 Foundational Principles.",
+    "bbox": [
+      53.9,
+      770.8,
+      393.4,
+      779.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b011",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b012",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      98.4,
+      263.7,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b013",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      116.4,
+      479.6,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b014",
+    "text": "DATA IMPACT ASSESSMENTS",
+    "bbox": [
+      53.3,
+      138.7,
+      347.8,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b015",
+    "text": "KEY TAKEAWAYS:",
+    "bbox": [
+      63.7,
+      190.0,
+      167.1,
+      205.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b016",
+    "text": "•\t Data Impact Assessments (DIAs) determine the potential benefits and risks associated with data",
+    "bbox": [
+      75.0,
+      209.7,
+      524.6,
+      223.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b017",
+    "text": "management. They are a critical component of responsible data management, but are often",
+    "bbox": [
+      86.3,
+      222.9,
+      508.0,
+      236.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b018",
+    "text": "overlooked.",
+    "bbox": [
+      86.3,
+      236.1,
+      140.9,
+      250.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b019",
+    "text": "•\t There are a wide variety of approaches to DIAs. Selecting the right assessment for a given data",
+    "bbox": [
+      75.0,
+      259.3,
+      516.6,
+      273.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b020",
+    "text": "management activity can help minimize the risks and maximize the benefits to affected people,",
+    "bbox": [
+      86.3,
+      272.5,
+      523.1,
+      286.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b021",
+    "text": "humanitarians and other stakeholders.",
+    "bbox": [
+      86.3,
+      285.7,
+      264.0,
+      299.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b022",
+    "text": "•\t Applicable laws and regulations, internal policies, the context in which data management",
+    "bbox": [
+      75.0,
+      308.9,
+      495.7,
+      322.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b023",
+    "text": "will take place and other factors determine which assessment(s) should be applied to a data",
+    "bbox": [
+      86.3,
+      322.1,
+      507.3,
+      336.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b024",
+    "text": "management activity.",
+    "bbox": [
+      86.3,
+      335.3,
+      185.8,
+      349.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b025",
+    "text": "•\t Data impact assessments should be conducted before and during data management activities in",
+    "bbox": [
+      75.0,
+      358.5,
+      527.6,
+      372.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b026",
+    "text": "order to  inform project planning and design. Activities should be redesigned or cancelled if the",
+    "bbox": [
+      86.3,
+      371.7,
+      521.5,
+      385.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b027",
+    "text": "foreseeable risks of data management outweigh the intended benefits.",
+    "bbox": [
+      86.3,
+      384.9,
+      409.3,
+      398.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b028",
+    "text": "DATA IMPACT ASSESSMENTS",
+    "bbox": [
+      53.3,
+      427.8,
+      225.3,
+      442.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b029",
+    "text": "Guidance on data responsibility1 in humanitarian action often contains tools for conducting Data Impact",
+    "bbox": [
+      53.5,
+      449.4,
+      529.5,
+      463.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b030",
+    "text": "Assessments (‘DIAs’ or ‘assessments’). The purpose of conducting a DIA is to understand the positive",
+    "bbox": [
+      53.4,
+      462.6,
+      512.3,
+      476.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b031",
+    "text": "and negative consequences of a data management activity. DIAs are a key component of accountability",
+    "bbox": [
+      53.4,
+      475.8,
+      525.2,
+      489.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b032",
+    "text": "mechanisms and can serve to demonstrate compliance with applicable law, regulations, internal policies",
+    "bbox": [
+      53.4,
+      489.0,
+      533.3,
+      502.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b033",
+    "text": "and other guidance.2 Even when not obligatory, a DIA is advisable to help maximize benefits and minimize",
+    "bbox": [
+      53.4,
+      502.2,
+      536.6,
+      516.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b034",
+    "text": "risks associated with operational data management.3",
+    "bbox": [
+      53.4,
+      515.4,
+      297.3,
+      529.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b035",
+    "text": "Operational data management includes the design of data management activities and subsequent",
+    "bbox": [
+      53.4,
+      538.6,
+      504.6,
+      552.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b036",
+    "text": "collection or receipt, storage, processing, analysis, sharing, use, and retention and destruction of data and",
+    "bbox": [
+      53.4,
+      551.8,
+      538.2,
+      565.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b037",
+    "text": "information by humanitarian actors. Examples of common data management activities are registration",
+    "bbox": [
+      53.4,
+      565.0,
+      523.7,
+      578.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b038",
+    "text": "exercises and protection monitoring.",
+    "bbox": [
+      53.4,
+      578.2,
+      223.6,
+      592.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b039",
+    "text": "DIA outcomes may require that an activity be redesigned or cancelled if the foreseeable risks of data",
+    "bbox": [
+      53.4,
+      601.4,
+      510.6,
+      615.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b040",
+    "text": "management outweigh the intended benefits.4 Common risks associated with data management include",
+    "bbox": [
+      53.4,
+      614.6,
+      533.0,
+      628.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b041",
+    "text": "privacy infringements to individuals and groups, affected people being exposed to physical harm or",
+    "bbox": [
+      53.4,
+      627.8,
+      509.0,
+      641.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b042",
+    "text": "persecution, or the risk of misrepresentation and poorly informed decision-making. Common benefits of",
+    "bbox": [
+      53.4,
+      641.0,
+      532.1,
+      654.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b043",
+    "text": "data management activities include better targeting of humanitarian assistance to those in need,",
+    "bbox": [
+      53.4,
+      654.2,
+      497.0,
+      668.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b044",
+    "text": "preventing inefficiency or waste by improved tracking of aid delivery and more detailed understanding of a",
+    "bbox": [
+      53.4,
+      667.4,
+      542.3,
+      681.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 1,
+    "block_id": "48_p1_b045",
+    "text": "crisis situation.",
+    "bbox": [
+      53.4,
+      680.6,
+      122.7,
+      694.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b001",
+    "text": "JULY 2020",
+    "bbox": [
+      280.3,
+      791.7,
+      314.4,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b002",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b003",
+    "text": "5    The International Standardization Organization (ISO) defines risk as ‘the effect of uncertainty on objectives’, which is ‘usually expressed in terms of",
+    "bbox": [
+      53.9,
+      704.7,
+      538.4,
+      713.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b004",
+    "text": "risk sources, potential events, their consequences and their likelihood.’ See the ISO 31000:2018 Risk Management Guidance.",
+    "bbox": [
+      53.9,
+      713.9,
+      468.4,
+      722.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b005",
+    "text": "6  See for example the United Nations Global Pulse Risks, Harms and Benefits Assessment tool.",
+    "bbox": [
+      53.9,
+      725.9,
+      363.2,
+      734.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b006",
+    "text": "7  For an example of a Data Protection Impact Assessment template, see Brussels Privacy Hub (VUB) and International Committee of the Red Cross (ICRC)",
+    "bbox": [
+      53.9,
+      738.0,
+      543.6,
+      746.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b007",
+    "text": "Handbook on Data Protection in Humanitarian Action (2nd edition), 2020, p. 299.",
+    "bbox": [
+      53.9,
+      746.9,
+      325.6,
+      755.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b008",
+    "text": "8    See for example the OHCHR Guiding Principles on Business and Human Rights, and for an example of a human rights centered approach, this",
+    "bbox": [
+      53.9,
+      758.9,
+      523.7,
+      767.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b009",
+    "text": "report on the role of new technologies for the realization of economic, social and cultural rights (in particular para. 46).",
+    "bbox": [
+      53.9,
+      767.9,
+      450.0,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b010",
+    "text": "TYPOLOGY OF ASSESSMENTS",
+    "bbox": [
+      53.9,
+      36.0,
+      230.0,
+      51.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b011",
+    "text": "There are many different approaches to DIAs. Some of the most common include: Risk Assessments; Risks,",
+    "bbox": [
+      53.9,
+      57.7,
+      540.9,
+      71.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b012",
+    "text": "Harms and Benefits Assessments; Human Rights Impact Assessments; and Data Protection or Privacy",
+    "bbox": [
+      53.9,
+      70.9,
+      516.0,
+      84.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b013",
+    "text": "Impact Assessments.",
+    "bbox": [
+      53.9,
+      84.1,
+      152.1,
+      98.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b014",
+    "text": "Even assessments with similar names can cover different focus areas. For example, a Risk Assessment",
+    "bbox": [
+      53.9,
+      108.3,
+      518.8,
+      122.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b015",
+    "text": "for one organization may be broad and cover physical risk to individuals as well as potential rights",
+    "bbox": [
+      53.9,
+      121.5,
+      501.9,
+      135.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b016",
+    "text": "infringements and even expected benefits of data management activities. Other Risk Assessments are",
+    "bbox": [
+      53.9,
+      134.7,
+      519.3,
+      148.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b017",
+    "text": "focused only on the potential negative consequences of data management activities. The differences",
+    "bbox": [
+      53.9,
+      147.9,
+      514.7,
+      161.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b018",
+    "text": "between these approaches can often be explained by the sector or field in which they were developed.",
+    "bbox": [
+      53.9,
+      161.1,
+      522.3,
+      175.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b019",
+    "text": "FOCUS AREAS",
+    "bbox": [
+      52.9,
+      192.5,
+      139.1,
+      207.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b020",
+    "text": "Organisations should consider the following focus areas when selecting a model or tool for undertaking the",
+    "bbox": [
+      53.9,
+      214.0,
+      544.7,
+      227.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b021",
+    "text": "assessment:",
+    "bbox": [
+      53.9,
+      227.2,
+      110.5,
+      241.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b022",
+    "text": "•\t Risk is the likelihood and impact of harm resulting from operational data management.5 Risk is",
+    "bbox": [
+      65.2,
+      248.9,
+      511.7,
+      263.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b023",
+    "text": "included as a focus area in most DIAs.",
+    "bbox": [
+      76.5,
+      262.6,
+      247.8,
+      276.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b024",
+    "text": "•\t Harm consists of a negative consequence of a data management activity for an individual or group of",
+    "bbox": [
+      65.2,
+      284.3,
+      538.8,
+      298.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b025",
+    "text": "individuals. DIAs typically cover harms such as physical harm to individuals, stigmatization of groups",
+    "bbox": [
+      76.5,
+      298.0,
+      537.3,
+      311.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b026",
+    "text": "and the impairment of aid delivery. Such harm can impact different stakeholders, including affected",
+    "bbox": [
+      76.5,
+      311.2,
+      533.9,
+      325.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b027",
+    "text": "people and aid workers.",
+    "bbox": [
+      76.5,
+      324.4,
+      188.7,
+      338.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b028",
+    "text": "•\t Benefit relates to the potential positive impact of data management, often measured in the provision",
+    "bbox": [
+      65.2,
+      346.1,
+      540.8,
+      360.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b029",
+    "text": "of humanitarian aid or resource efficiency gains.6 Operational data management can benefit various",
+    "bbox": [
+      76.5,
+      359.8,
+      533.8,
+      373.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b030",
+    "text": "stakeholders, with an inherent focus on affected people.",
+    "bbox": [
+      76.5,
+      373.0,
+      333.0,
+      386.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b031",
+    "text": "•\t Privacy involves determining whether individual (and sometimes group) privacy is respected in data",
+    "bbox": [
+      65.2,
+      394.7,
+      537.0,
+      409.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b032",
+    "text": "management. This focus area often relates to applicable rules or legislation.",
+    "bbox": [
+      76.5,
+      408.4,
+      421.9,
+      422.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b033",
+    "text": "•\t Data protection comprises a broader set of laws and regulations regarding data management,",
+    "bbox": [
+      65.2,
+      430.1,
+      509.4,
+      444.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b034",
+    "text": "including the protection of privacy. Like the privacy focus area, this often relates to applicable rules or",
+    "bbox": [
+      76.5,
+      443.8,
+      541.3,
+      457.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b035",
+    "text": "legislation.7",
+    "bbox": [
+      76.5,
+      457.0,
+      133.6,
+      470.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b036",
+    "text": "•\t Human rights covers fundamental rights including the right to privacy, the right to life and other",
+    "bbox": [
+      65.2,
+      478.7,
+      518.6,
+      493.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b037",
+    "text": "rights that are relevant in humanitarian response situations.8",
+    "bbox": [
+      76.5,
+      492.4,
+      353.8,
+      506.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b038",
+    "text": "DIAs can take into account one or more of these focus areas. Variations reflect the applicability of legal",
+    "bbox": [
+      53.9,
+      518.8,
+      521.4,
+      532.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b039",
+    "text": "frameworks, organizational priorities and other factors, and can mean that one assessment is better suited",
+    "bbox": [
+      53.9,
+      532.0,
+      541.8,
+      545.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b040",
+    "text": "than others in a given context.",
+    "bbox": [
+      53.9,
+      545.2,
+      191.4,
+      559.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b041",
+    "text": "Answer the following questions to determine whether an assessment is needed and if so, which areas to",
+    "bbox": [
+      53.6,
+      597.2,
+      528.8,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b042",
+    "text": "focus on:",
+    "bbox": [
+      53.6,
+      610.4,
+      95.2,
+      624.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b043",
+    "text": "1.\tIs a specific assessment required by applicable laws and regulations?",
+    "bbox": [
+      63.6,
+      632.1,
+      408.8,
+      646.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b044",
+    "text": "Applicable laws and regulations will often prescribe that an assessment should be conducted and",
+    "bbox": [
+      76.3,
+      648.6,
+      522.6,
+      662.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b045",
+    "text": "which focus areas should be included. Required DIAs may be supplemented by additional steps,",
+    "bbox": [
+      76.3,
+      661.8,
+      515.6,
+      675.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b046",
+    "text": "either taken from existing templates or designed for the data management activity at hand.",
+    "bbox": [
+      76.3,
+      675.0,
+      492.0,
+      688.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 2,
+    "block_id": "48_p2_b047",
+    "text": "DECIDING TO DO AN ASSESSMENT",
+    "bbox": [
+      52.7,
+      576.6,
+      263.2,
+      591.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b001",
+    "text": "JULY 2020",
+    "bbox": [
+      280.3,
+      791.7,
+      314.4,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b002",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b003",
+    "text": "9   See for an example of a template Data Impact Assessment this RFL template for National Red Cross and Red Crescent Societies.",
+    "bbox": [
+      53.9,
+      713.8,
+      466.4,
+      722.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b004",
+    "text": "10 The UN Global Pulse tool is grounded in the UN Principles on Personal Data Protection and Privacy and UNSDG Guidance Note on Data Privacy,",
+    "bbox": [
+      53.9,
+      725.8,
+      530.9,
+      734.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b005",
+    "text": "Data Protection and Data Ethics as well as other relevant international instruments.",
+    "bbox": [
+      53.9,
+      735.2,
+      330.8,
+      743.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b006",
+    "text": "11   Brussels Privacy Hub (VUB) and International Committee of the Red Cross (ICRC) Handbook on Data Protection in Humanitarian Action (2nd",
+    "bbox": [
+      53.9,
+      747.1,
+      522.3,
+      755.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b007",
+    "text": "edition), 2020, p. 299.",
+    "bbox": [
+      53.9,
+      756.1,
+      128.3,
+      764.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b008",
+    "text": "12  RFL template for National Red Cross and Red Crescent Societies.",
+    "bbox": [
+      53.9,
+      768.1,
+      271.3,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b009",
+    "text": "2.\tDo internal organisational policies require that a specific assessment be conducted?",
+    "bbox": [
+      63.9,
+      44.9,
+      483.3,
+      59.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b010",
+    "text": "Where internal guidance regarding the preparation for data management activities is available,",
+    "bbox": [
+      76.6,
+      61.4,
+      511.1,
+      75.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b011",
+    "text": "always follow such guidance. Depending on the circumstances of the activity, additional steps may be",
+    "bbox": [
+      76.6,
+      74.6,
+      542.1,
+      88.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b012",
+    "text": "added to mandatory assessments.9",
+    "bbox": [
+      76.6,
+      87.8,
+      237.2,
+      101.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b013",
+    "text": "3.\tDoes the activity entail the management of sensitive data?",
+    "bbox": [
+      63.9,
+      109.5,
+      361.2,
+      124.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b014",
+    "text": "Data is classified as sensitive based on the likelihood and severity of potential harm that may",
+    "bbox": [
+      76.6,
+      126.0,
+      501.8,
+      139.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b015",
+    "text": "materialize as a result of its exposure in a particular context. Both personal and non-personal data",
+    "bbox": [
+      76.6,
+      139.2,
+      525.3,
+      153.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b016",
+    "text": "can be sensitive. A DIA should always be conducted if such data is likely to be managed in a given",
+    "bbox": [
+      76.6,
+      152.4,
+      519.5,
+      166.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b017",
+    "text": "activity.",
+    "bbox": [
+      76.6,
+      165.6,
+      114.8,
+      179.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b018",
+    "text": "4.\tIs data management taking place in a particularly sensitive response context?",
+    "bbox": [
+      63.9,
+      187.3,
+      452.7,
+      201.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b019",
+    "text": "Incertain operational settings, humanitarian data management activities warrant additional caution.",
+    "bbox": [
+      76.6,
+      203.8,
+      537.7,
+      217.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b020",
+    "text": "A context can be sensitive due to specific vulnerabilities of affected people, the value of their data to",
+    "bbox": [
+      76.6,
+      217.0,
+      533.7,
+      230.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b021",
+    "text": "parties that may wish to subject them to harm or the legal obligations — lawful or unlawful — with",
+    "bbox": [
+      76.6,
+      230.2,
+      525.6,
+      244.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b022",
+    "text": "which the actors involved must comply. Where private actors are involved, consider issues around",
+    "bbox": [
+      76.6,
+      243.4,
+      524.3,
+      257.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b023",
+    "text": "data access, governance and ownership.",
+    "bbox": [
+      76.6,
+      256.6,
+      263.0,
+      270.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b024",
+    "text": "5.\tWill the data management activity be systematic or large-scale?",
+    "bbox": [
+      65.3,
+      278.3,
+      387.8,
+      292.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b025",
+    "text": "Systematic and/or large-scale data management activities require assessments that account for a",
+    "bbox": [
+      78.1,
+      294.8,
+      524.1,
+      308.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b026",
+    "text": "longer timeframe and include plans to update or repeat the assessment at a later stage. Examples",
+    "bbox": [
+      78.1,
+      308.0,
+      524.5,
+      321.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b027",
+    "text": "include annual Multi-Cluster Needs Assessments or a country-wide beneficiary registration system.",
+    "bbox": [
+      78.1,
+      321.2,
+      530.7,
+      335.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b028",
+    "text": "If any of these questions is answered with ‘yes’, an assessment should be conducted. Even if the answer to",
+    "bbox": [
+      54.0,
+      347.6,
+      538.2,
+      361.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b029",
+    "text": "each of these questions is ‘no’, a creating a basic list of benefits and risks associated with the data",
+    "bbox": [
+      54.0,
+      360.8,
+      498.8,
+      374.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b030",
+    "text": "management activity is still recommended.",
+    "bbox": [
+      54.0,
+      374.0,
+      251.5,
+      387.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b031",
+    "text": "Always check to see if an assessment has been conducted previously for a linked or similar data",
+    "bbox": [
+      54.0,
+      400.4,
+      490.5,
+      414.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b032",
+    "text": "management activity. This will help inform whether a DIA covering all relevant focus areas is still needed",
+    "bbox": [
+      54.0,
+      413.6,
+      530.4,
+      427.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b033",
+    "text": "for the current activity or whether gaps between the two activities can be assessed instead. Any other",
+    "bbox": [
+      54.0,
+      426.8,
+      517.4,
+      440.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b034",
+    "text": "relevant information regarding the similar data management activity — such as a past data breach —",
+    "bbox": [
+      54.0,
+      440.0,
+      514.0,
+      453.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b035",
+    "text": "should be taken into account when conducting a DIA of the new activity.",
+    "bbox": [
+      54.0,
+      453.2,
+      382.1,
+      467.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b036",
+    "text": "TOOLS FOR ASSESSMENTS",
+    "bbox": [
+      53.8,
+      487.8,
+      215.1,
+      502.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b037",
+    "text": "While there is no single approach to DIAs across the humanitarian sector, there are various publicly",
+    "bbox": [
+      53.7,
+      512.4,
+      505.8,
+      526.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b038",
+    "text": "available tools and templates that can be adapted by humanitarians. Notable examples include the",
+    "bbox": [
+      53.7,
+      525.6,
+      507.9,
+      539.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b039",
+    "text": "following:",
+    "bbox": [
+      53.7,
+      538.8,
+      101.4,
+      552.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b040",
+    "text": "•\t UN Global Pulse has developed a Risk, Harms and Benefits Assessment tool, which focuses on data",
+    "bbox": [
+      65.1,
+      561.0,
+      528.7,
+      574.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b041",
+    "text": "protection, privacy and ethics. It is designed to assess data and artificial intelligence innovation",
+    "bbox": [
+      76.4,
+      574.2,
+      512.3,
+      588.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b042",
+    "text": "projects. The tool is a combination of a human rights and data privacy impact assessment.10",
+    "bbox": [
+      76.4,
+      587.4,
+      494.0,
+      601.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b043",
+    "text": "•\t The International Committee of the Red Cross and the Brussels Privacy Hub promote the use of a Data",
+    "bbox": [
+      65.1,
+      609.6,
+      542.3,
+      623.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b044",
+    "text": "Protection Impact Assessment. The template can be found in the second edition of their Handbook on",
+    "bbox": [
+      76.4,
+      622.8,
+      543.6,
+      636.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b045",
+    "text": "Data Protection in Humanitarian Action.11",
+    "bbox": [
+      76.4,
+      636.0,
+      265.2,
+      649.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b046",
+    "text": "•\t The International Red Cross and Red Crescent Movement uses a data impact assessment that is",
+    "bbox": [
+      65.1,
+      658.2,
+      512.2,
+      672.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 3,
+    "block_id": "48_p3_b047",
+    "text": "focused on data protection when restoring family links.12",
+    "bbox": [
+      76.4,
+      671.4,
+      334.0,
+      685.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b001",
+    "text": "JULY 2020",
+    "bbox": [
+      280.3,
+      791.7,
+      314.4,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b002",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b003",
+    "text": "13  Privacy International and ICRC report ‘The Humanitarian Metadata Problem: “Doing No Harm” In The Digital Era’, October 2018.",
+    "bbox": [
+      53.9,
+      768.2,
+      478.3,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b004",
+    "text": "Mapping structures in refugee settlements with satellite imagery",
+    "bbox": [
+      65.5,
+      56.7,
+      379.5,
+      69.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b005",
+    "text": "UN Global Pulse",
+    "bbox": [
+      65.5,
+      70.6,
+      129.9,
+      81.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b006",
+    "text": "UN Global Pulse used its Risk, Harms and Benefits Assessment in a project involving the use of satellite",
+    "bbox": [
+      65.5,
+      97.6,
+      534.6,
+      111.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b007",
+    "text": "imagery assisted by neural networks to map structures in refugee settlements. The assessment was",
+    "bbox": [
+      65.5,
+      110.8,
+      520.0,
+      124.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b008",
+    "text": "undertaken by a diverse team of experts, from legal and policy specialists to technical and programme",
+    "bbox": [
+      65.5,
+      124.0,
+      533.2,
+      137.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b009",
+    "text": "staff.",
+    "bbox": [
+      65.5,
+      137.2,
+      89.6,
+      151.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b010",
+    "text": "The assessment highlighted that satellite imagery could be used to reveal the location of vulnerable",
+    "bbox": [
+      65.5,
+      161.4,
+      522.0,
+      175.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b011",
+    "text": "groups of individuals in refugee camps. Malicious actors may be able to undertake harmful misuse",
+    "bbox": [
+      65.5,
+      174.6,
+      514.9,
+      188.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b012",
+    "text": "of the analysis resulting in potential fundamental rights violations and other harms. Knowing the",
+    "bbox": [
+      65.5,
+      187.8,
+      508.9,
+      201.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b013",
+    "text": "location of individuals in a conflict setting could lead to persecution, discrimination, physical harm or",
+    "bbox": [
+      65.5,
+      201.0,
+      529.2,
+      214.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b014",
+    "text": "even death. Possible algorithmic failure or bias could result in certain groups of individuals being left",
+    "bbox": [
+      65.5,
+      214.2,
+      525.4,
+      228.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b015",
+    "text": "unaccounted for and without assistance.",
+    "bbox": [
+      65.5,
+      227.4,
+      250.9,
+      241.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b016",
+    "text": "As a result of the assessment, the team identified mitigation measures that included reviewing the",
+    "bbox": [
+      65.5,
+      251.6,
+      515.5,
+      265.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b017",
+    "text": "security and retention measures of the data, algorithm training for personnel, and policy clarifications,",
+    "bbox": [
+      65.5,
+      264.8,
+      534.5,
+      278.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b018",
+    "text": "such as placing limits on public release of results. The risks were regularly re-evaluated throughout",
+    "bbox": [
+      65.4,
+      278.0,
+      517.9,
+      291.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b019",
+    "text": "the project as the technology and data sources evolved.",
+    "bbox": [
+      65.4,
+      291.2,
+      319.8,
+      305.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b020",
+    "text": "CONDUCTING THE ASSESSMENT",
+    "bbox": [
+      53.9,
+      337.8,
+      247.3,
+      352.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b021",
+    "text": "The following steps will help organizations ensure that a DIA is successful:",
+    "bbox": [
+      53.9,
+      362.4,
+      389.1,
+      376.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b022",
+    "text": "1.\tInvolve internal and external stakeholders with the right expertise",
+    "bbox": [
+      63.8,
+      386.2,
+      399.4,
+      400.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b023",
+    "text": "The roles and expertise needed to design and apply the DIA will vary based on the type of assessment,",
+    "bbox": [
+      76.5,
+      402.6,
+      543.6,
+      416.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b024",
+    "text": "as well as the type and scale of the activity that will be assessed. Relevant expertise includes:",
+    "bbox": [
+      76.5,
+      415.8,
+      501.6,
+      429.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b025",
+    "text": "•\t Legal and compliance expertise in data protection, privacy and human rights",
+    "bbox": [
+      76.5,
+      435.8,
+      437.1,
+      449.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b026",
+    "text": "•\t Technical understanding of the data management activity",
+    "bbox": [
+      76.5,
+      451.9,
+      351.6,
+      465.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b027",
+    "text": "•\t Knowledge of the context in which the data management activity is taking place",
+    "bbox": [
+      76.5,
+      467.9,
+      451.8,
+      481.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b028",
+    "text": "2.\tClarify the consequences of possible assessment outcomes",
+    "bbox": [
+      63.8,
+      491.6,
+      362.1,
+      506.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b029",
+    "text": "Define the potential outcomes and their consequences ahead of the DIA. An assessment typically",
+    "bbox": [
+      76.6,
+      508.1,
+      519.6,
+      521.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b030",
+    "text": "leads to any of the following outcomes:",
+    "bbox": [
+      76.6,
+      521.3,
+      255.6,
+      535.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b031",
+    "text": "A.\tThe negative consequences associated with data management are non-existent or negligible. In",
+    "bbox": [
+      76.6,
+      545.5,
+      525.8,
+      559.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b032",
+    "text": "these cases, the data management activity can continue.",
+    "bbox": [
+      87.9,
+      558.7,
+      346.9,
+      572.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b033",
+    "text": "B.\tThe negative consequences are minimal and can be mitigated to be in balance with expected",
+    "bbox": [
+      76.6,
+      580.9,
+      513.1,
+      594.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b034",
+    "text": "benefits.",
+    "bbox": [
+      87.9,
+      594.1,
+      127.8,
+      607.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b035",
+    "text": "C.\tThe negative consequences are unacceptable. To continue, the design of the data management",
+    "bbox": [
+      76.6,
+      616.3,
+      523.8,
+      630.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b036",
+    "text": "activity should be revisited. Once negative consequences are brought into balance with the",
+    "bbox": [
+      87.9,
+      629.5,
+      504.7,
+      643.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b037",
+    "text": "expected benefits, the activity can continue.",
+    "bbox": [
+      87.9,
+      642.7,
+      289.2,
+      656.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b038",
+    "text": "D.\tThe negative consequences are unacceptable and cannot be mitigated. In such cases, the data",
+    "bbox": [
+      76.6,
+      664.9,
+      519.0,
+      678.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b039",
+    "text": "management activity should be cancelled.",
+    "bbox": [
+      87.9,
+      678.1,
+      281.2,
+      691.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b040",
+    "text": "3.\tAdapt the assessment to the context",
+    "bbox": [
+      63.8,
+      701.8,
+      251.6,
+      716.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b041",
+    "text": "The assessment may need to be adapted to the context in which the data management activity takes",
+    "bbox": [
+      76.6,
+      718.3,
+      537.2,
+      732.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b042",
+    "text": "place. This involves adding additional focus areas as needed in order to assess  context-specific risks",
+    "bbox": [
+      76.6,
+      731.5,
+      535.4,
+      745.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 4,
+    "block_id": "48_p4_b043",
+    "text": "or concerns of affected people.13",
+    "bbox": [
+      76.6,
+      744.7,
+      224.0,
+      758.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b001",
+    "text": "JULY 2020",
+    "bbox": [
+      280.3,
+      791.7,
+      314.4,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b002",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      183.7,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b003",
+    "text": "4.\tDetermine when to reassess",
+    "bbox": [
+      63.8,
+      37.2,
+      212.0,
+      51.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b004",
+    "text": "Since data management and the context in which it takes place are not static, regular reassessments",
+    "bbox": [
+      76.5,
+      53.7,
+      534.8,
+      67.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b005",
+    "text": "should be scheduled at the outset of an activity. The conditions under which a reassessment may be",
+    "bbox": [
+      76.5,
+      66.9,
+      535.1,
+      80.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b006",
+    "text": "required — such as a significant change in data management or the context in which it takes place —",
+    "bbox": [
+      76.5,
+      80.1,
+      535.0,
+      94.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b007",
+    "text": "should also be determined.",
+    "bbox": [
+      76.5,
+      93.3,
+      201.5,
+      107.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b008",
+    "text": "5.\tMake a distribution plan",
+    "bbox": [
+      63.8,
+      117.0,
+      196.1,
+      131.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b009",
+    "text": "Decide who should be able to access the assessment results and be clear about how the results will be",
+    "bbox": [
+      76.5,
+      133.5,
+      544.0,
+      147.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b010",
+    "text": "shared with different audiences.",
+    "bbox": [
+      76.5,
+      146.7,
+      225.9,
+      160.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b011",
+    "text": "RECOMMENDATIONS FOR IMPROVING THE USE OF DIAS",
+    "bbox": [
+      53.5,
+      182.2,
+      391.0,
+      197.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b012",
+    "text": "The Centre and the collaborators on this guidance note recommend that organizations focus on the",
+    "bbox": [
+      53.4,
+      204.9,
+      508.4,
+      218.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b013",
+    "text": "following areas to improve the use of DIAs for operational data management:",
+    "bbox": [
+      53.4,
+      218.1,
+      404.5,
+      232.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b014",
+    "text": "1.\tDesigning standard assessment tools",
+    "bbox": [
+      63.4,
+      241.8,
+      254.9,
+      256.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b015",
+    "text": "Taking a standardized approach to DIAs and adjusting it for the given context reduces friction and",
+    "bbox": [
+      76.1,
+      258.3,
+      521.3,
+      272.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b016",
+    "text": "saves time. Organizations can draw on commonly used and established assessment tools to design",
+    "bbox": [
+      76.1,
+      271.5,
+      528.9,
+      285.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b017",
+    "text": "their own standard approach. Submitting a tool for internal legal and management review and",
+    "bbox": [
+      76.1,
+      284.7,
+      508.8,
+      298.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b018",
+    "text": "endorsement helps streamline its future use.",
+    "bbox": [
+      76.1,
+      297.9,
+      280.3,
+      311.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b019",
+    "text": "2.\tDevelop the capacity to conduct assessments",
+    "bbox": [
+      63.4,
+      321.6,
+      294.3,
+      336.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b020",
+    "text": "Identifying, developing and updating the skills required for assessments helps prevent delays in",
+    "bbox": [
+      76.1,
+      338.1,
+      514.9,
+      352.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b021",
+    "text": "conducting DIAs and reduces the chance of flawed or incomplete assessment outcomes.",
+    "bbox": [
+      76.1,
+      351.3,
+      478.0,
+      365.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b022",
+    "text": "3.\tShare data impact assessment results",
+    "bbox": [
+      63.4,
+      375.0,
+      260.5,
+      389.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b023",
+    "text": "Assessment results should be shared to the extent possible and as long as it does not expose",
+    "bbox": [
+      76.1,
+      391.5,
+      499.7,
+      405.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b024",
+    "text": "confidential or otherwise sensitive information.",
+    "bbox": [
+      76.1,
+      404.7,
+      293.0,
+      418.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b025",
+    "text": "Organizations are encouraged to share their experience in assessing the positive and negative",
+    "bbox": [
+      53.4,
+      431.1,
+      481.7,
+      445.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b026",
+    "text": "consequences of operational data management with the Centre via centrehumdata@un.org.",
+    "bbox": [
+      53.4,
+      444.1,
+      478.3,
+      458.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b027",
+    "text": "This project is co-funded",
+    "bbox": [
+      54.0,
+      742.9,
+      136.4,
+      752.5
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b028",
+    "text": "by the European Union",
+    "bbox": [
+      54.0,
+      752.0,
+      128.5,
+      761.7
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b029",
+    "text": "This document covers humanitarian aid activities implemented with the financial assistance of the",
+    "bbox": [
+      145.7,
+      683.3,
+      514.9,
+      694.7
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b030",
+    "text": "European Union. The views expressed herein should not be taken, in any way, to reflect the official opinion",
+    "bbox": [
+      145.7,
+      694.1,
+      544.1,
+      705.5
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b031",
+    "text": "of the European Union, and the European Commission is not responsible for any use that may be made of",
+    "bbox": [
+      145.7,
+      704.9,
+      540.8,
+      716.3
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b032",
+    "text": "the information it contains.",
+    "bbox": [
+      145.7,
+      715.7,
+      247.6,
+      727.1
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b033",
+    "text": "COLLABORATORS: UN GLOBAL PULSE; THE INTERNATIONAL COMMITTEE OF THE RED CROSS; PRIVACY INTERNATIONAL.",
+    "bbox": [
+      53.6,
+      563.0,
+      531.3,
+      575.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b034",
+    "text": "The Centre for Humanitarian Data ('the Center'), together with key partners, is publishing a series of eight",
+    "bbox": [
+      65.2,
+      592.4,
+      506.7,
+      605.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b035",
+    "text": "guidance notes on Data Responsibility in Humanitarian Action over the course of 2019 and 2020. The Guidance",
+    "bbox": [
+      65.2,
+      604.8,
+      524.0,
+      617.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b036",
+    "text": "Note series follows the publication of the OCHA Data Responsibility Guidelines in March 2019. Through",
+    "bbox": [
+      65.2,
+      616.6,
+      495.5,
+      629.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b037",
+    "text": "the series, the Centre aims to provide additional guidance on specific issues, processes and tools for data",
+    "bbox": [
+      65.2,
+      628.8,
+      502.1,
+      641.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b038",
+    "text": "responsibility in practice. This series is made possible with the generous support of the Directorate-General for",
+    "bbox": [
+      65.2,
+      640.8,
+      524.5,
+      653.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "48",
+    "page_number": 5,
+    "block_id": "48_p5_b039",
+    "text": "European Civil Protection and Humanitarian Aid Operations (DG ECHO).",
+    "bbox": [
+      65.2,
+      652.8,
+      361.7,
+      665.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

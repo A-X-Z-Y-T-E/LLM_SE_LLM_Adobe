@@ -1,0 +1,1262 @@
+[
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b001",
+    "text": "Sounding Box Activity",
+    "bbox": [
+      90.0,
+      72.6,
+      228.1,
+      88.1
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b002",
+    "text": "OCS Hydrography Kids’ Kit",
+    "bbox": [
+      90.0,
+      88.4,
+      231.4,
+      101.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b003",
+    "text": "Revised January 29, 2007",
+    "bbox": [
+      90.0,
+      102.2,
+      217.0,
+      115.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b004",
+    "text": "Best for Ages 8 -12",
+    "bbox": [
+      90.0,
+      129.8,
+      195.0,
+      143.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b005",
+    "text": "Introduction",
+    "bbox": [
+      90.0,
+      171.3,
+      155.3,
+      184.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b006",
+    "text": "Now that you know a little about some of the methods used to chart ocean depths,",
+    "bbox": [
+      126.0,
+      191.9,
+      522.3,
+      205.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b007",
+    "text": "it’s time to put one of these sampling techniques to the test.  This activity is modeled after",
+    "bbox": [
+      90.0,
+      212.6,
+      525.0,
+      225.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b008",
+    "text": "the lead line sampling method, the method scientists used before the introduction of",
+    "bbox": [
+      90.0,
+      233.3,
+      495.2,
+      246.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b009",
+    "text": "sonar.  You will play the part of a hydrographer and survey an imaginary ocean. You will",
+    "bbox": [
+      90.0,
+      254.0,
+      523.0,
+      267.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b010",
+    "text": "chart the water depths so that ships can safely navigate through your “ocean”.  You will",
+    "bbox": [
+      90.0,
+      274.7,
+      514.3,
+      288.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b011",
+    "text": "need to be careful with the survey and not miss any parts on your seafloor. Accurate",
+    "bbox": [
+      90.0,
+      295.4,
+      496.9,
+      308.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b012",
+    "text": "maps are needed to find shallow points of a busy port or objects sticking up from the sea",
+    "bbox": [
+      90.0,
+      316.1,
+      518.0,
+      329.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b013",
+    "text": "bottom!",
+    "bbox": [
+      90.0,
+      336.8,
+      137.0,
+      350.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b014",
+    "text": "How Do I Make a Sounding Box?",
+    "bbox": [
+      90.0,
+      378.3,
+      264.4,
+      391.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b015",
+    "text": "Your sounding box can be made out of a small box like a shoe box. You can use",
+    "bbox": [
+      126.0,
+      398.9,
+      515.0,
+      412.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b016",
+    "text": "rocks, gravel, dirt, and sand with different shaped objects to represent different landforms",
+    "bbox": [
+      90.0,
+      419.6,
+      523.1,
+      432.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b017",
+    "text": "on the bottom or various surprises found during surveying.  Pieces of building sets, toy",
+    "bbox": [
+      90.0,
+      440.3,
+      510.3,
+      453.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b018",
+    "text": "planes, and small boats are all good ways to represent airplanes and ships that sometimes",
+    "bbox": [
+      90.0,
+      461.0,
+      520.6,
+      474.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b019",
+    "text": "sink and come to rest on the ocean floor. Aluminum foil to cover the box is the best way",
+    "bbox": [
+      90.0,
+      481.7,
+      517.3,
+      495.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b020",
+    "text": "to represent the water surface.",
+    "bbox": [
+      90.0,
+      502.4,
+      240.3,
+      515.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b021",
+    "text": "If you’re interested in making your sounding box an irresistible snack, you can",
+    "bbox": [
+      126.0,
+      523.1,
+      507.3,
+      536.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b022",
+    "text": "use graham crackers, candy, and Jell-O to make an edible version of your sounding box.",
+    "bbox": [
+      90.0,
+      543.8,
+      519.6,
+      557.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b023",
+    "text": "Design the seafloor of your box and place all of the items in the box. Cover your",
+    "bbox": [
+      126.0,
+      564.5,
+      516.0,
+      577.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b024",
+    "text": "box with aluminum foil so you can’t see below the surface of the “water.” You can either",
+    "bbox": [
+      90.0,
+      585.2,
+      522.0,
+      598.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b025",
+    "text": "make your own sounding box, or you can work in pairs or in a group to make separate",
+    "bbox": [
+      90.0,
+      605.9,
+      506.9,
+      619.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 1,
+    "block_id": "204_p1_b026",
+    "text": "boxes and then trade with each other to explore your own personal oceans!",
+    "bbox": [
+      90.0,
+      626.6,
+      458.2,
+      639.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b001",
+    "text": "Example of Handmade Sounding Box without the aluminum foil",
+    "bbox": [
+      90.0,
+      304.4,
+      422.4,
+      317.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b002",
+    "text": "Materials for Taking Depth Measurements",
+    "bbox": [
+      90.0,
+      345.8,
+      313.0,
+      359.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b003",
+    "text": "Sounding box covered with aluminum foil",
+    "bbox": [
+      90.0,
+      366.3,
+      296.6,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b004",
+    "text": "Long, skinny stick: bamboo skewer, long pencil, knitting needle or a dowel",
+    "bbox": [
+      90.0,
+      387.0,
+      455.0,
+      400.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b005",
+    "text": "2 copies of “Depth Chart” grid (last page of this document)",
+    "bbox": [
+      90.0,
+      407.7,
+      377.6,
+      421.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b006",
+    "text": "1 copy of a “Color Coded Depth Scale”",
+    "bbox": [
+      90.0,
+      428.4,
+      286.4,
+      441.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b007",
+    "text": "Pencil",
+    "bbox": [
+      90.0,
+      449.1,
+      126.1,
+      462.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b008",
+    "text": "Crayons, Pencils or Markers",
+    "bbox": [
+      90.0,
+      469.8,
+      229.7,
+      483.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b009",
+    "text": "What to Do",
+    "bbox": [
+      90.0,
+      490.7,
+      152.3,
+      504.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b010",
+    "text": "1. Have your “Color Coded Depth Scale” ready: color each grid",
+    "bbox": [
+      108.0,
+      511.1,
+      424.0,
+      524.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b011",
+    "text": "that is next to a number in a different color of your choice.",
+    "bbox": [
+      126.0,
+      531.9,
+      410.0,
+      545.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b012",
+    "text": "Example: #1 – Red, #2 – Orange, etc.",
+    "bbox": [
+      126.0,
+      552.6,
+      309.6,
+      565.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b013",
+    "text": "2. Get a copy of the “Depth Chart” and a small sharp object. Poke a",
+    "bbox": [
+      108.0,
+      573.2,
+      441.6,
+      586.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b014",
+    "text": "small hole in each square of the “Depth Chart” so that you can",
+    "bbox": [
+      126.0,
+      594.0,
+      429.0,
+      607.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b015",
+    "text": "easily push through your bamboo skewer through each square of",
+    "bbox": [
+      126.0,
+      614.7,
+      439.2,
+      628.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b016",
+    "text": "the grid. Tape the “Depth Chart” on top of the aluminum foil that",
+    "bbox": [
+      126.0,
+      635.4,
+      442.7,
+      648.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b017",
+    "text": "covers the box.",
+    "bbox": [
+      126.0,
+      656.1,
+      202.0,
+      669.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b018",
+    "text": "3. Position the stick carefully into the first spot you want to sample.",
+    "bbox": [
+      108.0,
+      676.6,
+      441.6,
+      690.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 2,
+    "block_id": "204_p2_b019",
+    "text": "(grid 1,1 )",
+    "bbox": [
+      126.0,
+      697.5,
+      177.4,
+      710.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b001",
+    "text": "4. Measure “depths” by gently pushing the long and skinny stick through the Depth",
+    "bbox": [
+      108.0,
+      72.2,
+      517.6,
+      85.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b002",
+    "text": "Chart and cover of the sounding box until it hits something on the bottom.",
+    "bbox": [
+      126.0,
+      93.0,
+      488.1,
+      106.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b003",
+    "text": "5. Pinch your fingers around the stick where it is even with the cover.",
+    "bbox": [
+      108.0,
+      113.6,
+      450.6,
+      127.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b004",
+    "text": "6. Measure the distance from the end of the stick to your fingers using the Color",
+    "bbox": [
+      108.0,
+      155.0,
+      501.5,
+      168.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b005",
+    "text": "Coded scale. What is the color that corresponds to that distance?",
+    "bbox": [
+      126.0,
+      175.8,
+      438.6,
+      189.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b006",
+    "text": "7. On your second copy of the “Depth Chart” color the first grid  (1,1) with the color",
+    "bbox": [
+      108.0,
+      217.1,
+      523.3,
+      230.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b007",
+    "text": "that corresponds to the distance that you measured.",
+    "bbox": [
+      126.0,
+      237.9,
+      374.3,
+      251.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b008",
+    "text": "8. Repeat steps 4-7 at each point marked on the grid on the box.",
+    "bbox": [
+      108.0,
+      279.2,
+      426.2,
+      292.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b009",
+    "text": "Record each measurement in the proper place on the depth chart.",
+    "bbox": [
+      126.0,
+      300.0,
+      443.6,
+      313.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b010",
+    "text": "When you have finished, each square on the Depth chart should",
+    "bbox": [
+      126.0,
+      320.7,
+      435.3,
+      334.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b011",
+    "text": "be colored. (see the example here and below)",
+    "bbox": [
+      126.0,
+      341.4,
+      346.3,
+      354.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b012",
+    "text": "9. Draw lines that connect grid boxes that have the same colors to",
+    "bbox": [
+      108.0,
+      382.7,
+      432.6,
+      396.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b013",
+    "text": "show what objects or landforms are on the bottom of your",
+    "bbox": [
+      126.0,
+      403.5,
+      407.6,
+      416.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b014",
+    "text": "seafloor. (see  example here and below)",
+    "bbox": [
+      126.0,
+      424.2,
+      319.9,
+      437.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b015",
+    "text": "10. Carefully take the aluminum foil off and compare your plotting sheet to the",
+    "bbox": [
+      108.0,
+      465.4,
+      490.9,
+      478.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b016",
+    "text": "bottom of the box. Did you find all of the objects or landforms on the bottom of",
+    "bbox": [
+      126.0,
+      486.3,
+      511.8,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b017",
+    "text": "your seafloor?  Why or why not?",
+    "bbox": [
+      126.0,
+      507.0,
+      287.8,
+      520.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b018",
+    "text": "Step8",
+    "bbox": [
+      239.3,
+      569.2,
+      277.0,
+      582.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 3,
+    "block_id": "204_p3_b019",
+    "text": "Step9",
+    "bbox": [
+      239.3,
+      665.8,
+      283.0,
+      679.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 4,
+    "block_id": "204_p4_b001",
+    "text": "Color Coded Depth Scale",
+    "bbox": [
+      229.7,
+      58.3,
+      377.0,
+      71.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 4,
+    "block_id": "204_p4_b002",
+    "text": "Print and Color in Your Favorite",
+    "bbox": [
+      211.0,
+      72.1,
+      395.8,
+      85.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 4,
+    "block_id": "204_p4_b003",
+    "text": "Colors",
+    "bbox": [
+      282.7,
+      86.2,
+      324.0,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 5,
+    "block_id": "204_p5_b001",
+    "text": "Depth Chart",
+    "bbox": [
+      252.5,
+      49.4,
+      336.5,
+      65.0
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 5,
+    "block_id": "204_p5_b002",
+    "text": "Print and make 2 copies of this chart:",
+    "bbox": [
+      185.9,
+      65.4,
+      406.0,
+      78.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 5,
+    "block_id": "204_p5_b003",
+    "text": "Paste one copy on top of the box",
+    "bbox": [
+      205.6,
+      79.2,
+      397.7,
+      92.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 5,
+    "block_id": "204_p5_b004",
+    "text": "Use second copy to color in your",
+    "bbox": [
+      205.6,
+      93.0,
+      398.4,
+      106.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 5,
+    "block_id": "204_p5_b005",
+    "text": "measurement results",
+    "bbox": [
+      205.6,
+      107.1,
+      333.0,
+      120.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b001",
+    "text": "Questions to Think About",
+    "bbox": [
+      90.0,
+      100.1,
+      226.0,
+      113.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b002",
+    "text": "1. What type of old hydrographic surveying method is most like the sounding box",
+    "bbox": [
+      108.0,
+      141.2,
+      510.3,
+      154.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b003",
+    "text": "activity?",
+    "bbox": [
+      126.0,
+      162.0,
+      170.4,
+      175.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b004",
+    "text": "2. Do you think we still have charts that use information from lead line surveying?",
+    "bbox": [
+      108.0,
+      182.6,
+      513.3,
+      196.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b005",
+    "text": "3. What could happen if the depth information we have from old surveys is out of",
+    "bbox": [
+      108.0,
+      203.3,
+      508.9,
+      216.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b006",
+    "text": "date?",
+    "bbox": [
+      126.0,
+      224.1,
+      160.4,
+      237.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b007",
+    "text": "4.  Look at the different depths you marked on your plotting chart.  What was the",
+    "bbox": [
+      108.0,
+      244.8,
+      503.9,
+      258.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b008",
+    "text": "most shallow depth you found?",
+    "bbox": [
+      126.0,
+      265.5,
+      279.7,
+      278.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b009",
+    "text": "5. If you were on a small imaginary boat do you think your chart would have safely",
+    "bbox": [
+      108.0,
+      286.1,
+      518.0,
+      299.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b010",
+    "text": "helped you across your ocean?  Why or why not?",
+    "bbox": [
+      126.0,
+      306.9,
+      366.0,
+      320.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b011",
+    "text": "6. How would you change your measurement method to find smaller objects, or to",
+    "bbox": [
+      108.0,
+      327.5,
+      512.7,
+      340.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "204",
+    "page_number": 6,
+    "block_id": "204_p6_b012",
+    "text": "find more detail in the large objects on the bottom of your ocean?",
+    "bbox": [
+      126.0,
+      348.3,
+      443.6,
+      361.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  }
+]

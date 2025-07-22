@@ -1,0 +1,572 @@
+[
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b001",
+    "text": "SHIP INFORMATION",
+    "bbox": [
+      247.9,
+      165.6,
+      367.9,
+      179.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b002",
+    "text": "Ship Name:",
+    "bbox": [
+      36.0,
+      188.3,
+      88.5,
+      199.5
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b003",
+    "text": "Ship Type/Length:",
+    "bbox": [
+      36.0,
+      208.8,
+      113.7,
+      220.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b004",
+    "text": "Type of Cargo:",
+    "bbox": [
+      36.0,
+      229.2,
+      99.6,
+      240.5
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b005",
+    "text": "Home Port/Sailing Routes:",
+    "bbox": [
+      36.0,
+      249.7,
+      146.2,
+      261.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b006",
+    "text": "Ship Mailing Address:",
+    "bbox": [
+      36.0,
+      270.3,
+      129.1,
+      281.5
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b007",
+    "text": "Adopt-A-Ship Point of Contacts",
+    "bbox": [
+      241.0,
+      296.3,
+      374.4,
+      307.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b008",
+    "text": "Primary                                                                                          Secondary",
+    "bbox": [
+      172.8,
+      315.0,
+      477.6,
+      326.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b009",
+    "text": "Name: ___________________________________________       __________________________________________________",
+    "bbox": [
+      36.0,
+      332.5,
+      579.3,
+      343.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b010",
+    "text": "Telephone: ___________________________________________       __________________________________________________",
+    "bbox": [
+      36.0,
+      350.1,
+      581.4,
+      361.4
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b011",
+    "text": "Email: ___________________________________________       __________________________________________________",
+    "bbox": [
+      36.0,
+      367.6,
+      580.0,
+      378.9
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b012",
+    "text": "Fax: ___________________________________________       __________________________________________________",
+    "bbox": [
+      36.0,
+      385.0,
+      580.5,
+      396.3
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b013",
+    "text": "What is the best way for your class to communicate with you?                                      (   ) Email             (   ) Fax           (   ) US Mail",
+    "bbox": [
+      36.0,
+      409.9,
+      565.8,
+      421.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b014",
+    "text": "Has this vessel participated in the Adopt-A-Ship Program Previously?                         (   ) Yes                (   ) No",
+    "bbox": [
+      36.0,
+      430.5,
+      482.6,
+      441.7
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b015",
+    "text": "Would it be possible to arrange a tour of your ship for your adopted classroom?          (   ) Yes                (   ) No",
+    "bbox": [
+      36.0,
+      450.9,
+      483.0,
+      462.1
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b016",
+    "text": "Would you or other crewmembers be willing to visit your adopted school?                  (   ) Yes                (   ) No",
+    "bbox": [
+      36.0,
+      469.9,
+      482.5,
+      481.2
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b017",
+    "text": "SHIPPING COMPANY INFORMATION",
+    "bbox": [
+      202.3,
+      483.3,
+      413.4,
+      496.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b018",
+    "text": "Name of Company:",
+    "bbox": [
+      36.0,
+      506.8,
+      117.3,
+      518.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b019",
+    "text": "Adopt-A-Ship Company Point of Contact:",
+    "bbox": [
+      36.0,
+      531.3,
+      207.9,
+      542.5
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b020",
+    "text": "Telephone Number:",
+    "bbox": [
+      36.0,
+      555.7,
+      118.8,
+      567.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b021",
+    "text": "Email:",
+    "bbox": [
+      210.0,
+      555.7,
+      239.1,
+      567.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b022",
+    "text": "Fax:",
+    "bbox": [
+      384.0,
+      555.7,
+      404.2,
+      567.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b023",
+    "text": "APPLICATION PROCEDURE",
+    "bbox": [
+      228.2,
+      589.1,
+      387.6,
+      602.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b024",
+    "text": "Submit your application/pictures to:",
+    "bbox": [
+      220.6,
+      611.8,
+      396.5,
+      625.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b025",
+    "text": "The International Propeller Club of the",
+    "bbox": [
+      221.3,
+      638.2,
+      395.4,
+      650.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b026",
+    "text": "United States",
+    "bbox": [
+      277.6,
+      650.9,
+      339.2,
+      663.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b027",
+    "text": "3927 Old Lee Hwy., Suite 101 A",
+    "bbox": [
+      234.2,
+      663.5,
+      382.4,
+      676.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b028",
+    "text": "Fairfax, VA 22030",
+    "bbox": [
+      265.3,
+      676.1,
+      351.5,
+      688.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b029",
+    "text": "Email: adopt@propellerclubhq.com",
+    "bbox": [
+      228.0,
+      701.4,
+      388.7,
+      713.9
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b030",
+    "text": "Telephone: (703) 691-2777",
+    "bbox": [
+      246.5,
+      714.1,
+      370.2,
+      726.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b031",
+    "text": "Fax: (703) 691-4173",
+    "bbox": [
+      261.5,
+      726.7,
+      355.3,
+      739.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b032",
+    "text": "“Words and pictures can work together to communicate more powerfully than either alone.”",
+    "bbox": [
+      97.0,
+      748.8,
+      518.6,
+      761.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b033",
+    "text": "U.S. Department",
+    "bbox": [
+      494.6,
+      107.5,
+      564.8,
+      120.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b034",
+    "text": "of Transportation",
+    "bbox": [
+      494.6,
+      119.8,
+      568.2,
+      132.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b035",
+    "text": "Maritime",
+    "bbox": [
+      494.6,
+      131.9,
+      535.6,
+      144.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b036",
+    "text": "Administration",
+    "bbox": [
+      494.6,
+      143.9,
+      559.3,
+      156.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b037",
+    "text": "PARTNERING for EXCELLENCE",
+    "bbox": [
+      180.1,
+      114.2,
+      420.6,
+      132.0
+    ],
+    "font_size": 16.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "573",
+    "page_number": 1,
+    "block_id": "573_p1_b038",
+    "text": "APPLICATION for SHIP PARTICIPATION",
+    "bbox": [
+      138.8,
+      132.4,
+      442.0,
+      150.4
+    ],
+    "font_size": 16.0,
+    "font_name": "TimesNewRomanPS-BoldItalicMT",
+    "label": "HH1"
+  }
+]

@@ -1,0 +1,3527 @@
+[
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b003",
+    "text": "INTRODUCTION",
+    "bbox": [
+      52.7,
+      568.0,
+      156.8,
+      584.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b004",
+    "text": "La redevabilité envers les personnes affectées (\"AAP\") est une approche collective qui a pour objectif",
+    "bbox": [
+      53.9,
+      593.0,
+      513.9,
+      606.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b005",
+    "text": "de garantir que les besoins et les intérêts des personnes sont au centre de l'action humanitaire. Elle se",
+    "bbox": [
+      53.9,
+      606.2,
+      521.1,
+      620.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b006",
+    "text": "fonde sur l'engagement de prendre en compte, de rendre compte et de se faire tenir pour compte par",
+    "bbox": [
+      53.9,
+      619.4,
+      515.9,
+      633.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b007",
+    "text": "les personnes que les humanitaires cherchent à aider.1 Dans le cadre de leurs activités liées à l'AAP, les",
+    "bbox": [
+      53.9,
+      632.6,
+      519.9,
+      646.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b008",
+    "text": "humanitaires collectent et utilisent de plus en plus de données. La gestion responsable des données est",
+    "bbox": [
+      53.9,
+      645.8,
+      528.4,
+      659.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b009",
+    "text": "essentielle pour garantir que ces activités ne nuisent pas aux personnes affectées, et fait partie du respect",
+    "bbox": [
+      53.9,
+      659.0,
+      537.0,
+      672.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b010",
+    "text": "des engagements liés à l'AAP.",
+    "bbox": [
+      53.9,
+      672.2,
+      188.8,
+      686.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b011",
+    "text": "Cette note d'orientation examine la responsabilité des données et l'AAP dans le cadre de l'action",
+    "bbox": [
+      53.9,
+      696.4,
+      494.4,
+      710.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b012",
+    "text": "humanitaire. Elle identifie les avantages et les risques courants liés aux données dans le cadre de s activités",
+    "bbox": [
+      53.9,
+      709.6,
+      544.5,
+      723.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b013",
+    "text": "liées à l'AAP, explique comment les humanitaires peuvent mettre en œuvre les actions des directives",
+    "bbox": [
+      53.9,
+      722.8,
+      512.0,
+      736.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b014",
+    "text": "opérationnelles de l'IASC sur la responsabilité des données dans l'action humanitaire et propose des",
+    "bbox": [
+      53.9,
+      736.0,
+      514.8,
+      749.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b015",
+    "text": "exemples d'approches conjointes à ce travail.",
+    "bbox": [
+      53.9,
+      749.2,
+      260.9,
+      763.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b016",
+    "text": "1     Pour plus d’informations sur l’AAP, voir: OCHA: Accountability to affected people.",
+    "bbox": [
+      53.9,
+      769.9,
+      325.3,
+      778.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b017",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b018",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      98.4,
+      263.7,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b019",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      116.4,
+      479.6,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b020",
+    "text": "NOTE D’ORIENTATION: LA RESPONSABILITÉ",
+    "bbox": [
+      53.3,
+      138.7,
+      513.1,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b021",
+    "text": "DES DONNÉES ET LA REDEVABILITÉ AUX",
+    "bbox": [
+      53.3,
+      162.7,
+      474.3,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b022",
+    "text": "PERSONNES AFFECTÉES",
+    "bbox": [
+      53.3,
+      186.7,
+      296.6,
+      212.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b023",
+    "text": "POINTS CLÉS :",
+    "bbox": [
+      63.7,
+      243.0,
+      149.3,
+      258.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b024",
+    "text": "•\t La responsabilité des données est la gestion sécurisée, éthique et efficace des données",
+    "bbox": [
+      75.0,
+      265.7,
+      483.7,
+      279.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b025",
+    "text": "personnelles et non personnelles pour la réponse opérationnelle, et est un élément",
+    "bbox": [
+      86.3,
+      278.9,
+      468.2,
+      292.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b026",
+    "text": "indispensable de la redevabilité aux personnes affectées (AAP) dans le système humanitaire.",
+    "bbox": [
+      86.3,
+      292.1,
+      506.9,
+      306.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b027",
+    "text": "•\t Les activités de gestion de données relatives à l’AAP incluent, par exemple, la communication",
+    "bbox": [
+      75.0,
+      316.3,
+      513.0,
+      330.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b028",
+    "text": "avec les communautés, le traitement de plaintes et de feedback, et le suivi des perceptions des",
+    "bbox": [
+      86.3,
+      329.5,
+      520.7,
+      343.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b029",
+    "text": "communautés.",
+    "bbox": [
+      86.3,
+      342.7,
+      155.2,
+      356.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b030",
+    "text": "•\t La collecte de données auprès des communautés et à leur sujet peut permettre de mieux",
+    "bbox": [
+      75.0,
+      366.9,
+      493.1,
+      380.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b031",
+    "text": "comprendre les priorités et les préférences des personnes affectées, ainsi que de les faire",
+    "bbox": [
+      86.3,
+      380.1,
+      493.0,
+      394.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b032",
+    "text": "davantage participer à l'action humanitaire et se l'approprier.",
+    "bbox": [
+      86.3,
+      393.3,
+      369.1,
+      407.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b033",
+    "text": "•\t Toutefois, la gestion des données liées à l'AAP peut engendrer des risques, notamment la",
+    "bbox": [
+      75.0,
+      417.5,
+      493.3,
+      431.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b034",
+    "text": "divulgation de données sensibles pouvant nuire aux personnes touchées ou aux travailleurs",
+    "bbox": [
+      86.3,
+      430.7,
+      506.5,
+      444.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b035",
+    "text": "humanitaires, et la perte de confiance entre les personnes touchées, les organisations",
+    "bbox": [
+      86.3,
+      443.9,
+      479.4,
+      457.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b036",
+    "text": "humanitaires et les acteurs concernés.",
+    "bbox": [
+      86.3,
+      457.1,
+      261.4,
+      471.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b037",
+    "text": "•\t Les acteurs humanitaires doivent mener des analyses de l’impact relative aux données, assurer",
+    "bbox": [
+      75.0,
+      481.3,
+      521.6,
+      495.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b038",
+    "text": "la responsabilité des données par conception, développer des diagrams de la gestion des",
+    "bbox": [
+      86.3,
+      494.5,
+      494.8,
+      508.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b039",
+    "text": "données, entretenir le registre de gestion de données, mettre en place des accords de partage",
+    "bbox": [
+      86.3,
+      507.7,
+      514.9,
+      521.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 1,
+    "block_id": "196_p1_b040",
+    "text": "des données, et adopter des procédures de gestion des incidents liés aux données.",
+    "bbox": [
+      86.3,
+      520.9,
+      462.7,
+      534.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b003",
+    "text": "2     Déclaration des Directeurs du Comité permanent inter-organisations (IASC) sur la responsabilité à l’égard des populations touchées dans le cadre",
+    "bbox": [
+      53.5,
+      688.3,
+      540.6,
+      697.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b004",
+    "text": "de l’action humanitaire.",
+    "bbox": [
+      53.5,
+      697.3,
+      138.7,
+      706.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b005",
+    "text": "3     Directives opérationnelles du Comité Permanent Inter-agences (IASC) sur la Responsabilité des données dans l’action humanitaire (2023).",
+    "bbox": [
+      53.5,
+      709.3,
+      516.8,
+      718.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b006",
+    "text": "4     Une activité de gestion des données est toute activité impliquant la gestion de données et d'informations dans le cadre d'une réponse humanitaire.",
+    "bbox": [
+      53.5,
+      721.4,
+      538.7,
+      729.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b007",
+    "text": "Cela comprend la conception de l'activité, ainsi que la collecte, la réception, le stockage, l'assurance qualité, l'analyse, le partage, l'utilisation, la",
+    "bbox": [
+      53.5,
+      730.4,
+      520.4,
+      738.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b008",
+    "text": "conservation et la destruction des données et des informations par les acteurs humanitaires. Directives opérationnelles du IASC sur la",
+    "bbox": [
+      53.5,
+      739.3,
+      500.7,
+      748.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b009",
+    "text": "Responsabilité des données dans l’action humanitaire (2023).",
+    "bbox": [
+      53.5,
+      748.3,
+      262.9,
+      757.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b010",
+    "text": "5     L'analyse de l'écosystème des informations cherche à capturer toutes les dimensions de la relation entre l'offre et la demande d'informations. Pour",
+    "bbox": [
+      53.5,
+      760.4,
+      537.1,
+      768.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b011",
+    "text": "plus d'informations, voir: Internews, Information Ecosystem Analysis - A Human-Centered Approach (2021).",
+    "bbox": [
+      53.5,
+      769.3,
+      414.9,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b012",
+    "text": "LA GESTION DES DONNÉES RELATIVES À L’AAP",
+    "bbox": [
+      52.9,
+      44.3,
+      358.8,
+      60.6
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b013",
+    "text": "Par le biais de l'AAP, les humanitaires visent à garantir que l'action humanitaire protège et préserve les",
+    "bbox": [
+      53.4,
+      69.3,
+      520.6,
+      83.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b014",
+    "text": "droits et la dignité des personnes affectées par les crises, qu'elle reste pertinente et efficace, qu'elle ne",
+    "bbox": [
+      53.4,
+      82.5,
+      521.0,
+      96.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b015",
+    "text": "laisse personne de côté et qu'elle respecte les principes humanitaires.2 Reconnaissant que les personnes",
+    "bbox": [
+      53.4,
+      95.7,
+      531.6,
+      109.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b016",
+    "text": "touchées par une crise vivent l'aide différemment, l'AAP permet aux humanitaires de travailler avec les",
+    "bbox": [
+      53.4,
+      108.9,
+      522.5,
+      122.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b017",
+    "text": "personnes affectées pour s'assurer que leurs divers besoins, vulnérabilités et capacités sont pris en compte",
+    "bbox": [
+      53.4,
+      122.1,
+      543.3,
+      136.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b018",
+    "text": "dans la prise de décision et la conception des programmes.",
+    "bbox": [
+      53.4,
+      135.3,
+      324.3,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b019",
+    "text": "Les humanitaires s'acquittent de cette tâche principalement par le biais des activités suivantes :",
+    "bbox": [
+      53.4,
+      161.7,
+      488.9,
+      175.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b020",
+    "text": "•\t En fournissant systématiquement aux populations et aux communautés des informations opportunes,",
+    "bbox": [
+      64.8,
+      188.1,
+      545.4,
+      202.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b021",
+    "text": "pertinentes et exploitables sur la réponse humanitaire, ses acteurs et ses activités.",
+    "bbox": [
+      76.1,
+      201.3,
+      450.5,
+      215.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b022",
+    "text": "•\t En soutenant la participation significative et le leadership des personnes affectées dans la prise",
+    "bbox": [
+      64.8,
+      227.7,
+      512.3,
+      241.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b023",
+    "text": "de décision, indépendamment de leur sexe, de leur âge, de leur statut de handicapé et d'autres",
+    "bbox": [
+      76.1,
+      240.9,
+      511.6,
+      254.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b024",
+    "text": "diversités.",
+    "bbox": [
+      76.1,
+      254.1,
+      122.9,
+      268.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b025",
+    "text": "•\t En veillant à ce que des mécanismes de feedback communautaire soient en place pour permettre aux",
+    "bbox": [
+      64.8,
+      280.5,
+      540.5,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b026",
+    "text": "personnes affectées d'évaluer et de faire des observations sur la performance de l'action humanitaire,",
+    "bbox": [
+      76.1,
+      293.7,
+      542.3,
+      307.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b027",
+    "text": "et de déposer des plaintes sur n'importe quel sujet, y compris des sujets sensibles tels que la",
+    "bbox": [
+      76.1,
+      306.9,
+      500.0,
+      320.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b028",
+    "text": "protection, la violence basée sur le genre, l'exploitation et les abus sexuels, la fraude, la corruption, le",
+    "bbox": [
+      76.1,
+      320.1,
+      539.2,
+      334.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b029",
+    "text": "racisme et la discrimination, les violations de l'environnement, et d'autres.",
+    "bbox": [
+      76.1,
+      333.3,
+      416.6,
+      347.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b030",
+    "text": "Les organisations humanitaires utilisent de plus en plus les canaux numériques pour travailler avec les",
+    "bbox": [
+      53.4,
+      359.7,
+      522.4,
+      373.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b031",
+    "text": "communautés. Par conséquent, de grandes quantités de données peuvent être collectées et utilisées,",
+    "bbox": [
+      53.4,
+      372.9,
+      517.9,
+      386.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b032",
+    "text": "ce qui nécessite une gestion appropriée. La responsabilité des données, c'est-à-dire la gestion sécurisée,",
+    "bbox": [
+      53.4,
+      386.1,
+      530.4,
+      400.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b033",
+    "text": "éthique et efficace des données personnelles et non personnelles pour la réponse opérationnelle, est",
+    "bbox": [
+      53.4,
+      399.3,
+      516.0,
+      413.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b034",
+    "text": "essentielle à ces efforts.3 Veiller à ce que les activités de gestion des données4 ne nuisent pas aux personnes",
+    "bbox": [
+      53.4,
+      412.5,
+      544.1,
+      426.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b035",
+    "text": "affectées fait partie du respect des engagements liés à l'AAP.",
+    "bbox": [
+      53.4,
+      425.7,
+      326.5,
+      439.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b036",
+    "text": "Les activités courantes de gestion des données relatives à l'AAP sont notamment les suivantes :",
+    "bbox": [
+      53.4,
+      452.1,
+      485.4,
+      466.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b037",
+    "text": "•\t La communication avec les communautés qui consiste à fournir des informations opportunes et",
+    "bbox": [
+      64.8,
+      478.5,
+      515.4,
+      492.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b038",
+    "text": "pertinentes.",
+    "bbox": [
+      76.1,
+      491.7,
+      134.0,
+      505.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b039",
+    "text": "•\t Les mécanismes de collecte, d'analyse, de renvoi et d'action des plaintes et du feedback.",
+    "bbox": [
+      64.8,
+      518.1,
+      480.6,
+      532.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b040",
+    "text": "•\t Les systèmes de suivi des perceptions des communautés, des rumeurs, des informations erronées, de",
+    "bbox": [
+      64.8,
+      544.5,
+      540.6,
+      558.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b041",
+    "text": "la désinformation et des discours haineux (\"MDH\").",
+    "bbox": [
+      76.1,
+      557.7,
+      309.4,
+      571.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b042",
+    "text": "•\t Les activités de gestion de l'information pour éclairer la fourniture et la coordination de l'aide,",
+    "bbox": [
+      64.8,
+      584.1,
+      506.8,
+      598.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b043",
+    "text": "y compris les évaluations et analyses conjointes des besoins, les enquêtes de perception, et la",
+    "bbox": [
+      76.1,
+      597.3,
+      505.3,
+      611.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b044",
+    "text": "cartographie de la présence et des activités des partenaires dans différents lieux.",
+    "bbox": [
+      76.1,
+      610.5,
+      443.3,
+      624.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b045",
+    "text": "•\t L'analyse de l'écosystème des informations5 pour déterminer la relation entre l'offre et la demande",
+    "bbox": [
+      64.8,
+      636.9,
+      528.0,
+      650.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 2,
+    "block_id": "196_p2_b046",
+    "text": "d'informations aux communautés et en provenance de celles-ci.",
+    "bbox": [
+      76.1,
+      650.1,
+      368.2,
+      664.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b003",
+    "text": "6    Pour plus d'informations, voir Centre for Humanitarian Data’s Tip Sheet on Understanding Data Ecosystems.",
+    "bbox": [
+      53.5,
+      769.3,
+      414.3,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b004",
+    "text": "Une approche responsable de la gestion des données consiste à comprendre comment ces activités sont",
+    "bbox": [
+      53.9,
+      45.4,
+      532.1,
+      59.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b005",
+    "text": "liées les unes aux autres et comment les données circulent entre les individus, les communautés et les",
+    "bbox": [
+      53.9,
+      58.6,
+      521.8,
+      72.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b006",
+    "text": "organisationss.6",
+    "bbox": [
+      53.9,
+      71.8,
+      126.7,
+      85.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b007",
+    "text": "AVANTAGES ET RISQUES LIÉS AUX ACTIVITÉS DE GESTION DES DONNÉES",
+    "bbox": [
+      52.9,
+      102.4,
+      526.0,
+      118.5
+    ],
+    "font_size": 11.9,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b008",
+    "text": "RELATIVES À L'AAP",
+    "bbox": [
+      52.9,
+      116.6,
+      175.8,
+      132.8
+    ],
+    "font_size": 11.9,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b009",
+    "text": "La responsabilité des données repose sur une compréhension et un équilibrage des avantages et des",
+    "bbox": [
+      52.9,
+      145.4,
+      513.7,
+      159.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b010",
+    "text": "risques liés à la gestion des données. Bien qu'ils puissent varier d'un contexte à l'autre, nous présentons",
+    "bbox": [
+      52.9,
+      158.6,
+      528.8,
+      172.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b011",
+    "text": "ci-dessous plusieurs avantages et risques courants aux activités de gestion des données relatives à l'AAP.",
+    "bbox": [
+      52.9,
+      171.8,
+      530.1,
+      185.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b012",
+    "text": "Avantages :",
+    "bbox": [
+      52.9,
+      198.2,
+      104.7,
+      212.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b013",
+    "text": "•\t Une meilleure compréhension des priorités et des préférences des personnes affectées, telles que les",
+    "bbox": [
+      64.2,
+      222.4,
+      537.5,
+      236.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b014",
+    "text": "canaux qu'elles préfèrent pour recevoir et soumettre des informations.",
+    "bbox": [
+      75.5,
+      235.6,
+      397.8,
+      249.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b015",
+    "text": "•\t Une amélioration de la participation et de l'appropriation de l'action humanitaire par les personnes",
+    "bbox": [
+      64.2,
+      259.8,
+      531.4,
+      273.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b016",
+    "text": "touchées.",
+    "bbox": [
+      75.5,
+      273.0,
+      120.3,
+      286.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b017",
+    "text": "•\t Une meilleure efficacité de l'action humanitaire grâce à la prise en compte des observations de la",
+    "bbox": [
+      64.2,
+      297.2,
+      520.1,
+      311.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b018",
+    "text": "communauté.",
+    "bbox": [
+      75.6,
+      310.4,
+      142.0,
+      324.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b019",
+    "text": "•\t Une amélioration de la transparence et de la redevabilité.",
+    "bbox": [
+      64.2,
+      334.6,
+      339.4,
+      348.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b020",
+    "text": "Risques :",
+    "bbox": [
+      57.6,
+      361.0,
+      98.2,
+      374.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b021",
+    "text": "•\t L'exposition accidentelle ou intentionnelle de données sensibles, personnelles ou non, qui pourrait",
+    "bbox": [
+      64.2,
+      387.4,
+      529.4,
+      401.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b022",
+    "text": "entraîner la réidentification, des représailles, la stigmatisation, la violence ou d'autres formes de",
+    "bbox": [
+      75.6,
+      400.6,
+      516.8,
+      414.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b023",
+    "text": "préjudice pour les personnes affectées.",
+    "bbox": [
+      75.6,
+      413.8,
+      256.3,
+      427.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b024",
+    "text": "•\t L'utilisation potentiellement abusive des données à des fins non humanitaires. C'est le cas, par",
+    "bbox": [
+      64.2,
+      440.2,
+      508.7,
+      454.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b025",
+    "text": "exemple, lorsqu'un fournisseur de logiciels commerciaux qui propose un canal de communication",
+    "bbox": [
+      75.6,
+      453.4,
+      524.7,
+      467.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b026",
+    "text": "communautaire utilise l'historique des discussions pour poursuivre ses propres objectifs",
+    "bbox": [
+      75.6,
+      466.6,
+      481.2,
+      480.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b027",
+    "text": "commerciaux.",
+    "bbox": [
+      75.6,
+      479.8,
+      140.5,
+      493.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b028",
+    "text": "•\t Une analyse biaisée aboutissant à une prise de décision inadéquate. Cela peut se produire lorsque",
+    "bbox": [
+      64.2,
+      506.2,
+      526.0,
+      520.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b029",
+    "text": "des données non représentatives provenant d'enquêtes de perception sont utilisées pour tirer des",
+    "bbox": [
+      75.6,
+      519.4,
+      524.7,
+      533.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b030",
+    "text": "conclusions au niveau des réponses.",
+    "bbox": [
+      75.6,
+      532.6,
+      241.8,
+      546.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b031",
+    "text": "•\t Des occasions manquées pour utiliser les données disponibles lorsque les efforts ne sont pas",
+    "bbox": [
+      64.2,
+      559.0,
+      501.0,
+      572.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b032",
+    "text": "coordonnés, ce qui peut entraîner la fatigue de la collecte de données de la part des communautés et",
+    "bbox": [
+      75.6,
+      572.2,
+      538.4,
+      586.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b033",
+    "text": "des personnes affectées qui doivent raconter à nouveau les mêmes histoires difficiles.",
+    "bbox": [
+      75.6,
+      585.4,
+      466.0,
+      599.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b034",
+    "text": "•\t La perte de confiance entre les personnes affectées, les organisations humanitaires et les autres",
+    "bbox": [
+      64.2,
+      611.8,
+      513.9,
+      625.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b035",
+    "text": "acteurs lorsque des données sensibles sont divulguées.",
+    "bbox": [
+      75.6,
+      625.0,
+      328.3,
+      638.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b036",
+    "text": "ACTIONS RECOMMANDÉES POUR LA RESPONSABILITÉ DES DONNÉES",
+    "bbox": [
+      53.7,
+      656.9,
+      509.3,
+      673.3
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b037",
+    "text": "DANS LE CADRE DE L'AAP",
+    "bbox": [
+      53.7,
+      671.3,
+      220.8,
+      687.7
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b038",
+    "text": "La responsabilité des données nécessite la mise en œuvre d'actions à différents niveaux d'une réponse",
+    "bbox": [
+      54.6,
+      699.9,
+      524.4,
+      713.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b039",
+    "text": "humanitaire, conformément aux directives opérationnelles du IASC. Le Centre for Humanitarian Data (\"le",
+    "bbox": [
+      54.6,
+      713.1,
+      534.8,
+      727.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b040",
+    "text": "Centre\") recommande les actions suivantes pour soutenir la responsabilité des données dans le cadre de",
+    "bbox": [
+      54.6,
+      726.3,
+      534.5,
+      740.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 3,
+    "block_id": "196_p3_b041",
+    "text": "l'AAP :",
+    "bbox": [
+      54.6,
+      739.5,
+      82.6,
+      753.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b003",
+    "text": "7    Pour plus d'informations, voir Note d'orientation sur les analyses de l'impact relatives aux données.",
+    "bbox": [
+      53.5,
+      730.9,
+      384.8,
+      739.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b004",
+    "text": "8    Une classification de la sensibilité des données et des informations fait partie d'un protocole de partage de l'information (PPI), qui constitue le",
+    "bbox": [
+      53.5,
+      743.0,
+      519.4,
+      751.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b005",
+    "text": "principal document de référence régissant le partage des données et des informations dans le cadre de la réponse. La classification indique le",
+    "bbox": [
+      53.5,
+      752.0,
+      521.3,
+      760.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b006",
+    "text": "niveau de sensibilité des différents types de données et d'informations dans un contexte donné. Il s'agit d'un élément clé du PPI, qui doit être élaboré",
+    "bbox": [
+      53.5,
+      761.0,
+      543.2,
+      769.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b007",
+    "text": "collectivement par les différentes parties prenantes afin qu'elles s'accordent sur ce qui constitue des données sensibles dans leur contexte.",
+    "bbox": [
+      53.5,
+      770.0,
+      510.5,
+      778.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b008",
+    "text": "•\t Mener des analyses de l’impact relative aux données",
+    "bbox": [
+      65.2,
+      44.9,
+      332.1,
+      59.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b009",
+    "text": "•\t Assurer la responsabilité des données par conception",
+    "bbox": [
+      65.2,
+      62.9,
+      335.0,
+      77.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b010",
+    "text": "•\t Développer des diagrams de la gestion des données",
+    "bbox": [
+      65.2,
+      80.9,
+      324.7,
+      95.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b011",
+    "text": "•\t Entretenir le registre de gestion de données",
+    "bbox": [
+      65.2,
+      98.9,
+      286.9,
+      113.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b012",
+    "text": "•\t Mettre en place des accords de partage des données",
+    "bbox": [
+      65.2,
+      116.9,
+      325.6,
+      131.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b013",
+    "text": "•\t Adopter des procédures de gestion des incidents liés aux données",
+    "bbox": [
+      65.2,
+      134.9,
+      391.7,
+      149.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b014",
+    "text": "Mener des analyses de l’impact relative aux données",
+    "bbox": [
+      53.9,
+      161.7,
+      300.4,
+      175.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b015",
+    "text": "Une analyse de l'impact relative aux données7 (AID) vise à déterminer les impacts anticipés d'une activité",
+    "bbox": [
+      53.9,
+      174.7,
+      539.5,
+      189.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b016",
+    "text": "de gestion des données et aide à identifier les recommandations permettant d'atténuer les impacts",
+    "bbox": [
+      53.9,
+      188.2,
+      508.5,
+      202.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b017",
+    "text": "négatifs potentiels. De nombreuses activités de gestion des données relatives à l'AAP impliquent la gestion",
+    "bbox": [
+      53.9,
+      201.4,
+      541.0,
+      215.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b018",
+    "text": "de données sensibles personnelles et non personnelles, ou impliquent l'utilisation de nouveaux outils",
+    "bbox": [
+      53.9,
+      214.6,
+      520.6,
+      228.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b019",
+    "text": "numériques. C'est pourquoi les organisations doivent effectuer une analyse de l'impact relative aux",
+    "bbox": [
+      53.9,
+      227.8,
+      508.9,
+      241.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b020",
+    "text": "données avant d'entamer une activité afin de déterminer si celle-ci est réalisable de manière responsable.",
+    "bbox": [
+      53.9,
+      241.0,
+      537.9,
+      254.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b021",
+    "text": "Assurer la responsabilité des données dès la conception",
+    "bbox": [
+      53.9,
+      267.4,
+      313.3,
+      281.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b022",
+    "text": "La responsabilité des données dès la conception signifie que l'on identifie les moyens de garantir une",
+    "bbox": [
+      53.9,
+      280.6,
+      517.1,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b023",
+    "text": "gestion sécurisée, éthique et efficace des données. Toutes les mesures relatives à la responsabilité des",
+    "bbox": [
+      53.9,
+      293.8,
+      521.3,
+      307.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b024",
+    "text": "données doivent être énoncées dans une procédure opérationnelle standard (POS) claire et reproductible.",
+    "bbox": [
+      53.9,
+      306.7,
+      544.8,
+      321.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b025",
+    "text": "Cette procédure doit préciser les rôles et les responsabilités des parties prenantes, les outils et les",
+    "bbox": [
+      53.9,
+      320.2,
+      500.9,
+      334.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b026",
+    "text": "processus de gestion des données, les mesures visant à empêcher l'exposition de données sensibles et les",
+    "bbox": [
+      53.9,
+      333.4,
+      538.9,
+      347.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b027",
+    "text": "termes clairs relatifs à la conservation et à la destruction des données. En outre, elle doit préciser la finalité",
+    "bbox": [
+      53.9,
+      346.6,
+      543.1,
+      360.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b028",
+    "text": "de la gestion des données, y compris, mais sans s'y limiter, le consentement éclairé, et spécifier les mesures",
+    "bbox": [
+      53.9,
+      359.8,
+      545.9,
+      373.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b029",
+    "text": "à prendre pour faire respecter les droits des personnes concernées. Lors de l'élaboration d'une procédure",
+    "bbox": [
+      53.9,
+      373.0,
+      536.3,
+      386.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b030",
+    "text": "opérationnelle standard, il convient de consulter l'analyse de l'impact relative aux données pour l'activité",
+    "bbox": [
+      53.9,
+      386.2,
+      536.8,
+      400.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b031",
+    "text": "concernée afin d'élaborer des mesures d'atténuation des risques appropriées, réalisables et solides.",
+    "bbox": [
+      53.9,
+      399.4,
+      509.3,
+      413.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b032",
+    "text": "Développer des diagrammes de la gestion des données",
+    "bbox": [
+      53.9,
+      425.8,
+      314.0,
+      439.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b033",
+    "text": "Un diagramme de la gestion des données permet de comprendre visuellement une activité et peut aider",
+    "bbox": [
+      53.9,
+      438.7,
+      534.3,
+      453.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b034",
+    "text": "à identifier les lacunes en matière de partage de données, de dispositions légales, d'infrastructures ou",
+    "bbox": [
+      53.9,
+      452.2,
+      520.5,
+      466.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b035",
+    "text": "d'orientations.",
+    "bbox": [
+      53.9,
+      465.4,
+      123.2,
+      479.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b036",
+    "text": "Entretenir le registre de gestion de données",
+    "bbox": [
+      53.9,
+      491.8,
+      257.5,
+      505.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b037",
+    "text": "Un registre de gestion des données fournit un résumé des principales activités de gestion des données",
+    "bbox": [
+      53.9,
+      504.7,
+      525.6,
+      519.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b038",
+    "text": "menées par les différents acteurs dans le contexte de la réponse, y compris les données gérées dans le",
+    "bbox": [
+      53.9,
+      518.2,
+      520.7,
+      532.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b039",
+    "text": "cadre de ces activités. Le registre doit indiquer le niveau de sensibilité de chaque type de données et",
+    "bbox": [
+      53.9,
+      531.4,
+      512.8,
+      545.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b040",
+    "text": "s'aligner sur les classifications de sensibilité des données et des informations qui existent pour la réponse,",
+    "bbox": [
+      53.9,
+      544.6,
+      539.7,
+      558.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b041",
+    "text": "le cas échéant.8 Il doit être mis à jour de façon continue par le mécanisme interagences concerné (par",
+    "bbox": [
+      53.9,
+      557.8,
+      516.2,
+      571.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 4,
+    "block_id": "196_p4_b042",
+    "text": "exemple, le groupe de travail AAP).",
+    "bbox": [
+      53.9,
+      571.0,
+      212.2,
+      584.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b003",
+    "text": "Étude de cas en Afghanistan: La responsabilité des données dans l’AAP",
+    "bbox": [
+      65.2,
+      395.0,
+      416.8,
+      407.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b004",
+    "text": "Suite au décret des autorités de facto de décembre 2022 interdisant aux femmes afghanes de travailler",
+    "bbox": [
+      65.2,
+      421.0,
+      512.7,
+      434.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b005",
+    "text": "pour des ONG, le IASC a établi des critères minimaux pour la programmation, y compris des engagements",
+    "bbox": [
+      65.2,
+      433.6,
+      525.9,
+      446.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b006",
+    "text": "solides en matière de l'AAP. Le groupe de travail AAP (AAP WG) a lancé la plateforme 'Afghanistan",
+    "bbox": [
+      65.2,
+      445.9,
+      488.0,
+      459.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b007",
+    "text": "Community Voices and Accountability Platform' afin d'aider les humanitaires à recueillir, analyser et",
+    "bbox": [
+      65.2,
+      458.5,
+      508.1,
+      472.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b008",
+    "text": "répondre en temps utile aux feedbacks des communautés dans leurs interventions en Afghanistan.",
+    "bbox": [
+      65.2,
+      471.4,
+      496.9,
+      484.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b009",
+    "text": "Compte tenu de la sensibilité des données partagées sur la plateforme collective, le groupe de travail AAP",
+    "bbox": [
+      65.2,
+      496.6,
+      525.2,
+      509.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b010",
+    "text": "a pris des mesures pour garantir la responsabilité des données dès la conception. Il a notamment procédé",
+    "bbox": [
+      65.2,
+      509.2,
+      527.8,
+      522.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b011",
+    "text": "à une analyse d'impact relative aux données afin d'identifier et d'atténuer les risques liés aux données,",
+    "bbox": [
+      65.2,
+      521.8,
+      514.2,
+      535.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b012",
+    "text": "et a établi une procédure opérationnelle normalisée (\"SOP\") pour la gestion des données par tous les",
+    "bbox": [
+      65.2,
+      534.4,
+      506.9,
+      547.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b013",
+    "text": "partenaires concernés. Cette procédure précise qu'aucune donnée personnelle ne doit être stockée sur la",
+    "bbox": [
+      65.2,
+      547.0,
+      525.0,
+      560.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b014",
+    "text": "plateforme. Elle prévoit également des mesures visant à garantir que la gestion des données au sein de",
+    "bbox": [
+      65.2,
+      559.6,
+      515.1,
+      572.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b015",
+    "text": "la plateforme ne nuit pas, et promeut l'égalité et la non-discrimination. À cette fin, une analyse collective",
+    "bbox": [
+      65.2,
+      572.2,
+      521.6,
+      585.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b016",
+    "text": "des plaintes et du feed-back reçus des communautés touchées est effectuée, et les principales conclusions",
+    "bbox": [
+      65.2,
+      584.8,
+      530.9,
+      598.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b017",
+    "text": "sont présentées de manière neutre et impartiale. Le SOP s'inspire du protocole de partage d'informations,",
+    "bbox": [
+      65.2,
+      597.1,
+      533.1,
+      610.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b018",
+    "text": "en vigueur au niveau du système pour l'Afghanistan, qui a été approuvé par l'équipe humanitaire de pays",
+    "bbox": [
+      65.2,
+      610.0,
+      522.7,
+      623.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b019",
+    "text": "en mai 2023.",
+    "bbox": [
+      65.2,
+      622.6,
+      120.4,
+      635.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b020",
+    "text": "Étude de cas en Syrie : Responsabilité des données dans la gestion du feedback des",
+    "bbox": [
+      65.2,
+      651.6,
+      468.3,
+      664.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b021",
+    "text": "communautés",
+    "bbox": [
+      65.2,
+      664.8,
+      136.8,
+      677.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b022",
+    "text": "Le groupe de travail AAP a élaboré des diagrammes de gestion des données afin de guider l'extension de",
+    "bbox": [
+      65.2,
+      690.2,
+      519.9,
+      703.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b023",
+    "text": "la ligne verte. Ces diagrammes visualisent le flux de données et d'informations entre les différents acteurs",
+    "bbox": [
+      65.2,
+      702.8,
+      526.7,
+      716.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b024",
+    "text": "concernés. Cela a permis au groupe de travail AAP d'identifier les points à améliorer dans le traitement des",
+    "bbox": [
+      65.2,
+      715.4,
+      530.8,
+      728.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b025",
+    "text": "données relatives aux plaintes et au feedback.",
+    "bbox": [
+      65.2,
+      728.0,
+      268.3,
+      741.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b026",
+    "text": "Mettre en place des accords de partage des données",
+    "bbox": [
+      53.2,
+      45.5,
+      300.1,
+      59.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b027",
+    "text": "Avant de partager des données personnelles ou très sensibles, les organisations doivent établir un",
+    "bbox": [
+      53.2,
+      58.7,
+      502.1,
+      72.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b028",
+    "text": "accord de partage des données (\"Data Sharing Agreement\", DSA). Cet accord définit les conditions qui",
+    "bbox": [
+      53.2,
+      71.7,
+      521.3,
+      86.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b029",
+    "text": "régissent le partage de données personnelles et de données non personnelles sensibles entre deux",
+    "bbox": [
+      53.2,
+      85.1,
+      505.9,
+      99.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b030",
+    "text": "ou plusieurs parties. Vérifiez si le partage des données est soumis à un cadre spécifique en matière de",
+    "bbox": [
+      53.2,
+      98.3,
+      517.1,
+      112.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b031",
+    "text": "protection des données (par exemple, si l'un des partenaires est soumis à une législation nationale). Dans",
+    "bbox": [
+      53.2,
+      111.5,
+      535.7,
+      125.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b032",
+    "text": "ce cas, l’accord doit respecter les exigences prévues par le cadre applicable en matière de protection des",
+    "bbox": [
+      53.2,
+      124.7,
+      530.0,
+      138.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b033",
+    "text": "données, y compris les droits et les demandes des personnes concernées. Un accord n’est parfois pas",
+    "bbox": [
+      53.2,
+      137.9,
+      515.4,
+      151.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b034",
+    "text": "nécessaire si des clauses spécifiques sur le partage des données sont incluses dans des accords généraux,",
+    "bbox": [
+      53.2,
+      151.1,
+      536.4,
+      165.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b035",
+    "text": "tels que des protocoles d'accord et des contrats de service.",
+    "bbox": [
+      53.2,
+      164.3,
+      323.2,
+      178.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b036",
+    "text": "Adopter des procédures de gestion des incidents liés aux données",
+    "bbox": [
+      53.2,
+      190.7,
+      357.6,
+      204.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b037",
+    "text": "Les incidents liés aux activités dans le cadre de l'AAP comprennent l'exposition de données (\"violation de",
+    "bbox": [
+      53.2,
+      203.9,
+      531.8,
+      217.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b038",
+    "text": "données\") qui pourrait entraîner des rétorsions, la stigmatisation, la violence ou d'autres formes de nuisance",
+    "bbox": [
+      53.2,
+      217.1,
+      543.6,
+      231.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b039",
+    "text": "pour les personnes affectées, ainsi que l'utilisation abusive des données des personnes affectées à des fins",
+    "bbox": [
+      53.2,
+      230.3,
+      543.4,
+      244.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b040",
+    "text": "autres qu'humanitaires. La gestion des incidents liés aux données fait référence aux processus et aux outils",
+    "bbox": [
+      53.2,
+      243.5,
+      539.8,
+      257.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b041",
+    "text": "permettant d'identifier, de résoudre, de suivre et de communiquer sur les incidents liés aux données.9",
+    "bbox": [
+      53.2,
+      256.7,
+      518.3,
+      270.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b042",
+    "text": "Il s'agit d'un élément clé de la gestion transparente et responsable des données, qui peut contribuer à",
+    "bbox": [
+      53.2,
+      269.9,
+      519.9,
+      283.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b043",
+    "text": "prévenir de futurs incidents. Les organisations doivent établir une procédure opérationnelle standard",
+    "bbox": [
+      53.2,
+      282.9,
+      519.7,
+      297.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b044",
+    "text": "pour la gestion des incidents liés aux données, ainsi qu'un registre pour assurer le suivi des incidents",
+    "bbox": [
+      53.2,
+      296.1,
+      519.3,
+      310.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b045",
+    "text": "liés aux données et de leur traitement. Lorsque l'incident constitue une violation de données à caractère",
+    "bbox": [
+      53.2,
+      309.5,
+      528.5,
+      323.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b046",
+    "text": "personnel, les organisations doivent s'acquitter des obligations prévues par le règlement sur la protection",
+    "bbox": [
+      53.2,
+      322.7,
+      535.2,
+      336.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b047",
+    "text": "des données et par les accords de partage de données applicables. Ces obligations peuvent inclure la",
+    "bbox": [
+      53.2,
+      335.9,
+      513.6,
+      349.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b048",
+    "text": "fourniture d'informations sur la violation aux personnes dont les données personnelles ont été exposées.",
+    "bbox": [
+      53.2,
+      349.1,
+      532.5,
+      363.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 5,
+    "block_id": "196_p5_b049",
+    "text": "9    Pour plus d'informations sur la gestion des incidents liés aux données, voir: Note d'orientation sur la gestion des incidents liés aux données (2019).",
+    "bbox": [
+      53.9,
+      769.6,
+      535.9,
+      778.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b002",
+    "text": "Août 2023",
+    "bbox": [
+      280.4,
+      791.9,
+      314.3,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b003",
+    "text": "Ces modifications seront intégrées dans un SOP pour la ligne verte commune, qui s'appuiera sur les",
+    "bbox": [
+      65.2,
+      58.5,
+      500.4,
+      71.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b004",
+    "text": "bonnes pratiques de la ligne verte existante du PSEAH. Les mesures relatives à la responsabilité des",
+    "bbox": [
+      65.2,
+      71.1,
+      499.1,
+      84.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b005",
+    "text": "données comprendront la restriction de l'accès aux données sensibles, l'obligation d'utiliser des canaux",
+    "bbox": [
+      65.2,
+      83.7,
+      519.0,
+      96.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b006",
+    "text": "cryptés pour le transfert des données et la définition d'un calendrier de conservation et de destruction des",
+    "bbox": [
+      65.2,
+      96.3,
+      529.9,
+      109.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b007",
+    "text": "données sensibles une fois qu'elles ne sont plus nécessaires à la réalisation de l'objectif de la ligne verte.",
+    "bbox": [
+      65.2,
+      108.9,
+      519.1,
+      122.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b008",
+    "text": "Le Centro for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires clés,",
+    "bbox": [
+      64.7,
+      223.3,
+      524.4,
+      236.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b009",
+    "text": "publie une série de notes d’orientation sur la Responsabilité des données dans l’action humanitaire au cours",
+    "bbox": [
+      64.7,
+      235.7,
+      515.1,
+      248.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b010",
+    "text": "de 2022 et 2023. La série de notes d’orientation fait suite au travail initié en 2019 et 2020. Elle complète aussi les",
+    "bbox": [
+      64.7,
+      247.7,
+      527.5,
+      260.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b011",
+    "text": "Directives opérationnelles du IASC sur la Responsabilité des données dans l’action humanitaire (révisées en",
+    "bbox": [
+      64.7,
+      259.5,
+      523.0,
+      272.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b012",
+    "text": "2023) et les Consignes de OCHA sur la Responsabilité des données (octobre 2021). Par le biais de cette série, le",
+    "bbox": [
+      64.7,
+      271.5,
+      526.6,
+      284.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b013",
+    "text": "Centre vise à fournir des orientations supplémentaires sur des questions, des processus et des outils spécifiques",
+    "bbox": [
+      64.7,
+      283.7,
+      531.1,
+      296.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b014",
+    "text": "pour la Responsabilité des données dans la pratique. Les notes d’orientation et les fiches de conseil publiés en",
+    "bbox": [
+      64.7,
+      295.7,
+      522.8,
+      308.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b015",
+    "text": "2022-2023 sont rendues possible grâce au généreux soutien du gouvernement de la Suisse.",
+    "bbox": [
+      64.7,
+      307.7,
+      441.2,
+      320.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b016",
+    "text": "Les organisations sont encouragées à partager leur expérience en matière de promotion de la responsabilité",
+    "bbox": [
+      52.4,
+      154.3,
+      545.0,
+      168.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "196",
+    "page_number": 6,
+    "block_id": "196_p6_b017",
+    "text": "des données dans la conception et l'exécution des activités liées à l’AAP via centrehumdata@un.org.",
+    "bbox": [
+      52.4,
+      167.3,
+      513.8,
+      181.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

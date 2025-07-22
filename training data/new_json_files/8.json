@@ -1,0 +1,1727 @@
+[
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      193.7,
+      443.1,
+      214.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      218.6,
+      277.1,
+      239.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      281.4,
+      270.1,
+      311.9
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b004",
+    "text": "Drought Anticipatory Action",
+    "bbox": [
+      72.0,
+      318.2,
+      421.2,
+      351.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b005",
+    "text": "Trigger in Burkina Faso",
+    "bbox": [
+      72.0,
+      356.8,
+      364.3,
+      389.6
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b006",
+    "text": "UN OCHA",
+    "bbox": [
+      72.0,
+      395.2,
+      140.0,
+      414.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 1,
+    "block_id": "8_p1_b007",
+    "text": "December 2022",
+    "bbox": [
+      72.0,
+      432.5,
+      198.7,
+      453.6
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      149.4,
+      178.8,
+      170.5
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b002",
+    "text": "Drought Anticipatory Action Trigger in Burkina Faso",
+    "bbox": [
+      72.0,
+      173.6,
+      468.2,
+      194.7
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      228.5,
+      149.4,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b004",
+    "text": "This report summarises the documentation and findings of the peer review of the trigger used in",
+    "bbox": [
+      72.0,
+      245.1,
+      539.5,
+      258.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b005",
+    "text": "UN OCHA’s Burkina Faso Anticipatory Action framework for drought. The impact prediction",
+    "bbox": [
+      72.0,
+      260.2,
+      539.7,
+      273.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b006",
+    "text": "model used as a basis for this trigger was developed by the OCHA Centre for Humanitarian Data",
+    "bbox": [
+      72.0,
+      275.4,
+      539.6,
+      288.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b007",
+    "text": "Predictive Analytics team. The go-no-go trigger mechanism is based on the IRI seasonal rainfall",
+    "bbox": [
+      72.0,
+      290.6,
+      539.9,
+      303.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b008",
+    "text": "forecast, with a threshold dependent on geographical coverage and below-average rainfall",
+    "bbox": [
+      72.0,
+      305.8,
+      539.9,
+      318.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b009",
+    "text": "probability. To find out more, please see the Anticipatory Action Framework for Burkina Faso.",
+    "bbox": [
+      72.0,
+      321.0,
+      522.3,
+      333.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b010",
+    "text": "The review has been conducted between May and December 2022.",
+    "bbox": [
+      72.0,
+      351.3,
+      397.7,
+      364.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b011",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      381.7,
+      287.6,
+      395.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b012",
+    "text": "You can find all the documentation regarding the model, its application and the review process",
+    "bbox": [
+      72.0,
+      398.3,
+      539.9,
+      411.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b013",
+    "text": "at the following links:",
+    "bbox": [
+      72.0,
+      413.4,
+      175.4,
+      426.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b014",
+    "text": "The Model Card describes version 1.0 of the model and was completed in May 2022.",
+    "bbox": [
+      108.0,
+      428.6,
+      519.5,
+      441.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b015",
+    "text": "The Model Evaluation Matrix was completed in July 2022 by a technical expert from the",
+    "bbox": [
+      108.0,
+      443.8,
+      539.3,
+      456.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b016",
+    "text": "Red Cross Red Crescent Climate Centre.",
+    "bbox": [
+      108.0,
+      459.0,
+      303.5,
+      471.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b017",
+    "text": "The Implementation Plan was completed in October 2022. It summarises the concrete",
+    "bbox": [
+      108.0,
+      474.2,
+      539.9,
+      487.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b018",
+    "text": "actions that the model will trigger or inform as part of the 2021 OCHA anticipatory action",
+    "bbox": [
+      108.0,
+      489.4,
+      539.8,
+      502.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b019",
+    "text": "framework in Burkina Faso.",
+    "bbox": [
+      108.0,
+      504.5,
+      241.1,
+      517.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b020",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      519.7,
+      539.4,
+      532.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b021",
+    "text": "intended use of the model. The Ethical Matrix was completed by an expert from DFID in",
+    "bbox": [
+      108.0,
+      534.9,
+      539.3,
+      547.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b022",
+    "text": "November 2022.",
+    "bbox": [
+      108.0,
+      550.1,
+      188.8,
+      563.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b023",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      580.5,
+      430.4,
+      593.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b024",
+    "text": "2.1 Technical Review",
+    "bbox": [
+      72.0,
+      612.2,
+      184.5,
+      626.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b025",
+    "text": "Intended Use",
+    "bbox": [
+      72.0,
+      645.3,
+      141.2,
+      659.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b026",
+    "text": "The model is simple and scalable; however, an alternative source of forecast should be",
+    "bbox": [
+      108.0,
+      661.9,
+      539.7,
+      674.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 2,
+    "block_id": "8_p2_b027",
+    "text": "used for verification, and other drought indicators such as dry spells considered.",
+    "bbox": [
+      108.0,
+      677.1,
+      497.7,
+      690.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b001",
+    "text": "Clarification is required on the mismatch between drought return periods, and how",
+    "bbox": [
+      108.0,
+      72.2,
+      539.8,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b002",
+    "text": "geographical targeting is performed given the coarse resolution.",
+    "bbox": [
+      108.0,
+      87.4,
+      419.8,
+      100.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b003",
+    "text": "Model Development and Documentation",
+    "bbox": [
+      72.0,
+      119.2,
+      283.0,
+      133.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b004",
+    "text": "Additional verification metrics are required to increase the confidence of the trigger, in",
+    "bbox": [
+      108.0,
+      135.7,
+      539.4,
+      148.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b005",
+    "text": "particular due to the limited hindcast.",
+    "bbox": [
+      108.0,
+      150.9,
+      289.6,
+      163.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b006",
+    "text": "More clarity is needed on how the minimum required area of below average precipitation",
+    "bbox": [
+      108.0,
+      166.1,
+      539.7,
+      179.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b007",
+    "text": "of 10% was chosen, and the exact thresholds used across lead times and activation",
+    "bbox": [
+      108.0,
+      181.3,
+      539.8,
+      194.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b008",
+    "text": "windows should be specified.",
+    "bbox": [
+      108.0,
+      196.5,
+      251.5,
+      209.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b009",
+    "text": "Model Evaluation",
+    "bbox": [
+      72.0,
+      228.2,
+      162.5,
+      242.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b010",
+    "text": "The model uncertainty was clearly communicated and accepted by stakeholders.",
+    "bbox": [
+      108.0,
+      244.8,
+      501.9,
+      257.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b011",
+    "text": "A strategy to increase model trust is lacking. For example, the methodology could be",
+    "bbox": [
+      108.0,
+      260.0,
+      539.8,
+      272.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b012",
+    "text": "submitted to a peer-review / academic journal for review once it is more mature.",
+    "bbox": [
+      108.0,
+      275.1,
+      496.9,
+      288.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b013",
+    "text": "Discussion",
+    "bbox": [
+      108.0,
+      290.3,
+      161.7,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b014",
+    "text": "potential",
+    "bbox": [
+      196.0,
+      290.3,
+      238.8,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b015",
+    "text": "negative",
+    "bbox": [
+      249.8,
+      290.3,
+      291.1,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b016",
+    "text": "risks",
+    "bbox": [
+      302.1,
+      290.3,
+      325.4,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b017",
+    "text": "due",
+    "bbox": [
+      336.4,
+      290.3,
+      354.5,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b018",
+    "text": "interventions",
+    "bbox": [
+      384.6,
+      290.3,
+      448.0,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b019",
+    "text": "occurring",
+    "bbox": [
+      458.2,
+      290.3,
+      504.4,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b020",
+    "text": "conflict-affected country is very much needed.",
+    "bbox": [
+      108.0,
+      305.5,
+      333.2,
+      318.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b021",
+    "text": "Operational Readiness",
+    "bbox": [
+      72.0,
+      337.3,
+      190.4,
+      351.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b022",
+    "text": "The model was developed collaboratively and is ready to be piloted.",
+    "bbox": [
+      108.0,
+      353.8,
+      436.2,
+      366.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b023",
+    "text": "The choice of forecasting information and baseline for verification should be",
+    "bbox": [
+      108.0,
+      369.0,
+      539.9,
+      381.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b024",
+    "text": "re-examined to improve trust in the trigger system.",
+    "bbox": [
+      108.0,
+      384.2,
+      353.4,
+      397.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b025",
+    "text": "More reflection on the potential negative effects of a false alarm is required.",
+    "bbox": [
+      108.0,
+      399.4,
+      477.3,
+      412.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b026",
+    "text": "2.2 Ethical Review",
+    "bbox": [
+      72.0,
+      429.7,
+      169.5,
+      443.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b027",
+    "text": "Effectiveness: Regional Selection",
+    "bbox": [
+      72.0,
+      461.5,
+      247.2,
+      475.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b028",
+    "text": "The motivation behind the selection of targeted regions is unclear, and in particular, is missing Est,",
+    "bbox": [
+      72.0,
+      478.0,
+      539.8,
+      490.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b029",
+    "text": "which has been identified as high-risk across several factors, including food insecurity.",
+    "bbox": [
+      72.0,
+      493.2,
+      483.6,
+      506.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b030",
+    "text": "Recommendation: Expand the explanation on the selection of the four regions, in",
+    "bbox": [
+      108.0,
+      508.4,
+      539.9,
+      521.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b031",
+    "text": "particular why Est was not included and Boucle de Mouhoun was.",
+    "bbox": [
+      108.0,
+      523.6,
+      426.9,
+      536.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b032",
+    "text": "Effectiveness: Focus on Drought",
+    "bbox": [
+      72.0,
+      554.0,
+      242.1,
+      568.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b033",
+    "text": "The cause of food insecurity in Burkina Faso is linked with several factors in addition to drought,",
+    "bbox": [
+      72.0,
+      570.5,
+      539.7,
+      583.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b034",
+    "text": "including conflict, agricultural practice, supply chain disruptions and food prices.",
+    "bbox": [
+      72.0,
+      585.7,
+      454.9,
+      598.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b035",
+    "text": "Recommendation: Better justify the selection of rainfall as the sole trigger and why other",
+    "bbox": [
+      108.0,
+      600.9,
+      539.7,
+      613.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b036",
+    "text": "factors were not included.",
+    "bbox": [
+      108.0,
+      616.1,
+      234.6,
+      628.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b037",
+    "text": "Effectiveness: Sub-regional Targeting",
+    "bbox": [
+      72.0,
+      647.8,
+      268.3,
+      661.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b038",
+    "text": "It is unclear if and how sub-districts with projected IPC-5 will be targeted.",
+    "bbox": [
+      72.0,
+      664.4,
+      419.6,
+      677.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b039",
+    "text": "Recommendation: Include more details on how districts and communities most in need",
+    "bbox": [
+      108.0,
+      679.5,
+      539.7,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 3,
+    "block_id": "8_p3_b040",
+    "text": "will be targeted by the UN agencies implementing the interventions.",
+    "bbox": [
+      108.0,
+      694.7,
+      435.9,
+      707.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b001",
+    "text": "Efficiency and Feasibility: Best Use of Resources",
+    "bbox": [
+      72.0,
+      88.8,
+      326.9,
+      102.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b002",
+    "text": "With the Burkina Faso HRP being severely underfunded, it is unclear whether this anticipatory",
+    "bbox": [
+      72.0,
+      105.4,
+      539.9,
+      118.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b003",
+    "text": "action pilot diverts funding away from more urgent needs identified by the Food Security Cluster.",
+    "bbox": [
+      72.0,
+      120.6,
+      530.9,
+      133.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b004",
+    "text": "Recommendation: Discuss the potential impacts that $15 million could have on the",
+    "bbox": [
+      108.0,
+      135.7,
+      539.5,
+      148.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b005",
+    "text": "region or globally and compare to the impacts of the no-regrets approach.",
+    "bbox": [
+      108.0,
+      150.9,
+      466.6,
+      163.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b006",
+    "text": "Efficiency and Feasibility: Maximise Collective Action and Avoid Duplication",
+    "bbox": [
+      72.0,
+      181.3,
+      468.5,
+      195.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b007",
+    "text": "The rationale for the choice of model, and how it helps leverage common resources and avoid",
+    "bbox": [
+      72.0,
+      197.8,
+      539.3,
+      210.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b008",
+    "text": "duplication, is lacking.",
+    "bbox": [
+      72.0,
+      213.0,
+      177.8,
+      225.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b009",
+    "text": "Recommendation: Expand the framework to discuss how the model complements",
+    "bbox": [
+      108.0,
+      228.2,
+      539.3,
+      241.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b010",
+    "text": "existing early warning and food insecurity mitigation efforts in Burkina Faso, such as",
+    "bbox": [
+      108.0,
+      243.4,
+      539.9,
+      256.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b011",
+    "text": "FEWS NET and CH/IPC.",
+    "bbox": [
+      108.0,
+      258.6,
+      223.0,
+      271.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b012",
+    "text": "Efficiency and feasibility: Risk/harm-benefit Analysis",
+    "bbox": [
+      72.0,
+      289.0,
+      347.8,
+      303.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b013",
+    "text": "A risk/harm-benefit analysis is required to understand ethical and financial risks and is missing",
+    "bbox": [
+      72.0,
+      305.5,
+      539.5,
+      318.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b014",
+    "text": "from the framework.",
+    "bbox": [
+      72.0,
+      320.7,
+      169.7,
+      333.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b015",
+    "text": "Recommendation: Perform a full risk/harm-benefit analysis.",
+    "bbox": [
+      108.0,
+      335.9,
+      398.8,
+      348.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b016",
+    "text": "Accountability and Community Participation",
+    "bbox": [
+      72.0,
+      366.3,
+      303.9,
+      380.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b017",
+    "text": "The implementation plan makes little reference to affected communities, local organizations and",
+    "bbox": [
+      72.0,
+      382.8,
+      539.7,
+      395.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b018",
+    "text": "authorities in the design of the framework.",
+    "bbox": [
+      72.0,
+      398.0,
+      274.3,
+      410.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b019",
+    "text": "Recommendation: The framework should include activities to engage and explain the",
+    "bbox": [
+      108.0,
+      413.2,
+      539.6,
+      426.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b020",
+    "text": "model to local civil society, affected populations and authorities.",
+    "bbox": [
+      108.0,
+      428.3,
+      420.6,
+      441.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b021",
+    "text": "Recommendation: Explain why there were no partnerships formed with ECOWAS,",
+    "bbox": [
+      108.0,
+      443.5,
+      539.4,
+      456.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b022",
+    "text": "UEMOA and the RCPA.",
+    "bbox": [
+      108.0,
+      458.7,
+      217.6,
+      471.6
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b023",
+    "text": "Neutrality, Impartiality and Conflict-sensitivity",
+    "bbox": [
+      72.0,
+      489.1,
+      311.4,
+      503.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b024",
+    "text": "It is unclear how much the framework takes into account the presence of conflict in the region.",
+    "bbox": [
+      72.0,
+      505.6,
+      522.7,
+      518.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b025",
+    "text": "Recommendation: Investigate the feasibility of carrying out a detailed conflict sensitivity",
+    "bbox": [
+      108.0,
+      520.8,
+      539.6,
+      533.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b026",
+    "text": "assessment.",
+    "bbox": [
+      108.0,
+      536.0,
+      170.5,
+      548.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b027",
+    "text": "Trustworthiness and Reliability",
+    "bbox": [
+      72.0,
+      566.4,
+      234.5,
+      580.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b028",
+    "text": "Outstanding questions remain on choice of forecast, and whether other options were considered.",
+    "bbox": [
+      72.0,
+      582.9,
+      534.6,
+      595.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b029",
+    "text": "Recommendation: Expand the explanation of why the IRI dataset was the only one used.",
+    "bbox": [
+      108.0,
+      598.1,
+      535.9,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b030",
+    "text": "Transparency and Explainability",
+    "bbox": [
+      72.0,
+      628.5,
+      238.6,
+      642.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b031",
+    "text": "No information on how an external actor can learn how the model works and understand the basis",
+    "bbox": [
+      72.0,
+      645.0,
+      539.8,
+      657.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b032",
+    "text": "of the trigger decisions.",
+    "bbox": [
+      72.0,
+      660.2,
+      185.1,
+      673.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b033",
+    "text": "Recommendation: Amend the framework to include activities that engage and explain",
+    "bbox": [
+      108.0,
+      675.4,
+      539.4,
+      688.3
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 4,
+    "block_id": "8_p4_b034",
+    "text": "the model to local civil society, affected populations and authorities.",
+    "bbox": [
+      108.0,
+      690.6,
+      438.7,
+      703.5
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b001",
+    "text": "Human in the Loop",
+    "bbox": [
+      72.0,
+      72.3,
+      171.5,
+      86.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-MediumItalic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b002",
+    "text": "No human stop mechanism specified per the recommendation of the Ethiopia evaluation.",
+    "bbox": [
+      72.0,
+      88.8,
+      497.2,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b003",
+    "text": "Recommendation: Investigate the possibility of including a stop mechanism.",
+    "bbox": [
+      108.0,
+      104.0,
+      479.6,
+      116.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b004",
+    "text": "Feedback",
+    "bbox": [
+      72.0,
+      134.1,
+      116.2,
+      147.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b005",
+    "text": "The Centre invites individuals and organizations working in the humanitarian, academic, research and",
+    "bbox": [
+      72.0,
+      150.0,
+      539.3,
+      163.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b006",
+    "text": "private sector to engage with us on the peer review process. Please send feedback on the Peer Review",
+    "bbox": [
+      72.0,
+      165.9,
+      539.5,
+      179.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "8",
+    "page_number": 5,
+    "block_id": "8_p5_b007",
+    "text": "Framework to centrehumdata@un.org.",
+    "bbox": [
+      72.0,
+      181.8,
+      250.5,
+      195.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

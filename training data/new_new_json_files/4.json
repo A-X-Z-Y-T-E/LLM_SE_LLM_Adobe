@@ -1,0 +1,4337 @@
+[
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b003",
+    "text": "1     Nota orientativa sobre el papel que juega la asistencia en efectivo y mediante vales para reducir las barreras financieras en respuesta a la",
+    "bbox": [
+      53.9,
+      759.1,
+      511.9,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b004",
+    "text": "pandemia COVID-19 en los países a los que se dirige el Plan Global Humanitario en Respuesta al COVID-19.",
+    "bbox": [
+      53.9,
+      768.1,
+      407.9,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b005",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      54.0,
+      55.3,
+      374.4,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b006",
+    "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+    "bbox": [
+      53.3,
+      92.4,
+      276.9,
+      108.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b007",
+    "text": "RESPONSABILIDAD DE LOS DATOS EN LA RESPUESTA HUMANITARIA",
+    "bbox": [
+      53.3,
+      110.4,
+      490.2,
+      126.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b008",
+    "text": "RESPONSABILIDAD DE DATOS EN LA",
+    "bbox": [
+      53.3,
+      132.7,
+      442.1,
+      158.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b009",
+    "text": "ASISTENCIA EN EFECTIVO Y MEDIANTE VALES",
+    "bbox": [
+      53.3,
+      158.7,
+      525.3,
+      184.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b010",
+    "text": "(CVA)",
+    "bbox": [
+      53.3,
+      184.7,
+      108.7,
+      210.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b011",
+    "text": "CONCLUSIONES FUNDAMENTALES:",
+    "bbox": [
+      63.7,
+      232.0,
+      274.5,
+      247.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b012",
+    "text": "•\t En los últimos años los agentes humanitarios han hecho un progreso considerable al promover",
+    "bbox": [
+      75.0,
+      253.7,
+      524.0,
+      267.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b013",
+    "text": "la responsabilidad de datos en asistencia en efectivo y mediante vales (CVA). Sin embargo,",
+    "bbox": [
+      86.3,
+      266.9,
+      499.5,
+      280.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b014",
+    "text": "existen brechas entre los marcos de responsabilidad de datos y su aplicación práctica en la",
+    "bbox": [
+      86.3,
+      280.1,
+      502.3,
+      294.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b015",
+    "text": "ejecución de la CVA.",
+    "bbox": [
+      86.3,
+      293.3,
+      177.6,
+      307.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b016",
+    "text": "•\t Hay muchos recursos disponibles en la protección de datos en los programas de CVA, pero",
+    "bbox": [
+      75.0,
+      316.5,
+      500.0,
+      330.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b017",
+    "text": "existe una falta de orientación y herramientas prácticas en el manejo responsable de datos no",
+    "bbox": [
+      86.3,
+      329.7,
+      516.0,
+      343.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b018",
+    "text": "personales que son confidenciales.",
+    "bbox": [
+      86.3,
+      342.9,
+      246.5,
+      356.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b019",
+    "text": "•\t Los beneficios más comunes relacionados con los datos en CVA incluyen: (i) mayor comprensión",
+    "bbox": [
+      75.0,
+      366.1,
+      526.9,
+      380.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b020",
+    "text": "de prioridades, necesidades y preferencia; (ii) mejora de asistencia, incluyendo la deduplicación",
+    "bbox": [
+      86.3,
+      379.3,
+      526.2,
+      393.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b021",
+    "text": "de listas de beneficiarios; (iii) incremento de eficiencia y efectividad de diferentes mecanismos de",
+    "bbox": [
+      86.3,
+      392.5,
+      532.4,
+      406.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b022",
+    "text": "distribución; y (iv) fomentar la transparencia y responsabilidad.",
+    "bbox": [
+      86.3,
+      405.7,
+      375.5,
+      419.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b023",
+    "text": "•\t Los riesgos más comunes relacionados con los datos: (i) la exposición de datos sensibles",
+    "bbox": [
+      75.0,
+      428.9,
+      491.2,
+      442.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b024",
+    "text": "que  pueden llegar a dañar a personas afectadas y/o al personal humanitario; (ii) brechas en",
+    "bbox": [
+      86.3,
+      442.1,
+      507.0,
+      456.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b025",
+    "text": "la protección de datos, privacidad de datos y seguridad de datos con fines humanitarios por",
+    "bbox": [
+      86.3,
+      455.3,
+      506.7,
+      469.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b026",
+    "text": "terceras partes; y (iv) pérdida de confianza entre las personas afectadas y las organizaciones",
+    "bbox": [
+      86.3,
+      468.5,
+      507.4,
+      482.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b027",
+    "text": "humanitarias.",
+    "bbox": [
+      86.3,
+      481.7,
+      152.3,
+      495.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b028",
+    "text": "•\t Las organizaciones humanitarias pueden mejorar la responsabilidad de datos en la CVA al llevar",
+    "bbox": [
+      75.0,
+      508.1,
+      524.9,
+      522.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b029",
+    "text": "los siguientes pasos: (i) esquematizar ecosistemas de datos de la CVA (ii) el establecimiento de un",
+    "bbox": [
+      86.3,
+      521.3,
+      533.2,
+      535.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b030",
+    "text": "protocolo de intercambio de información específico para los programas de CVA; (iii) el",
+    "bbox": [
+      86.3,
+      534.5,
+      479.2,
+      548.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b031",
+    "text": "establecimiento de acuerdos de intercambio de datos personales; (iv) la realización de",
+    "bbox": [
+      86.3,
+      547.7,
+      482.2,
+      561.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b032",
+    "text": "evaluaciones del impacto de los datos en todas las intervenciones de CVA; (v) la introducción de",
+    "bbox": [
+      86.3,
+      560.9,
+      525.1,
+      574.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b033",
+    "text": "procedimientos de gestión de incidentes de datos; y (vi) el seguimiento de las cuestiones y los",
+    "bbox": [
+      86.3,
+      574.1,
+      515.4,
+      588.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b034",
+    "text": "progresos en la responsabilidad de datos a través de las estructuras de coordinación.",
+    "bbox": [
+      86.3,
+      587.3,
+      474.0,
+      601.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b035",
+    "text": "INTRODUCCIÓN",
+    "bbox": [
+      53.5,
+      632.5,
+      149.5,
+      647.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b036",
+    "text": "A medida que las herramientas digitales se convierten cada vez más importantes en la prestación de",
+    "bbox": [
+      53.5,
+      656.2,
+      512.2,
+      670.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b037",
+    "text": "asistencia en efectivo y mediante vales (CVA), las organizaciones humanitarias, proveedores de servicios",
+    "bbox": [
+      53.5,
+      669.4,
+      530.3,
+      683.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b038",
+    "text": "financieros, y otras partes interesadas se reúnen, almacenan, usan y comparten volúmenes de datos cada",
+    "bbox": [
+      53.5,
+      682.6,
+      537.0,
+      696.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b039",
+    "text": "vez más grandes. Estas tendencias se han acelerado en respuesta al COVID-19, para que los agentes del",
+    "bbox": [
+      53.5,
+      695.8,
+      524.1,
+      709.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b040",
+    "text": "efectivo han ampliado y adaptado sus programas de CVA en función de los retos particulares que plantea",
+    "bbox": [
+      53.5,
+      709.0,
+      534.0,
+      722.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b041",
+    "text": "la pandemia, con una preferencia hacia pagos electrónicos o pagos hechos mediante el celular para reducir",
+    "bbox": [
+      53.5,
+      722.2,
+      544.2,
+      736.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 1,
+    "block_id": "4_p1_b042",
+    "text": "el riesgo de contagio.1",
+    "bbox": [
+      53.5,
+      735.4,
+      153.6,
+      749.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b003",
+    "text": "2    CaLP, 2020. Estado del Efectivo Mundial 2020.",
+    "bbox": [
+      53.9,
+      714.0,
+      213.9,
+      722.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b004",
+    "text": "3   Ibid.",
+    "bbox": [
+      53.9,
+      726.1,
+      74.2,
+      734.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b005",
+    "text": "4   Entre ellos se encuentran los esfuerzos realizados por el grupo de trabajo sobre efectivo y riesgo del Grand Bargain Cash, la Cash Learning",
+    "bbox": [
+      53.9,
+      738.1,
+      519.4,
+      746.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b006",
+    "text": "Partnership (CaLP), la Common Cash Delivery Network y la Common Cash Statement de la ONU, entre otros.",
+    "bbox": [
+      53.9,
+      747.1,
+      419.0,
+      755.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b007",
+    "text": "5   International Committee of the Red Cross (ICRC) y Privacy International, 2018. El problema de los metadatos humanitarios: \"No hacer daño\" en la",
+    "bbox": [
+      53.9,
+      759.0,
+      535.8,
+      767.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b008",
+    "text": "era digital.",
+    "bbox": [
+      53.9,
+      768.0,
+      93.7,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b009",
+    "text": "De acuerdo con el reporte del 2020 State of the World’s Cash (Estado del Efectivo Mundial 2020), la",
+    "bbox": [
+      53.9,
+      45.2,
+      502.3,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b010",
+    "text": "percepción de los riesgos digitales y de gestión de datos ha aumentado también su importancia en",
+    "bbox": [
+      53.9,
+      58.4,
+      505.6,
+      72.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b011",
+    "text": "los últimos años.2 En varios foros de CVA se han reconocido las siguientes preocupaciones3: (i) existe",
+    "bbox": [
+      53.9,
+      71.6,
+      511.5,
+      85.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b012",
+    "text": "una importante carencia de recursos prácticos para ayudar a los profesionales a conciliar las normas",
+    "bbox": [
+      53.9,
+      84.8,
+      514.2,
+      98.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b013",
+    "text": "éticas contenidas en las políticas de responsabilidad de los datos con la presión diaria para ejecutar los",
+    "bbox": [
+      53.9,
+      98.0,
+      526.1,
+      111.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b014",
+    "text": "programas; (ii) no existen mecanismos que permitan compartir colectivamente y aprender de los casos",
+    "bbox": [
+      53.9,
+      111.2,
+      525.1,
+      125.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b015",
+    "text": "de gestión de incidentes de datos críticos; y (iii) la disminución de tolerancia al riesgo en el CVA, en parte",
+    "bbox": [
+      53.9,
+      124.4,
+      530.8,
+      138.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b016",
+    "text": "debido a las medidas contra el lavado de dinero, el terrorismo y a la economía política del efectivo, que se",
+    "bbox": [
+      53.9,
+      137.6,
+      538.3,
+      151.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b017",
+    "text": "extiende al espacio de la gestión de datos.",
+    "bbox": [
+      53.9,
+      150.8,
+      245.8,
+      164.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b018",
+    "text": "Los agentes humanitarios han hecho un progreso considerable en promover la responsabilidad de datos",
+    "bbox": [
+      53.9,
+      177.2,
+      532.3,
+      191.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b019",
+    "text": "en el CVA. Con ayuda de una serie de iniciativas4 que tienen como objetivo garantizar la protección de",
+    "bbox": [
+      53.9,
+      190.4,
+      517.7,
+      204.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b020",
+    "text": "los beneficiarios que brindan ayuda y también apoyar formas de trabajo más eficientes, colaborativas y",
+    "bbox": [
+      53.9,
+      203.6,
+      526.7,
+      217.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b021",
+    "text": "basadas en datos. Los acuerdos bilaterales y multilaterales entre las organizaciones humanitarias, incluidos",
+    "bbox": [
+      53.9,
+      216.8,
+      547.0,
+      230.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b022",
+    "text": "los acuerdos globales de intercambio de datos y las estrategias de ejecución de programas conjuntos,",
+    "bbox": [
+      53.9,
+      230.0,
+      519.2,
+      243.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b023",
+    "text": "complementando estos esfuerzos colectivos.",
+    "bbox": [
+      53.9,
+      243.2,
+      260.9,
+      257.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b024",
+    "text": "Sin embargo, siguen existiendo brechas entre los marcos globales de responsabilidad de los datos y su",
+    "bbox": [
+      53.9,
+      269.6,
+      523.5,
+      283.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b025",
+    "text": "aplicación práctica en la prestación de CVA. El propósito de esta nota orientativa es ayudar al ofrecer una",
+    "bbox": [
+      53.9,
+      282.8,
+      532.7,
+      296.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b026",
+    "text": "visión general de los beneficios y riesgos comunes relacionados con los datos que encuentran los agentes",
+    "bbox": [
+      53.9,
+      296.0,
+      537.1,
+      309.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b027",
+    "text": "del efectivo. También ofrece un conjunto de acciones que las organizaciones pueden llevar a cabo para",
+    "bbox": [
+      53.9,
+      309.2,
+      524.4,
+      323.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b028",
+    "text": "mejorar la responsabilidad de los datos en la prestación de asistencia en efectivo y mediante vales.",
+    "bbox": [
+      53.9,
+      322.4,
+      504.4,
+      336.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b029",
+    "text": "GESTIÓN DE DATOS PARA LA AYUDA EN EFECTIVO Y MEDIANTE VALES",
+    "bbox": [
+      53.3,
+      359.5,
+      476.6,
+      374.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b030",
+    "text": "La CVA necesita una recolección de datos personal y no personal que podrían considerarse datos sensibles",
+    "bbox": [
+      53.2,
+      382.2,
+      540.5,
+      396.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b031",
+    "text": "en la mayoría de los contextos humanitarios. Los datos personales que normalmente se recolectan en",
+    "bbox": [
+      53.2,
+      395.4,
+      519.3,
+      409.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b032",
+    "text": "los programas de CVA incluyen números de identificación nacional, números telefónicos, direcciones,",
+    "bbox": [
+      53.2,
+      408.6,
+      517.9,
+      422.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b033",
+    "text": "nombres de familiares, detalles personales del banco, datos biométricos, entre otros. Los datos no",
+    "bbox": [
+      53.2,
+      421.8,
+      503.6,
+      435.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b034",
+    "text": "personales más comunes en los programas de CVA incluyen micro datos de encuestas, evaluaciones de",
+    "bbox": [
+      53.2,
+      435.0,
+      524.7,
+      448.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b035",
+    "text": "necesidades, información demográfica identificable sobre los diferentes grupos que reciben asistencia,",
+    "bbox": [
+      53.2,
+      448.2,
+      525.7,
+      462.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b036",
+    "text": "datos de localización de los puntos de distribución de CVA y datos anónimos y/o agregados de las opiniones",
+    "bbox": [
+      53.2,
+      461.4,
+      546.6,
+      475.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b037",
+    "text": "de la comunidad, entre otros. El suministro de CVA también genera nuevas formas de metadatos5 que las",
+    "bbox": [
+      53.2,
+      474.6,
+      532.2,
+      488.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b038",
+    "text": "organizaciones humanitarias que anteriormente no han gestionado, como los datos sobre las transacciones",
+    "bbox": [
+      53.2,
+      487.8,
+      546.5,
+      501.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b039",
+    "text": "con diferentes proveedores de servicios financieros y los patrones de gasto o consumo de las poblaciones",
+    "bbox": [
+      53.2,
+      501.0,
+      536.6,
+      514.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b040",
+    "text": "afectadas.",
+    "bbox": [
+      53.2,
+      514.2,
+      102.4,
+      528.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b041",
+    "text": "A diferencia de otros ámbitos de la asistencia humanitaria, el CVA involucra a una gama especialmente",
+    "bbox": [
+      53.2,
+      540.6,
+      522.4,
+      554.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b042",
+    "text": "amplia y diversa de agentes. La complejidad del flujo de datos entre las organizaciones humanitarias y los",
+    "bbox": [
+      53.2,
+      553.8,
+      537.6,
+      567.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b043",
+    "text": "diferentes socios que participan en la prestación del CVA da lugar a problemas de protección de datos y a",
+    "bbox": [
+      53.2,
+      567.0,
+      533.5,
+      580.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b044",
+    "text": "otras preocupaciones, que se exponen con más detalle a continuación.",
+    "bbox": [
+      53.2,
+      580.2,
+      378.4,
+      594.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b045",
+    "text": "En los programas de CVA se aplican diferentes criterios sobre la responsabilidad de los datos según las",
+    "bbox": [
+      53.2,
+      606.6,
+      521.5,
+      620.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b046",
+    "text": "organizaciones y los contextos. Esto se debe a (i) la variación de los distintos niveles de familiaridad con",
+    "bbox": [
+      53.2,
+      619.8,
+      526.8,
+      633.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b047",
+    "text": "las orientaciones existentes sobre la responsabilidad de los datos y las correspondientes deficiencias de",
+    "bbox": [
+      53.2,
+      633.0,
+      529.1,
+      646.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b048",
+    "text": "capacidad entre el personal de los programas y (ii) la evolución de los riesgos de datos relacionados a",
+    "bbox": [
+      53.2,
+      646.2,
+      518.0,
+      660.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 2,
+    "block_id": "4_p2_b049",
+    "text": "nuevas formas de distribución de mecanismos y modelos de colaboración en la CVA. Principalmente las",
+    "bbox": [
+      53.2,
+      659.4,
+      525.4,
+      673.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b003",
+    "text": "DATOS RELACIONADOS CON BENEFICIOS Y RIEGOS EN LA ASISTENCIA EN",
+    "bbox": [
+      54.0,
+      291.6,
+      501.7,
+      306.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b004",
+    "text": "EFECTIVO Y MEDIANTE VALES",
+    "bbox": [
+      54.0,
+      304.8,
+      232.5,
+      319.7
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b005",
+    "text": "La responsabilidad de datos requiere un claro entendimiento de ambos, los beneficios y los riegos",
+    "bbox": [
+      53.9,
+      327.2,
+      503.3,
+      341.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b006",
+    "text": "asociados con la gestión de datos. Aunque pueden variar de un entorno a otro, hay beneficios y riesgos",
+    "bbox": [
+      53.9,
+      340.4,
+      524.4,
+      354.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b007",
+    "text": "relacionados con los datos que se reconocen comúnmente en la comunidad de CVA.",
+    "bbox": [
+      53.9,
+      353.6,
+      436.9,
+      367.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b008",
+    "text": "Los beneficios que incluye el CVA:",
+    "bbox": [
+      53.9,
+      374.8,
+      207.2,
+      388.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b009",
+    "text": "•\t Mayor comprensión de prioridades, necesidades y preferencias.",
+    "bbox": [
+      65.2,
+      392.8,
+      367.4,
+      406.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b010",
+    "text": "•\t Mejora de asistencia, incluyendo la deduplicación de listas de beneficiarios.",
+    "bbox": [
+      65.2,
+      410.8,
+      421.0,
+      424.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b011",
+    "text": "•\t Incremento de eficacia y efectividad de diferentes mecanismos de distribución.",
+    "bbox": [
+      65.2,
+      428.8,
+      437.6,
+      442.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b012",
+    "text": "•\t Fomentar la transparencia y responsabilidad.",
+    "bbox": [
+      65.2,
+      448.8,
+      290.3,
+      462.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b013",
+    "text": "Los riesgos que incluye el CVA:",
+    "bbox": [
+      53.9,
+      470.0,
+      192.5,
+      483.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b014",
+    "text": "•\t La exposición de datos sensibles que pueden llegar a dañar a personas afectadas y/o al personal",
+    "bbox": [
+      65.2,
+      488.0,
+      517.4,
+      501.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b015",
+    "text": "humanitario.",
+    "bbox": [
+      76.5,
+      501.2,
+      136.0,
+      515.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b016",
+    "text": "•\t Brechas en la protección de datos, privacidad de datos y seguridad de estos.",
+    "bbox": [
+      65.2,
+      519.2,
+      423.5,
+      533.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b017",
+    "text": "•\t Uso indebido por terceras partes de los datos con fines humanitarios.",
+    "bbox": [
+      65.2,
+      537.2,
+      392.3,
+      551.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b018",
+    "text": "•\t Pérdida de confianza entre las personas afectadas.",
+    "bbox": [
+      65.2,
+      555.2,
+      307.5,
+      569.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b019",
+    "text": "Reglamento sobre \"Conocimiento del cliente\" (KYC)",
+    "bbox": [
+      64.9,
+      113.8,
+      297.8,
+      125.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b020",
+    "text": "Reglamento de \"Conocimiento del cliente\", conocido también como diligencia debida con respecto al cliente, él cual",
+    "bbox": [
+      64.9,
+      132.1,
+      524.9,
+      144.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b021",
+    "text": "esta diseñado para combatir el lavado de dinero, financiación terrorista y otras amenazas relacionadas con el sistema",
+    "bbox": [
+      64.9,
+      143.5,
+      528.6,
+      155.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b022",
+    "text": "financiero. Hacen referencia a los controles de identificación que las instituciones financieras realizan para cumplir",
+    "bbox": [
+      64.9,
+      154.9,
+      518.7,
+      166.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b023",
+    "text": "con la normativa financiera nacional. Mientras que algunas agencias humanitarias no se ven sujetadas al reglamento",
+    "bbox": [
+      64.9,
+      166.3,
+      526.1,
+      178.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b024",
+    "text": "KYC, los proveedores de servicios financieros con los que se asocian lo están. Como, esta normativa tiene un impacto",
+    "bbox": [
+      64.9,
+      177.7,
+      526.5,
+      189.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b025",
+    "text": "directo en la gestión responsable de los datos generados y compartidos para la asistencia en efectivo y mediante",
+    "bbox": [
+      64.9,
+      189.1,
+      509.9,
+      201.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b026",
+    "text": "vales. Los requisitos de KYC se establecen a nivel nacional y pueden variar en función a criterios en específicos.",
+    "bbox": [
+      64.9,
+      200.5,
+      501.8,
+      212.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b027",
+    "text": "Para más información sobre KYC en la asistencia humanitaria en efectivo y mediante vales, vea, \"La hoja de",
+    "bbox": [
+      64.9,
+      218.5,
+      489.3,
+      230.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b028",
+    "text": "consejos de Elan sobre el Reglamento de KYC” y Normas de ACNUR y World Vision sobre conocimiento del cliente y",
+    "bbox": [
+      64.9,
+      229.9,
+      525.0,
+      241.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b029",
+    "text": "recomendaciones de privacidad para las transferencias de efectivo”.",
+    "bbox": [
+      64.9,
+      241.3,
+      341.7,
+      253.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b030",
+    "text": "6  Para más información sobre la protección de datos en la asistencia con dinero en efectivo y mediante vales. Veáse Protecting Beneficiary de",
+    "bbox": [
+      53.7,
+      749.6,
+      534.8,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b031",
+    "text": "CaLP, Protecting personal data anad privacy in field de la Common Cash Delivery (CDD): Una guía para intercmbio de datos entre organizaciones",
+    "bbox": [
+      53.7,
+      758.6,
+      534.5,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b032",
+    "text": "humanitarias, y el Manual del CICR sobre la protección de datos en la acción humanitaria.",
+    "bbox": [
+      53.7,
+      767.6,
+      356.8,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b033",
+    "text": "orientativas existentes6 se centran en la gestión segura y la protección de los datos personales, y no",
+    "bbox": [
+      53.4,
+      45.1,
+      506.8,
+      59.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b034",
+    "text": "abordan plenamente las preocupaciones relacionadas con los datos no personales, que son sensibles en",
+    "bbox": [
+      53.4,
+      58.3,
+      532.9,
+      72.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 3,
+    "block_id": "4_p3_b035",
+    "text": "muchos contextos y requieren una sólida protección.",
+    "bbox": [
+      53.4,
+      71.5,
+      294.5,
+      85.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b003",
+    "text": "RECOMENDACIONES PARA MEJORAR LA RESPONSABILIDAD DE DATOS EN LA",
+    "bbox": [
+      53.9,
+      428.4,
+      521.6,
+      443.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b004",
+    "text": "ASISTENCIA EN EFECTIVO Y MEDIANTE VALES",
+    "bbox": [
+      53.9,
+      441.6,
+      329.4,
+      456.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b005",
+    "text": "La responsabilidad de datos requiere la implementación de acciones basadas en diferentes niveles de",
+    "bbox": [
+      53.9,
+      466.1,
+      520.1,
+      479.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b006",
+    "text": "respuestas humanitarias. Esto incluye acciones para garantizar la protección y la seguridad de los datos, así",
+    "bbox": [
+      53.9,
+      479.3,
+      544.8,
+      493.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b007",
+    "text": "como estrategias para minimizar los riesgos y maximizar los beneficios de la gestión de datos.",
+    "bbox": [
+      53.9,
+      492.5,
+      482.3,
+      506.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b008",
+    "text": "El centro humanitario de datos, CaLP and NORCAP/Consejo Noruego de Refugiados",
+    "bbox": [
+      53.9,
+      514.5,
+      433.5,
+      528.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b009",
+    "text": "recomiendan el seguimiento de acciones para mejorar la responsabilidad de datos en la prestación de",
+    "bbox": [
+      53.9,
+      527.7,
+      520.8,
+      541.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b010",
+    "text": "asistencia en efectivo y mediante vales:",
+    "bbox": [
+      53.9,
+      540.9,
+      233.5,
+      554.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b011",
+    "text": "•\t Esquematizar ecosistemas de datos de la CVA.",
+    "bbox": [
+      65.2,
+      560.4,
+      296.8,
+      575.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b012",
+    "text": "•\t El establecimiento de un protocolo de intercambio de información específico para los programas",
+    "bbox": [
+      65.2,
+      580.4,
+      542.7,
+      595.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b013",
+    "text": "de CVA.",
+    "bbox": [
+      76.5,
+      593.6,
+      112.6,
+      608.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b014",
+    "text": "•\t El establecimiento de acuerdos en intercambio de datos personales.",
+    "bbox": [
+      65.2,
+      613.6,
+      403.9,
+      628.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b015",
+    "text": "•\t La realización de evaluaciones de impacto de datos en todas las intervenciones de CVA.",
+    "bbox": [
+      65.2,
+      633.6,
+      496.7,
+      648.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b016",
+    "text": "•\t La introducción de procedimientos de gestión de incidentes de datos.",
+    "bbox": [
+      65.2,
+      653.6,
+      412.0,
+      668.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b017",
+    "text": "•\t El seguimiento de las cuestiones y los progresos en la responsabilidad de datos a través de las",
+    "bbox": [
+      65.2,
+      673.6,
+      529.0,
+      688.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b018",
+    "text": "estructuras de coordinación.",
+    "bbox": [
+      76.5,
+      686.8,
+      215.0,
+      701.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b019",
+    "text": "La siguiente tabla ofrece una descripción de estas acciones y referencias de una orientación adicional y",
+    "bbox": [
+      53.9,
+      709.3,
+      525.5,
+      723.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b020",
+    "text": "plantillas de diferentes organizaciones humanitarias, cuando estén disponibles.",
+    "bbox": [
+      53.9,
+      722.5,
+      417.9,
+      736.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b021",
+    "text": "Orientación práctica para la Comunidad de Efectivo: Conjunto de herramientas de",
+    "bbox": [
+      65.4,
+      55.3,
+      475.4,
+      68.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b022",
+    "text": "responsabilidad de datos del CaLP",
+    "bbox": [
+      65.4,
+      67.3,
+      236.7,
+      80.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b023",
+    "text": "Conjunto de herramientas de responsabilidad de datos del CaLp ofrece una guía detallada sobre",
+    "bbox": [
+      65.4,
+      93.0,
+      512.5,
+      106.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b024",
+    "text": "responsabilidad de los datos en la asistencia con dinero en efectivo y mediante vales. El conjunto de",
+    "bbox": [
+      65.4,
+      106.2,
+      523.7,
+      120.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b025",
+    "text": "herramientas pretende reflejar mejor la complejidad de las relaciones con los socios, los modelos",
+    "bbox": [
+      65.4,
+      119.4,
+      511.7,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b026",
+    "text": "de prestación de servicios operativos y los flujos de datos asociados. También pretende abordar los",
+    "bbox": [
+      65.4,
+      132.6,
+      520.4,
+      146.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b027",
+    "text": "elementos de la recolección de datos a distancia que surgieron a principios del año 2020 en vista del",
+    "bbox": [
+      65.4,
+      145.8,
+      523.6,
+      159.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b028",
+    "text": "COVID-19.",
+    "bbox": [
+      65.4,
+      159.0,
+      110.9,
+      172.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b029",
+    "text": "El conjunto de herramientas destaca la necesidad de un enfoque ecosistémico y de un análisis de",
+    "bbox": [
+      65.4,
+      183.2,
+      509.5,
+      197.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b030",
+    "text": "poder entre quienes recolectan, utilizan y comparten los datos de los beneficiarios del CVA. También",
+    "bbox": [
+      65.4,
+      196.4,
+      524.7,
+      210.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b031",
+    "text": "señala la necesidad de contextualización, creatividad, capacidad y colaboración entre los agentes del",
+    "bbox": [
+      65.4,
+      209.6,
+      528.9,
+      223.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b032",
+    "text": "CVA y entre los equipos organizativos para garantizar una mejor protección de los datos.",
+    "bbox": [
+      65.4,
+      222.8,
+      470.9,
+      236.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b033",
+    "text": "El conjunto de herramientas incluye una profunda consideración de algunas de las dificultades entre",
+    "bbox": [
+      65.4,
+      247.0,
+      526.5,
+      260.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b034",
+    "text": "los diferentes agentes con respecto a los datos, así como orientación sobre el intercambio de datos,",
+    "bbox": [
+      65.4,
+      260.2,
+      521.1,
+      274.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b035",
+    "text": "las relaciones entre los controladores y los procesadores de datos,  las evaluaciones de impacto",
+    "bbox": [
+      65.4,
+      273.4,
+      503.4,
+      287.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b036",
+    "text": "sobre la privacidad, las bases legales para la recolección de datos (incluyendo el consentimiento y",
+    "bbox": [
+      65.4,
+      286.6,
+      513.6,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b037",
+    "text": "los intereses legítimos), la preparación para posibles incidentes críticos de datos o violaciones, y la",
+    "bbox": [
+      65.4,
+      299.8,
+      517.0,
+      313.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b038",
+    "text": "comunicación con las poblaciones afectadas sobre la recolección y el procesamiento de datos.",
+    "bbox": [
+      65.4,
+      313.0,
+      495.9,
+      326.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b039",
+    "text": "Está estructurado en torno a las diferentes etapas de un ciclo de vida de los datos típico de los",
+    "bbox": [
+      65.4,
+      337.2,
+      495.1,
+      351.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b040",
+    "text": "programas de CVA y abarca tanto los datos personales como los no personales, al tiempo que",
+    "bbox": [
+      65.4,
+      350.4,
+      493.0,
+      364.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b041",
+    "text": "incorpora los nuevos requisitos legales derivados del Reglamento General de Protección de Datos de",
+    "bbox": [
+      65.4,
+      363.6,
+      525.4,
+      377.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 4,
+    "block_id": "4_p4_b042",
+    "text": "la Unión Europea.",
+    "bbox": [
+      65.4,
+      376.8,
+      147.0,
+      390.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b003",
+    "text": "7    Vea por ejemplo Conjunto de datos mínimos de prestación de asistencia básica para las poblaciones afectadas.",
+    "bbox": [
+      54.0,
+      726.2,
+      420.4,
+      734.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b004",
+    "text": "8    OCHA, 2019. Borrador de trabajo de las Directrices de Responsabilidad de Datos, 55-62.",
+    "bbox": [
+      54.0,
+      738.2,
+      343.3,
+      746.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b005",
+    "text": "9    Esto incluye las Evaluaciones de Impacto de la Protección de Datos, así como otros tipos de evaluaciones que consideran los posibles riesgos,",
+    "bbox": [
+      54.0,
+      750.3,
+      520.7,
+      758.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b006",
+    "text": "daños y beneficios de un ejercicio de gestión de datos. Obtenga más información en esta nota de orientación sobre por Centro de datos",
+    "bbox": [
+      54.0,
+      759.2,
+      500.8,
+      767.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b007",
+    "text": "humanitarios, ICRC, Privacy International, y UN Global Pulse.",
+    "bbox": [
+      54.0,
+      768.3,
+      259.5,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b008",
+    "text": "Acción",
+    "bbox": [
+      61.2,
+      46.1,
+      96.4,
+      58.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b009",
+    "text": "Esquematizar",
+    "bbox": [
+      61.7,
+      71.4,
+      130.4,
+      86.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b010",
+    "text": "ecosistemas de",
+    "bbox": [
+      61.7,
+      84.6,
+      137.1,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b011",
+    "text": "datos de la CVA.",
+    "bbox": [
+      61.7,
+      97.8,
+      137.9,
+      112.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b012",
+    "text": "Un esquema del ecosistema de datos ayuda a identificar las brechas de datos y",
+    "bbox": [
+      172.7,
+      71.4,
+      534.5,
+      85.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b013",
+    "text": "las posibles duplicaciones, y permite priorizar y tomar decisiones estratégicas",
+    "bbox": [
+      172.7,
+      84.6,
+      529.4,
+      98.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b014",
+    "text": "sobre la gestión responsable de los datos. También proporciona un resumen de",
+    "bbox": [
+      172.7,
+      97.8,
+      537.2,
+      111.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b015",
+    "text": "las principales actividades de gestión de datos, incluyendo la escala, el alcance",
+    "bbox": [
+      172.7,
+      111.0,
+      534.9,
+      124.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b016",
+    "text": "y los tipos de datos que se procesan, las partes interesadas, los flujos de datos",
+    "bbox": [
+      172.7,
+      124.2,
+      530.9,
+      138.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b017",
+    "text": "entre los diferentes agentes, y los procesos y plataformas en uso en la entrega",
+    "bbox": [
+      172.7,
+      137.4,
+      529.5,
+      151.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b018",
+    "text": "de CVA en un contexto determinado. El Grupo de Trabajo sobre el Efectivo (The",
+    "bbox": [
+      172.7,
+      150.6,
+      533.5,
+      164.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b019",
+    "text": "Cash Working Group (CWG)), en colaboración con sus socios, deberá completar",
+    "bbox": [
+      172.7,
+      163.8,
+      534.5,
+      177.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b020",
+    "text": "el ejercicio de esquematización del ecosistema de datos y actualizarlo",
+    "bbox": [
+      172.7,
+      177.0,
+      493.5,
+      190.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b021",
+    "text": "posteriormente cada año.",
+    "bbox": [
+      172.7,
+      190.2,
+      290.8,
+      204.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b022",
+    "text": "Descripción",
+    "bbox": [
+      173.2,
+      46.3,
+      233.7,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b023",
+    "text": "Un protocolo de intercambio de información (ISP) sirve de base para un",
+    "bbox": [
+      172.7,
+      220.1,
+      501.0,
+      234.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b024",
+    "text": "enfoque colectivo de intercambio responsable de datos e información. El",
+    "bbox": [
+      172.7,
+      233.3,
+      507.8,
+      247.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b025",
+    "text": "ISP establece los términos que todas las organizaciones humanitarias y los",
+    "bbox": [
+      172.7,
+      246.5,
+      514.9,
+      260.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b026",
+    "text": "proveedores de servicios de terceros que participan en la prestación del",
+    "bbox": [
+      172.7,
+      259.7,
+      502.2,
+      273.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b027",
+    "text": "CVA se comprometen a respetar. Debe complementar cualquier acuerdo",
+    "bbox": [
+      172.7,
+      272.9,
+      503.8,
+      286.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b028",
+    "text": "bilateral de intercambio de datos preexistente (véase más abajo), alinearse",
+    "bbox": [
+      172.7,
+      286.1,
+      516.0,
+      300.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b029",
+    "text": "con las normas aplicables de “Conocimiento del Cliente” (KYC), e incluir",
+    "bbox": [
+      172.7,
+      299.3,
+      502.0,
+      313.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b030",
+    "text": "elementos clave como una clasificación de la sensibilidad de los datos",
+    "bbox": [
+      172.7,
+      312.5,
+      495.3,
+      326.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b031",
+    "text": "y un calendario de retención y destrucción de datos. Un ISP también",
+    "bbox": [
+      172.7,
+      325.7,
+      486.0,
+      339.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b032",
+    "text": "puede especificar un conjunto mínimo de datos básicos7 para facilitar",
+    "bbox": [
+      172.7,
+      338.9,
+      491.7,
+      352.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b033",
+    "text": "la prestación de asistencia en efectivo en un contexto concreto. En las",
+    "bbox": [
+      172.7,
+      352.1,
+      492.0,
+      366.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b034",
+    "text": "Directrices de Responsabilidad de Datos de OCHA se incluye un modelo de",
+    "bbox": [
+      172.7,
+      365.3,
+      514.1,
+      379.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b035",
+    "text": "ISP. El desarrollo de un PSI específico para la programación del CVA debería",
+    "bbox": [
+      172.7,
+      378.5,
+      516.4,
+      392.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b036",
+    "text": "completarse como un ejercicio colectivo dirigido por el CWG.",
+    "bbox": [
+      172.7,
+      391.7,
+      451.6,
+      405.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b037",
+    "text": "Un acuerdo de intercambio de datos (DSA) establece los términos y condiciones",
+    "bbox": [
+      172.7,
+      422.6,
+      538.4,
+      436.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b038",
+    "text": "que rigen el intercambio de datos personales. Se utiliza principalmente para",
+    "bbox": [
+      172.7,
+      435.8,
+      522.2,
+      449.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b039",
+    "text": "compartir datos entre dos partes y suele establecerse a nivel nacional. De",
+    "bbox": [
+      172.7,
+      449.0,
+      509.1,
+      462.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b040",
+    "text": "acuerdo con los marcos de protección de datos, se requiere la firma de un DSA",
+    "bbox": [
+      172.7,
+      462.2,
+      531.5,
+      476.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b041",
+    "text": "para compartir datos personales. En los programas de CVA, los DSA o acuerdos",
+    "bbox": [
+      172.7,
+      475.4,
+      533.3,
+      489.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b042",
+    "text": "similares son necesarios no sólo entre las organizaciones humanitarias y",
+    "bbox": [
+      172.7,
+      488.6,
+      505.4,
+      502.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b043",
+    "text": "sus socios, sino también con los FSP y otras terceras partes implicadas en la",
+    "bbox": [
+      172.7,
+      501.8,
+      519.4,
+      515.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b044",
+    "text": "prestación de asistencia.",
+    "bbox": [
+      172.7,
+      515.0,
+      285.4,
+      528.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b045",
+    "text": "El establecimiento",
+    "bbox": [
+      61.7,
+      219.4,
+      153.3,
+      234.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b046",
+    "text": "de un protocolo",
+    "bbox": [
+      61.7,
+      232.6,
+      139.6,
+      247.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b047",
+    "text": "de intercambio",
+    "bbox": [
+      61.7,
+      245.8,
+      137.1,
+      260.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b048",
+    "text": "de información",
+    "bbox": [
+      61.7,
+      259.0,
+      137.4,
+      273.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b049",
+    "text": "específico para los",
+    "bbox": [
+      61.7,
+      272.2,
+      152.7,
+      286.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b050",
+    "text": "programas de CVA.",
+    "bbox": [
+      61.7,
+      285.4,
+      152.5,
+      300.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b051",
+    "text": "El establecimiento",
+    "bbox": [
+      61.7,
+      422.2,
+      153.3,
+      436.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b052",
+    "text": "de acuerdos en",
+    "bbox": [
+      61.7,
+      435.4,
+      136.7,
+      449.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b053",
+    "text": "intercambio de",
+    "bbox": [
+      61.7,
+      448.6,
+      137.1,
+      463.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b054",
+    "text": "datos personales.",
+    "bbox": [
+      61.7,
+      461.8,
+      147.1,
+      476.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b055",
+    "text": "La realización",
+    "bbox": [
+      61.6,
+      545.7,
+      130.6,
+      560.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b056",
+    "text": "de evaluaciones",
+    "bbox": [
+      61.6,
+      558.9,
+      141.3,
+      573.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b057",
+    "text": "de impacto de",
+    "bbox": [
+      61.6,
+      572.1,
+      131.8,
+      586.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b058",
+    "text": "datos en todas las",
+    "bbox": [
+      61.6,
+      585.3,
+      150.1,
+      599.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b059",
+    "text": "intervenciones de",
+    "bbox": [
+      61.6,
+      598.5,
+      150.3,
+      613.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b060",
+    "text": "CVA.",
+    "bbox": [
+      61.6,
+      611.7,
+      83.4,
+      626.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b061",
+    "text": "Las evaluaciones del impacto de los datos9 determinan los riesgos, daños",
+    "bbox": [
+      171.8,
+      545.7,
+      508.0,
+      559.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b062",
+    "text": "y beneficios esperados, así como los sobre la privacidad, la protección de",
+    "bbox": [
+      171.8,
+      558.9,
+      507.2,
+      572.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b063",
+    "text": "datos y/o los derechos humanos de una actividad de gestión de datos. Una",
+    "bbox": [
+      171.8,
+      572.1,
+      514.7,
+      586.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b064",
+    "text": "evaluación sirve de base para el diseño y la ejecución de las actividades de",
+    "bbox": [
+      171.8,
+      585.3,
+      513.8,
+      599.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b065",
+    "text": "gestión de datos de manera que se maximicen los beneficios y se minimicen",
+    "bbox": [
+      171.8,
+      598.5,
+      520.4,
+      612.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b066",
+    "text": "los riesgos. El tipo más común de evaluación del impacto de los datos en los",
+    "bbox": [
+      171.8,
+      611.7,
+      520.8,
+      625.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b067",
+    "text": "programas de CVA es la evaluación del impacto de la protección de datos,",
+    "bbox": [
+      171.8,
+      624.9,
+      508.8,
+      638.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b068",
+    "text": "que se centra explícitamente en los datos personales. Si un programa de CVA",
+    "bbox": [
+      171.8,
+      638.1,
+      523.8,
+      652.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b069",
+    "text": "también genera grandes volúmenes de datos no personales, las organizaciones",
+    "bbox": [
+      171.8,
+      651.3,
+      535.2,
+      665.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b070",
+    "text": "deberían intentar ampliar su plantilla de evaluación estándar para abordar",
+    "bbox": [
+      171.8,
+      664.5,
+      515.1,
+      678.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b071",
+    "text": "también los riesgos, daños y beneficios relacionados con los datos no",
+    "bbox": [
+      171.8,
+      677.7,
+      490.8,
+      691.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 5,
+    "block_id": "4_p5_b072",
+    "text": "personales.",
+    "bbox": [
+      171.8,
+      690.9,
+      224.8,
+      704.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.0,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b003",
+    "text": "10 Obtenga más información en esta Nota de Orientación sobre la Gestión de Incidentes de Datos elaborada por el Centro de Datos Humanitarios y",
+    "bbox": [
+      53.9,
+      759.1,
+      536.5,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b004",
+    "text": "el Instituto Jackson de Asuntos Globales de la Universidad de Yale.",
+    "bbox": [
+      53.9,
+      768.1,
+      275.9,
+      776.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b005",
+    "text": "La gestión, el seguimiento y la comunicación de los incidentes relacionados con",
+    "bbox": [
+      172.1,
+      59.7,
+      537.0,
+      73.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b006",
+    "text": "los datos requieren procedimientos operativos estándar para la gestión",
+    "bbox": [
+      172.1,
+      72.9,
+      499.2,
+      86.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b007",
+    "text": "de incidentes10 y un registro central que recoja los detalles clave sobre la",
+    "bbox": [
+      172.1,
+      86.1,
+      503.7,
+      100.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b008",
+    "text": "naturaleza, la gravedad y la resolución de cada incidente. Esto incluirá a",
+    "bbox": [
+      172.1,
+      99.3,
+      501.7,
+      113.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b009",
+    "text": "menudo un mecanismo de rectificación y reparación a través del cual los",
+    "bbox": [
+      172.1,
+      112.5,
+      505.9,
+      126.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b010",
+    "text": "beneficiarios puedan buscar la resolución de problemas relacionados con la",
+    "bbox": [
+      172.1,
+      125.7,
+      521.6,
+      139.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b011",
+    "text": "prestación de CVA, incluidas las preocupaciones sobre la gestión de sus datos.",
+    "bbox": [
+      172.1,
+      138.9,
+      527.6,
+      152.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b012",
+    "text": "Aunque se anima a las organizaciones a establecer sus propios procedimientos",
+    "bbox": [
+      172.1,
+      152.1,
+      533.7,
+      166.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b013",
+    "text": "de gestión de incidentes de datos, el seguimiento colectivo de los incidentes",
+    "bbox": [
+      172.1,
+      165.3,
+      522.1,
+      179.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b014",
+    "text": "y el intercambio de las lecciones aprendidas a través del CWG es importante",
+    "bbox": [
+      172.1,
+      178.5,
+      520.4,
+      192.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b015",
+    "text": "en el complejo e interconectado ecosistema de datos de CVA.",
+    "bbox": [
+      172.1,
+      191.7,
+      450.5,
+      205.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b016",
+    "text": "Las estructuras de coordinación, como el CWG pueden servir de plataforma",
+    "bbox": [
+      172.1,
+      227.8,
+      517.3,
+      241.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b017",
+    "text": "común para supervisar el progreso colectivo y/o los retos y oportunidades",
+    "bbox": [
+      172.1,
+      241.0,
+      511.7,
+      254.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b018",
+    "text": "de la responsabilidad de los datos. También pueden apoyar la mejora de la",
+    "bbox": [
+      172.1,
+      254.2,
+      515.5,
+      268.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b019",
+    "text": "coordinación y la toma de decisiones para avanzar en la responsabilidad de los",
+    "bbox": [
+      172.1,
+      267.4,
+      534.3,
+      281.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b020",
+    "text": "datos en la prestación del CVA en un contexto determinado.",
+    "bbox": [
+      172.1,
+      280.6,
+      443.5,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b021",
+    "text": "La introducción de",
+    "bbox": [
+      61.9,
+      59.0,
+      153.8,
+      73.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b022",
+    "text": "procedimientos",
+    "bbox": [
+      61.9,
+      72.2,
+      140.0,
+      86.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b023",
+    "text": "de gestión de",
+    "bbox": [
+      61.9,
+      85.4,
+      128.2,
+      100.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b024",
+    "text": "incidentes de",
+    "bbox": [
+      61.9,
+      98.6,
+      128.7,
+      113.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b025",
+    "text": "datos.",
+    "bbox": [
+      61.9,
+      111.8,
+      92.0,
+      126.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b026",
+    "text": "El seguimiento de",
+    "bbox": [
+      61.9,
+      227.1,
+      149.8,
+      241.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b027",
+    "text": "las cuestiones y",
+    "bbox": [
+      61.9,
+      240.3,
+      140.0,
+      254.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b028",
+    "text": "los progresos en la",
+    "bbox": [
+      61.9,
+      253.5,
+      154.0,
+      268.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b029",
+    "text": "responsabilidad de",
+    "bbox": [
+      61.9,
+      266.7,
+      156.4,
+      281.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b030",
+    "text": "datos a través de",
+    "bbox": [
+      61.9,
+      279.9,
+      145.6,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b031",
+    "text": "las estructuras de",
+    "bbox": [
+      61.9,
+      293.1,
+      149.7,
+      307.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b032",
+    "text": "coordinación.",
+    "bbox": [
+      61.9,
+      306.3,
+      128.5,
+      320.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b033",
+    "text": "Las organizaciones son alentadas a compartir su experiencia al promover la responsabilidad de datos en la",
+    "bbox": [
+      53.9,
+      349.8,
+      542.9,
+      363.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b034",
+    "text": "prestación de asistencia en efectivo y mediante vales con el centro por medio de centrehumdata@un.org.",
+    "bbox": [
+      53.9,
+      362.8,
+      538.0,
+      377.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b035",
+    "text": "Este proyecto esta",
+    "bbox": [
+      53.9,
+      718.9,
+      113.3,
+      728.6
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b036",
+    "text": "cofinanciado por la Unión",
+    "bbox": [
+      53.9,
+      728.1,
+      137.7,
+      737.7
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b037",
+    "text": "Europea",
+    "bbox": [
+      53.9,
+      737.3,
+      80.6,
+      746.9
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b038",
+    "text": "El presente documento abarca las actividades de ayuda humanitaria realizadas con la ayuda financiera",
+    "bbox": [
+      145.0,
+      659.4,
+      530.7,
+      670.7
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b039",
+    "text": "de la Unión Europea. Las opiniones expresadas en él no deben considerarse, en modo alguno, como la",
+    "bbox": [
+      145.0,
+      670.2,
+      528.4,
+      681.5
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b040",
+    "text": "opinión oficial de la Unión Europea, y la Comisión Europea no es responsable del uso que pueda hacerse",
+    "bbox": [
+      145.0,
+      681.0,
+      536.7,
+      692.3
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b041",
+    "text": "de la información que contiene.",
+    "bbox": [
+      145.0,
+      691.8,
+      263.7,
+      703.1
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b042",
+    "text": "COLABORADORES: CALP Y NORCAP/CONSEJO NORUEGO DE REFUGIADOS.",
+    "bbox": [
+      53.9,
+      532.1,
+      365.6,
+      545.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b043",
+    "text": "El Centro Para Los Datos Humanitarios ('El Centro'), junto con socios importantes, está publicando una serie",
+    "bbox": [
+      64.7,
+      558.5,
+      517.9,
+      571.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b044",
+    "text": "de notas de orientación sobre la responsabilidad de los datos en la acción humanitaria a lo largo de 2019 y",
+    "bbox": [
+      64.7,
+      570.9,
+      507.1,
+      583.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b045",
+    "text": "2020. La serie de notas de orientación sigue a la publicación del borrador de trabajo de las Directrices de",
+    "bbox": [
+      64.7,
+      582.7,
+      503.2,
+      595.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b046",
+    "text": "Responsabilidad en marzo del 2019. A través de esta serie, el Centro pretende proporcionar orientación adicional",
+    "bbox": [
+      64.7,
+      594.7,
+      536.4,
+      607.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b047",
+    "text": "sobre cuestiones, procesos y herramientasespecíficas para la responsabilidad de los datos en la práctica. Esta",
+    "bbox": [
+      64.7,
+      606.9,
+      520.3,
+      619.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b048",
+    "text": "serie es posible gracias al generoso apoyo de la Dirección General de Protección Civil y Operaciones de Ayuda",
+    "bbox": [
+      64.7,
+      618.9,
+      518.9,
+      631.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "4",
+    "page_number": 6,
+    "block_id": "4_p6_b049",
+    "text": "Humanitaria (DG ECHO).",
+    "bbox": [
+      64.7,
+      630.9,
+      166.1,
+      643.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

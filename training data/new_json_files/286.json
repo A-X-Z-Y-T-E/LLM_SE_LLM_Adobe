@@ -1,0 +1,3677 @@
+[
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      217.9,
+      808.8,
+      377.7,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b003",
+    "text": "JULY 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      73.5,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b004",
+    "text": "INTRODUCTION",
+    "bbox": [
+      35.8,
+      138.3,
+      137.9,
+      156.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b005",
+    "text": "A data ecosystem consists of the data management activities and related data, infrastructure, tools, processes,",
+    "bbox": [
+      35.8,
+      168.2,
+      542.7,
+      182.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b006",
+    "text": "stakeholders and applicable guidance in a context. Understanding how the different components of a data",
+    "bbox": [
+      35.8,
+      181.4,
+      524.3,
+      195.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b007",
+    "text": "ecosystem relate to one another and how data moves within and between organizations helps to ensure that data",
+    "bbox": [
+      35.8,
+      194.6,
+      555.5,
+      208.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b008",
+    "text": "is managed in a responsible way.",
+    "bbox": [
+      35.8,
+      207.8,
+      188.1,
+      221.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b009",
+    "text": "There are three steps to understanding data ecosystems in a humanitarian response:",
+    "bbox": [
+      35.8,
+      236.0,
+      421.3,
+      249.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b010",
+    "text": "•\t Developing an organization-level data management registry and activity diagrams.",
+    "bbox": [
+      50.0,
+      255.5,
+      464.3,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b011",
+    "text": "•\t Compiling registries at the cluster/sector-level and system-wide level.",
+    "bbox": [
+      50.0,
+      275.5,
+      400.8,
+      290.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b012",
+    "text": "•\t Developing data ecosystem maps.",
+    "bbox": [
+      50.0,
+      295.5,
+      230.0,
+      310.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b013",
+    "text": "This tip sheet offers instructions and templates for completing these steps in line with the IASC Operational",
+    "bbox": [
+      35.8,
+      322.4,
+      527.6,
+      336.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b014",
+    "text": "Guidance on Data Responsibility in Humanitarian Action.1",
+    "bbox": [
+      35.8,
+      335.6,
+      297.9,
+      349.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b015",
+    "text": "STEP 1: DEVELOPING AN ORGANIZATION-LEVEL DATA MANAGEMENT REGISTRY AND",
+    "bbox": [
+      35.8,
+      363.9,
+      542.2,
+      382.4
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b016",
+    "text": "ACTIVITY DIAGRAMS",
+    "bbox": [
+      35.8,
+      380.7,
+      163.8,
+      399.2
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b017",
+    "text": "The first step to understanding a data ecosystem is documenting each of the data management activities led",
+    "bbox": [
+      35.8,
+      410.6,
+      531.7,
+      424.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b018",
+    "text": "by your organization in the context. Examples of data management activities include needs assessments,",
+    "bbox": [
+      35.8,
+      423.8,
+      515.8,
+      437.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b019",
+    "text": "displacement tracking, beneficiary registration and enrollment, protection case management, community",
+    "bbox": [
+      35.8,
+      437.0,
+      521.4,
+      450.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b020",
+    "text": "perception surveys, and response monitoring and evaluation, among others.",
+    "bbox": [
+      35.8,
+      450.2,
+      385.2,
+      464.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b021",
+    "text": "Organizations should document these activities in a data management registry, which typically includes the",
+    "bbox": [
+      35.8,
+      476.1,
+      536.5,
+      490.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b022",
+    "text": "following details:",
+    "bbox": [
+      35.8,
+      489.8,
+      116.3,
+      503.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b023",
+    "text": "•\t Activity description, including type (e.g. registration, needs assessment, survey), purpose, location and",
+    "bbox": [
+      50.0,
+      515.7,
+      543.7,
+      530.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b024",
+    "text": "sensitivity of the data being managed.",
+    "bbox": [
+      64.1,
+      529.4,
+      238.2,
+      543.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b025",
+    "text": "•\t Timeframe and status, including whether the activity is one-off or recurring, and whether it is ongoing,",
+    "bbox": [
+      50.0,
+      555.3,
+      540.7,
+      569.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b026",
+    "text": "completed or planned.",
+    "bbox": [
+      64.1,
+      569.0,
+      168.3,
+      582.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b027",
+    "text": "•\t Actors and responsibilities, including the lead actor, collaborators, roles, and relevant cluster and sub-",
+    "bbox": [
+      50.0,
+      594.9,
+      536.6,
+      609.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b028",
+    "text": "cluster/working group/area of responsibility.",
+    "bbox": [
+      64.1,
+      608.6,
+      269.6,
+      622.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b029",
+    "text": "•\t Infrastructure and tools used for collecting, receiving, storing, analyzing and destroying the data.",
+    "bbox": [
+      50.0,
+      634.5,
+      513.5,
+      649.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b030",
+    "text": "•\t Data disaggregation, such as by admin level, sex, age or disability, and if relevant, the methodology used.",
+    "bbox": [
+      50.0,
+      660.9,
+      548.6,
+      675.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b031",
+    "text": "•\t Data sharing, including the websites, reports and information products the data management activity will",
+    "bbox": [
+      50.0,
+      687.3,
+      553.7,
+      701.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b032",
+    "text": "contribute to.",
+    "bbox": [
+      64.1,
+      701.0,
+      126.6,
+      714.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b033",
+    "text": "•\t Guidance and governance, including Standard Operating Procedures for the activity, applicable legislation",
+    "bbox": [
+      50.0,
+      726.9,
+      558.4,
+      741.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b034",
+    "text": "and regulations, and applicable Information Sharing Protocols or similar documents.",
+    "bbox": [
+      64.1,
+      740.6,
+      451.1,
+      754.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b035",
+    "text": "TIP SHEET: UNDERSTANDING DATA ECOSYSTEMS",
+    "bbox": [
+      35.0,
+      72.1,
+      502.5,
+      100.9
+    ],
+    "font_size": 20.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b036",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      36.3,
+      99.3,
+      273.5,
+      116.6
+    ],
+    "font_size": 12.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 1,
+    "block_id": "286_p1_b037",
+    "text": "1  For reference see the IASC Operational Guidance on Data Responsibility in Humanitarian Action.",
+    "bbox": [
+      36.7,
+      786.7,
+      360.5,
+      795.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      217.9,
+      808.8,
+      377.7,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b003",
+    "text": "JULY 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      73.5,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b004",
+    "text": "Use the Data Management Registry Template to develop and maintain the registry for your organization.",
+    "bbox": [
+      35.4,
+      33.2,
+      514.1,
+      47.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b005",
+    "text": "The details of each data management activity can also be visualized in a data management diagram. A diagram",
+    "bbox": [
+      35.4,
+      59.4,
+      549.4,
+      74.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b006",
+    "text": "offers a visual understanding of an activity and can help identify gaps in data sharing, infrastructure or guidance.",
+    "bbox": [
+      35.4,
+      73.1,
+      549.6,
+      86.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b007",
+    "text": "Use the Data Management Diagram Template to develop the diagram. The organization-level registry and",
+    "bbox": [
+      35.4,
+      86.0,
+      523.2,
+      100.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b008",
+    "text": "diagrams serve as the basis for step two described below.",
+    "bbox": [
+      35.4,
+      99.5,
+      297.1,
+      113.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b009",
+    "text": "The data management diagram below shows the steps of a hypothetical Multi-Sector Needs Assessment (MSNA).",
+    "bbox": [
+      35.4,
+      125.9,
+      548.1,
+      139.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b010",
+    "text": "1. Two NGOs collect data from affected people after obtaining consent using the MSNA Informed Consent Form.",
+    "bbox": [
+      49.6,
+      152.3,
+      558.6,
+      166.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b011",
+    "text": "The NGOs store the data locally on servers in their offices in line with the MSNA Terms of Reference (ToR) and",
+    "bbox": [
+      49.6,
+      165.5,
+      545.8,
+      179.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b012",
+    "text": "local data protection legislation.",
+    "bbox": [
+      49.6,
+      178.7,
+      197.0,
+      192.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b013",
+    "text": "2. The NGOs share the data with the Assessment Working Group (AWG), which consists of two UN entities and an",
+    "bbox": [
+      49.6,
+      205.1,
+      562.1,
+      218.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b014",
+    "text": "International Organization. The AWG compiles the data and stores it in the cloud.",
+    "bbox": [
+      49.6,
+      218.3,
+      417.7,
+      232.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b015",
+    "text": "3. The AWG shares disaggregated data with the clusters for analysis, which the clusters share back with the AWG",
+    "bbox": [
+      49.6,
+      244.7,
+      559.8,
+      258.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b016",
+    "text": "once complete. The AWG also shares aggregated data with the local government and a donor government in line",
+    "bbox": [
+      49.6,
+      257.9,
+      563.2,
+      271.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b017",
+    "text": "with the Information Sharing Protocol (ISP).",
+    "bbox": [
+      49.6,
+      271.1,
+      251.6,
+      284.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b018",
+    "text": "4. The AWG synthesizes the clusters’ analysis and publishes a needs assessment report. It also shares the",
+    "bbox": [
+      49.6,
+      297.5,
+      528.2,
+      311.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b019",
+    "text": "underlying aggregated data on the Humanitarian Data Exchange.",
+    "bbox": [
+      49.6,
+      310.7,
+      345.0,
+      324.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b020",
+    "text": "DATA MANAGEMENT DIAGRAM: A MULTI-SECTOR NEEDS ASSESSMENT",
+    "bbox": [
+      35.4,
+      360.0,
+      454.4,
+      378.5
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b021",
+    "text": "AFFECTED",
+    "bbox": [
+      21.7,
+      604.6,
+      49.4,
+      612.8
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b022",
+    "text": "PEOPLE",
+    "bbox": [
+      24.8,
+      612.0,
+      46.3,
+      620.2
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b023",
+    "text": "NGO",
+    "bbox": [
+      143.3,
+      577.4,
+      160.7,
+      588.9
+    ],
+    "font_size": 8.9,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b024",
+    "text": "MSNA Terms of Reference;",
+    "bbox": [
+      61.5,
+      590.4,
+      118.8,
+      597.1
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b025",
+    "text": "Local Data Protection",
+    "bbox": [
+      61.5,
+      595.9,
+      109.7,
+      602.5
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b026",
+    "text": "Legislation; Informed",
+    "bbox": [
+      61.5,
+      601.4,
+      109.6,
+      608.0
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b027",
+    "text": "Consent Form",
+    "bbox": [
+      61.5,
+      606.9,
+      92.3,
+      613.5
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b028",
+    "text": "1 COLLECT & STORE",
+    "bbox": [
+      62.5,
+      576.1,
+      118.5,
+      584.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b029",
+    "text": "CLOUD STORAGE",
+    "bbox": [
+      295.7,
+      668.2,
+      341.0,
+      676.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b030",
+    "text": "Assessment",
+    "bbox": [
+      303.8,
+      568.1,
+      330.9,
+      574.7
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b031",
+    "text": "Working Group",
+    "bbox": [
+      300.8,
+      573.6,
+      334.0,
+      580.2
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b032",
+    "text": "LOCAL GOVERNMENT",
+    "bbox": [
+      448.2,
+      585.1,
+      505.4,
+      593.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b033",
+    "text": "DONOR GOVERNMENT",
+    "bbox": [
+      447.6,
+      642.2,
+      507.5,
+      650.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b034",
+    "text": "Aggregated Data",
+    "bbox": [
+      430.1,
+      627.7,
+      460.0,
+      632.4
+    ],
+    "font_size": 4.1,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b035",
+    "text": "MSNA Terms of Reference;",
+    "bbox": [
+      363.7,
+      590.4,
+      421.0,
+      597.1
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b036",
+    "text": "Information Sharing",
+    "bbox": [
+      363.7,
+      595.9,
+      409.4,
+      602.5
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b037",
+    "text": "Protocol; Local Data",
+    "bbox": [
+      363.7,
+      601.4,
+      408.7,
+      608.0
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b038",
+    "text": "Protection Legislation",
+    "bbox": [
+      363.7,
+      606.9,
+      412.1,
+      613.5
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b039",
+    "text": "3 SHARE",
+    "bbox": [
+      364.7,
+      576.1,
+      390.3,
+      584.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b040",
+    "text": "Aggregated Data",
+    "bbox": [
+      430.1,
+      565.3,
+      460.0,
+      570.0
+    ],
+    "font_size": 4.1,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b041",
+    "text": "Disaggregated Data",
+    "bbox": [
+      429.9,
+      601.6,
+      464.8,
+      606.3
+    ],
+    "font_size": 4.1,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b042",
+    "text": "LOCAL STORAGE",
+    "bbox": [
+      161.0,
+      627.2,
+      205.1,
+      635.4
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b043",
+    "text": "NGO",
+    "bbox": [
+      143.3,
+      606.9,
+      160.7,
+      618.4
+    ],
+    "font_size": 8.9,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b044",
+    "text": "MSNA Terms of Reference;",
+    "bbox": [
+      210.9,
+      590.4,
+      268.2,
+      597.1
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b045",
+    "text": "Information Sharing",
+    "bbox": [
+      210.9,
+      595.9,
+      256.5,
+      602.5
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b046",
+    "text": "Protocol",
+    "bbox": [
+      210.9,
+      601.4,
+      229.5,
+      608.0
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b047",
+    "text": "2 SHARE",
+    "bbox": [
+      211.9,
+      576.1,
+      237.4,
+      584.3
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b048",
+    "text": "REPORT",
+    "bbox": [
+      323.8,
+      484.0,
+      346.0,
+      492.2
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b049",
+    "text": "Clusters",
+    "bbox": [
+      536.1,
+      569.2,
+      553.9,
+      575.9
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b050",
+    "text": "SHELTER",
+    "bbox": [
+      526.6,
+      624.1,
+      541.0,
+      629.0
+    ],
+    "font_size": 3.7,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b051",
+    "text": "PROTECTION",
+    "bbox": [
+      534.3,
+      597.8,
+      555.6,
+      602.7
+    ],
+    "font_size": 3.7,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b052",
+    "text": "WASH",
+    "bbox": [
+      552.6,
+      624.0,
+      562.3,
+      628.9
+    ],
+    "font_size": 3.7,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b053",
+    "text": "Symbols Entity or Object",
+    "bbox": [
+      24.4,
+      410.6,
+      69.0,
+      415.7
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b054",
+    "text": "Aﬀected People",
+    "bbox": [
+      42.2,
+      420.3,
+      68.1,
+      424.3
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b055",
+    "text": "Infrastructure",
+    "bbox": [
+      42.2,
+      462.6,
+      65.0,
+      466.6
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b056",
+    "text": "Other IO",
+    "bbox": [
+      42.2,
+      441.3,
+      56.2,
+      445.3
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b057",
+    "text": "NGO",
+    "bbox": [
+      42.2,
+      451.9,
+      49.9,
+      455.9
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b058",
+    "text": "Government",
+    "bbox": [
+      42.2,
+      473.2,
+      63.0,
+      477.1
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b059",
+    "text": "Data Transfer",
+    "bbox": [
+      42.2,
+      526.4,
+      64.3,
+      530.3
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b060",
+    "text": "Wash",
+    "bbox": [
+      42.2,
+      515.8,
+      51.1,
+      519.8
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b061",
+    "text": "Protection",
+    "bbox": [
+      42.2,
+      504.6,
+      59.7,
+      508.6
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b062",
+    "text": "Shelter",
+    "bbox": [
+      42.2,
+      494.3,
+      54.1,
+      498.3
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b063",
+    "text": "Publication",
+    "bbox": [
+      42.2,
+      483.6,
+      61.2,
+      487.6
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b064",
+    "text": "Governance / Guidance",
+    "bbox": [
+      36.5,
+      535.7,
+      75.2,
+      539.7
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b065",
+    "text": "Group / Cluster",
+    "bbox": [
+      36.5,
+      540.5,
+      61.6,
+      544.5
+    ],
+    "font_size": 4.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b066",
+    "text": "NGO",
+    "bbox": [
+      27.9,
+      451.4,
+      34.8,
+      456.0
+    ],
+    "font_size": 3.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b067",
+    "text": "HDX",
+    "bbox": [
+      295.9,
+      484.0,
+      307.3,
+      492.2
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b068",
+    "text": "MSNA Terms of Reference;",
+    "bbox": [
+      287.7,
+      522.2,
+      346.0,
+      528.8
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b069",
+    "text": "Information Sharing",
+    "bbox": [
+      287.7,
+      527.7,
+      333.3,
+      534.3
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b070",
+    "text": "Protocol",
+    "bbox": [
+      287.7,
+      533.2,
+      306.3,
+      539.8
+    ],
+    "font_size": 5.1,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 2,
+    "block_id": "286_p2_b071",
+    "text": "4 PUBLICATION",
+    "bbox": [
+      288.7,
+      507.8,
+      332.8,
+      516.1
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      217.9,
+      808.8,
+      377.7,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b003",
+    "text": "JULY 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      73.5,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b004",
+    "text": "STEP 2: COMPILING REGISTRIES AT THE CLUSTER/SECTOR-LEVEL AND SYSTEM-WIDE",
+    "bbox": [
+      35.4,
+      32.2,
+      548.6,
+      50.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b005",
+    "text": "LEVEL",
+    "bbox": [
+      35.4,
+      49.0,
+      73.1,
+      67.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b006",
+    "text": "The second step to understanding data ecosystems involves sharing the organization-level data management",
+    "bbox": [
+      35.4,
+      78.9,
+      535.7,
+      92.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b007",
+    "text": "registry and diagrams with relevant clusters/sectors and with the Information Management Working Group (IMWG)",
+    "bbox": [
+      35.4,
+      92.1,
+      559.3,
+      106.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b008",
+    "text": "or similar coordination group for compilation. This helps identify data gaps and duplication at the cluster/sector-",
+    "bbox": [
+      35.4,
+      105.3,
+      548.4,
+      119.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b009",
+    "text": "level and system-wide level. It also enables prioritization and strategic decision-making on responsible data",
+    "bbox": [
+      35.4,
+      118.5,
+      528.4,
+      132.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b010",
+    "text": "management.",
+    "bbox": [
+      35.4,
+      131.7,
+      99.6,
+      145.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b011",
+    "text": "Clusters/sector leads should maintain a cluster/sector-level registry of the data management activities led by their",
+    "bbox": [
+      35.4,
+      158.1,
+      559.1,
+      172.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b012",
+    "text": "members and relevant to their thematic area of focus. For example, a health cluster data management registry",
+    "bbox": [
+      35.4,
+      171.3,
+      542.4,
+      185.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b013",
+    "text": "might include activities such as disease monitoring, health facility tracking, distribution of medical supplies. The",
+    "bbox": [
+      35.4,
+      184.5,
+      551.6,
+      198.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b014",
+    "text": "cluster/sector-level registry should be developed based on the Data Management Registry Template.",
+    "bbox": [
+      35.4,
+      197.7,
+      492.6,
+      211.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b015",
+    "text": "At the system-wide level, a registry should contain all data management activities in a response, categorized by",
+    "bbox": [
+      35.4,
+      224.1,
+      545.7,
+      238.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b016",
+    "text": "lead organization and cluster. In most cases, the registry would be compiled by OCHA on behalf of the IMWG, again",
+    "bbox": [
+      35.4,
+      237.3,
+      560.3,
+      251.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b017",
+    "text": "using the Data Management Registry Template.",
+    "bbox": [
+      35.4,
+      250.3,
+      257.8,
+      264.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b018",
+    "text": "Registries should be shared publicly to ensure transparency around data management activities.2 In some response",
+    "bbox": [
+      35.4,
+      276.9,
+      563.3,
+      290.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b019",
+    "text": "environments — notably in conflict settings — the fact that a given data management activity is taking place or",
+    "bbox": [
+      35.4,
+      290.1,
+      539.9,
+      304.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b020",
+    "text": "specific details about the activity may need to be kept confidential. Any risk associated with sharing the registry",
+    "bbox": [
+      35.4,
+      303.3,
+      545.5,
+      317.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b021",
+    "text": "should be considered by the lead organization for the activity and in consultation with the relevant cluster/sector",
+    "bbox": [
+      35.4,
+      316.5,
+      551.7,
+      330.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b022",
+    "text": "partners and OCHA.",
+    "bbox": [
+      35.4,
+      329.7,
+      125.9,
+      343.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b023",
+    "text": "STEP 3: DEVELOPING DATA ECOSYSTEM MAPS",
+    "bbox": [
+      35.4,
+      356.2,
+      310.3,
+      374.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b024",
+    "text": "The third step is developing data ecosystem maps. A data ecosystem map is a visualization of the various ways",
+    "bbox": [
+      35.4,
+      386.1,
+      539.3,
+      400.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b025",
+    "text": "that data flows between and among actors in multiple data management activities. OCHA should develop a data",
+    "bbox": [
+      35.4,
+      399.3,
+      549.3,
+      413.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b026",
+    "text": "ecosystem map at the system-wide level, in consultation with the IMWG and ICCG.",
+    "bbox": [
+      35.4,
+      412.5,
+      409.7,
+      426.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b027",
+    "text": "Given the complexity of data ecosystems, it may be best to use a white-board or flip chart to sketch out the priority",
+    "bbox": [
+      35.4,
+      438.9,
+      561.1,
+      452.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b028",
+    "text": "data management activities in your response. If useful, you can then create a digital version using the visualization",
+    "bbox": [
+      35.4,
+      452.1,
+      560.4,
+      466.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b029",
+    "text": "tools and software designed for this purpose.3 Some details may be excluded to reduce complexity and improve the",
+    "bbox": [
+      35.4,
+      465.3,
+      565.2,
+      479.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b030",
+    "text": "legibility of the data ecosystem map.",
+    "bbox": [
+      35.4,
+      478.5,
+      204.9,
+      492.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b031",
+    "text": "The data ecosystem map below represents a data ecosystem in which four hypothetical data management activities",
+    "bbox": [
+      35.4,
+      504.9,
+      565.2,
+      518.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b032",
+    "text": "are taking place. These include a mobility tracking activity, a needs assessment, internal displacement tracking, and",
+    "bbox": [
+      35.4,
+      518.1,
+      566.3,
+      532.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b033",
+    "text": "response monitoring. Visualizing these data management activities together helps gain a quick understanding of",
+    "bbox": [
+      35.4,
+      531.3,
+      550.6,
+      545.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b034",
+    "text": "the actors involved in data management across the response, how data flows between those actors and where there",
+    "bbox": [
+      35.4,
+      544.5,
+      566.9,
+      558.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b035",
+    "text": "is room for improving the data ecosystem.",
+    "bbox": [
+      35.4,
+      557.7,
+      227.4,
+      571.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b036",
+    "text": "2  For example OCHA’s 2021 Assessment Registry for Palestine.",
+    "bbox": [
+      36.7,
+      756.7,
+      240.3,
+      765.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b037",
+    "text": "3  Tools include the Open Data Institute Data Ecosystem Mapping tool, the Protection Information Management Training Resource Pack (see package 4 from",
+    "bbox": [
+      36.7,
+      768.7,
+      548.6,
+      777.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b038",
+    "text": "page 163) or the template provided in Annex D of the IASC Operational Guidance on Data Responsibility in Humanitarian Action. Microsoft Visio is a suitable",
+    "bbox": [
+      36.7,
+      777.7,
+      554.6,
+      786.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 3,
+    "block_id": "286_p3_b039",
+    "text": "tool to visualize data ecosystem maps. Free online tools should be used with caution given data security risks.",
+    "bbox": [
+      36.7,
+      786.8,
+      400.0,
+      795.3
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      217.9,
+      808.8,
+      377.7,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b003",
+    "text": "JULY 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      73.5,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b004",
+    "text": "POPULATION, ASSESSMENT, INTERNAL DISPLACEMENT & RESPONSE MONITORING",
+    "bbox": [
+      35.4,
+      32.2,
+      539.7,
+      50.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b005",
+    "text": "ECOSYSTEM MAP",
+    "bbox": [
+      35.4,
+      49.0,
+      138.4,
+      67.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b006",
+    "text": "POPULATION",
+    "bbox": [
+      35.4,
+      279.4,
+      76.3,
+      288.8
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b007",
+    "text": "AFFECTED POPULATION",
+    "bbox": [
+      88.8,
+      169.9,
+      162.8,
+      179.3
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b008",
+    "text": "IA Assessment",
+    "bbox": [
+      191.2,
+      315.4,
+      233.2,
+      324.0
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b009",
+    "text": "Groups",
+    "bbox": [
+      201.9,
+      322.5,
+      222.4,
+      331.1
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b010",
+    "text": "NGO",
+    "bbox": [
+      179.9,
+      377.5,
+      204.2,
+      393.6
+    ],
+    "font_size": 12.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b011",
+    "text": "CBO",
+    "bbox": [
+      220.5,
+      377.5,
+      243.4,
+      393.6
+    ],
+    "font_size": 12.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b012",
+    "text": "HAC",
+    "bbox": [
+      119.2,
+      275.3,
+      132.1,
+      284.7
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b013",
+    "text": "LINE MINISTRIES",
+    "bbox": [
+      99.5,
+      283.8,
+      151.8,
+      293.2
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b014",
+    "text": "Census Data",
+    "bbox": [
+      100.0,
+      218.3,
+      134.8,
+      226.9
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b015",
+    "text": "Protocol",
+    "bbox": [
+      100.0,
+      225.4,
+      124.1,
+      234.0
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b016",
+    "text": "LOCAL STORAGE",
+    "bbox": [
+      87.1,
+      335.7,
+      137.8,
+      345.1
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b017",
+    "text": "Symbols Entity or Object",
+    "bbox": [
+      484.9,
+      418.5,
+      540.8,
+      424.9
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b018",
+    "text": "Population",
+    "bbox": [
+      507.1,
+      429.8,
+      530.2,
+      436.1
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b019",
+    "text": "CBO",
+    "bbox": [
+      507.1,
+      496.3,
+      516.3,
+      502.6
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b020",
+    "text": "Other IO",
+    "bbox": [
+      507.1,
+      469.4,
+      524.7,
+      475.7
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b021",
+    "text": "NGO",
+    "bbox": [
+      507.1,
+      482.7,
+      516.8,
+      489.0
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b022",
+    "text": "Infrastructure",
+    "bbox": [
+      507.1,
+      509.7,
+      535.8,
+      516.0
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b023",
+    "text": "Government",
+    "bbox": [
+      507.1,
+      522.9,
+      533.3,
+      529.2
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b024",
+    "text": "Food Security",
+    "bbox": [
+      507.1,
+      602.7,
+      535.9,
+      609.0
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b025",
+    "text": "Wash",
+    "bbox": [
+      507.1,
+      576.1,
+      518.3,
+      582.4
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b026",
+    "text": "Protection",
+    "bbox": [
+      507.1,
+      563.0,
+      529.1,
+      569.3
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b027",
+    "text": "Shelter",
+    "bbox": [
+      507.1,
+      549.1,
+      522.1,
+      555.4
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b028",
+    "text": "Publication",
+    "bbox": [
+      507.1,
+      535.7,
+      531.0,
+      542.0
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b029",
+    "text": "Information Sharing Protocol",
+    "bbox": [
+      500.1,
+      657.0,
+      560.8,
+      663.3
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b030",
+    "text": "Applicable Guidance",
+    "bbox": [
+      500.1,
+      663.0,
+      542.9,
+      669.3
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b031",
+    "text": "Group / Cluster",
+    "bbox": [
+      500.1,
+      669.0,
+      531.5,
+      675.3
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b032",
+    "text": "NGO",
+    "bbox": [
+      489.3,
+      483.0,
+      497.9,
+      488.7
+    ],
+    "font_size": 4.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b033",
+    "text": "LOCAL & CLOUD",
+    "bbox": [
+      122.3,
+      429.1,
+      171.6,
+      438.5
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b034",
+    "text": "STORAGE",
+    "bbox": [
+      132.4,
+      437.6,
+      161.5,
+      447.0
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b035",
+    "text": "PUBLICATION",
+    "bbox": [
+      300.4,
+      339.4,
+      342.8,
+      348.8
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b036",
+    "text": "DONOR",
+    "bbox": [
+      309.5,
+      470.3,
+      332.8,
+      479.7
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b037",
+    "text": "GOVERNMENT",
+    "bbox": [
+      299.1,
+      478.8,
+      343.3,
+      488.2
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b038",
+    "text": "Data Protection",
+    "bbox": [
+      295.5,
+      413.3,
+      341.3,
+      421.9
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b039",
+    "text": "Legislation",
+    "bbox": [
+      295.5,
+      420.4,
+      326.7,
+      429.0
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b040",
+    "text": "FTS",
+    "bbox": [
+      310.4,
+      506.2,
+      329.8,
+      522.3
+    ],
+    "font_size": 12.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b041",
+    "text": "IOM-DTM",
+    "bbox": [
+      254.8,
+      156.4,
+      283.2,
+      165.8
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b042",
+    "text": "IDP Guiding",
+    "bbox": [
+      243.3,
+      99.4,
+      276.9,
+      108.0
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b043",
+    "text": "Principles",
+    "bbox": [
+      243.3,
+      106.5,
+      271.8,
+      115.1
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b044",
+    "text": "LOCAL & CLOUD",
+    "bbox": [
+      296.4,
+      188.1,
+      345.7,
+      197.5
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b045",
+    "text": "STORAGE",
+    "bbox": [
+      306.5,
+      196.7,
+      335.6,
+      206.1
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b046",
+    "text": "CLOUD STORAGE",
+    "bbox": [
+      328.0,
+      557.9,
+      380.1,
+      567.3
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b047",
+    "text": "Needs",
+    "bbox": [
+      189.9,
+      239.3,
+      204.7,
+      245.3
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b048",
+    "text": "data",
+    "bbox": [
+      194.3,
+      245.7,
+      204.7,
+      251.7
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b049",
+    "text": "Displacement",
+    "bbox": [
+      216.4,
+      239.1,
+      249.9,
+      245.2
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b050",
+    "text": "data",
+    "bbox": [
+      216.4,
+      245.5,
+      226.9,
+      251.6
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b051",
+    "text": "LOCAL & CLOUD",
+    "bbox": [
+      473.3,
+      350.0,
+      522.6,
+      359.4
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b052",
+    "text": "STORAGE",
+    "bbox": [
+      483.4,
+      358.5,
+      512.5,
+      367.9
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b053",
+    "text": "SHELTER",
+    "bbox": [
+      407.6,
+      204.6,
+      431.7,
+      212.8
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b054",
+    "text": "PROTECTION",
+    "bbox": [
+      383.3,
+      161.6,
+      418.9,
+      169.8
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b055",
+    "text": "WASH",
+    "bbox": [
+      451.2,
+      204.3,
+      467.4,
+      212.6
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b056",
+    "text": "NFI",
+    "bbox": [
+      411.4,
+      223.6,
+      429.4,
+      239.7
+    ],
+    "font_size": 12.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b057",
+    "text": "HEALTH",
+    "bbox": [
+      429.4,
+      162.0,
+      450.7,
+      170.2
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b058",
+    "text": "ISCG",
+    "bbox": [
+      312.1,
+      356.8,
+      330.2,
+      368.5
+    ],
+    "font_size": 8.9,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b059",
+    "text": "IMWG",
+    "bbox": [
+      310.0,
+      367.4,
+      332.3,
+      379.2
+    ],
+    "font_size": 8.9,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b060",
+    "text": "NUTRITION",
+    "bbox": [
+      462.6,
+      162.0,
+      493.7,
+      170.2
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b061",
+    "text": "FOOD SECURITY",
+    "bbox": [
+      437.9,
+      249.4,
+      481.5,
+      257.6
+    ],
+    "font_size": 6.2,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b062",
+    "text": "Data Management",
+    "bbox": [
+      413.6,
+      334.8,
+      466.7,
+      343.4
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b063",
+    "text": "Protocols",
+    "bbox": [
+      413.6,
+      341.9,
+      440.5,
+      350.5
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b064",
+    "text": "SECTORS",
+    "bbox": [
+      424.9,
+      369.1,
+      453.5,
+      378.5
+    ],
+    "font_size": 7.1,
+    "font_name": "SourceSansPro-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b065",
+    "text": "Population, Assessment, Displacement data",
+    "bbox": [
+      294.8,
+      389.0,
+      396.8,
+      395.0
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b066",
+    "text": "3/4Ws data",
+    "bbox": [
+      358.9,
+      358.6,
+      385.3,
+      364.6
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b067",
+    "text": "Population data SADD",
+    "bbox": [
+      92.1,
+      373.7,
+      144.0,
+      379.8
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b068",
+    "text": "Information Sharing",
+    "bbox": [
+      177.4,
+      91.9,
+      235.2,
+      100.5
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b069",
+    "text": "Protocol",
+    "bbox": [
+      177.4,
+      99.0,
+      201.5,
+      107.6
+    ],
+    "font_size": 6.6,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b070",
+    "text": "Response data",
+    "bbox": [
+      381.5,
+      77.1,
+      415.9,
+      83.2
+    ],
+    "font_size": 5.3,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b071",
+    "text": "CBO",
+    "bbox": [
+      489.5,
+      496.5,
+      497.7,
+      502.3
+    ],
+    "font_size": 4.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b072",
+    "text": "Aﬀected Population",
+    "bbox": [
+      507.1,
+      443.1,
+      548.3,
+      449.4
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b073",
+    "text": "Data Transfer",
+    "bbox": [
+      507.1,
+      642.8,
+      534.9,
+      649.1
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b074",
+    "text": "Health",
+    "bbox": [
+      507.1,
+      616.2,
+      521.0,
+      622.5
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b075",
+    "text": "Nutrition",
+    "bbox": [
+      507.1,
+      589.4,
+      526.1,
+      595.7
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b076",
+    "text": "NFI",
+    "bbox": [
+      507.1,
+      629.5,
+      514.2,
+      635.8
+    ],
+    "font_size": 5.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 4,
+    "block_id": "286_p4_b077",
+    "text": "NFI",
+    "bbox": [
+      490.1,
+      629.9,
+      496.5,
+      635.7
+    ],
+    "font_size": 4.4,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      217.9,
+      808.8,
+      377.7,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b002",
+    "text": "centre.humdata.org",
+    "bbox": [
+      259.1,
+      818.8,
+      336.4,
+      829.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b003",
+    "text": "JULY 2022",
+    "bbox": [
+      35.7,
+      808.8,
+      73.5,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b004",
+    "text": "Data ecosystem maps should be completed and updated annually by OCHA in consultation with the IMWG and ICCG.",
+    "bbox": [
+      35.4,
+      33.5,
+      566.3,
+      47.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b005",
+    "text": "They can be shared publicly unless  they contain data management activities that should be kept confidential. They",
+    "bbox": [
+      35.4,
+      46.7,
+      563.5,
+      60.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b006",
+    "text": "should also be shared with the Humanitarian Country Team for reference.",
+    "bbox": [
+      35.4,
+      59.9,
+      371.0,
+      73.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b007",
+    "text": "CONCLUSION",
+    "bbox": [
+      35.4,
+      86.4,
+      116.9,
+      104.9
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b008",
+    "text": "The development of data management registries, diagrams and data ecosystem maps improves the transparency",
+    "bbox": [
+      35.4,
+      116.3,
+      555.9,
+      130.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b009",
+    "text": "of data management in humanitarian response. Following the three steps presented in this tip sheet can lead to",
+    "bbox": [
+      35.4,
+      129.5,
+      546.1,
+      143.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b010",
+    "text": "a better understanding of the actors, data flows and opportunities for improving data management across a data",
+    "bbox": [
+      35.4,
+      142.7,
+      551.5,
+      156.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b011",
+    "text": "ecosystem. The OCHA Centre for Humanitarian Data is available for advisory support to offices and organizations",
+    "bbox": [
+      35.4,
+      155.9,
+      550.7,
+      169.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b012",
+    "text": "interested in developing these outputs.",
+    "bbox": [
+      35.4,
+      169.1,
+      214.6,
+      182.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b013",
+    "text": "The Centre for Humanitarian Data ('the Center'),  together with key partners, is publishing a series of guidance notes",
+    "bbox": [
+      46.8,
+      573.7,
+      545.1,
+      588.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b014",
+    "text": "and tip sheets on Data Responsibility in Humanitarian Action over the course of 2022 and 2023. The guidance note series",
+    "bbox": [
+      46.8,
+      586.9,
+      546.5,
+      599.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b015",
+    "text": "continues work initiated in 2019 and 2020. It also complements the Inter-Agency Standing Committee Operational",
+    "bbox": [
+      46.8,
+      598.9,
+      546.1,
+      613.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b016",
+    "text": "Guidance on Data Responsibility in Humanitarian Action and the OCHA Data Responsibility Guidelines,",
+    "bbox": [
+      46.8,
+      612.1,
+      523.5,
+      626.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b017",
+    "text": "which were published in February 2021 and October 2021 respectively. Through the series, the Centre aims",
+    "bbox": [
+      46.8,
+      625.6,
+      535.4,
+      639.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b018",
+    "text": "to provide additional guidance on specific issues, processes and tools for data responsibility in practice.",
+    "bbox": [
+      46.8,
+      638.8,
+      521.2,
+      652.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b019",
+    "text": "The guidance notes and tip sheets published in 2022-2023 have been made possible with the support of the",
+    "bbox": [
+      46.8,
+      652.0,
+      538.6,
+      665.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b020",
+    "text": "Government of Switzerland.",
+    "bbox": [
+      46.8,
+      665.2,
+      175.0,
+      679.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "286",
+    "page_number": 5,
+    "block_id": "286_p5_b021",
+    "text": "COLLABORATORS: JOINT IDP PROFILING SERVICE (JIPS).",
+    "bbox": [
+      35.0,
+      545.3,
+      260.7,
+      557.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,5462 @@
+[
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b003",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      54.0,
+      55.3,
+      374.4,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b004",
+    "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+    "bbox": [
+      53.3,
+      98.4,
+      276.9,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b005",
+    "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+    "bbox": [
+      53.3,
+      116.4,
+      467.7,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b006",
+    "text": "ENFOQUES RESPONSABLES PARA EL",
+    "bbox": [
+      53.3,
+      138.7,
+      432.7,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b007",
+    "text": "INTERCAMBIO DE DATOS",
+    "bbox": [
+      53.3,
+      162.7,
+      310.5,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b008",
+    "text": "CONCLUSIONES FUNDAMENTALES:",
+    "bbox": [
+      63.7,
+      221.0,
+      274.5,
+      236.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b009",
+    "text": "•\t El intercambio abierto de datos puntuales y precisos es esencial para una respuesta humanitaria",
+    "bbox": [
+      75.0,
+      243.7,
+      528.3,
+      257.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b010",
+    "text": "eficaz y racional. El modo en que las organizaciones humanitarias abordan el intercambio de",
+    "bbox": [
+      86.3,
+      256.9,
+      511.0,
+      270.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b011",
+    "text": "datos está directamente relacionado con la confianza y la cooperación en el sector.",
+    "bbox": [
+      86.3,
+      270.1,
+      463.6,
+      284.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b012",
+    "text": "•\t A medida que el ecosistema de datos humanitarios crece, las oportunidades y los riesgos de",
+    "bbox": [
+      75.0,
+      294.3,
+      507.2,
+      308.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b013",
+    "text": "compartir datos se vuelven más evidentes, lo que lleva a las organizaciones a explorar métodos",
+    "bbox": [
+      86.3,
+      307.5,
+      522.7,
+      321.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b014",
+    "text": "más limitados para compartir datos.",
+    "bbox": [
+      86.3,
+      320.7,
+      251.8,
+      334.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b015",
+    "text": "•\t Las organizaciones humanitarias reconocen ampliamente la sensibilidad de los datos personales:",
+    "bbox": [
+      75.0,
+      347.1,
+      533.1,
+      361.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b016",
+    "text": "su exposición tiene una alta probabilidad de causar daños. La mayoría de los datos no personales",
+    "bbox": [
+      86.3,
+      360.3,
+      533.6,
+      374.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b017",
+    "text": "son seguros para compartirlos abiertamente, aunque también pueden ser sensibles y deben",
+    "bbox": [
+      86.3,
+      373.5,
+      508.6,
+      387.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b018",
+    "text": "manejarse con precaución.",
+    "bbox": [
+      86.3,
+      386.7,
+      209.9,
+      400.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b019",
+    "text": "•\t Las organizaciones humanitarias deben tener en cuenta cuatro factores a la hora de decidir si",
+    "bbox": [
+      75.0,
+      410.9,
+      513.6,
+      424.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b020",
+    "text": "comparten datos no personales: (i) utilidad; (ii) sensibilidad; (iii) capacidad humana y técnica; y",
+    "bbox": [
+      86.3,
+      421.9,
+      522.7,
+      435.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b021",
+    "text": "(iv) gobernanza.",
+    "bbox": [
+      86.3,
+      432.9,
+      160.0,
+      446.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b022",
+    "text": "•\t Las organizaciones humanitarias deben identificar y comparar todos los métodos disponibles",
+    "bbox": [
+      75.0,
+      457.1,
+      514.9,
+      471.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b023",
+    "text": "para el intercambio de datos, considerando primero el enfoque más abierto y descendiendo a",
+    "bbox": [
+      86.3,
+      468.1,
+      515.6,
+      482.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b024",
+    "text": "más limitados según sea necesario.",
+    "bbox": [
+      86.3,
+      481.3,
+      247.4,
+      495.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b025",
+    "text": "INTRODUCCIÓN",
+    "bbox": [
+      53.5,
+      529.5,
+      149.5,
+      544.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b026",
+    "text": "La utilización y el intercambio de datos se han convertido en funciones fundamentales de las",
+    "bbox": [
+      53.5,
+      551.2,
+      478.8,
+      565.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b027",
+    "text": "organizaciones humanitarias. El personal tiene que decidir con regularidad si comparte los datos de su",
+    "bbox": [
+      53.5,
+      564.4,
+      523.6,
+      578.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b028",
+    "text": "organización y de qué manera, incluso si su función no se centra principalmente en la gestión de datos o",
+    "bbox": [
+      53.5,
+      577.6,
+      530.4,
+      591.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b029",
+    "text": "información. Más allá de las organizaciones individuales, también ha crecido el interés por compartir y",
+    "bbox": [
+      53.5,
+      590.8,
+      522.3,
+      604.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b030",
+    "text": "utilizar los datos generados en la acción humanitaria. Por ello, el sector humanitario ha experimentado un",
+    "bbox": [
+      53.5,
+      604.0,
+      538.9,
+      617.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b031",
+    "text": "aumento en la generación e intercambio de datos en los últimos años.",
+    "bbox": [
+      53.5,
+      617.2,
+      373.3,
+      631.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b032",
+    "text": "“Los datos precisos son el alma de una buena política y de la toma de",
+    "bbox": [
+      106.0,
+      650.4,
+      436.9,
+      663.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b033",
+    "text": "decisiones. Obtenerlos y compartirlos entre cientas de organizaciones en",
+    "bbox": [
+      106.0,
+      664.4,
+      463.9,
+      677.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b034",
+    "text": "medio de una emergencia humanitaria es complicado y requiere mucho",
+    "bbox": [
+      106.0,
+      678.4,
+      460.2,
+      691.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b035",
+    "text": "tiempo, pero es absolutamente crucial. ”",
+    "bbox": [
+      106.0,
+      692.4,
+      303.2,
+      705.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b036",
+    "text": "- El Secretario General de las Naciones Unidas, António Guterres en la apertura del Centro de",
+    "bbox": [
+      106.0,
+      715.1,
+      468.2,
+      725.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 1,
+    "block_id": "326_p1_b037",
+    "text": "Datos Humanitarios de la OCHA en La Haya en diciembre de 2017.",
+    "bbox": [
+      106.0,
+      727.1,
+      366.4,
+      737.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b003",
+    "text": "1   Acceda a datos de los nuevos casos de coronavirus (COVID-19) en HDX.",
+    "bbox": [
+      53.9,
+      695.9,
+      292.8,
+      704.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b004",
+    "text": "2   “Desde agosto de 2016 hasta agosto de 2020 (el periodo para el que se dispone de datos), el crecimiento de los usuarios mensuales de los países",
+    "bbox": [
+      53.9,
+      708.0,
+      537.2,
+      716.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b005",
+    "text": "que cuentan con un HRP fue del 943%, en comparación con el 566% de la resta de países\". Resultados del estudio del caso HDX, septiembre de",
+    "bbox": [
+      53.9,
+      716.9,
+      533.0,
+      725.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b006",
+    "text": "2020.",
+    "bbox": [
+      53.9,
+      726.0,
+      77.7,
+      734.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b007",
+    "text": "3   Entre ellas se encuentran, por ejemplo, el Subgrupo del IASC sobre Responsabilidad con los Datos en el Contexto Humanitario, y las iniciativas",
+    "bbox": [
+      53.9,
+      738.0,
+      534.2,
+      746.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b008",
+    "text": "de Protection Information Management y Responsible Data for Children, entre otras.",
+    "bbox": [
+      53.9,
+      747.0,
+      340.5,
+      755.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b009",
+    "text": "4   Para comprender mejor el reto al que se enfrentan las organizaciones humanitarias a la hora de compartir datos, concretamente en crisis",
+    "bbox": [
+      53.9,
+      759.0,
+      517.9,
+      767.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b010",
+    "text": "humanitarias prolongadas, véase ALNAP, \"Uso de recopilación de datos en crisis humanitarias prolongadas\" (junio de 2020).",
+    "bbox": [
+      53.9,
+      767.9,
+      477.5,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b011",
+    "text": "El intercambio abierto de datos puntuales y precisos es esencial para una respuesta humanitaria",
+    "bbox": [
+      53.9,
+      44.2,
+      495.9,
+      58.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b012",
+    "text": "eficaz y racional y debe seguir siendo un objetivo fundamental para el sector. Por ejemplo, los datos",
+    "bbox": [
+      53.9,
+      57.4,
+      510.3,
+      71.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b013",
+    "text": "epidemiológicos de COVID-191 recopilados y compartidos diariamente por el Centro de Ciencia e Ingeniería",
+    "bbox": [
+      53.9,
+      70.6,
+      543.5,
+      84.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b014",
+    "text": "de Sistemas de la Universidad Johns Hopkins se han integrado en una serie de paneles de información e",
+    "bbox": [
+      53.9,
+      83.8,
+      530.7,
+      97.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b015",
+    "text": "informes sobre la situación para los responsables de la toma de decisiones en todo el sector humanitario",
+    "bbox": [
+      53.9,
+      97.0,
+      534.2,
+      110.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b016",
+    "text": "desde el inicio de la pandemia. En diciembre de 2020, este conjunto de datos se había descargado más de",
+    "bbox": [
+      53.9,
+      110.2,
+      537.3,
+      124.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b017",
+    "text": "320 000 veces de la plataforma de Intercambio de Datos Humanitarios (HDX, por sus siglas en inglés) desde",
+    "bbox": [
+      53.9,
+      123.4,
+      542.5,
+      137.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b018",
+    "text": "que se publicó por primera vez en enero de ese año. La utilidad de los datos abiertos para los profesionales",
+    "bbox": [
+      53.9,
+      136.6,
+      543.5,
+      150.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b019",
+    "text": "de la ayuda humanitaria se ve reforzada por el hecho de que el uso del HDX en los países que cuentan con",
+    "bbox": [
+      53.9,
+      149.8,
+      536.9,
+      163.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b020",
+    "text": "un Plan de Respuesta Humanitaria (HRP) ha crecido mucho más rápido que en otros lugares.2",
+    "bbox": [
+      53.9,
+      163.0,
+      478.9,
+      176.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b021",
+    "text": "El modo en que las organizaciones humanitarias abordan el intercambio de datos está directamente",
+    "bbox": [
+      53.9,
+      188.2,
+      513.1,
+      202.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b022",
+    "text": "relacionado con la confianza y la cooperación en el sector. Mantener la confianza dentro del ecosistema",
+    "bbox": [
+      53.9,
+      200.2,
+      527.3,
+      214.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b023",
+    "text": "de datos es fundamental para la sostenibilidad del intercambio de datos y está relacionado con",
+    "bbox": [
+      53.9,
+      212.2,
+      490.0,
+      226.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b024",
+    "text": "cuestiones como la calidad de los datos, el nivel de seguridad de los datos después de compartirlos y",
+    "bbox": [
+      53.9,
+      224.2,
+      516.0,
+      238.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b025",
+    "text": "el uso responsable de los datos por parte del receptor. Como los datos en el sector humanitario suelen",
+    "bbox": [
+      53.9,
+      236.2,
+      522.1,
+      250.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b026",
+    "text": "estar relacionados con las poblaciones de mayor riesgo, la gestión y el intercambio de los mismos exigen",
+    "bbox": [
+      53.9,
+      248.2,
+      533.1,
+      262.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b027",
+    "text": "prudencia.",
+    "bbox": [
+      53.9,
+      261.4,
+      105.5,
+      275.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b028",
+    "text": "Muchas organizaciones humanitarias han desarrollado o actualizado sus orientaciones, gobernanza y",
+    "bbox": [
+      53.9,
+      286.6,
+      518.5,
+      300.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b029",
+    "text": "prácticas para apoyar diferentes aspectos de la responsabilidad de los datos: la gestión segura, ética y",
+    "bbox": [
+      53.9,
+      298.6,
+      520.0,
+      312.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b030",
+    "text": "eficaz de los datos. El sector también ha visto un aumento de los esfuerzos de colaboración para mejorar la",
+    "bbox": [
+      53.9,
+      310.6,
+      542.9,
+      324.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b031",
+    "text": "responsabilidad de los datos más allá de las organizaciones individuales.3 Aun así, a medida que el sistema",
+    "bbox": [
+      53.9,
+      323.8,
+      542.5,
+      337.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b032",
+    "text": "humanitario conoce mejor los riesgos asociados al intercambio de datos, las organizaciones se enfrentan a",
+    "bbox": [
+      53.9,
+      337.0,
+      542.3,
+      350.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b033",
+    "text": "retos más complejos a la hora de compartir estos datos de forma responsable.4",
+    "bbox": [
+      53.9,
+      350.2,
+      413.1,
+      364.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b034",
+    "text": "Esta nota orientativa tiene como objetivo apoyar la toma de decisiones en torno al intercambio de",
+    "bbox": [
+      53.9,
+      375.4,
+      502.6,
+      389.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b035",
+    "text": "datos no personales en situaciones humanitarias. Explica la sensibilidad de los datos, ofrece ejemplos",
+    "bbox": [
+      53.9,
+      387.4,
+      520.5,
+      401.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b036",
+    "text": "comunes de datos sensibles no personales y explica un enfoque para la clasificación de la información y",
+    "bbox": [
+      53.9,
+      399.4,
+      529.3,
+      413.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b037",
+    "text": "la sensibilidad de los datos en situaciones humanitarias. También ofrece un marco que las organizaciones",
+    "bbox": [
+      53.9,
+      411.4,
+      538.1,
+      425.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b038",
+    "text": "pueden utilizar para sopesar cuatro factores que ayudan a determinar si los datos pueden ser",
+    "bbox": [
+      53.9,
+      423.4,
+      481.1,
+      437.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b039",
+    "text": "compartidos, y explica los enfoques comunes para hacerlo de manera responsable.",
+    "bbox": [
+      53.9,
+      436.6,
+      433.2,
+      450.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b040",
+    "text": "Opciones para compartir datos en el Intercambio de Datos Humanitarios",
+    "bbox": [
+      65.4,
+      472.9,
+      418.6,
+      485.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b041",
+    "text": "Cuando se lanzó el Intercambio de Datos Humanitarios (HDX) en 2014, contaba con casi 900 conjuntos",
+    "bbox": [
+      65.4,
+      503.3,
+      510.9,
+      516.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b042",
+    "text": "de datos, compartidos por un puñado de organizaciones \"pioneras\". A finales de 2020, ese número había",
+    "bbox": [
+      65.4,
+      515.9,
+      522.2,
+      529.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b043",
+    "text": "aumentado a más de 18 000 conjuntos de datos. Sólo las organizaciones autorizadas pueden compartir",
+    "bbox": [
+      65.4,
+      528.5,
+      516.4,
+      541.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b044",
+    "text": "datos en la plataforma. Pueden hacer que los datos estén disponibles públicamente para cualquier",
+    "bbox": [
+      65.4,
+      541.1,
+      497.9,
+      554.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b045",
+    "text": "persona que visite el sitio o de manera privada sólo para los miembros de sus organizaciones.",
+    "bbox": [
+      65.4,
+      553.7,
+      474.4,
+      566.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b046",
+    "text": "En 2017, el equipo de HDX añadió otra opción para compartir datos: HDX Connect. Esta característica",
+    "bbox": [
+      65.4,
+      576.3,
+      505.3,
+      589.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b047",
+    "text": "permite a las organizaciones publicar sólo los metadatos, con los datos subyacentes disponibles bajo",
+    "bbox": [
+      65.4,
+      588.9,
+      507.5,
+      602.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b048",
+    "text": "petición. En el caso de contar con autorización, los datos se comparten bilateralmente sin pasar por la",
+    "bbox": [
+      65.4,
+      601.5,
+      510.8,
+      614.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b049",
+    "text": "plataforma HDX. Por ejemplo, Ground Truth Solutions utiliza HDX Connect para proporcionar acceso a los",
+    "bbox": [
+      65.4,
+      614.1,
+      525.5,
+      627.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 2,
+    "block_id": "326_p2_b050",
+    "text": "datos de percepción comunitaria sobre COVID-19 recogidos en Irak.",
+    "bbox": [
+      65.4,
+      627.1,
+      360.6,
+      640.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b003",
+    "text": "5   Obtenga más información sobre el proceso de mitigación de riesgos del Centro para los microdatos, el \"Control de Divulgación Estadística\" (SDC,",
+    "bbox": [
+      53.9,
+      738.3,
+      541.5,
+      746.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b004",
+    "text": "por sus siglas en inglés) en la Trayectoria de Aprendizaje sobre el tema.",
+    "bbox": [
+      53.9,
+      747.2,
+      297.5,
+      755.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b005",
+    "text": "6   Los datos personales no deben compartirse abiertamente, y la gestión de los datos personales debe cumplir siempre con las leyes nacionales y regionales de",
+    "bbox": [
+      53.9,
+      759.3,
+      537.7,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b006",
+    "text": "protección de datos, o con las políticas internas de protección de datos en el caso de las organizaciones cubiertas por privilegios e inmunidades.",
+    "bbox": [
+      53.9,
+      768.3,
+      494.9,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b007",
+    "text": "COMPRENSIÓN DE LA SENSIBILIDAD DE LOS DATOS",
+    "bbox": [
+      53.9,
+      217.5,
+      365.7,
+      232.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b008",
+    "text": "Las organizaciones humanitarias reconocen ampliamente la sensibilidad de los datos personales6: la",
+    "bbox": [
+      53.9,
+      240.2,
+      514.4,
+      254.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b009",
+    "text": "divulgación de datos tiene una alta probabilidad de causar daños. Sin embargo, esta idea todavía no está",
+    "bbox": [
+      53.9,
+      253.4,
+      534.6,
+      267.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b010",
+    "text": "ampliamente reconocida para los datos no personales, que suelen abarcar las tres categorías siguientes en",
+    "bbox": [
+      53.9,
+      266.6,
+      542.9,
+      280.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b011",
+    "text": "entornos humanitarios:",
+    "bbox": [
+      53.9,
+      279.8,
+      163.9,
+      293.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b012",
+    "text": "1.\tDatos sobre el contexto en el que tiene lugar la respuesta (por ejemplo, marcos jurídicos, condiciones",
+    "bbox": [
+      65.2,
+      304.0,
+      539.9,
+      317.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b013",
+    "text": "políticas, sociales y económicas, infraestructuras, etc.) y la situación humanitaria (por ejemplo,",
+    "bbox": [
+      76.5,
+      317.2,
+      511.5,
+      331.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b014",
+    "text": "incidentes de seguridad, riesgos de protección, impulsores de la situación o crisis).",
+    "bbox": [
+      76.5,
+      330.4,
+      455.3,
+      344.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b015",
+    "text": "2.\tDatos sobre las personas afectadas por la situación que incluyan sus necesidades, las amenazas y las",
+    "bbox": [
+      65.2,
+      350.4,
+      538.3,
+      364.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b016",
+    "text": "vulnerabilidades a las que se enfrentan, así como sus capacidades.",
+    "bbox": [
+      76.5,
+      363.6,
+      383.0,
+      377.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b017",
+    "text": "3.\t.Datos sobre los actores humanitarios y sus actividades (por ejemplo, a través de tácticas 3W/4W/5W).",
+    "bbox": [
+      65.2,
+      383.6,
+      538.6,
+      397.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b018",
+    "text": "La mayoría de estos datos se pueden compartir abiertamente. Sin embargo, los datos no personales",
+    "bbox": [
+      53.9,
+      407.8,
+      512.0,
+      421.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b019",
+    "text": "también pueden ser sensibles. Algunos ejemplos de datos sensibles no personales incluyen los datos sobre",
+    "bbox": [
+      53.9,
+      421.0,
+      544.3,
+      434.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b020",
+    "text": "grupos que sufren violencia de género o la localización de minorías étnicas en situaciones de conflicto.",
+    "bbox": [
+      53.9,
+      434.2,
+      524.0,
+      448.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b021",
+    "text": "Estos datos se consideran sensibles porque permiten la identificación de grupos de individuos por factores",
+    "bbox": [
+      53.9,
+      447.4,
+      542.5,
+      461.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b022",
+    "text": "demográficos, como la etnia, el sexo, la edad, la ocupación, la religión o el lugar de origen. Los datos",
+    "bbox": [
+      53.9,
+      460.6,
+      512.4,
+      474.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b023",
+    "text": "no personales también pueden crear riesgos de otras maneras, por ejemplo, exponiendo la ubicación",
+    "bbox": [
+      53.9,
+      473.8,
+      517.8,
+      487.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b024",
+    "text": "de las instalaciones médicas en áreas donde son propensas a los ataques. A medida que aumenta la",
+    "bbox": [
+      53.9,
+      487.0,
+      511.3,
+      500.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b025",
+    "text": "sensibilización sobre el riesgo que conlleva compartir estos datos, algunas organizaciones están pasando",
+    "bbox": [
+      53.9,
+      500.2,
+      535.2,
+      514.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b026",
+    "text": "de centrarse en la divulgación pública de la información a compartirla de forma más restringida.",
+    "bbox": [
+      53.9,
+      513.4,
+      494.6,
+      527.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b027",
+    "text": "Muchas organizaciones cuentan con clasificaciones de la sensibilidad de la información y los datos (véase",
+    "bbox": [
+      53.9,
+      537.6,
+      536.8,
+      551.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b028",
+    "text": "la figura 1) que definen qué datos corresponden a cada categoría de sensibilidad para facilitar la gestión",
+    "bbox": [
+      53.9,
+      550.8,
+      529.1,
+      564.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b029",
+    "text": "responsable de estos. Estas clasificaciones también pueden desarrollarse como un ejercicio colectivo",
+    "bbox": [
+      53.9,
+      564.0,
+      517.2,
+      577.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b030",
+    "text": "para ayudar a las organizaciones a alinearse en torno a lo que constituye datos sensibles en su contexto e",
+    "bbox": [
+      53.9,
+      577.2,
+      535.1,
+      591.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b031",
+    "text": "identificar los métodos de divulgación o difusión adecuados para los diferentes tipos de datos en función",
+    "bbox": [
+      53.9,
+      590.4,
+      535.3,
+      604.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b032",
+    "text": "de su sensibilidad.",
+    "bbox": [
+      53.9,
+      603.6,
+      138.6,
+      617.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b033",
+    "text": "Como parte de su proceso de garantía de calidad, el equipo de HDX también realiza una evaluación del",
+    "bbox": [
+      65.6,
+      58.9,
+      513.7,
+      72.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b034",
+    "text": "riesgo de divulgación de cualquier recurso añadido a la plataforma que contenga microdatos. La razón de",
+    "bbox": [
+      65.6,
+      71.5,
+      527.2,
+      84.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b035",
+    "text": "ello es porque puede ser posible volver a identificar a los individuos o exponer información confidencial",
+    "bbox": [
+      65.6,
+      84.1,
+      519.8,
+      97.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b036",
+    "text": "incluso después de que se hayan eliminado los identificadores directos de los microdatos.5",
+    "bbox": [
+      65.6,
+      96.7,
+      461.8,
+      109.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b037",
+    "text": "Algunas organizaciones en HDX se han orientado más hacia el acceso controlado a sus datos, ya sea debido",
+    "bbox": [
+      65.6,
+      119.3,
+      533.5,
+      132.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b038",
+    "text": "a la naturaleza sensible de los mismos, a la mayor presión para hacer un seguimiento e informar sobre",
+    "bbox": [
+      65.6,
+      131.9,
+      512.4,
+      145.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b039",
+    "text": "cómo se utilizan los datos, o a las limitaciones de recursos relacionados con la sostenibilidad operativa. El",
+    "bbox": [
+      65.6,
+      144.5,
+      527.8,
+      157.7
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b040",
+    "text": "HDX siempre apoyará diferentes formas de compartir los datos; sin embargo, el acceso abierto sigue siendo",
+    "bbox": [
+      65.6,
+      157.1,
+      534.0,
+      170.3
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 3,
+    "block_id": "326_p3_b041",
+    "text": "la mejor opción para la mayoría de los datos que se generan para la respuesta humanitaria.",
+    "bbox": [
+      65.6,
+      170.1,
+      462.1,
+      183.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b003",
+    "text": "Clasificación de la sensibilidad de los datos e información",
+    "bbox": [
+      111.2,
+      54.3,
+      368.8,
+      67.9
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b004",
+    "text": "Sensibilidad",
+    "bbox": [
+      111.2,
+      89.3,
+      155.5,
+      100.8
+    ],
+    "font_size": 9.1,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b005",
+    "text": "Definición",
+    "bbox": [
+      171.7,
+      89.0,
+      212.1,
+      101.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b006",
+    "text": "Clasificación de la",
+    "bbox": [
+      384.8,
+      78.4,
+      450.5,
+      89.9
+    ],
+    "font_size": 9.1,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b007",
+    "text": "sensibilidad de los datos e",
+    "bbox": [
+      384.8,
+      89.3,
+      480.0,
+      100.8
+    ],
+    "font_size": 9.1,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b008",
+    "text": "información",
+    "bbox": [
+      384.8,
+      100.2,
+      428.7,
+      111.7
+    ],
+    "font_size": 9.1,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b009",
+    "text": "Baja o nula",
+    "bbox": [
+      111.2,
+      122.0,
+      156.4,
+      134.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b010",
+    "text": "Si la información o datos se divulgan o acceden",
+    "bbox": [
+      171.7,
+      122.2,
+      360.9,
+      134.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b011",
+    "text": "sin la debida autorización, es poco probable",
+    "bbox": [
+      171.7,
+      133.6,
+      348.2,
+      145.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b012",
+    "text": "que la información o datos causen daños o",
+    "bbox": [
+      171.7,
+      145.1,
+      343.2,
+      157.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b013",
+    "text": "impactos negativos a las personas y/o agentes",
+    "bbox": [
+      171.7,
+      156.5,
+      356.5,
+      168.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b014",
+    "text": "humanitarios.",
+    "bbox": [
+      171.7,
+      168.0,
+      227.4,
+      180.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b015",
+    "text": "Pública",
+    "bbox": [
+      384.8,
+      122.0,
+      415.4,
+      134.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b016",
+    "text": "Moderada",
+    "bbox": [
+      111.2,
+      190.2,
+      152.3,
+      202.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b017",
+    "text": "Si la información o datos se divulgan o ac-",
+    "bbox": [
+      171.7,
+      190.4,
+      337.8,
+      202.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b018",
+    "text": "ceden sin la debida autorización, es probable",
+    "bbox": [
+      171.7,
+      201.8,
+      352.6,
+      213.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b019",
+    "text": "que puedan causar daños menores o impactos",
+    "bbox": [
+      171.7,
+      213.3,
+      358.6,
+      225.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b020",
+    "text": "negativos y/o ser desventajoso para las personas",
+    "bbox": [
+      171.7,
+      224.7,
+      366.5,
+      236.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b021",
+    "text": "afectadas y/o agentes humanitarios.",
+    "bbox": [
+      171.7,
+      236.2,
+      315.3,
+      248.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b022",
+    "text": "Restringida",
+    "bbox": [
+      384.8,
+      190.2,
+      431.8,
+      202.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b023",
+    "text": "Alta",
+    "bbox": [
+      111.2,
+      258.4,
+      127.3,
+      270.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b024",
+    "text": "Si la información o datos se divulgan o acceden",
+    "bbox": [
+      171.7,
+      258.6,
+      360.9,
+      270.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b025",
+    "text": "sin la debida autorización, es probable que",
+    "bbox": [
+      171.7,
+      270.1,
+      343.7,
+      282.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b026",
+    "text": "causen daños graves o impactos negativos a los",
+    "bbox": [
+      171.7,
+      281.5,
+      362.2,
+      293.6
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b027",
+    "text": "afectados, personas y/o agentes humanitarios y/o",
+    "bbox": [
+      171.7,
+      293.0,
+      370.5,
+      305.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b028",
+    "text": "daño a una respuesta.",
+    "bbox": [
+      171.7,
+      304.4,
+      259.1,
+      316.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b029",
+    "text": "Confidencial",
+    "bbox": [
+      384.8,
+      258.4,
+      436.4,
+      270.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b030",
+    "text": "Extrema",
+    "bbox": [
+      111.2,
+      326.6,
+      145.1,
+      339.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b031",
+    "text": "Si la información o datos se divulgan o acceden",
+    "bbox": [
+      171.7,
+      326.8,
+      360.9,
+      338.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b032",
+    "text": "sin la debida autorización, es probable que cau-",
+    "bbox": [
+      171.7,
+      338.3,
+      360.9,
+      350.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b033",
+    "text": "sen daño severo o impactos negativos y/o daños",
+    "bbox": [
+      171.7,
+      349.7,
+      365.0,
+      361.8
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b034",
+    "text": "a las personas afectadas y/o agentes humanitar-",
+    "bbox": [
+      171.7,
+      361.2,
+      362.4,
+      373.2
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b035",
+    "text": "ios y/o impedir la realización del trabajo de una",
+    "bbox": [
+      171.7,
+      372.6,
+      360.8,
+      384.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b036",
+    "text": "respuesta.",
+    "bbox": [
+      171.7,
+      384.1,
+      212.9,
+      396.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b037",
+    "text": "Estrictamente",
+    "bbox": [
+      384.8,
+      326.6,
+      444.1,
+      339.0
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b038",
+    "text": "confidencial",
+    "bbox": [
+      384.8,
+      338.1,
+      435.1,
+      350.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b039",
+    "text": "Figura 1. Ejemplo de la clasificación de la sensibilidad de los datos e información7",
+    "bbox": [
+      142.6,
+      410.4,
+      450.1,
+      422.0
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b040",
+    "text": "7    UNOCHA (2019), Proyecto de las Pautas de Responsabilidad con los datos.",
+    "bbox": [
+      53.5,
+      767.5,
+      302.2,
+      776.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b041",
+    "text": "Las políticas de la organización y los instrumentos de gobernanza colectiva, como los protocolos de",
+    "bbox": [
+      53.9,
+      442.2,
+      509.5,
+      456.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b042",
+    "text": "intercambio de información (ISPs, por sus siglas en inglés), suelen incluir una clasificación de sensibilidad",
+    "bbox": [
+      53.9,
+      455.4,
+      538.0,
+      469.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b043",
+    "text": "y deberían ser los principales puntos de referencia para determinar cómo gestionar los datos sensibles.",
+    "bbox": [
+      53.9,
+      468.6,
+      526.1,
+      482.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b044",
+    "text": "Sin embargo, estos documentos tienden a dejar margen para poder decidir qué y cómo se pueden",
+    "bbox": [
+      53.9,
+      481.8,
+      502.7,
+      495.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b045",
+    "text": "compartir. Esto significa que el intercambio de datos puede estar influenciado por las preferencias y",
+    "bbox": [
+      53.9,
+      495.0,
+      511.0,
+      508.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b046",
+    "text": "habilidades personales y puede variar entre las organizaciones. Si adoptan un enfoque más coherente a",
+    "bbox": [
+      53.9,
+      508.2,
+      529.0,
+      522.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b047",
+    "text": "la hora de compartir los datos y garantizan las debidas medidas de seguridad para los datos sensibles, las",
+    "bbox": [
+      53.9,
+      521.4,
+      536.6,
+      535.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 4,
+    "block_id": "326_p4_b048",
+    "text": "organizaciones pueden generar confianza y contribuir a una respuesta humanitaria más eficiente y eficaz.",
+    "bbox": [
+      53.9,
+      534.6,
+      534.3,
+      548.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b003",
+    "text": "8    Véase la Nota Orientativa sobre la Evaluación del Impacto de los Datos (DIA).",
+    "bbox": [
+      53.9,
+      675.1,
+      311.4,
+      683.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b004",
+    "text": "9    Para la gestión de datos en el sector humanitario, el riesgo puede definirse como la probabilidad y el impacto del daño resultante de la gestión de",
+    "bbox": [
+      53.9,
+      687.2,
+      531.8,
+      695.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b005",
+    "text": "datos.",
+    "bbox": [
+      53.9,
+      696.2,
+      78.4,
+      704.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b006",
+    "text": "10  El Foro Económico Mundial, junto con el Centro de Seguridad de la Información y Ciberseguridad de la Universidad de Washington, la Red de",
+    "bbox": [
+      53.9,
+      708.1,
+      525.3,
+      716.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b007",
+    "text": "Soluciones para el Desarrollo Sostenible TReNDS y el GovLab de la Universidad de Nueva York, han comenzado a crear un repositorio de acuerdos",
+    "bbox": [
+      53.9,
+      717.1,
+      542.3,
+      725.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b008",
+    "text": "de intercambio de datos para apoyar la profesionalización de esta práctica a través de sus proyecto de Contratos para la Colaboración de Datos",
+    "bbox": [
+      53.9,
+      726.1,
+      527.0,
+      734.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b009",
+    "text": "(C4DC).",
+    "bbox": [
+      53.9,
+      735.2,
+      83.2,
+      743.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b010",
+    "text": "11   Las licencias recomendadas para compartir datos a través de HDX se encuentran aquí: https://data.humdata.org/about/license.",
+    "bbox": [
+      53.9,
+      747.1,
+      474.4,
+      755.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b011",
+    "text": "12  Para más información sobre la gestión de incidentes con datos en la respuesta humanitaria, consulte nuestra Nota de Orientación sobre la Gestión",
+    "bbox": [
+      53.9,
+      759.1,
+      538.5,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b012",
+    "text": "de Incidentes con Datos.",
+    "bbox": [
+      53.9,
+      768.1,
+      139.4,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b013",
+    "text": "CUATRO FACTORES PARA DETERMINAR LA POSIBILIDAD DE COMPARTIR LOS",
+    "bbox": [
+      53.9,
+      44.9,
+      519.6,
+      59.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b014",
+    "text": "DATOS NO PERSONALES",
+    "bbox": [
+      53.9,
+      58.1,
+      199.9,
+      73.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b015",
+    "text": "Existen cuatro factores que las organizaciones humanitarias deben tener en cuenta a la hora de decidir si",
+    "bbox": [
+      53.9,
+      83.6,
+      533.0,
+      97.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b016",
+    "text": "comparten datos no personales.",
+    "bbox": [
+      53.9,
+      96.8,
+      203.6,
+      110.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b017",
+    "text": "1.\t  ¿Cuál es la utilidad de los datos para otras partes interesadas?",
+    "bbox": [
+      65.2,
+      122.7,
+      406.7,
+      137.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b018",
+    "text": "La utilidad de los datos depende del nivel de detalle, del número de personas o de la zona",
+    "bbox": [
+      82.2,
+      136.4,
+      494.1,
+      150.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b019",
+    "text": "geográfica cubierta, de su actualidad y de su relevancia para el análisis y la toma de decisiones en",
+    "bbox": [
+      82.2,
+      149.6,
+      528.8,
+      163.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b020",
+    "text": "la respuesta humanitaria. Realizar una evaluación del impacto de los datos (DIA, por sus siglas en",
+    "bbox": [
+      82.2,
+      162.8,
+      526.3,
+      176.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b021",
+    "text": "inglés) para ayudar a determinar la utilidad de datos específicos.8",
+    "bbox": [
+      82.2,
+      176.0,
+      382.2,
+      189.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b022",
+    "text": "2.\t   ¿Cual es el grado de sensibilidad de los datos?",
+    "bbox": [
+      65.2,
+      201.9,
+      283.5,
+      216.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b023",
+    "text": "La sensibilidad de los datos se basa en el riesgo asociado a su exposición en un contexto concreto.9",
+    "bbox": [
+      82.2,
+      215.6,
+      534.5,
+      229.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b024",
+    "text": "En algunos contextos de respuesta, las organizaciones, los grupos/sectores y las estructuras de",
+    "bbox": [
+      82.2,
+      228.8,
+      516.2,
+      242.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b025",
+    "text": "coordinación de todo el sistema también han establecido clasificaciones de sensibilidad de los datos",
+    "bbox": [
+      82.2,
+      242.0,
+      543.7,
+      255.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b026",
+    "text": "y la información (véase más arriba) que pueden informar sobre esta determinación. La realización",
+    "bbox": [
+      82.2,
+      255.2,
+      529.9,
+      269.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b027",
+    "text": "de una DIA también puede ayudar a determinar la sensibilidad de los datos. Para los resultados",
+    "bbox": [
+      82.2,
+      268.4,
+      518.0,
+      282.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b028",
+    "text": "de las encuestas y otras formas de microdatos, la sensibilidad está estrechamente relacionada",
+    "bbox": [
+      82.2,
+      281.6,
+      514.2,
+      295.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b029",
+    "text": "con el riesgo de reidentificación, que puede determinarse aplicando una evaluación del riesgo de",
+    "bbox": [
+      82.2,
+      294.8,
+      527.5,
+      308.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b030",
+    "text": "divulgación.",
+    "bbox": [
+      82.2,
+      308.0,
+      138.3,
+      321.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b031",
+    "text": "3.\t ¿Qué capacidad humana y técnica tienen las organizaciones que comparten y utilizan los datos?",
+    "bbox": [
+      65.2,
+      333.9,
+      543.6,
+      348.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b032",
+    "text": "Tanto la organización que comparte los datos como la(s) organización(es) que los recibe(n) y los",
+    "bbox": [
+      82.2,
+      347.6,
+      521.1,
+      361.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b033",
+    "text": "utiliza(n) deben tener suficiente capacidad humana y técnica para la gestión responsable de los",
+    "bbox": [
+      82.2,
+      360.8,
+      519.6,
+      374.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b034",
+    "text": "datos. Esto incluye la disponibilidad del personal, los conocimientos de los datos, la infraestructura",
+    "bbox": [
+      82.2,
+      374.0,
+      537.2,
+      387.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b035",
+    "text": "técnica y los recursos relacionados. En entornos con poca conectividad, los métodos de intercambio",
+    "bbox": [
+      82.2,
+      387.2,
+      541.8,
+      401.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b036",
+    "text": "de datos con mayor ancho de banda pueden no ser apropiados. En contextos con riesgos de",
+    "bbox": [
+      82.2,
+      400.4,
+      503.4,
+      414.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b037",
+    "text": "seguridad identificados, los datos deberían compartirse normalmente a través de métodos más",
+    "bbox": [
+      82.2,
+      413.6,
+      520.4,
+      427.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b038",
+    "text": "limitados.",
+    "bbox": [
+      82.2,
+      426.8,
+      128.0,
+      440.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b039",
+    "text": "4.\t ¿Qué instrumentos de gobernanza se aplican?",
+    "bbox": [
+      65.2,
+      452.7,
+      302.1,
+      467.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b040",
+    "text": "Entre los instrumentos de gobernanza de datos más comunes se encuentran los ISPs, los acuerdos",
+    "bbox": [
+      82.2,
+      466.4,
+      533.0,
+      480.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b041",
+    "text": "de intercambio de datos bilaterales y las licencias o condiciones de uso para el intercambio de",
+    "bbox": [
+      82.2,
+      479.6,
+      513.2,
+      493.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b042",
+    "text": "datos públicos.11 TEstos instrumentos deben informar sobre cómo se comparten los datos de",
+    "bbox": [
+      82.2,
+      492.8,
+      507.9,
+      506.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b043",
+    "text": "forma segura, ética y eficaz. A veces, será necesario desarrollar una gobernanza para el enfoque",
+    "bbox": [
+      82.2,
+      506.0,
+      519.2,
+      519.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b044",
+    "text": "de intercambio de datos concretos. Los instrumentos de gobernanza pueden abordar una serie",
+    "bbox": [
+      82.2,
+      519.2,
+      517.5,
+      533.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b045",
+    "text": "de temas y disposiciones específicas, pero siempre deben incluir los siguientes elementos: (a) un",
+    "bbox": [
+      82.2,
+      532.4,
+      525.6,
+      546.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b046",
+    "text": "propósito de la divulgación; (b) las limitaciones de la gestión de los datos después de que estos se",
+    "bbox": [
+      82.2,
+      545.6,
+      529.9,
+      559.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b047",
+    "text": "hayan compartido; (c) funciones y responsabilidades a lo largo del proceso de intercambio; y (d)",
+    "bbox": [
+      82.2,
+      558.8,
+      522.2,
+      572.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 5,
+    "block_id": "326_p5_b048",
+    "text": "procedimientos para la gestión de incidentes con datos.12",
+    "bbox": [
+      82.2,
+      572.0,
+      343.2,
+      585.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b003",
+    "text": "13  No todas las herramientas y plataformas de este resumen han sido examinadas por la Secretaría de las Naciones Unidas. Consulte siempre a",
+    "bbox": [
+      53.9,
+      629.9,
+      538.6,
+      638.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b004",
+    "text": "los asesores informáticos pertinentes antes de utilizar una nueva herramienta.",
+    "bbox": [
+      53.9,
+      638.9,
+      327.9,
+      647.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b005",
+    "text": "14  UNHCR’s  MicroData Library.",
+    "bbox": [
+      53.9,
+      650.8,
+      154.3,
+      659.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b006",
+    "text": "15  IFRC’s GO Platform.",
+    "bbox": [
+      53.9,
+      662.8,
+      123.7,
+      671.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b007",
+    "text": "16  En el contexto de las respuestas humanitarias, una de las formas más comunes de compartir datos es a través de archivos adjuntos al correo",
+    "bbox": [
+      53.9,
+      674.9,
+      517.9,
+      683.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b008",
+    "text": "electrónico. Al compartir datos por correo electrónico, tome siempre las precauciones de seguridad necesarias. Esta forma de compartir es",
+    "bbox": [
+      53.9,
+      683.9,
+      512.7,
+      692.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b009",
+    "text": "apropiada en algunos casos, pero a menudo hay formas más adecuadas de compartir los datos. Para obtener información sobre cómo cifrar el",
+    "bbox": [
+      53.9,
+      692.9,
+      523.6,
+      701.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b010",
+    "text": "correo electrónico, consulte la siguiente página: https://www.cloudwards.net/how-to-encrypt-your-emails/.",
+    "bbox": [
+      53.9,
+      701.8,
+      410.1,
+      710.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b011",
+    "text": "17  Plataforma OPAL.",
+    "bbox": [
+      53.9,
+      713.8,
+      117.7,
+      722.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b012",
+    "text": "18  Aircloak Insights.",
+    "bbox": [
+      53.9,
+      725.8,
+      117.7,
+      734.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b013",
+    "text": "19  Para saber más sobre el cifrado homomórfico como forma de compartir el valor de los datos sensibles, consulte aquí: htps://www.microsoft.com/en-us/",
+    "bbox": [
+      53.9,
+      737.8,
+      539.2,
+      746.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b014",
+    "text": "research/project/homomorphic-encryption/ and here: https://www.wired.com/story/google-private-join-compute-database-encryption/.",
+    "bbox": [
+      53.9,
+      746.8,
+      509.8,
+      755.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b015",
+    "text": "20 Para saber más sobre la computación multipartita, consulte aquí:: https://www.tno.nl/en/focus-areas/information-communication-technology/",
+    "bbox": [
+      53.9,
+      758.8,
+      526.7,
+      767.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b016",
+    "text": "roadmaps/data-sharing/secure-multi-party-computation/.",
+    "bbox": [
+      53.9,
+      767.8,
+      251.8,
+      776.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b017",
+    "text": "IDENTIFICAR Y COMPARAR ENFOQUES",
+    "bbox": [
+      53.9,
+      43.9,
+      286.4,
+      58.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b018",
+    "text": "Las organizaciones deben determinar el mejor enfoque para el intercambio de datos basándose en",
+    "bbox": [
+      53.9,
+      68.6,
+      506.3,
+      82.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b019",
+    "text": "los cuatro factores anteriores. Estos enfoques van desde el acceso abierto para maximizar el beneficio",
+    "bbox": [
+      53.9,
+      81.8,
+      519.4,
+      95.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b020",
+    "text": "de los datos, hasta enfoques más privados, como la divulgación bilateral de datos o la divulgación de",
+    "bbox": [
+      53.9,
+      95.0,
+      515.8,
+      108.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b021",
+    "text": "los resultados de los análisis de datos. La siguiente tabla contiene una visión general de los diferentes",
+    "bbox": [
+      53.9,
+      108.2,
+      518.8,
+      122.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b022",
+    "text": "métodos de la divulgación de datos y ofrece ejemplos de algunas herramientas y plataformas comúnmente",
+    "bbox": [
+      53.9,
+      121.4,
+      544.6,
+      135.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b023",
+    "text": "utilizadas.",
+    "bbox": [
+      53.9,
+      134.6,
+      100.7,
+      148.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b024",
+    "text": "Enfoques para",
+    "bbox": [
+      61.2,
+      200.9,
+      122.9,
+      213.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b025",
+    "text": "el intercambio",
+    "bbox": [
+      61.2,
+      212.3,
+      123.6,
+      224.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b026",
+    "text": "de datos",
+    "bbox": [
+      61.2,
+      223.7,
+      96.7,
+      236.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b027",
+    "text": "Enfoques, herramientas y plataformas para compartir datos en la respuesta humanitaria 13",
+    "bbox": [
+      61.2,
+      170.1,
+      459.4,
+      181.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b028",
+    "text": "Acceso abierto",
+    "bbox": [
+      139.2,
+      201.1,
+      200.4,
+      213.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b029",
+    "text": "Compartir los datos",
+    "bbox": [
+      139.2,
+      218.7,
+      219.1,
+      230.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b030",
+    "text": "públicamente es",
+    "bbox": [
+      139.2,
+      230.1,
+      206.8,
+      242.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b031",
+    "text": "el enfoque más",
+    "bbox": [
+      139.2,
+      241.5,
+      201.6,
+      253.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b032",
+    "text": "abierto, permitiendo",
+    "bbox": [
+      139.2,
+      252.9,
+      223.3,
+      264.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b033",
+    "text": "el acceso libre a",
+    "bbox": [
+      139.2,
+      264.3,
+      203.6,
+      276.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b034",
+    "text": "cualquier persona.",
+    "bbox": [
+      139.2,
+      275.7,
+      213.4,
+      287.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b035",
+    "text": "Acceso restringido",
+    "bbox": [
+      237.6,
+      201.1,
+      314.1,
+      213.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b036",
+    "text": "La restricción del",
+    "bbox": [
+      237.6,
+      218.7,
+      306.8,
+      230.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b037",
+    "text": "acceso a los datos",
+    "bbox": [
+      237.6,
+      230.1,
+      310.6,
+      242.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b038",
+    "text": "sigue permitiendo a",
+    "bbox": [
+      237.6,
+      241.5,
+      318.5,
+      253.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b039",
+    "text": "determinados socios",
+    "bbox": [
+      237.6,
+      252.9,
+      321.9,
+      264.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b040",
+    "text": "utilizarlos siempre",
+    "bbox": [
+      237.6,
+      264.3,
+      312.4,
+      276.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b041",
+    "text": "que cumplan ciertos",
+    "bbox": [
+      237.6,
+      275.7,
+      320.4,
+      287.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b042",
+    "text": "requisitos.",
+    "bbox": [
+      237.6,
+      287.1,
+      279.2,
+      299.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b043",
+    "text": "Intercambio",
+    "bbox": [
+      337.0,
+      201.1,
+      388.7,
+      213.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b044",
+    "text": "bilateral",
+    "bbox": [
+      337.0,
+      212.1,
+      372.9,
+      224.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b045",
+    "text": "El intercambio",
+    "bbox": [
+      337.0,
+      229.7,
+      396.4,
+      241.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b046",
+    "text": "bilateral es la forma",
+    "bbox": [
+      337.0,
+      241.1,
+      417.0,
+      253.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b047",
+    "text": "más limitada de",
+    "bbox": [
+      337.0,
+      252.5,
+      402.1,
+      264.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b048",
+    "text": "compartir datos,",
+    "bbox": [
+      337.0,
+      263.9,
+      404.5,
+      275.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b049",
+    "text": "efectuada de",
+    "bbox": [
+      337.0,
+      275.3,
+      390.3,
+      287.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b050",
+    "text": "manera directa con",
+    "bbox": [
+      337.0,
+      286.7,
+      415.1,
+      298.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b051",
+    "text": "No se puede",
+    "bbox": [
+      437.4,
+      201.1,
+      489.0,
+      213.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b052",
+    "text": "compartir",
+    "bbox": [
+      437.4,
+      212.1,
+      479.8,
+      224.4
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b053",
+    "text": "Los datos que no",
+    "bbox": [
+      437.4,
+      229.7,
+      506.2,
+      241.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b054",
+    "text": "deberían compartirse",
+    "bbox": [
+      437.4,
+      241.1,
+      524.6,
+      253.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b055",
+    "text": "en absoluto pueden",
+    "bbox": [
+      437.4,
+      252.5,
+      518.3,
+      264.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b056",
+    "text": "seguir ofreciendo",
+    "bbox": [
+      437.4,
+      263.9,
+      508.2,
+      275.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b057",
+    "text": "valor a los socios,",
+    "bbox": [
+      437.4,
+      275.3,
+      508.5,
+      287.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b058",
+    "text": "siempre que se les",
+    "bbox": [
+      437.4,
+      286.7,
+      512.0,
+      298.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b059",
+    "text": "permita consultar los",
+    "bbox": [
+      437.4,
+      298.1,
+      523.0,
+      310.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b060",
+    "text": "datos a distancia o",
+    "bbox": [
+      437.4,
+      309.5,
+      512.9,
+      321.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b061",
+    "text": "beneficiarse de ellos",
+    "bbox": [
+      437.4,
+      320.9,
+      520.1,
+      332.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b062",
+    "text": "indirectamente.",
+    "bbox": [
+      437.4,
+      332.3,
+      500.4,
+      344.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b063",
+    "text": "Herramientas",
+    "bbox": [
+      61.2,
+      363.3,
+      120.5,
+      375.9
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b064",
+    "text": "y plataformas",
+    "bbox": [
+      61.2,
+      374.7,
+      121.0,
+      387.3
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b065",
+    "text": "comunes",
+    "bbox": [
+      61.2,
+      386.1,
+      98.8,
+      398.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b066",
+    "text": "Plataformas de datos",
+    "bbox": [
+      139.2,
+      363.7,
+      225.1,
+      375.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b067",
+    "text": "de la organización",
+    "bbox": [
+      139.2,
+      375.1,
+      211.2,
+      387.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b068",
+    "text": "HDX",
+    "bbox": [
+      139.2,
+      389.1,
+      156.0,
+      401.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b069",
+    "text": "Open Listservs",
+    "bbox": [
+      139.2,
+      403.1,
+      197.1,
+      415.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b070",
+    "text": "HDX Private",
+    "bbox": [
+      237.6,
+      363.7,
+      284.0,
+      375.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b071",
+    "text": "UNHCR Microdata",
+    "bbox": [
+      237.6,
+      377.7,
+      310.4,
+      389.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b072",
+    "text": "Library14",
+    "bbox": [
+      237.6,
+      391.7,
+      271.2,
+      403.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b073",
+    "text": "IFRC GO15",
+    "bbox": [
+      237.6,
+      405.7,
+      275.2,
+      417.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b074",
+    "text": "Compartir clústeres/",
+    "bbox": [
+      237.6,
+      419.7,
+      318.8,
+      431.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b075",
+    "text": "sectores",
+    "bbox": [
+      237.6,
+      431.1,
+      272.6,
+      443.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b076",
+    "text": "Listas de correo",
+    "bbox": [
+      237.6,
+      445.1,
+      301.5,
+      457.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b077",
+    "text": "cerradas",
+    "bbox": [
+      237.6,
+      456.5,
+      271.7,
+      468.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b078",
+    "text": "HDX Connect",
+    "bbox": [
+      337.0,
+      363.7,
+      388.7,
+      375.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b079",
+    "text": "Correo electrónic16",
+    "bbox": [
+      337.0,
+      377.7,
+      410.8,
+      389.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b080",
+    "text": "Dropbox",
+    "bbox": [
+      337.0,
+      391.7,
+      370.9,
+      403.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b081",
+    "text": "OPAL17",
+    "bbox": [
+      437.4,
+      363.7,
+      463.9,
+      375.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b082",
+    "text": "Aircloak18",
+    "bbox": [
+      437.4,
+      377.7,
+      474.8,
+      389.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b083",
+    "text": "Cifrado",
+    "bbox": [
+      437.4,
+      391.7,
+      468.1,
+      403.7
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b084",
+    "text": "homomórfico19",
+    "bbox": [
+      437.4,
+      403.1,
+      496.9,
+      415.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b085",
+    "text": "Computación",
+    "bbox": [
+      437.4,
+      417.1,
+      493.0,
+      429.1
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b086",
+    "text": "multipartita20",
+    "bbox": [
+      437.4,
+      428.5,
+      490.4,
+      440.5
+    ],
+    "font_size": 9.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b087",
+    "text": "Al comparar estos diferentes enfoques, el enfoque más abierto debe considerarse siempre como primera",
+    "bbox": [
+      53.9,
+      488.3,
+      533.0,
+      502.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b088",
+    "text": "opción, descendiendo así a enfoques más limitados según sea necesario. Los diferentes tipos de datos",
+    "bbox": [
+      53.9,
+      501.5,
+      521.7,
+      515.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b089",
+    "text": "requerirán diferentes formas de compartirlos. Por ejemplo, los archivos de datos de gran tamaño",
+    "bbox": [
+      53.9,
+      514.7,
+      497.5,
+      528.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b090",
+    "text": "requerirán una infraestructura especializada y las interfaces de programación de aplicaciones (API) son",
+    "bbox": [
+      53.9,
+      527.9,
+      525.1,
+      541.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b091",
+    "text": "adecuadas para los datos que se publican en el mismo formato de forma regular. Dado que la sensibilidad",
+    "bbox": [
+      53.9,
+      541.1,
+      538.6,
+      554.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b092",
+    "text": "de los datos y la información están en constante cambio, las organizaciones deben revisar y comparar",
+    "bbox": [
+      53.9,
+      554.3,
+      519.2,
+      568.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 6,
+    "block_id": "326_p6_b093",
+    "text": "periódicamente los enfoques disponibles para la divulgación de datos.",
+    "bbox": [
+      53.9,
+      567.5,
+      375.8,
+      581.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      193.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b003",
+    "text": "21  For an explanation of this risk, see for example: https://www.usenix.org/conference/usenixsecurity19/presentation/gadotti.",
+    "bbox": [
+      53.9,
+      768.1,
+      461.8,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b004",
+    "text": "Este proyecto está",
+    "bbox": [
+      54.5,
+      728.9,
+      113.9,
+      738.6
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b005",
+    "text": "cofinanciado por la Unión",
+    "bbox": [
+      54.5,
+      738.1,
+      138.2,
+      747.8
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b006",
+    "text": "Europea",
+    "bbox": [
+      54.5,
+      747.3,
+      81.2,
+      756.9
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b007",
+    "text": "El presente documento hace referencia a las actividades de ayuda humanitaria realizadas con la",
+    "bbox": [
+      145.5,
+      669.4,
+      505.2,
+      680.7
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b008",
+    "text": "ayuda financiera de la Unión Europea. Los puntos de vista expresados en este documento no deben",
+    "bbox": [
+      145.5,
+      680.2,
+      518.6,
+      691.5
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b009",
+    "text": "considerarse, en modo alguno, como la opinión oficial de la Unión Europea, y la Comisión Europea no es",
+    "bbox": [
+      145.5,
+      691.0,
+      536.4,
+      702.3
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b010",
+    "text": "responsable del uso que pueda hacerse de la información que contiene.",
+    "bbox": [
+      145.5,
+      701.8,
+      413.8,
+      713.1
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b011",
+    "text": "COLABORADORES: SERVICIO CONJUNTO INTERINSTITUCIONAL DE ELABORACIÓN DE PERFILES DE DESPLAZADOS",
+    "bbox": [
+      54.4,
+      528.1,
+      535.0,
+      541.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b012",
+    "text": "INTERNOS (JIPS).",
+    "bbox": [
+      54.4,
+      540.1,
+      129.2,
+      553.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b013",
+    "text": "El Centro Para Los Datos Humanitarios ('El Centro'), en cooperación con asociados principales, está publicando",
+    "bbox": [
+      65.2,
+      566.5,
+      531.2,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b014",
+    "text": "una serie de ocho notas de orientación sobre la responsabilidad con los datos en el contexto humanitario a",
+    "bbox": [
+      65.2,
+      578.9,
+      510.1,
+      591.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b015",
+    "text": "lo largo de 2019 y 2020. La serie de Notas de Orientación son la continuación del proyecto de las Pautas de",
+    "bbox": [
+      65.2,
+      590.7,
+      509.5,
+      603.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b016",
+    "text": "Responsabilidad con los Datos de OCHA publicado en marzo de 2019. A través de esta guía, el Centro pretende",
+    "bbox": [
+      65.2,
+      602.7,
+      526.9,
+      615.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b017",
+    "text": "ofrecer orientación adicional sobre cuestiones, procesos y herramientas específicas para la responsabilidad",
+    "bbox": [
+      65.2,
+      614.9,
+      513.1,
+      627.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b018",
+    "text": "con los datos en la práctica. Esta serie ha sido posible gracias al generoso apoyo de la Dirección General de",
+    "bbox": [
+      65.2,
+      626.9,
+      508.4,
+      639.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b019",
+    "text": "Protección Civil y Operaciones de Ayuda Humanitaria Europeas (DG ECHO).",
+    "bbox": [
+      65.2,
+      638.9,
+      376.0,
+      651.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b020",
+    "text": "Extracción del valor de los datos sin necesidad de compartir: el Método de la Consulta",
+    "bbox": [
+      67.3,
+      58.9,
+      483.6,
+      71.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b021",
+    "text": "Un sistema relativamente nuevo para utilizar los datos sin transferirlos es a través de la \"consulta\". La",
+    "bbox": [
+      67.3,
+      81.1,
+      509.0,
+      94.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b022",
+    "text": "consulta permite a terceros formular preguntas específicas acerca de los datos sin tener acceso directo a",
+    "bbox": [
+      67.3,
+      93.7,
+      523.1,
+      107.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b023",
+    "text": "ellos. El propietario de los datos puede comprobar la sensibilidad de los datos resultantes o cualquier otro",
+    "bbox": [
+      67.3,
+      106.3,
+      531.7,
+      119.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b024",
+    "text": "problema. Este enfoque evita las transferencias de datos que pueden causar problemas legales y éticos, a",
+    "bbox": [
+      67.3,
+      118.9,
+      527.9,
+      132.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b025",
+    "text": "la vez que da acceso a conocimientos valiosos para el bien público.",
+    "bbox": [
+      67.3,
+      131.5,
+      360.4,
+      144.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b026",
+    "text": "Al usar este enfoque, es fundamental establecer una gobernanza con instrucciones y límites con respecto",
+    "bbox": [
+      67.3,
+      154.1,
+      525.9,
+      167.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b027",
+    "text": "a las consultas que pueden enviarse, a fin de evitar la recuperación de información sensible mediante",
+    "bbox": [
+      67.3,
+      166.7,
+      511.1,
+      180.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b028",
+    "text": "el planteamiento de una combinación de preguntas.21 La verificación de los usuarios, así como de sus",
+    "bbox": [
+      67.3,
+      179.3,
+      509.8,
+      192.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b029",
+    "text": "preguntas, debe ser siempre un paso clave en el proceso en torno a este tipo de procedimiento.",
+    "bbox": [
+      67.3,
+      191.9,
+      481.8,
+      205.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b030",
+    "text": "Una de las soluciones comerciales para establecer enfoques de consulta es el Aircloak Insights, que actúa",
+    "bbox": [
+      67.3,
+      214.5,
+      526.7,
+      227.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b031",
+    "text": "como \"proxy entre los analistas y los datos sensibles con los que necesitan trabajar\". También existe una",
+    "bbox": [
+      67.3,
+      227.1,
+      522.3,
+      240.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b032",
+    "text": "plataforma llamada  Open Algorithms (OPAL). Esta herramienta se ha desarrollado específicamente para",
+    "bbox": [
+      67.3,
+      239.5,
+      525.1,
+      253.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b033",
+    "text": "los sectores humanitario y desarrollo y actualmente se encuentra en fase de prueba en Colombia.",
+    "bbox": [
+      67.3,
+      252.3,
+      493.6,
+      265.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b034",
+    "text": "Métodos de intercambio de datos en el Servicio conjunto interinstitucional de elaboración de perfiles",
+    "bbox": [
+      67.3,
+      277.1,
+      533.2,
+      291.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b035",
+    "text": "de desplazados internos (JIPS)",
+    "bbox": [
+      67.3,
+      289.7,
+      208.7,
+      303.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b036",
+    "text": "En 2019, el Servicio conjunto interinstitucional de elaboración de perfiles de desplazados internos",
+    "bbox": [
+      67.3,
+      302.5,
+      506.8,
+      316.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b037",
+    "text": "(JIPS) recibió una subvención del Fondo de Innovación de ACNUR para investigar métodos avanzados",
+    "bbox": [
+      67.3,
+      315.3,
+      510.8,
+      328.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b038",
+    "text": "de ciencia de datos para anonimizar los datos. JIPS estudió métodos como la computación multipartita",
+    "bbox": [
+      67.3,
+      327.9,
+      519.3,
+      341.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b039",
+    "text": "y la encriptación homomórfica, y trabajó con expertos técnicos del Laboratorio de Física Aplicada de la",
+    "bbox": [
+      67.3,
+      340.5,
+      515.4,
+      353.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b040",
+    "text": "Universidad Johns Hopkins, Flowminder y la Oficina Nacional de Estadística del Gobierno de Colombia.",
+    "bbox": [
+      67.3,
+      353.1,
+      519.1,
+      366.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b041",
+    "text": "En estrecha colaboración con Flowminder y aprovechando su herramienta Flowkit, JIPS ha desarrollado",
+    "bbox": [
+      67.3,
+      375.5,
+      524.3,
+      389.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b042",
+    "text": "un prototipo de método de consulta que permite a los agentes humanitarios y de desarrollo acceder y",
+    "bbox": [
+      67.3,
+      388.3,
+      512.1,
+      401.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b043",
+    "text": "consultar de forma segura datos sensibles a nivel individual sin necesidad de que sean compartidos. El",
+    "bbox": [
+      67.3,
+      400.9,
+      515.6,
+      414.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b044",
+    "text": "equipo desarrolló un flujo de trabajo técnico para demostrar la viabilidad de este enfoque con un solo",
+    "bbox": [
+      67.3,
+      413.5,
+      512.0,
+      426.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b045",
+    "text": "proveedor de datos y trazó los problemas y limitaciones en caso de múltiples proveedores de datos.",
+    "bbox": [
+      67.3,
+      426.1,
+      503.8,
+      439.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b046",
+    "text": "Animamos a que las organizaciones compartan su experiencia en la fomentación del intercambio",
+    "bbox": [
+      53.2,
+      462.5,
+      498.2,
+      476.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "326",
+    "page_number": 7,
+    "block_id": "326_p7_b047",
+    "text": "responsable de datos con el Centro de Datos Humanitarios a través de centrehumdata@un.org.",
+    "bbox": [
+      53.2,
+      475.4,
+      490.9,
+      489.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

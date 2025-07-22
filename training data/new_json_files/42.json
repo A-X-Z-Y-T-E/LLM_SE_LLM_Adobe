@@ -1,0 +1,902 @@
+[
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b002",
+    "text": "2024 مارس",
+    "bbox": [
+      35.7,
+      808.7,
+      74.1,
+      820.2
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b003",
+    "text": "مقدمة",
+    "bbox": [
+      525.0,
+      192.6,
+      559.4,
+      216.6
+    ],
+    "font_size": 18.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b004",
+    "text": "يعد أمن البيانات عنصر رئيسي من عناصر مسؤولية الحفاظ على البيانات وهي: اإلدارة اآلمنة واألخالقية والفعَّالة للبيانات من أجل االستجابة التشغيلية.",
+    "bbox": [
+      44.2,
+      218.8,
+      562.1,
+      233.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b005",
+    "text": "يتضمن مجموعة من التدابير المادية والتقنية واإلجرائية التي تحفظ سرية البيانات وسالمتها وإتاحتها وتحول دون فقدانها أو إتالفها أو تعديلها أو الحصول",
+    "bbox": [
+      43.3,
+      232.2,
+      562.1,
+      246.7
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b006",
+    "text": "عليها أو الكشف عنها عن طريق الخطأ أو عمدًا أو بشكل غير قانوني أو دون تصريح",
+    "bbox": [
+      271.4,
+      245.1,
+      559.4,
+      259.9
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b007",
+    "text": "تقدم النشرة اإلرشادية هذه مجموعة من اإلجراءات الموصى بها ألمن البيانات في إدارة البيانات التشغيلية. ينبغي تنفيذ اإلجراءات بما يتوافق مع الواليات",
+    "bbox": [
+      44.1,
+      271.8,
+      562.1,
+      286.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b008",
+    "text": "المؤسسية والسياسات واألطر القانونية والتنظيمية ذات الصلة",
+    "bbox": [
+      353.5,
+      285.0,
+      559.3,
+      299.5
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b009",
+    "text": "إدارة آمنة لكلمة المرور",
+    "bbox": [
+      451.1,
+      313.5,
+      562.9,
+      332.2
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b010",
+    "text": "نشرة إرشادية عن أمن البيانات في إدارة البيانات التشغيلية",
+    "bbox": [
+      78.1,
+      70.1,
+      559.4,
+      104.7
+    ],
+    "font_size": 26.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b011",
+    "text": "2024 مارس",
+    "bbox": [
+      483.4,
+      107.2,
+      559.6,
+      131.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b012",
+    "text": "(Global CLEAR) ( ساهمت منظمة كارت أو إن جيCartONG) بترجمة النشرة اإلرشادية هذه بدعم من منظمة كلير قلوبال",
+    "bbox": [
+      120.1,
+      153.3,
+      559.4,
+      167.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b013",
+    "text": "ووزارة أوروبا والشؤون الخارجية الفرنسية.",
+    "bbox": [
+      408.1,
+      166.5,
+      562.1,
+      181.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b014",
+    "text": "حرف أو رمز على األقل 16  أمن أجهزتك وحساباتك بكلمات مرور قوية تتضمن أرقام وأحرف كبيرة وصغيرة ورموز وضمِّن لكل كلمة مرور",
+    "bbox": [
+      58.8,
+      336.4,
+      549.8,
+      352.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b015",
+    "text": "مكِّن المصادقة متعددة العوامل لجميع الحسابات",
+    "bbox": [
+      387.8,
+      348.4,
+      547.1,
+      364.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b016",
+    "text": "ال تعيد استخدام نفس كلمة المرور في حسابات أخرى",
+    "bbox": [
+      368.1,
+      369.6,
+      547.1,
+      384.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b017",
+    "text": "ال تخزن كلمات المرور الخاصة بك في مكان ظاهر( مثل دفتر المالحظات) أو رقميًا ( في ملف على جهازك) وال تشاركها مع اآلخرين",
+    "bbox": [
+      89.5,
+      389.6,
+      547.1,
+      404.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b018",
+    "text": "ال تفَّعل خاصية « تذكرني» لكلمة المرور في التطبيقات والمتصفحات",
+    "bbox": [
+      312.0,
+      407.7,
+      547.1,
+      424.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b019",
+    "text": "غيِّر كلمات مرور حساباتك على اإلنترنت فورًا إذا فقدت جهازك أو سُرق",
+    "bbox": [
+      276.2,
+      428.6,
+      547.1,
+      444.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b020",
+    "text": "استخدام برامج مكافحة الفيروسات/البرامج الضارة",
+    "bbox": [
+      335.9,
+      459.8,
+      559.4,
+      478.5
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b021",
+    "text": "تأكد من أن لديك برامج مناسبة لمكافحة الفيروسات/البرامج الضارة على أجهزتك",
+    "bbox": [
+      270.1,
+      481.8,
+      547.1,
+      496.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b022",
+    "text": "إذا كانت لديك أسئلة حول األدوات المناسبة أو كيفية تهيئتها فراجع أخصائي تقنية المعلومات في مكتبك",
+    "bbox": [
+      201.7,
+      501.8,
+      547.1,
+      516.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b023",
+    "text": "تحديث البرمجيات وأنظمة التشغيل",
+    "bbox": [
+      408.7,
+      531.2,
+      559.3,
+      549.9
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b024",
+    "text": "تحقق باستمرار من تحديث جهازك وبرامجك وتطبيقاتك وإضافات المتصفح وفعِّل التحديثات التلقائية لنظام التشغيل",
+    "bbox": [
+      159.6,
+      553.2,
+      547.1,
+      567.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b025",
+    "text": "( والتي تتلقى تحديثات أمان تلقائيةChrome) ( أو فايرفوكسFirefox) استخدم متصفحات إنترنت مثل كروم",
+    "bbox": [
+      175.3,
+      573.2,
+      547.1,
+      587.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b026",
+    "text": "أغلق أجهزتك في نهاية اليوم لتفعيل التحديثات والحماية من الهجمات اإللكترونية",
+    "bbox": [
+      275.8,
+      593.2,
+      547.1,
+      607.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b027",
+    "text": "تجنب عمليات االحتيال اإللكتروني والنقر على الروابط المجهولة",
+    "bbox": [
+      277.8,
+      623.6,
+      559.3,
+      642.3
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b028",
+    "text": "عند تلقي رسائل بريد إلكتروني أو رسائل مشبوهة، تحقق دائمًا من عنوان المرسل/معلومات االتصال وانقر فقط على الروابط أو المرفقات التي تثق",
+    "bbox": [
+      50.4,
+      645.6,
+      549.9,
+      661.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b029",
+    "text": "في مرسلها",
+    "bbox": [
+      510.3,
+      658.8,
+      547.1,
+      673.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b030",
+    "text": "ال ترد على رسائل البريد اإللكتروني المشبوهة أو تعيد إرسالها إلى زمالئك",
+    "bbox": [
+      293.3,
+      678.7,
+      547.1,
+      693.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 1,
+    "block_id": "42_p1_b031",
+    "text": "أبلغ فريق دعم تقنية المعلومات عن أي نشاط مشبوه",
+    "bbox": [
+      373.3,
+      698.7,
+      547.1,
+      713.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b002",
+    "text": "2024 مارس",
+    "bbox": [
+      35.7,
+      808.7,
+      74.1,
+      820.2
+    ],
+    "font_size": 8.5,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b003",
+    "text": "التوجيه التنفيذي للجنة الدائمة المشتركة بين الوكاالت بشأن مسؤولية البيانات في العمل اإلنساني",
+    "bbox": [
+      198.0,
+      457.4,
+      536.4,
+      472.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b004",
+    "text": "مذكرة توجيهية عن إدارة حوادث البيانات",
+    "bbox": [
+      393.6,
+      477.4,
+      536.6,
+      492.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b005",
+    "text": "نشرة إرشادية عن االستخدام المسؤول ألدوات المؤتمرات اإللكترونية",
+    "bbox": [
+      297.7,
+      497.4,
+      536.5,
+      512.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b006",
+    "text": "لمزيد من المعلومات حول إدارة البيانات الحساسة في العمليات اإلنسانية، قم بزيارة",
+    "bbox": [
+      280.3,
+      538.5,
+      559.8,
+      552.9
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b007",
+    "text": "صفحة مسؤولية الحفاظ على البيانات الموجودة في موقع المركز على االنترنت أو اتصل بفريقنا على البريد اإللكتروني التالي:",
+    "bbox": [
+      126.1,
+      551.5,
+      562.6,
+      566.1
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b008",
+    "text": "centrehumdata@un.org",
+    "bbox": [
+      456.7,
+      564.9,
+      559.8,
+      579.3
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b009",
+    "text": "استخدام األجهزة المحمولة بحرص ومسؤولية",
+    "bbox": [
+      355.7,
+      32.0,
+      558.5,
+      50.6
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b010",
+    "text": "استخدم أجهزة منفصلة ألغراض العمل قدر اإلمكان. احتفظ بأجهزة عملك بمكان يكون آمن في جميع األوقات وتجنب حملها والتجول بها دون داعٍ",
+    "bbox": [
+      54.5,
+      53.9,
+      546.2,
+      71.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b011",
+    "text": "استخدم أدوات المراسلة المعتمدة من قبل مؤسستك والتي توفر التشفير اآلمن من طرف إلى طرف",
+    "bbox": [
+      216.9,
+      73.9,
+      546.3,
+      88.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b012",
+    "text": "أطفئ اتصال البلوتوث قدر اإلمكان وقلل االتصال به",
+    "bbox": [
+      369.1,
+      93.9,
+      546.2,
+      108.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b013",
+    "text": "( استخدم شبكة افتراضية خاصةVPN)  معتمدة من مؤسستك عند عملك على االنترنت.  سجِّل خروجك من حساباتك إذا كنت تستخدم جهاز حاسب",
+    "bbox": [
+      51.8,
+      113.9,
+      549.0,
+      128.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b014",
+    "text": "أو جهاز مشترك",
+    "bbox": [
+      490.8,
+      127.1,
+      546.3,
+      141.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b015",
+    "text": "خاصة عند التنقل- عطِّل خواص المؤشرات الحيوية إللغاء القفل كالتعرف على الوجه",
+    "bbox": [
+      255.4,
+      145.1,
+      546.3,
+      161.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b016",
+    "text": "حماية البيانات الحساسة وتقليل استخدام البيانات",
+    "bbox": [
+      344.9,
+      177.4,
+      558.4,
+      196.1
+    ],
+    "font_size": 14.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b017",
+    "text": "احتفظ بسجل أصول البيانات الذي يشير إلى مستوى حساسية كل نوع من البيانات التي يديرها مكتبك. استعرض مستويات حساسية المعلومات",
+    "bbox": [
+      58.3,
+      199.1,
+      549.0,
+      213.8
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b018",
+    "text": "باستمرار",
+    "bbox": [
+      514.5,
+      212.3,
+      546.2,
+      227.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b019",
+    "text": "اجمع الحد األدنى فقط من البيانات المطلوبة لتحقيق أهداف نشاط معين من أنشطة إدارة البيانات",
+    "bbox": [
+      225.2,
+      232.5,
+      546.2,
+      247.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b020",
+    "text": "احتفظ فقط بالبيانات الحساسة الضرورية لتحقيق الهدف الذي تدار من أجله وحسب ما تقتضيه التوجيهات والقوانين واللوائح المعمول بها",
+    "bbox": [
+      87.5,
+      252.5,
+      546.2,
+      267.0
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b021",
+    "text": "انقل وخزِّن البيانات باستخدام األدوات والقنوات المعتمدة من مؤسستك (محليًا على خادم المؤسسة أو الحاسب المكتبي أو الحاسب المحمول أو على",
+    "bbox": [
+      53.1,
+      271.5,
+      549.0,
+      287.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b022",
+    "text": "(.Teams وSharePoint  وOneDrive) الخوادم والنظم التي تُشغّل عن بعد من خالل تطبيقات مثل",
+    "bbox": [
+      200.9,
+      284.3,
+      546.2,
+      300.2
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b023",
+    "text": "( التي تحتوي على Word Excel, PDF) عيِّن كلمات مرور لحماية ملفات الوورد والبي دي أف واالكسل",
+    "bbox": [
+      182.5,
+      305.7,
+      546.3,
+      320.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b024",
+    "text": "بيانات حساسة ، وشارك كلمات مرور المستندات عن طريق قنوات اتصال منفصلة (يعني كإرسال رسالة نصية",
+    "bbox": [
+      170.3,
+      318.9,
+      546.2,
+      333.4
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b025",
+    "text": ")تحتوي على كلمة مرور لمستند مرسل عبر البريد اإللكتروني",
+    "bbox": [
+      335.8,
+      332.1,
+      546.3,
+      346.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b026",
+    "text": "قلل وأدر جيدًا عدد األشخاص القادرين على الوصول إلى البيانات الحساسة",
+    "bbox": [
+      293.4,
+      351.8,
+      546.3,
+      366.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b027",
+    "text": "حدد جدول زمني لحفظ واتالف جميع البيانات المدُارة واستخدم األدوات المناسبة لإلتالف",
+    "bbox": [
+      245.7,
+      371.7,
+      546.2,
+      386.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b028",
+    "text": "شفِّر رسائل بريدك اإللكتروني",
+    "bbox": [
+      444.0,
+      390.5,
+      546.3,
+      406.6
+    ],
+    "font_size": 11.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "42",
+    "page_number": 2,
+    "block_id": "42_p2_b029",
+    "text": "المصادر الرئيسية",
+    "bbox": [
+      445.8,
+      429.6,
+      546.9,
+      453.6
+    ],
+    "font_size": 18.0,
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "label": "H2"
+  }
+]

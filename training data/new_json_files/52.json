@@ -1,0 +1,3002 @@
+[
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b002",
+    "text": "AUGUST 2023",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b003",
+    "text": "INTRODUCTION",
+    "bbox": [
+      52.7,
+      547.0,
+      156.8,
+      563.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b004",
+    "text": "Accountability to Affected People (AAP) is a collective approach that ensures the needs and interests of",
+    "bbox": [
+      53.9,
+      572.0,
+      520.4,
+      585.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b005",
+    "text": "people are at the center of humanitarian action. It is based on a commitment to take account of, give",
+    "bbox": [
+      53.9,
+      585.2,
+      513.9,
+      599.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b006",
+    "text": "account to and be held to account by the people humanitarians seek to assist.1 In their activities related to",
+    "bbox": [
+      53.9,
+      598.4,
+      539.0,
+      612.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b007",
+    "text": "AAP, humanitarians collect and use increasing amounts of data. Responsible data management is critical to",
+    "bbox": [
+      53.9,
+      611.6,
+      544.1,
+      625.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b008",
+    "text": "ensuring that these activities do not harm affected people, and is part of fulfilling the commitments related",
+    "bbox": [
+      53.9,
+      624.8,
+      543.4,
+      638.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b009",
+    "text": "to AAP.",
+    "bbox": [
+      53.9,
+      638.0,
+      86.5,
+      651.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b010",
+    "text": "This Guidance Note explores data responsibility and AAP in humanitarian action. It identifies common",
+    "bbox": [
+      53.9,
+      664.4,
+      519.8,
+      678.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b011",
+    "text": "data-related benefits and risks related to AAP, explains how humanitarians can implement actions from",
+    "bbox": [
+      53.9,
+      677.6,
+      526.1,
+      691.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b012",
+    "text": "the IASC Operational Guidance on Data Responsibility in Humanitarian Action and offers examples of joint",
+    "bbox": [
+      53.9,
+      690.8,
+      538.4,
+      704.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b013",
+    "text": "approaches to this work.",
+    "bbox": [
+      53.9,
+      704.0,
+      166.8,
+      717.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b014",
+    "text": "1     For more on AAP in Humanitarian Action, and OCHA’s role, see: OCHA: Accountability to affected people.",
+    "bbox": [
+      53.9,
+      769.9,
+      402.8,
+      778.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b015",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b016",
+    "text": "GUIDANCE NOTE SERIES",
+    "bbox": [
+      53.3,
+      98.4,
+      208.3,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b017",
+    "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
+    "bbox": [
+      53.3,
+      116.4,
+      378.1,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b018",
+    "text": "GUIDANCE NOTE: DATA RESPONSIBILITY AND",
+    "bbox": [
+      53.3,
+      138.7,
+      531.9,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b019",
+    "text": "ACCOUNTABILITY TO AFFECTED PEOPLE IN",
+    "bbox": [
+      53.3,
+      162.7,
+      502.3,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b020",
+    "text": "HUMANITARIAN ACTION",
+    "bbox": [
+      53.3,
+      186.7,
+      310.3,
+      212.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b021",
+    "text": "KEY TAKEAWAYS:",
+    "bbox": [
+      63.7,
+      245.0,
+      167.1,
+      260.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b022",
+    "text": "•\t Data responsibility is the safe, ethical and effective management of personal and non-personal",
+    "bbox": [
+      75.0,
+      267.7,
+      520.2,
+      281.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b023",
+    "text": "data for operational response and is therefore central to the humanitarian system’s",
+    "bbox": [
+      86.3,
+      280.9,
+      466.7,
+      294.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b024",
+    "text": "Accountability to Affected People (AAP).",
+    "bbox": [
+      86.3,
+      294.1,
+      267.2,
+      308.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b025",
+    "text": "•\t Examples of data management related to AAP include communicating with communities,",
+    "bbox": [
+      75.0,
+      318.3,
+      494.9,
+      332.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b026",
+    "text": "processing complaints and feedback, and tracking community perceptions.",
+    "bbox": [
+      86.3,
+      331.5,
+      430.0,
+      345.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b027",
+    "text": "•\t Collecting data from and about communities can lead to improved understanding of the",
+    "bbox": [
+      75.0,
+      355.7,
+      490.2,
+      369.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b028",
+    "text": "priorities and preferences of affected people, as well as their increased participation in and",
+    "bbox": [
+      86.3,
+      368.9,
+      502.3,
+      382.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b029",
+    "text": "ownership of humanitarian action.",
+    "bbox": [
+      86.3,
+      382.1,
+      246.8,
+      396.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b030",
+    "text": "•\t However, data management related to AAP might carry risks, including, among others, exposure",
+    "bbox": [
+      75.0,
+      406.3,
+      526.4,
+      420.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b031",
+    "text": "of sensitive data that could lead to harm for affected people or humanitarian workers, and loss of",
+    "bbox": [
+      86.3,
+      419.5,
+      530.6,
+      433.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b032",
+    "text": "trust between affected people, humanitarian organizations and stakeholders.",
+    "bbox": [
+      86.3,
+      432.7,
+      439.0,
+      446.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b033",
+    "text": "•\t Humanitarians should conduct data impact assessments, design for data responsibility, develop",
+    "bbox": [
+      75.0,
+      456.9,
+      526.7,
+      470.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b034",
+    "text": "data management diagrams, maintain a data management registry, establish data sharing",
+    "bbox": [
+      86.3,
+      470.1,
+      499.3,
+      484.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 1,
+    "block_id": "52_p1_b035",
+    "text": "agreements, and introduce data incident management procedures.",
+    "bbox": [
+      86.3,
+      483.3,
+      393.1,
+      497.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b002",
+    "text": "AUGUST 2023",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b003",
+    "text": "2     Statement by Principals of the Inter-Agency Standing Committee (IASC) on Accountability to Affected People in Humanitarian Action.",
+    "bbox": [
+      53.5,
+      694.3,
+      502.1,
+      703.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b004",
+    "text": "3     IASC Operational Guidance on Data Responsibility in Humanitarian Action (2023).",
+    "bbox": [
+      53.5,
+      706.3,
+      333.3,
+      715.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b005",
+    "text": "4     A data management activity is any activity involving the management of data and information as part of humanitarian response. This includes the",
+    "bbox": [
+      53.5,
+      718.4,
+      538.4,
+      726.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b006",
+    "text": "design of the activity, as well as the collection, receipt, storage, quality assurance, analysis, sharing, use, retention and destruction of data and",
+    "bbox": [
+      53.5,
+      727.4,
+      518.5,
+      735.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b007",
+    "text": "information by humanitarian actors. IASC Operational Guidance on Data Responsibility in Humanitarian Action (2023).",
+    "bbox": [
+      53.5,
+      736.3,
+      452.7,
+      745.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b008",
+    "text": "5     Information Ecosystem Analysis seeks to capture all dimensions of the relationship between information supply and information demand. For",
+    "bbox": [
+      53.5,
+      748.4,
+      527.8,
+      756.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b009",
+    "text": "more information, see: Internews, Information Ecosystem Analysis - A Human-Centered Approach (2021).",
+    "bbox": [
+      53.5,
+      757.3,
+      407.6,
+      766.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b010",
+    "text": "6     For more information, see the Centre for Humanitarian Data’s Tip Sheet on Understanding Data Ecosystems.",
+    "bbox": [
+      53.5,
+      769.3,
+      415.3,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b011",
+    "text": "DATA MANAGEMENT RELATED TO AAP",
+    "bbox": [
+      52.9,
+      44.5,
+      304.6,
+      60.9
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b012",
+    "text": "Through AAP, humanitarians aim to ensure that humanitarian action protects and preserves the rights and",
+    "bbox": [
+      53.4,
+      69.5,
+      539.5,
+      83.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b013",
+    "text": "dignity of people affected by crises, remains relevant and effective, leaves no one behind, and upholds",
+    "bbox": [
+      53.4,
+      82.7,
+      521.8,
+      96.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b014",
+    "text": "humanitarian principles.2 By recognizing that crisis-affected people experience aid differently, AAP",
+    "bbox": [
+      53.4,
+      95.9,
+      503.2,
+      109.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b015",
+    "text": "enables humanitarians to work with affected people to ensure that their diverse needs, vulnerabilities and",
+    "bbox": [
+      53.4,
+      109.1,
+      539.3,
+      123.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b016",
+    "text": "capacities are centered in decision-making and programme design.",
+    "bbox": [
+      53.4,
+      122.3,
+      361.6,
+      136.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b017",
+    "text": "Humanitarians do this primarily through the following activities:",
+    "bbox": [
+      53.4,
+      148.7,
+      346.7,
+      162.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b018",
+    "text": "•\t Systematically providing timely, relevant and actionable information about the humanitarian",
+    "bbox": [
+      64.8,
+      175.1,
+      503.4,
+      189.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b019",
+    "text": "response, its actors and its activities to people and communities.",
+    "bbox": [
+      76.1,
+      188.3,
+      371.6,
+      202.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b020",
+    "text": "•\t Supporting the meaningful participation and leadership of affected people in decision-making,",
+    "bbox": [
+      64.8,
+      214.7,
+      511.0,
+      228.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b021",
+    "text": "regardless of sex, age, disability status and other diversities.",
+    "bbox": [
+      76.1,
+      227.9,
+      348.8,
+      241.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b022",
+    "text": "•\t Ensuring community feedback mechanisms are in place to enable affected people to assess and",
+    "bbox": [
+      64.8,
+      254.3,
+      515.0,
+      268.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b023",
+    "text": "comment on the performance of humanitarian action, and to make complaints about any issue,",
+    "bbox": [
+      76.1,
+      267.5,
+      514.6,
+      281.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b024",
+    "text": "including sensitive topics such as protection, gender-based violence, sexual exploitation and abuse,",
+    "bbox": [
+      76.1,
+      280.7,
+      532.7,
+      294.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b025",
+    "text": "fraud, corruption, racism and discrimination, environmental violations, and others.",
+    "bbox": [
+      76.1,
+      293.9,
+      454.7,
+      307.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b026",
+    "text": "Humanitarians increasingly use digital channels to engage with communities. As a result, large quantities",
+    "bbox": [
+      53.4,
+      320.3,
+      534.9,
+      334.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b027",
+    "text": "of data can be collected and used, requiring appropriate management. Data responsibility — the safe,",
+    "bbox": [
+      53.4,
+      333.5,
+      518.2,
+      347.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b028",
+    "text": "ethical and effective management of personal and non-personal data for operational response — is critical",
+    "bbox": [
+      53.4,
+      346.7,
+      540.2,
+      360.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b029",
+    "text": "to these efforts.3 Ensuring that data management activities4 do not harm affected people is part of fulfilling",
+    "bbox": [
+      53.4,
+      359.9,
+      541.3,
+      373.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b030",
+    "text": "the commitments related to AAP.",
+    "bbox": [
+      53.4,
+      373.1,
+      203.3,
+      387.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b031",
+    "text": "Common data management activities related to AAP include:",
+    "bbox": [
+      53.4,
+      399.5,
+      331.4,
+      413.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b032",
+    "text": "•\t Communicating with communities through the provision of timely and relevant information.",
+    "bbox": [
+      64.8,
+      425.9,
+      499.9,
+      439.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b033",
+    "text": "•\t Mechanisms for collecting, analyzing, referring and actioning complaints and feedback.",
+    "bbox": [
+      64.8,
+      452.3,
+      474.0,
+      466.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b034",
+    "text": "•\t Systems for tracking community perceptions, rumors, and misinformation, disinformation and hate",
+    "bbox": [
+      64.8,
+      478.7,
+      532.0,
+      492.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b035",
+    "text": "speech (MDH).",
+    "bbox": [
+      76.1,
+      491.9,
+      142.3,
+      505.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b036",
+    "text": "•\t Information management activities to inform the delivery and coordination of assistance, including",
+    "bbox": [
+      64.8,
+      518.3,
+      530.7,
+      532.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b037",
+    "text": "joint needs assessments and analysis, perception surveys, and mapping the presence and activities of",
+    "bbox": [
+      76.1,
+      531.5,
+      542.5,
+      545.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b038",
+    "text": "partners in different locations.",
+    "bbox": [
+      76.1,
+      544.7,
+      214.5,
+      558.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b039",
+    "text": "•\t Information ecosystem analysis5 to capture the relationship between information supply and",
+    "bbox": [
+      64.8,
+      571.1,
+      501.6,
+      585.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b040",
+    "text": "information demand to and from communities.",
+    "bbox": [
+      76.1,
+      584.3,
+      292.1,
+      598.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b041",
+    "text": "Understanding how these activities relate to one another and how data moves between individuals,",
+    "bbox": [
+      58.1,
+      610.7,
+      514.3,
+      624.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 2,
+    "block_id": "52_p2_b042",
+    "text": "communities and organizations is part of a responsible and accountable approach to data management.6",
+    "bbox": [
+      58.1,
+      623.9,
+      536.6,
+      637.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b002",
+    "text": "AUGUST 2023",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b003",
+    "text": "7    For more information, see this Guidance Note on Data Impact Assessments.",
+    "bbox": [
+      53.5,
+      769.3,
+      306.2,
+      778.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b004",
+    "text": "BENEFITS AND RISKS OF DATA MANAGEMENT ACTIVITIES RELATED TO AAP",
+    "bbox": [
+      53.0,
+      43.9,
+      540.4,
+      60.0
+    ],
+    "font_size": 11.9,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b005",
+    "text": "Understanding and balancing the benefits and risks of data management is a key component of data re-",
+    "bbox": [
+      53.0,
+      70.8,
+      525.7,
+      84.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b006",
+    "text": "sponsibility. Benefits and risks related to data managements activities related to AAP vary across contexts,",
+    "bbox": [
+      53.0,
+      84.0,
+      538.1,
+      97.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b007",
+    "text": "and may include the following common benefits and risks:",
+    "bbox": [
+      53.0,
+      97.2,
+      321.9,
+      111.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b008",
+    "text": "Common benefits:",
+    "bbox": [
+      53.0,
+      123.6,
+      137.5,
+      137.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b009",
+    "text": "•\t Improved understanding of priorities and preferences of affected people, such as their preferred",
+    "bbox": [
+      64.3,
+      150.0,
+      515.5,
+      163.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b010",
+    "text": "channels to receive and submit information.",
+    "bbox": [
+      75.7,
+      163.2,
+      277.4,
+      177.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b011",
+    "text": "•\t Increased participation in and ownership of humanitarian action by affected people.",
+    "bbox": [
+      64.3,
+      189.6,
+      459.9,
+      203.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b012",
+    "text": "•\t Gains in effectiveness of humanitarian action by responding to community feedback.",
+    "bbox": [
+      64.3,
+      216.0,
+      464.9,
+      229.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b013",
+    "text": "•\t Enhanced transparency and accountability.",
+    "bbox": [
+      64.3,
+      242.4,
+      275.8,
+      256.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b014",
+    "text": "Common risks:",
+    "bbox": [
+      57.7,
+      268.8,
+      126.3,
+      282.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b015",
+    "text": "•\t Accidental or intentional exposure of personal or non-personal sensitive data that could lead to",
+    "bbox": [
+      64.3,
+      295.2,
+      512.3,
+      309.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b016",
+    "text": "re-identification, retaliation, stigmatization, violence or other forms of harm for affected people.",
+    "bbox": [
+      75.7,
+      308.4,
+      515.1,
+      322.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b017",
+    "text": "•\t Potential misuse of data for non-humanitarian purposes. For instance, this may occur when a",
+    "bbox": [
+      64.3,
+      334.8,
+      501.8,
+      348.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b018",
+    "text": "commercial software vendor that provides a community communication channel uses the chat history",
+    "bbox": [
+      75.7,
+      348.0,
+      544.2,
+      361.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b019",
+    "text": "to pursue their own business purposes.",
+    "bbox": [
+      75.7,
+      361.2,
+      255.1,
+      375.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b020",
+    "text": "•\t Biased analysis leading to poor decision-making. This can happen when non-representative data from",
+    "bbox": [
+      64.3,
+      387.6,
+      543.2,
+      401.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b021",
+    "text": "perception surveys is used to draw response-level conclusions.",
+    "bbox": [
+      75.7,
+      400.8,
+      362.4,
+      414.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b022",
+    "text": "•\t Missed opportunities to use available data when efforts are not coordinated, which can lead to data",
+    "bbox": [
+      64.3,
+      427.2,
+      530.3,
+      441.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b023",
+    "text": "collection fatigue by affected communities and individuals having to re-share the same difficult",
+    "bbox": [
+      75.7,
+      440.4,
+      511.6,
+      454.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b024",
+    "text": "stories.",
+    "bbox": [
+      75.7,
+      453.6,
+      108.9,
+      467.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b025",
+    "text": "•\t Loss of trust between affected people, humanitarian organizations and other stakeholders when",
+    "bbox": [
+      64.3,
+      480.0,
+      516.3,
+      493.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b026",
+    "text": "sensitive data is released or leaked.",
+    "bbox": [
+      75.7,
+      493.2,
+      236.8,
+      507.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b027",
+    "text": "RECOMMENDED ACTIONS FOR DATA RESPONSIBILITY IN AAP",
+    "bbox": [
+      52.7,
+      529.8,
+      454.6,
+      546.2
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b028",
+    "text": "Data responsibility requires the implementation of actions at different levels of a humanitarian response,",
+    "bbox": [
+      53.6,
+      555.8,
+      534.2,
+      569.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b029",
+    "text": "in-line with the IASC Operational Guidance. The Centre for Humanitarian Data (‘the Centre’) recommends",
+    "bbox": [
+      53.6,
+      569.0,
+      534.6,
+      582.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b030",
+    "text": "the following actions to support data responsibility as part of AAP:",
+    "bbox": [
+      53.6,
+      582.2,
+      357.1,
+      596.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b031",
+    "text": "•\t Conduct a data impact assessment",
+    "bbox": [
+      65.0,
+      613.0,
+      245.7,
+      627.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b032",
+    "text": "•\t Design for data responsibility",
+    "bbox": [
+      65.0,
+      631.0,
+      220.6,
+      645.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b033",
+    "text": "•\t Develop data management diagrams",
+    "bbox": [
+      65.0,
+      649.0,
+      253.6,
+      663.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b034",
+    "text": "•\t Maintain a data management registry",
+    "bbox": [
+      65.0,
+      667.0,
+      257.4,
+      681.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b035",
+    "text": "•\t Establish data sharing agreements",
+    "bbox": [
+      65.0,
+      685.0,
+      243.0,
+      699.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 3,
+    "block_id": "52_p3_b036",
+    "text": "•\t Introduce data incident management procedures",
+    "bbox": [
+      65.0,
+      703.0,
+      313.0,
+      717.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b002",
+    "text": "AUGUST 2023",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b003",
+    "text": "8    A Data and Information Sensitivity Classification is part of an Information Sharing Protocol (ISP), which serves as the primary document of reference",
+    "bbox": [
+      53.5,
+      730.5,
+      544.6,
+      739.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b004",
+    "text": "governing data and information sharing in the response. The Classification indicates the level of sensitivity of different types of data and information",
+    "bbox": [
+      53.5,
+      739.5,
+      544.1,
+      748.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b005",
+    "text": "for a given context. This is a key component of an ISP and should be developed through a collective exercise in which different stakeholders agree on",
+    "bbox": [
+      53.5,
+      748.5,
+      544.9,
+      757.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b006",
+    "text": "what constitutes sensitive data in their context.",
+    "bbox": [
+      53.5,
+      757.5,
+      212.3,
+      766.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b007",
+    "text": "9    For more information on data incident management, see: OCHA Centre for Humanitarian Data, Guidance Note: Data Incident Management (2019).",
+    "bbox": [
+      53.5,
+      769.4,
+      536.7,
+      778.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b008",
+    "text": "Conduct data impact assessments",
+    "bbox": [
+      53.0,
+      44.8,
+      213.2,
+      58.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b009",
+    "text": "A data impact assessment (DIA)7 aims to determine the expected impacts of a data management activity",
+    "bbox": [
+      53.0,
+      57.8,
+      531.6,
+      72.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b010",
+    "text": "and helps identify recommendations to mitigate the potential negative impacts. Many data management",
+    "bbox": [
+      53.0,
+      71.2,
+      532.6,
+      85.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b011",
+    "text": "activities related to AAP involve the management of both personal and non-personal sensitive data or make",
+    "bbox": [
+      53.0,
+      84.4,
+      545.6,
+      98.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b012",
+    "text": "use of new digital tools. As such, organizations should conduct a DIA before starting an activity to assess",
+    "bbox": [
+      53.0,
+      97.6,
+      528.2,
+      111.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b013",
+    "text": "whether the activity can be implemented responsibly.",
+    "bbox": [
+      53.0,
+      110.8,
+      300.8,
+      124.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b014",
+    "text": "Design for data responsibility",
+    "bbox": [
+      53.0,
+      137.2,
+      191.3,
+      151.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b015",
+    "text": "Designing for data responsibility means identifying ways to make data management safe, ethical and",
+    "bbox": [
+      53.0,
+      150.4,
+      514.8,
+      164.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b016",
+    "text": "effective. All measures for data responsibility should be outlined in a clear and replicable standard",
+    "bbox": [
+      53.0,
+      163.4,
+      503.3,
+      177.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b017",
+    "text": "operating procedure (SOP). An SOP should include roles and responsibilities of stakeholders involved,",
+    "bbox": [
+      53.0,
+      176.6,
+      521.8,
+      190.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b018",
+    "text": "tools and processes for data management, measures to prevent exposure of sensitive data, and clear",
+    "bbox": [
+      53.0,
+      190.0,
+      514.0,
+      203.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b019",
+    "text": "terms for data retention and destruction. In addition, an SOP should specify the purpose of the given data",
+    "bbox": [
+      53.0,
+      203.2,
+      536.2,
+      217.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b020",
+    "text": "management, as well as its legitimate basis, including but not limited to informed consent. The SOP should",
+    "bbox": [
+      53.0,
+      216.4,
+      543.2,
+      230.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b021",
+    "text": "also specify measures to uphold data subjects’ rights to be informed about how their data will be used, as",
+    "bbox": [
+      53.0,
+      229.6,
+      535.6,
+      243.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b022",
+    "text": "well as to interact with it, or even request its full deletion. When developing an SOP, consult the data impact",
+    "bbox": [
+      53.0,
+      242.8,
+      545.2,
+      256.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b023",
+    "text": "assessment for the activity to inform appropriate, feasible and robust risk mitigation measures.",
+    "bbox": [
+      53.0,
+      256.0,
+      486.3,
+      269.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b024",
+    "text": "Develop data management diagrams",
+    "bbox": [
+      53.0,
+      282.4,
+      232.1,
+      296.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b025",
+    "text": "A data management diagram offers a visual understanding of an activity and can help identify gaps in",
+    "bbox": [
+      53.0,
+      295.4,
+      519.3,
+      309.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b026",
+    "text": "data sharing, legal provisions, infrastructure or guidance (e.g., this should be done when planning the",
+    "bbox": [
+      53.0,
+      308.8,
+      517.5,
+      322.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b027",
+    "text": "information flows within a Community Feedback Mechanism).",
+    "bbox": [
+      53.0,
+      322.0,
+      338.7,
+      335.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b028",
+    "text": "Maintain a data management registry",
+    "bbox": [
+      53.0,
+      348.4,
+      232.3,
+      362.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b029",
+    "text": "A data management registry provides a summary of the key data management activities led by different",
+    "bbox": [
+      53.0,
+      361.4,
+      531.6,
+      375.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b030",
+    "text": "actors in the response context, including the data managed in those activities. The registry should indicate",
+    "bbox": [
+      53.0,
+      374.8,
+      539.6,
+      388.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b031",
+    "text": "the sensitivity level for each data type, and should align with existing data and information sensitivity",
+    "bbox": [
+      53.0,
+      388.0,
+      516.5,
+      401.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b032",
+    "text": "classifications for the response context where available.8 It should be updated on a rolling basis by the",
+    "bbox": [
+      53.0,
+      401.2,
+      519.8,
+      415.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b033",
+    "text": "relevant interagency mechanism (e.g. the AAP Working Group).",
+    "bbox": [
+      53.0,
+      414.4,
+      341.6,
+      428.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b034",
+    "text": "Establish data sharing agreements",
+    "bbox": [
+      53.0,
+      440.8,
+      223.6,
+      454.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b035",
+    "text": "When sharing personal or highly sensitive data, organizations should establish a data sharing agreement",
+    "bbox": [
+      53.0,
+      453.8,
+      534.2,
+      468.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b036",
+    "text": "(DSA). A DSA establishes the terms and conditions that govern the sharing of specific personal data and",
+    "bbox": [
+      53.0,
+      467.2,
+      524.5,
+      481.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b037",
+    "text": "sensitive non-personal data between two or more parties. Check whether the data sharing is subject to",
+    "bbox": [
+      53.0,
+      480.4,
+      523.4,
+      494.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b038",
+    "text": "a specific data protection framework (e.g. if one of the partners is subject to national legislation). In that",
+    "bbox": [
+      53.0,
+      493.6,
+      527.7,
+      507.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b039",
+    "text": "case, the DSA needs to adhere to the requirements specified in the applicable data protection framework,",
+    "bbox": [
+      53.0,
+      506.8,
+      535.9,
+      520.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b040",
+    "text": "including relevant data subject rights and requests. A DSA may not be required if dedicated clauses on",
+    "bbox": [
+      53.0,
+      520.0,
+      519.3,
+      533.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b041",
+    "text": "data sharing are included in broader agreements, such as memorandums of understanding and service",
+    "bbox": [
+      53.0,
+      533.2,
+      524.5,
+      547.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b042",
+    "text": "contracts.",
+    "bbox": [
+      53.0,
+      546.4,
+      100.6,
+      560.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b043",
+    "text": "Introduce data incident management procedures",
+    "bbox": [
+      53.0,
+      572.8,
+      283.5,
+      586.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-BoldIt",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b044",
+    "text": "Data incidents related to AAP include exposure of data (‘data breach’) that could lead to retaliation,",
+    "bbox": [
+      53.0,
+      586.0,
+      503.0,
+      599.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b045",
+    "text": "stigmatization, violence or other forms of harm for affected people, and the misuse of affected people’s data",
+    "bbox": [
+      53.0,
+      599.2,
+      543.4,
+      613.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b046",
+    "text": "for non-humanitarian purposes. Data incident management refers to the processes and tools for identifying,",
+    "bbox": [
+      53.0,
+      612.4,
+      543.3,
+      626.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b047",
+    "text": "resolving, tracking and communicating about data incidents.9 It is a key component of transparent and",
+    "bbox": [
+      53.0,
+      625.6,
+      520.8,
+      639.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b048",
+    "text": "accountable data management, and can help prevent future incidents. Organizations should establish a",
+    "bbox": [
+      53.0,
+      638.8,
+      525.2,
+      652.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b049",
+    "text": "standard operating procedure for data incident management, and a registry or log to track data incidents",
+    "bbox": [
+      53.0,
+      651.8,
+      539.2,
+      666.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b050",
+    "text": "and how they were handled. Where the data incident constitutes a personal data breach, organizations need",
+    "bbox": [
+      53.0,
+      665.2,
+      543.3,
+      679.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b051",
+    "text": "to fulfill obligations established in the relevant data protection framework and in applicable data sharing",
+    "bbox": [
+      53.0,
+      678.4,
+      530.0,
+      692.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b052",
+    "text": "agreements. This may include providing information about the breach to individuals whose personal",
+    "bbox": [
+      53.0,
+      691.6,
+      512.4,
+      705.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 4,
+    "block_id": "52_p4_b053",
+    "text": "data was exposed.",
+    "bbox": [
+      53.0,
+      704.8,
+      137.1,
+      718.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b001",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      189.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b002",
+    "text": "AUGUST 2023",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b003",
+    "text": "The Centre for Humanitarian Data (‘the Centre’),  together with key partners, is publishing a series of guidance",
+    "bbox": [
+      65.5,
+      519.0,
+      525.9,
+      532.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b004",
+    "text": "notes and tip sheets on Data Responsibility in Humanitarian Action over the course of 2022 and 2023. The",
+    "bbox": [
+      65.5,
+      531.4,
+      502.9,
+      544.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b005",
+    "text": "guidance note series continues work initiated in 2019 and 2020. It also complements the Inter-Agency Standing",
+    "bbox": [
+      65.5,
+      543.2,
+      529.4,
+      556.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b006",
+    "text": "Committee Operational Guidance on Data Responsibility in Humanitarian Action (revised in April 2023) and the",
+    "bbox": [
+      65.5,
+      555.2,
+      535.2,
+      568.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b007",
+    "text": "OCHA Data Responsibility Guidelines (October 2021). Through the series, the Centre aims to provide additional",
+    "bbox": [
+      65.5,
+      567.2,
+      529.8,
+      580.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b008",
+    "text": "guidance on specific issues, processes and tools for data responsibility in practice. The guidance notes and tip",
+    "bbox": [
+      65.5,
+      579.4,
+      521.9,
+      592.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b009",
+    "text": "sheets published in 2022-2023 have been made possible with the support of the Government of Switzerland.",
+    "bbox": [
+      65.5,
+      591.4,
+      514.5,
+      604.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b010",
+    "text": "Case Study from Afghanistan: Data Responsibility in AAP",
+    "bbox": [
+      64.8,
+      59.0,
+      348.9,
+      71.8
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b011",
+    "text": "Following the de facto authorities’ decree in December 2022 banning Afghan women from working for",
+    "bbox": [
+      64.8,
+      85.0,
+      509.2,
+      98.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b012",
+    "text": "NGOs, the IASC established minimum criteria for programming, including robust commitments around",
+    "bbox": [
+      64.8,
+      97.6,
+      513.4,
+      110.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b013",
+    "text": "AAP. The AAP Working Group (AAP WG) launched the Afghanistan Community Voices and Accountability",
+    "bbox": [
+      64.8,
+      110.0,
+      521.1,
+      123.5
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b014",
+    "text": "Platform to help humanitarians collect, analyze and respond to community feedback across the response",
+    "bbox": [
+      64.8,
+      122.6,
+      526.6,
+      136.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b015",
+    "text": "in Afghanistan in a timely and secure manner.",
+    "bbox": [
+      64.8,
+      135.4,
+      265.0,
+      148.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b016",
+    "text": "Given the sensitivity of the data shared through the collective platform, the AAP WG took steps to ensure",
+    "bbox": [
+      64.8,
+      160.6,
+      519.7,
+      173.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b017",
+    "text": "data responsibility by design. This included conducting a data impact assessment to identify and mitigate",
+    "bbox": [
+      64.8,
+      173.2,
+      526.2,
+      186.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b018",
+    "text": "data-related risks, and establishing a standard operating procedure (SOP) for data management by all",
+    "bbox": [
+      64.8,
+      185.8,
+      509.1,
+      199.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b019",
+    "text": "partners involved. The SOP specifies that no personal data should be stored within the platform. It also",
+    "bbox": [
+      64.8,
+      198.4,
+      514.5,
+      211.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b020",
+    "text": "includes steps to ensure that data management within the platform does no harm, and promotes equality",
+    "bbox": [
+      64.8,
+      211.0,
+      527.2,
+      224.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b021",
+    "text": "and non-discrimination. This is achieved through collective analysis of complaints and feedback received",
+    "bbox": [
+      64.8,
+      223.6,
+      524.3,
+      236.8
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b022",
+    "text": "from affected communities, and the presentation of key insights in a neutral and impartial manner. The",
+    "bbox": [
+      64.8,
+      236.2,
+      515.4,
+      249.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b023",
+    "text": "SOP is aligned with the system-wide Information Sharing Protocol for Afghanistan, which was endorsed",
+    "bbox": [
+      64.8,
+      248.6,
+      521.9,
+      262.1
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b024",
+    "text": "by the Humanitarian Country Team in May 2023.",
+    "bbox": [
+      64.8,
+      261.4,
+      274.5,
+      274.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b025",
+    "text": "Case Study from Syria: Data Responsibility in Managing Community Feedback",
+    "bbox": [
+      64.8,
+      290.4,
+      445.9,
+      303.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b026",
+    "text": "The AAP WG developed data management diagrams to inform the expansion of the hotline. These",
+    "bbox": [
+      64.8,
+      315.8,
+      491.0,
+      329.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b027",
+    "text": "diagrams visualized the flow of data and information between the different actors involved. This allowed",
+    "bbox": [
+      64.8,
+      328.4,
+      521.8,
+      341.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b028",
+    "text": "the AAP WG to identify points for improvement in handling complaints and feedback data.",
+    "bbox": [
+      64.8,
+      341.0,
+      458.1,
+      354.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b029",
+    "text": "These improvements will be incorporated into an SOP for the joint hotline, which will build on the best",
+    "bbox": [
+      64.8,
+      366.2,
+      512.4,
+      379.4
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b030",
+    "text": "practices of the existing PSEAH hotline. Measures for data responsibility will include restricting access to",
+    "bbox": [
+      64.8,
+      378.8,
+      518.7,
+      392.0
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b031",
+    "text": "sensitive data, requiring the use of encrypted channels for transferring data, and defining a data retention",
+    "bbox": [
+      64.8,
+      391.4,
+      526.3,
+      404.6
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b032",
+    "text": "and destruction schedule for sensitive data once it is no longer needed to fulfill the purpose of the hotline.",
+    "bbox": [
+      64.8,
+      404.0,
+      525.9,
+      417.2
+    ],
+    "font_size": 10.5,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b033",
+    "text": "Organizations are encouraged to share their experience in promoting data responsibility in the design and",
+    "bbox": [
+      53.3,
+      450.0,
+      535.3,
+      463.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "52",
+    "page_number": 5,
+    "block_id": "52_p5_b034",
+    "text": "delivery of AAP with the Centre via centrehumdata@un.org.",
+    "bbox": [
+      53.3,
+      462.9,
+      330.6,
+      477.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,4217 @@
+[
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b003",
+    "text": "¿EN QUÉ CONSISTEN LOS MICRODATOS HUMANITARIOS?",
+    "bbox": [
+      53.9,
+      574.4,
+      399.2,
+      589.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b004",
+    "text": "Los datos sobre las características de unidades de población (por ejemplo, personas, hogares o",
+    "bbox": [
+      53.9,
+      597.1,
+      489.4,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b005",
+    "text": "establecimientos) obtenidos mediante un censo, una encuesta o un experimento se denominan en",
+    "bbox": [
+      53.9,
+      610.3,
+      505.7,
+      624.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b006",
+    "text": "estadística “microdatos”.1  En la respuesta humanitaria, este tipo de datos se reúne generalmente en las",
+    "bbox": [
+      53.9,
+      623.5,
+      527.5,
+      637.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b007",
+    "text": "encuestas de hogares y las evaluaciones de necesidades. En el sector humanitario, los microdatos generan",
+    "bbox": [
+      53.9,
+      636.7,
+      541.2,
+      650.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b008",
+    "text": "un gran volumen de información que no para de crecer y es fundamental para determinar las necesidades",
+    "bbox": [
+      53.9,
+      649.9,
+      538.2,
+      663.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b009",
+    "text": "y perspectivas de las personas afectadas por las crisis.2 Las organizaciones humanitarias tienen que saber",
+    "bbox": [
+      53.9,
+      663.1,
+      537.0,
+      677.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b010",
+    "text": "cómo evaluar y gestionar la sensibilidad de este tipo de datos para poder garantizar que se utilicen de",
+    "bbox": [
+      53.9,
+      676.3,
+      519.1,
+      690.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b011",
+    "text": "manera responsable en los diferentes contextos de respuesta.",
+    "bbox": [
+      53.9,
+      689.5,
+      337.6,
+      703.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b012",
+    "text": "1     Survey Design and Statistical Methodology Metadata, Software and Standards Management Branch, Systems Support Division, United States",
+    "bbox": [
+      53.9,
+      728.9,
+      519.5,
+      737.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b013",
+    "text": "Bureau of the Census, Washington D.C., agosto de 1998, Sección 3.4.4, página 39.",
+    "bbox": [
+      53.9,
+      738.2,
+      315.2,
+      746.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b014",
+    "text": "2    En el momento de redactar la presente nota, una búsqueda de la palabra “survey” (encuesta) en la plataforma Humanitarian Data Exchange dio",
+    "bbox": [
+      53.9,
+      750.2,
+      524.1,
+      758.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b015",
+    "text": "1.198 resultados de los 9.805 conjuntos de datos incluidos en la plataforma; una búsqueda de la palabra “assessment” (evaluación) dio 1.399",
+    "bbox": [
+      53.9,
+      759.2,
+      513.4,
+      767.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b016",
+    "text": "resultados.",
+    "bbox": [
+      53.9,
+      768.2,
+      94.9,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b017",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      54.0,
+      55.3,
+      374.5,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b018",
+    "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+    "bbox": [
+      53.3,
+      100.4,
+      273.8,
+      116.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b019",
+    "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+    "bbox": [
+      53.3,
+      118.4,
+      467.7,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b020",
+    "text": "CONTROL DE LA DIVULGACIÓN ESTADÍSTICA",
+    "bbox": [
+      53.3,
+      140.7,
+      517.2,
+      166.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b021",
+    "text": "CONCLUSIONES FUNDAMENTALES:",
+    "bbox": [
+      63.7,
+      199.1,
+      274.5,
+      214.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b022",
+    "text": "•\t En el sector humanitario, los datos obtenidos en las encuestas de hogares, las evaluaciones",
+    "bbox": [
+      75.0,
+      221.8,
+      504.6,
+      235.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b023",
+    "text": "de necesidades y otras modalidades de microdatos generan un gran volumen de información",
+    "bbox": [
+      86.3,
+      235.0,
+      513.5,
+      248.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b024",
+    "text": "que no para de crecer. Este tipo de datos son fundamentales para determinar las necesidades y",
+    "bbox": [
+      86.3,
+      248.2,
+      521.4,
+      262.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b025",
+    "text": "perspectivas de las personas afectadas por las crisis, pero también plantea riesgos específicos.",
+    "bbox": [
+      86.3,
+      261.4,
+      517.0,
+      275.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b026",
+    "text": "•\t Incluso si una organización elimina de los microdatos los identificadores directos, como el",
+    "bbox": [
+      75.0,
+      283.6,
+      499.6,
+      297.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b027",
+    "text": "nombre o el número de teléfono de una persona, mediante la combinación de variables clave",
+    "bbox": [
+      86.3,
+      296.8,
+      514.5,
+      310.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b028",
+    "text": "como la ubicación o la etnia, sigue siendo posible reidentificar a las personas y los grupos",
+    "bbox": [
+      86.3,
+      310.0,
+      497.0,
+      323.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b029",
+    "text": "vulnerables.",
+    "bbox": [
+      86.3,
+      323.2,
+      142.5,
+      337.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b030",
+    "text": "•\t El control de la divulgación estadística (SDC, por sus siglas en inglés) es una técnica empleada",
+    "bbox": [
+      75.0,
+      345.4,
+      515.9,
+      359.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b031",
+    "text": "para evaluar y reducir el riesgo de reidentificación de una persona o un grupo en el análisis de",
+    "bbox": [
+      86.3,
+      358.6,
+      516.0,
+      372.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b032",
+    "text": "los microdatos. La aplicación del proceso SDC a los microdatos permite a las organizaciones",
+    "bbox": [
+      86.3,
+      371.8,
+      508.3,
+      385.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b033",
+    "text": "compartir la información más ampliamente sin causar perjuicio alguno a las personas afectadas.",
+    "bbox": [
+      86.3,
+      385.0,
+      526.8,
+      398.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b034",
+    "text": "•\t El proceso SDC puede utilizarse para reducir el riesgo de reidentificación hasta un umbral",
+    "bbox": [
+      75.0,
+      407.1,
+      495.2,
+      421.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b035",
+    "text": "acordado, que puede variar dependiendo del contexto en el que tiene lugar la respuesta",
+    "bbox": [
+      86.3,
+      420.3,
+      489.4,
+      434.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b036",
+    "text": "humanitaria. Dado que el uso de la técnica SDC afecta al valor informativo o a la utilidad de un",
+    "bbox": [
+      86.3,
+      433.5,
+      518.2,
+      447.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b037",
+    "text": "conjunto de datos, para garantizar un uso seguro, ético y eficaz de los datos es fundamental",
+    "bbox": [
+      86.3,
+      446.7,
+      505.7,
+      460.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b038",
+    "text": "buscar un equilibrio adecuado entre el riesgo de reidentificación y la pérdida de información.",
+    "bbox": [
+      86.3,
+      459.9,
+      511.4,
+      473.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b039",
+    "text": "•\t Para poder empezar a utilizar la técnica SDC, las organizaciones deben invertir recursos en los",
+    "bbox": [
+      75.0,
+      482.1,
+      515.9,
+      496.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b040",
+    "text": "siguientes procesos: 1) elección de la herramienta adecuada, 2) integración del proceso SDC",
+    "bbox": [
+      86.3,
+      495.3,
+      507.8,
+      509.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b041",
+    "text": "en los flujos de trabajo de gestión de datos existentes, y 3) mejora de las prácticas mediante el",
+    "bbox": [
+      86.3,
+      508.5,
+      516.4,
+      522.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 1,
+    "block_id": "74_p1_b042",
+    "text": "aprendizaje permanente.",
+    "bbox": [
+      86.3,
+      521.7,
+      203.8,
+      535.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b003",
+    "text": "CONTROL DE LA DIVULGACIÓN ESTADÍSTICA",
+    "bbox": [
+      54.0,
+      407.5,
+      324.9,
+      422.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b004",
+    "text": "El control de la divulgación estadística (SDC) es una técnica utilizada en estadística para evaluar y reducir el",
+    "bbox": [
+      53.9,
+      430.2,
+      544.6,
+      444.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b005",
+    "text": "riesgo4 de reidentificación de una persona o un grupo a partir de los resultados del análisis de una encuesta",
+    "bbox": [
+      53.9,
+      443.4,
+      546.0,
+      457.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b006",
+    "text": "o de datos administrativos, o tras la publicación de microdatos. Esta técnica ha sido utilizada principalmente",
+    "bbox": [
+      53.9,
+      456.6,
+      551.5,
+      470.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b007",
+    "text": "por las oficinas nacionales de estadística y otras organizaciones en este ámbito en relación con los datos de",
+    "bbox": [
+      53.9,
+      469.8,
+      545.0,
+      483.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b008",
+    "text": "los censos.",
+    "bbox": [
+      53.9,
+      483.0,
+      103.7,
+      496.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b009",
+    "text": "Dado que la aplicación de la técnica SDC afecta al valor o la utilidad generales de un conjunto de datos, es",
+    "bbox": [
+      53.9,
+      509.4,
+      538.0,
+      523.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b010",
+    "text": "fundamental buscar un equilibrio adecuado entre el riesgo de reidentificación y la pérdida de información.",
+    "bbox": [
+      53.9,
+      522.6,
+      542.8,
+      536.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b011",
+    "text": "Para buscar un equilibrio adecuado entre el riesgo y la utilidad, las organizaciones deben considerar los",
+    "bbox": [
+      53.9,
+      535.8,
+      528.0,
+      549.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b012",
+    "text": "diversos usos posibles de un conjunto de datos y el contexto en el que se recopilaron los datos.",
+    "bbox": [
+      53.9,
+      549.0,
+      486.0,
+      562.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b013",
+    "text": "La aplicación del proceso SDC para limitar el riesgo de divulgación en los microdatos consta de tres etapas:",
+    "bbox": [
+      53.9,
+      575.4,
+      542.9,
+      589.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b014",
+    "text": "1.\tEvaluar el riesgo de reidentificación",
+    "bbox": [
+      65.3,
+      597.1,
+      249.6,
+      611.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b015",
+    "text": "El primer paso consiste en llevar a cabo una evaluación del riesgo de divulgación para determinar",
+    "bbox": [
+      76.6,
+      610.8,
+      522.8,
+      624.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b016",
+    "text": "la probabilidad de que puedan divulgarse los datos de las personas encuestadas contenidos en un",
+    "bbox": [
+      76.6,
+      624.0,
+      526.9,
+      637.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b017",
+    "text": "determinado conjunto de datos.5 Si esta probabilidad (también conocida como porcentaje de riesgo) es",
+    "bbox": [
+      76.6,
+      637.2,
+      549.8,
+      651.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b018",
+    "text": "o no aceptable para un conjunto de datos dependerá del contexto en el que se hayan generado dichos",
+    "bbox": [
+      76.6,
+      650.4,
+      543.3,
+      664.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b019",
+    "text": "datos. Por ejemplo, en un entorno de conflicto, el porcentaje de riesgo permisible será generalmente",
+    "bbox": [
+      76.6,
+      663.6,
+      537.2,
+      677.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b020",
+    "text": "más bajo que en un entorno de respuesta ante un desastre natural.",
+    "bbox": [
+      76.6,
+      676.8,
+      381.7,
+      690.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b021",
+    "text": "3    Para obtener más información sobre el riesgo de divulgación y las consideraciones técnicas conexas para la evaluación y la gestión de dicho",
+    "bbox": [
+      53.9,
+      717.4,
+      530.5,
+      725.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b022",
+    "text": "riesgo mediante el proceso SDC, véase  Statistical Disclosure Control for Microdata: A Practice Guide.",
+    "bbox": [
+      53.9,
+      726.3,
+      391.9,
+      735.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b023",
+    "text": "4    Nota: la técnica SDC tiene por objeto prevenir la divulgación de identidad y atributos pero no está pensado específicamente para prevenir la",
+    "bbox": [
+      53.9,
+      738.4,
+      517.0,
+      746.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b024",
+    "text": "divulagación inferencial .",
+    "bbox": [
+      53.9,
+      747.4,
+      141.6,
+      755.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b025",
+    "text": "5    Aprenda a realizar una evaluación del riesgo de divulgación siguiendo los programas de estudio del Centro sobre este tema: https://centre.",
+    "bbox": [
+      53.9,
+      759.3,
+      530.6,
+      768.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b026",
+    "text": "humdata.org/learning-path/.",
+    "bbox": [
+      53.9,
+      768.3,
+      153.9,
+      777.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b027",
+    "text": "RIESGO DE REIDENTIFICACIÓN Y DIVULGACIÓN",
+    "bbox": [
+      52.7,
+      155.2,
+      339.8,
+      170.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b028",
+    "text": "Una cadena de puntos de datos puede permitir la reidentificación, ya sea de forma aislada o acompañada",
+    "bbox": [
+      53.6,
+      178.9,
+      537.8,
+      192.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b029",
+    "text": "de una comprensión contextual básica. Las técnicas avanzadas de análisis de datos también pueden",
+    "bbox": [
+      53.6,
+      192.1,
+      512.7,
+      205.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b030",
+    "text": "extraer información más sensible de la que se puede obtener en los análisis básicos, aumentando así la",
+    "bbox": [
+      53.6,
+      205.3,
+      525.6,
+      219.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b031",
+    "text": "sensibilidad de los microdatos en el sector humanitario.",
+    "bbox": [
+      53.6,
+      218.5,
+      309.1,
+      232.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b032",
+    "text": "Son tres las modalidades de riesgo de divulgación comúnmente reconocidas3 y cada una de ellas puede",
+    "bbox": [
+      53.6,
+      244.9,
+      528.8,
+      258.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b033",
+    "text": "manifestarse en relación con los microdatos en el sector humanitario:",
+    "bbox": [
+      53.6,
+      258.1,
+      371.2,
+      271.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b034",
+    "text": "•\t Divulgación de identidad: cuando es posible asociar a una persona conocida con un registro de",
+    "bbox": [
+      65.0,
+      279.8,
+      518.5,
+      294.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b035",
+    "text": "datos publicado",
+    "bbox": [
+      76.3,
+      293.5,
+      150.3,
+      307.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b036",
+    "text": "•\t Divulgación de atributos: cuando es posible determinar alguna característica nueva de una persona",
+    "bbox": [
+      65.0,
+      315.2,
+      539.3,
+      329.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b037",
+    "text": "a partir de la información contenida en los datos publicados",
+    "bbox": [
+      76.3,
+      328.9,
+      350.5,
+      342.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b038",
+    "text": "•\t Divulgación inferencial: cuando es posible determinar el valor de alguna característica de una",
+    "bbox": [
+      65.0,
+      350.6,
+      512.0,
+      365.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b039",
+    "text": "persona a partir de los datos publicados con mayor precisión de lo que hubiera sido posible de",
+    "bbox": [
+      76.3,
+      364.3,
+      510.1,
+      378.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b040",
+    "text": "cualquier otro modo",
+    "bbox": [
+      76.3,
+      377.5,
+      170.4,
+      391.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b041",
+    "text": "Los microdatos brutos pueden contener datos personales y no personales sobre una serie de temas,",
+    "bbox": [
+      52.9,
+      45.5,
+      511.4,
+      59.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b042",
+    "text": "incluidos temas sensibles, como la violencia por razón de género, las enfermedades infecciosas y otra",
+    "bbox": [
+      52.9,
+      58.7,
+      517.8,
+      72.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b043",
+    "text": "información que puede estar registrada en campos de texto libre. La mayoría de las organizaciones",
+    "bbox": [
+      52.9,
+      71.9,
+      505.4,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b044",
+    "text": "humanitarias reconocen la sensibilidad de la información personal, como los nombres, los datos biométricos",
+    "bbox": [
+      52.9,
+      85.1,
+      540.7,
+      99.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b045",
+    "text": "o los números de documento de identidad, y, en consecuencia, es práctica habitual anonimizar los conjuntos",
+    "bbox": [
+      52.9,
+      98.3,
+      540.7,
+      112.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b046",
+    "text": "de datos. Sin embargo, combinando diferentes puntos de datos puede ser posible reidentificar a personas",
+    "bbox": [
+      52.9,
+      111.5,
+      538.4,
+      125.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 2,
+    "block_id": "74_p2_b047",
+    "text": "o divulgar información confidencial incluso después de aplicar la anonimización mencionada.",
+    "bbox": [
+      52.9,
+      124.7,
+      481.3,
+      138.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b003",
+    "text": "Aplicación del control de la divulgación estadística a los datos compartidos en la plataforma HDX6",
+    "bbox": [
+      65.5,
+      308.5,
+      498.6,
+      320.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b004",
+    "text": "Desde el comienzo de 2018, el Centro de Datos Humanitarios (“el Centro”) ha llevado a cabo una",
+    "bbox": [
+      65.5,
+      339.5,
+      505.7,
+      353.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b005",
+    "text": "evaluación de riesgos de 59 conjuntos de datos cargados en la plataforma Humanitarian Data",
+    "bbox": [
+      65.5,
+      352.7,
+      493.0,
+      366.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b006",
+    "text": "Exchange (HDX). El riesgo de divulgación de las identidades de las personas encuestadas en 38 de",
+    "bbox": [
+      65.5,
+      365.9,
+      511.7,
+      379.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b007",
+    "text": "los 59 conjuntos de datos se consideró demasiado alto para su publicación en la plataforma HDX.",
+    "bbox": [
+      65.5,
+      379.1,
+      510.0,
+      393.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b008",
+    "text": "El equipo HDX aplicó el proceso SDC a 14 de dichos conjuntos de datos, según lo acordado por sus",
+    "bbox": [
+      65.5,
+      392.3,
+      514.3,
+      406.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b009",
+    "text": "contribuyentes, con lo que el nivel de riesgo se redujo a un porcentaje aceptable (es decir, inferior",
+    "bbox": [
+      65.5,
+      405.5,
+      511.8,
+      419.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b010",
+    "text": "a un 5%7). Gracias a esta reducción, 5 de los 14 conjuntos de datos pudieron publicarse después de",
+    "bbox": [
+      65.5,
+      418.7,
+      517.1,
+      432.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b011",
+    "text": "la anonimización, mientras que los 9 restantes se eliminaron o se compartieron en privado en la",
+    "bbox": [
+      65.5,
+      431.9,
+      504.1,
+      445.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b012",
+    "text": "plataforma HDX, al igual que los 24 de alto riesgo, a los que sus contribuyentes se negaron a aplicar",
+    "bbox": [
+      65.5,
+      445.1,
+      519.0,
+      459.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b013",
+    "text": "la técnica SDC. Con respecto a estos 24 conjuntos de datos, muchas organizaciones adoptaron sus",
+    "bbox": [
+      65.5,
+      458.3,
+      514.4,
+      472.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b014",
+    "text": "propias medidas para reducir el riesgo de reidentificación, que en algunos casos consistieron en la",
+    "bbox": [
+      65.5,
+      471.5,
+      515.6,
+      485.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b015",
+    "text": "eliminación total de variables sensibles no esenciales.",
+    "bbox": [
+      65.5,
+      484.7,
+      311.7,
+      498.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b016",
+    "text": "APLICACIÓN DEL CONTROL DE LA DIVULGACIÓN ESTADÍSTICA EN EL MANEJO",
+    "bbox": [
+      53.5,
+      530.4,
+      526.8,
+      545.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b017",
+    "text": "DE DATOS HUMANITARIOS",
+    "bbox": [
+      53.5,
+      543.6,
+      214.0,
+      558.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b018",
+    "text": "A principios de 2019, para conocer las actuales prácticas de gestión de microdatos, el Centro entrevistó a",
+    "bbox": [
+      53.4,
+      568.1,
+      532.0,
+      582.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b019",
+    "text": "miembros de siete organizaciones humanitarias que realizan encuestas y evaluaciones de necesidades.",
+    "bbox": [
+      53.4,
+      581.3,
+      525.8,
+      595.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b020",
+    "text": "Algunas de estas organizaciones, como el ACNUR (véase el estudio de caso que figura a continuación)",
+    "bbox": [
+      53.4,
+      594.5,
+      516.6,
+      608.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b021",
+    "text": "aplican enfoques relativamente avanzados y cuenta con personal especializado suficiente para llevar a cabo",
+    "bbox": [
+      53.4,
+      607.7,
+      547.9,
+      621.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b022",
+    "text": "un control de la divulgación estadística en diferentes modalidades de microdatos. Sin embargo, la mayoría",
+    "bbox": [
+      53.4,
+      620.9,
+      542.2,
+      634.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b023",
+    "text": "de las organizaciones entrevistadas necesitan apoyo adicional para realizar este trabajo.",
+    "bbox": [
+      53.4,
+      635.3,
+      454.9,
+      649.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b024",
+    "text": "6    Podrá encontrar más información sobre el uso, por el Centro, de la técnica SDC y sobre el proceso global de aseguramiento de la calidad (AC) de",
+    "bbox": [
+      53.9,
+      728.9,
+      537.8,
+      737.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b025",
+    "text": "los datos compartidos en la plataforma HDX en el siguiente enlace: https://data.humdata.org/about/hdx-qa-process.",
+    "bbox": [
+      53.9,
+      737.8,
+      441.0,
+      746.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b026",
+    "text": "7    Recientemente, el Centro modificó su umbral predeterminado del riesgo de reidentificación aceptable, reduciéndolo de un 5% a un 3%. El",
+    "bbox": [
+      53.9,
+      749.9,
+      528.6,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b027",
+    "text": "umbral exacto para un conjunto de datos concreto es siempre contextual y se determina conjuntamente con la organización que contribuye",
+    "bbox": [
+      53.9,
+      758.9,
+      539.9,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b028",
+    "text": "a dicho conjunto de datos.",
+    "bbox": [
+      53.9,
+      767.9,
+      149.0,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b029",
+    "text": "2.\tReducir el riesgo de reidentificación",
+    "bbox": [
+      65.4,
+      44.8,
+      250.3,
+      59.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b030",
+    "text": "El siguiente paso consiste en someter al conjunto de datos al proceso SDC real, el cual reduce el riesgo",
+    "bbox": [
+      76.7,
+      58.5,
+      543.8,
+      72.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b031",
+    "text": "de reidentificación aplicando diferentes métodos de anonimización. Estos métodos pueden clasificarse",
+    "bbox": [
+      76.7,
+      71.7,
+      550.0,
+      85.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b032",
+    "text": "en dos categorías: métodos perturbativos, que no eliminan los valores contenidos en el conjunto de",
+    "bbox": [
+      76.7,
+      84.9,
+      533.3,
+      98.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b033",
+    "text": "datos pero perturban (es decir, alteran) dichos valores para limitar el riesgo de divulgación, generando",
+    "bbox": [
+      76.7,
+      98.1,
+      544.9,
+      112.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b034",
+    "text": "incertidumbre en torno a los valores auténticos, y métodos no perturbativos, que reducen el nivel de",
+    "bbox": [
+      76.7,
+      111.3,
+      537.1,
+      125.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b035",
+    "text": "detalle de la información mediante la generalización o supresión de determinados valores (es decir,",
+    "bbox": [
+      76.7,
+      124.5,
+      532.5,
+      138.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b036",
+    "text": "enmascaramiento) sin distorsionar la estructura de los datos.",
+    "bbox": [
+      76.7,
+      137.7,
+      355.8,
+      151.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b037",
+    "text": "3.\tCuantificar la pérdida de información",
+    "bbox": [
+      65.4,
+      159.4,
+      257.3,
+      174.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b038",
+    "text": "El último paso consiste en medir la pérdida de información derivada de la aplicación del proceso SDC al",
+    "bbox": [
+      76.7,
+      173.1,
+      550.7,
+      187.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b039",
+    "text": "conjunto de datos. El objetivo que se persigue en este paso es comparar el valor de la información que",
+    "bbox": [
+      76.7,
+      186.3,
+      544.3,
+      200.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b040",
+    "text": "figura en el conjunto de datos original con el valor de la información final.",
+    "bbox": [
+      76.7,
+      199.5,
+      411.8,
+      213.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b041",
+    "text": "Mediante la utilización del proceso SDC para evaluar y reducir el riesgo de divulgación en los",
+    "bbox": [
+      76.7,
+      225.9,
+      499.2,
+      239.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b042",
+    "text": "microdatos, las organizaciones humanitarias pueden compartir de manera más responsable los datos",
+    "bbox": [
+      76.7,
+      239.1,
+      543.0,
+      253.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b043",
+    "text": "obtenidos en las encuestas y en las evaluaciones de necesidades para que sirvan de base a la labor de",
+    "bbox": [
+      76.7,
+      252.3,
+      542.0,
+      266.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 3,
+    "block_id": "74_p3_b044",
+    "text": "respuesta global.",
+    "bbox": [
+      76.7,
+      265.5,
+      157.2,
+      279.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b003",
+    "text": "6    Podrá encontrar más información sobre el uso, por el Centro, de la técnica SDC y sobre el proceso global de aseguramiento de la calidad (AC) de",
+    "bbox": [
+      53.9,
+      728.9,
+      537.8,
+      737.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b004",
+    "text": "los datos compartidos en la plataforma HDX en el siguiente enlace: https://data.humdata.org/about/hdx-qa-process.",
+    "bbox": [
+      53.9,
+      737.3,
+      443.9,
+      747.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b005",
+    "text": "7    Recientemente, el Centro modificó su umbral predeterminado del riesgo de reidentificación aceptable, reduciéndolo de un 5% a un 3%. El",
+    "bbox": [
+      53.9,
+      749.9,
+      528.6,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b006",
+    "text": "umbral exacto para un conjunto de datos concreto es siempre contextual y se determina conjuntamente con la organización que contribuye",
+    "bbox": [
+      53.9,
+      758.9,
+      539.9,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b007",
+    "text": "a dicho conjunto de datos.",
+    "bbox": [
+      53.9,
+      767.9,
+      149.0,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b008",
+    "text": "Custodia y gestión responsables de microdatos sobre refugiados",
+    "bbox": [
+      66.0,
+      56.3,
+      378.7,
+      69.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b009",
+    "text": "Experiencia del ACNUR",
+    "bbox": [
+      66.0,
+      70.2,
+      160.8,
+      80.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b010",
+    "text": "El ACNUR recopila de manera rutinaria datos sobre los refugiados y otras poblaciones bajo su",
+    "bbox": [
+      66.0,
+      100.2,
+      493.0,
+      114.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b011",
+    "text": "mandato. Estos datos se utilizan luego para evaluar las necesidades y vulnerabilidades de dichas",
+    "bbox": [
+      66.0,
+      113.4,
+      508.4,
+      127.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b012",
+    "text": "poblaciones, para que sirvan a base a los programas y para mejorar la asignación de la asistencia.",
+    "bbox": [
+      66.0,
+      126.6,
+      512.2,
+      140.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b013",
+    "text": "Aunque estos datos no se han retenido históricamente en formatos y ubicaciones que facilitaran su",
+    "bbox": [
+      66.0,
+      139.8,
+      518.9,
+      153.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b014",
+    "text": "posterior recuperación para ser utilizados en el futuro, el ACNUR se encuentra actualmente inmerso",
+    "bbox": [
+      66.0,
+      153.0,
+      522.5,
+      166.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b015",
+    "text": "en el proceso de crear una biblioteca de microdatos interna y externa. Con la creación de estos",
+    "bbox": [
+      66.0,
+      166.2,
+      498.4,
+      180.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b016",
+    "text": "depósitos de datos en línea que proporcionarán a los usuarios internos y externos acceso público",
+    "bbox": [
+      66.0,
+      179.4,
+      511.0,
+      193.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b017",
+    "text": "a los microdatos, el ACNUR pretende posibilitar un uso más amplio de la información a las partes",
+    "bbox": [
+      66.0,
+      192.6,
+      509.8,
+      206.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b018",
+    "text": "interesadas y prevenir la duplicación de las actividades de acopio de datos.",
+    "bbox": [
+      66.0,
+      205.8,
+      411.1,
+      219.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b019",
+    "text": "La difusión pública de microdatos proporciona numerosos beneficios pero también conlleva",
+    "bbox": [
+      66.0,
+      232.2,
+      489.7,
+      246.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b020",
+    "text": "posibles riesgos. Cuando se difunde información sin adoptar medidas adecuadas de control, existe",
+    "bbox": [
+      66.0,
+      245.4,
+      518.6,
+      259.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b021",
+    "text": "el riesgo de que posibles intrusos puedan identificar las entidades (personas u hogares) cuyos",
+    "bbox": [
+      66.0,
+      258.6,
+      496.7,
+      272.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b022",
+    "text": "datos se comparten, incluso cuando se han eliminado los identificadores directos, como nombres y",
+    "bbox": [
+      66.0,
+      271.8,
+      521.2,
+      285.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b023",
+    "text": "direcciones. De conformidad con la política de protección de datos del ACNUR, debe protegerse la",
+    "bbox": [
+      66.0,
+      284.8,
+      518.0,
+      299.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b024",
+    "text": "identidad de las personas de interés para la organización y, por consiguiente, los conjuntos de datos",
+    "bbox": [
+      66.0,
+      298.2,
+      524.4,
+      312.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b025",
+    "text": "deben anonimizarse adecuadamente antes de compartirlos. Los datos del ACNUR son especialmente",
+    "bbox": [
+      66.0,
+      311.4,
+      528.9,
+      325.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b026",
+    "text": "sensibles, dado que se refieren a grupos de personas especialmente vulnerables, cuya protección",
+    "bbox": [
+      66.0,
+      324.6,
+      512.0,
+      338.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b027",
+    "text": "reviste la máxima importancia.",
+    "bbox": [
+      66.0,
+      337.8,
+      209.3,
+      351.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b028",
+    "text": "Para garantizar la protección y difusión responsables de los microdatos, el ACNUR utiliza la aplicación",
+    "bbox": [
+      66.0,
+      364.2,
+      530.7,
+      378.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b029",
+    "text": "sdcMicro en el entorno R para calcular los riesgos de reidentificación antes de su publicación. El",
+    "bbox": [
+      66.0,
+      377.4,
+      504.1,
+      391.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b030",
+    "text": "proceso es gestionado por el equipo de custodia del ACNUR, que trabaja conjuntamente con los",
+    "bbox": [
+      66.0,
+      390.6,
+      504.3,
+      404.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b031",
+    "text": "propietarios de los datos para identificar las variables clave, evaluar la sensibilidad de la información",
+    "bbox": [
+      66.0,
+      403.8,
+      528.0,
+      417.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b032",
+    "text": "y definir un nivel de riesgo aceptable para cada conjunto de datos. Una vez anonimizados, los datos",
+    "bbox": [
+      66.0,
+      417.0,
+      521.2,
+      430.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b033",
+    "text": "modificados se comparan con los originales y se examinan para evaluar la pérdida de información.",
+    "bbox": [
+      66.0,
+      430.2,
+      517.2,
+      444.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b034",
+    "text": "Si el propietario de los datos estima que determinadas variables modificadas son esenciales para los",
+    "bbox": [
+      66.0,
+      443.4,
+      526.5,
+      457.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b035",
+    "text": "usuarios, los métodos de control de la divulgación pueden ajustarse según proceda. Por ejemplo,",
+    "bbox": [
+      66.0,
+      456.6,
+      511.1,
+      470.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b036",
+    "text": "en el caso de las encuestas normalizadas ampliadas de nutrición (SENS, por sus siglas en inglés),",
+    "bbox": [
+      66.0,
+      469.8,
+      508.6,
+      483.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b037",
+    "text": "el equipo de custodia decidió no aplicar la agregación a grupos de edad a los que normalmente se",
+    "bbox": [
+      66.0,
+      483.0,
+      515.3,
+      496.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b038",
+    "text": "aplicaría, porque dichos grupos eran fundamentales para caracterizar la malnutrición de los niños por",
+    "bbox": [
+      66.0,
+      496.2,
+      533.1,
+      510.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b039",
+    "text": "años y meses de edad. El equipo mantuvo la variable de edad pero excluyó la fecha de nacimiento y",
+    "bbox": [
+      66.0,
+      509.4,
+      522.6,
+      523.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b040",
+    "text": "la fecha de la encuesta. Este método dio lugar a un escenario de riesgo aceptable y, al mismo tiempo,",
+    "bbox": [
+      66.0,
+      522.6,
+      528.4,
+      536.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b041",
+    "text": "mantuvo la utilidad de los datos para los nutricionistas.",
+    "bbox": [
+      66.0,
+      535.8,
+      321.2,
+      549.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b042",
+    "text": "El ACNUR sigue invirtiendo recursos en este proceso y ha ampliado su equipo de custodia y ha",
+    "bbox": [
+      66.0,
+      562.2,
+      496.3,
+      576.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b043",
+    "text": "aumentado los conocimientos especializados en técnicas de anonimización que existen en la",
+    "bbox": [
+      66.0,
+      575.4,
+      492.3,
+      589.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b044",
+    "text": "organización. En el marco del actual plan, para finales de 2019, la herramienta UNHCR Microdata",
+    "bbox": [
+      66.0,
+      588.4,
+      510.0,
+      602.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 4,
+    "block_id": "74_p4_b045",
+    "text": "Library estará totalmente operativa e incluirá microdatos sobre desplazamientos forzados.",
+    "bbox": [
+      66.0,
+      601.6,
+      479.7,
+      615.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b003",
+    "text": "Oportunidades y desafíos en relación con la incorporación del control de la divulgación",
+    "bbox": [
+      65.7,
+      180.9,
+      493.7,
+      193.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b004",
+    "text": "estadística en el flujo de trabajo de una organización",
+    "bbox": [
+      65.7,
+      194.1,
+      320.2,
+      206.9
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b005",
+    "text": "Experiencia de la iniciativa REACH",
+    "bbox": [
+      65.7,
+      212.0,
+      205.0,
+      222.4
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b006",
+    "text": "La iniciativa REACH empezó a explorar el potencial del control de la divulgación estadística en junio",
+    "bbox": [
+      65.7,
+      242.8,
+      521.2,
+      257.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b007",
+    "text": "de 2018, cuando el equipo de la plataforma HDX aplicó por primera vez el paquete sdcMicro en el",
+    "bbox": [
+      65.7,
+      256.2,
+      509.3,
+      270.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b008",
+    "text": "entorno R a un conjunto de datos cargado en la plataforma. Los tipos de datos a los que el equipo",
+    "bbox": [
+      65.7,
+      269.4,
+      512.2,
+      283.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b009",
+    "text": "HDX aplicó el proceso SDC para REACH incluyen encuestas de hogares y entrevistas a informantes",
+    "bbox": [
+      65.7,
+      282.6,
+      511.9,
+      296.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b010",
+    "text": "clave (y los metadatos conexos). REACH todavía no ha aplicado directamente la técnica SDC pero sus",
+    "bbox": [
+      65.7,
+      295.8,
+      526.9,
+      309.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b011",
+    "text": "administradores están examinando los requisitos necesarios para hacerlo.",
+    "bbox": [
+      65.7,
+      309.0,
+      406.0,
+      322.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b012",
+    "text": "Basándose en la experiencia de REACH a día de hoy, las organizaciones que estén interesadas en",
+    "bbox": [
+      65.7,
+      335.4,
+      507.2,
+      349.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b013",
+    "text": "incorporar el proceso SDC en su flujo de trabajo deberían plantearse las siguientes preguntas:",
+    "bbox": [
+      65.7,
+      348.6,
+      492.2,
+      362.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b014",
+    "text": "•\t ¿Es esta la metodología adecuada para sus actuales procesos de gestión de microdatos?",
+    "bbox": [
+      77.1,
+      375.0,
+      490.0,
+      388.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b015",
+    "text": "•\t ¿Hasta qué punto la aplicación del proceso SDC reduce la validez y utilidad de los datos?",
+    "bbox": [
+      77.1,
+      401.4,
+      490.9,
+      415.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b016",
+    "text": "•\t ¿En qué medida afecta a la transparencia la aplicación del proceso SDC?",
+    "bbox": [
+      77.1,
+      427.8,
+      417.2,
+      441.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b017",
+    "text": "•\t ¿Cómo se puede evitar que el personal confíe demasiado en los resultados de una evaluación",
+    "bbox": [
+      77.1,
+      454.2,
+      515.9,
+      468.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b018",
+    "text": "del riesgo de divulgación tras la aplicación del proceso SDC y garantizar que siga pensando de",
+    "bbox": [
+      88.4,
+      467.4,
+      518.3,
+      481.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b019",
+    "text": "manera crítica en los posibles riesgos que plantean diferentes tipos de datos?",
+    "bbox": [
+      88.4,
+      480.6,
+      441.4,
+      494.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b020",
+    "text": "La iniciativa REACH considera que sería operacionalmente viable implementar con relativa facilidad",
+    "bbox": [
+      65.7,
+      507.0,
+      522.4,
+      520.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b021",
+    "text": "los aspectos técnicos del proceso SDC en la sede y sobre el terreno. En la sede, dicha implementación",
+    "bbox": [
+      65.7,
+      520.2,
+      530.1,
+      534.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b022",
+    "text": "exigiría ejecutar un programa en todos los conjuntos de datos generados o publicados por REACH.",
+    "bbox": [
+      65.7,
+      533.4,
+      515.3,
+      547.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b023",
+    "text": "Para la implementación sobre el terreno, los equipos en los países deben utilizar sdcMicro o una",
+    "bbox": [
+      65.7,
+      546.6,
+      505.3,
+      560.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b024",
+    "text": "herramienta similar con los conjuntos de datos generados en los países.",
+    "bbox": [
+      65.7,
+      559.8,
+      395.4,
+      573.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b025",
+    "text": "Más allá de los aspectos técnicos del proceso SDC, la iniciativa REACH ve un posible problema o",
+    "bbox": [
+      65.7,
+      586.2,
+      502.6,
+      600.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b026",
+    "text": "un cuello de botella en el componente manual del proceso, cuando el personal deba decidir si una",
+    "bbox": [
+      65.7,
+      599.4,
+      516.5,
+      613.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b027",
+    "text": "determinada técnica de control de la divulgación es adecuada, qué variables deben eliminarse u",
+    "bbox": [
+      65.7,
+      612.6,
+      507.3,
+      626.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b028",
+    "text": "ocultarse y cómo interpretar o comunicar los resultados del proceso. Estas decisiones llevan tiempo y",
+    "bbox": [
+      65.7,
+      625.8,
+      530.2,
+      639.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b029",
+    "text": "exigen la comprensión del contexto con el que están relacionados los datos.",
+    "bbox": [
+      65.7,
+      639.0,
+      413.7,
+      652.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b030",
+    "text": "A corto plazo, la iniciativa REACH seguirá colaborando con el equipo HDX en la aplicación del proceso",
+    "bbox": [
+      65.7,
+      665.4,
+      528.4,
+      679.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b031",
+    "text": "SDC a los datos de las encuestas y evaluaciones antes de su publicación en la plataforma HDX. Esta",
+    "bbox": [
+      65.7,
+      678.6,
+      517.7,
+      692.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b032",
+    "text": "experiencia permitirá a REACH determinar cuál es la mejor manera de incorporar en el futuro la",
+    "bbox": [
+      65.7,
+      691.8,
+      501.7,
+      705.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b033",
+    "text": "técnica SDC en sus propios flujos de trabajo a nivel mundial y nacional.",
+    "bbox": [
+      65.7,
+      705.0,
+      389.3,
+      718.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b034",
+    "text": "Mediante la colaboración con contribuyentes de datos, como la iniciativa REACH (véase el estudio de",
+    "bbox": [
+      53.9,
+      45.3,
+      514.4,
+      59.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b035",
+    "text": "caso que figura a continuación) para desarrollar un modelo de servicio fiable y seguro para el proceso",
+    "bbox": [
+      53.9,
+      58.5,
+      518.6,
+      72.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b036",
+    "text": "SDC, el Centro pretende promover el intercambio responsable de esta información y demostrar el valor",
+    "bbox": [
+      53.9,
+      71.7,
+      525.7,
+      85.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b037",
+    "text": "de técnicas más sólidas de evaluación del riesgo de divulgación y anonimización de datos. La experiencia",
+    "bbox": [
+      53.9,
+      84.9,
+      535.6,
+      98.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b038",
+    "text": "con estas técnicas también ayuda a las organizaciones humanitarias a determinar las herramientas y los",
+    "bbox": [
+      53.9,
+      98.1,
+      530.0,
+      112.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b039",
+    "text": "métodos que pueden incorporar en sus propios procesos de gestión de datos, al tiempo que contribuyen a",
+    "bbox": [
+      53.9,
+      111.3,
+      541.2,
+      125.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b040",
+    "text": "ampliar el caudal de conocimientos dentro del sector sobre la forma de gestionar y compartir microdatos",
+    "bbox": [
+      53.9,
+      124.5,
+      535.9,
+      138.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 5,
+    "block_id": "74_p5_b041",
+    "text": "de manera más responsable en los entornos humanitarios.",
+    "bbox": [
+      53.9,
+      137.7,
+      322.1,
+      151.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b003",
+    "text": "Para adoptar con éxito el proceso SDC, el Centro y sus colaboradores en la elaboración de la presente nota",
+    "bbox": [
+      53.9,
+      75.7,
+      539.6,
+      89.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b004",
+    "text": "de orientación recomiendan a las organizaciones que inviertan recursos en los tres pasos enumerados a",
+    "bbox": [
+      53.9,
+      88.9,
+      529.4,
+      102.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b005",
+    "text": "continuación:",
+    "bbox": [
+      53.9,
+      102.1,
+      117.0,
+      116.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b006",
+    "text": "1. Seleccionar la herramienta adecuada",
+    "bbox": [
+      65.2,
+      125.9,
+      255.8,
+      140.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b007",
+    "text": "Para la implementación de la técnica SDC existen diversas herramientas gratuitas en línea. El Centro",
+    "bbox": [
+      76.5,
+      139.5,
+      534.3,
+      153.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b008",
+    "text": "y otras organizaciones humanitarias consultadas por éste durante su labor de investigación utilizan",
+    "bbox": [
+      76.5,
+      152.7,
+      531.0,
+      166.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b009",
+    "text": "actualmente sdcMicro. El Centro eligió sdcMicro por su escalabilidad y porque es un software gratuito",
+    "bbox": [
+      76.5,
+      165.7,
+      542.6,
+      179.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b010",
+    "text": "y de fuente abierta. Otras herramientas gratuitas y de fuente abierta son μArgus y ARX. A la hora de",
+    "bbox": [
+      76.5,
+      178.9,
+      528.7,
+      193.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b011",
+    "text": "seleccionar la herramienta adecuada para el proceso SDC, las organizaciones deben tener en cuenta la",
+    "bbox": [
+      76.5,
+      192.3,
+      545.9,
+      206.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b012",
+    "text": "flexibilidad para seleccionar las variables clave, la capacidad para tratar grandes conjuntos de datos,",
+    "bbox": [
+      76.5,
+      205.5,
+      536.5,
+      219.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b013",
+    "text": "la funcionalidad para la elección entre riesgo y utilidad y la facilidad con la que el personal podría",
+    "bbox": [
+      76.5,
+      218.7,
+      522.9,
+      232.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b014",
+    "text": "navegar por la interfaz de usuario del software.",
+    "bbox": [
+      76.5,
+      231.9,
+      290.5,
+      245.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b015",
+    "text": "2. Integrar el control de la divulgación estadística en los flujos de gestión de datos existentes",
+    "bbox": [
+      65.2,
+      255.7,
+      478.2,
+      270.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b016",
+    "text": "Establecer un proceso para la aplicación de esta técnica a los flujos de gestión de datos existentes",
+    "bbox": [
+      76.5,
+      269.3,
+      522.7,
+      283.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b017",
+    "text": "es clave para adoptar este método de manera sostenible. La técnica SDC exige la participación de",
+    "bbox": [
+      76.5,
+      282.5,
+      521.6,
+      296.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b018",
+    "text": "personal con diferentes conocimientos y competencias, incluido un especialista técnico para aplicar",
+    "bbox": [
+      76.5,
+      295.7,
+      534.8,
+      309.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b019",
+    "text": "los métodos estadísticos, y un especialista de programas con conocimiento del contexto de los datos",
+    "bbox": [
+      76.5,
+      308.9,
+      537.2,
+      322.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b020",
+    "text": "para determinar un equilibrio aceptable entre riesgo y utilidad. Un flujo de trabajo bien organizado",
+    "bbox": [
+      76.5,
+      322.1,
+      528.8,
+      336.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b021",
+    "text": "ayudará a mejorar la eficacia del proceso y a prevenir errores de interpretación de los resultados del",
+    "bbox": [
+      76.5,
+      335.3,
+      533.8,
+      349.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b022",
+    "text": "proceso SDC y la excesiva dependencia de dichos resultados.",
+    "bbox": [
+      76.5,
+      348.5,
+      354.2,
+      362.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b023",
+    "text": "3. Mejorar la práctica mediante el aprendizaje permanente",
+    "bbox": [
+      65.2,
+      372.3,
+      329.5,
+      386.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b024",
+    "text": "A medida que las organizaciones vayan aplicando la técnica SDC, irán conociendo la sensibilidad",
+    "bbox": [
+      76.5,
+      385.9,
+      519.4,
+      399.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b025",
+    "text": "de las variables clave, el nivel de riesgo que deben intentar establecer, el nivel aceptable de pérdida",
+    "bbox": [
+      76.5,
+      399.1,
+      531.8,
+      413.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b026",
+    "text": "de información y otras consideraciones que exijan un equilibrio en el proceso. El mantenimiento",
+    "bbox": [
+      76.5,
+      412.3,
+      517.6,
+      426.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b027",
+    "text": "de un registro de cada una de las aplicaciones del proceso SDC y la documentación de las lecciones",
+    "bbox": [
+      76.5,
+      425.5,
+      531.0,
+      439.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b028",
+    "text": "aprendidas contribuirá a perfeccionar dicho proceso de cara al futuro. Compartir internamente los",
+    "bbox": [
+      76.5,
+      438.7,
+      527.3,
+      452.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b029",
+    "text": "conocimientos adquiridos y, en su caso, con la comunidad humanitaria en general puede propiciar una",
+    "bbox": [
+      76.5,
+      451.9,
+      548.2,
+      465.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b030",
+    "text": "gestión más coherente y responsable de los microdatos en el sector.",
+    "bbox": [
+      76.5,
+      465.1,
+      386.6,
+      479.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b031",
+    "text": "Como parte de sus esfuerzos para promover una gestión y un intercambio más responsables de los datos",
+    "bbox": [
+      53.9,
+      491.5,
+      534.0,
+      505.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b032",
+    "text": "humanitarios, el Centro está mejorando su modelo de servicios8 para la aplicación de la técnica SDC.",
+    "bbox": [
+      53.9,
+      504.7,
+      514.1,
+      518.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b033",
+    "text": "Esta labor consiste en introducir un proceso automatizado de detección de riesgos para todos los datos",
+    "bbox": [
+      53.9,
+      517.9,
+      526.2,
+      531.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b034",
+    "text": "compartidos a través de la plataforma HDX, lo cual –cuando se realiza manualmente– puede llevar varias",
+    "bbox": [
+      53.9,
+      531.1,
+      533.5,
+      545.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b035",
+    "text": "horas en el caso de hojas de cálculo grandes. Mediante este proceso, se ejecutará un programa con toda la",
+    "bbox": [
+      53.9,
+      544.3,
+      539.7,
+      558.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b036",
+    "text": "información cargada en la plataforma para identificar los microdatos y otros tipos de datos potencialmente",
+    "bbox": [
+      53.9,
+      557.5,
+      545.0,
+      571.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b037",
+    "text": "sensibles. Los datos de alto riesgo se enviarán a un flujo de trabajo exclusivo que se evaluará y, en caso",
+    "bbox": [
+      53.9,
+      570.7,
+      523.8,
+      584.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b038",
+    "text": "necesario, se modificará por medio del proceso SDC para reducir el riesgo de reidentificación antes de",
+    "bbox": [
+      53.9,
+      583.9,
+      520.4,
+      597.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b039",
+    "text": "compartir los datos más ampliamente.",
+    "bbox": [
+      53.9,
+      597.1,
+      230.5,
+      611.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b040",
+    "text": "Para obtener más información sobre la labor del Centro en lo tocante al proceso SDC diríjase a",
+    "bbox": [
+      53.9,
+      621.3,
+      485.3,
+      635.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b041",
+    "text": "centrehumdata@un.org.",
+    "bbox": [
+      53.9,
+      632.1,
+      169.9,
+      646.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b042",
+    "text": "RECOMENDACIONES PARA PROMOVER LA UTILIZACIÓN DEL CONTROL DE LA",
+    "bbox": [
+      52.7,
+      35.8,
+      521.0,
+      50.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b043",
+    "text": "DIVULGACIÓN ESTADÍSTICA EN ENTORNOS HUMANITARIOS",
+    "bbox": [
+      52.7,
+      50.8,
+      415.2,
+      65.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b044",
+    "text": "8    Podrá encontrar más información sobre el enfoque del Centro en relación con el proceso SDC en el siguiente enlace: https://humanitarian.",
+    "bbox": [
+      53.9,
+      759.2,
+      521.3,
+      767.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 6,
+    "block_id": "74_p6_b045",
+    "text": "atlassian.net/wiki/spaces/HDXKB/pages/1381498881/.",
+    "bbox": [
+      53.9,
+      768.2,
+      242.2,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      196.1,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b002",
+    "text": "AGOSTO 2019",
+    "bbox": [
+      274.2,
+      791.9,
+      320.5,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b003",
+    "text": "Este proyecto está",
+    "bbox": [
+      54.3,
+      743.0,
+      113.7,
+      752.7
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b004",
+    "text": "cofinanciado por la Unión",
+    "bbox": [
+      54.3,
+      752.2,
+      138.1,
+      761.9
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b005",
+    "text": "Europea",
+    "bbox": [
+      54.3,
+      761.4,
+      81.0,
+      771.0
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b006",
+    "text": "El presente documento abarca las actividades de ayuda humanitaria llevadas a cabo con la asistencia",
+    "bbox": [
+      146.0,
+      682.3,
+      526.2,
+      693.6
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b007",
+    "text": "financiera de la Unión Europea. Las opiniones aquí expresadas no deben interpretarse en modo alguno",
+    "bbox": [
+      146.0,
+      693.1,
+      532.2,
+      704.4
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b008",
+    "text": "como la opinión oficial de la Unión Europea, y la Comisión Europea no es responsable de la utilización que",
+    "bbox": [
+      146.0,
+      703.9,
+      544.4,
+      715.2
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b009",
+    "text": "pueda hacerse de la información que contiene.",
+    "bbox": [
+      146.0,
+      714.7,
+      321.3,
+      726.0
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b010",
+    "text": "COLABORADORES: ACNUR E INICIATIVA REACH.",
+    "bbox": [
+      53.9,
+      555.0,
+      251.4,
+      567.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b011",
+    "text": "El Centro Para Los Datos Humanitarios (‘El Centro’), conjuntamente con sus principales asociados, publica",
+    "bbox": [
+      65.7,
+      580.3,
+      511.4,
+      593.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b012",
+    "text": "en 2019 y 2020 una serie de ocho notas de orientación sobre la responsabilidad de los datos en la acción",
+    "bbox": [
+      65.7,
+      592.7,
+      499.1,
+      605.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b013",
+    "text": "humanitaria. Esta serie de notas de orientación sigue a la publicación, en marzo de 2019, del borrador de trabajo",
+    "bbox": [
+      65.7,
+      604.5,
+      536.0,
+      617.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b014",
+    "text": "de directrices sobre la responsabilidad de los datos, elaborado por la OCHA Con esta serie, el Centro pretende",
+    "bbox": [
+      65.7,
+      616.5,
+      529.9,
+      629.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b015",
+    "text": "proporcionar directrices adicionales sobre cuestiones, herramientas y procesos específicos relacionados con la",
+    "bbox": [
+      65.7,
+      628.7,
+      527.6,
+      641.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b016",
+    "text": "responsabilidad de los datos en la práctica. La serie ha sido posible gracias al generoso apoyo de la Dirección",
+    "bbox": [
+      65.7,
+      640.7,
+      519.0,
+      653.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "74",
+    "page_number": 7,
+    "block_id": "74_p7_b017",
+    "text": "General de Protección Civil y Operaciones de Ayuda Humanitaria Europeas (DG ECHO).",
+    "bbox": [
+      65.7,
+      652.7,
+      423.4,
+      665.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

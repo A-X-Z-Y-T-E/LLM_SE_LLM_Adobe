@@ -1,0 +1,3302 @@
+[
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.8,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b003",
+    "text": "1     Because there are well-established and accepted standards and mechanisms for sharing financial information with donors, including a role for external",
+    "bbox": [
+      53.9,
+      758.9,
+      532.9,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b004",
+    "text": "audits, requests for financial data are not included in this guidance note. This guidance note deals with sensitive personal and non-personal data.",
+    "bbox": [
+      53.9,
+      767.9,
+      509.6,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b005",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      54.0,
+      55.3,
+      374.4,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b006",
+    "text": "SERIE DE NOTAS DE ORIENTACIÓN",
+    "bbox": [
+      53.3,
+      98.4,
+      276.9,
+      114.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b007",
+    "text": "RESPONSABILIDAD DE LOS DATOS EN LA ACCIÓN HUMANITARIA",
+    "bbox": [
+      53.3,
+      116.4,
+      467.7,
+      132.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b008",
+    "text": "INTERCAMBIO RESPONSABLE DE DATOS CON",
+    "bbox": [
+      53.3,
+      138.7,
+      524.9,
+      164.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b009",
+    "text": "LOS DONANTES",
+    "bbox": [
+      53.3,
+      162.7,
+      215.7,
+      188.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b010",
+    "text": "CONCLUSIONES FUNDAMENTALES:",
+    "bbox": [
+      63.7,
+      215.0,
+      274.5,
+      230.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b011",
+    "text": "•\t Compartir datos confidenciales personales y no personales sin las garantías adecuadas puede",
+    "bbox": [
+      75.0,
+      237.7,
+      517.4,
+      251.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b012",
+    "text": "exacerbar los riesgos para las personas afectadas por la crisis, las organizaciones humanitarias y",
+    "bbox": [
+      86.3,
+      250.9,
+      526.7,
+      264.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b013",
+    "text": "los donantes.",
+    "bbox": [
+      86.3,
+      264.1,
+      147.9,
+      278.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b014",
+    "text": "•\t Los donantes solicitan periódicamente datos a las organizaciones que financian para cumplir con",
+    "bbox": [
+      75.0,
+      288.3,
+      532.1,
+      302.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b015",
+    "text": "sus obligaciones y objetivos. Algunas de estas solicitudes se relacionan con información y datos",
+    "bbox": [
+      86.3,
+      299.3,
+      524.2,
+      313.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b016",
+    "text": "sensibles que deben protegerse para mitigar el riesgo.",
+    "bbox": [
+      86.3,
+      312.5,
+      332.3,
+      326.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b017",
+    "text": "•\t Los objetivos comunes para el intercambio de datos con los donantes incluyen: (i) conocimiento",
+    "bbox": [
+      75.0,
+      336.7,
+      526.7,
+      350.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b018",
+    "text": "de la situación y diseño de programas; (ii) rendición de cuentas y transparencia; y (iii) requisitos",
+    "bbox": [
+      86.3,
+      349.9,
+      523.7,
+      363.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b019",
+    "text": "legales, regulatorios y de políticas.",
+    "bbox": [
+      86.3,
+      363.1,
+      243.7,
+      377.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b020",
+    "text": "•\t Las limitaciones comunes relacionadas con el intercambio de datos con los donantes incluyen:",
+    "bbox": [
+      75.0,
+      387.3,
+      520.7,
+      401.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b021",
+    "text": "(i) la falta de un marco regulatorio para la gestión responsable de datos sensibles no personales;",
+    "bbox": [
+      86.3,
+      400.5,
+      526.6,
+      414.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b022",
+    "text": "(ii) brechas de capacidad; y (iii) limitación del propósito.",
+    "bbox": [
+      86.3,
+      413.7,
+      341.8,
+      427.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b023",
+    "text": "•\t Los donantes y las organizaciones humanitarias pueden tomar las siguientes medidas para",
+    "bbox": [
+      75.0,
+      437.9,
+      503.0,
+      451.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b024",
+    "text": "minimizar los riesgos mientras maximizan los beneficios al compartir datos sensibles: (i) revisar",
+    "bbox": [
+      86.3,
+      451.1,
+      523.3,
+      465.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b025",
+    "text": "y aclarar los marcos formales o informales que rigen la recopilación y el intercambio de datos",
+    "bbox": [
+      86.3,
+      464.3,
+      513.5,
+      478.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b026",
+    "text": "desglosados; (ii) formalizar y estandarizar las solicitudes de datos sensibles; (iii) invertir en la",
+    "bbox": [
+      86.3,
+      477.5,
+      510.9,
+      491.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b027",
+    "text": "capacidad de gestión de datos del personal y las organizaciones; y (iv) adoptar principios comunes",
+    "bbox": [
+      86.3,
+      490.7,
+      537.4,
+      504.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b028",
+    "text": "para la gestión de datos de donantes.",
+    "bbox": [
+      86.3,
+      503.9,
+      256.9,
+      517.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b029",
+    "text": "INTRODUCCIÓN",
+    "bbox": [
+      53.6,
+      544.5,
+      149.5,
+      559.5
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b030",
+    "text": "Los donantes tienen un papel importante en el ecosistema de datos humanitarios, como impulsores de",
+    "bbox": [
+      53.5,
+      569.2,
+      525.7,
+      583.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b031",
+    "text": "una mayor recopilación y análisis de datos, y como usuarios directos de los datos. Esto no es un fenómeno",
+    "bbox": [
+      53.5,
+      582.4,
+      540.1,
+      596.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b032",
+    "text": "nuevo, la necesaria rendición de cuentas y transparencia en el uso de la financiación de los donantes es",
+    "bbox": [
+      53.5,
+      595.6,
+      527.4,
+      609.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b033",
+    "text": "ampliamente comprendida y respetada. Sin embargo, en los últimos años, los donantes han comenzado a",
+    "bbox": [
+      53.5,
+      608.8,
+      539.4,
+      622.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b034",
+    "text": "solicitar datos que pueden ser sensibles. Esto incluye datos personales sobre beneficiarios y diversas formas",
+    "bbox": [
+      53.5,
+      622.0,
+      549.3,
+      635.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b035",
+    "text": "de datos desglosados, como los resultados de encuestas a nivel de hogares y datos sobre la prestación de",
+    "bbox": [
+      53.5,
+      635.2,
+      536.0,
+      649.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b036",
+    "text": "asistencia desglosados por dimensiones demográficas y/o dimensiones de grupo (por ejemplo, etnia, grupo",
+    "bbox": [
+      53.5,
+      648.4,
+      547.0,
+      662.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b037",
+    "text": "de protección, etc.).1",
+    "bbox": [
+      53.5,
+      661.6,
+      149.4,
+      675.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b038",
+    "text": "Las preocupaciones en torno a las solicitudes de dichos datos han llevado a los donantes y las",
+    "bbox": [
+      53.4,
+      688.0,
+      483.9,
+      701.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b039",
+    "text": "organizaciones humanitarias a poner más énfasis en identificar estrategias para la responsabilidad de la",
+    "bbox": [
+      53.4,
+      701.2,
+      529.5,
+      715.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b040",
+    "text": "gestión de datos: la gestión segura, ética y efectiva de los datos. La responsabilidad de la gestión de los",
+    "bbox": [
+      53.4,
+      714.4,
+      524.0,
+      728.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 1,
+    "block_id": "285_p1_b041",
+    "text": "datos requiere que los donantes y las organizaciones humanitarias tomen acciones que ayuden a minimizar",
+    "bbox": [
+      53.4,
+      727.6,
+      544.5,
+      741.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.8,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b003",
+    "text": "2    Roepstorff, K., Faltas, C. y Hövelmann, S., 2020. Medidas antiterroristas y regímenes de sanciones: reducción del espacio para las organizaciones de",
+    "bbox": [
+      53.9,
+      665.8,
+      541.5,
+      674.6
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b004",
+    "text": "ayuda humanitaria.",
+    "bbox": [
+      53.9,
+      675.1,
+      128.0,
+      683.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b005",
+    "text": "3   Los datos no personales se definen como datos que inicialmente eran datos personales, pero luego se volvieron anónimos, como los datos sobre",
+    "bbox": [
+      53.9,
+      687.2,
+      541.9,
+      695.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b006",
+    "text": "las personas afectadas por la situación humanitaria y sus necesidades, las amenazas y vulnerabilidades a las que se enfrentan y sus",
+    "bbox": [
+      53.9,
+      696.2,
+      500.5,
+      704.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b007",
+    "text": "capacidades (adaptado del Reglamento (UE) 2018/1807 del Parlamento Europeo y del Consejo de 14 de noviembre de 2018 sobre un marco para",
+    "bbox": [
+      53.9,
+      705.1,
+      542.6,
+      713.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b008",
+    "text": "el libre flujo de datos no personales en la Unión Europea).",
+    "bbox": [
+      53.9,
+      714.1,
+      253.0,
+      722.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b009",
+    "text": "4   Consulte el Borrador de trabajo de las Directrices de OCHA sobre responsabilidad de datos y el Manual del CICR sobre protección de datos en",
+    "bbox": [
+      53.9,
+      726.1,
+      535.9,
+      734.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b010",
+    "text": "la acción humanitaria.",
+    "bbox": [
+      53.9,
+      735.1,
+      135.4,
+      743.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b011",
+    "text": "5   Lea más sobre el diálogo virtual en este Informe de Wilton Park.",
+    "bbox": [
+      53.9,
+      747.1,
+      273.2,
+      755.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b012",
+    "text": "6  Willits-King, B. and Spencer, A., 2020. Intercambio responsable de datos con donantes: responsabilidad, transparencia y protección de datos en la",
+    "bbox": [
+      53.9,
+      759.1,
+      537.1,
+      767.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b013",
+    "text": "acción humanitaria basada en principios.",
+    "bbox": [
+      53.9,
+      768.1,
+      197.7,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b014",
+    "text": "los riesgos mientras maximizan los beneficios que se pueden obtener de los datos. Esto es particularmente",
+    "bbox": [
+      52.9,
+      45.2,
+      541.9,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b015",
+    "text": "desafiante en los casos en que los donantes solicitan datos sensibles. Por ejemplo, la proyección de los",
+    "bbox": [
+      52.9,
+      58.4,
+      524.2,
+      72.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b016",
+    "text": "beneficiarios de la ayuda, que a menudo se utiliza para justificar las solicitudes de datos personales, no",
+    "bbox": [
+      52.9,
+      71.6,
+      525.4,
+      85.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b017",
+    "text": "solo es difícil de implementar en la práctica, sino que también es muy problemático en términos de ayuda",
+    "bbox": [
+      52.9,
+      84.8,
+      537.8,
+      98.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b018",
+    "text": "basada en principios.2",
+    "bbox": [
+      52.9,
+      98.0,
+      155.9,
+      111.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b019",
+    "text": "Adicionalmente, compartir datos aparentemente inofensivos, como los resultados de encuestas conjuntas,",
+    "bbox": [
+      52.9,
+      122.2,
+      542.0,
+      136.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b020",
+    "text": "puede poner en mayor riesgo a personas y comunidades que ya son vulnerables. Lo que inicialmente se",
+    "bbox": [
+      52.9,
+      133.2,
+      527.5,
+      147.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b021",
+    "text": "puede considerar datos no personales3 puede permitir la reidentificación de personas, comunidades y",
+    "bbox": [
+      52.9,
+      146.4,
+      521.0,
+      160.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b022",
+    "text": "grupos demográficos. La reidentificación se produce cuando los datos se pueden rastrear o vincular a una",
+    "bbox": [
+      52.9,
+      159.6,
+      536.8,
+      173.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b023",
+    "text": "persona o grupos de personas porque no están adecuadamente anonimizados. Esto puede resultar en una",
+    "bbox": [
+      52.9,
+      172.8,
+      540.7,
+      186.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b024",
+    "text": "violación de la protección de datos, la privacidad y otros derechos humanos y puede dar lugar a ataques a",
+    "bbox": [
+      52.9,
+      186.0,
+      537.7,
+      199.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b025",
+    "text": "individuos o grupos con violencia u otras formas de daño.4",
+    "bbox": [
+      52.9,
+      199.2,
+      319.1,
+      213.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b026",
+    "text": "Muchos donantes y actores humanitarios reconocen los riesgos y beneficios asociados con el intercambio",
+    "bbox": [
+      52.9,
+      223.4,
+      536.1,
+      237.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b027",
+    "text": "de datos muy sensibles, pero el sector aún tiene que establecer un entendimiento común sobre",
+    "bbox": [
+      52.9,
+      236.6,
+      489.7,
+      250.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b028",
+    "text": "cómo equilibrar estos riesgos y beneficios de manera efectiva. Esfuerzos recientes para abordar este",
+    "bbox": [
+      52.9,
+      249.8,
+      510.6,
+      263.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b029",
+    "text": "problema han llevado a una mayor claridad sobre estas prácticas actuales, así como sobre los objetivos",
+    "bbox": [
+      52.9,
+      263.0,
+      526.6,
+      276.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b030",
+    "text": "y las limitaciones del intercambio de datos. En septiembre de 2020, el Gobierno de Suiza, el Comité",
+    "bbox": [
+      52.9,
+      276.2,
+      506.0,
+      290.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b031",
+    "text": "Internacional de la Cruz Roja (CICR) y el Centro de Datos Humanitarios de la Oficina de Coordinación de",
+    "bbox": [
+      52.9,
+      289.4,
+      525.8,
+      303.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b032",
+    "text": "Asuntos Humanitarios de las Naciones Unidas (UNOCHA) (el Centro) organizaron un diálogo virtual en",
+    "bbox": [
+      52.9,
+      302.6,
+      518.6,
+      316.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b033",
+    "text": "Wilton Park para ayudar a construir entendimiento común sobre este tema.5",
+    "bbox": [
+      52.9,
+      315.8,
+      401.1,
+      329.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b034",
+    "text": "Esta nota de orientación sintetiza los resultados de este diálogo y una investigación documental",
+    "bbox": [
+      52.9,
+      342.2,
+      492.0,
+      356.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b035",
+    "text": "relacionada. Describe los desafíos en torno al intercambio de datos confidenciales con los donantes y",
+    "bbox": [
+      52.9,
+      355.4,
+      517.5,
+      369.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b036",
+    "text": "ofrece recomendaciones iniciales sobre cómo los donantes y las organizaciones humanitarias pueden",
+    "bbox": [
+      52.9,
+      368.6,
+      518.9,
+      382.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b037",
+    "text": "navegar de manera más efectiva en esta área.",
+    "bbox": [
+      52.9,
+      381.8,
+      260.0,
+      395.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b038",
+    "text": "SOLICITUDES DE DATOS POR DONANTES",
+    "bbox": [
+      52.9,
+      414.2,
+      297.3,
+      429.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b039",
+    "text": "Los donantes solicitan periódicamente datos a sus socios para cumplir con diferentes obligaciones y",
+    "bbox": [
+      52.9,
+      438.8,
+      512.2,
+      452.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b040",
+    "text": "objetivos. Estas solicitudes pueden ser formales o informales.",
+    "bbox": [
+      52.9,
+      452.0,
+      336.2,
+      465.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b041",
+    "text": "•\t Las solicitudes formales tienden a incluirse en los acuerdos de subvención en relación con los",
+    "bbox": [
+      64.2,
+      475.8,
+      510.4,
+      490.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b042",
+    "text": "criterios de presentación de informes y, por lo general, se basan en requisitos legales como el",
+    "bbox": [
+      75.5,
+      489.4,
+      502.1,
+      503.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b043",
+    "text": "cumplimiento de las leyes antiterroristas. Tales solicitudes tienden a negociarse al comienzo de",
+    "bbox": [
+      75.5,
+      502.6,
+      513.0,
+      516.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b044",
+    "text": "una asociación o acuerdo de subvención, y generalmente se hacen por escrito y se programan con",
+    "bbox": [
+      75.5,
+      515.8,
+      525.2,
+      529.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b045",
+    "text": "anticipación.",
+    "bbox": [
+      75.5,
+      529.0,
+      135.2,
+      542.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b046",
+    "text": "•\t Las solicitudes informales se refieren a información o datos que normalmente quedan fuera del",
+    "bbox": [
+      64.2,
+      552.8,
+      519.5,
+      567.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b047",
+    "text": "alcance normal de los informes. Estas solicitudes ad-hoc a menudo tienen un valor implícito, lo",
+    "bbox": [
+      75.6,
+      566.4,
+      511.6,
+      580.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b048",
+    "text": "que significa que, si bien no se requieren formalmente, la entrega de estos datos complementarios",
+    "bbox": [
+      75.6,
+      579.6,
+      526.9,
+      593.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b049",
+    "text": "se considera beneficiosa para el compromiso continuo de una organización y su asociación con un",
+    "bbox": [
+      75.6,
+      592.8,
+      525.8,
+      606.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 2,
+    "block_id": "285_p2_b050",
+    "text": "donante. Estas solicitudes representan un dilema mayor para los actores humanitarios.",
+    "bbox": [
+      75.6,
+      606.0,
+      475.4,
+      619.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.8,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b003",
+    "text": "7   En el momento de redactar este documento, solo USAID y GIZ tenían pautas disponibles públicamente sobre el intercambio responsable de datos. Ver",
+    "bbox": [
+      53.9,
+      668.5,
+      539.5,
+      677.1
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b004",
+    "text": "USAID, Consideraciones para el uso responsable de datos en USAID, 2019 y GIZ, Principios de datos responsables de GIZ, 2018.",
+    "bbox": [
+      53.9,
+      677.5,
+      472.1,
+      686.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b005",
+    "text": "8   Willits-King, B. and Spencer, A., Intercambio responsable de datos con donantes: responsabilidad, transparencia y protección de datos en",
+    "bbox": [
+      53.9,
+      689.5,
+      520.2,
+      698.2
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b006",
+    "text": "la acción humanitaria basada en principios, 2020.",
+    "bbox": [
+      53.9,
+      698.8,
+      228.7,
+      707.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b007",
+    "text": "9   Consulte la Caja de herramientas de la NRC para una acción humanitaria basada en principios; Gestión de riesgos de CT.",
+    "bbox": [
+      53.9,
+      710.8,
+      452.2,
+      719.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b008",
+    "text": "10 Para garantizar el cumplimiento, los donantes pueden solicitar datos muy desglosados para corroborar sus procesos de diligencia debida, asegurando",
+    "bbox": [
+      53.9,
+      722.8,
+      539.9,
+      731.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b009",
+    "text": "que sus socios no se relacionen con ninguna persona o entidad \"sancionada\". Véase Walker, J., Diálogo de cumplimiento sobre pagos humanitarios",
+    "bbox": [
+      53.9,
+      731.8,
+      532.4,
+      740.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b010",
+    "text": "relacionados con Siria, 2020. \"Personas sancionadas\" es un término general que puede incluir a personas, grupos terroristas, gobiernos, empresas y otras",
+    "bbox": [
+      53.9,
+      740.8,
+      539.9,
+      749.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b011",
+    "text": "entidades con personalidad jurídica. La UE, por ejemplo, ha reforzado considerablemente a lo largo de los años su marco jurídico para prevenir el blanqueo",
+    "bbox": [
+      53.9,
+      749.8,
+      542.9,
+      758.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b012",
+    "text": "de capitales y la financiación del terrorismo en los últimos años y lo aplica constantemente. Véase NGO Voice, El impacto de las sanciones y medidas",
+    "bbox": [
+      53.9,
+      758.8,
+      529.4,
+      767.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b013",
+    "text": "restrictivas de la UE en la acción humanitaria, 2020.",
+    "bbox": [
+      53.9,
+      767.8,
+      229.7,
+      776.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b014",
+    "text": "OBJETIVOS PARA EL INTERCAMBIO DE DATOS CON DONANTES",
+    "bbox": [
+      54.0,
+      129.2,
+      431.3,
+      144.2
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b015",
+    "text": "Los objetivos comúnmente identificados para los donantes que solicitan datos sensibles de los socios son",
+    "bbox": [
+      53.9,
+      154.1,
+      538.1,
+      167.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b016",
+    "text": "el conocimiento de la situación y el diseño de programas; responsabilidad y transparencia; y requisitos",
+    "bbox": [
+      53.9,
+      167.3,
+      524.7,
+      181.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b017",
+    "text": "legales, regulatorios y de políticas.",
+    "bbox": [
+      53.9,
+      180.5,
+      213.4,
+      194.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b018",
+    "text": "Conciencia situacional y diseño de programas",
+    "bbox": [
+      53.9,
+      205.1,
+      278.2,
+      219.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b019",
+    "text": "Los donantes buscan información y datos de las organizaciones humanitarias para comprender y",
+    "bbox": [
+      53.9,
+      218.9,
+      498.3,
+      232.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b020",
+    "text": "reaccionar ante los cambios en los contextos humanitarios. Esto permite a los donantes mejorar el",
+    "bbox": [
+      53.9,
+      232.1,
+      504.2,
+      245.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b021",
+    "text": "diseño de su propio programa y evaluación, evitar la duplicación de asistencia, identificar las lagunas de",
+    "bbox": [
+      53.9,
+      245.3,
+      531.3,
+      259.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b022",
+    "text": "información y garantizar la orientación adecuada de la asistencia.",
+    "bbox": [
+      53.9,
+      258.5,
+      353.3,
+      272.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b023",
+    "text": "Responsabilidad y transparencia",
+    "bbox": [
+      53.9,
+      283.2,
+      211.9,
+      297.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b024",
+    "text": "Los donantes y las organizaciones humanitarias tienen la obligación de rendir cuentas de sus actividades.",
+    "bbox": [
+      53.9,
+      296.9,
+      537.5,
+      310.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b025",
+    "text": "Los datos pueden permitir a los donantes explicar y defender la financiación de la ayuda exterior a los",
+    "bbox": [
+      53.9,
+      310.1,
+      519.7,
+      323.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b026",
+    "text": "contribuyentes.",
+    "bbox": [
+      53.9,
+      323.3,
+      128.1,
+      337.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b027",
+    "text": "Requisitos legales, reglamentarios y de políticas",
+    "bbox": [
+      53.9,
+      348.0,
+      286.3,
+      362.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b028",
+    "text": "Los donantes están sujetos a ciertos requisitos legales nacionales e internacionales, incluidos los",
+    "bbox": [
+      53.9,
+      361.7,
+      497.6,
+      375.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b029",
+    "text": "requisitos políticos, legales y estatutarios relacionados con la lucha contra el terrorismo, la migración",
+    "bbox": [
+      53.9,
+      374.9,
+      517.4,
+      388.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b030",
+    "text": "y la aplicación de la ley. En muchos casos, los donantes pueden querer usar datos para verificar su",
+    "bbox": [
+      53.9,
+      388.1,
+      503.1,
+      401.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b031",
+    "text": "cumplimiento con estos diferentes requisitos. Algunos donantes incluyen cláusulas de lucha contra el",
+    "bbox": [
+      53.9,
+      401.3,
+      519.0,
+      415.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b032",
+    "text": "terrorismo en sus acuerdos de subvención, cuyo objetivo es garantizar que sus fondos no se utilicen para",
+    "bbox": [
+      53.9,
+      414.5,
+      533.5,
+      428.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b033",
+    "text": "beneficiar a determinados grupos terroristas.9 De manera similar, los donantes pueden incluir cláusulas",
+    "bbox": [
+      53.9,
+      427.7,
+      528.0,
+      441.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b034",
+    "text": "para cubrir medidas contra el soborno, el fraude y la corrupción.10",
+    "bbox": [
+      53.9,
+      440.9,
+      353.3,
+      454.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b035",
+    "text": "Pocos donantes cuentan con políticas o directrices formales para compartir datos.7 También hay una falta",
+    "bbox": [
+      53.9,
+      45.4,
+      537.3,
+      59.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b036",
+    "text": "de comprensión compartida de la terminología y de los objetivos y riesgos relacionados con el intercambio",
+    "bbox": [
+      53.9,
+      58.6,
+      543.6,
+      72.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b037",
+    "text": "de datos. Existen diferentes definiciones y comprensión de los riesgos relacionados con los datos, lo que",
+    "bbox": [
+      53.9,
+      71.8,
+      531.0,
+      85.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b038",
+    "text": "lleva a prácticas inconsistentes y, a veces, contradictorias sobre el intercambio de datos potencialmente",
+    "bbox": [
+      53.9,
+      85.0,
+      529.5,
+      98.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b039",
+    "text": "sensibles con los donantes en un contexto particular.8",
+    "bbox": [
+      53.9,
+      98.2,
+      298.6,
+      112.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b040",
+    "text": "RESTRICCIONES PARA EL INTERCAMBIO DE DATOS CON DONANTES",
+    "bbox": [
+      54.0,
+      473.1,
+      461.6,
+      488.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b041",
+    "text": "A pesar de estos objetivos, el intercambio de datos con los donantes no está exento de limitaciones, que",
+    "bbox": [
+      53.9,
+      497.8,
+      530.0,
+      511.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b042",
+    "text": "incluyen la falta de marcos regulatorios para la gestión responsable de los datos sensibles no personales,",
+    "bbox": [
+      53.9,
+      511.0,
+      534.5,
+      524.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b043",
+    "text": "las lagunas de capacidad y la falta de limitación del propósito.",
+    "bbox": [
+      53.9,
+      524.2,
+      339.2,
+      538.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b044",
+    "text": "Falta de marcos regulatorios para la gestión responsable de datos sensibles no personales",
+    "bbox": [
+      53.9,
+      548.8,
+      494.0,
+      563.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Black",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b045",
+    "text": "La sensibilidad de los datos personales es generalmente bien conocida y se aborda en una variedad",
+    "bbox": [
+      53.9,
+      562.6,
+      509.9,
+      576.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b046",
+    "text": "de marcos normativos y de políticas, pero no se puede decir lo mismo de los datos confidenciales no",
+    "bbox": [
+      53.9,
+      575.8,
+      514.3,
+      589.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b047",
+    "text": "personales. Proteger a los grupos y sus datos sigue siendo un desafío debido a las brechas actuales en",
+    "bbox": [
+      53.9,
+      589.0,
+      520.8,
+      602.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b048",
+    "text": "la regulación y orientación y la falta general de comprensión con respecto a la sensibilidad de los datos",
+    "bbox": [
+      53.9,
+      602.2,
+      524.8,
+      616.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b049",
+    "text": "no personales. Estas brechas en la política de datos aumentan el riesgo de que los datos sensibles no",
+    "bbox": [
+      53.9,
+      615.4,
+      516.0,
+      629.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b050",
+    "text": "se almacenen o protejan de manera adecuada o que los socios los compartan inadvertidamente para",
+    "bbox": [
+      53.9,
+      628.6,
+      517.0,
+      642.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 3,
+    "block_id": "285_p3_b051",
+    "text": "satisfacer las solicitudes de los donantes.",
+    "bbox": [
+      53.9,
+      641.8,
+      242.1,
+      655.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.8,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b003",
+    "text": "11  Equipo de Tareas sobre Financiamiento Humanitario (HFTT) del Comité Permanente entre Organismos (IASC), Condiciones de los donantes y sus",
+    "bbox": [
+      53.9,
+      723.1,
+      530.7,
+      731.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b004",
+    "text": "implicaciones para la respuesta humanitaria, 2016.",
+    "bbox": [
+      53.9,
+      732.1,
+      227.0,
+      740.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b005",
+    "text": "12 Publique lo que financia, Capacidad de uso de datos en crisis humanitarias prolongadas, 2020.",
+    "bbox": [
+      53.9,
+      744.1,
+      369.7,
+      752.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b006",
+    "text": "13 Ibid.",
+    "bbox": [
+      53.9,
+      756.2,
+      73.9,
+      764.7
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b007",
+    "text": "14  CICR, Manual sobre protección de datos en la acción humanitaria, 2020.",
+    "bbox": [
+      53.9,
+      768.1,
+      295.4,
+      776.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b008",
+    "text": "Brechas de capacidad",
+    "bbox": [
+      53.0,
+      45.2,
+      157.5,
+      59.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b009",
+    "text": "Responder a las solicitudes de intercambio de datos ad-hoc de los donantes puede verse como una carga",
+    "bbox": [
+      53.0,
+      58.9,
+      535.0,
+      72.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b010",
+    "text": "adicional para los socorristas humanitarios, ya que ocupa tiempo, los recursos y distrae  del enfoque crítico",
+    "bbox": [
+      53.0,
+      72.1,
+      543.1,
+      86.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b011",
+    "text": "de otras actividades de implementación.11 La financiación insuficiente para el desarrollo de la capacidad",
+    "bbox": [
+      53.0,
+      85.3,
+      531.1,
+      99.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b012",
+    "text": "relacionada con los datos ha limitado la capacidad de muchas organizaciones para proporcionar a su",
+    "bbox": [
+      53.0,
+      98.5,
+      516.1,
+      112.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b013",
+    "text": "personal las habilidades y los recursos necesarios para gestionar los datos de forma responsable.12 Las",
+    "bbox": [
+      53.0,
+      111.7,
+      522.1,
+      125.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b014",
+    "text": "brechas en la capacidad para cumplir con los requisitos de los donantes también podrían disuadir a las",
+    "bbox": [
+      53.0,
+      124.9,
+      524.7,
+      138.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b015",
+    "text": "ONG más pequeñas y/o locales de buscar financiamiento, socavando los esfuerzos de localización.13",
+    "bbox": [
+      53.0,
+      138.1,
+      508.1,
+      152.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b016",
+    "text": "Limitación de propósito",
+    "bbox": [
+      53.0,
+      164.0,
+      168.0,
+      178.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b017",
+    "text": "El principio de limitación de propósito requiere que los datos solo se recopilen para fines específicos,",
+    "bbox": [
+      53.0,
+      177.7,
+      515.3,
+      191.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b018",
+    "text": "explícitos y legítimos, y que no se procesen de una manera que sea incompatible con esos fines.14 Incluso",
+    "bbox": [
+      53.0,
+      190.9,
+      533.4,
+      204.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b019",
+    "text": "cuando los donantes especifiquen razones legítimas para solicitar datos que estén en línea con los fines",
+    "bbox": [
+      53.0,
+      204.1,
+      527.4,
+      218.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b020",
+    "text": "originales para los que se recopilaron los datos (por ejemplo, la prestación de asistencia humanitaria),",
+    "bbox": [
+      53.0,
+      217.3,
+      520.4,
+      231.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b021",
+    "text": "puede resultar difícil garantizar que los datos no se utilizarán para otros fines una vez compartidos. Los",
+    "bbox": [
+      53.0,
+      230.5,
+      523.9,
+      244.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b022",
+    "text": "datos utilizados fuera de contexto y para fines que no se conocen en el momento de compartirlos, o",
+    "bbox": [
+      53.0,
+      243.7,
+      508.3,
+      257.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b023",
+    "text": "retenidos más allá de la retención prevista para un propósito definido, representan una violación, incluso",
+    "bbox": [
+      53.0,
+      256.9,
+      534.7,
+      270.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b024",
+    "text": "si no es intencional, de los derechos sobre los datos de los interesados.",
+    "bbox": [
+      53.0,
+      270.1,
+      376.8,
+      284.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b025",
+    "text": "RECOMENDACIONES",
+    "bbox": [
+      53.9,
+      302.8,
+      176.8,
+      317.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b026",
+    "text": "En vista de los objetivos y limitaciones detallados anteriormente, el Centro, el Grupo de Política",
+    "bbox": [
+      53.9,
+      327.5,
+      490.7,
+      341.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b027",
+    "text": "Humanitaria (HPG) de la ODI, el CICR y la División de Seguridad Humana del Departamento Federal de",
+    "bbox": [
+      53.9,
+      340.7,
+      520.2,
+      354.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b028",
+    "text": "Relaciones Exteriores de Suiza recomiendan que los donantes y las organizaciones humanitarias tomen las",
+    "bbox": [
+      53.9,
+      353.9,
+      542.2,
+      367.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b029",
+    "text": "siguientes medidas para minimizar los riesgos y maximizar los beneficios al compartir datos confidenciales:",
+    "bbox": [
+      53.9,
+      367.1,
+      545.8,
+      381.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b030",
+    "text": "•\t Revisar y aclarar los marcos formales o informales que rigen la recopilación y el intercambio de",
+    "bbox": [
+      65.2,
+      393.0,
+      536.2,
+      407.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b031",
+    "text": "datos desglosados.",
+    "bbox": [
+      76.5,
+      406.2,
+      173.1,
+      420.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b032",
+    "text": "Los donantes y socios deben examinar los requisitos oficiales, formales y los requisitos informales",
+    "bbox": [
+      76.5,
+      419.9,
+      525.4,
+      433.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b033",
+    "text": "ad-hoc del intercambio de datos y analizar al socio y al personal de los donantes para que interpreten",
+    "bbox": [
+      76.5,
+      433.1,
+      541.5,
+      447.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b034",
+    "text": "los requisitos de manera correcta y coherente. Deben evaluar si existen condiciones implícitas entre la",
+    "bbox": [
+      76.5,
+      446.3,
+      543.5,
+      460.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b035",
+    "text": "voluntad de compartir datos desglosados y la capacidad de diferentes organizaciones para acceder y",
+    "bbox": [
+      76.5,
+      459.5,
+      537.6,
+      473.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b036",
+    "text": "mantener la financiación de los donantes.",
+    "bbox": [
+      76.5,
+      472.7,
+      270.5,
+      486.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b037",
+    "text": "•\t Formalizar y estandarizar las solicitudes de datos sensibles.",
+    "bbox": [
+      65.2,
+      498.6,
+      364.6,
+      513.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b038",
+    "text": "Cuando se requieren datos sensibles para cumplir con un objetivo mutuamente acordado, los",
+    "bbox": [
+      76.5,
+      512.3,
+      505.7,
+      526.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b039",
+    "text": "donantes deben formalizar y estandarizar sus solicitudes de dichos datos. Las solicitudes deben",
+    "bbox": [
+      76.5,
+      525.5,
+      515.8,
+      539.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b040",
+    "text": "hacerse por escrito y deben especificar qué datos se solicitan, el formato deseado y el uso previsto de",
+    "bbox": [
+      76.5,
+      538.7,
+      540.2,
+      552.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b041",
+    "text": "los datos. Los donantes solo deben solicitar la información requerida para cumplir con el propósito",
+    "bbox": [
+      76.5,
+      551.9,
+      530.5,
+      565.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b042",
+    "text": "especificado para el cual se solicita y deben indicar un cronograma para la destrucción de los datos.",
+    "bbox": [
+      76.5,
+      565.1,
+      533.0,
+      579.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b043",
+    "text": "Las organizaciones humanitarias deben documentar todas las solicitudes de datos y garantizar la",
+    "bbox": [
+      76.5,
+      578.3,
+      521.7,
+      592.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b044",
+    "text": "coherencia en la respuesta a estas solicitudes a lo largo del tiempo.",
+    "bbox": [
+      76.5,
+      591.5,
+      384.6,
+      605.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b045",
+    "text": "•\t Invertir en la capacidad de gestión de datos del personal y las organizaciones.",
+    "bbox": [
+      65.2,
+      617.4,
+      450.2,
+      632.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b046",
+    "text": "Los donantes y las organizaciones humanitarias deben identificar oportunidades para invertir en",
+    "bbox": [
+      76.5,
+      631.1,
+      519.7,
+      645.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b047",
+    "text": "las habilidades en gestión de datos, especialmente para el personal no técnico. La comunidad",
+    "bbox": [
+      76.5,
+      644.3,
+      506.7,
+      658.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b048",
+    "text": "de donantes se encuentra en una posición única para fomentar la responsabilidad de los datos",
+    "bbox": [
+      76.5,
+      657.5,
+      510.5,
+      671.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 4,
+    "block_id": "285_p4_b049",
+    "text": "proporcionando recursos adicionales para la formación y el desarrollo de capacidades.",
+    "bbox": [
+      76.5,
+      670.7,
+      475.3,
+      684.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b001",
+    "text": "CENTRO PARA LOS DATOS HUMANITARIOS",
+    "bbox": [
+      53.4,
+      791.6,
+      195.8,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b002",
+    "text": "DICIEMBRE 2020",
+    "bbox": [
+      269.6,
+      791.7,
+      325.1,
+      801.8
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b003",
+    "text": "Este proyecto es",
+    "bbox": [
+      54.0,
+      719.0,
+      107.2,
+      728.6
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b004",
+    "text": "cofinanciado por la Unión",
+    "bbox": [
+      54.0,
+      728.1,
+      137.7,
+      737.8
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b005",
+    "text": "Europea",
+    "bbox": [
+      54.0,
+      737.3,
+      80.7,
+      747.0
+    ],
+    "font_size": 7.7,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b006",
+    "text": "Este documento cubre actividades de ayuda humanitaria implementadas con la ayuda financiera de la",
+    "bbox": [
+      145.5,
+      659.4,
+      529.6,
+      670.8
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b007",
+    "text": "Unión Europea. Las opiniones expresadas en este documento no deben tomarse, de ninguna manera,",
+    "bbox": [
+      145.5,
+      670.2,
+      526.3,
+      681.6
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b008",
+    "text": "para reflejar la opinión oficial de la Unión Europea, y la Comisión Europea no es responsable del uso que",
+    "bbox": [
+      145.5,
+      681.0,
+      536.4,
+      692.4
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b009",
+    "text": "pueda hacerse de la información que contiene.",
+    "bbox": [
+      145.5,
+      691.8,
+      320.8,
+      703.2
+    ],
+    "font_size": 9.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b010",
+    "text": "COLABORADORES: EL GRUPO DE POLÍTICAS HUMANITARIAS DE ODI; COMITÉ INTERNACIONAL DE LA CRUZ ROJA; Y",
+    "bbox": [
+      53.4,
+      518.1,
+      536.0,
+      531.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b011",
+    "text": "LA DIVISIÓN DE SEGURIDAD HUMANA, DEPARTAMENTO FEDERAL DE ASUNTOS EXTERIORES DE SUIZA.",
+    "bbox": [
+      53.4,
+      530.1,
+      483.7,
+      543.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b012",
+    "text": "El Centro Para Los Datos Humanitarios ('El Centro'), junto con socios clave, está publicando una serie de",
+    "bbox": [
+      65.2,
+      556.5,
+      501.5,
+      569.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b013",
+    "text": "ocho notas de orientación sobre la responsabilidad de los datos en la acción humanitaria en el transcurso",
+    "bbox": [
+      65.2,
+      568.9,
+      504.9,
+      581.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b014",
+    "text": "de 2019 y 2020. La serie de notas de orientación sigue a la publicación del borrador de trabajo Directrices",
+    "bbox": [
+      65.2,
+      580.7,
+      502.8,
+      593.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b015",
+    "text": "de responsabilidad de datos de OCHA en marzo de 2019. A través de la serie, el Centro tiene como",
+    "bbox": [
+      65.2,
+      592.7,
+      474.8,
+      605.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b016",
+    "text": "objetivo proporcionar orientación adicional sobre problemas, procesos y herramientas específicas para la",
+    "bbox": [
+      65.2,
+      604.9,
+      505.7,
+      617.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b017",
+    "text": "responsabilidad de los datos en la práctica. Esta serie es posible gracias al generoso apoyo de la Dirección",
+    "bbox": [
+      65.2,
+      616.9,
+      505.1,
+      629.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b018",
+    "text": "General de Protección Civil y Ayuda Humanitaria de la Unión Europea (DG ECHO).",
+    "bbox": [
+      65.2,
+      628.9,
+      401.1,
+      641.5
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b019",
+    "text": "•\t Adopción de principios comunes para la gestión de datos de donantes.",
+    "bbox": [
+      65.0,
+      45.4,
+      413.8,
+      60.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b020",
+    "text": "El sector ya tiene una serie de principios y compromisos para informar los diferentes aspectos de",
+    "bbox": [
+      76.4,
+      59.1,
+      519.5,
+      72.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b021",
+    "text": "la donación humanitaria.15 Sin embargo, estos no abordan suficientemente las preocupaciones",
+    "bbox": [
+      76.4,
+      72.3,
+      511.9,
+      86.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b022",
+    "text": "relacionadas con la responsabilidad de los datos. Los donantes y los socios deben participar en el",
+    "bbox": [
+      76.4,
+      85.5,
+      523.1,
+      99.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b023",
+    "text": "desarrollo de principios y directrices comunes para el intercambio de datos de los donantes a fin de",
+    "bbox": [
+      76.4,
+      98.7,
+      532.0,
+      112.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b024",
+    "text": "llenar este vacío. La Iniciativa de Confianza y Datos Humanitarios, codirigida por el Gobierno de",
+    "bbox": [
+      76.4,
+      111.6,
+      520.5,
+      125.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b025",
+    "text": "Suiza, el CICR y el Centro, ofrece una plataforma para facilitar este proceso como parte de su trabajo",
+    "bbox": [
+      76.4,
+      124.8,
+      536.9,
+      139.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b026",
+    "text": "continuo para generar confianza a través del diálogo.",
+    "bbox": [
+      76.4,
+      138.3,
+      317.9,
+      152.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b027",
+    "text": "Se alienta a las organizaciones a compartir su experiencia en el intercambio responsable de datos con los",
+    "bbox": [
+      53.7,
+      164.7,
+      535.4,
+      178.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b028",
+    "text": "donantes con el Centro para los Datos Humanitarios a través de centrehumdata@un.org.",
+    "bbox": [
+      53.7,
+      177.6,
+      461.4,
+      191.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "285",
+    "page_number": 5,
+    "block_id": "285_p5_b029",
+    "text": "15  Ejemplos incluyen  la Iniciativa de buena donación humanitaria y el la Iniciativa de buena donación humanitaria.",
+    "bbox": [
+      53.7,
+      767.8,
+      426.4,
+      776.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  }
+]

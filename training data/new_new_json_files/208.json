@@ -1,0 +1,587 @@
+[
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b001",
+    "text": "The Humanitarian Data Exchange (HDX) is an open platform for sharing data across platforms and",
+    "bbox": [
+      62.8,
+      157.9,
+      509.5,
+      171.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b002",
+    "text": "organizations. The goal of HDX is to make humanitarian data easy to find and use for analysis. Launched",
+    "bbox": [
+      62.8,
+      171.1,
+      537.9,
+      185.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b003",
+    "text": "in July 2014, HDX has been accessed by millions of users in over 250 countries and territories and brings",
+    "bbox": [
+      62.8,
+      184.3,
+      536.6,
+      198.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b004",
+    "text": "together more than 20,500 datasets from over 290 partner organizations.",
+    "bbox": [
+      62.8,
+      197.5,
+      394.0,
+      211.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b005",
+    "text": "The Humanitarian Exchange Language",
+    "bbox": [
+      62.2,
+      424.7,
+      374.2,
+      445.8
+    ],
+    "font_size": 16.0,
+    "font_name": "Gotham-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b006",
+    "text": "A simple standard for messy data",
+    "bbox": [
+      62.2,
+      445.1,
+      228.6,
+      457.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Gotham-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b007",
+    "text": "The Humanitarian Exchange Language (HXL) is a data standard. It is based on spreadsheet formats such as",
+    "bbox": [
+      62.2,
+      464.6,
+      548.3,
+      478.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b008",
+    "text": "CSV or Excel, but it adds hashtags with semantic information to allow sofware to validate, clean, merge",
+    "bbox": [
+      62.2,
+      477.8,
+      535.2,
+      491.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b009",
+    "text": "and analyse data more easily.",
+    "bbox": [
+      62.2,
+      491.0,
+      197.0,
+      504.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b010",
+    "text": "data.humdata.org   |   hxlstandard.org   |    hdx@un.org",
+    "bbox": [
+      61.2,
+      750.4,
+      284.1,
+      763.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b011",
+    "text": "January 2023",
+    "bbox": [
+      523.9,
+      704.9,
+      567.3,
+      714.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Light",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b012",
+    "text": "The Humanitarian Data Exchange",
+    "bbox": [
+      62.8,
+      119.1,
+      332.6,
+      140.2
+    ],
+    "font_size": 16.0,
+    "font_name": "Gotham-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b013",
+    "text": "Find, share and use humanitarian data all in one place",
+    "bbox": [
+      62.8,
+      139.5,
+      331.5,
+      151.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Gotham-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b014",
+    "text": "Share data publicly,",
+    "bbox": [
+      258.2,
+      347.9,
+      351.4,
+      359.7
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b015",
+    "text": "privately with your",
+    "bbox": [
+      260.2,
+      358.9,
+      349.4,
+      370.7
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b016",
+    "text": "colleagues or by",
+    "bbox": [
+      265.5,
+      369.9,
+      344.1,
+      381.7
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b017",
+    "text": "requests.",
+    "bbox": [
+      282.5,
+      380.9,
+      324.3,
+      392.7
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b018",
+    "text": "Use data on HDX",
+    "bbox": [
+      433.6,
+      348.5,
+      514.3,
+      360.2
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b019",
+    "text": "to gain insight",
+    "bbox": [
+      439.6,
+      359.5,
+      505.6,
+      371.2
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b020",
+    "text": "Find data by locations,",
+    "bbox": [
+      74.5,
+      345.1,
+      182.3,
+      356.8
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b021",
+    "text": "organizations and crises",
+    "bbox": [
+      71.2,
+      356.1,
+      182.9,
+      367.8
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b022",
+    "text": "GEOJ",
+    "bbox": [
+      299.7,
+      227.6,
+      318.1,
+      235.8
+    ],
+    "font_size": 6.2,
+    "font_name": "Gotham-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b023",
+    "text": "XLS",
+    "bbox": [
+      247.0,
+      263.4,
+      259.9,
+      271.5
+    ],
+    "font_size": 6.2,
+    "font_name": "Gotham-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b024",
+    "text": "CSV",
+    "bbox": [
+      265.7,
+      236.6,
+      279.3,
+      244.7
+    ],
+    "font_size": 6.2,
+    "font_name": "Gotham-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b025",
+    "text": "SHP",
+    "bbox": [
+      247.0,
+      294.2,
+      260.5,
+      302.3
+    ],
+    "font_size": 6.2,
+    "font_name": "Gotham-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b026",
+    "text": "Grab a spreadsheet of",
+    "bbox": [
+      81.4,
+      645.8,
+      186.0,
+      657.6
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b027",
+    "text": "humanitarian data",
+    "bbox": [
+      90.4,
+      656.8,
+      174.2,
+      668.6
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b028",
+    "text": "Add some",
+    "bbox": [
+      457.4,
+      651.7,
+      507.0,
+      663.5
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b029",
+    "text": "HXL hashtags",
+    "bbox": [
+      449.2,
+      662.7,
+      512.4,
+      674.5
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b030",
+    "text": "ADD HXL",
+    "bbox": [
+      404.8,
+      557.8,
+      432.4,
+      565.0
+    ],
+    "font_size": 5.6,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b031",
+    "text": "#TAGS",
+    "bbox": [
+      408.7,
+      564.6,
+      428.5,
+      571.8
+    ],
+    "font_size": 5.6,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b032",
+    "text": "Insert a new row between",
+    "bbox": [
+      250.1,
+      648.0,
+      371.6,
+      659.8
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b033",
+    "text": "the headers and the data",
+    "bbox": [
+      251.8,
+      659.0,
+      367.2,
+      670.8
+    ],
+    "font_size": 9.2,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b034",
+    "text": "INSERT",
+    "bbox": [
+      231.8,
+      554.7,
+      253.9,
+      561.9
+    ],
+    "font_size": 5.6,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b035",
+    "text": "A ROW",
+    "bbox": [
+      232.0,
+      561.4,
+      253.7,
+      568.7
+    ],
+    "font_size": 5.6,
+    "font_name": "Gotham-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b036",
+    "text": "Humanitarian",
+    "bbox": [
+      315.3,
+      26.5,
+      389.5,
+      42.7
+    ],
+    "font_size": 12.8,
+    "font_name": "SourceSansPro-Regular",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b037",
+    "text": "Data Exchange",
+    "bbox": [
+      315.3,
+      38.4,
+      393.3,
+      54.5
+    ],
+    "font_size": 12.8,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b038",
+    "text": "HDX",
+    "bbox": [
+      236.9,
+      21.0,
+      302.4,
+      59.8
+    ],
+    "font_size": 29.5,
+    "font_name": "Gotham-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "208",
+    "page_number": 1,
+    "block_id": "208_p1_b039",
+    "text": "Product of",
+    "bbox": [
+      310.8,
+      749.9,
+      358.8,
+      763.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

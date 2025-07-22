@@ -1,0 +1,1142 @@
+[
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b019",
+    "text": "0201204",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b020",
+    "text": "A-401-601, A-421-701, A-580-603",
+    "bbox": [
+      209.4,
+      293.6,
+      390.8,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b021",
+    "text": "REV-Revocation",
+    "bbox": [
+      214.7,
+      136.7,
+      297.2,
+      152.0
+    ],
+    "font_size": 11.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b022",
+    "text": "Antidumping",
+    "bbox": [
+      417.0,
+      114.1,
+      493.4,
+      133.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b023",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b024",
+    "text": "01/01/2000",
+    "bbox": [
+      212.6,
+      440.1,
+      281.3,
+      459.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b025",
+    "text": "07/19/2000",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 1,
+    "block_id": "519_p1_b026",
+    "text": "Message Date: 07/19/2000         Message Number: 0201204         Page 1 of 4",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b001",
+    "text": "Notice of Lifting of Suspension Date:",
+    "bbox": [
+      36.0,
+      23.1,
+      230.1,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b004",
+    "text": "RE:        REVOCATION OF ADD ORDERS ON BRASS SHEET AND STRIP FROM KOREA, THE",
+    "bbox": [
+      36.0,
+      163.1,
+      556.1,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b005",
+    "text": "NETHERLANDS AND SWEDEN (A-580-603) (A-421-701) (A-401-601)",
+    "bbox": [
+      36.0,
+      183.1,
+      412.1,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b006",
+    "text": "MESSAGE NO: 0201204                        DATE: 07 19 2000",
+    "bbox": [
+      36.0,
+      223.1,
+      415.6,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b007",
+    "text": "CATEGORY: ADA                            TYPE: REV",
+    "bbox": [
+      36.0,
+      243.1,
+      384.2,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b008",
+    "text": "REFERENCE:                      REFERENCE DATE:",
+    "bbox": [
+      36.0,
+      263.1,
+      402.8,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b009",
+    "text": "CASES:  A - 580 - 603                A - 421 - 701",
+    "bbox": [
+      36.0,
+      283.1,
+      372.2,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b010",
+    "text": "A - 401 - 601                  -     -",
+    "bbox": [
+      36.0,
+      303.1,
+      323.5,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b011",
+    "text": "-     -                      -     -",
+    "bbox": [
+      36.0,
+      323.1,
+      298.8,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b012",
+    "text": "PERIOD COVERED:  01 01 2000  TO",
+    "bbox": [
+      36.0,
+      363.1,
+      394.9,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b013",
+    "text": "LIQ SUSPENSION DATE:",
+    "bbox": [
+      36.0,
+      403.1,
+      369.5,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b014",
+    "text": "TO: DIRECTORS OF FIELD OPERATIONS",
+    "bbox": [
+      36.0,
+      443.1,
+      419.5,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b015",
+    "text": "PORT DIRECTORS",
+    "bbox": [
+      36.0,
+      463.1,
+      356.8,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b016",
+    "text": "FROM: DIRECTOR, TRADE ENFORCEMENT & CONTROL",
+    "bbox": [
+      36.0,
+      503.1,
+      474.1,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b017",
+    "text": "RE: REVOCATION OF ADD ORDERS ON BRASS SHEET AND STRIP FROM",
+    "bbox": [
+      36.0,
+      543.1,
+      523.5,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b018",
+    "text": "KOREA, THE NETHERLANDS AND SWEDEN (A-580-603) (A-421-701)",
+    "bbox": [
+      36.0,
+      563.1,
+      490.8,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b019",
+    "text": "(A-401-601)",
+    "bbox": [
+      36.0,
+      583.1,
+      323.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b020",
+    "text": "1.  AS A RESULT OF A FIVE-YEAR (\"SUNSET\") REVIEW, THE DEPARTMENT",
+    "bbox": [
+      36.0,
+      623.1,
+      511.3,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b021",
+    "text": "OF COMMERCE HAS REVOKED THE  ANTIDUMPING DUTY ORDER ON BRASS",
+    "bbox": [
+      36.0,
+      643.1,
+      543.4,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b022",
+    "text": "SHEET AND STRIP FROM THE REPUBLIC OF KOREA, THE NETHERLANDS, AND",
+    "bbox": [
+      36.0,
+      663.1,
+      540.1,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b023",
+    "text": "SWEDEN AND PUBLISHED THE REVOCATION IN THE FEDERAL REGISTER ON 0",
+    "bbox": [
+      36.0,
+      683.1,
+      542.8,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b024",
+    "text": "5/01/2000.  THE EFFECTIVE DATE OF THE REVOCATION IS 01/01/2000.",
+    "bbox": [
+      36.0,
+      703.1,
+      489.5,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b025",
+    "text": "2.  THEREFORE, CUSTOMS IS DIRECTED TO TERMINATE THE SUSPENSION OF",
+    "bbox": [
+      36.0,
+      743.1,
+      538.1,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b026",
+    "text": "LIQUIDATION FOR ALL SHIPMENTS OF BRASS SHEET AND STRIP FROM THE",
+    "bbox": [
+      36.0,
+      763.1,
+      530.1,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b027",
+    "text": "REPUBLIC OF KOREA, THE NETHERLANDS, AND SWEDEN ENTERED, OR",
+    "bbox": [
+      36.0,
+      783.1,
+      524.8,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 2,
+    "block_id": "519_p2_b028",
+    "text": "Message Date: 07/19/2000         Message Number: 0201204         Page 2 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b001",
+    "text": "WITHDRAWN FROM WAREHOUSE, FOR CONSUMPTION ON OR AFTER 01/01/2000.",
+    "bbox": [
+      36.0,
+      43.1,
+      553.4,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b002",
+    "text": "3. ALL SUSPENDED ENTRIES OF THE SUBJECT PRODUCT ENTERED OR",
+    "bbox": [
+      36.0,
+      83.1,
+      520.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b003",
+    "text": "WITHDRAWN FROM WAREHOUSE PRIOR TO 01/01/2000 SHOULD NOT, REPEAT",
+    "bbox": [
+      36.0,
+      103.1,
+      544.1,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b004",
+    "text": "NOT, BE LIQUIDATED UNTIL YOU RECEIVE SEPARATE AND SPECIFIC",
+    "bbox": [
+      36.0,
+      123.1,
+      504.1,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b005",
+    "text": "LIQUIDATION INSTRUCTIONS.  ALL ENTRIES OF THE SUBJECT PRODUCT",
+    "bbox": [
+      36.0,
+      143.1,
+      517.4,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b006",
+    "text": "THAT WERE SUSPENDED ON OR AFTER 01/01/2000 SHOULD BE LIQUIDATED",
+    "bbox": [
+      36.0,
+      163.1,
+      531.5,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b007",
+    "text": "WITHOUT REGARD TO ANTIDUMPING DUTIES (I.E., RELEASE ALL BONDS AND",
+    "bbox": [
+      36.0,
+      183.1,
+      531.4,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b008",
+    "text": "REFUND ALL CASH DEPOSITS).",
+    "bbox": [
+      36.0,
+      203.1,
+      392.2,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b009",
+    "text": "4.  IF THERE ARE ANY QUESTIONS REGARDING THIS MATTER BY CUSTOMS",
+    "bbox": [
+      36.0,
+      223.1,
+      529.5,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b010",
+    "text": "OFFICERS, PLEASE CONTACT VIA E-MAIL, THROUGH THE APPROPRIATE",
+    "bbox": [
+      36.0,
+      243.1,
+      520.8,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b011",
+    "text": "SUPERVISORY CHANNELS, OTHER GOVERNMENT AGENCY LIAISON, USING THE",
+    "bbox": [
+      36.0,
+      263.1,
+      552.8,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b012",
+    "text": "ATTRIBUTE \"HQ OAB.\"  THE IMPORTING PUBLIC AND INTERESTED PARTIES",
+    "bbox": [
+      36.0,
+      283.1,
+      522.6,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b013",
+    "text": "SHOULD CONTACT EUN W.  CHO AT 202-482-1698, OFFICE OF POLICY,",
+    "bbox": [
+      36.0,
+      303.1,
+      502.1,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b014",
+    "text": "IMPORT ADMINISTRATION, INTERNATIONAL TRADE ADMINISTRATION,",
+    "bbox": [
+      36.0,
+      323.1,
+      511.4,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b015",
+    "text": "DEPARTMENT OF COMMERCE.",
+    "bbox": [
+      36.0,
+      343.1,
+      400.2,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b016",
+    "text": "5.  THERE ARE NO RESTRICTIONS ON THE RELEASE OF THIS INFORMATION.",
+    "bbox": [
+      36.0,
+      383.1,
+      527.4,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b017",
+    "text": "PAUL SCHWARTZ",
+    "bbox": [
+      36.0,
+      443.1,
+      358.8,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 3,
+    "block_id": "519_p3_b018",
+    "text": "Message Date: 07/19/2000         Message Number: 0201204         Page 3 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 4,
+    "block_id": "519_p4_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 4,
+    "block_id": "519_p4_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 4,
+    "block_id": "519_p4_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "519",
+    "page_number": 4,
+    "block_id": "519_p4_b004",
+    "text": "Message Date: 07/19/2000         Message Number: 0201204         Page 4 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

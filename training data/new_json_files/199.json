@@ -1,0 +1,7247 @@
+[
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b001",
+    "text": "Executive Summary",
+    "bbox": [
+      72.0,
+      72.5,
+      248.5,
+      94.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b002",
+    "text": "Since November 2020, the OCHA Centre for Humanitarian Data (the Centre) has been investigating the",
+    "bbox": [
+      72.0,
+      103.6,
+      535.8,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b003",
+    "text": "usability and insight of COVID-19 funding data made available through the International Aid",
+    "bbox": [
+      72.0,
+      119.5,
+      488.8,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b004",
+    "text": "Transparency Initiative (IATI) standard. Our experience has given us a strong appreciation of the value",
+    "bbox": [
+      72.0,
+      135.4,
+      533.3,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b005",
+    "text": "of the IATI standard and its community of publishers. We have also seen where IATI falls short by",
+    "bbox": [
+      72.0,
+      151.3,
+      508.8,
+      165.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b006",
+    "text": "making data use unnecessarily difficult and time consuming, and missing opportunities to make",
+    "bbox": [
+      72.0,
+      167.2,
+      510.3,
+      181.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b007",
+    "text": "international aid data more transparent.",
+    "bbox": [
+      72.0,
+      183.1,
+      256.2,
+      196.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b008",
+    "text": "Over the course of this project, the Centre conducted research with IATI stakeholders and publishers to",
+    "bbox": [
+      72.0,
+      209.0,
+      539.1,
+      222.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b009",
+    "text": "better understand their needs and capabilities. We developed and documented algorithms to",
+    "bbox": [
+      72.0,
+      224.9,
+      497.3,
+      238.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b010",
+    "text": "deduplicate and aggregate IATI data into meaningful figures. We produced an IATI COVID-19 Funding",
+    "bbox": [
+      72.0,
+      240.8,
+      527.4,
+      254.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b011",
+    "text": "Dashboard for users to visualize, explore and analyze all of the published IATI data that is related to the",
+    "bbox": [
+      72.0,
+      256.7,
+      539.5,
+      270.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b012",
+    "text": "pandemic. And we created a data story to share key insights about COVID-19 commitments and",
+    "bbox": [
+      72.0,
+      272.6,
+      504.8,
+      286.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b013",
+    "text": "spending.",
+    "bbox": [
+      72.0,
+      288.5,
+      117.3,
+      302.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b014",
+    "text": "In our engagement with IATI publishers, we found that they were mainly focused on their own data",
+    "bbox": [
+      72.0,
+      314.4,
+      521.0,
+      328.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b015",
+    "text": "and whether it was accurate. The dashboard allowed publishers to see their data visualized, often for",
+    "bbox": [
+      72.0,
+      330.3,
+      530.7,
+      344.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b016",
+    "text": "the first time, making data issues immediately apparent. We know of several publishers that made",
+    "bbox": [
+      72.0,
+      346.2,
+      518.7,
+      360.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b017",
+    "text": "changes to their IATI data after using the dashboard, creating a positive feedback loop.",
+    "bbox": [
+      72.0,
+      362.1,
+      465.4,
+      375.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b018",
+    "text": "At the same time, our behind-the-scenes technical work to aggregate IATI data revealed a host of",
+    "bbox": [
+      72.0,
+      388.0,
+      510.7,
+      401.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b019",
+    "text": "issues with data quality. We faced significant challenges evaluating whether data was loosely or strictly",
+    "bbox": [
+      72.0,
+      403.9,
+      539.9,
+      417.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b020",
+    "text": "related to COVID-19. In attempting to use algorithmic processes to combine IATI data, we then had to",
+    "bbox": [
+      72.0,
+      419.8,
+      529.6,
+      433.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b021",
+    "text": "spend time considering how confident we were with the outcomes.",
+    "bbox": [
+      72.0,
+      435.7,
+      377.8,
+      449.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b022",
+    "text": "We believe that the international aid community has just begun to tap the potential of IATI as a",
+    "bbox": [
+      72.0,
+      461.6,
+      526.4,
+      475.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b023",
+    "text": "data source but that improvements are needed to the IATI standard, guidance and governance in",
+    "bbox": [
+      72.0,
+      477.5,
+      535.2,
+      491.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b024",
+    "text": "order to reach the goal of aid transparency.",
+    "bbox": [
+      72.0,
+      493.4,
+      279.9,
+      507.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b025",
+    "text": "We have identified four high-level issues from using IATI COVID-19 data:",
+    "bbox": [
+      72.0,
+      519.3,
+      396.3,
+      533.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b026",
+    "text": "Barriers to data use: Those who use IATI data, as we attempted to, will always try to do so",
+    "bbox": [
+      108.0,
+      545.2,
+      518.4,
+      559.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b027",
+    "text": "across a range of publishers. There is too much complexity and too many inconsistencies in",
+    "bbox": [
+      108.0,
+      561.1,
+      523.2,
+      574.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b028",
+    "text": "IATI publishing for this to scale.",
+    "bbox": [
+      108.0,
+      577.0,
+      250.0,
+      590.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b029",
+    "text": "No feedback loops: IATI data users are left to resolve familiar problems time and again, with",
+    "bbox": [
+      108.0,
+      592.9,
+      527.9,
+      606.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b030",
+    "text": "little chance to engage with publishers. The process for improving the IATI standard is unclear",
+    "bbox": [
+      108.0,
+      608.8,
+      533.5,
+      622.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b031",
+    "text": "and slow.",
+    "bbox": [
+      108.0,
+      624.7,
+      151.4,
+      638.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b032",
+    "text": "Individual focus: IATI publishers focus on their own data which is then expressed in different",
+    "bbox": [
+      108.0,
+      640.6,
+      530.9,
+      654.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b033",
+    "text": "approaches and uses of the IATI standard. There is little dialogue between and among",
+    "bbox": [
+      108.0,
+      656.5,
+      498.2,
+      670.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b034",
+    "text": "organizations to use and improve each other's data. Pockets of collaboration do exist, but have",
+    "bbox": [
+      108.0,
+      672.4,
+      539.0,
+      686.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b035",
+    "text": "been overshadowed by IATI being centered on compliance.",
+    "bbox": [
+      108.0,
+      688.3,
+      376.6,
+      702.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b036",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 2,
+    "block_id": "199_p2_b037",
+    "text": "Page 2 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b001",
+    "text": "The IATI standard is both too rigid and too flexible: All IATI publishers have to put their data",
+    "bbox": [
+      108.0,
+      72.0,
+      534.2,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b002",
+    "text": "into an activity which may not translate to the reality of their operations. In working with the",
+    "bbox": [
+      108.0,
+      87.9,
+      528.2,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b003",
+    "text": "IATI data, we had to bypass activities to get to the financial flows. At the same time, it is often",
+    "bbox": [
+      108.0,
+      103.8,
+      529.5,
+      117.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b004",
+    "text": "not possible to trace funding between organizations because publishers don’t identify",
+    "bbox": [
+      108.0,
+      119.7,
+      499.3,
+      133.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b005",
+    "text": "counterparties.",
+    "bbox": [
+      108.0,
+      135.6,
+      178.1,
+      149.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b006",
+    "text": "We recommend three high-level actions to improve IATI:",
+    "bbox": [
+      72.0,
+      167.4,
+      327.6,
+      181.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b007",
+    "text": "The governance of IATI needs to be more open to feedback from data users. The IATI",
+    "bbox": [
+      108.0,
+      199.2,
+      492.8,
+      213.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b008",
+    "text": "Institutional Review, which is currently taking place, should consider ideas around user-led",
+    "bbox": [
+      108.0,
+      215.1,
+      521.9,
+      228.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b009",
+    "text": "governance and feedback.",
+    "bbox": [
+      108.0,
+      231.0,
+      228.4,
+      244.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b010",
+    "text": "IATI guidance should be updated more often and include examples of best practice and good",
+    "bbox": [
+      108.0,
+      246.9,
+      531.6,
+      260.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b011",
+    "text": "use rather than just instructions or definitions.",
+    "bbox": [
+      108.0,
+      262.8,
+      319.4,
+      276.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b012",
+    "text": "Rankings and indices for IATI publishers should include performance metrics on collective",
+    "bbox": [
+      108.0,
+      278.7,
+      519.7,
+      292.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b013",
+    "text": "and systematic data use in addition to focusing on the data quality of individual publishers.",
+    "bbox": [
+      108.0,
+      294.6,
+      529.3,
+      308.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b014",
+    "text": "Many of our findings and recommendations are already covered in the IATI Strategic Plan 2020 - 2025",
+    "bbox": [
+      72.0,
+      326.4,
+      529.7,
+      340.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b015",
+    "text": "including a focus on data quality and data use. This report includes a detailed list of recommendations",
+    "bbox": [
+      72.0,
+      342.3,
+      538.1,
+      356.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b016",
+    "text": "and suggested next steps (see Section 3). For each issue, we propose what changes would be most",
+    "bbox": [
+      72.0,
+      358.2,
+      518.6,
+      372.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b017",
+    "text": "beneficial, and equally importantly, how the IATI community might implement them.",
+    "bbox": [
+      72.0,
+      374.1,
+      458.9,
+      387.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b018",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 3,
+    "block_id": "199_p3_b019",
+    "text": "Page 3 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b001",
+    "text": "1. Introduction",
+    "bbox": [
+      72.0,
+      72.5,
+      200.2,
+      94.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b002",
+    "text": "The International Aid Transparency Initiative is a global effort to improve the transparency of",
+    "bbox": [
+      72.0,
+      103.6,
+      493.7,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b003",
+    "text": "development and humanitarian financing focused on addressing poverty and humanitarian crises.",
+    "bbox": [
+      72.0,
+      119.5,
+      520.9,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b004",
+    "text": "More than 1,300 organizations — bilateral and multilateral providers, international and local NGOs,",
+    "bbox": [
+      72.0,
+      135.4,
+      521.2,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b005",
+    "text": "civil society organizations, academia, governments, and other stakeholders — publish their data using",
+    "bbox": [
+      72.0,
+      151.3,
+      536.1,
+      165.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b006",
+    "text": "the IATI standard.",
+    "bbox": [
+      72.0,
+      167.2,
+      152.2,
+      181.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b007",
+    "text": "Following the World Health Organization’s declaration of a pandemic in March 2020, the IATI",
+    "bbox": [
+      72.0,
+      193.1,
+      490.4,
+      206.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b008",
+    "text": "secretariat issued guidance on how to publish data on COVID-19 aid activities and financial",
+    "bbox": [
+      72.0,
+      209.0,
+      484.4,
+      222.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b009",
+    "text": "transactions. Organizations were encouraged to add ‘COVID-19’ in additional fields of the IATI standard",
+    "bbox": [
+      72.0,
+      224.9,
+      538.8,
+      238.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b010",
+    "text": "in order to track the response to the pandemic. As of September 2021, over 200 organizations have",
+    "bbox": [
+      72.0,
+      240.8,
+      520.1,
+      254.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b011",
+    "text": "published their COVID-19 funding data using IATI.",
+    "bbox": [
+      72.0,
+      256.7,
+      296.2,
+      270.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b012",
+    "text": "Over the past nine months, the Centre has explored this data to understand the financial",
+    "bbox": [
+      72.0,
+      282.6,
+      474.3,
+      296.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b013",
+    "text": "commitments and actual spending related to the pandemic. As part of this project, we developed an",
+    "bbox": [
+      72.0,
+      298.5,
+      528.4,
+      312.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b014",
+    "text": "IATI COVID-19 Funding Dashboard (updated nightly) with financial transactions from 13,780 reported",
+    "bbox": [
+      72.0,
+      314.4,
+      529.9,
+      328.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b015",
+    "text": "aid activities covering $134.5 billion in commitments and $84.8 billion in spending directed towards",
+    "bbox": [
+      72.0,
+      330.3,
+      525.2,
+      344.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b016",
+    "text": "200 recipient countries and territories.1 We also created a data story which shows several insights from",
+    "bbox": [
+      72.0,
+      341.6,
+      537.9,
+      360.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b017",
+    "text": "the data (as of 15 September).",
+    "bbox": [
+      72.0,
+      362.1,
+      209.0,
+      375.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b018",
+    "text": "This report details our experience using the IATI COVID-19 data to create the dashboard and related",
+    "bbox": [
+      72.0,
+      388.0,
+      522.3,
+      401.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b019",
+    "text": "data story. We explain our goals with the dashboard and the methodology we used to parse and",
+    "bbox": [
+      72.0,
+      403.9,
+      508.0,
+      417.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b020",
+    "text": "visualize the IATI data. The report concludes with a deeper look at the issues we encountered and",
+    "bbox": [
+      72.0,
+      419.8,
+      514.9,
+      433.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b021",
+    "text": "offers recommendations for improving the IATI standard and related guidance.",
+    "bbox": [
+      72.0,
+      435.7,
+      429.7,
+      449.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b022",
+    "text": "The work covered in this project was funded by the United States Agency for International",
+    "bbox": [
+      72.0,
+      461.6,
+      479.8,
+      475.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b023",
+    "text": "Development (USAID). We are grateful for the considerable contribution of USAID colleagues in",
+    "bbox": [
+      72.0,
+      477.5,
+      502.1,
+      491.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b024",
+    "text": "reviewing and providing feedback on our work. We would also like to acknowledge the earlier effort to",
+    "bbox": [
+      72.0,
+      493.4,
+      536.8,
+      507.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b025",
+    "text": "create a prototype visualization to track the COVID-19 response by Development Initiatives which was",
+    "bbox": [
+      72.0,
+      509.3,
+      533.7,
+      523.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b026",
+    "text": "undertaken on behalf of the Grand Bargain Transparency Workstream.2",
+    "bbox": [
+      72.0,
+      525.0,
+      394.9,
+      539.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b027",
+    "text": "2. The IATI COVID-19 Funding Dashboard",
+    "bbox": [
+      72.0,
+      561.6,
+      433.0,
+      583.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b028",
+    "text": "The dashboard was created to visualize, explore and analyze all of the published IATI data related to",
+    "bbox": [
+      72.0,
+      592.6,
+      525.7,
+      606.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b029",
+    "text": "the COVID-19 pandemic. We focused on two main entities in IATI reports: 1) the activity, which may",
+    "bbox": [
+      72.0,
+      608.6,
+      524.9,
+      622.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b030",
+    "text": "represent any unit of aid action (such as a programme, project, or activity); and 2) the transaction,",
+    "bbox": [
+      72.0,
+      624.5,
+      522.0,
+      638.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b031",
+    "text": "which represents a single movement of money (or promise) in or out of the activity (such as a payment",
+    "bbox": [
+      72.0,
+      640.4,
+      538.8,
+      654.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b032",
+    "text": "2 A snapshot of the earlier dashboard, developed by Mark Brough at Development Initiatives, is available at",
+    "bbox": [
+      72.0,
+      690.7,
+      513.4,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b033",
+    "text": "https://covid19.humportal.org/activities/ .",
+    "bbox": [
+      72.0,
+      707.4,
+      247.5,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b034",
+    "text": "1 All figures according to the dashboard as of 30 September 2021. These figures are updated nightly so will",
+    "bbox": [
+      72.0,
+      665.6,
+      509.4,
+      682.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b035",
+    "text": "change.",
+    "bbox": [
+      72.0,
+      682.3,
+      104.8,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b036",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 4,
+    "block_id": "199_p4_b037",
+    "text": "Page 4 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b001",
+    "text": "to an implementing partner, or a grant from a donor). (Read more about IATI transaction types in",
+    "bbox": [
+      72.0,
+      72.0,
+      511.4,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b002",
+    "text": "Annex A).",
+    "bbox": [
+      72.0,
+      87.9,
+      114.5,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b003",
+    "text": "A guiding principle for developing the dashboard has been to ‘hold up a mirror’ to IATI data. Therefore,",
+    "bbox": [
+      72.0,
+      113.8,
+      538.5,
+      127.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b004",
+    "text": "the dashboard presents financial information as reported, without attempting any reconciliation",
+    "bbox": [
+      72.0,
+      129.7,
+      511.6,
+      143.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b005",
+    "text": "among different publishing organizations or verification of those numbers from other sources.",
+    "bbox": [
+      72.0,
+      145.6,
+      500.2,
+      159.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b006",
+    "text": "The dashboard has three target audiences:",
+    "bbox": [
+      72.0,
+      171.5,
+      266.7,
+      185.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b007",
+    "text": "IATI data publishers: people involved in the production and distribution of data formatted to",
+    "bbox": [
+      108.0,
+      197.4,
+      533.0,
+      211.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b008",
+    "text": "the IATI standard.",
+    "bbox": [
+      108.0,
+      213.3,
+      188.2,
+      227.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b009",
+    "text": "IATI data users: people interested in IATI data more widely, either from an analytical or",
+    "bbox": [
+      108.0,
+      239.2,
+      503.7,
+      253.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b010",
+    "text": "transparency perspective.",
+    "bbox": [
+      108.0,
+      255.1,
+      226.6,
+      268.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b011",
+    "text": "COVID-19 funding observers: people interested in the response to the pandemic, but not",
+    "bbox": [
+      108.0,
+      281.0,
+      516.4,
+      294.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b012",
+    "text": "necessarily in IATI itself.",
+    "bbox": [
+      108.0,
+      296.9,
+      215.8,
+      310.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b013",
+    "text": "We designed the dashboard to be open source and reusable, so that — with a certain amount of",
+    "bbox": [
+      72.0,
+      322.8,
+      506.4,
+      336.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b014",
+    "text": "reconfiguration — it can be deployed to track other topics or crises using the IATI standard. (Read more",
+    "bbox": [
+      72.0,
+      338.7,
+      539.0,
+      352.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b015",
+    "text": "about the algorithms and general methodology we used to process IATI data and find links to our",
+    "bbox": [
+      72.0,
+      354.6,
+      513.1,
+      368.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b016",
+    "text": "GitHub repositories in Annex B).",
+    "bbox": [
+      72.0,
+      370.5,
+      217.4,
+      384.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b017",
+    "text": "The dashboard includes four tabs:",
+    "bbox": [
+      72.0,
+      396.4,
+      227.5,
+      410.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b018",
+    "text": "Commitments and Spending — visualization of money committed and actually spent overall,",
+    "bbox": [
+      108.0,
+      422.3,
+      536.9,
+      436.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b019",
+    "text": "or filtered by organization, sector, or country.",
+    "bbox": [
+      108.0,
+      438.2,
+      313.5,
+      452.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b020",
+    "text": "Spending Flows — visualization of incoming and outgoing financial flows overall, or by",
+    "bbox": [
+      108.0,
+      464.1,
+      504.6,
+      477.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b021",
+    "text": "organization.",
+    "bbox": [
+      108.0,
+      480.0,
+      168.2,
+      493.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b022",
+    "text": "Data Story — a link out to funding insights using COVID-19 IATI data.",
+    "bbox": [
+      108.0,
+      505.9,
+      418.6,
+      519.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b023",
+    "text": "About This Dashboard — detailed information about the dashboard, including sources,",
+    "bbox": [
+      108.0,
+      531.8,
+      508.1,
+      545.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b024",
+    "text": "methodology, and licensing.",
+    "bbox": [
+      108.0,
+      547.7,
+      237.5,
+      561.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b025",
+    "text": "The dashboard allows users to pose questions about COVID-19 aid funding and discover IATI data to",
+    "bbox": [
+      72.0,
+      573.6,
+      525.5,
+      587.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b026",
+    "text": "help answer them, such as: how much money have aid organizations committed to the COVID-19",
+    "bbox": [
+      72.0,
+      589.5,
+      511.7,
+      603.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b027",
+    "text": "response in Haiti?; what sector received the most COVID-19 funding?; or which organizations received",
+    "bbox": [
+      72.0,
+      605.4,
+      532.3,
+      619.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b028",
+    "text": "funding from the African Development Bank? It is also possible to see only humanitarian-flagged",
+    "bbox": [
+      72.0,
+      621.3,
+      511.2,
+      635.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b029",
+    "text": "funding, or to apply strict or loose rules for COVID-19 relevance.",
+    "bbox": [
+      72.0,
+      637.2,
+      360.3,
+      651.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b030",
+    "text": "Despite our best efforts and significant user consultation, use of the dashboard requires some degree",
+    "bbox": [
+      72.0,
+      663.1,
+      532.0,
+      677.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b031",
+    "text": "of domain expertise to explore and understand the data. (See Annex C for more about our stakeholder",
+    "bbox": [
+      72.0,
+      679.0,
+      535.6,
+      692.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b032",
+    "text": "consultations). To reach a broader audience, we produced a data story that provides a curated view of",
+    "bbox": [
+      72.0,
+      694.9,
+      534.9,
+      708.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b033",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 5,
+    "block_id": "199_p5_b034",
+    "text": "Page 5 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b001",
+    "text": "the major insights from the COVID-19 data over a fixed period from January to September 2021,",
+    "bbox": [
+      72.0,
+      72.0,
+      506.0,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b002",
+    "text": "including:",
+    "bbox": [
+      72.0,
+      87.9,
+      117.6,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b003",
+    "text": "How quickly IATI publishers began sharing COVID-19-related data.",
+    "bbox": [
+      108.0,
+      113.8,
+      407.1,
+      127.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b004",
+    "text": "How organization type (e.g. NGO, multilateral, government) is correlated with the frequency of",
+    "bbox": [
+      108.0,
+      139.7,
+      537.5,
+      153.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b005",
+    "text": "IATI publishing.",
+    "bbox": [
+      108.0,
+      155.6,
+      178.5,
+      169.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b006",
+    "text": "The uneven distribution of gaps between money committed and money actually spent for",
+    "bbox": [
+      108.0,
+      181.5,
+      516.9,
+      195.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b007",
+    "text": "different countries.",
+    "bbox": [
+      108.0,
+      197.4,
+      195.3,
+      211.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b008",
+    "text": "The major aid sectors targeted with COVID-19-related funding.",
+    "bbox": [
+      108.0,
+      223.3,
+      390.9,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b009",
+    "text": "The distribution of funding for the health sector over time.",
+    "bbox": [
+      108.0,
+      249.2,
+      373.3,
+      263.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b010",
+    "text": "Gaps in IATI data around organization-to-organization money flows.",
+    "bbox": [
+      108.0,
+      275.1,
+      416.0,
+      288.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b011",
+    "text": "Unlike the dashboard, which updates nightly, the data story is based on a snapshot of data from 15",
+    "bbox": [
+      72.0,
+      301.0,
+      521.2,
+      314.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b012",
+    "text": "September 2021 and will not be updated. However, up-to-date versions of all the data are available for",
+    "bbox": [
+      72.0,
+      316.9,
+      536.8,
+      330.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b013",
+    "text": "download on the Humanitarian Data Exchange (HDX) in the dataset IATI COVID-19-related funding",
+    "bbox": [
+      72.0,
+      332.8,
+      515.4,
+      346.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b014",
+    "text": "data.",
+    "bbox": [
+      72.0,
+      348.7,
+      95.3,
+      362.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b015",
+    "text": "3. Key Findings and Recommendations",
+    "bbox": [
+      72.0,
+      385.1,
+      413.0,
+      406.8
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b016",
+    "text": "During the course of this project, the Centre has become a significant IATI data user, and we have",
+    "bbox": [
+      72.0,
+      416.2,
+      511.9,
+      430.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b017",
+    "text": "involved many members of our team who had previously had no exposure to the standard. Our",
+    "bbox": [
+      72.0,
+      432.1,
+      504.1,
+      445.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b018",
+    "text": "experience has given us a strong appreciation of the value of the IATI standard and its community of",
+    "bbox": [
+      72.0,
+      448.0,
+      525.7,
+      461.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b019",
+    "text": "publishers. We believe that the international aid community has just begun to tap the potential of IATI",
+    "bbox": [
+      72.0,
+      463.9,
+      535.2,
+      477.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b020",
+    "text": "as a data source.",
+    "bbox": [
+      72.0,
+      479.8,
+      148.0,
+      493.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b021",
+    "text": "We have also had the opportunity to see where the IATI standard, guidance, and community practices",
+    "bbox": [
+      72.0,
+      505.7,
+      533.7,
+      519.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b022",
+    "text": "fall short, making data use unnecessarily difficult, and missing opportunities to provide the",
+    "bbox": [
+      72.0,
+      521.6,
+      486.9,
+      535.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b023",
+    "text": "information that could make international aid more transparent.",
+    "bbox": [
+      72.0,
+      537.5,
+      366.5,
+      551.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b024",
+    "text": "We have identified five issues related to the IATI standard and guidance. For each of these findings, we",
+    "bbox": [
+      72.0,
+      563.4,
+      535.8,
+      577.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b025",
+    "text": "propose what changes would be most beneficial and how the IATI community might implement them.",
+    "bbox": [
+      72.0,
+      579.3,
+      536.6,
+      593.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b026",
+    "text": "Finding 1: False-positive matches for the IATI COVID-19 guidance",
+    "bbox": [
+      72.0,
+      613.2,
+      409.7,
+      628.3
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b027",
+    "text": "Focus area: IATI guidance",
+    "bbox": [
+      72.0,
+      636.5,
+      185.0,
+      650.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b028",
+    "text": "The IATI secretariat acted with speed to create and publish the IATI COVID-19 Guidance, and IATI",
+    "bbox": [
+      72.0,
+      662.4,
+      507.3,
+      676.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b029",
+    "text": "publishers adopted it quickly, making IATI one of the first useful sources for COVID-19-related aid",
+    "bbox": [
+      72.0,
+      678.3,
+      511.4,
+      692.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b030",
+    "text": "funding.",
+    "bbox": [
+      72.0,
+      694.2,
+      110.3,
+      708.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b031",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 6,
+    "block_id": "199_p6_b032",
+    "text": "Page 6 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b001",
+    "text": "In making extensive use of the guidance, however, we have found areas where it introduces",
+    "bbox": [
+      72.0,
+      72.0,
+      487.0,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b002",
+    "text": "ambiguities and could potentially result in false-positive matches for COVID-19 funding. For example,",
+    "bbox": [
+      72.0,
+      87.9,
+      531.7,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b003",
+    "text": "IATI activity XI-IATI-CWSEC-YNCWG1051 from the Commonwealth Secretariat is entitled “A Resilient",
+    "bbox": [
+      72.0,
+      103.8,
+      521.6,
+      117.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b004",
+    "text": "Blue Commonwealth: Blue Charter” and is not related to the COVID-19 pandemic; however, it does",
+    "bbox": [
+      72.0,
+      119.7,
+      519.1,
+      133.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b005",
+    "text": "include the following text in the project description:",
+    "bbox": [
+      72.0,
+      135.6,
+      307.8,
+      149.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b006",
+    "text": "“Note: The emergence of the Covid-19 pandemic has altered some of the implementation",
+    "bbox": [
+      108.0,
+      161.5,
+      514.7,
+      175.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b007",
+    "text": "plans described above (especially holding in-person Action Group meetings).”",
+    "bbox": [
+      108.0,
+      177.4,
+      462.0,
+      191.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b008",
+    "text": "Following the IATI COVID-19 guidance, this activity counts as a positive match because the string",
+    "bbox": [
+      72.0,
+      203.3,
+      509.4,
+      217.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b009",
+    "text": "‘COVID-19’ appears in the project title or description.",
+    "bbox": [
+      72.0,
+      219.2,
+      311.9,
+      233.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b010",
+    "text": "In our work, we attempted to minimise these false matches by classifying any activity with ‘COVID-19’",
+    "bbox": [
+      72.0,
+      245.1,
+      532.4,
+      258.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b011",
+    "text": "appearing only in the project description (and no other matching indicator) as a ‘loose’ match. As of 28",
+    "bbox": [
+      72.0,
+      261.0,
+      538.4,
+      274.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b012",
+    "text": "September 2021, there were $22.0 billion in commitments and $12.8 billion in spending that met only",
+    "bbox": [
+      72.0,
+      276.9,
+      533.0,
+      290.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b013",
+    "text": "the loose criteria but not other, stricter criteria (differences of 20% and 18% respectively).",
+    "bbox": [
+      72.0,
+      292.8,
+      478.0,
+      306.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b014",
+    "text": "There were pragmatic reasons to keep the guidance flexible, including limited metadata available at",
+    "bbox": [
+      72.0,
+      318.7,
+      526.8,
+      332.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b015",
+    "text": "the transaction level (see Issue 2) and the inability of many publishers to alter their information",
+    "bbox": [
+      72.0,
+      334.6,
+      505.3,
+      348.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b016",
+    "text": "systems quickly to support anything but changes to project titles and descriptions.",
+    "bbox": [
+      72.0,
+      350.5,
+      448.5,
+      364.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b017",
+    "text": "Recommendations:",
+    "bbox": [
+      72.0,
+      376.4,
+      158.7,
+      390.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b018",
+    "text": "Do not use free text in titles or descriptions as a flag in future IATI crisis-specific guidance (or at",
+    "bbox": [
+      108.0,
+      402.3,
+      537.7,
+      416.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b019",
+    "text": "least, limit this to the transaction level).",
+    "bbox": [
+      108.0,
+      418.2,
+      288.4,
+      432.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b020",
+    "text": "Focus future guidance on unambiguous, dedicated metadata elements like tag and",
+    "bbox": [
+      108.0,
+      444.1,
+      486.5,
+      457.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b021",
+    "text": "humanitarian-profile.",
+    "bbox": [
+      108.0,
+      460.0,
+      204.9,
+      473.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b022",
+    "text": "Modify IATI publisher data systems to support more-unambiguous flagging of crises or themes",
+    "bbox": [
+      108.0,
+      485.9,
+      536.8,
+      499.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b023",
+    "text": "in the future.",
+    "bbox": [
+      108.0,
+      501.8,
+      167.0,
+      515.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b024",
+    "text": "Next steps:",
+    "bbox": [
+      72.0,
+      527.7,
+      120.6,
+      541.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b025",
+    "text": "Work with the IATI technical team and secretariat to develop templates and best practices for",
+    "bbox": [
+      108.0,
+      553.6,
+      531.1,
+      567.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b026",
+    "text": "future IATI crisis-/theme-publishing guidance.",
+    "bbox": [
+      108.0,
+      569.5,
+      317.2,
+      583.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b027",
+    "text": "Modify the IATI standard to allow tag and humanitarian-profile at the transaction level (will",
+    "bbox": [
+      108.0,
+      595.4,
+      519.9,
+      609.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b028",
+    "text": "need to start as an extension, as described in Issue 2).",
+    "bbox": [
+      108.0,
+      611.3,
+      351.5,
+      625.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b029",
+    "text": "Inform IATI publishers about changes they can make to their information systems now to",
+    "bbox": [
+      108.0,
+      637.2,
+      511.9,
+      651.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b030",
+    "text": "support crisis- or theme-specific publishing guidance in the future (since such changes can",
+    "bbox": [
+      108.0,
+      653.1,
+      520.9,
+      667.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b031",
+    "text": "take several years to implement).",
+    "bbox": [
+      108.0,
+      669.0,
+      259.4,
+      682.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b032",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 7,
+    "block_id": "199_p7_b033",
+    "text": "Page 7 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b001",
+    "text": "Finding 2: IATI publishers do not share their commitments consistently",
+    "bbox": [
+      72.0,
+      72.0,
+      443.3,
+      87.1
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b002",
+    "text": "Focus area: IATI guidance",
+    "bbox": [
+      72.0,
+      95.3,
+      185.0,
+      109.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b003",
+    "text": "One of the goals of our work was to show the difference between money committed by aid",
+    "bbox": [
+      72.0,
+      121.2,
+      481.0,
+      135.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b004",
+    "text": "organizations toward the global COVID-19 response, and money actually spent. Unfortunately, IATI",
+    "bbox": [
+      72.0,
+      137.1,
+      518.9,
+      151.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b005",
+    "text": "publishers are not consistent about publishing both commitment and disbursement/expenditure",
+    "bbox": [
+      72.0,
+      153.0,
+      514.6,
+      166.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b006",
+    "text": "transactions.",
+    "bbox": [
+      72.0,
+      169.0,
+      131.6,
+      182.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b007",
+    "text": "For example, we found that WHO published information about $1.2 billion in spending, but no",
+    "bbox": [
+      72.0,
+      194.9,
+      499.6,
+      208.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b008",
+    "text": "commitments at all. That leads to two issues:",
+    "bbox": [
+      72.0,
+      210.8,
+      277.6,
+      224.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b009",
+    "text": "There is a loss of aid transparency, because it is not possible to determine how fully or quickly",
+    "bbox": [
+      108.0,
+      236.7,
+      534.1,
+      250.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b010",
+    "text": "the WHO has met its initial commitments.",
+    "bbox": [
+      108.0,
+      252.6,
+      297.7,
+      266.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b011",
+    "text": "There is a decrease in the accuracy of aggregate numbers, because WHO’s spending (without",
+    "bbox": [
+      108.0,
+      278.5,
+      529.6,
+      292.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b012",
+    "text": "corresponding commitments) exaggerates the global progress towards meeting COVID-19",
+    "bbox": [
+      108.0,
+      294.4,
+      515.8,
+      308.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b013",
+    "text": "commitments by $1.2 billion.",
+    "bbox": [
+      108.0,
+      310.3,
+      240.9,
+      324.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b014",
+    "text": "WHO is not unique. We found the same issue with many other publishers, including the Australian",
+    "bbox": [
+      72.0,
+      336.2,
+      516.1,
+      350.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b015",
+    "text": "Government, World Bank Trust Funds, the British Red Cross, and Concern Worldwide.",
+    "bbox": [
+      72.0,
+      352.1,
+      460.0,
+      365.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b016",
+    "text": "Recommendations:",
+    "bbox": [
+      72.0,
+      378.0,
+      158.7,
+      391.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b017",
+    "text": "Whenever possible, IATI publishers should share outgoing commitments as well as spending,",
+    "bbox": [
+      108.0,
+      403.9,
+      530.8,
+      417.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b018",
+    "text": "even if they happen at the same time.",
+    "bbox": [
+      108.0,
+      419.8,
+      279.6,
+      433.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b019",
+    "text": "When total outgoing commitments for an activity differ from spending, that should reflect the",
+    "bbox": [
+      108.0,
+      445.7,
+      533.3,
+      459.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b020",
+    "text": "real-world situation, not simply a lack of reporting.",
+    "bbox": [
+      108.0,
+      461.6,
+      339.4,
+      475.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b021",
+    "text": "The IATI community should discuss whether it is best practice to publish outgoing",
+    "bbox": [
+      108.0,
+      487.5,
+      479.5,
+      501.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b022",
+    "text": "commitments for planned expenses (such as salaries and travel) as well as planned",
+    "bbox": [
+      108.0,
+      503.4,
+      486.4,
+      517.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b023",
+    "text": "disbursements to other organizations, since IATI publishers often fail to distinguish the two",
+    "bbox": [
+      108.0,
+      519.3,
+      520.7,
+      533.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b024",
+    "text": "properly.",
+    "bbox": [
+      108.0,
+      535.2,
+      149.4,
+      549.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b025",
+    "text": "Next steps:",
+    "bbox": [
+      72.0,
+      561.1,
+      120.6,
+      574.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b026",
+    "text": "Update existing IATI guidance and training materials to emphasise the importance of",
+    "bbox": [
+      108.0,
+      587.0,
+      493.1,
+      600.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b027",
+    "text": "publishing outgoing commitment transactions to support aid transparency, including use",
+    "bbox": [
+      108.0,
+      602.9,
+      515.7,
+      616.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b028",
+    "text": "cases for data users.",
+    "bbox": [
+      108.0,
+      618.8,
+      200.2,
+      632.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b029",
+    "text": "Advocate for IATI report cards and dashboards to include publishing outgoing commitments as",
+    "bbox": [
+      108.0,
+      644.7,
+      539.6,
+      658.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b030",
+    "text": "a quality metric.",
+    "bbox": [
+      108.0,
+      660.6,
+      182.4,
+      674.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b031",
+    "text": "Propose an IATI extension or change to the standard to add a ‘no commitment’ flag to",
+    "bbox": [
+      108.0,
+      686.5,
+      497.1,
+      700.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b032",
+    "text": "transactions to identify legitimate exceptions.",
+    "bbox": [
+      108.0,
+      702.4,
+      316.5,
+      716.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b033",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 8,
+    "block_id": "199_p8_b034",
+    "text": "Page 8 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b001",
+    "text": "Draw attention to IATI publishers who already follow best practices with commitments as",
+    "bbox": [
+      108.0,
+      72.0,
+      513.1,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b002",
+    "text": "models for the rest of the IATI community.",
+    "bbox": [
+      108.0,
+      87.9,
+      298.9,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b003",
+    "text": "Finding 3: Splitting IATI transactions by sector and recipient country/region",
+    "bbox": [
+      72.0,
+      121.8,
+      468.2,
+      136.9
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b004",
+    "text": "Focus area: IATI guidance",
+    "bbox": [
+      72.0,
+      145.1,
+      185.0,
+      159.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b005",
+    "text": "An IATI activity may target multiple sectors and/or recipient regions or countries, and it is often difficult",
+    "bbox": [
+      72.0,
+      171.0,
+      540.0,
+      184.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b006",
+    "text": "to allocate commitments or spending accurately across those different entities. For example, IATI",
+    "bbox": [
+      72.0,
+      187.0,
+      513.6,
+      200.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b007",
+    "text": "activity CA-3-P009467001 published by Global Affairs Canada (GAC) reports funding for agricultural",
+    "bbox": [
+      72.0,
+      202.9,
+      520.3,
+      216.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b008",
+    "text": "interventions in response to COVID-19. The programme targets eight regions and five sectors, with a",
+    "bbox": [
+      72.0,
+      218.8,
+      525.7,
+      232.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b009",
+    "text": "percentage value assigned to each.3",
+    "bbox": [
+      72.0,
+      234.4,
+      234.8,
+      248.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b010",
+    "text": "When GAC reported an outgoing commitment transaction of CA $6,000,000 to the International Fund",
+    "bbox": [
+      72.0,
+      260.6,
+      528.8,
+      274.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b011",
+    "text": "for Agricultural Development (IFAD), dividing the commitment by sector and region at the same time",
+    "bbox": [
+      72.0,
+      276.5,
+      529.2,
+      290.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b012",
+    "text": "produces totals that are overly specific and unlikely to be accurate, for example $48,000 committed to",
+    "bbox": [
+      72.0,
+      292.4,
+      534.1,
+      306.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b013",
+    "text": "Agricultural policy and administrative management in the Middle East (10% of 8% of $6 million).",
+    "bbox": [
+      72.0,
+      308.3,
+      508.9,
+      322.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b014",
+    "text": "In this case, GAC reported only one commitment and one spending transaction for the activity, but in",
+    "bbox": [
+      72.0,
+      334.2,
+      530.6,
+      348.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b015",
+    "text": "many cases, IATI publishers provide default splits at the activity level when there are multiple",
+    "bbox": [
+      72.0,
+      350.1,
+      496.1,
+      363.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b016",
+    "text": "transactions of each type, further adding to the allocation difficulties. For example, if GAC had made",
+    "bbox": [
+      72.0,
+      366.0,
+      526.8,
+      379.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b017",
+    "text": "commitments to 3 different aid organizations, it would have been unlikely that 0.8% of each",
+    "bbox": [
+      72.0,
+      381.9,
+      489.3,
+      395.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b018",
+    "text": "commitment would apply to Agricultural policy and administrative management in the Middle East.",
+    "bbox": [
+      72.0,
+      397.8,
+      525.6,
+      411.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b019",
+    "text": "Recommendations:",
+    "bbox": [
+      72.0,
+      423.7,
+      158.7,
+      437.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b020",
+    "text": "If feasible, large IATI publishers (like government donors) should break programmes down into",
+    "bbox": [
+      108.0,
+      449.6,
+      538.4,
+      463.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b021",
+    "text": "smaller, more geographically-targeted units by region or country, to improve aid transparency",
+    "bbox": [
+      108.0,
+      465.5,
+      535.1,
+      479.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b022",
+    "text": "in general. Doing so would also improve the ability of donors to meet their Grand Bargain",
+    "bbox": [
+      108.0,
+      481.4,
+      513.4,
+      495.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b023",
+    "text": "localisation commitments, by having programmes that a single local or national actor could",
+    "bbox": [
+      108.0,
+      497.3,
+      525.9,
+      511.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b024",
+    "text": "apply to implement.",
+    "bbox": [
+      108.0,
+      513.2,
+      200.9,
+      527.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b025",
+    "text": "When an activity contains more than one transaction of the same type, IATI publishers should",
+    "bbox": [
+      108.0,
+      539.1,
+      532.9,
+      552.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b026",
+    "text": "include sector and recipient country/region information at the transaction level rather than",
+    "bbox": [
+      108.0,
+      555.0,
+      523.5,
+      568.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b027",
+    "text": "the activity level, to make it easier to determine how much money is going to specific sectors",
+    "bbox": [
+      108.0,
+      570.9,
+      529.7,
+      584.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b028",
+    "text": "or geographical areas.",
+    "bbox": [
+      108.0,
+      586.8,
+      209.1,
+      600.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b029",
+    "text": "3 The regions are South of Sahara (70%); South & Central Asia (9%); Middle East (8%); Far East Asia (5%); North &",
+    "bbox": [
+      72.0,
+      665.6,
+      534.5,
+      682.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b030",
+    "text": "Central America (2.5%); Oceania (2.5%); West Indies (2%), and South America (1%). The sectors are Agricultural",
+    "bbox": [
+      72.0,
+      682.3,
+      530.3,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b031",
+    "text": "inputs (25%); Agricultural services (25%); Agricultural financial services (25%); Agricultural development (15%);",
+    "bbox": [
+      72.0,
+      694.9,
+      531.7,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b032",
+    "text": "and Agricultural policy and administrative management (10%).",
+    "bbox": [
+      72.0,
+      707.4,
+      332.6,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b033",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 9,
+    "block_id": "199_p9_b034",
+    "text": "Page 9 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      534.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b001",
+    "text": "Next steps:",
+    "bbox": [
+      72.0,
+      72.0,
+      120.6,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b002",
+    "text": "Through the IATI Data Use Working Group, publish and circulate a guidance document on",
+    "bbox": [
+      108.0,
+      97.9,
+      513.8,
+      111.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b003",
+    "text": "processing IATI transactions by sector and recipient country/region to establish common best",
+    "bbox": [
+      108.0,
+      113.8,
+      533.3,
+      127.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b004",
+    "text": "practices, then propose that the IATI secretariat adopt it as official IATI guidance.",
+    "bbox": [
+      108.0,
+      129.7,
+      474.0,
+      143.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b005",
+    "text": "Advocate for IATI report cards and dashboards to add transaction-level metadata about",
+    "bbox": [
+      108.0,
+      155.6,
+      505.7,
+      169.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b006",
+    "text": "sectors and recipient countries/regions as a data-quality metric.",
+    "bbox": [
+      108.0,
+      171.5,
+      399.5,
+      185.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b007",
+    "text": "Recruit two major publishers as peer advocates to model best practices and two major data",
+    "bbox": [
+      108.0,
+      197.4,
+      524.7,
+      211.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b008",
+    "text": "users as advocates to demonstrate need.",
+    "bbox": [
+      108.0,
+      213.3,
+      294.1,
+      227.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b009",
+    "text": "Finding 4: Lack of information about transaction counterparties",
+    "bbox": [
+      72.0,
+      247.2,
+      407.8,
+      262.3
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b010",
+    "text": "Focus area: IATI guidance",
+    "bbox": [
+      72.0,
+      270.6,
+      185.0,
+      284.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b011",
+    "text": "With the exception of expenses, the IATI transaction types we considered all involve a counterparty (a",
+    "bbox": [
+      72.0,
+      296.5,
+      530.9,
+      310.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b012",
+    "text": "provider organization for incoming commitments or funding, and a receiver organization for outgoing",
+    "bbox": [
+      72.0,
+      312.4,
+      533.9,
+      326.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b013",
+    "text": "commitments or disbursements). IATI allows specifying each counterparty in up to three ways:",
+    "bbox": [
+      72.0,
+      328.3,
+      501.5,
+      342.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b014",
+    "text": "by name (e.g. “UNHCR”);",
+    "bbox": [
+      108.0,
+      354.2,
+      221.0,
+      368.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b015",
+    "text": "by organization identifier (e.g. “XM-DAC-41121”); and/or",
+    "bbox": [
+      108.0,
+      370.1,
+      361.9,
+      383.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b016",
+    "text": "by organization type (e.g. “40” for Multilateral).",
+    "bbox": [
+      108.0,
+      386.0,
+      321.3,
+      399.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b017",
+    "text": "Including this information in transactions4 is critical for aid transparency, and particularly for",
+    "bbox": [
+      72.0,
+      407.3,
+      493.5,
+      425.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b018",
+    "text": "traceability — the ability to track aid funding from its source to an actual aid activity in the field.",
+    "bbox": [
+      72.0,
+      427.8,
+      506.1,
+      441.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b019",
+    "text": "In the Spending Flows tab of our dashboard, we were able to show the counterparties as named by",
+    "bbox": [
+      72.0,
+      453.7,
+      521.6,
+      467.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b020",
+    "text": "each individual organization, but in most cases, we were unable to connect them, and could not",
+    "bbox": [
+      72.0,
+      469.6,
+      508.1,
+      483.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b021",
+    "text": "reliably include information about an organization provided by third parties. IATI publishers rarely use",
+    "bbox": [
+      72.0,
+      485.5,
+      536.1,
+      499.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b022",
+    "text": "organization identifiers in transactions (there are often none available for them to use), don’t specify",
+    "bbox": [
+      72.0,
+      501.4,
+      528.5,
+      515.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b023",
+    "text": "the organization type, and use wildly inconsistent naming conventions.",
+    "bbox": [
+      72.0,
+      517.3,
+      396.3,
+      531.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b024",
+    "text": "For example, in a recent selection of IATI activities targeting Somalia, all of the following spelling",
+    "bbox": [
+      72.0,
+      543.2,
+      510.2,
+      557.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b025",
+    "text": "variants appear for the same organization: “UNHCR”, \"UNHCR/United Nations High Commissioner for",
+    "bbox": [
+      72.0,
+      559.1,
+      532.2,
+      572.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b026",
+    "text": "Refugees\", \"UNITED NATIONS HIGH COMMISSIONER FOR REFUGEES\", \"UNO Flüchtlingshilfe\", \"United",
+    "bbox": [
+      72.0,
+      575.0,
+      530.8,
+      588.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b027",
+    "text": "Nations High Commissioner for Refugees\", \"United Nations High Commissioner for Refugees",
+    "bbox": [
+      72.0,
+      590.9,
+      491.2,
+      604.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b028",
+    "text": "(UNHCR)\", and \"United Nations Office of the United Nations High Commissioner for Refugees\".",
+    "bbox": [
+      72.0,
+      606.8,
+      499.5,
+      620.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b029",
+    "text": "Even that inconsistency is better than the other common case, where IATI publishers do not name their",
+    "bbox": [
+      72.0,
+      632.7,
+      539.9,
+      646.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b030",
+    "text": "counterparties at all, especially when they are local or national organizations.",
+    "bbox": [
+      72.0,
+      648.6,
+      425.0,
+      662.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b031",
+    "text": "4 IATI also allows using defaults from the participating organizations specified at the activity level when a",
+    "bbox": [
+      72.0,
+      690.7,
+      504.4,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b032",
+    "text": "transaction does not specify a provider or receiver organization.",
+    "bbox": [
+      72.0,
+      707.4,
+      336.2,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b033",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 10,
+    "block_id": "199_p10_b034",
+    "text": "Page 10 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b001",
+    "text": "Recommendations:",
+    "bbox": [
+      72.0,
+      72.0,
+      158.7,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b002",
+    "text": "Include the provider or receiver organizations (as appropriate) for each applicable transaction,",
+    "bbox": [
+      108.0,
+      97.9,
+      537.8,
+      111.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b003",
+    "text": "except where there is a serious security concern or other sensitivity.",
+    "bbox": [
+      108.0,
+      113.8,
+      415.3,
+      127.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b004",
+    "text": "List all participating organizations, including upstream funding organizations and downstream",
+    "bbox": [
+      108.0,
+      139.7,
+      538.5,
+      153.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b005",
+    "text": "implementing partners, for each activity, except where there is a serious security concern or",
+    "bbox": [
+      108.0,
+      155.6,
+      525.2,
+      169.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b006",
+    "text": "other sensitivity.",
+    "bbox": [
+      108.0,
+      171.5,
+      183.8,
+      185.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b007",
+    "text": "Name organizations as completely as possible (e.g. “Kenya Ministry of Health”, not just “MoH”).",
+    "bbox": [
+      108.0,
+      197.4,
+      539.2,
+      211.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b008",
+    "text": "Use organization identifiers whenever available.",
+    "bbox": [
+      108.0,
+      223.3,
+      327.1,
+      237.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b009",
+    "text": "Always include the organization type from the IATI Organization Type Codelist (e.g. code 24 for",
+    "bbox": [
+      108.0,
+      249.2,
+      536.2,
+      263.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b010",
+    "text": "a local or national NGO), even when the organization name and identifier are redacted for",
+    "bbox": [
+      108.0,
+      265.1,
+      515.5,
+      278.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b011",
+    "text": "security reasons.",
+    "bbox": [
+      108.0,
+      281.0,
+      185.1,
+      294.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b012",
+    "text": "Next steps:",
+    "bbox": [
+      72.0,
+      306.9,
+      120.6,
+      320.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b013",
+    "text": "Work with the IATI secretariat to update traceability guidance to emphasise the importance of",
+    "bbox": [
+      108.0,
+      332.8,
+      533.8,
+      346.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b014",
+    "text": "including information about transaction counterparties, and when/how to redact information",
+    "bbox": [
+      108.0,
+      348.7,
+      534.8,
+      362.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b015",
+    "text": "when necessary.",
+    "bbox": [
+      108.0,
+      364.6,
+      183.6,
+      378.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b016",
+    "text": "Improve the infrastructure for discovering organization identifiers and for creating or",
+    "bbox": [
+      108.0,
+      390.5,
+      493.2,
+      404.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b017",
+    "text": "requesting new identifiers for those organizations that do not already have one.",
+    "bbox": [
+      108.0,
+      406.4,
+      470.4,
+      420.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b018",
+    "text": "Leverage the Grand Bargain Localisation Workstream as an incentive for IATI publishers to",
+    "bbox": [
+      108.0,
+      432.3,
+      516.3,
+      446.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b019",
+    "text": "name partners more consistently (it is impossible to track localisation progress with IATI",
+    "bbox": [
+      108.0,
+      448.2,
+      508.8,
+      462.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b020",
+    "text": "unless publishers share their partners).",
+    "bbox": [
+      108.0,
+      464.1,
+      286.2,
+      477.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b021",
+    "text": "Identify IATI publishers who are already following best practices for traceability (e.g. Oxfam",
+    "bbox": [
+      108.0,
+      490.0,
+      521.0,
+      503.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b022",
+    "text": "Novib, Cordaid) and share them as models for other publishers to follow.",
+    "bbox": [
+      108.0,
+      505.9,
+      438.8,
+      519.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b023",
+    "text": "Finding 5: Limited metadata at the IATI transaction level",
+    "bbox": [
+      72.0,
+      539.8,
+      366.8,
+      554.9
+    ],
+    "font_size": 12.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b024",
+    "text": "Focus area: IATI standard",
+    "bbox": [
+      72.0,
+      563.2,
+      184.2,
+      577.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b025",
+    "text": "The IATI standard allows extensive metadata at the activity level — serving as a default for all",
+    "bbox": [
+      72.0,
+      589.1,
+      492.9,
+      602.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b026",
+    "text": "transactions — but it allows much less metadata for individual transactions within an activity. For",
+    "bbox": [
+      72.0,
+      605.0,
+      514.8,
+      618.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b027",
+    "text": "example, there is no way to associate a specific transaction with a global humanitarian crisis, a",
+    "bbox": [
+      72.0,
+      620.9,
+      502.4,
+      634.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b028",
+    "text": "humanitarian response plan, or even a free-form IATI subject tag.",
+    "bbox": [
+      72.0,
+      636.8,
+      367.8,
+      650.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b029",
+    "text": "Since all of those were part of the IATI COVID-19 guidance, the result was that publishers did not have a",
+    "bbox": [
+      72.0,
+      662.7,
+      539.3,
+      676.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b030",
+    "text": "convenient way to associate a single transaction within a large activity with the global COVID-19",
+    "bbox": [
+      72.0,
+      678.6,
+      507.5,
+      692.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b031",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 11,
+    "block_id": "199_p11_b032",
+    "text": "Page 11 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b001",
+    "text": "response, other than by using ‘COVID-19’ in the transaction description text,5 and there was likely",
+    "bbox": [
+      72.0,
+      67.4,
+      513.2,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b002",
+    "text": "significant overcounting of COVID-19 funding when only a small part of the spending in a large activity",
+    "bbox": [
+      72.0,
+      87.9,
+      535.4,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b003",
+    "text": "applied to the crisis.",
+    "bbox": [
+      72.0,
+      103.8,
+      164.2,
+      117.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b004",
+    "text": "Examples of other metadata that could be useful at the transaction level includes the original currency",
+    "bbox": [
+      72.0,
+      129.7,
+      538.0,
+      143.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b005",
+    "text": "and exchange rate, and direct relationships with transactions in other activities.",
+    "bbox": [
+      72.0,
+      145.6,
+      434.3,
+      159.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b006",
+    "text": "Recommendations:",
+    "bbox": [
+      72.0,
+      171.5,
+      158.7,
+      185.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b007",
+    "text": "Allow the inclusion of more metadata at the IATI transaction level, including tags and",
+    "bbox": [
+      108.0,
+      197.4,
+      493.9,
+      211.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b008",
+    "text": "humanitarian profiles.",
+    "bbox": [
+      108.0,
+      213.3,
+      209.9,
+      227.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b009",
+    "text": "Next steps:",
+    "bbox": [
+      72.0,
+      239.2,
+      120.6,
+      253.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b010",
+    "text": "Since IATI standard development is slow, begin by developing, documenting, and propagating",
+    "bbox": [
+      108.0,
+      265.1,
+      535.9,
+      278.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b011",
+    "text": "an IATI extension6 that adds a collection of useful metadata at the transaction level.",
+    "bbox": [
+      108.0,
+      276.4,
+      486.6,
+      294.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b012",
+    "text": "Create an IATI extension registry to raise visibility and avoid duplicate work.",
+    "bbox": [
+      108.0,
+      306.9,
+      451.0,
+      320.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b013",
+    "text": "Recruit two major IATI publishers to use the extension, to add credibility.",
+    "bbox": [
+      108.0,
+      332.8,
+      438.3,
+      346.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b014",
+    "text": "Advocate for two key IATI data users (such as d-portal) to take advantage of the extension, to",
+    "bbox": [
+      108.0,
+      358.7,
+      527.6,
+      372.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b015",
+    "text": "demonstrate its value.",
+    "bbox": [
+      108.0,
+      374.6,
+      209.4,
+      388.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b016",
+    "text": "Once the extension is in use, present it as evidence to advocate for an official change to the",
+    "bbox": [
+      108.0,
+      400.5,
+      521.0,
+      414.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b017",
+    "text": "IATI standard to support better transaction-level metadata.",
+    "bbox": [
+      108.0,
+      416.4,
+      376.7,
+      430.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b018",
+    "text": "4. Conclusion",
+    "bbox": [
+      72.0,
+      452.8,
+      191.8,
+      474.5
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b019",
+    "text": "The unprecedented scale of the COVID-19 pandemic shows why a global, multi-stakeholder data",
+    "bbox": [
+      72.0,
+      483.9,
+      509.5,
+      497.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b020",
+    "text": "standard is needed. Our work to create the dashboard and data story about COVID-19 funding would",
+    "bbox": [
+      72.0,
+      499.8,
+      528.8,
+      513.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b021",
+    "text": "not have been possible without the IATI standard and the hard work of its publishers. The Centre looks",
+    "bbox": [
+      72.0,
+      515.7,
+      538.0,
+      529.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b022",
+    "text": "forward to collaborating with the IATI community to make improvements to the standard and related",
+    "bbox": [
+      72.0,
+      531.6,
+      531.7,
+      545.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b023",
+    "text": "guidance so that valuable insights about aid activities are easier to generate and enable quicker",
+    "bbox": [
+      72.0,
+      547.5,
+      507.1,
+      561.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b024",
+    "text": "decisions.",
+    "bbox": [
+      72.0,
+      563.4,
+      117.9,
+      577.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b025",
+    "text": "We are especially grateful to the many stakeholders who provided input and feedback over the course",
+    "bbox": [
+      72.0,
+      589.3,
+      535.3,
+      603.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b026",
+    "text": "of this project. We would also like to acknowledge the guidance and support we received from the",
+    "bbox": [
+      72.0,
+      605.2,
+      517.5,
+      619.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b027",
+    "text": "United States Agency for International Development.",
+    "bbox": [
+      72.0,
+      621.1,
+      312.6,
+      634.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b028",
+    "text": "6 An IATI extension is a collection of additional markup that publishers can add to their IATI reports, using an XML",
+    "bbox": [
+      72.0,
+      690.7,
+      534.6,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b029",
+    "text": "Namespace to distinguish it from the primary IATI markup to avoid conflict or incompatibilities.",
+    "bbox": [
+      72.0,
+      707.4,
+      466.3,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b030",
+    "text": "5 Or later in the pandemic, via the use of a dubious OECD-DAC sector code for a COVID-19 pseudo-sector, which",
+    "bbox": [
+      72.0,
+      665.6,
+      528.6,
+      682.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b031",
+    "text": "further confuses the sector breakdowns described in Finding #1.",
+    "bbox": [
+      72.0,
+      682.3,
+      337.7,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b032",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 12,
+    "block_id": "199_p12_b033",
+    "text": "Page 12 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b001",
+    "text": "Annex A: IATI Transaction Types",
+    "bbox": [
+      72.0,
+      72.5,
+      361.0,
+      94.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b002",
+    "text": "The IATI transaction types that we were interested in for this project were incoming commitments",
+    "bbox": [
+      72.0,
+      103.6,
+      521.2,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b003",
+    "text": "(promises to pay money into an activity), incoming funding (actuals transfers of money into an",
+    "bbox": [
+      72.0,
+      119.5,
+      505.7,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b004",
+    "text": "activity), outgoing commitments (promises to pay money out of an activity), disbursements (actual",
+    "bbox": [
+      72.0,
+      135.4,
+      532.0,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b005",
+    "text": "transfers of money out an activity), and expenses (operating costs paid directly by the activity).",
+    "bbox": [
+      72.0,
+      151.3,
+      505.2,
+      165.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b006",
+    "text": "Typically, transactions come from or go to a different aid organization than the one reporting the",
+    "bbox": [
+      72.0,
+      167.2,
+      511.5,
+      181.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b007",
+    "text": "activity, but that is not always the case.",
+    "bbox": [
+      72.0,
+      183.1,
+      250.5,
+      196.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b008",
+    "text": "Because IATI publishers do not consistently distinguish between disbursements and expenses, we",
+    "bbox": [
+      72.0,
+      209.0,
+      517.0,
+      222.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b009",
+    "text": "combine them in the dashboard and data story into a single pseudo-transaction type “spending.”",
+    "bbox": [
+      72.0,
+      224.9,
+      516.1,
+      238.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b010",
+    "text": "Each activity contains zero or more transactions. Many types of metadata, such as the target sectors or",
+    "bbox": [
+      72.0,
+      250.8,
+      537.7,
+      264.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b011",
+    "text": "recipient countries, may appear at either the activity or the transaction level.",
+    "bbox": [
+      72.0,
+      266.7,
+      421.5,
+      280.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b012",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 13,
+    "block_id": "199_p13_b013",
+    "text": "Page 13 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b001",
+    "text": "Annex B: Methodology Highlights",
+    "bbox": [
+      72.0,
+      72.5,
+      370.0,
+      94.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b002",
+    "text": "This section describes the algorithms and general methodology we used to process IATI data to",
+    "bbox": [
+      72.0,
+      103.6,
+      504.8,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b003",
+    "text": "produce aggregate figures, and will be of interest primarily to software developers,",
+    "bbox": [
+      72.0,
+      119.5,
+      447.6,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b004",
+    "text": "information-management specialists, and financial professionals.",
+    "bbox": [
+      72.0,
+      135.4,
+      371.4,
+      149.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b005",
+    "text": "The Centre shares all of the source code for this dashboard as open source software. Data is extracted",
+    "bbox": [
+      72.0,
+      161.3,
+      532.5,
+      175.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b006",
+    "text": "from d-portal.org and transformed every 24 hours.",
+    "bbox": [
+      72.0,
+      177.2,
+      302.1,
+      191.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b007",
+    "text": "For more information, view our public GitHub repositories:",
+    "bbox": [
+      72.0,
+      205.1,
+      339.3,
+      218.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b008",
+    "text": "Data processing scripts",
+    "bbox": [
+      108.0,
+      233.0,
+      213.3,
+      246.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b009",
+    "text": "Prepared data (automatically updated every 24 hours)",
+    "bbox": [
+      108.0,
+      248.9,
+      354.8,
+      262.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b010",
+    "text": "Activities and transactions — transactions.csv | transactions.json",
+    "bbox": [
+      144.0,
+      264.8,
+      438.2,
+      278.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b011",
+    "text": "Financial flows — flows.csv | flows.json",
+    "bbox": [
+      144.0,
+      280.7,
+      321.2,
+      294.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b012",
+    "text": "Data visualization front end",
+    "bbox": [
+      108.0,
+      296.6,
+      233.6,
+      310.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b013",
+    "text": "Data story source code",
+    "bbox": [
+      108.0,
+      312.5,
+      211.7,
+      326.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b014",
+    "text": "This section contains highlights only. For a full description of our processing methodology, see the",
+    "bbox": [
+      72.0,
+      338.4,
+      518.6,
+      352.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b015",
+    "text": "dashboard’s About page):",
+    "bbox": [
+      72.0,
+      354.3,
+      188.8,
+      368.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b016",
+    "text": "Data preparation: We run GitHub actions daily to extract IATI data from the D-Portal service,",
+    "bbox": [
+      108.0,
+      380.2,
+      528.3,
+      394.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b017",
+    "text": "transform it into CSV- and JSON-formatted reports, and then store it in GitHub Pages,",
+    "bbox": [
+      108.0,
+      396.1,
+      494.9,
+      409.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b018",
+    "text": "accessible over the Web.",
+    "bbox": [
+      108.0,
+      412.0,
+      219.6,
+      425.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b019",
+    "text": "Date limit: We include only outgoing financial transactions (types 3 or 4) dated after",
+    "bbox": [
+      108.0,
+      437.9,
+      490.8,
+      451.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b020",
+    "text": "2020-01-01, to ensure relevance to the pandemic.",
+    "bbox": [
+      108.0,
+      453.8,
+      332.6,
+      467.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b021",
+    "text": "Currency: Unless they are already denominated in US dollars (USD), the dashboard converts",
+    "bbox": [
+      108.0,
+      479.7,
+      529.3,
+      493.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b022",
+    "text": "all transaction values to USD before performing any other operations.",
+    "bbox": [
+      108.0,
+      495.6,
+      424.6,
+      509.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b023",
+    "text": "Relevance: We follow the IATI COVID-19 Guidance for IATI Publishers and later additions to the",
+    "bbox": [
+      108.0,
+      521.5,
+      537.1,
+      535.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b024",
+    "text": "OECD-DAC sector codes, and flag all matches as strictly-relevant, with the following",
+    "bbox": [
+      108.0,
+      537.4,
+      486.8,
+      551.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b025",
+    "text": "exceptions:",
+    "bbox": [
+      108.0,
+      553.3,
+      160.0,
+      567.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b026",
+    "text": "If the string “COVID-19” appears only in the activity description, and the activity or",
+    "bbox": [
+      144.0,
+      569.2,
+      517.3,
+      583.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b027",
+    "text": "transaction meets none of the other IATI guidance, we flag it only as loosely-relevant.",
+    "bbox": [
+      144.0,
+      585.1,
+      530.8,
+      598.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b028",
+    "text": "If the string “COVID” or “CORONAVIRUS” appears in the activity title or in the activity or",
+    "bbox": [
+      144.0,
+      601.0,
+      538.3,
+      614.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b029",
+    "text": "transaction description, we also flag it as loosely relevant.",
+    "bbox": [
+      144.0,
+      616.9,
+      407.6,
+      630.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b030",
+    "text": "Spending: The dashboard does not make a distinction between disbursement and expense",
+    "bbox": [
+      108.0,
+      642.8,
+      524.6,
+      656.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b031",
+    "text": "transactions (types 3 or 4 in the IATI Transaction Type Codelist), but treat both as “spending”",
+    "bbox": [
+      108.0,
+      658.7,
+      528.4,
+      672.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b032",
+    "text": "for the sake of this dashboard.",
+    "bbox": [
+      108.0,
+      674.6,
+      246.2,
+      688.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b033",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 14,
+    "block_id": "199_p14_b034",
+    "text": "Page 14 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b001",
+    "text": "Sector simplification: We have simplified the sectors, rolling them up to the top-level",
+    "bbox": [
+      108.0,
+      72.0,
+      499.5,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b002",
+    "text": "OECD-DAC sector groups, to make the aggregated totals more usable.",
+    "bbox": [
+      108.0,
+      87.9,
+      423.8,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b003",
+    "text": "Allocation to sectors and recipient countries: If an activity lists multiple sectors and/or",
+    "bbox": [
+      108.0,
+      115.8,
+      511.0,
+      129.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b004",
+    "text": "recipient countries, the dashboard divides each transaction by the percentages given for both.",
+    "bbox": [
+      108.0,
+      131.7,
+      536.7,
+      145.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b005",
+    "text": "The sectors and recipient countries for the transaction are used if provided at the transaction",
+    "bbox": [
+      108.0,
+      147.6,
+      531.2,
+      161.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b006",
+    "text": "level, and otherwise the dashboard defaults to those used at the activity level.",
+    "bbox": [
+      108.0,
+      163.5,
+      463.3,
+      177.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b007",
+    "text": "Deduplication: we subtract the larger of incoming commitments or incoming spending from",
+    "bbox": [
+      108.0,
+      191.4,
+      529.8,
+      205.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b008",
+    "text": "outgoing commitments and from outgoing spending to determine the net new commitments",
+    "bbox": [
+      108.0,
+      207.3,
+      527.8,
+      221.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b009",
+    "text": "and net new spending that an activity contributes to a sector, recipient country, or the overall",
+    "bbox": [
+      108.0,
+      223.2,
+      530.0,
+      237.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b010",
+    "text": "response. We do not perform deduplication when showing results only for a single",
+    "bbox": [
+      108.0,
+      239.1,
+      482.1,
+      252.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b011",
+    "text": "organization.",
+    "bbox": [
+      108.0,
+      255.0,
+      168.2,
+      268.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b012",
+    "text": "Internal transactions: in the flows tab, we exclude internal transactions (where the provider",
+    "bbox": [
+      108.0,
+      282.9,
+      530.5,
+      296.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b013",
+    "text": "and receiver organization are the same) whenever we are able to detect them.",
+    "bbox": [
+      108.0,
+      298.8,
+      462.5,
+      312.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b014",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 15,
+    "block_id": "199_p15_b015",
+    "text": "Page 15 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b001",
+    "text": "Annex C: Stakeholder Consultations",
+    "bbox": [
+      72.0,
+      72.5,
+      389.4,
+      94.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Arvo",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b002",
+    "text": "The Centre conducted two rounds of stakeholder consultations, one before and one after the technical",
+    "bbox": [
+      72.0,
+      103.6,
+      538.1,
+      117.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b003",
+    "text": "implementation of the IATI COVID-19 Funding Dashboard.",
+    "bbox": [
+      72.0,
+      119.5,
+      333.8,
+      133.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b004",
+    "text": "The first round of consultations, in late 2020, involved interviews with seven IATI stakeholders.7 The",
+    "bbox": [
+      72.0,
+      140.8,
+      531.6,
+      159.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b005",
+    "text": "main focus was on the earlier version of the dashboard and the extent to which it met the",
+    "bbox": [
+      72.0,
+      161.3,
+      477.6,
+      175.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b006",
+    "text": "organizations’ needs. From those discussions, the following key points emerged:",
+    "bbox": [
+      72.0,
+      177.2,
+      438.3,
+      191.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b007",
+    "text": "A tool like this was important for donors and other aid organizations to understand the wider",
+    "bbox": [
+      108.0,
+      203.1,
+      530.4,
+      216.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b008",
+    "text": "context of the COVID-19 financial response and the quality/usefulness of IATI data sharing.",
+    "bbox": [
+      108.0,
+      219.0,
+      517.6,
+      232.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b009",
+    "text": "Key headline figures (like the total funding to date) are valuable.",
+    "bbox": [
+      108.0,
+      244.9,
+      399.3,
+      258.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b010",
+    "text": "Users are most interested in looking at their own data first.",
+    "bbox": [
+      108.0,
+      270.8,
+      374.6,
+      284.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b011",
+    "text": "The presentation of financial flows between organizations was valuable.",
+    "bbox": [
+      108.0,
+      296.7,
+      436.4,
+      310.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b012",
+    "text": "IATI-specific terminology alienated many users.",
+    "bbox": [
+      108.0,
+      322.6,
+      324.2,
+      336.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b013",
+    "text": "Users were disappointed at the lack of time-series data (in the context of an ongoing",
+    "bbox": [
+      108.0,
+      348.5,
+      491.1,
+      362.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b014",
+    "text": "pandemic).",
+    "bbox": [
+      108.0,
+      364.4,
+      160.0,
+      378.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b015",
+    "text": "There was little user retention: once users visited the dashboard once, they were unlikely to",
+    "bbox": [
+      108.0,
+      390.3,
+      524.1,
+      404.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b016",
+    "text": "return.",
+    "bbox": [
+      108.0,
+      406.2,
+      139.3,
+      420.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b017",
+    "text": "In response to these findings, we made several changes to the dashboard:",
+    "bbox": [
+      72.0,
+      432.1,
+      408.2,
+      445.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b018",
+    "text": "We used only information from IATI publishers, so that all the data came from the same",
+    "bbox": [
+      108.0,
+      458.0,
+      504.5,
+      471.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b019",
+    "text": "ecosystem, and we would be able to “hold up a mirror” to IATI data.",
+    "bbox": [
+      108.0,
+      473.9,
+      415.3,
+      487.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b020",
+    "text": "We simplified options for filtering and displaying data, and added pop-up help.",
+    "bbox": [
+      108.0,
+      499.8,
+      467.1,
+      513.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b021",
+    "text": "We removed most of the IATI-specific terminology and replaced it with",
+    "bbox": [
+      108.0,
+      525.7,
+      428.2,
+      539.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b022",
+    "text": "more-broadly-accessible language.",
+    "bbox": [
+      108.0,
+      541.6,
+      268.3,
+      555.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b023",
+    "text": "We simplified pages to reduce the need for scrolling.",
+    "bbox": [
+      108.0,
+      567.5,
+      346.0,
+      581.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b024",
+    "text": "We preserved the ability of the original dashboard to bookmark specific data views, so that",
+    "bbox": [
+      108.0,
+      593.4,
+      521.7,
+      607.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b025",
+    "text": "(for example) a user could bookmark their own data and come back to it later to see how it had",
+    "bbox": [
+      108.0,
+      609.3,
+      539.5,
+      623.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b026",
+    "text": "changed.",
+    "bbox": [
+      108.0,
+      625.2,
+      150.2,
+      639.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b027",
+    "text": "7 The stakeholders interviewed in the first round were Development Initiatives (DI), the Directorate-General for",
+    "bbox": [
+      72.0,
+      665.6,
+      527.3,
+      682.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b028",
+    "text": "European Civil Protection and Aid Operations (DG-ECHO), the International Rescue Committee (IRC), the",
+    "bbox": [
+      72.0,
+      682.3,
+      502.4,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b029",
+    "text": "Netherlands Ministry of Foreign Affairs (NL-MFA), the United States Agency for International Development",
+    "bbox": [
+      72.0,
+      694.9,
+      506.3,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b030",
+    "text": "(USAID), the UN Refugee Agency (UNHCR), and the World Health Organization (WHO).",
+    "bbox": [
+      72.0,
+      707.4,
+      423.7,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b031",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 16,
+    "block_id": "199_p16_b032",
+    "text": "Page 16 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b001",
+    "text": "The second round of consultations, in the second quarter of 2021, involved five IATI stakeholders,",
+    "bbox": [
+      72.0,
+      72.0,
+      521.2,
+      85.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b002",
+    "text": "some of whom were also in the first round.8 The main focus areas were demonstrating the updated",
+    "bbox": [
+      72.0,
+      83.3,
+      521.2,
+      101.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b003",
+    "text": "version of the dashboard, soliciting feedback, and providing recommendations for each organization’s",
+    "bbox": [
+      72.0,
+      103.8,
+      537.3,
+      117.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b004",
+    "text": "own IATI publishing based on our findings. The following key points emerged from the second round:",
+    "bbox": [
+      72.0,
+      119.7,
+      531.4,
+      133.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b005",
+    "text": "Stakeholders considered the dashboard useful, and could see ways to integrate it into their",
+    "bbox": [
+      108.0,
+      145.6,
+      521.6,
+      159.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b006",
+    "text": "own planning and operations:",
+    "bbox": [
+      108.0,
+      161.5,
+      245.0,
+      175.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b007",
+    "text": "“Eye opening, now I can go back and ask for extra capacity to make it so we can actually",
+    "bbox": [
+      144.0,
+      177.4,
+      535.9,
+      191.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b008",
+    "text": "publish transactions.”",
+    "bbox": [
+      144.0,
+      193.3,
+      241.0,
+      207.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b009",
+    "text": "“Our direct expenditure is remarkably large. That goes contrary to everything about local",
+    "bbox": [
+      144.0,
+      209.2,
+      539.7,
+      223.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b010",
+    "text": "humanitarian leadership.”",
+    "bbox": [
+      144.0,
+      225.1,
+      261.2,
+      238.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b011",
+    "text": "Simplifying the content (reduced scrolling) and using only IATI data significantly improved",
+    "bbox": [
+      108.0,
+      251.0,
+      518.0,
+      264.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b012",
+    "text": "usability.",
+    "bbox": [
+      108.0,
+      266.9,
+      149.6,
+      280.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b013",
+    "text": "Some users were able to find errors in their own IATI reporting quickly, in a way that they had",
+    "bbox": [
+      108.0,
+      292.8,
+      530.8,
+      306.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b014",
+    "text": "not easily been able to do before.",
+    "bbox": [
+      108.0,
+      308.7,
+      259.7,
+      322.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b015",
+    "text": "The new timeline chart was popular.",
+    "bbox": [
+      108.0,
+      334.6,
+      274.1,
+      348.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b016",
+    "text": "The “quick filters” shortcuts that we added to help users get quick results were little used.",
+    "bbox": [
+      108.0,
+      360.5,
+      516.0,
+      374.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b017",
+    "text": "The summary “doughnut charts” that we introduced caused confusion.",
+    "bbox": [
+      108.0,
+      386.4,
+      432.3,
+      400.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b018",
+    "text": "While significantly simpler, the logic of results filtering was still not clear to all users.9",
+    "bbox": [
+      108.0,
+      412.1,
+      492.9,
+      426.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b019",
+    "text": "Desire to see commitments as well as spending on the flows tab.",
+    "bbox": [
+      108.0,
+      438.2,
+      401.1,
+      452.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b020",
+    "text": "It was not possible to do a further major redesign after the second round of consultations, but we did",
+    "bbox": [
+      72.0,
+      464.1,
+      530.6,
+      477.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b021",
+    "text": "make some improvements and recorded the feedback (positive and negative) to help us improve the",
+    "bbox": [
+      72.0,
+      480.0,
+      529.6,
+      493.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b022",
+    "text": "usability of future dashboards, including possible later versions of this one for other crises and",
+    "bbox": [
+      72.0,
+      495.9,
+      501.5,
+      509.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b023",
+    "text": "themes.",
+    "bbox": [
+      72.0,
+      511.8,
+      109.1,
+      525.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b024",
+    "text": "9 It is possible that presenting users with a set of filters is never a good user experience for people who are not",
+    "bbox": [
+      72.0,
+      678.1,
+      523.9,
+      694.9
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b025",
+    "text": "information-management specialists, no matter how a site presents them. This area deserves more",
+    "bbox": [
+      72.0,
+      694.9,
+      482.3,
+      707.4
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b026",
+    "text": "user-experience research.",
+    "bbox": [
+      72.0,
+      707.4,
+      178.7,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b027",
+    "text": "8 The stakeholders interviewed in the second round were the Danish Refugee Council (DRC), NL-MFA, Oxfam",
+    "bbox": [
+      72.0,
+      653.0,
+      515.5,
+      669.7
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b028",
+    "text": "Novib, UNHCR, and WHO.",
+    "bbox": [
+      72.0,
+      669.7,
+      177.9,
+      682.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b029",
+    "text": "The Centre for Humanitarian Data | Join our mailing list | Twitter: @humdata | Email: centrehumdata@un.org",
+    "bbox": [
+      72.0,
+      734.4,
+      432.0,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "199",
+    "page_number": 17,
+    "block_id": "199_p17_b030",
+    "text": "Page 17 of 17",
+    "bbox": [
+      495.2,
+      734.4,
+      538.6,
+      744.5
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

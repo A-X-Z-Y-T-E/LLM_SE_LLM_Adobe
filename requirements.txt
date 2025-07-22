@@ -30,3 +30,13 @@ ipykernel==6.25.2
 # time - built-in
 # collections - built-in
 # logging - built-in
+
+openai>=1.0.0
+google-cloud-vision>=3.0.0
+PyMuPDF>=1.23.0
+datasets>=2.14.0
+pandas>=2.0.0
+aiohttp>=3.8.0
+huggingface_hub>=0.16.0
+Pillow>=10.0.0
+numpy>=1.24.0

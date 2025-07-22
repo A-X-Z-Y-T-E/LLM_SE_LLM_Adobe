@@ -1,0 +1,7787 @@
+[
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b001",
+    "text": "IT Security Handbook",
+    "bbox": [
+      160.8,
+      165.5,
+      587.8,
+      229.5
+    ],
+    "font_size": 48.0,
+    "font_name": "Calibri",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b002",
+    "text": "Security Assessment and Authorization",
+    "bbox": [
+      115.9,
+      324.0,
+      501.9,
+      356.1
+    ],
+    "font_size": 24.0,
+    "font_name": "Calibri",
+    "label": "H2"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b003",
+    "text": "ITS-HBK-2810.02-01 ­",
+    "bbox": [
+      36.0,
+      647.8,
+      122.8,
+      661.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b004",
+    "text": "Effective Date: 20110506 ­",
+    "bbox": [
+      36.0,
+      660.0,
+      144.0,
+      673.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b005",
+    "text": "Expiration Date: 20130506 ­",
+    "bbox": [
+      36.0,
+      672.2,
+      149.9,
+      685.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 1,
+    "block_id": "316_p1_b006",
+    "text": "Responsible Office: OCIO/ Deputy CIO for Information Technology Security",
+    "bbox": [
+      36.0,
+      684.4,
+      340.9,
+      697.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01)",
+    "bbox": [
+      233.2,
+      37.5,
+      380.8,
+      47.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b002",
+    "text": "Security Assessment and Authorization",
+    "bbox": [
+      226.8,
+      49.7,
+      387.4,
+      59.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b003",
+    "text": "Change History",
+    "bbox": [
+      36.0,
+      62.9,
+      137.2,
+      76.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b004",
+    "text": "Version",
+    "bbox": [
+      36.0,
+      81.4,
+      69.9,
+      91.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b005",
+    "text": "Date",
+    "bbox": [
+      173.6,
+      81.4,
+      195.5,
+      91.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b006",
+    "text": "Change Description",
+    "bbox": [
+      311.4,
+      81.4,
+      394.1,
+      91.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b007",
+    "text": "1.0",
+    "bbox": [
+      36.0,
+      94.0,
+      50.8,
+      104.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b008",
+    "text": "5/2/11",
+    "bbox": [
+      173.6,
+      94.0,
+      203.7,
+      104.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 3,
+    "block_id": "316_p3_b009",
+    "text": "Initial Draft",
+    "bbox": [
+      311.4,
+      94.0,
+      359.4,
+      104.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      233.2,
+      35.0,
+      384.4,
+      48.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      226.8,
+      47.2,
+      390.9,
+      60.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b003",
+    "text": "Table of Contents",
+    "bbox": [
+      36.0,
+      62.9,
+      151.3,
+      76.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b004",
+    "text": "Change History...........................................................................................................................................................................................2 ­",
+    "bbox": [
+      36.0,
+      78.3,
+      581.0,
+      91.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b005",
+    "text": "Introduction and Background .......................................................................................................................................................4",
+    "bbox": [
+      69.0,
+      99.8,
+      577.6,
+      109.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b006",
+    "text": "Security Assessments (CA-2).........................................................................................................................................................5",
+    "bbox": [
+      69.0,
+      118.9,
+      577.5,
+      128.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b007",
+    "text": "Information System Connections (CA-3).......................................................................................................................................5",
+    "bbox": [
+      69.0,
+      138.0,
+      577.6,
+      147.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b008",
+    "text": "Plan of Action and Milestones (CA-5) ...........................................................................................................................................6",
+    "bbox": [
+      69.0,
+      156.9,
+      577.6,
+      166.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b009",
+    "text": "Security Authorization (CA-6) .......................................................................................................................................................7",
+    "bbox": [
+      69.0,
+      176.0,
+      577.6,
+      186.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b010",
+    "text": "Continuous Monitoring (CA-7)......................................................................................................................................................7",
+    "bbox": [
+      69.0,
+      195.1,
+      577.6,
+      205.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 4,
+    "block_id": "316_p4_b011",
+    "text": "Organizationally Defined Values...................................................................................................................................................8",
+    "bbox": [
+      69.0,
+      214.1,
+      577.6,
+      224.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      233.2,
+      35.1,
+      384.4,
+      48.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      226.8,
+      47.4,
+      390.9,
+      60.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b003",
+    "text": "1 \u0007",
+    "bbox": [
+      36.0,
+      59.1,
+      50.1,
+      76.4
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b004",
+    "text": "Introduction and Background",
+    "bbox": [
+      108.0,
+      62.8,
+      288.1,
+      75.8
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b005",
+    "text": "1.1 ­",
+    "bbox": [
+      36.0,
+      77.0,
+      54.4,
+      90.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b006",
+    "text": "NASA requirements for protecting the security of NASA information and information systems are derived from",
+    "bbox": [
+      108.0,
+      79.5,
+      558.6,
+      89.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b007",
+    "text": "National Institute of Standards and Technology (NIST) guidance. Information System Owners (ISOs) and other",
+    "bbox": [
+      108.0,
+      93.4,
+      555.9,
+      103.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b008",
+    "text": "personnel responsible for the protection of NASA information or information systems shall follow NIST guidance in",
+    "bbox": [
+      108.0,
+      107.5,
+      575.5,
+      117.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b009",
+    "text": "the proper security categorization (Federal Information Processing Standards (FIPS) 199, Standards for Security",
+    "bbox": [
+      108.0,
+      121.5,
+      559.1,
+      131.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b010",
+    "text": "Categorization for Federal Information and Information Systems), and in the selection and implementation of",
+    "bbox": [
+      108.0,
+      135.6,
+      553.1,
+      145.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b011",
+    "text": "information security controls (FIPS 200, Minimum Security Requirements for Federal Information and Information",
+    "bbox": [
+      108.0,
+      149.6,
+      569.5,
+      159.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b012",
+    "text": "Systems and NIST Special Publication (SP) 800-53, Recommended Security Controls for Federal Information Systems",
+    "bbox": [
+      108.0,
+      163.7,
+      575.1,
+      173.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b013",
+    "text": "and Organizations), in a manner consistent with the Risk Management Framework (NIST SP 800-37, Guide for",
+    "bbox": [
+      108.0,
+      177.7,
+      553.6,
+      187.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b014",
+    "text": "Applying the Risk Management Framework to Federal Information Systems).",
+    "bbox": [
+      108.0,
+      191.7,
+      419.6,
+      201.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b015",
+    "text": "1.2 ­",
+    "bbox": [
+      36.0,
+      203.3,
+      54.4,
+      216.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b016",
+    "text": "This handbook augments NIST guidance by providing NASA-specific requirements, procedures and",
+    "bbox": [
+      108.0,
+      205.8,
+      508.6,
+      215.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b017",
+    "text": "recommendations, where applicable. NASA-specific guidance does not negate NIST guidance, unless explicitly",
+    "bbox": [
+      108.0,
+      219.8,
+      557.1,
+      229.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b018",
+    "text": "stated.",
+    "bbox": [
+      108.0,
+      233.9,
+      138.3,
+      243.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b019",
+    "text": "1.3 ­",
+    "bbox": [
+      36.0,
+      245.4,
+      54.4,
+      258.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b020",
+    "text": "NASA Policy Directive (NPD) 2810.1, NASA Information Security Policy, NASA Procedural Requirements (NPR)",
+    "bbox": [
+      108.0,
+      247.9,
+      547.7,
+      257.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b021",
+    "text": "2810.1, Security of Information Technology, and the collection of 2810 Information Technology Handbooks (ITS­",
+    "bbox": [
+      108.0,
+      262.0,
+      561.0,
+      272.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b022",
+    "text": "HBK) satisfy the policy and procedure controls of NIST SP 800-53, Recommended Security Controls for Federal",
+    "bbox": [
+      108.0,
+      276.0,
+      552.9,
+      286.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b023",
+    "text": "Information Systems and Organizations.",
+    "bbox": [
+      108.0,
+      290.0,
+      272.7,
+      300.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b024",
+    "text": "1.4 ­",
+    "bbox": [
+      36.0,
+      301.6,
+      54.4,
+      314.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b025",
+    "text": "NPR 2810.1, Security of Information Technology, designates this handbook as a guide of NASA’s Security",
+    "bbox": [
+      108.0,
+      304.1,
+      531.8,
+      314.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b026",
+    "text": "Assessment and Authorization (CA) information security controls.",
+    "bbox": [
+      108.0,
+      318.1,
+      375.8,
+      328.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b027",
+    "text": "1.5 ­",
+    "bbox": [
+      36.0,
+      329.7,
+      54.4,
+      342.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b028",
+    "text": "The terms “shall” and “may” within this handbook are used as defined in ITS-HBK-0001, Format and Procedures for",
+    "bbox": [
+      108.0,
+      332.2,
+      575.9,
+      342.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b029",
+    "text": "IT Security Policies and Handbooks.",
+    "bbox": [
+      108.0,
+      346.2,
+      252.3,
+      356.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b030",
+    "text": "1.6 ­",
+    "bbox": [
+      36.0,
+      357.7,
+      54.4,
+      371.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b031",
+    "text": "The Security Assessment and Authorization control family relates to the activities and requirements surrounding",
+    "bbox": [
+      108.0,
+      360.3,
+      566.3,
+      370.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b032",
+    "text": "the routine testing of security controls, the continuous monitoring of system security posture, and the ongoing",
+    "bbox": [
+      108.0,
+      374.3,
+      560.3,
+      384.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b033",
+    "text": "risk-based decisions to approve or deny the use of a system. Officials within the NASA community are responsible",
+    "bbox": [
+      108.0,
+      388.3,
+      573.3,
+      398.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b034",
+    "text": "for continuously ensuring the effectiveness of security control implementations throughout the life cycle of a",
+    "bbox": [
+      108.0,
+      402.4,
+      552.8,
+      412.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b035",
+    "text": "system. Moreover, in light of an ever-changing security landscape, designated NASA officials should always be",
+    "bbox": [
+      108.0,
+      416.4,
+      558.5,
+      426.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b036",
+    "text": "prepared to determine the impact of a system’s operation on the success of the NASA mission.",
+    "bbox": [
+      108.0,
+      430.5,
+      494.9,
+      440.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b037",
+    "text": "1.7 ­",
+    "bbox": [
+      36.0,
+      456.0,
+      54.4,
+      469.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b038",
+    "text": "Applicable Documents",
+    "bbox": [
+      108.0,
+      458.6,
+      203.4,
+      468.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b039",
+    "text": "NPD 2810.1, NASA Information Security Policy",
+    "bbox": [
+      108.0,
+      473.3,
+      296.2,
+      483.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b040",
+    "text": "NPR 2810.1, Security of Information Technology",
+    "bbox": [
+      108.0,
+      487.8,
+      303.9,
+      497.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b041",
+    "text": "ITS-HBK-0001, Format and Procedures for IT Security Policies and Handbooks",
+    "bbox": [
+      108.0,
+      502.4,
+      420.4,
+      512.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b042",
+    "text": "ITS-HBK-2810.02-02, Security Assessment and Authorization: FIPS 199 Moderate & High Systems",
+    "bbox": [
+      108.0,
+      516.9,
+      499.9,
+      526.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b043",
+    "text": "ITS-HBK-2810.02-03, Security Assessment and Authorization: FIPS 199 Low Systems",
+    "bbox": [
+      108.0,
+      531.6,
+      445.9,
+      541.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b044",
+    "text": "ITS-HBK-2810.02-04, Security Assessment and Authorization: Continuous Monitoring – Annual Security Control \u0007",
+    "bbox": [
+      108.0,
+      543.5,
+      558.6,
+      556.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b045",
+    "text": "Assessments \u0007",
+    "bbox": [
+      108.0,
+      557.6,
+      164.1,
+      570.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b046",
+    "text": "ITS-HBK-2810.02-05, Security Assessment and Authorization: External Information Systems",
+    "bbox": [
+      108.0,
+      574.8,
+      476.8,
+      584.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b047",
+    "text": "ITS-HBK-2810.02-06, Security Assessment and Authorization: Extending an Information System Authorization to",
+    "bbox": [
+      108.0,
+      589.3,
+      560.6,
+      599.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b048",
+    "text": "Operate Process and Templates",
+    "bbox": [
+      108.0,
+      603.2,
+      238.2,
+      613.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b049",
+    "text": "ITS-HBK-2810.02-07, Security Assessment and Authorization: Information System Security Plan Numbering Schema",
+    "bbox": [
+      108.0,
+      617.9,
+      573.5,
+      627.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b050",
+    "text": "FIPS 199, Standards for Security Categorization of Federal Information and Information Systems",
+    "bbox": [
+      108.0,
+      632.5,
+      496.8,
+      642.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b051",
+    "text": "FIPS 200, Minimum Security Requirements for Federal Information and Information Systems",
+    "bbox": [
+      108.0,
+      647.0,
+      481.3,
+      657.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b052",
+    "text": "NIST SP 800-30, Risk Management Guide for Information Technology Systems",
+    "bbox": [
+      108.0,
+      661.7,
+      423.3,
+      671.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b053",
+    "text": "NIST SP 800-37, Guide for Applying the Risk Management Framework to Federal Information Systems",
+    "bbox": [
+      108.0,
+      676.2,
+      519.5,
+      686.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 5,
+    "block_id": "316_p5_b054",
+    "text": "NIST SP 800-53, Recommended Security Controls for Federal Information Systems and Organizations",
+    "bbox": [
+      108.0,
+      690.7,
+      514.8,
+      700.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      233.1,
+      35.0,
+      384.4,
+      48.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      226.8,
+      47.3,
+      390.9,
+      60.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b003",
+    "text": "2.1",
+    "bbox": [
+      36.0,
+      79.5,
+      50.8,
+      89.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b004",
+    "text": "2.1.1",
+    "bbox": [
+      43.2,
+      93.4,
+      65.6,
+      103.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b005",
+    "text": "2.1.1.1",
+    "bbox": [
+      50.4,
+      107.5,
+      80.3,
+      117.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b006",
+    "text": "2.1.1.2",
+    "bbox": [
+      50.4,
+      135.6,
+      80.3,
+      145.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b007",
+    "text": "2.1.1.3",
+    "bbox": [
+      50.4,
+      163.6,
+      80.3,
+      173.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b008",
+    "text": "Security Assessments (CA-2)",
+    "bbox": [
+      108.0,
+      62.8,
+      280.5,
+      75.8
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b009",
+    "text": "Roles and Responsibilities",
+    "bbox": [
+      108.0,
+      79.6,
+      217.7,
+      89.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b010",
+    "text": "The Senior Agency Information Security Officer (SAISO) shall:",
+    "bbox": [
+      108.0,
+      93.4,
+      354.7,
+      103.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b011",
+    "text": "Ensure the assessment of Agency common controls, and those portions of hybrid controls belonging to the Agency,",
+    "bbox": [
+      108.0,
+      107.5,
+      577.9,
+      117.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b012",
+    "text": "in a manner consistent with NASA organizationally defined values.",
+    "bbox": [
+      108.0,
+      121.5,
+      378.8,
+      131.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b013",
+    "text": "Ensure the release of security control assessment details in a manner consistent with NASA organizationally",
+    "bbox": [
+      108.0,
+      135.6,
+      547.2,
+      145.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b014",
+    "text": "defined values.",
+    "bbox": [
+      108.0,
+      149.6,
+      171.7,
+      159.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b015",
+    "text": "Establish the level of independence necessary (e.g., independent third-party, self-assessment) in order for security",
+    "bbox": [
+      108.0,
+      163.7,
+      574.5,
+      173.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b016",
+    "text": "control assessments to satisfy Agency requirements.",
+    "bbox": [
+      108.0,
+      177.7,
+      323.1,
+      187.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b017",
+    "text": "2.1.2",
+    "bbox": [
+      43.2,
+      205.8,
+      65.6,
+      215.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b018",
+    "text": "2.1.2.1",
+    "bbox": [
+      50.4,
+      219.8,
+      80.3,
+      229.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b019",
+    "text": "The Authorizing Official (AO) shall:",
+    "bbox": [
+      108.0,
+      205.8,
+      249.6,
+      215.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b020",
+    "text": "Approve the methods, procedures, and tools employed to assess security controls in the course of standard",
+    "bbox": [
+      108.0,
+      219.8,
+      547.2,
+      229.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b021",
+    "text": "assessments and as a part of the continuous monitoring process.",
+    "bbox": [
+      108.0,
+      233.9,
+      373.0,
+      243.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b022",
+    "text": "2.1.3",
+    "bbox": [
+      43.2,
+      261.9,
+      65.6,
+      271.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b023",
+    "text": "2.1.3.1",
+    "bbox": [
+      50.4,
+      276.0,
+      80.3,
+      285.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b024",
+    "text": "2.1.3.2",
+    "bbox": [
+      50.4,
+      304.1,
+      80.3,
+      314.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b025",
+    "text": "The Center Chief Information Security Officer (CISO) shall:",
+    "bbox": [
+      108.0,
+      261.9,
+      342.0,
+      271.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b026",
+    "text": "Conduct reviews and spot checks of Center information systems throughout the assessment process to ensure",
+    "bbox": [
+      108.0,
+      276.0,
+      558.3,
+      285.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b027",
+    "text": "security controls are documented and meet the minimum security requirements for the system.",
+    "bbox": [
+      108.0,
+      290.0,
+      500.5,
+      300.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b028",
+    "text": "Ensure timely reporting on the status of security assessments for information systems at their Center.",
+    "bbox": [
+      108.0,
+      304.1,
+      522.8,
+      314.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b029",
+    "text": "2.1.4",
+    "bbox": [
+      43.2,
+      332.1,
+      65.6,
+      342.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b030",
+    "text": "2.1.4.1",
+    "bbox": [
+      50.4,
+      346.2,
+      80.3,
+      356.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b031",
+    "text": "2.1.4.2",
+    "bbox": [
+      50.4,
+      374.3,
+      80.3,
+      384.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b032",
+    "text": "The Organization Computer Security Official (OCSO) shall:",
+    "bbox": [
+      108.0,
+      332.1,
+      342.7,
+      342.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b033",
+    "text": "Conduct reviews and spot checks of organizational information systems throughout the assessment process to",
+    "bbox": [
+      108.0,
+      346.2,
+      558.6,
+      356.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b034",
+    "text": "ensure security controls are documented and meet the minimum security requirements for the system.",
+    "bbox": [
+      108.0,
+      360.2,
+      530.6,
+      370.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b035",
+    "text": "Ensure timely reporting on the status of security assessments for the information systems within their",
+    "bbox": [
+      108.0,
+      374.3,
+      524.2,
+      384.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b036",
+    "text": "organization.",
+    "bbox": [
+      108.0,
+      388.3,
+      163.5,
+      398.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b037",
+    "text": "2.1.5",
+    "bbox": [
+      43.2,
+      416.4,
+      65.6,
+      426.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b038",
+    "text": "2.1.5.1",
+    "bbox": [
+      50.4,
+      430.4,
+      80.3,
+      440.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b039",
+    "text": "2.1.5.2",
+    "bbox": [
+      50.4,
+      458.5,
+      80.3,
+      468.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b040",
+    "text": "2.1.5.3",
+    "bbox": [
+      50.4,
+      486.6,
+      80.3,
+      496.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b041",
+    "text": "2.1.5.4",
+    "bbox": [
+      50.4,
+      514.7,
+      80.3,
+      524.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b042",
+    "text": "The Information System Owner (ISO) shall:",
+    "bbox": [
+      108.0,
+      416.4,
+      281.6,
+      426.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b043",
+    "text": "Ensure the assessment of their systems’ security controls in a manner consistent with NASA organizationally",
+    "bbox": [
+      108.0,
+      430.4,
+      549.2,
+      440.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b044",
+    "text": "defined values.",
+    "bbox": [
+      108.0,
+      444.5,
+      171.6,
+      454.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b045",
+    "text": "Ensure security documentation (e.g., Security Assessment Report (SAR), System Security Plan (SSP)) is updated in",
+    "bbox": [
+      108.0,
+      458.5,
+      568.1,
+      468.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b046",
+    "text": "the NASA Security Assessment and Authorization Repository (NSAAR), based on security assessments.",
+    "bbox": [
+      108.0,
+      472.6,
+      523.2,
+      482.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b047",
+    "text": "Ensure that all methods and procedures used in the assessment of security controls have the concurrence of the",
+    "bbox": [
+      108.0,
+      486.6,
+      566.5,
+      496.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b048",
+    "text": "AO.",
+    "bbox": [
+      108.0,
+      500.7,
+      125.1,
+      510.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b049",
+    "text": "Make results from security control assessments available to the AO or a designated representative as a part of the",
+    "bbox": [
+      108.0,
+      514.7,
+      573.5,
+      524.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b050",
+    "text": "Authorization Package.",
+    "bbox": [
+      108.0,
+      528.9,
+      203.8,
+      538.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b051",
+    "text": "3.1",
+    "bbox": [
+      36.0,
+      570.2,
+      50.8,
+      580.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b052",
+    "text": "3.1.1",
+    "bbox": [
+      43.2,
+      584.2,
+      65.6,
+      594.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b053",
+    "text": "3.1.1.1",
+    "bbox": [
+      50.4,
+      598.3,
+      80.3,
+      608.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b054",
+    "text": "Information System Connections (CA-3)",
+    "bbox": [
+      108.0,
+      553.6,
+      346.8,
+      566.6
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b055",
+    "text": "Roles and Responsibilities",
+    "bbox": [
+      108.0,
+      570.3,
+      217.7,
+      580.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b056",
+    "text": "The NASA Chief Information Officer (CIO) shall:",
+    "bbox": [
+      108.0,
+      584.2,
+      298.9,
+      594.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b057",
+    "text": "Approve information system interconnections when the involved information system does not have a valid",
+    "bbox": [
+      108.0,
+      598.3,
+      544.0,
+      608.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b058",
+    "text": "authorization to operate (ATO).",
+    "bbox": [
+      108.0,
+      612.3,
+      238.1,
+      622.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b059",
+    "text": "3.1.2",
+    "bbox": [
+      43.2,
+      640.4,
+      65.6,
+      650.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b060",
+    "text": "3.1.2.1",
+    "bbox": [
+      50.4,
+      654.4,
+      80.3,
+      664.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b061",
+    "text": "The AO shall:",
+    "bbox": [
+      108.0,
+      640.4,
+      163.2,
+      650.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b062",
+    "text": "Approve information system interconnection agreements when the involved system(s) has a valid ATO, as a part of",
+    "bbox": [
+      108.0,
+      654.4,
+      576.7,
+      664.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b063",
+    "text": "the approval process for authorization packages.",
+    "bbox": [
+      108.0,
+      668.5,
+      307.8,
+      678.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b064",
+    "text": "3.1.3",
+    "bbox": [
+      43.2,
+      696.6,
+      65.6,
+      706.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 6,
+    "block_id": "316_p6_b065",
+    "text": "The ISO shall:",
+    "bbox": [
+      108.0,
+      696.6,
+      164.5,
+      706.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      233.2,
+      35.0,
+      384.4,
+      48.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      226.8,
+      47.2,
+      390.9,
+      60.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b003",
+    "text": "3.1.3.1",
+    "bbox": [
+      50.4,
+      61.9,
+      80.3,
+      71.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b004",
+    "text": "Ensure a Memorandum of Understanding/Agreement (MOU/A), and Interconnection Security Agreement (ISA),",
+    "bbox": [
+      108.0,
+      61.9,
+      561.6,
+      71.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b005",
+    "text": "and System Interconnection Implementation Plan (SIIP) is established prior to the interconnection of NASA",
+    "bbox": [
+      108.0,
+      75.9,
+      543.3,
+      85.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b006",
+    "text": "information systems with external systems.",
+    "bbox": [
+      108.0,
+      90.0,
+      286.6,
+      99.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b007",
+    "text": "3.1.3.2",
+    "bbox": [
+      50.4,
+      104.0,
+      80.3,
+      114.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b008",
+    "text": "Ensure an ATO is available for external information systems prior to their interconnection with NASA systems.",
+    "bbox": [
+      108.0,
+      104.0,
+      555.7,
+      114.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b009",
+    "text": "3.1.3.3",
+    "bbox": [
+      50.4,
+      118.0,
+      80.3,
+      128.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b010",
+    "text": "Develop, coordinate, and obtain required approvals for information system interconnections.",
+    "bbox": [
+      108.0,
+      118.0,
+      489.2,
+      128.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b011",
+    "text": "3.1.3.4",
+    "bbox": [
+      50.4,
+      132.1,
+      80.3,
+      142.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b012",
+    "text": "Ensure each connection between information systems is addressed individually in any related documentation.",
+    "bbox": [
+      108.0,
+      132.1,
+      557.2,
+      142.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b013",
+    "text": "3.1.3.5",
+    "bbox": [
+      50.4,
+      146.1,
+      80.3,
+      156.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b014",
+    "text": "Ensure that for each information system interconnection details regarding interface characteristics, security",
+    "bbox": [
+      108.0,
+      146.1,
+      547.6,
+      156.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b015",
+    "text": "requirements, and the nature of the information being shared is documented.",
+    "bbox": [
+      108.0,
+      160.2,
+      427.4,
+      170.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b016",
+    "text": "3.1.3.6",
+    "bbox": [
+      50.4,
+      174.3,
+      80.3,
+      184.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b017",
+    "text": "Ensure the terms and conditions of interconnection agreements are continuously monitored.",
+    "bbox": [
+      108.0,
+      174.3,
+      488.3,
+      184.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b018",
+    "text": "Plan of Action and Milestones (CA-5)",
+    "bbox": [
+      108.0,
+      199.3,
+      328.1,
+      212.2
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b019",
+    "text": "4.1",
+    "bbox": [
+      36.0,
+      215.8,
+      50.8,
+      225.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b020",
+    "text": "Roles and Responsibilities",
+    "bbox": [
+      108.0,
+      215.9,
+      217.7,
+      225.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b021",
+    "text": "4.1.1",
+    "bbox": [
+      43.2,
+      229.9,
+      65.6,
+      239.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b022",
+    "text": "The SAISO shall:",
+    "bbox": [
+      108.0,
+      229.9,
+      174.8,
+      239.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b023",
+    "text": "4.1.1.1",
+    "bbox": [
+      50.4,
+      243.9,
+      80.4,
+      253.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b024",
+    "text": "Appoint principal points of contact for Agency-level Plan of Action and Milestones (POA&M) items.",
+    "bbox": [
+      108.0,
+      243.9,
+      510.9,
+      253.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b025",
+    "text": "4.1.1.2",
+    "bbox": [
+      50.4,
+      258.0,
+      80.4,
+      267.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b026",
+    "text": "Provide oversight of Agency-level POA&M items.",
+    "bbox": [
+      108.0,
+      258.0,
+      308.1,
+      267.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b027",
+    "text": "4.1.2",
+    "bbox": [
+      43.2,
+      286.0,
+      65.6,
+      296.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b028",
+    "text": "The Center CISO shall:",
+    "bbox": [
+      108.0,
+      286.0,
+      198.7,
+      296.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b029",
+    "text": "4.1.2.1",
+    "bbox": [
+      50.4,
+      300.1,
+      80.4,
+      310.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b030",
+    "text": "Appoint principal points of contact for Center-level POA&M items.",
+    "bbox": [
+      108.0,
+      300.1,
+      379.4,
+      310.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b031",
+    "text": "4.1.2.2",
+    "bbox": [
+      50.4,
+      314.1,
+      80.4,
+      324.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b032",
+    "text": "Provide oversight of Center-level POA&M items.",
+    "bbox": [
+      108.0,
+      314.1,
+      305.9,
+      324.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b033",
+    "text": "4.1.2.3",
+    "bbox": [
+      50.4,
+      328.2,
+      80.4,
+      338.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b034",
+    "text": "Ensure timely reporting on the status of POA&M items for information systems at their Center.",
+    "bbox": [
+      108.0,
+      328.2,
+      495.5,
+      338.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b035",
+    "text": "4.1.3",
+    "bbox": [
+      43.2,
+      356.2,
+      65.6,
+      366.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b036",
+    "text": "The OCSO shall:",
+    "bbox": [
+      108.0,
+      356.2,
+      173.7,
+      366.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b037",
+    "text": "4.1.3.1",
+    "bbox": [
+      50.4,
+      370.3,
+      80.3,
+      380.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b038",
+    "text": "Appoint principal points of contact for POA&M items applicable to their organization.",
+    "bbox": [
+      108.0,
+      370.3,
+      456.9,
+      380.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b039",
+    "text": "4.1.3.2",
+    "bbox": [
+      50.4,
+      384.3,
+      80.3,
+      394.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b040",
+    "text": "Provide oversight of POA&M items applicable to their organization.",
+    "bbox": [
+      108.0,
+      384.3,
+      383.5,
+      394.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b041",
+    "text": "4.1.3.3",
+    "bbox": [
+      50.4,
+      398.3,
+      80.3,
+      408.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b042",
+    "text": "Ensure timely reporting on the status of POA&M items for information systems at their organization.",
+    "bbox": [
+      108.0,
+      398.3,
+      518.9,
+      408.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b043",
+    "text": "4.1.4",
+    "bbox": [
+      43.2,
+      426.3,
+      65.6,
+      436.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b044",
+    "text": "The ISO shall:",
+    "bbox": [
+      108.0,
+      426.3,
+      164.5,
+      436.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b045",
+    "text": "4.1.4.1",
+    "bbox": [
+      50.4,
+      440.4,
+      80.3,
+      450.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b046",
+    "text": "Ensure all POA&M items are traceable to their points of discovery.",
+    "bbox": [
+      108.0,
+      440.4,
+      379.3,
+      450.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b047",
+    "text": "4.1.4.2",
+    "bbox": [
+      50.4,
+      454.4,
+      80.3,
+      464.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b048",
+    "text": "Ensure POA&M items are documented and updated in NSAAR.",
+    "bbox": [
+      108.0,
+      454.4,
+      364.0,
+      464.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b049",
+    "text": "4.1.4.3",
+    "bbox": [
+      50.4,
+      468.5,
+      80.3,
+      478.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b050",
+    "text": "Ensure POA&M items detail the following information:",
+    "bbox": [
+      108.0,
+      468.5,
+      332.0,
+      478.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b051",
+    "text": "4.1.4.3.1",
+    "bbox": [
+      57.6,
+      482.5,
+      95.1,
+      492.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b052",
+    "text": "Descriptions of the observed deficiencies or weaknesses;",
+    "bbox": [
+      108.0,
+      482.5,
+      341.2,
+      492.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b053",
+    "text": "4.1.4.3.2",
+    "bbox": [
+      57.6,
+      496.6,
+      95.1,
+      506.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b054",
+    "text": "Associated risk level (High, Moderate, or Low);",
+    "bbox": [
+      108.0,
+      496.6,
+      299.0,
+      506.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b055",
+    "text": "4.1.4.3.3",
+    "bbox": [
+      57.6,
+      510.6,
+      95.1,
+      520.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b056",
+    "text": "The office/organization responsible for the items resolution or remediation;",
+    "bbox": [
+      108.0,
+      510.6,
+      418.3,
+      520.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b057",
+    "text": "4.1.4.3.4",
+    "bbox": [
+      57.6,
+      524.6,
+      95.1,
+      534.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b058",
+    "text": "Estimated funding/resources required to resolve or remediate the item;",
+    "bbox": [
+      108.0,
+      524.6,
+      402.3,
+      534.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b059",
+    "text": "4.1.4.3.5",
+    "bbox": [
+      57.6,
+      538.7,
+      95.1,
+      548.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b060",
+    "text": "Key milestones including completion dates and activities towards the resolution or remediation of the item; and",
+    "bbox": [
+      108.0,
+      538.7,
+      565.0,
+      548.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b061",
+    "text": "4.1.4.3.6",
+    "bbox": [
+      57.6,
+      552.7,
+      95.1,
+      562.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b062",
+    "text": "Changes to key milestones subsequent to their initial documentation (note: milestones should not be deleted or",
+    "bbox": [
+      108.0,
+      552.7,
+      565.9,
+      562.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b063",
+    "text": "changed directly, rather changes should be documented independently);",
+    "bbox": [
+      108.0,
+      566.8,
+      405.8,
+      576.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b064",
+    "text": "4.1.4.4",
+    "bbox": [
+      50.4,
+      580.8,
+      80.3,
+      590.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b065",
+    "text": "Report on the status of POA&M items as necessary.",
+    "bbox": [
+      108.0,
+      580.8,
+      319.7,
+      590.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b066",
+    "text": "4.1.4.5",
+    "bbox": [
+      50.4,
+      594.9,
+      80.3,
+      604.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b067",
+    "text": "Make the details of POA&M items available to the AO or a designated representative as a part of the Authorization",
+    "bbox": [
+      108.0,
+      594.9,
+      576.8,
+      604.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b068",
+    "text": "Package.",
+    "bbox": [
+      108.0,
+      608.9,
+      145.9,
+      618.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b069",
+    "text": "4.1.4.6",
+    "bbox": [
+      50.4,
+      622.9,
+      80.3,
+      632.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b070",
+    "text": "Adhere to POA&M item requirements detailed in the Table 1.",
+    "bbox": [
+      108.0,
+      622.9,
+      359.8,
+      632.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b071",
+    "text": "4.2",
+    "bbox": [
+      36.0,
+      651.0,
+      50.8,
+      661.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b072",
+    "text": "The following table describes specific requirements related to the management of POA&M items for Low,",
+    "bbox": [
+      108.0,
+      651.0,
+      539.0,
+      661.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b073",
+    "text": "Moderate, and High FIPS 199 categorized information systems:",
+    "bbox": [
+      108.0,
+      665.2,
+      365.7,
+      675.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b074",
+    "text": "Requirement",
+    "bbox": [
+      36.0,
+      690.2,
+      92.8,
+      700.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b075",
+    "text": "Low Category",
+    "bbox": [
+      288.7,
+      690.2,
+      347.4,
+      700.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b076",
+    "text": "Moderate Category",
+    "bbox": [
+      388.1,
+      690.2,
+      471.4,
+      700.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b077",
+    "text": "High Category",
+    "bbox": [
+      487.4,
+      690.2,
+      547.9,
+      700.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b078",
+    "text": "All identified unmitigated risks shall be entered as items in",
+    "bbox": [
+      36.0,
+      704.7,
+      275.3,
+      714.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b079",
+    "text": "the system POA&M item within:",
+    "bbox": [
+      36.0,
+      716.8,
+      169.3,
+      726.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b080",
+    "text": "3 Month",
+    "bbox": [
+      288.7,
+      704.7,
+      325.9,
+      714.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b081",
+    "text": "1 Month",
+    "bbox": [
+      388.1,
+      704.7,
+      425.3,
+      714.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 7,
+    "block_id": "316_p7_b082",
+    "text": "1 Month",
+    "bbox": [
+      487.4,
+      704.7,
+      524.6,
+      714.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      233.2,
+      35.0,
+      384.4,
+      48.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      226.8,
+      47.2,
+      390.9,
+      60.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b003",
+    "text": "Requirement",
+    "bbox": [
+      36.0,
+      63.0,
+      92.8,
+      73.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b004",
+    "text": "Low Category",
+    "bbox": [
+      288.7,
+      63.0,
+      347.4,
+      73.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b005",
+    "text": "Moderate Category",
+    "bbox": [
+      388.1,
+      63.0,
+      471.4,
+      73.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b006",
+    "text": "High Category",
+    "bbox": [
+      487.4,
+      63.0,
+      547.9,
+      73.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b007",
+    "text": "POA&M items should be reviewed by appropriate",
+    "bbox": [
+      36.0,
+      77.5,
+      240.4,
+      87.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b008",
+    "text": "stakeholders (Center CISO, OCSO, ISO, etc) at least every:",
+    "bbox": [
+      36.0,
+      89.6,
+      270.3,
+      99.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b009",
+    "text": "1 Year",
+    "bbox": [
+      288.7,
+      77.5,
+      316.2,
+      87.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b010",
+    "text": "6 Months",
+    "bbox": [
+      388.1,
+      77.5,
+      429.2,
+      87.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b011",
+    "text": "3 Months",
+    "bbox": [
+      487.4,
+      77.5,
+      528.6,
+      87.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b012",
+    "text": "A risk assessment will be conducted for unmitigated",
+    "bbox": [
+      36.0,
+      102.8,
+      249.6,
+      112.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b013",
+    "text": "vulnerabilities, in accordance with NIST SP 800-30, within:",
+    "bbox": [
+      36.0,
+      115.0,
+      273.1,
+      125.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b014",
+    "text": "10 Working Days",
+    "bbox": [
+      288.7,
+      102.8,
+      359.4,
+      112.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b015",
+    "text": "(from identification)",
+    "bbox": [
+      288.7,
+      115.0,
+      372.9,
+      125.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b016",
+    "text": "5 Working Days (from",
+    "bbox": [
+      388.1,
+      102.8,
+      478.7,
+      112.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b017",
+    "text": "identification)",
+    "bbox": [
+      388.1,
+      115.0,
+      447.2,
+      125.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b018",
+    "text": "5 Working Days (from",
+    "bbox": [
+      487.4,
+      102.8,
+      578.1,
+      112.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b019",
+    "text": "identification)",
+    "bbox": [
+      487.4,
+      115.0,
+      546.5,
+      125.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b020",
+    "text": "The AO will be advised of all unmitigated risks designated",
+    "bbox": [
+      36.0,
+      128.2,
+      271.3,
+      138.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b021",
+    "text": "High within:",
+    "bbox": [
+      36.0,
+      140.5,
+      87.2,
+      150.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b022",
+    "text": "10 Working Days",
+    "bbox": [
+      288.7,
+      128.2,
+      359.4,
+      138.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b023",
+    "text": "(from identification)",
+    "bbox": [
+      288.7,
+      140.5,
+      372.9,
+      150.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b024",
+    "text": "10 Working Days",
+    "bbox": [
+      388.0,
+      128.2,
+      458.7,
+      138.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b025",
+    "text": "(from identification)",
+    "bbox": [
+      388.0,
+      140.5,
+      472.3,
+      150.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b026",
+    "text": "10 Working Days",
+    "bbox": [
+      487.4,
+      128.2,
+      558.1,
+      138.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b027",
+    "text": "(from identification)",
+    "bbox": [
+      487.4,
+      140.5,
+      571.6,
+      150.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b028",
+    "text": "High risks will be mitigated or accepted by the AO within:",
+    "bbox": [
+      36.0,
+      153.7,
+      270.5,
+      163.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b029",
+    "text": "15 Working Days",
+    "bbox": [
+      288.7,
+      153.7,
+      359.4,
+      163.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b030",
+    "text": "15 Working Days",
+    "bbox": [
+      388.0,
+      153.7,
+      458.7,
+      163.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b031",
+    "text": "15 Working Days",
+    "bbox": [
+      487.4,
+      153.7,
+      558.1,
+      163.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b032",
+    "text": "High risks that are unmitigated or not accepted by the AO",
+    "bbox": [
+      36.0,
+      166.9,
+      272.6,
+      176.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b033",
+    "text": "shall be reported as “POA&M Item Past Due” after:",
+    "bbox": [
+      36.0,
+      179.1,
+      245.7,
+      189.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b034",
+    "text": "15 Working Days",
+    "bbox": [
+      288.7,
+      166.9,
+      359.4,
+      176.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b035",
+    "text": "15 Working Days",
+    "bbox": [
+      388.0,
+      166.9,
+      458.7,
+      176.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b036",
+    "text": "15 Working Days",
+    "bbox": [
+      487.4,
+      166.9,
+      558.1,
+      176.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b037",
+    "text": "The AO will be advised of all unmitigated risks designated",
+    "bbox": [
+      35.9,
+      192.3,
+      271.3,
+      202.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b038",
+    "text": "Moderate or Low within:",
+    "bbox": [
+      35.9,
+      204.5,
+      139.2,
+      214.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b039",
+    "text": "30 Working Days",
+    "bbox": [
+      288.7,
+      192.3,
+      359.3,
+      202.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b040",
+    "text": "15 Working Days",
+    "bbox": [
+      388.0,
+      192.3,
+      458.7,
+      202.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b041",
+    "text": "15 Working Days",
+    "bbox": [
+      487.4,
+      192.3,
+      558.1,
+      202.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b042",
+    "text": "Moderate and Low risks that are unmitigated or not",
+    "bbox": [
+      35.9,
+      217.7,
+      249.1,
+      227.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b043",
+    "text": "accepted by the AO will be reported as “POA&M Item Past",
+    "bbox": [
+      35.9,
+      229.9,
+      275.7,
+      239.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b044",
+    "text": "Due” after:",
+    "bbox": [
+      35.9,
+      242.1,
+      83.2,
+      252.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b045",
+    "text": "6 Months",
+    "bbox": [
+      288.6,
+      217.7,
+      329.8,
+      227.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b046",
+    "text": "30 Working Days",
+    "bbox": [
+      388.0,
+      217.7,
+      458.7,
+      227.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b047",
+    "text": "30 Working Days",
+    "bbox": [
+      487.4,
+      217.7,
+      558.0,
+      227.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b048",
+    "text": "To meet Agency and FISMA reporting requirements,",
+    "bbox": [
+      35.9,
+      255.3,
+      249.7,
+      265.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b049",
+    "text": "POA&M items are updated by:",
+    "bbox": [
+      35.9,
+      267.5,
+      162.5,
+      277.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b050",
+    "text": "The first of each",
+    "bbox": [
+      288.6,
+      255.3,
+      356.3,
+      265.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b051",
+    "text": "month.",
+    "bbox": [
+      288.6,
+      267.5,
+      320.5,
+      277.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b052",
+    "text": "The first of each",
+    "bbox": [
+      388.0,
+      255.3,
+      455.7,
+      265.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b053",
+    "text": "month",
+    "bbox": [
+      388.0,
+      267.5,
+      417.3,
+      277.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b054",
+    "text": "The first of each",
+    "bbox": [
+      487.4,
+      255.3,
+      555.1,
+      265.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b055",
+    "text": "month.",
+    "bbox": [
+      487.4,
+      267.5,
+      519.2,
+      277.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b056",
+    "text": "Table 1 - POA&M Requirements",
+    "bbox": [
+      36.0,
+      280.6,
+      157.0,
+      289.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b057",
+    "text": "Security Authorization (CA-6)",
+    "bbox": [
+      108.0,
+      302.7,
+      287.6,
+      315.7
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b058",
+    "text": "5.1",
+    "bbox": [
+      36.0,
+      319.3,
+      50.8,
+      329.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b059",
+    "text": "Roles and Responsibilities",
+    "bbox": [
+      108.0,
+      319.3,
+      217.7,
+      329.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b060",
+    "text": "5.1.1",
+    "bbox": [
+      43.2,
+      333.3,
+      65.6,
+      343.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b061",
+    "text": "The AO shall:",
+    "bbox": [
+      108.0,
+      333.3,
+      163.2,
+      343.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b062",
+    "text": "5.1.1.1",
+    "bbox": [
+      50.4,
+      347.4,
+      80.4,
+      357.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b063",
+    "text": "Maintain an awareness of the security posture of information systems under their authority.",
+    "bbox": [
+      108.0,
+      347.4,
+      485.6,
+      357.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b064",
+    "text": "5.1.1.2",
+    "bbox": [
+      50.4,
+      361.4,
+      80.4,
+      371.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b065",
+    "text": "Authorize information systems to operate.",
+    "bbox": [
+      108.0,
+      361.4,
+      282.9,
+      371.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b066",
+    "text": "5.1.2",
+    "bbox": [
+      43.2,
+      389.5,
+      65.6,
+      399.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b067",
+    "text": "The Center CISO shall:",
+    "bbox": [
+      108.0,
+      389.5,
+      198.7,
+      399.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b068",
+    "text": "5.1.2.1",
+    "bbox": [
+      50.4,
+      403.5,
+      80.4,
+      413.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b069",
+    "text": "Review authorization packages for compliance with all applicable requirements.",
+    "bbox": [
+      108.0,
+      403.5,
+      434.4,
+      413.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b070",
+    "text": "5.1.3",
+    "bbox": [
+      43.2,
+      431.6,
+      65.6,
+      441.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b071",
+    "text": "The OCSO shall:",
+    "bbox": [
+      108.0,
+      431.6,
+      173.7,
+      441.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b072",
+    "text": "5.1.3.1",
+    "bbox": [
+      50.4,
+      445.6,
+      80.3,
+      455.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b073",
+    "text": "Review authorization packages for compliance with all applicable requirements.",
+    "bbox": [
+      108.0,
+      445.6,
+      434.3,
+      455.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b074",
+    "text": "5.1.4",
+    "bbox": [
+      43.2,
+      473.7,
+      65.6,
+      483.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b075",
+    "text": "The ISO shall:",
+    "bbox": [
+      108.0,
+      473.7,
+      164.5,
+      483.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b076",
+    "text": "5.1.4.1",
+    "bbox": [
+      50.4,
+      487.8,
+      80.3,
+      497.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b077",
+    "text": "Ensure information systems have been granted an authorization to operate prior to their operation.",
+    "bbox": [
+      108.0,
+      487.8,
+      515.8,
+      497.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b078",
+    "text": "5.1.4.2",
+    "bbox": [
+      50.4,
+      501.8,
+      80.3,
+      511.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b079",
+    "text": "Ensure information systems are reauthorized in a manner consistent with NASA organizationally defined values.",
+    "bbox": [
+      108.0,
+      501.8,
+      564.3,
+      511.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b080",
+    "text": "5.1.4.3",
+    "bbox": [
+      50.4,
+      515.8,
+      80.3,
+      525.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b081",
+    "text": "Ensure authorization package documentation is updated in NSAAR, based on security authorizations.",
+    "bbox": [
+      108.0,
+      515.8,
+      519.7,
+      525.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b082",
+    "text": "5.1.4.4",
+    "bbox": [
+      50.4,
+      529.9,
+      80.3,
+      539.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b083",
+    "text": "Ensure authorization packages contain, at a minimum, the following:",
+    "bbox": [
+      108.0,
+      529.9,
+      389.2,
+      539.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b084",
+    "text": "5.1.4.4.1",
+    "bbox": [
+      57.6,
+      543.9,
+      95.1,
+      553.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b085",
+    "text": "An authorization letter that includes the time period for which the ATO is effective.",
+    "bbox": [
+      108.0,
+      543.9,
+      447.7,
+      553.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b086",
+    "text": "The letter may also include specific restrictions, conditions, and/or timelines for the ATO.",
+    "bbox": [
+      108.0,
+      558.0,
+      471.9,
+      567.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b087",
+    "text": "5.1.4.4.2",
+    "bbox": [
+      57.6,
+      572.0,
+      95.1,
+      582.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b088",
+    "text": "A SSP;",
+    "bbox": [
+      108.0,
+      572.0,
+      135.2,
+      582.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b089",
+    "text": "5.1.4.4.3",
+    "bbox": [
+      57.6,
+      586.1,
+      95.1,
+      596.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b090",
+    "text": "A SAR; and",
+    "bbox": [
+      108.0,
+      586.1,
+      154.2,
+      596.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b091",
+    "text": "5.1.4.4.4",
+    "bbox": [
+      57.6,
+      600.2,
+      95.1,
+      610.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b092",
+    "text": "POA&M (as necessary).",
+    "bbox": [
+      108.0,
+      600.2,
+      204.9,
+      610.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b093",
+    "text": "Continuous Monitoring (CA-7)",
+    "bbox": [
+      108.0,
+      625.0,
+      290.6,
+      638.0
+    ],
+    "font_size": 12.9,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b094",
+    "text": "6.1",
+    "bbox": [
+      36.0,
+      641.6,
+      50.8,
+      651.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b095",
+    "text": "Roles and Responsibilities",
+    "bbox": [
+      108.0,
+      641.7,
+      217.7,
+      651.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b096",
+    "text": "6.1.1",
+    "bbox": [
+      43.2,
+      655.6,
+      65.6,
+      665.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b097",
+    "text": "The ISO shall:",
+    "bbox": [
+      108.0,
+      655.6,
+      164.5,
+      665.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b098",
+    "text": "6.1.1.1 ­",
+    "bbox": [
+      50.4,
+      667.2,
+      83.9,
+      680.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b099",
+    "text": "Ensure the security posture of information systems is subject to continuous monitoring in a manner consistent",
+    "bbox": [
+      108.0,
+      669.7,
+      558.8,
+      679.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 8,
+    "block_id": "316_p8_b100",
+    "text": "with NASA organizationally defined values.",
+    "bbox": [
+      108.0,
+      683.8,
+      283.7,
+      693.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      35.0,
+      317.6,
+      48.3,
+      468.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      47.2,
+      311.0,
+      60.5,
+      475.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b003",
+    "text": "Organizationally Defined Values",
+    "bbox": [
+      62.8,
+      489.0,
+      75.8,
+      684.0
+    ],
+    "font_size": 13.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b004",
+    "text": "The following table provides the values defined in NIST SP 800-53 as being at the discretion of the implementing organization. The Section, and Parameter columns are intended",
+    "bbox": [
+      79.5,
+      35.0,
+      89.5,
+      756.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b005",
+    "text": "to help navigate various NIST SP 800-53 security controls for easier application of the organizationally defined values; these columns are defined as follows:",
+    "bbox": [
+      93.5,
+      123.0,
+      103.6,
+      756.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b006",
+    "text": "Section: Values in this column indicate whether an organizationally defined value is in the main body of the control (Main), or part of one of the control’s enhancements",
+    "bbox": [
+      118.1,
+      34.5,
+      128.1,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b007",
+    "text": "(E1, E2, etc).",
+    "bbox": [
+      132.1,
+      667.2,
+      142.0,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b008",
+    "text": "Parameter: Sometimes, a specific Section may have multiple organizationally defined values. In those instances, the bracketed number Parameters indicate which",
+    "bbox": [
+      146.7,
+      58.3,
+      156.7,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b009",
+    "text": "organizationally defined value (numbered sequentially) is being referenced. In the case of nested organizationally defined values, a series of bracketed numbers is",
+    "bbox": [
+      160.7,
+      58.0,
+      170.7,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b010",
+    "text": "used.",
+    "bbox": [
+      174.9,
+      695.9,
+      184.9,
+      720.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b011",
+    "text": "800 53 Reference",
+    "bbox": [
+      199.4,
+      676.4,
+      209.3,
+      751.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b012",
+    "text": "FIPS 199 Categorization",
+    "bbox": [
+      199.4,
+      150.4,
+      209.3,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b013",
+    "text": "Family",
+    "bbox": [
+      212.1,
+      721.8,
+      222.0,
+      751.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b014",
+    "text": "Name",
+    "bbox": [
+      212.1,
+      653.2,
+      222.0,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b015",
+    "text": "Section",
+    "bbox": [
+      212.1,
+      546.9,
+      222.0,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b016",
+    "text": "Parameter",
+    "bbox": [
+      212.1,
+      492.0,
+      222.0,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b017",
+    "text": "Type",
+    "bbox": [
+      212.1,
+      461.2,
+      222.0,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b018",
+    "text": "Description",
+    "bbox": [
+      212.1,
+      379.8,
+      222.0,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b019",
+    "text": "Low",
+    "bbox": [
+      212.1,
+      230.8,
+      222.0,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b020",
+    "text": "Moderate",
+    "bbox": [
+      212.1,
+      131.3,
+      222.0,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b021",
+    "text": "High",
+    "bbox": [
+      212.1,
+      79.2,
+      222.0,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b022",
+    "text": "Security Assessment",
+    "bbox": [
+      224.7,
+      595.0,
+      234.7,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b023",
+    "text": "and Authorization",
+    "bbox": [
+      237.0,
+      604.6,
+      246.9,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b024",
+    "text": "Policies and",
+    "bbox": [
+      249.1,
+      630.0,
+      259.0,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b025",
+    "text": "Procedures",
+    "bbox": [
+      261.3,
+      632.0,
+      271.3,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b026",
+    "text": "Main",
+    "bbox": [
+      224.8,
+      556.4,
+      234.7,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b027",
+    "text": "[1]",
+    "bbox": [
+      224.8,
+      524.9,
+      234.7,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b028",
+    "text": "Frequency",
+    "bbox": [
+      224.7,
+      438.8,
+      234.7,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b029",
+    "text": "Policy and procedure review.",
+    "bbox": [
+      224.7,
+      309.4,
+      234.7,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b030",
+    "text": "1/Year",
+    "bbox": [
+      224.7,
+      220.8,
+      234.7,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b031",
+    "text": "1/Year",
+    "bbox": [
+      224.7,
+      145.9,
+      234.7,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b032",
+    "text": "1/Year",
+    "bbox": [
+      224.7,
+      70.9,
+      234.7,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b033",
+    "text": "Security Assessments",
+    "bbox": [
+      276.2,
+      591.1,
+      286.2,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b034",
+    "text": "Main",
+    "bbox": [
+      276.3,
+      556.4,
+      286.2,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b035",
+    "text": "[1]",
+    "bbox": [
+      276.3,
+      524.8,
+      286.2,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b036",
+    "text": "Frequency",
+    "bbox": [
+      276.2,
+      438.8,
+      286.2,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b037",
+    "text": "Review of controls for need, and",
+    "bbox": [
+      276.2,
+      295.2,
+      286.2,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b038",
+    "text": "correctness of implementation.",
+    "bbox": [
+      288.4,
+      299.4,
+      298.4,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b039",
+    "text": "Continuous; As",
+    "bbox": [
+      276.2,
+      186.8,
+      286.2,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b040",
+    "text": "governed by",
+    "bbox": [
+      288.4,
+      197.3,
+      298.4,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b041",
+    "text": "Change",
+    "bbox": [
+      300.7,
+      217.5,
+      310.6,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b042",
+    "text": "Management",
+    "bbox": [
+      312.8,
+      193.2,
+      322.8,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b043",
+    "text": "controls; As",
+    "bbox": [
+      325.0,
+      200.1,
+      335.0,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b044",
+    "text": "required for",
+    "bbox": [
+      337.3,
+      198.9,
+      347.2,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b045",
+    "text": "reauthorization",
+    "bbox": [
+      349.4,
+      184.7,
+      359.4,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b046",
+    "text": "Continuous; As",
+    "bbox": [
+      276.2,
+      111.9,
+      286.2,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b047",
+    "text": "governed by",
+    "bbox": [
+      288.4,
+      122.5,
+      298.4,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b048",
+    "text": "Change",
+    "bbox": [
+      300.7,
+      142.6,
+      310.7,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b049",
+    "text": "Management",
+    "bbox": [
+      312.8,
+      118.4,
+      322.8,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b050",
+    "text": "controls; As",
+    "bbox": [
+      325.0,
+      125.2,
+      335.0,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b051",
+    "text": "required for",
+    "bbox": [
+      337.3,
+      124.0,
+      347.3,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b052",
+    "text": "reauthorization",
+    "bbox": [
+      349.4,
+      109.9,
+      359.4,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b053",
+    "text": "Continuous; As",
+    "bbox": [
+      276.2,
+      36.9,
+      286.2,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b054",
+    "text": "governed by",
+    "bbox": [
+      288.5,
+      47.5,
+      298.4,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b055",
+    "text": "Change",
+    "bbox": [
+      300.7,
+      67.6,
+      310.7,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b056",
+    "text": "Management",
+    "bbox": [
+      312.8,
+      43.4,
+      322.8,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b057",
+    "text": "controls; As",
+    "bbox": [
+      325.1,
+      50.2,
+      335.0,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b058",
+    "text": "required for",
+    "bbox": [
+      337.3,
+      49.0,
+      347.3,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b059",
+    "text": "reauthorization",
+    "bbox": [
+      349.4,
+      34.9,
+      359.4,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b060",
+    "text": "Security Assessments",
+    "bbox": [
+      366.0,
+      591.1,
+      376.0,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b061",
+    "text": "E 2",
+    "bbox": [
+      366.0,
+      565.2,
+      376.0,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b062",
+    "text": "[1]",
+    "bbox": [
+      366.0,
+      524.8,
+      376.0,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b063",
+    "text": "Frequency",
+    "bbox": [
+      366.0,
+      438.8,
+      376.0,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b064",
+    "text": "Publication of security control",
+    "bbox": [
+      366.0,
+      305.5,
+      376.0,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b065",
+    "text": "assessment details.",
+    "bbox": [
+      378.2,
+      348.7,
+      388.2,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b066",
+    "text": "1/Year",
+    "bbox": [
+      366.0,
+      220.8,
+      376.0,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b067",
+    "text": "1/Year",
+    "bbox": [
+      366.0,
+      145.9,
+      376.0,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b068",
+    "text": "1/Year",
+    "bbox": [
+      366.0,
+      70.9,
+      376.0,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b069",
+    "text": "Security Assessments",
+    "bbox": [
+      392.0,
+      591.0,
+      402.0,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b070",
+    "text": "E 2",
+    "bbox": [
+      392.1,
+      565.2,
+      402.0,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b071",
+    "text": "[2]",
+    "bbox": [
+      392.1,
+      524.8,
+      402.0,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b072",
+    "text": "Selection",
+    "bbox": [
+      392.0,
+      444.1,
+      402.0,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b073",
+    "text": "Style of release for security control",
+    "bbox": [
+      392.0,
+      285.4,
+      402.0,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b074",
+    "text": "assessment.",
+    "bbox": [
+      404.1,
+      377.8,
+      414.1,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b075",
+    "text": "Announced via",
+    "bbox": [
+      392.0,
+      187.5,
+      402.0,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b076",
+    "text": "Memo",
+    "bbox": [
+      404.1,
+      221.2,
+      414.1,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b077",
+    "text": "Announced via",
+    "bbox": [
+      392.0,
+      112.6,
+      402.0,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b078",
+    "text": "Memo",
+    "bbox": [
+      404.1,
+      146.3,
+      414.1,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b079",
+    "text": "Announced via",
+    "bbox": [
+      392.0,
+      37.6,
+      402.0,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b080",
+    "text": "Memo",
+    "bbox": [
+      404.1,
+      71.3,
+      414.1,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b081",
+    "text": "Security Assessments",
+    "bbox": [
+      417.9,
+      591.0,
+      427.9,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b082",
+    "text": "E 2",
+    "bbox": [
+      418.0,
+      565.2,
+      428.0,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b083",
+    "text": "[3]",
+    "bbox": [
+      418.0,
+      524.8,
+      428.0,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b084",
+    "text": "Selection",
+    "bbox": [
+      417.9,
+      444.1,
+      427.9,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b085",
+    "text": "Organization defined security testing.",
+    "bbox": [
+      417.9,
+      272.8,
+      427.9,
+      427.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b086",
+    "text": "Assessment of",
+    "bbox": [
+      417.9,
+      189.3,
+      427.9,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b087",
+    "text": "controls",
+    "bbox": [
+      430.2,
+      214.7,
+      440.2,
+      250.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b088",
+    "text": "detailed by",
+    "bbox": [
+      442.4,
+      202.6,
+      452.4,
+      250.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b089",
+    "text": "Memo",
+    "bbox": [
+      454.5,
+      221.2,
+      464.5,
+      250.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b090",
+    "text": "Assessment of",
+    "bbox": [
+      417.9,
+      114.4,
+      427.9,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b091",
+    "text": "controls",
+    "bbox": [
+      430.2,
+      139.9,
+      440.2,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b092",
+    "text": "detailed by",
+    "bbox": [
+      442.4,
+      127.7,
+      452.4,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b093",
+    "text": "Memo",
+    "bbox": [
+      454.5,
+      146.3,
+      464.5,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b094",
+    "text": "Assessment of",
+    "bbox": [
+      417.9,
+      39.4,
+      427.9,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b095",
+    "text": "controls",
+    "bbox": [
+      430.2,
+      64.9,
+      440.2,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b096",
+    "text": "detailed by",
+    "bbox": [
+      442.4,
+      52.7,
+      452.4,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b097",
+    "text": "Memo",
+    "bbox": [
+      454.5,
+      71.3,
+      464.5,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b098",
+    "text": "Plan of Action and",
+    "bbox": [
+      467.3,
+      603.8,
+      477.2,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b099",
+    "text": "Milestones",
+    "bbox": [
+      479.5,
+      633.2,
+      489.5,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b100",
+    "text": "Main",
+    "bbox": [
+      467.3,
+      556.3,
+      477.3,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b101",
+    "text": "[1]",
+    "bbox": [
+      467.3,
+      524.8,
+      477.3,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b102",
+    "text": "Frequency",
+    "bbox": [
+      467.3,
+      438.8,
+      477.2,
+      483.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b103",
+    "text": "Review and update of POA&M items.",
+    "bbox": [
+      467.3,
+      276.1,
+      477.2,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b104",
+    "text": "By the first of",
+    "bbox": [
+      467.3,
+      193.1,
+      477.2,
+      250.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b105",
+    "text": "each month.",
+    "bbox": [
+      479.5,
+      196.7,
+      489.5,
+      250.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b106",
+    "text": "By the first of",
+    "bbox": [
+      467.3,
+      118.3,
+      477.2,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b107",
+    "text": "each month.",
+    "bbox": [
+      479.5,
+      121.8,
+      489.5,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b108",
+    "text": "By the first of",
+    "bbox": [
+      467.3,
+      43.3,
+      477.2,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 9,
+    "block_id": "316_p9_b109",
+    "text": "each month.",
+    "bbox": [
+      479.5,
+      46.8,
+      489.5,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b001",
+    "text": "ITS Handbook (ITS-HBK-2810.02-01) ­",
+    "bbox": [
+      35.0,
+      317.6,
+      48.3,
+      468.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b002",
+    "text": "Security Assessment and Authorization ­",
+    "bbox": [
+      47.2,
+      311.0,
+      60.5,
+      475.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b003",
+    "text": "800 53 Reference",
+    "bbox": [
+      62.5,
+      676.4,
+      72.5,
+      751.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b004",
+    "text": "FIPS 199 Categorization",
+    "bbox": [
+      62.5,
+      150.4,
+      72.5,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b005",
+    "text": "Family",
+    "bbox": [
+      75.3,
+      721.8,
+      85.2,
+      751.3
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b006",
+    "text": "Name",
+    "bbox": [
+      75.3,
+      653.2,
+      85.2,
+      680.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b007",
+    "text": "Section",
+    "bbox": [
+      75.3,
+      546.9,
+      85.2,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b008",
+    "text": "Parameter",
+    "bbox": [
+      75.3,
+      492.0,
+      85.2,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b009",
+    "text": "Type",
+    "bbox": [
+      75.3,
+      461.2,
+      85.2,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b010",
+    "text": "Description",
+    "bbox": [
+      75.3,
+      379.8,
+      85.2,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b011",
+    "text": "Low",
+    "bbox": [
+      75.3,
+      230.8,
+      85.2,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b012",
+    "text": "Moderate",
+    "bbox": [
+      75.3,
+      131.3,
+      85.2,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b013",
+    "text": "High",
+    "bbox": [
+      75.3,
+      79.1,
+      85.2,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b014",
+    "text": "Security",
+    "bbox": [
+      87.8,
+      645.3,
+      97.7,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b015",
+    "text": "Authorization",
+    "bbox": [
+      100.0,
+      622.3,
+      110.0,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b016",
+    "text": "Main",
+    "bbox": [
+      87.8,
+      556.4,
+      97.8,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b017",
+    "text": "[1]",
+    "bbox": [
+      87.8,
+      524.8,
+      97.8,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b018",
+    "text": "Frequency",
+    "bbox": [
+      87.8,
+      438.8,
+      97.7,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b019",
+    "text": "Reauthorization of system.",
+    "bbox": [
+      87.8,
+      318.3,
+      97.7,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b020",
+    "text": "1/3-Years; As",
+    "bbox": [
+      87.8,
+      194.1,
+      97.7,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b021",
+    "text": "governed by",
+    "bbox": [
+      100.0,
+      197.3,
+      110.0,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b022",
+    "text": "Change",
+    "bbox": [
+      112.3,
+      217.5,
+      122.2,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b023",
+    "text": "Management",
+    "bbox": [
+      124.5,
+      193.2,
+      134.5,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b024",
+    "text": "controls",
+    "bbox": [
+      136.6,
+      214.8,
+      146.6,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b025",
+    "text": "1/3-Years; As",
+    "bbox": [
+      87.8,
+      119.2,
+      97.7,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b026",
+    "text": "governed by",
+    "bbox": [
+      100.0,
+      122.5,
+      110.0,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b027",
+    "text": "Change",
+    "bbox": [
+      112.3,
+      142.6,
+      122.2,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b028",
+    "text": "Management",
+    "bbox": [
+      124.5,
+      118.3,
+      134.5,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b029",
+    "text": "controls",
+    "bbox": [
+      136.6,
+      139.9,
+      146.6,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b030",
+    "text": "1/3-Years; As",
+    "bbox": [
+      87.8,
+      44.2,
+      97.7,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b031",
+    "text": "governed by",
+    "bbox": [
+      100.0,
+      47.5,
+      110.0,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b032",
+    "text": "Change",
+    "bbox": [
+      112.3,
+      67.6,
+      122.2,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b033",
+    "text": "Management",
+    "bbox": [
+      124.5,
+      43.3,
+      134.5,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b034",
+    "text": "controls",
+    "bbox": [
+      136.6,
+      64.9,
+      146.6,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b035",
+    "text": "Continuous",
+    "bbox": [
+      152.1,
+      631.4,
+      162.1,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b036",
+    "text": "Monitoring",
+    "bbox": [
+      164.3,
+      632.2,
+      174.3,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b037",
+    "text": "Main",
+    "bbox": [
+      152.2,
+      556.4,
+      162.1,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b038",
+    "text": "[1]",
+    "bbox": [
+      152.2,
+      524.8,
+      162.1,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b039",
+    "text": "Frequency",
+    "bbox": [
+      152.1,
+      438.8,
+      162.1,
+      483.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b040",
+    "text": "Report of security posture to appropriate",
+    "bbox": [
+      152.1,
+      259.4,
+      162.1,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b041",
+    "text": "officials and personnel.",
+    "bbox": [
+      164.3,
+      333.2,
+      174.3,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b042",
+    "text": "1/Year; As",
+    "bbox": [
+      152.1,
+      206.2,
+      162.1,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b043",
+    "text": "governed by",
+    "bbox": [
+      164.3,
+      197.3,
+      174.3,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b044",
+    "text": "Change",
+    "bbox": [
+      176.5,
+      217.5,
+      186.4,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b045",
+    "text": "Management",
+    "bbox": [
+      188.7,
+      193.2,
+      198.7,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b046",
+    "text": "controls",
+    "bbox": [
+      200.9,
+      214.7,
+      210.9,
+      250.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b047",
+    "text": "1/Year; As",
+    "bbox": [
+      152.1,
+      131.3,
+      162.1,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b048",
+    "text": "governed by",
+    "bbox": [
+      164.3,
+      122.4,
+      174.3,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b049",
+    "text": "Change",
+    "bbox": [
+      176.5,
+      142.6,
+      186.4,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b050",
+    "text": "Management",
+    "bbox": [
+      188.7,
+      118.3,
+      198.7,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b051",
+    "text": "controls",
+    "bbox": [
+      200.9,
+      139.9,
+      210.9,
+      175.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b052",
+    "text": "1/Year; As",
+    "bbox": [
+      152.1,
+      56.3,
+      162.1,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b053",
+    "text": "governed by",
+    "bbox": [
+      164.3,
+      47.4,
+      174.3,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b054",
+    "text": "Change",
+    "bbox": [
+      176.5,
+      67.6,
+      186.4,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b055",
+    "text": "Management",
+    "bbox": [
+      188.7,
+      43.3,
+      198.7,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b056",
+    "text": "controls",
+    "bbox": [
+      200.9,
+      64.9,
+      210.9,
+      100.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b057",
+    "text": "Continuous",
+    "bbox": [
+      216.3,
+      631.4,
+      226.3,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b058",
+    "text": "Monitoring",
+    "bbox": [
+      228.5,
+      632.1,
+      238.5,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b059",
+    "text": "E 2",
+    "bbox": [
+      216.4,
+      565.2,
+      226.3,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b060",
+    "text": "[1]",
+    "bbox": [
+      216.4,
+      524.8,
+      226.3,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b061",
+    "text": "Frequency",
+    "bbox": [
+      216.3,
+      438.8,
+      226.3,
+      483.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b062",
+    "text": "Planning, scheduling, and execution of",
+    "bbox": [
+      216.3,
+      271.2,
+      226.3,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b063",
+    "text": "specialized security testing/assessments.",
+    "bbox": [
+      228.5,
+      261.4,
+      238.5,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b064",
+    "text": "Continuous",
+    "bbox": [
+      241.3,
+      631.4,
+      251.2,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b065",
+    "text": "Monitoring",
+    "bbox": [
+      253.5,
+      632.1,
+      263.5,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b066",
+    "text": "E 2",
+    "bbox": [
+      241.3,
+      565.2,
+      251.3,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b067",
+    "text": "[2]",
+    "bbox": [
+      241.3,
+      524.8,
+      251.3,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b068",
+    "text": "Selection",
+    "bbox": [
+      241.3,
+      444.0,
+      251.2,
+      483.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b069",
+    "text": "Testing is announced or unannounced.",
+    "bbox": [
+      241.3,
+      269.7,
+      251.2,
+      429.5
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b070",
+    "text": "Continuous",
+    "bbox": [
+      266.1,
+      631.4,
+      276.1,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b071",
+    "text": "Monitoring",
+    "bbox": [
+      278.3,
+      632.1,
+      288.3,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b072",
+    "text": "E 2",
+    "bbox": [
+      266.2,
+      565.2,
+      276.1,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b073",
+    "text": "[3]",
+    "bbox": [
+      266.2,
+      524.8,
+      276.1,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b074",
+    "text": "Selection",
+    "bbox": [
+      266.1,
+      444.0,
+      276.1,
+      483.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b075",
+    "text": "Type of specialized security",
+    "bbox": [
+      266.1,
+      316.4,
+      276.1,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b076",
+    "text": "testing/assessments.",
+    "bbox": [
+      278.3,
+      342.2,
+      288.3,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b077",
+    "text": "Continuous",
+    "bbox": [
+      291.1,
+      631.4,
+      301.0,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b078",
+    "text": "Monitoring",
+    "bbox": [
+      303.3,
+      632.1,
+      313.3,
+      680.1
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b079",
+    "text": "E 2",
+    "bbox": [
+      291.1,
+      565.2,
+      301.1,
+      579.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b080",
+    "text": "[3][1]",
+    "bbox": [
+      291.1,
+      513.5,
+      301.1,
+      538.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b081",
+    "text": "Reference",
+    "bbox": [
+      291.1,
+      439.9,
+      301.0,
+      483.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b082",
+    "text": "Additional types of specialized security",
+    "bbox": [
+      291.1,
+      269.8,
+      301.0,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "316",
+    "page_number": 10,
+    "block_id": "316_p10_b083",
+    "text": "testing/assessments.",
+    "bbox": [
+      303.3,
+      342.2,
+      313.3,
+      429.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  }
+]

@@ -427,3 +427,8 @@ scripts.py
 uv.lock
 .python-version
 pyproject.toml
+
+
+# secret files
+.env
+tough-access-440017-b7-1e1107bbffef.json

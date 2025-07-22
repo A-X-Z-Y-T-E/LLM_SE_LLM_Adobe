@@ -1,0 +1,4067 @@
+[
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b003",
+    "text": "QUELLE EST LA DÉFINITION DES MICRODONNÉES HUMANITAIRES ?",
+    "bbox": [
+      53.9,
+      604.4,
+      460.9,
+      619.4
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b004",
+    "text": "On entend par « microdonnées », les données relatives aux caractéristiques des unités statistiques d’une",
+    "bbox": [
+      53.9,
+      627.1,
+      530.7,
+      641.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b005",
+    "text": "population - telles que les individus, les ménages ou les établissements - recueillies lors de recensements",
+    "bbox": [
+      53.9,
+      640.3,
+      535.0,
+      654.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b006",
+    "text": "ou d’enquêtes.1 Dans la réponse humanitaire, ce type de données est généralement recueilli dans le",
+    "bbox": [
+      53.9,
+      653.5,
+      509.6,
+      667.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b007",
+    "text": "cadre d’exercices tels que les enquêtes sur les ménages et les évaluations des besoins. Les microdonnées",
+    "bbox": [
+      53.9,
+      666.7,
+      533.9,
+      680.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b008",
+    "text": "constituent un volume de données toujours plus élevé dans le secteur humanitaire et sont essentielles",
+    "bbox": [
+      53.9,
+      679.9,
+      523.0,
+      693.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b009",
+    "text": "pour définir les besoins et les perspectives des personnes affectées par les crises.2 Les organisations",
+    "bbox": [
+      53.9,
+      693.1,
+      510.3,
+      707.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b010",
+    "text": "humanitaires doivent comprendre comment évaluer et gérer la sensibilité de ce type de données afin d’en",
+    "bbox": [
+      53.9,
+      706.3,
+      538.1,
+      720.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b011",
+    "text": "assurer l’utilisation responsable dans différents contextes d’intervention.",
+    "bbox": [
+      53.9,
+      719.5,
+      387.5,
+      733.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b012",
+    "text": "1     Survey Design and Statistical Methodology Metadata, Software and Standards Management Branch, Systems Support Division, United States",
+    "bbox": [
+      53.9,
+      739.9,
+      519.5,
+      748.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b013",
+    "text": "Bureau of the Census, Washington D.C., August 1998, Section 3.4.4, page 39.",
+    "bbox": [
+      53.9,
+      749.2,
+      299.6,
+      757.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b014",
+    "text": "2    Au moment de la rédaction du présent document, une recherche du mot « enquête » sur le site Humanitarian Data Exchange a renvoyé 1 198",
+    "bbox": [
+      53.9,
+      761.2,
+      517.4,
+      769.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b015",
+    "text": "résultats sur les 9 805 jeux de données de la plateforme ; une recherche du mot « évaluation » a renvoyé 1 399 résultats.",
+    "bbox": [
+      53.9,
+      770.2,
+      445.4,
+      778.8
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b016",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      54.0,
+      55.3,
+      353.3,
+      75.4
+    ],
+    "font_size": 14.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b017",
+    "text": "SÉRIE DE NOTES D’ORIENTATION",
+    "bbox": [
+      53.3,
+      100.4,
+      263.7,
+      116.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b018",
+    "text": "LA RESPONSABILITÉ DES DONNÉES DANS L’ACTION HUMANITAIRE",
+    "bbox": [
+      53.3,
+      118.4,
+      479.6,
+      134.4
+    ],
+    "font_size": 12.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b019",
+    "text": "CONTRÔLE DE LA DIVULGATION DE DONNÉES",
+    "bbox": [
+      53.3,
+      140.7,
+      533.1,
+      166.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b020",
+    "text": "STATISTIQUES",
+    "bbox": [
+      53.3,
+      164.7,
+      198.2,
+      190.6
+    ],
+    "font_size": 19.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b021",
+    "text": "POINTS CLÉS :",
+    "bbox": [
+      63.7,
+      218.1,
+      149.3,
+      233.0
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b022",
+    "text": "•\t Les données provenant d’enquêtes auprès des ménages ou d’évaluations des besoins, ou",
+    "bbox": [
+      75.0,
+      238.8,
+      494.7,
+      252.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b023",
+    "text": "d’autres formes de microdonnées constituent un volume croissant de données dans le secteur",
+    "bbox": [
+      86.3,
+      252.0,
+      518.1,
+      265.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b024",
+    "text": "humanitaire. Ce type de données est essentiel pour définir les besoins et les perspectives des",
+    "bbox": [
+      86.3,
+      265.2,
+      512.3,
+      279.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b025",
+    "text": "populations affectées par les crises, mais présente également des risques particuliers.",
+    "bbox": [
+      86.3,
+      278.4,
+      477.5,
+      292.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b026",
+    "text": "•\t Même si une organisation supprime des microdonnées d’identifiants directs tels que le nom ou le",
+    "bbox": [
+      75.0,
+      300.6,
+      531.9,
+      314.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b027",
+    "text": "numéro de téléphone d’une personne, la combinaison de variables clés telles que la localisation",
+    "bbox": [
+      86.3,
+      313.8,
+      526.7,
+      327.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b028",
+    "text": "ou l’origine ethnique peut encore permettre la réidentification d’individus et de groupes",
+    "bbox": [
+      86.3,
+      327.0,
+      489.7,
+      340.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b029",
+    "text": "vulnérables.",
+    "bbox": [
+      86.3,
+      340.2,
+      142.5,
+      354.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b030",
+    "text": "•\t Le contrôle de la divulgation de données statistiques (« CDS », de l’anglais « Statistical Disclosure",
+    "bbox": [
+      75.0,
+      362.3,
+      527.2,
+      376.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b031",
+    "text": "Control - SDC ») est une technique pour évaluer et réduire le risque qu’une personne ou une",
+    "bbox": [
+      86.3,
+      375.5,
+      506.0,
+      389.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b032",
+    "text": "organisation soit réidentifiée au cours de l’analyse des microdonnées. L’application du contrôle",
+    "bbox": [
+      86.3,
+      388.7,
+      522.3,
+      402.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b033",
+    "text": "de la divulgation de données statistiques aux microdonnées permet aux organisations de",
+    "bbox": [
+      86.3,
+      401.9,
+      494.8,
+      415.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b034",
+    "text": "partager les données plus largement sans mettre les personnes affectées en danger.",
+    "bbox": [
+      86.3,
+      415.1,
+      468.4,
+      429.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b035",
+    "text": "•\t Le CDS peut être utilisé pour réduire le risque de réidentification à un seuil convenu pouvant",
+    "bbox": [
+      75.0,
+      437.3,
+      509.2,
+      451.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b036",
+    "text": "varier en fonction du contexte dans lequel se déroule la réponse humanitaire. La valeur",
+    "bbox": [
+      86.3,
+      450.5,
+      485.2,
+      464.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b037",
+    "text": "informative globale ou l’utilité d’un jeu de données seront toujours affectées lors de l’application",
+    "bbox": [
+      86.3,
+      463.7,
+      529.6,
+      477.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b038",
+    "text": "du contrôle de la divulgation statistique ; un juste équilibre entre le risque de réidentification",
+    "bbox": [
+      86.3,
+      476.9,
+      510.9,
+      490.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b039",
+    "text": "et la perte d’informations est essentiel pour assurer une utilisation sûre, éthique et efficace des",
+    "bbox": [
+      86.3,
+      490.1,
+      521.1,
+      504.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b040",
+    "text": "données.",
+    "bbox": [
+      86.3,
+      503.3,
+      128.7,
+      517.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b041",
+    "text": "•\t Pour commencer à utiliser le contrôle de la divulgation de données statistiques, les organisations",
+    "bbox": [
+      75.0,
+      525.5,
+      531.0,
+      539.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b042",
+    "text": "doivent investir dans (1) la sélection d’un outil approprié, (2) l’intégration dudit contrôle dans les",
+    "bbox": [
+      86.3,
+      538.7,
+      529.3,
+      552.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b043",
+    "text": "flux de gestion des données existants et (3) l’amélioration de la pratique à travers l’apprentissage",
+    "bbox": [
+      86.3,
+      551.9,
+      528.8,
+      565.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 1,
+    "block_id": "191_p1_b044",
+    "text": "continu.",
+    "bbox": [
+      86.3,
+      565.1,
+      124.2,
+      579.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b003",
+    "text": "3    Pour plus de renseignements sur les risques liés à la divulgation et autres considérations techniques associées à l’évaluation et la gestion de ces",
+    "bbox": [
+      53.9,
+      719.4,
+      537.9,
+      727.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b004",
+    "text": "risques par le contrôle de la divulgation statistique, consultez le document intitulé Statistical Disclosure Control for Microdata: A Practice Guide.",
+    "bbox": [
+      53.9,
+      728.3,
+      536.2,
+      737.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b005",
+    "text": "4    Remarque : Le CDS a pour objet d’empêcher la divulgation d’identité et d’attribut, mais n’est pas spécifiquement conçu pour empêcher la",
+    "bbox": [
+      53.9,
+      740.4,
+      504.5,
+      748.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b006",
+    "text": "divulgation inductive.",
+    "bbox": [
+      53.9,
+      749.4,
+      131.0,
+      757.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b007",
+    "text": "5    Découvrez comment effectuer une évaluation des risques liés à la divulgation par le biais du parcours pédagogique du Centre sur le sujet :",
+    "bbox": [
+      53.9,
+      761.4,
+      533.2,
+      769.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b008",
+    "text": "https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/.",
+    "bbox": [
+      53.9,
+      770.3,
+      324.9,
+      779.0
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b009",
+    "text": "Les microdonnées brutes peuvent contenir à la fois des données à caractère personnel et des données à",
+    "bbox": [
+      53.9,
+      45.2,
+      529.2,
+      59.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b010",
+    "text": "caractère non personnel sur une variété de sujets, y compris des sujets sensibles tels que la violence basée",
+    "bbox": [
+      53.9,
+      58.4,
+      540.0,
+      72.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b011",
+    "text": "sur le genre, les maladies infectieuses et d’autres problématiques qui pourront être enregistrés dans des",
+    "bbox": [
+      53.9,
+      71.6,
+      530.6,
+      85.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b012",
+    "text": "champs de texte libre. La plupart des organisations humanitaires reconnaissent la sensibilité des données",
+    "bbox": [
+      53.9,
+      84.8,
+      538.3,
+      98.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b013",
+    "text": "personnelles tel qu’un nom, une donnée biométrique ou un numéro d’identification, et de manière",
+    "bbox": [
+      53.9,
+      98.0,
+      507.4,
+      111.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b014",
+    "text": "standard, anonymisent les jeux de données en conséquence. Il est toutefois possible de réidentifier une",
+    "bbox": [
+      53.9,
+      111.2,
+      527.3,
+      125.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b015",
+    "text": "personne ou de divulguer des informations confidentielles en combinant différentes observations dans un",
+    "bbox": [
+      53.9,
+      124.4,
+      540.5,
+      138.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b016",
+    "text": "jeu de données, même après l’application d’une telle anonymisation.",
+    "bbox": [
+      53.9,
+      137.6,
+      368.9,
+      151.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b017",
+    "text": "RISQUE DE RÉIDENTIFICATION ET DE DIVULGATION",
+    "bbox": [
+      53.9,
+      166.3,
+      368.7,
+      181.3
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b018",
+    "text": "Une combinaison d’observations dans un jeu de données peut permettre une réidentification, soit de",
+    "bbox": [
+      54.8,
+      190.0,
+      517.7,
+      203.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b019",
+    "text": "façon isolée, soit combinée avec une compréhension contextuelle de base. Les techniques avancées",
+    "bbox": [
+      54.8,
+      203.2,
+      512.4,
+      217.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b020",
+    "text": "d’analyse de données peuvent également permettre d’extraire des informations plus sensibles que celles",
+    "bbox": [
+      54.8,
+      216.4,
+      534.2,
+      230.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b021",
+    "text": "ressortant d’une analyse de base, ce qui augmente la sensibilité potentielle des microdonnées dans le",
+    "bbox": [
+      54.8,
+      229.6,
+      521.4,
+      243.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b022",
+    "text": "secteur humanitaire.",
+    "bbox": [
+      54.8,
+      242.8,
+      152.0,
+      256.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b023",
+    "text": "Il existe trois formes communément reconnues3 de risque de divulgation, chacune pouvant se manifester",
+    "bbox": [
+      54.8,
+      269.2,
+      535.3,
+      283.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b024",
+    "text": "dans les microdonnées humanitaires:",
+    "bbox": [
+      54.8,
+      282.4,
+      226.3,
+      296.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b025",
+    "text": "•\t Divulgation d’identité: lorsqu’il est possible d’associer un individu connu à un enregistrement de",
+    "bbox": [
+      66.1,
+      304.1,
+      526.3,
+      318.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b026",
+    "text": "données diffusées",
+    "bbox": [
+      77.5,
+      317.8,
+      160.6,
+      331.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b027",
+    "text": "•\t Divulgation d’attribut: lorsqu’il est possible de déterminer de nouvelles caractéristiques d’un",
+    "bbox": [
+      66.1,
+      339.5,
+      510.1,
+      354.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b028",
+    "text": "individu sur la base des informations disponibles dans les données diffusées",
+    "bbox": [
+      77.5,
+      353.2,
+      425.7,
+      367.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b029",
+    "text": "•\t Divulgation inductive: lorsqu’il est possible de déterminer la valeur d’une caractéristique d’un",
+    "bbox": [
+      66.1,
+      374.9,
+      513.5,
+      389.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b030",
+    "text": "individu plus précisément avec les données diffusées que cela aurait été possible autrement",
+    "bbox": [
+      77.5,
+      388.6,
+      499.9,
+      402.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b031",
+    "text": "CONTRÔLE DE LA DIVULGATION DE DONNÉES STATISTIQUES",
+    "bbox": [
+      53.9,
+      417.6,
+      420.3,
+      432.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b032",
+    "text": "Le contrôle de la divulgation de données statistiques (« CDS ») est une technique utilisée en statistique",
+    "bbox": [
+      53.9,
+      440.3,
+      521.3,
+      454.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b033",
+    "text": "pour évaluer et réduire le risque4 qu’une personne ou un groupe de personnes soit réidentifié à partir des",
+    "bbox": [
+      53.9,
+      453.5,
+      535.1,
+      467.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b034",
+    "text": "résultats d’une analyse d’enquête ou de données administratives, ou lors de la diffusion de microdonnées.",
+    "bbox": [
+      53.9,
+      466.7,
+      540.6,
+      480.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b035",
+    "text": "Cette technique a été utilisée principalement par les bureaux nationaux de statistique et d’autres services",
+    "bbox": [
+      53.9,
+      479.9,
+      535.7,
+      493.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b036",
+    "text": "statistiques à l’égard des données de recensement.",
+    "bbox": [
+      53.9,
+      493.1,
+      288.4,
+      506.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b037",
+    "text": "L’application du CDS a une incidence sur la valeur informative globale ou l’utilité d’un jeu de données, et il",
+    "bbox": [
+      53.9,
+      519.5,
+      538.8,
+      533.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b038",
+    "text": "est essentiel de trouver un équilibre approprié entre le risque de réidentification et l’utilité de l’information.",
+    "bbox": [
+      53.9,
+      532.7,
+      546.5,
+      546.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b039",
+    "text": "Pour décider d’un juste équilibre entre les risques et l’utilité, les organisations doivent tenir compte des",
+    "bbox": [
+      53.9,
+      545.9,
+      527.0,
+      559.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b040",
+    "text": "diverses utilisations possibles d’un jeu de données et du contexte dans lequel les données ont été recueillies.",
+    "bbox": [
+      53.9,
+      559.1,
+      550.0,
+      572.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b041",
+    "text": "L’application du CDS pour limiter le risque de divulgation dans les microdonnées comporte trois étapes",
+    "bbox": [
+      53.9,
+      585.5,
+      526.1,
+      599.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b042",
+    "text": "distinctes:",
+    "bbox": [
+      53.9,
+      598.7,
+      103.0,
+      612.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b043",
+    "text": "1.\tÉvaluation du risque de réidentification",
+    "bbox": [
+      65.2,
+      620.4,
+      267.9,
+      635.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b044",
+    "text": "La première étape consiste à entreprendre une évaluation du risque de divulgation afin de déter-",
+    "bbox": [
+      76.5,
+      634.1,
+      516.5,
+      647.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b045",
+    "text": "miner la probabilité que la divulgation se produise pour les répondants dans un jeu de données",
+    "bbox": [
+      76.5,
+      647.3,
+      513.7,
+      661.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b046",
+    "text": "particulier.5 Savoir si cette probabilité de divulgation (on parle aussi de « pourcentage de risque ») est",
+    "bbox": [
+      76.5,
+      660.5,
+      535.9,
+      674.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b047",
+    "text": "acceptable pour un jeu de données dépendra du contexte. Par exemple, dans un environnement de",
+    "bbox": [
+      76.5,
+      673.7,
+      530.7,
+      687.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b048",
+    "text": "conflit, le pourcentage de risque autorisé sera généralement inférieur à celui d’une intervention dans",
+    "bbox": [
+      76.5,
+      686.9,
+      538.3,
+      700.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 2,
+    "block_id": "191_p2_b049",
+    "text": "un contexte de catastrophe naturelle.",
+    "bbox": [
+      76.5,
+      700.1,
+      247.0,
+      713.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b003",
+    "text": "Application du CDS aux données partagées sur HDX6",
+    "bbox": [
+      65.9,
+      293.6,
+      298.1,
+      305.2
+    ],
+    "font_size": 10.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b004",
+    "text": "Depuis le début 2018, le Centre for Humanitarian Data (ci-après dénommé « le Centre ») a procédé",
+    "bbox": [
+      65.9,
+      324.6,
+      513.6,
+      338.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b005",
+    "text": "à une évaluation des risques de 597 jeux de données publiés sur la plateforme Humanitarian Data",
+    "bbox": [
+      65.9,
+      337.8,
+      510.1,
+      351.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b006",
+    "text": "Exchange (HDX). Le risque de divulgation de l’identité des répondants dans 38 de ces jeux de données",
+    "bbox": [
+      65.9,
+      351.0,
+      530.4,
+      364.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b007",
+    "text": "a été jugé trop élevé pour une diffusion sur HDX. Les contributeurs de 14 de ces jeux de données",
+    "bbox": [
+      65.9,
+      364.2,
+      504.1,
+      378.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b008",
+    "text": "ont accepté l’application du CDS à leurs données afin de réduire le niveau de risque. L’équipe HDX a",
+    "bbox": [
+      65.9,
+      377.4,
+      519.6,
+      391.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b009",
+    "text": "appliqué le CDS à ces 14 jeux de données, pour lesquels le niveau de risque a été abaissé à un degré",
+    "bbox": [
+      65.9,
+      390.6,
+      521.2,
+      404.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b010",
+    "text": "acceptable (c.-à-d. 5 % ou moins8). Pour 5 de ces 14 jeux de données, cela signifiait qu’ils pouvaient",
+    "bbox": [
+      65.9,
+      403.8,
+      518.7,
+      417.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b011",
+    "text": "être rendus publics après anonymisation. Les 9 jeux de données restants ont été soit supprimés,",
+    "bbox": [
+      65.9,
+      417.0,
+      505.4,
+      430.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b012",
+    "text": "soit partagés en privé sur HDX, tout comme les 24 jeux de données à haut risque pour lesquels le",
+    "bbox": [
+      65.9,
+      430.2,
+      506.8,
+      444.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b013",
+    "text": "contributeur n’avait pas accepté de mener un CDS. Pour ces 24 jeux de données, de nombreuses",
+    "bbox": [
+      65.9,
+      443.4,
+      504.9,
+      457.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b014",
+    "text": "organisations ont pris leurs propres mesures pour réduire le risque de réidentification, y compris",
+    "bbox": [
+      65.9,
+      456.6,
+      508.1,
+      470.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b015",
+    "text": "parfois via la suppression de variables sensibles non essentielles.",
+    "bbox": [
+      65.9,
+      469.8,
+      362.6,
+      483.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b016",
+    "text": "APPLICATIONS DU CONTRÔLE DE DIVULGATION DE DONNÉES STATISTIQUES",
+    "bbox": [
+      54.3,
+      511.6,
+      519.2,
+      526.6
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b017",
+    "text": "DANS LA GESTION DES DONNÉES HUMANITAIRES",
+    "bbox": [
+      54.3,
+      524.8,
+      356.7,
+      539.8
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b018",
+    "text": "En début d’année 2019, le Centre a interrogé des collaborateurs de sept organisations humanitaires qui",
+    "bbox": [
+      54.2,
+      550.3,
+      525.8,
+      564.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b019",
+    "text": "effectuent des enquêtes et des évaluations des besoins afin de comprendre les pratiques existantes en",
+    "bbox": [
+      54.2,
+      563.5,
+      522.3,
+      577.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b020",
+    "text": "matière de gestion des microdonnées. Certaines organisations, telles que le HCR (voir l’étude de cas",
+    "bbox": [
+      54.2,
+      576.7,
+      510.7,
+      590.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b021",
+    "text": "ci-dessous) adoptent des approches relativement avancées et une expertise interne considérable pour",
+    "bbox": [
+      54.2,
+      589.9,
+      523.0,
+      603.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b022",
+    "text": "la conduite du CDS sur différentes formes de microdonnées. Toutefois, la plupart des organisations",
+    "bbox": [
+      54.2,
+      603.1,
+      507.2,
+      616.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b023",
+    "text": "interrogées ont besoin d’un soutien supplémentaire pour mener à bien ce travail.",
+    "bbox": [
+      54.2,
+      616.3,
+      424.2,
+      630.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b024",
+    "text": "6    LPour en savoir plus sur l’utilisation par le Centre du CDS et du processus d’assurance qualité globale pour les données partagées sur HDX, cliquez",
+    "bbox": [
+      53.9,
+      725.9,
+      534.6,
+      734.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b025",
+    "text": "ici :  https://data.humdata.org/about/hdx-qa-process.",
+    "bbox": [
+      53.9,
+      734.8,
+      231.5,
+      743.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b026",
+    "text": "7    Au moment de la rédaction du présent document.",
+    "bbox": [
+      53.9,
+      746.9,
+      223.4,
+      755.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b027",
+    "text": "8    Le Centre a récemment ajusté son seuil par défaut de risque acceptable de réidentification de 5 % à 3 %. Le seuil exact pour un jeu de données en",
+    "bbox": [
+      53.9,
+      758.9,
+      530.3,
+      767.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b028",
+    "text": "particulier est toujours contextuel et défini avec l’organisation qui contribue au jeu de données.",
+    "bbox": [
+      53.9,
+      767.9,
+      369.3,
+      776.4
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b029",
+    "text": "2.\tRéduction du risque de réidentification",
+    "bbox": [
+      65.2,
+      45.3,
+      267.8,
+      59.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b030",
+    "text": "L’étape suivante consiste à soumettre le jeu de données au processus de CDS, ce qui, grâce à différentes",
+    "bbox": [
+      76.5,
+      59.0,
+      549.6,
+      72.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b031",
+    "text": "méthodes d’anonymisation, permettra de réduire le risque de réidentification. Ces méthodes relèvent",
+    "bbox": [
+      76.5,
+      72.2,
+      542.0,
+      86.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b032",
+    "text": "de l’une de ces deux catégories : les méthodes perturbatives, qui ne suppriment pas les valeurs dans le",
+    "bbox": [
+      76.5,
+      85.4,
+      545.6,
+      99.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b033",
+    "text": "jeu de données mais qui perturbent (c.-à-d., modifient) les valeurs pour limiter le risque de divulgation",
+    "bbox": [
+      76.5,
+      98.6,
+      545.8,
+      112.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b034",
+    "text": "en créant une incertitude autour des vraies valeurs ; ou les méthodes non-perturbatives, qui réduisent",
+    "bbox": [
+      76.5,
+      111.8,
+      543.7,
+      125.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b035",
+    "text": "le détail dans les données par généralisation ou suppression de certaines valeurs (c.-à-d., masquage)",
+    "bbox": [
+      76.5,
+      125.0,
+      537.5,
+      138.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b036",
+    "text": "sans déformer la structure des données.",
+    "bbox": [
+      76.5,
+      138.2,
+      259.7,
+      152.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b037",
+    "text": "3.\tQuantification de la perte d’informations",
+    "bbox": [
+      65.2,
+      159.9,
+      275.1,
+      174.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b038",
+    "text": "La dernière étape consiste à mesurer la perte d’informations résultant de l’application du CDS au jeu de",
+    "bbox": [
+      76.5,
+      173.6,
+      549.3,
+      187.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b039",
+    "text": "données. L’objectif ici est de comparer la valeur informative du jeu de données d’origine avec la valeur",
+    "bbox": [
+      76.5,
+      186.8,
+      543.3,
+      200.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b040",
+    "text": "informative finale.",
+    "bbox": [
+      76.5,
+      200.0,
+      160.3,
+      213.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b041",
+    "text": "En utilisant le CDS pour évaluer et réduire le risque de divulgation dans les microdonnées, les organisations",
+    "bbox": [
+      53.9,
+      224.2,
+      545.7,
+      238.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b042",
+    "text": "humanitaires peuvent partager de manière plus responsable les données des enquêtes et des évaluations",
+    "bbox": [
+      53.9,
+      237.4,
+      537.4,
+      251.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 3,
+    "block_id": "191_p3_b043",
+    "text": "des besoins afin d’éclairer l’effort global de réponse.",
+    "bbox": [
+      53.9,
+      250.6,
+      291.4,
+      264.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b003",
+    "text": "Gestion responsable de la conservation et de la gestion des microdonnées sur les réfugiés",
+    "bbox": [
+      65.9,
+      56.6,
+      501.0,
+      69.4
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b004",
+    "text": "Expérience du HCR",
+    "bbox": [
+      65.9,
+      70.5,
+      143.6,
+      81.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b005",
+    "text": "Le HCR recueille régulièrement des données sur les réfugiés et autres populations dans le cadre",
+    "bbox": [
+      65.9,
+      100.5,
+      503.1,
+      114.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b006",
+    "text": "de son mandat. Ces données servent à évaluer les besoins et les vulnérabilités, à informer les",
+    "bbox": [
+      65.9,
+      113.7,
+      491.7,
+      127.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b007",
+    "text": "programmes et à mieux cibler l’aide apportée. Bien que ces données n’aient traditionnellement",
+    "bbox": [
+      65.9,
+      126.9,
+      502.0,
+      140.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b008",
+    "text": "pas été conservées dans des formats ou des emplacements qui pourraient les rendre facilement",
+    "bbox": [
+      65.9,
+      140.1,
+      504.7,
+      154.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b009",
+    "text": "accessibles pour une utilisation future, le HCR est actuellement en train de créer une bibliothèque",
+    "bbox": [
+      65.9,
+      153.3,
+      513.6,
+      167.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b010",
+    "text": "de microdonnées interne et une bibliothèque de microdonnées externe. En créant ces référentiels en",
+    "bbox": [
+      65.9,
+      166.5,
+      527.2,
+      180.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b011",
+    "text": "ligne destinés à permettre à des utilisateurs internes et externes d’accéder aux microdonnées, le HCR",
+    "bbox": [
+      65.9,
+      179.7,
+      527.6,
+      193.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b012",
+    "text": "vise à permettre une utilisation plus large des données par diverses parties prenantes et à, à partir de",
+    "bbox": [
+      65.9,
+      192.9,
+      528.5,
+      206.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b013",
+    "text": "maintenant, empêcher le dédoublement dans les activités de collecte de données.",
+    "bbox": [
+      65.9,
+      206.1,
+      444.2,
+      220.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b014",
+    "text": "La diffusion publique de microdonnées présente de nombreux avantages potentiels, mais elle",
+    "bbox": [
+      65.9,
+      232.5,
+      495.6,
+      246.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b015",
+    "text": "comporte également des risques. La diffusion sans mesures appropriées de contrôle de la divulgation",
+    "bbox": [
+      65.9,
+      245.7,
+      530.8,
+      259.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b016",
+    "text": "peut permettre à des intrus d’identifier les entités (individus ou ménages) dont les données",
+    "bbox": [
+      65.9,
+      258.9,
+      484.4,
+      272.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b017",
+    "text": "sont partagées, même si des identifiants directs tels que le nom ou l’adresse ont été supprimés.",
+    "bbox": [
+      65.9,
+      272.1,
+      502.4,
+      286.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b018",
+    "text": "Conformément à la politique de protection des données personnelles du HCR, l’identité des",
+    "bbox": [
+      65.9,
+      285.1,
+      493.2,
+      299.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b019",
+    "text": "personnes concernées doit être protégée et, par conséquent, les jeux de données doivent être",
+    "bbox": [
+      65.9,
+      298.5,
+      495.1,
+      312.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b020",
+    "text": "dûment rendus anonymes avant de pouvoir être partagés. Les données du HCR sont particulièrement",
+    "bbox": [
+      65.9,
+      311.7,
+      530.7,
+      325.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b021",
+    "text": "sensibles, car elles concernent des groupes de personnes particulièrement vulnérables, dont la",
+    "bbox": [
+      65.9,
+      324.9,
+      501.4,
+      338.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b022",
+    "text": "protection est de la plus haute importance.",
+    "bbox": [
+      65.9,
+      338.1,
+      264.4,
+      352.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b023",
+    "text": "Pour assurer la protection et la diffusion responsable des microdonnées, le HCR utilise l’application",
+    "bbox": [
+      65.9,
+      364.5,
+      520.4,
+      378.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b024",
+    "text": "sdcMicro en R pour calculer les risques de réidentification de ces données avant leur publication. Le",
+    "bbox": [
+      65.9,
+      377.7,
+      521.9,
+      391.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b025",
+    "text": "processus est géré par l’équipe de curation des données du HCR, qui travaille avec les propriétaires",
+    "bbox": [
+      65.9,
+      390.9,
+      517.8,
+      404.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b026",
+    "text": "des données pour identifier les variables clés, évaluer la sensibilité des données et établir un niveau",
+    "bbox": [
+      65.9,
+      404.1,
+      522.0,
+      418.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b027",
+    "text": "de risque acceptable pour un ensemble de données particulier. Après l’anonymisation, les données",
+    "bbox": [
+      65.9,
+      417.3,
+      519.1,
+      431.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b028",
+    "text": "modifiées sont comparées à l’original afin d’évaluer la perte d’information. Si le propriétaire des",
+    "bbox": [
+      65.9,
+      430.5,
+      504.7,
+      444.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b029",
+    "text": "données juge que certaines variables modifiées sont essentielles pour les utilisateurs des données,",
+    "bbox": [
+      65.9,
+      443.7,
+      518.4,
+      457.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b030",
+    "text": "les méthodes de contrôle de la divulgation peuvent être ajustées en conséquence. Par exemple,",
+    "bbox": [
+      65.9,
+      456.9,
+      503.1,
+      470.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b031",
+    "text": "dans le cas de l’Enquête nutritionnelle standardisée élargie (SENS), l’équipe de curation a décidé",
+    "bbox": [
+      65.9,
+      470.1,
+      508.2,
+      484.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b032",
+    "text": "de ne pas appliquer l’agrégation entre tranches d’âge qui le seraient habituellement, ces tranches",
+    "bbox": [
+      65.9,
+      483.3,
+      511.8,
+      497.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b033",
+    "text": "étant essentielles pour caractériser la malnutrition selon l’âge en années et en mois pour les enfants.",
+    "bbox": [
+      65.9,
+      496.5,
+      526.4,
+      510.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b034",
+    "text": "L’équipe a conservé la variable de l’âge mais a exclu la date de naissance et la date de l’enquête. Cela",
+    "bbox": [
+      65.9,
+      509.7,
+      525.6,
+      523.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b035",
+    "text": "a mené à un scénario de risque acceptable tout en conservant l’aspect utile des données pour les",
+    "bbox": [
+      65.9,
+      522.9,
+      509.6,
+      536.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b036",
+    "text": "nutritionnistes.",
+    "bbox": [
+      65.9,
+      536.1,
+      138.2,
+      550.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b037",
+    "text": "Le HCR continue d’investir dans ce processus en renforçant son équipe de curation et en renforçant",
+    "bbox": [
+      65.9,
+      562.5,
+      519.8,
+      576.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b038",
+    "text": "l’expertise dans les techniques d’anonymisation au sein de l’organisation. Dans le cadre du plan",
+    "bbox": [
+      65.9,
+      575.7,
+      503.5,
+      589.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b039",
+    "text": "actuel, la bibliothèque de microdonnées du HCR sera entièrement opérationnelle et sera remplie de",
+    "bbox": [
+      65.9,
+      588.7,
+      527.2,
+      602.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b040",
+    "text": "microdonnées sur les déplacements forcés à la fin de 2019.",
+    "bbox": [
+      65.9,
+      602.1,
+      333.7,
+      616.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b041",
+    "text": "En travaillant avec des fournisseurs de données comme REACH (voir l’étude de cas ci-dessous) pour",
+    "bbox": [
+      53.9,
+      646.4,
+      509.2,
+      660.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b042",
+    "text": "développer un modèle de service de CDS fiable et sécurisé, le Centre vise à soutenir le partage responsable",
+    "bbox": [
+      53.9,
+      659.6,
+      542.6,
+      673.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b043",
+    "text": "de ces données et à démontrer la valeur de techniques plus robustes en matière d’évaluation des risques",
+    "bbox": [
+      53.9,
+      672.8,
+      533.1,
+      686.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b044",
+    "text": "de divulgation et d’anonymisation des données. L’exposition à ces techniques aide également les",
+    "bbox": [
+      53.9,
+      686.0,
+      498.0,
+      699.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b045",
+    "text": "organisations humanitaires à identifier les outils et les méthodes qu’elles peuvent intégrer à leurs propres",
+    "bbox": [
+      53.9,
+      699.2,
+      537.5,
+      713.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b046",
+    "text": "processus de gestion des données, tout en contribuant à l’ensemble des connaissances au sein du secteur",
+    "bbox": [
+      53.9,
+      712.4,
+      538.1,
+      726.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b047",
+    "text": "quant à la façon de gérer et de partager de manière plus responsable les microdonnées dans les contextes",
+    "bbox": [
+      53.9,
+      725.6,
+      538.6,
+      739.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 4,
+    "block_id": "191_p4_b048",
+    "text": "humanitaires.",
+    "bbox": [
+      53.9,
+      738.8,
+      117.5,
+      752.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b003",
+    "text": "Opportunities and challenges to incorporating SDC into an organization’s workflow",
+    "bbox": [
+      65.7,
+      43.2,
+      468.2,
+      56.0
+    ],
+    "font_size": 11.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b004",
+    "text": "Experience from REACH",
+    "bbox": [
+      65.7,
+      57.1,
+      163.7,
+      67.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b005",
+    "text": "REACH a commencé à explorer le potentiel du CDS en juin 2018, lorsque l’équipe HDX a appliqué",
+    "bbox": [
+      65.7,
+      87.9,
+      506.6,
+      102.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b006",
+    "text": "pour la première fois le package sdcMicro R à un jeu de données publié sur la plateforme. Parmi les",
+    "bbox": [
+      65.7,
+      101.3,
+      517.8,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b007",
+    "text": "types de jeux de données pour lesquelles l’équipe HDX a appliqué le CDS pour REACH se trouvent les",
+    "bbox": [
+      65.7,
+      114.5,
+      525.6,
+      128.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b008",
+    "text": "enquêtes auprès des ménages ainsi que les entretiens avec les informateurs clés (et les métadonnées",
+    "bbox": [
+      65.7,
+      127.7,
+      528.9,
+      141.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b009",
+    "text": "associées). REACH n’a pas encore appliqué le CDS directement, mais est en train d’examiner comment",
+    "bbox": [
+      65.7,
+      140.9,
+      531.7,
+      154.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b010",
+    "text": "le faireo.",
+    "bbox": [
+      65.7,
+      154.1,
+      107.3,
+      168.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b011",
+    "text": "Compte tenu de l’expérience acquise jusqu’à présent, REACH suggère que les organisations intéressées",
+    "bbox": [
+      65.7,
+      180.5,
+      535.7,
+      194.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b012",
+    "text": "par l’intégration du CDS dans leur flux de travail examinent les questions suivantes :",
+    "bbox": [
+      65.7,
+      193.7,
+      447.0,
+      207.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b013",
+    "text": "•\t S’agit-il de la bonne méthodologie pour vos processus existants de gestion des microdonnées ?",
+    "bbox": [
+      77.0,
+      211.7,
+      521.2,
+      225.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b014",
+    "text": "•\t Dans quelle mesure l’application du CDS réduit-elle la validité et l’utilité des données ?",
+    "bbox": [
+      77.0,
+      229.7,
+      482.1,
+      243.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b015",
+    "text": "•\t Comment l’application du CDS affecte-t-elle la transparence ?",
+    "bbox": [
+      77.0,
+      247.7,
+      368.4,
+      261.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b016",
+    "text": "•\t Comment vous assurer que le personnel ne compte pas trop sur les résultats d’une évaluation",
+    "bbox": [
+      77.0,
+      265.7,
+      518.1,
+      279.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b017",
+    "text": "des risques de divulgation d’un CDS et qu’il continue à faire preuve d’esprit critique face aux",
+    "bbox": [
+      88.4,
+      278.9,
+      509.4,
+      292.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b018",
+    "text": "risques potentiels des différents types de données ?",
+    "bbox": [
+      88.4,
+      292.1,
+      324.2,
+      306.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b019",
+    "text": "REACH a établi qu’il serait réalisable sur le plan opérationnel de déployer relativement facilement les",
+    "bbox": [
+      65.7,
+      318.5,
+      527.0,
+      332.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b020",
+    "text": "aspects techniques d’un CDS tant au niveau du siège que sur le terrain. Au siège, cela impliquerait",
+    "bbox": [
+      65.7,
+      331.7,
+      512.0,
+      345.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b021",
+    "text": "d’exécuter un script sur tous les jeux de données produits ou publiés par REACH. Sur le terrain, cela",
+    "bbox": [
+      65.7,
+      344.9,
+      518.2,
+      358.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b022",
+    "text": "exigerait des équipes pays qu’elles utilisent sdcMicro ou un outil similaire sur tous les jeux de données",
+    "bbox": [
+      65.7,
+      358.1,
+      532.6,
+      372.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b023",
+    "text": "produits dans le pays.",
+    "bbox": [
+      65.7,
+      371.3,
+      167.8,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b024",
+    "text": "Au-delà des aspects techniques du CDS, REACH voit un éventuel défi ou risque d’engorgement dans",
+    "bbox": [
+      65.7,
+      397.7,
+      520.7,
+      411.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b025",
+    "text": "la composante manuelle du processus, selon laquelle l’équipe doit décider si une technique de",
+    "bbox": [
+      65.7,
+      410.9,
+      500.1,
+      424.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b026",
+    "text": "contrôle de la divulgation particulière est adaptée, quelles variables supprimer ou sinon brouiller et",
+    "bbox": [
+      65.7,
+      424.1,
+      521.5,
+      438.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b027",
+    "text": "comment interpréter et communiquer les résultats du processus. Ces décisions prennent du temps et",
+    "bbox": [
+      65.7,
+      437.3,
+      529.5,
+      451.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b028",
+    "text": "nécessitent une compréhension du contexte auquel les données se rapportent.",
+    "bbox": [
+      65.7,
+      450.5,
+      428.0,
+      464.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b029",
+    "text": "À court terme, REACH continuera de collaborer avec l’équipe HDX pour mener des contrôles de la",
+    "bbox": [
+      65.7,
+      476.9,
+      509.0,
+      490.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b030",
+    "text": "divulgation des données statistiques sur des données d’enquête et d’évaluation avant leur publication",
+    "bbox": [
+      65.7,
+      490.1,
+      533.0,
+      504.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b031",
+    "text": "sur HDX. Cette expérience permettra à REACH de déterminer la meilleure façon d’intégrer à l’avenir le",
+    "bbox": [
+      65.7,
+      503.3,
+      527.1,
+      517.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b032",
+    "text": "CDS dans ses propres flux de travail au niveau des pays comme au niveau global.",
+    "bbox": [
+      65.7,
+      516.5,
+      432.8,
+      530.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b033",
+    "text": "Dans cette note d’orientation, le Centre et ses collaborateurs recommandent aux organisations d’investir",
+    "bbox": [
+      54.6,
+      595.8,
+      533.2,
+      609.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b034",
+    "text": "dans les trois domaines suivants pour réussir l’adoption du CDS :",
+    "bbox": [
+      54.6,
+      609.0,
+      349.2,
+      622.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b035",
+    "text": "1. Sélection de l’outil approprié",
+    "bbox": [
+      65.9,
+      632.8,
+      218.2,
+      647.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b036",
+    "text": "On trouve en ligne et gratuitement toute une gamme d’outils pour effectuer du CDS. D’après le Centre",
+    "bbox": [
+      77.3,
+      646.4,
+      541.6,
+      660.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b037",
+    "text": "et les autres organisations humanitaires consultées au cours des recherches de ce dernier, le logiciel le",
+    "bbox": [
+      77.3,
+      659.6,
+      545.9,
+      673.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b038",
+    "text": "plus utilisé actuellement est sdcMicro.",
+    "bbox": [
+      77.3,
+      672.4,
+      256.3,
+      687.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b039",
+    "text": "Le Centre a choisi sdcMicro pour sa capacité d’évolution et de gestion d’importants volumes de",
+    "bbox": [
+      77.3,
+      699.2,
+      512.6,
+      713.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b040",
+    "text": "données ; et parce qu’il est gratuit et open source. D’autres outils gratuits et open source incluent",
+    "bbox": [
+      77.3,
+      712.4,
+      521.4,
+      726.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b041",
+    "text": "μArgus et ARX. Lors de la sélection de l’outil approprié pour effectuer un CDS, les organisations doivent",
+    "bbox": [
+      77.3,
+      725.4,
+      549.1,
+      739.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b042",
+    "text": "tenir compte de la flexibilité de l’outil dans la sélection des variables clés, de la capacité de l’outil à",
+    "bbox": [
+      77.3,
+      738.8,
+      527.6,
+      752.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b043",
+    "text": "gérer les grands ensembles de données, de la fonctionnalité intégrée de compromis risque-utilité et de",
+    "bbox": [
+      77.3,
+      752.0,
+      547.5,
+      765.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b044",
+    "text": "la facilité avec laquelle le personnel serait en mesure de naviguer l’interface utilisateur de l’outil.",
+    "bbox": [
+      77.3,
+      765.2,
+      515.9,
+      779.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b045",
+    "text": "RECOMMANDATIONS POUR ACCROÎTRE L’UTILISATION DU CDS DANS LES",
+    "bbox": [
+      53.4,
+      558.9,
+      498.8,
+      573.9
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 5,
+    "block_id": "191_p5_b046",
+    "text": "CONTEXTES HUMANITAIRES",
+    "bbox": [
+      53.4,
+      572.1,
+      223.0,
+      587.1
+    ],
+    "font_size": 11.0,
+    "font_name": "OpenSans-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b001",
+    "text": "THE CENTRE FOR HUMANITARIAN DATA",
+    "bbox": [
+      53.4,
+      791.6,
+      186.4,
+      801.7
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b002",
+    "text": "Août 2019",
+    "bbox": [
+      280.6,
+      791.9,
+      314.1,
+      802.0
+    ],
+    "font_size": 8.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b003",
+    "text": "2. Intégration du CDS dans les flux de travail de gestion des données existants",
+    "bbox": [
+      65.2,
+      44.3,
+      438.1,
+      58.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b004",
+    "text": "La mise en place d’un processus d’application de CDS dans les flux existants est essentielle à l’adoption",
+    "bbox": [
+      76.5,
+      57.9,
+      547.8,
+      71.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b005",
+    "text": "durable de la méthode. Le CDS exige la participation d’un personnel possédant des connaissances",
+    "bbox": [
+      76.5,
+      71.1,
+      526.2,
+      85.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b006",
+    "text": "et des compétences différentes, notamment  un spécialiste technique pour appliquer les méthodes",
+    "bbox": [
+      76.5,
+      84.3,
+      530.2,
+      98.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b007",
+    "text": "statistiques et un spécialiste programme ayant une compréhension du contexte des données afin",
+    "bbox": [
+      76.5,
+      97.5,
+      521.1,
+      111.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b008",
+    "text": "de déterminer  l’équilibre acceptable entre les risques et l’utilité. Un flux de travail bien organisé",
+    "bbox": [
+      76.5,
+      110.7,
+      515.3,
+      124.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b009",
+    "text": "permettra d’améliorer l’efficacité du processus, et d’éviter une interprétation erronée ou une",
+    "bbox": [
+      76.5,
+      123.9,
+      499.2,
+      137.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b010",
+    "text": "dépendance excessive aux résultats de CDS.",
+    "bbox": [
+      76.5,
+      137.1,
+      276.7,
+      151.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b011",
+    "text": "3. Améliorer la pratique par l’apprentissage continu",
+    "bbox": [
+      65.2,
+      160.9,
+      297.9,
+      175.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b012",
+    "text": "À mesure que les organisations appliquent le CDS, elles se familiariseront avec la sensibilité des",
+    "bbox": [
+      76.5,
+      174.5,
+      514.0,
+      188.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b013",
+    "text": "différentes variables clés, le niveau de risque approprié à viser, le niveau acceptable de perte",
+    "bbox": [
+      76.5,
+      187.7,
+      499.7,
+      201.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b014",
+    "text": "d’information et d’autres considérations qui doivent être prises en compte dans le processus. La tenue",
+    "bbox": [
+      76.5,
+      200.9,
+      544.8,
+      214.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b015",
+    "text": "d’un registre de chaque application de CDS et la documentation des leçons apprises aideront à affiner",
+    "bbox": [
+      76.5,
+      214.1,
+      543.0,
+      228.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b016",
+    "text": "le processus au fil du temps. Le partage de ces connaissances en interne et, le cas échéant, avec la",
+    "bbox": [
+      76.5,
+      227.3,
+      524.3,
+      241.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b017",
+    "text": "communauté humanitaire en général peut favoriser une gestion plus cohérente et responsable des",
+    "bbox": [
+      76.5,
+      240.5,
+      528.4,
+      254.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b018",
+    "text": "microdonnées dans le secteur.",
+    "bbox": [
+      76.5,
+      253.7,
+      215.7,
+      267.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b019",
+    "text": "Dans le cadre de ses efforts visant à soutenir une gestion et un partage plus responsable des données",
+    "bbox": [
+      53.9,
+      277.9,
+      516.7,
+      291.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b020",
+    "text": "humanitaires sensibles, le Centre améliore son modèle de service9 pour la conduite de CDS. Ce travail inclut",
+    "bbox": [
+      53.9,
+      291.1,
+      546.1,
+      305.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b021",
+    "text": "l’introduction d’un processus automatisé de détection des risques pour toutes les données partagées via",
+    "bbox": [
+      53.9,
+      304.3,
+      533.4,
+      318.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b022",
+    "text": "HDX, qui, lorsqu’il est effectué manuellement, peut prendre plusieurs heures pour les feuilles de calcul",
+    "bbox": [
+      53.9,
+      317.5,
+      522.4,
+      331.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b023",
+    "text": "volumineuses. Grâce à ce processus, un script s’exécutera sur toutes les données téléchargées sur la",
+    "bbox": [
+      53.9,
+      330.7,
+      510.2,
+      344.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b024",
+    "text": "plateforme pour identifier les microdonnées et autres formes de données potentiellement sensibles. Les",
+    "bbox": [
+      53.9,
+      343.9,
+      531.9,
+      357.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b025",
+    "text": "données à haut risque seront envoyées dans un flux de travail dédié, et ces données seront évaluées et, si",
+    "bbox": [
+      53.9,
+      357.1,
+      535.9,
+      371.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b026",
+    "text": "nécessaire, modifiées par l’intermédiaire du CDS afin de réduire le risque de réidentification avant que les",
+    "bbox": [
+      53.9,
+      370.3,
+      537.0,
+      384.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b027",
+    "text": "données ne soient partagées plus largement.",
+    "bbox": [
+      53.9,
+      383.5,
+      259.2,
+      397.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b028",
+    "text": "Pour en savoir plus sur le travail du Centre sur le CDS,  contactez : centrehumdata@un.org.",
+    "bbox": [
+      53.9,
+      407.5,
+      469.0,
+      421.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b029",
+    "text": "9    Pour en savoir plus sur l’approche du Centre à l’égard du CDS, cliquez ici : https://humanitarian.atlassian.net/wiki/spaces/HDXKB/",
+    "bbox": [
+      53.9,
+      759.2,
+      487.6,
+      767.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Book",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b030",
+    "text": "pages/1381498881/ Statistical+Disclosure+Control+on+HDX.",
+    "bbox": [
+      53.9,
+      768.2,
+      256.5,
+      776.9
+    ],
+    "font_size": 7.5,
+    "font_name": "Stag-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b031",
+    "text": "CONTRIBUTEURS : UNHCR ET REACH INITIATIVE.",
+    "bbox": [
+      53.9,
+      568.7,
+      257.0,
+      581.6
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b032",
+    "text": "Le Centre for Humanitarian Data (ci-après dénommé le « Centre »), en collaboration avec des partenaires clés,",
+    "bbox": [
+      65.7,
+      594.1,
+      525.0,
+      607.3
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b033",
+    "text": "publie une série de huit notes d’orientation sur la Responsabilité des données dans l’action humanitaire au cours",
+    "bbox": [
+      65.7,
+      606.5,
+      534.8,
+      619.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b034",
+    "text": "de 2019 et 2020. La série de notes d’orientation fait suite à la publication du projet de directives opérationnelles",
+    "bbox": [
+      65.7,
+      618.3,
+      533.5,
+      631.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b035",
+    "text": "sur la Responsabilité des données du Bureau de la coordination des affaires humanitaires des Nations Unies",
+    "bbox": [
+      65.7,
+      630.3,
+      526.7,
+      643.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b036",
+    "text": "(UNOCHA) en mars 2019. Par le biais de cette série, le Centre vise à fournir des orientations supplémentaires",
+    "bbox": [
+      65.7,
+      642.3,
+      515.1,
+      655.2
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b037",
+    "text": "sur des questions, des processus et des outils spécifiques pour la mise en pratique de la Responsabilité des",
+    "bbox": [
+      65.7,
+      654.5,
+      510.5,
+      667.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b038",
+    "text": "données. Cette série est rendue possible grâce au généreux soutien de la Direction générale de protection civile",
+    "bbox": [
+      65.7,
+      666.5,
+      528.1,
+      679.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b039",
+    "text": "et opérations d’aide humanitaire européennes (DG ECHO).",
+    "bbox": [
+      65.7,
+      678.5,
+      309.2,
+      691.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b040",
+    "text": "La traduction de ces notes a été facilitée par CartONG grâce au soutien du Ministère français de l’Europe et des",
+    "bbox": [
+      65.7,
+      702.5,
+      523.3,
+      715.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "191",
+    "page_number": 6,
+    "block_id": "191_p6_b041",
+    "text": "Affaires Etrangètres.",
+    "bbox": [
+      65.7,
+      714.5,
+      148.9,
+      727.1
+    ],
+    "font_size": 10.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  }
+]

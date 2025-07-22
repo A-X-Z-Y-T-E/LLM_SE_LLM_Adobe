@@ -1,0 +1,1217 @@
+[
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b001",
+    "text": "604-CD-003-002",
+    "bbox": [
+      536.2,
+      74.1,
+      549.9,
+      148.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b002",
+    "text": "Data Ingest Activities - TRMM",
+    "bbox": [
+      58.2,
+      175.7,
+      102.3,
+      632.8
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b003",
+    "text": "Level 0 Ingest Scenario",
+    "bbox": [
+      92.7,
+      230.9,
+      136.8,
+      586.7
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b004",
+    "text": "All of the messages listed below go to one",
+    "bbox": [
+      215.2,
+      398.6,
+      237.2,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b005",
+    "text": "or more log files which may be viewed by",
+    "bbox": [
+      234.4,
+      405.8,
+      256.4,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b006",
+    "text": "operations personnel by monitoring the",
+    "bbox": [
+      253.6,
+      420.9,
+      275.6,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b007",
+    "text": "display or by browsing the log files.",
+    "bbox": [
+      272.8,
+      449.3,
+      294.8,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b008",
+    "text": "System",
+    "bbox": [
+      190.8,
+      631.9,
+      215.6,
+      696.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b009",
+    "text": "Operator",
+    "bbox": [
+      190.8,
+      301.8,
+      215.6,
+      377.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b010",
+    "text": "1)  SDPF sends Data Availability Notice",
+    "bbox": [
+      319.0,
+      399.6,
+      341.0,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b011",
+    "text": "(DAN) to Ingest (LaRC and MSFC).",
+    "bbox": [
+      338.2,
+      432.6,
+      360.2,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b012",
+    "text": "Receipt of the DAN is logged.  This",
+    "bbox": [
+      357.4,
+      431.6,
+      379.4,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b013",
+    "text": "process is assigned a request ID, and",
+    "bbox": [
+      376.8,
+      411.1,
+      398.9,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b014",
+    "text": "from this point forward the event log",
+    "bbox": [
+      396.1,
+      419.2,
+      418.1,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b015",
+    "text": "and status display will contain",
+    "bbox": [
+      415.3,
+      466.3,
+      437.3,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b016",
+    "text": "information related to this transaction.",
+    "bbox": [
+      434.5,
+      387.1,
+      456.5,
+      702.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b017",
+    "text": "(Subsystems Involved: INS, MSS, CLS)",
+    "bbox": [
+      155.2,
+      287.1,
+      171.6,
+      497.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b018",
+    "text": "Data Ingest 3a",
+    "bbox": [
+      536.2,
+      651.6,
+      549.9,
+      716.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 1,
+    "block_id": "692_p1_b019",
+    "text": "4-159",
+    "bbox": [
+      536.2,
+      358.1,
+      549.9,
+      383.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b001",
+    "text": "604-CD-003-002",
+    "bbox": [
+      536.2,
+      74.1,
+      549.9,
+      148.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b002",
+    "text": "Data Ingest Activities - TRMM",
+    "bbox": [
+      70.2,
+      175.7,
+      114.3,
+      632.8
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b003",
+    "text": "Level 0 Ingest Scenario (cont.)",
+    "bbox": [
+      104.8,
+      174.2,
+      148.8,
+      640.0
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b004",
+    "text": "System",
+    "bbox": [
+      184.8,
+      637.9,
+      209.6,
+      702.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b005",
+    "text": "Operator",
+    "bbox": [
+      184.8,
+      307.8,
+      209.6,
+      383.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b006",
+    "text": "- Ingest generates a corresponding",
+    "bbox": [
+      211.0,
+      432.3,
+      233.0,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b007",
+    "text": "ingest request and stores the request",
+    "bbox": [
+      230.2,
+      418.0,
+      252.2,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b008",
+    "text": "on a prioritized list.  A summary of the",
+    "bbox": [
+      249.4,
+      412.7,
+      271.4,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b009",
+    "text": "DAN contents indicating data source,",
+    "bbox": [
+      268.8,
+      418.9,
+      290.8,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b010",
+    "text": "number of files, and location of data is",
+    "bbox": [
+      288.0,
+      410.9,
+      310.1,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b011",
+    "text": "placed in the event log.",
+    "bbox": [
+      307.2,
+      531.0,
+      329.3,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b012",
+    "text": "-  Ingest Tech. may monitor the status",
+    "bbox": [
+      210.9,
+      97.3,
+      233.0,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b013",
+    "text": "display showing subsequent ingest",
+    "bbox": [
+      230.2,
+      115.0,
+      252.2,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b014",
+    "text": "request processing and cancel",
+    "bbox": [
+      249.4,
+      150.6,
+      271.4,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b015",
+    "text": "requests.",
+    "bbox": [
+      268.8,
+      314.3,
+      290.8,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b016",
+    "text": "-  Acknowledges the request (DAA)",
+    "bbox": [
+      335.3,
+      427.8,
+      357.4,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b017",
+    "text": "and a copy of the DAA indicating",
+    "bbox": [
+      354.5,
+      452.7,
+      376.6,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b018",
+    "text": "readiness to ingest data is logged.",
+    "bbox": [
+      373.7,
+      445.6,
+      395.8,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b019",
+    "text": "2)  Ingest function schedules and",
+    "bbox": [
+      403.0,
+      450.1,
+      425.1,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b020",
+    "text": "performs data transfer.  Devices",
+    "bbox": [
+      422.2,
+      458.9,
+      444.3,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b021",
+    "text": "allocated to the data transfer are",
+    "bbox": [
+      441.4,
+      456.3,
+      463.5,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b022",
+    "text": "identified. Data transfer status/",
+    "bbox": [
+      460.9,
+      468.7,
+      482.9,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b023",
+    "text": "recoverable errors indicated in the",
+    "bbox": [
+      480.1,
+      441.1,
+      502.1,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b024",
+    "text": "event log.",
+    "bbox": [
+      499.3,
+      628.8,
+      521.3,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b025",
+    "text": "Data Ingest 3b",
+    "bbox": [
+      536.2,
+      651.6,
+      549.9,
+      716.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 2,
+    "block_id": "692_p2_b026",
+    "text": "4-160",
+    "bbox": [
+      536.2,
+      358.1,
+      549.9,
+      383.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b001",
+    "text": "604-CD-003-002",
+    "bbox": [
+      536.2,
+      74.1,
+      549.9,
+      148.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b002",
+    "text": "Data Ingest Activities - TRMM",
+    "bbox": [
+      76.2,
+      175.7,
+      120.3,
+      632.8
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b003",
+    "text": "Level 0 Ingest Scenario (cont.)",
+    "bbox": [
+      110.8,
+      177.5,
+      154.8,
+      640.0
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b004",
+    "text": "System",
+    "bbox": [
+      184.8,
+      625.9,
+      209.6,
+      690.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b005",
+    "text": "Operator",
+    "bbox": [
+      184.8,
+      295.8,
+      209.6,
+      371.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b006",
+    "text": "3)  No data conversion required for",
+    "bbox": [
+      211.0,
+      421.1,
+      233.0,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b007",
+    "text": "SDPF Level 0 data",
+    "bbox": [
+      230.2,
+      557.2,
+      252.2,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b008",
+    "text": "4)  Ingest function extracts SDPF Level 0",
+    "bbox": [
+      259.0,
+      382.0,
+      281.0,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b009",
+    "text": "metadata and checks selected metadata",
+    "bbox": [
+      278.2,
+      386.4,
+      300.2,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b010",
+    "text": "parameters (e.g., SFDU header",
+    "bbox": [
+      297.4,
+      458.5,
+      319.4,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b011",
+    "text": "information).  Status of metadata",
+    "bbox": [
+      316.8,
+      441.6,
+      338.9,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b012",
+    "text": "parameter check is written to event log.",
+    "bbox": [
+      336.0,
+      395.3,
+      358.1,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b013",
+    "text": "5)  Ingest function requests to store",
+    "bbox": [
+      361.0,
+      419.4,
+      383.0,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b014",
+    "text": "SDPF Level 0 data and metadata in the",
+    "bbox": [
+      380.2,
+      398.0,
+      402.3,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b015",
+    "text": "Level 0 data repository.  Data server",
+    "bbox": [
+      399.4,
+      416.7,
+      421.5,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b016",
+    "text": "insert request generated.  Subscription",
+    "bbox": [
+      418.9,
+      393.6,
+      440.9,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b017",
+    "text": "(if any) triggered to indicate availability",
+    "bbox": [
+      438.1,
+      394.5,
+      460.1,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b018",
+    "text": "of data when the archive process is",
+    "bbox": [
+      457.3,
+      421.1,
+      479.3,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b019",
+    "text": "completed.",
+    "bbox": [
+      476.5,
+      611.5,
+      498.5,
+      696.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b020",
+    "text": "Data Ingest 3c",
+    "bbox": [
+      536.2,
+      652.1,
+      549.9,
+      716.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 3,
+    "block_id": "692_p3_b021",
+    "text": "4-161",
+    "bbox": [
+      536.2,
+      358.1,
+      549.9,
+      383.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b001",
+    "text": "604-CD-003-002",
+    "bbox": [
+      536.2,
+      74.1,
+      549.9,
+      148.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b002",
+    "text": "Data Ingest Activities - TRMM",
+    "bbox": [
+      70.2,
+      175.7,
+      114.3,
+      632.8
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b003",
+    "text": "Level 0 Ingest Scenario (cont.)",
+    "bbox": [
+      104.8,
+      177.5,
+      148.8,
+      640.0
+    ],
+    "font_size": 32.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b004",
+    "text": "System",
+    "bbox": [
+      184.8,
+      637.9,
+      209.6,
+      702.0
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b005",
+    "text": "Operator",
+    "bbox": [
+      184.8,
+      307.8,
+      209.6,
+      383.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b006",
+    "text": "6)  DDN is sent to SDPF and a DDA is",
+    "bbox": [
+      211.0,
+      420.7,
+      233.0,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b007",
+    "text": "received and logged.  Status message is",
+    "bbox": [
+      230.2,
+      395.7,
+      252.2,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b008",
+    "text": "provided to data provider and Ingest",
+    "bbox": [
+      249.4,
+      426.0,
+      271.4,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b009",
+    "text": "History Log when archiving is complete.",
+    "bbox": [
+      268.8,
+      392.2,
+      290.8,
+      708.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b010",
+    "text": "-  DIT may view the history log.  Request",
+    "bbox": [
+      211.0,
+      78.6,
+      233.0,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b011",
+    "text": "ID associated with this ingest process",
+    "bbox": [
+      230.2,
+      95.5,
+      252.2,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b012",
+    "text": "drops off of the ingest status display at",
+    "bbox": [
+      249.4,
+      86.6,
+      271.4,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b013",
+    "text": "this time.",
+    "bbox": [
+      268.8,
+      315.2,
+      290.8,
+      389.9
+    ],
+    "font_size": 16.0,
+    "font_name": "Helvetica-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b014",
+    "text": "Data Ingest 3d",
+    "bbox": [
+      536.2,
+      651.6,
+      549.9,
+      716.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "692",
+    "page_number": 4,
+    "block_id": "692_p4_b015",
+    "text": "4-162",
+    "bbox": [
+      536.2,
+      358.1,
+      549.9,
+      383.6
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,1382 @@
+[
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b019",
+    "text": "3164303",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b020",
+    "text": "05/01/2011",
+    "bbox": [
+      212.3,
+      400.0,
+      281.1,
+      418.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b021",
+    "text": "1259303, 3158307",
+    "bbox": [
+      210.1,
+      237.1,
+      310.2,
+      253.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b022",
+    "text": "05/21/2013",
+    "bbox": [
+      418.1,
+      194.3,
+      486.9,
+      213.2
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b023",
+    "text": "LIQ-Liquidation",
+    "bbox": [
+      214.7,
+      136.0,
+      297.3,
+      152.7
+    ],
+    "font_size": 12.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b024",
+    "text": "A-428-201",
+    "bbox": [
+      209.4,
+      293.6,
+      265.4,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b025",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b026",
+    "text": "78 FR 29702",
+    "bbox": [
+      213.0,
+      193.9,
+      292.4,
+      212.7
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b027",
+    "text": "COR-Correction",
+    "bbox": [
+      214.5,
+      156.5,
+      297.1,
+      172.3
+    ],
+    "font_size": 11.5,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b028",
+    "text": "06/13/2013",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b029",
+    "text": "Antidumping",
+    "bbox": [
+      417.0,
+      114.1,
+      493.4,
+      133.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b030",
+    "text": "09/14/2011",
+    "bbox": [
+      415.7,
+      397.9,
+      484.4,
+      416.8
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b031",
+    "text": "05/21/2013",
+    "bbox": [
+      212.1,
+      359.9,
+      280.9,
+      378.8
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 1,
+    "block_id": "272_p1_b032",
+    "text": "Message Date: 06/13/2013         Message Number: 3164303         Page 1 of 4",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b001",
+    "text": "Notice of Lifting of Suspension Date: 05/21/2013",
+    "bbox": [
+      36.0,
+      23.1,
+      293.5,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b004",
+    "text": "RE:        Correction of message 3158307, dated 06/07/2013 concerning the antidumping duty",
+    "bbox": [
+      36.0,
+      163.1,
+      530.3,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b005",
+    "text": "order on ball bearings and parts thereof from Germany (A-428-201)",
+    "bbox": [
+      36.0,
+      183.1,
+      393.5,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b006",
+    "text": "1.  This is a correction to message 3158307, dated 06/07/2013, to correct paragraph 1.",
+    "bbox": [
+      36.0,
+      223.1,
+      503.6,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b007",
+    "text": "2.  Paragraph 1 of message 3158307 contains incorrect information about the company-specific",
+    "bbox": [
+      36.0,
+      263.1,
+      543.6,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b008",
+    "text": "case numbers.  Below is the fully corrected message.",
+    "bbox": [
+      36.0,
+      283.1,
+      319.4,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b009",
+    "text": "3.  For all shipments of ball bearings and parts thereof from Germany produced and/or exported",
+    "bbox": [
+      36.0,
+      323.1,
+      543.6,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b010",
+    "text": "by firms listed below and entered, or withdrawn from warehouse, for consumption during the",
+    "bbox": [
+      36.0,
+      343.1,
+      524.2,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b011",
+    "text": "period 05/01/2011 through 09/14/2011, liquidate all entries without regard to antidumping duties:",
+    "bbox": [
+      36.0,
+      363.1,
+      546.3,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b012",
+    "text": "Producer and/or Exporter:  Audi AG",
+    "bbox": [
+      36.0,
+      403.1,
+      225.4,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b013",
+    "text": "Case Number: A-428-201-093",
+    "bbox": [
+      36.0,
+      423.1,
+      196.7,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b014",
+    "text": "Producer and/or Exporter: Bayerische Motoren Werke AG",
+    "bbox": [
+      36.0,
+      463.1,
+      342.8,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b015",
+    "text": "Case Number: A-428-201-000",
+    "bbox": [
+      36.0,
+      483.1,
+      196.7,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b016",
+    "text": "Producer and/or Exporter:  Volkswagen AG",
+    "bbox": [
+      36.0,
+      523.1,
+      266.1,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b017",
+    "text": "Case Number: A-428-201-101",
+    "bbox": [
+      36.0,
+      543.1,
+      196.7,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b018",
+    "text": "Producer and/or Exporter:  Volkswagen Zubehor GmbH",
+    "bbox": [
+      36.0,
+      583.1,
+      331.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b019",
+    "text": "Case Number: A-428-201-102",
+    "bbox": [
+      36.0,
+      603.1,
+      196.7,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b020",
+    "text": "Producer and/or Exporter:  W&H Dentalwerk Burmoos GmbH",
+    "bbox": [
+      36.0,
+      643.1,
+      364.8,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b021",
+    "text": "Case Number: A-428-201-103",
+    "bbox": [
+      36.0,
+      663.1,
+      196.7,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b022",
+    "text": "Certain firms did not have their own case number during the period of review; entries may have",
+    "bbox": [
+      36.0,
+      703.1,
+      540.2,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b023",
+    "text": "been made under A-428-201-000 or other company-specific case numbers.",
+    "bbox": [
+      36.0,
+      723.1,
+      436.2,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b024",
+    "text": "4.  Notice of the lifting of suspension of liquidation of entries of subject merchandise covered by",
+    "bbox": [
+      36.0,
+      763.1,
+      540.9,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b025",
+    "text": "paragraph 3 occurred with the publication of the final results of administrative review (78 FR",
+    "bbox": [
+      36.0,
+      783.1,
+      522.2,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 2,
+    "block_id": "272_p2_b026",
+    "text": "Message Date: 06/13/2013         Message Number: 3164303         Page 2 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b001",
+    "text": "29702, 05/21/2013).  The antidumping duty order on ball bearings and parts thereof from Germany",
+    "bbox": [
+      36.0,
+      43.1,
+      558.9,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b002",
+    "text": "was revoked, effective 09/15/2011 (see message 1259303 dated 09/16/2011).",
+    "bbox": [
+      36.0,
+      63.1,
+      450.9,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b003",
+    "text": "5.  There are no injunctions applicable to the entries covered by this instruction.",
+    "bbox": [
+      36.0,
+      103.1,
+      460.2,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b004",
+    "text": "6.  The assessment of antidumping duties by CBP on shipments or entries of this merchandise is",
+    "bbox": [
+      36.0,
+      143.1,
+      549.6,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b005",
+    "text": "subject to the provisions of section 778 of the Tariff Act of 1930, as amended.  Section 778",
+    "bbox": [
+      36.0,
+      163.1,
+      516.9,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b006",
+    "text": "requires that CBP pay interest on overpayments or assess interest on underpayments of the",
+    "bbox": [
+      36.0,
+      183.1,
+      524.9,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b007",
+    "text": "required amounts deposited as estimated antidumping duties.  The interest provisions are not",
+    "bbox": [
+      36.0,
+      203.1,
+      531.6,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b008",
+    "text": "applicable to cash or bonds posted as estimated antidumping duties before the date of publication",
+    "bbox": [
+      36.0,
+      223.1,
+      555.0,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b009",
+    "text": "of the antidumping duty order.  Interest shall be calculated from the date payment of estimated",
+    "bbox": [
+      36.0,
+      243.1,
+      536.3,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b010",
+    "text": "antidumping duties is required through the date of liquidation.  The rate at which such interest is",
+    "bbox": [
+      36.0,
+      263.1,
+      542.9,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b011",
+    "text": "payable is the rate in effect under section 6621 of the Internal Revenue Code of 1954 for such",
+    "bbox": [
+      36.0,
+      283.1,
+      534.3,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b012",
+    "text": "period.",
+    "bbox": [
+      36.0,
+      303.1,
+      72.7,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b013",
+    "text": "7.  Upon assessment of antidumping duties, CBP shall require that the importer provide a",
+    "bbox": [
+      36.0,
+      343.1,
+      509.5,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b014",
+    "text": "reimbursement statement, as described in section 351.402(f)(2) of commerce’s regulations.  The",
+    "bbox": [
+      36.0,
+      363.1,
+      547.5,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b015",
+    "text": "importer should provide the reimbursement statement prior to liquidation of the entry.  If the",
+    "bbox": [
+      36.0,
+      383.1,
+      518.9,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b016",
+    "text": "importer certifies that it has an agreement with the producer, seller, or exporter, to be reimbursed",
+    "bbox": [
+      36.0,
+      403.1,
+      549.5,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b017",
+    "text": "antidumping duties, CBP shall double the antidumping duties in accordance with the above-",
+    "bbox": [
+      36.0,
+      423.1,
+      522.2,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b018",
+    "text": "referenced regulation.  Additionally, if the importer does not provide the reimbursement statement",
+    "bbox": [
+      36.0,
+      443.1,
+      552.2,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b019",
+    "text": "prior to liquidation, reimbursement shall be presumed and CBP shall double the antidumping",
+    "bbox": [
+      36.0,
+      463.1,
+      526.2,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b020",
+    "text": "duties due.   If an importer timely files a protest challenging the presumption of reimbursement and",
+    "bbox": [
+      36.0,
+      483.1,
+      558.2,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b021",
+    "text": "doubling of duties, consistent with CBP’s protest process, CBP may accept the reimbursement",
+    "bbox": [
+      36.0,
+      503.1,
+      536.9,
+      519.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b022",
+    "text": "statement filed with the protest to rebut the presumption of reimbursement.",
+    "bbox": [
+      36.0,
+      523.1,
+      435.5,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b023",
+    "text": "8.  If there are any questions by the importing public regarding this message, please contact the",
+    "bbox": [
+      36.0,
+      563.1,
+      543.6,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b024",
+    "text": "Call Center for the Office of AD/CVD Operations, Import Administration, International Trade",
+    "bbox": [
+      36.0,
+      583.1,
+      519.5,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b025",
+    "text": "Administration, U.S. Department of Commerce at (202) 482-0984.  CBP ports should submit their",
+    "bbox": [
+      36.0,
+      603.1,
+      550.9,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b026",
+    "text": "inquiries through authorized CBP channels only.  (This message was generated by O1:CC",
+    "bbox": [
+      36.0,
+      623.1,
+      515.5,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b027",
+    "text": "initials.)",
+    "bbox": [
+      36.0,
+      643.1,
+      76.7,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b028",
+    "text": "9.  There are no restrictions on the release of this information.",
+    "bbox": [
+      36.0,
+      683.1,
+      366.8,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b029",
+    "text": "Michael B. Walsh",
+    "bbox": [
+      36.0,
+      723.1,
+      128.7,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 3,
+    "block_id": "272_p3_b030",
+    "text": "Message Date: 06/13/2013         Message Number: 3164303         Page 3 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 4,
+    "block_id": "272_p4_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 4,
+    "block_id": "272_p4_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 4,
+    "block_id": "272_p4_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "272",
+    "page_number": 4,
+    "block_id": "272_p4_b004",
+    "text": "Message Date: 06/13/2013         Message Number: 3164303         Page 4 of 4",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

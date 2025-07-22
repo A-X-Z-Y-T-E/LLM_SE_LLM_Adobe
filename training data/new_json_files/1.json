@@ -1,0 +1,587 @@
+[
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b001",
+    "text": "Somalia Flood Exposure Methodology Note",
+    "bbox": [
+      72.0,
+      142.3,
+      401.5,
+      163.4
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b002",
+    "text": "Analysis for 2024 HNRP",
+    "bbox": [
+      72.0,
+      170.3,
+      253.3,
+      191.4
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b003",
+    "text": "This technical note summarises the methodology used to calculate the number of people",
+    "bbox": [
+      72.0,
+      238.9,
+      539.3,
+      251.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b004",
+    "text": "potentially exposed to flooding in Somalia in the 2024 Somalia Humanitarian Needs and",
+    "bbox": [
+      72.0,
+      253.9,
+      539.8,
+      266.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b005",
+    "text": "Response Plan (HNRP). The UN OCHA Centre for Humanitarian Data worked with a wide range",
+    "bbox": [
+      72.0,
+      268.9,
+      539.7,
+      281.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b006",
+    "text": "of technical partners to develop a methodology that was then endorsed by the Somalia ICCG",
+    "bbox": [
+      72.0,
+      283.9,
+      539.3,
+      296.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b007",
+    "text": "and HCT.",
+    "bbox": [
+      72.0,
+      298.9,
+      116.1,
+      311.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b008",
+    "text": "Daily FloodScan (1998-2022) & WorldPop (2020 UN Adjusted) raster data was analysed to gain",
+    "bbox": [
+      72.0,
+      328.9,
+      539.7,
+      341.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b009",
+    "text": "understanding of flood conditions across Somalia for both March-April-May (MAM) and",
+    "bbox": [
+      72.0,
+      343.9,
+      539.5,
+      356.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b010",
+    "text": "October-November-December (OND) seasons. FloodScan daily flood fraction Standard Flood",
+    "bbox": [
+      72.0,
+      358.9,
+      540.0,
+      371.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b011",
+    "text": "Exposure Depiction (SFED) was aggregated to yearly seasonal maximum fraction composites",
+    "bbox": [
+      72.0,
+      373.9,
+      539.9,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b012",
+    "text": "for both the MAM and OND seasons for all years of historical FloodScan data (1998-2022).",
+    "bbox": [
+      72.0,
+      388.9,
+      512.8,
+      401.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b013",
+    "text": "The yearly seasonal SFED composites were then processed/reclassified in two distinct ways:",
+    "bbox": [
+      72.0,
+      418.9,
+      523.8,
+      431.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b014",
+    "text": "Composites reclassified to binary using a 20 percent flood fraction threshold.",
+    "bbox": [
+      108.0,
+      433.9,
+      483.0,
+      446.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b015",
+    "text": "Composites masked to just remove any flood fraction values < 0.05 percent and the",
+    "bbox": [
+      108.0,
+      448.9,
+      539.5,
+      461.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b016",
+    "text": "flood fraction (0-100 percent) retained.",
+    "bbox": [
+      108.0,
+      463.9,
+      299.0,
+      476.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b017",
+    "text": "All composites in both sets of processed yearly-seasonal flood fraction rasters were then",
+    "bbox": [
+      72.0,
+      493.9,
+      539.9,
+      506.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b018",
+    "text": "multiplied by the WorldPop (2020 UN Adjusted) population estimate raster to create two sets of",
+    "bbox": [
+      72.0,
+      508.9,
+      539.3,
+      521.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b019",
+    "text": "yearly",
+    "bbox": [
+      72.0,
+      523.9,
+      100.5,
+      536.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b020",
+    "text": "seasonal flood exposure rasters. These were then aggregated at the second",
+    "bbox": [
+      110.0,
+      523.9,
+      539.3,
+      536.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b021",
+    "text": "administrative level via zonal statistics (sum) to obtain the estimated population exposure per",
+    "bbox": [
+      72.0,
+      538.9,
+      539.6,
+      551.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b022",
+    "text": "district for each season across all years for each set. These estimates were converted to the",
+    "bbox": [
+      72.0,
+      553.9,
+      539.4,
+      566.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b023",
+    "text": "percent of population exposed by dividing the estimates by the total population per district",
+    "bbox": [
+      72.0,
+      568.9,
+      539.5,
+      581.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b024",
+    "text": "(from World Pop raster). The percent exposure figure was then applied to the updated 2024",
+    "bbox": [
+      72.0,
+      583.9,
+      539.6,
+      596.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b025",
+    "text": "population data set (UN OCHA, UNFPA Methodology) to obtain updated population exposure",
+    "bbox": [
+      72.0,
+      598.9,
+      539.7,
+      611.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b026",
+    "text": "estimates. These data were further aggregated to administrative level 1.",
+    "bbox": [
+      72.0,
+      613.9,
+      421.9,
+      626.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b027",
+    "text": "Ranges for exposure were estimated using percentiles for both the MAM and OND seasons per",
+    "bbox": [
+      72.0,
+      643.9,
+      539.6,
+      656.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b028",
+    "text": "administrative level. As ECMWF seasonal forecast predicts an above average precipitation",
+    "bbox": [
+      72.0,
+      658.9,
+      539.5,
+      671.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b029",
+    "text": "season for MAM 2024, the range of population exposed was based on the 50th-95th percentile",
+    "bbox": [
+      72.0,
+      673.9,
+      539.6,
+      686.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b030",
+    "text": "levels. Since there was no available data to inform predictions for OND 2024, the 25-75th",
+    "bbox": [
+      72.0,
+      688.9,
+      539.7,
+      701.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b031",
+    "text": "percentile values were used to bound the range. The lower and upper limits of the ranges were",
+    "bbox": [
+      72.0,
+      703.9,
+      539.7,
+      716.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 1,
+    "block_id": "1_p1_b032",
+    "text": "Page 1 of 2",
+    "bbox": [
+      285.8,
+      745.0,
+      326.2,
+      754.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b001",
+    "text": "calculated at the administrative level using all of the historical yearly seasonal flood exposure",
+    "bbox": [
+      72.0,
+      72.4,
+      539.5,
+      85.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b002",
+    "text": "estimates. The two sets of",
+    "bbox": [
+      72.0,
+      87.4,
+      213.6,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b003",
+    "text": "range estimates were combined conservatively by taking the",
+    "bbox": [
+      225.1,
+      87.4,
+      539.8,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b004",
+    "text": "maximum value for both the upper and lower bounds for each season.",
+    "bbox": [
+      72.0,
+      102.4,
+      413.2,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b005",
+    "text": "Contact the OCHA Centre for Humanitarian Data via Leonardo Milano, Team Lead for Data",
+    "bbox": [
+      72.0,
+      162.4,
+      539.4,
+      175.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b006",
+    "text": "Science at leonardo.milano@un.org with any questions or feedback.",
+    "bbox": [
+      72.0,
+      177.4,
+      402.8,
+      190.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "1",
+    "page_number": 2,
+    "block_id": "1_p2_b007",
+    "text": "Page 2 of 2",
+    "bbox": [
+      285.8,
+      745.0,
+      326.2,
+      754.4
+    ],
+    "font_size": 8.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

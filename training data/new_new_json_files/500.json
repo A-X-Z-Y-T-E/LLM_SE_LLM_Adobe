@@ -1,0 +1,212 @@
+[
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b001",
+    "text": "VOTER REGISTRATION TRANSFER",
+    "bbox": [
+      99.6,
+      69.9,
+      516.8,
+      103.1
+    ],
+    "font_size": 24.0,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b002",
+    "text": "Mail Request to:",
+    "bbox": [
+      256.4,
+      117.6,
+      358.9,
+      136.9
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b003",
+    "text": "Clinton County Clerk’s Office",
+    "bbox": [
+      216.1,
+      150.0,
+      399.4,
+      169.3
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b004",
+    "text": "PO Box 308",
+    "bbox": [
+      273.1,
+      166.2,
+      346.9,
+      185.5
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b005",
+    "text": "Carlyle, IL 62231",
+    "bbox": [
+      256.3,
+      182.3,
+      363.7,
+      201.7
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b006",
+    "text": "*** You must currently be registered in Clinton County ***",
+    "bbox": [
+      129.6,
+      228.9,
+      490.3,
+      248.3
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b007",
+    "text": "Old Address______________________________________________________",
+    "bbox": [
+      76.6,
+      310.5,
+      530.5,
+      329.8
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b008",
+    "text": "New Address______________________________________PO Box _________",
+    "bbox": [
+      76.6,
+      359.3,
+      535.2,
+      378.7
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b009",
+    "text": "Voter's Name (Please Print)_________________________________________",
+    "bbox": [
+      76.6,
+      408.5,
+      530.9,
+      427.9
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b010",
+    "text": "Social Security No (last 4 digits).____________PhoneNo._________________",
+    "bbox": [
+      76.6,
+      457.7,
+      532.3,
+      477.1
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b011",
+    "text": "Date of Birth___________________  Date Signed____________________",
+    "bbox": [
+      76.6,
+      506.3,
+      508.2,
+      525.7
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b012",
+    "text": "Voter's Signature_________________________________________________",
+    "bbox": [
+      76.6,
+      571.8,
+      525.7,
+      591.2
+    ],
+    "font_size": 13.9,
+    "font_name": "Times-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b013",
+    "text": "You will receive a new voter card in the mail after we have processed",
+    "bbox": [
+      82.1,
+      638.0,
+      538.3,
+      658.7
+    ],
+    "font_size": 15.9,
+    "font_name": "Times-BoldItalic",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "500",
+    "page_number": 1,
+    "block_id": "500_p1_b014",
+    "text": "your transfer.",
+    "bbox": [
+      262.9,
+      656.6,
+      357.0,
+      677.3
+    ],
+    "font_size": 15.9,
+    "font_name": "Times-BoldItalic",
+    "label": "TITLE"
+  }
+]

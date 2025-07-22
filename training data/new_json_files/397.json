@@ -1,0 +1,1637 @@
+[
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b001",
+    "text": "Peer Review Framework for Predictive Analytics",
+    "bbox": [
+      70.6,
+      181.3,
+      443.1,
+      202.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b002",
+    "text": "in Humanitarian Response",
+    "bbox": [
+      70.6,
+      206.1,
+      277.1,
+      227.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Italic",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b003",
+    "text": "MODEL REPORT:",
+    "bbox": [
+      72.0,
+      269.0,
+      270.1,
+      299.5
+    ],
+    "font_size": 26.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b004",
+    "text": "Cider model",
+    "bbox": [
+      72.0,
+      306.2,
+      224.2,
+      339.0
+    ],
+    "font_size": 28.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b005",
+    "text": "Global Policy Lab at U.C. Berkeley",
+    "bbox": [
+      72.0,
+      344.8,
+      310.5,
+      363.5
+    ],
+    "font_size": 16.0,
+    "font_name": "Roboto-BoldItalic",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 1,
+    "block_id": "397_p1_b006",
+    "text": "March 2022",
+    "bbox": [
+      72.0,
+      381.6,
+      167.7,
+      402.7
+    ],
+    "font_size": 18.0,
+    "font_name": "Roboto-Regular",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b001",
+    "text": "Model Report:",
+    "bbox": [
+      72.0,
+      192.1,
+      178.8,
+      213.2
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b002",
+    "text": "Cider model",
+    "bbox": [
+      72.0,
+      213.8,
+      162.8,
+      234.9
+    ],
+    "font_size": 16.0,
+    "font_name": "RobotoSlab-Regular",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b003",
+    "text": "1. Background",
+    "bbox": [
+      72.0,
+      267.4,
+      149.4,
+      281.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b004",
+    "text": "Cider is an open source toolkit developed by the Global Policy Lab at U.C. Berkeley for training",
+    "bbox": [
+      72.0,
+      298.9,
+      539.4,
+      311.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b005",
+    "text": "models that use mobile phone data to infer poverty. Cider’s main use case is predicting",
+    "bbox": [
+      72.0,
+      313.9,
+      539.6,
+      326.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b006",
+    "text": "subscriber-level poverty from mobile phone metadata for the purpose of targeting social",
+    "bbox": [
+      72.0,
+      328.9,
+      539.4,
+      341.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b007",
+    "text": "assistance or humanitarian aid. The output of the model is expected to be reliable for people",
+    "bbox": [
+      72.0,
+      343.9,
+      539.8,
+      356.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b008",
+    "text": "who use their mobile phones at least occasionally (including people who use their phones fairly",
+    "bbox": [
+      72.0,
+      358.9,
+      539.9,
+      371.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b009",
+    "text": "rarely).",
+    "bbox": [
+      72.0,
+      373.9,
+      105.5,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b010",
+    "text": "Cider was initially implemented in Togo to target humanitarian cash transfers during the",
+    "bbox": [
+      72.0,
+      403.9,
+      539.6,
+      416.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b011",
+    "text": "COVID-19 pandemic in November 2020 - August 2021. Cider will soon be released as an open",
+    "bbox": [
+      72.0,
+      418.9,
+      539.4,
+      431.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b012",
+    "text": "source package for governments and NGOs to use similar targeting methods in future projects.",
+    "bbox": [
+      72.0,
+      433.9,
+      533.9,
+      446.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b013",
+    "text": "2. Main Findings and Recommendations",
+    "bbox": [
+      72.0,
+      463.9,
+      287.6,
+      477.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b014",
+    "text": "The main output of Cider is subscriber-level poverty predictions based on features derived from",
+    "bbox": [
+      72.0,
+      495.4,
+      539.9,
+      508.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b015",
+    "text": "mobile phone data. Each output represents the inferred poverty of the individual subscriber, in",
+    "bbox": [
+      72.0,
+      510.4,
+      539.7,
+      523.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b016",
+    "text": "the same units as the poverty measure on which the machine learning model is trained. Cider",
+    "bbox": [
+      72.0,
+      525.4,
+      539.3,
+      538.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b017",
+    "text": "also automatically outputs information on the accuracy and fairness of the trained model.",
+    "bbox": [
+      72.0,
+      540.4,
+      507.6,
+      553.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b018",
+    "text": "The predictions generated by Cider are relevant to the time period in which phone data and",
+    "bbox": [
+      72.0,
+      570.4,
+      511.4,
+      583.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b019",
+    "text": "training data labels are gathered. Therefore, if program implementers plan to use Cider to",
+    "bbox": [
+      72.0,
+      585.4,
+      504.3,
+      598.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b020",
+    "text": "assign social protection benefits during an economic shock, Cider poverty scores from data",
+    "bbox": [
+      72.0,
+      600.4,
+      517.2,
+      613.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b021",
+    "text": "collected pre-shock may not capture changes in poverty status resulting from the economic",
+    "bbox": [
+      72.0,
+      615.4,
+      517.2,
+      628.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b022",
+    "text": "shock. In the Togo use case, training data and phone data for Cider were collected just prior",
+    "bbox": [
+      72.0,
+      630.4,
+      516.5,
+      643.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b023",
+    "text": "to the cash transfer distribution (phone data was collected from March to October 2020,",
+    "bbox": [
+      72.0,
+      645.4,
+      499.5,
+      658.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b024",
+    "text": "training data labels were collected in September and October 2020, and cash transfer",
+    "bbox": [
+      72.0,
+      660.4,
+      485.8,
+      673.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b025",
+    "text": "dispersal was launched on November 1, 2020).",
+    "bbox": [
+      72.0,
+      675.4,
+      299.9,
+      688.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b026",
+    "text": "Privacy",
+    "bbox": [
+      72.0,
+      705.4,
+      108.6,
+      718.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b027",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 2,
+    "block_id": "397_p2_b028",
+    "text": "2 of 5",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b001",
+    "text": "Cider uses private and potentially sensitive information from individuals. Individuals should be",
+    "bbox": [
+      72.0,
+      72.4,
+      539.9,
+      85.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b002",
+    "text": "given the option to opt in or opt out of mobile phone data usage. First, informed consent should",
+    "bbox": [
+      72.0,
+      87.4,
+      539.9,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b003",
+    "text": "be collected in surveys to merge survey responses to mobile phone metadata. Second, informed",
+    "bbox": [
+      72.0,
+      102.4,
+      539.4,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b004",
+    "text": "consent should be collected from individuals to process their mobile phone metadata upon",
+    "bbox": [
+      72.0,
+      117.4,
+      539.9,
+      130.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b005",
+    "text": "program registration. Opt-in and opt-out workflows for collecting informed consent are included",
+    "bbox": [
+      72.0,
+      132.4,
+      539.6,
+      145.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b006",
+    "text": "in the Cider toolkit. In addition to consent, data should be kept encrypted whenever possible. At",
+    "bbox": [
+      72.0,
+      147.4,
+      539.4,
+      160.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b007",
+    "text": "a minimum, phone numbers included in mobile phone metadata should always be stored",
+    "bbox": [
+      72.0,
+      162.4,
+      539.6,
+      175.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b008",
+    "text": "encrypted; we are also currently building features in Cider that will keep all mobile phone data",
+    "bbox": [
+      72.0,
+      177.4,
+      539.8,
+      190.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b009",
+    "text": "encrypted until after informed consent is collected.",
+    "bbox": [
+      72.0,
+      192.4,
+      320.0,
+      205.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b010",
+    "text": "Transparency",
+    "bbox": [
+      72.0,
+      222.4,
+      139.3,
+      235.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b011",
+    "text": "The eligibility mechanism may not be transparent when phone data is used for poverty",
+    "bbox": [
+      72.0,
+      237.4,
+      539.9,
+      250.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b012",
+    "text": "targeting. We are working on integrating Cider with LIME to provide individual explanations of",
+    "bbox": [
+      72.0,
+      252.4,
+      539.4,
+      265.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b013",
+    "text": "predictions; it is also important that Cider users and policymakers consider how the eligibility",
+    "bbox": [
+      72.0,
+      267.4,
+      540.0,
+      280.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b014",
+    "text": "mechanism is being made legible to program registrants.",
+    "bbox": [
+      72.0,
+      282.4,
+      349.5,
+      295.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b015",
+    "text": "You can find all the documentation regarding the model, its application and the review process",
+    "bbox": [
+      72.0,
+      312.4,
+      539.9,
+      325.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b016",
+    "text": "at the following links:",
+    "bbox": [
+      72.0,
+      327.4,
+      175.4,
+      340.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b017",
+    "text": "The Model Card describes version 1.0 of the model developed in November 2021.",
+    "bbox": [
+      108.0,
+      357.4,
+      503.9,
+      370.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b018",
+    "text": "The Model Evaluation Matrix was completed in November 2021 by a technical expert",
+    "bbox": [
+      108.0,
+      372.4,
+      539.7,
+      385.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b019",
+    "text": "from the Max Planck Institute for Human Development.",
+    "bbox": [
+      108.0,
+      387.4,
+      376.4,
+      400.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b020",
+    "text": "The Implementation Plan was completed in December 2021. It summarizes the concrete",
+    "bbox": [
+      108.0,
+      402.4,
+      539.6,
+      415.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b021",
+    "text": "actions that the model will trigger or inform.",
+    "bbox": [
+      108.0,
+      417.4,
+      321.5,
+      430.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b022",
+    "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+    "bbox": [
+      108.0,
+      432.4,
+      539.4,
+      445.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b023",
+    "text": "intended use of the model. The Ethical Matrix was completed In February 2022 by an",
+    "bbox": [
+      108.0,
+      447.4,
+      539.4,
+      460.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b024",
+    "text": "expert from the REACH Initiative.",
+    "bbox": [
+      108.0,
+      462.4,
+      267.8,
+      475.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b025",
+    "text": "A summary of the main findings and recommendations is provided below.",
+    "bbox": [
+      72.0,
+      492.4,
+      430.4,
+      505.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b026",
+    "text": "2.1 Technical Review",
+    "bbox": [
+      72.0,
+      522.4,
+      184.5,
+      536.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b027",
+    "text": "Intended use",
+    "bbox": [
+      72.0,
+      553.9,
+      136.0,
+      566.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b028",
+    "text": "The quality and completeness of the mobile phone data being collected and shared can",
+    "bbox": [
+      108.0,
+      568.9,
+      539.9,
+      581.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b029",
+    "text": "vary over time. We recommend updating the documentation with studies of effects of",
+    "bbox": [
+      108.0,
+      583.9,
+      539.4,
+      596.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b030",
+    "text": "phone sharing availability.",
+    "bbox": [
+      108.0,
+      598.9,
+      233.9,
+      611.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b031",
+    "text": "Model development and documentation",
+    "bbox": [
+      72.0,
+      628.9,
+      268.0,
+      641.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b032",
+    "text": "No specific recommendation provided other than updating the documentation with",
+    "bbox": [
+      108.0,
+      643.9,
+      539.4,
+      656.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b033",
+    "text": "future case studies regarding model robustness when some features are missing.",
+    "bbox": [
+      108.0,
+      658.9,
+      505.3,
+      671.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b034",
+    "text": "Model Evaluation",
+    "bbox": [
+      72.0,
+      688.9,
+      157.0,
+      701.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b035",
+    "text": "No action to be taken here.",
+    "bbox": [
+      108.0,
+      703.9,
+      238.9,
+      716.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b036",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 3,
+    "block_id": "397_p3_b037",
+    "text": "3 of 5",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b001",
+    "text": "Operational Readiness",
+    "bbox": [
+      74.7,
+      87.4,
+      186.1,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b002",
+    "text": "It is recommended to include more detailed guidance on privacy-sensitive handling, e.g.",
+    "bbox": [
+      108.0,
+      102.4,
+      539.6,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b003",
+    "text": "hashing, homomorphic encryption in future updates.",
+    "bbox": [
+      108.0,
+      117.4,
+      362.4,
+      130.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b004",
+    "text": "2.2 Ethical Review",
+    "bbox": [
+      72.0,
+      147.4,
+      169.5,
+      161.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Roboto-Medium",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b005",
+    "text": "False Negatives",
+    "bbox": [
+      72.0,
+      178.9,
+      150.6,
+      191.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b006",
+    "text": "Potential for exclusion because of false negatives. If the model produces false negatives, people",
+    "bbox": [
+      72.0,
+      193.9,
+      539.4,
+      206.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b007",
+    "text": "who are poor enough to receive aid will not be eligible.",
+    "bbox": [
+      72.0,
+      208.9,
+      330.3,
+      221.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b008",
+    "text": "We recommend reducing the impact of a false negative, if it occurs, by adding more",
+    "bbox": [
+      108.0,
+      238.9,
+      539.8,
+      251.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b009",
+    "text": "information on system design exclusion error risk. For instance, more information about",
+    "bbox": [
+      108.0,
+      253.9,
+      539.5,
+      266.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b010",
+    "text": "the survey methodology used or poverty measurement definition could be provided.",
+    "bbox": [
+      108.0,
+      268.9,
+      513.7,
+      281.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b011",
+    "text": "Systemic Bias",
+    "bbox": [
+      72.0,
+      298.9,
+      142.0,
+      311.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b012",
+    "text": "Potential for exclusion due to lack of phone access. Model requires access to phone in order for",
+    "bbox": [
+      72.0,
+      313.9,
+      539.6,
+      326.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b013",
+    "text": "data for targeting model to be collected and for assistance to be provided.",
+    "bbox": [
+      72.0,
+      328.9,
+      425.7,
+      341.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b014",
+    "text": "We recommend reducing the likelihood of systemic bias entering into model outputs by",
+    "bbox": [
+      108.0,
+      358.9,
+      540.0,
+      371.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b015",
+    "text": "running face-to-face surveys to better understand the risk of systemic bias and the risk",
+    "bbox": [
+      108.0,
+      373.9,
+      539.5,
+      386.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b016",
+    "text": "of excluding people without phones.",
+    "bbox": [
+      108.0,
+      388.9,
+      284.1,
+      401.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b017",
+    "text": "Lack of transparency",
+    "bbox": [
+      72.0,
+      418.9,
+      175.7,
+      431.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b018",
+    "text": "Difficulty for communities to understand targeting decisions, make complaints and hold their",
+    "bbox": [
+      72.0,
+      433.9,
+      539.3,
+      446.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b019",
+    "text": "decision makers to account.",
+    "bbox": [
+      72.0,
+      448.9,
+      207.0,
+      461.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b020",
+    "text": "We recommend increasing transparency of the model implementation and output by",
+    "bbox": [
+      108.0,
+      478.9,
+      539.9,
+      491.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b021",
+    "text": "asking that informed consent from data subjects be included in the programme, prior to",
+    "bbox": [
+      108.0,
+      493.9,
+      539.4,
+      506.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b022",
+    "text": "data collection and analysis.",
+    "bbox": [
+      108.0,
+      508.9,
+      246.5,
+      521.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b023",
+    "text": "Privacy",
+    "bbox": [
+      72.0,
+      538.9,
+      108.6,
+      551.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b024",
+    "text": "Potential risks coming from sensitive information contained in model’s data.",
+    "bbox": [
+      72.0,
+      553.9,
+      435.7,
+      566.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b025",
+    "text": "Cider uses private and potentially sensitive information from individuals. Individuals",
+    "bbox": [
+      108.0,
+      583.9,
+      539.8,
+      596.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b026",
+    "text": "should be given the option to opt in or opt out of mobile phone data usage. First,",
+    "bbox": [
+      108.0,
+      598.9,
+      539.3,
+      611.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b027",
+    "text": "informed consent should be collected in surveys to merge survey responses to mobile",
+    "bbox": [
+      108.0,
+      613.9,
+      539.5,
+      626.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b028",
+    "text": "phone metadata. Second, informed consent should be collected from individuals to",
+    "bbox": [
+      108.0,
+      628.9,
+      539.9,
+      641.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b029",
+    "text": "process their mobile phone metadata upon program registration.",
+    "bbox": [
+      108.0,
+      643.9,
+      422.6,
+      656.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b030",
+    "text": "In addition to consent, data should be kept encrypted whenever possible. At a minimum,",
+    "bbox": [
+      108.0,
+      658.9,
+      539.8,
+      671.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b031",
+    "text": "phone numbers included in mobile phone metadata should always be stored encrypted.",
+    "bbox": [
+      108.0,
+      673.9,
+      533.0,
+      686.7
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b032",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 4,
+    "block_id": "397_p4_b033",
+    "text": "4 of 5",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 5,
+    "block_id": "397_p5_b001",
+    "text": "Given the sensitivity of the data managed in the implementation of this model, we",
+    "bbox": [
+      108.0,
+      72.4,
+      540.0,
+      85.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 5,
+    "block_id": "397_p5_b002",
+    "text": "recommend the Client develop a data retention and destruction schedule that defines",
+    "bbox": [
+      108.0,
+      87.4,
+      539.4,
+      100.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 5,
+    "block_id": "397_p5_b003",
+    "text": "how long data should be retained and when and how it should be destroyed.",
+    "bbox": [
+      108.0,
+      102.4,
+      477.1,
+      115.2
+    ],
+    "font_size": 11.0,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 5,
+    "block_id": "397_p5_b004",
+    "text": "OCHA CENTRE FOR HUMANITARIAN DATA ​",
+    "bbox": [
+      75.5,
+      745.7,
+      222.1,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "397",
+    "page_number": 5,
+    "block_id": "397_p5_b005",
+    "text": "5 of 5",
+    "bbox": [
+      521.0,
+      745.7,
+      540.0,
+      754.5
+    ],
+    "font_size": 7.5,
+    "font_name": "Roboto-Regular",
+    "label": "BODY"
+  }
+]

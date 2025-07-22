@@ -1,0 +1,1187 @@
+[
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b002",
+    "text": "Mars 2024",
+    "bbox": [
+      35.7,
+      808.8,
+      75.4,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b003",
+    "text": "INTRODUCTION",
+    "bbox": [
+      35.8,
+      224.3,
+      137.9,
+      242.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b004",
+    "text": "La sécurité des données est un élément clé de la responsabilité en matière de données: la gestion sécurisée,",
+    "bbox": [
+      35.8,
+      246.5,
+      534.5,
+      260.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b005",
+    "text": "éthique et efficace des données en vue d'une réponse opérationnelle. Elle implique un ensemble de mesures",
+    "bbox": [
+      35.8,
+      260.0,
+      533.5,
+      273.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b006",
+    "text": "physiques, technologiques et procédurales qui protègent la confidentialité, l'intégrité et la disponibilité des",
+    "bbox": [
+      35.8,
+      273.2,
+      527.2,
+      287.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b007",
+    "text": "données et empêchent leur perte, leur destruction, leur altération, leur acquisition ou leur divulgation accidentelles",
+    "bbox": [
+      35.8,
+      286.4,
+      565.2,
+      300.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b008",
+    "text": "ou intentionnelles, illégales ou non autorisées de quelque manière que ce soit.",
+    "bbox": [
+      35.8,
+      299.6,
+      396.3,
+      313.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b009",
+    "text": "Cette fiche conseil propose une série d'actions recommandées pour la sécurité des données dans le cadre de la",
+    "bbox": [
+      35.8,
+      326.0,
+      544.1,
+      339.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b010",
+    "text": "gestion des données opérationnelles. Ces actions doivent être mises en œuvre conformément aux mandats",
+    "bbox": [
+      35.8,
+      339.2,
+      526.7,
+      353.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b011",
+    "text": "institutionnels, aux politiques et aux cadres juridiques et réglementaires applicables.",
+    "bbox": [
+      35.8,
+      352.4,
+      422.9,
+      366.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b012",
+    "text": "ADOPTEZ DE BONNES PRATIQUES DE GESTION DES MOTS DE PASSE",
+    "bbox": [
+      35.8,
+      380.7,
+      446.5,
+      399.2
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b013",
+    "text": "•\t Sécurisez vos appareils et vos comptes à l'aide de mots de passe forts comprenant des chiffres, des lettres",
+    "bbox": [
+      50.0,
+      404.2,
+      548.4,
+      418.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b014",
+    "text": "majuscules et minuscules, des symboles et au moins 16 caractères par mot de passe.",
+    "bbox": [
+      64.1,
+      417.4,
+      450.2,
+      431.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b015",
+    "text": "•\t Activez l'authentification multifacteurs pour tous les comptes.",
+    "bbox": [
+      50.0,
+      437.4,
+      347.3,
+      451.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b016",
+    "text": "•\t Ne réutilisez pas le même mot de passe pour plusieurs comptes.",
+    "bbox": [
+      50.0,
+      457.4,
+      356.4,
+      471.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b017",
+    "text": "•\t Ne stockez pas vos mots de passe physiquement (par exemple sur des post-its) ou numériquement (dans un",
+    "bbox": [
+      50.0,
+      477.4,
+      557.8,
+      491.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b018",
+    "text": "fichier sur votre appareil) et ne partagez pas votre mot de passe avec d'autres personnes.",
+    "bbox": [
+      64.1,
+      490.6,
+      469.4,
+      504.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b019",
+    "text": "•\t N'activez pas la fonction \"Se souvenir de moi\" dans les applications et les navigateurs.",
+    "bbox": [
+      50.0,
+      510.6,
+      457.1,
+      524.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b020",
+    "text": "•\t Changez immédiatement les mots de passe de vos comptes en ligne en cas de perte ou de vol de votre",
+    "bbox": [
+      50.0,
+      530.6,
+      530.9,
+      544.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b021",
+    "text": "appareil.",
+    "bbox": [
+      64.1,
+      543.8,
+      104.7,
+      557.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b022",
+    "text": "UTILISEZ UN LOGICIEL ANTIVIRUS/ANTI-MALWARE",
+    "bbox": [
+      35.8,
+      572.1,
+      346.8,
+      590.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b023",
+    "text": "•\t Assurez-vous que vos appareils sont équipés d'un logiciel antivirus/anti-malware adéquat.",
+    "bbox": [
+      50.0,
+      595.6,
+      478.7,
+      609.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b024",
+    "text": "•\t Si vous avez des questions sur les outils adéquats ou sur la manière de les configurer, consultez le spécialiste",
+    "bbox": [
+      50.0,
+      615.6,
+      560.8,
+      629.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b025",
+    "text": "informatique de votre bureau.",
+    "bbox": [
+      64.1,
+      628.8,
+      201.5,
+      642.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b026",
+    "text": "MAINTENEZ LES LOGICIELS ET LES SYSTÈMES D’EXPLOITATION À JOUR",
+    "bbox": [
+      35.8,
+      657.1,
+      470.0,
+      675.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b027",
+    "text": "•\t Vérifiez régulièrement que votre appareil, vos logiciels, vos applications et les plug-ins de votre navigateur",
+    "bbox": [
+      50.0,
+      680.6,
+      549.2,
+      694.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b028",
+    "text": "sont à jour et activez les mises à jour automatiques de votre système d'exploitation.",
+    "bbox": [
+      64.1,
+      693.8,
+      445.2,
+      707.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b029",
+    "text": "•\t Utilisez des navigateurs web tels que Chrome ou Firefox qui reçoivent des mises à jour de sécurité",
+    "bbox": [
+      50.0,
+      713.8,
+      510.5,
+      727.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b030",
+    "text": "automatiques.",
+    "bbox": [
+      64.1,
+      727.0,
+      131.0,
+      740.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b031",
+    "text": "•\t Éteignez vos appareils à la fin de la journée pour permettre les mises à jour et vous protéger contre les",
+    "bbox": [
+      50.0,
+      747.0,
+      530.2,
+      760.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b032",
+    "text": "attaques.",
+    "bbox": [
+      64.1,
+      760.2,
+      106.9,
+      774.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b033",
+    "text": "FICHE CONSEIL SUR LA SÉCURITÉ DES DONNÉES DANS",
+    "bbox": [
+      35.0,
+      72.3,
+      557.0,
+      100.4
+    ],
+    "font_size": 19.5,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b034",
+    "text": "LE CADRE DE LA GESTION DES DONNÉES",
+    "bbox": [
+      35.0,
+      96.3,
+      424.2,
+      124.4
+    ],
+    "font_size": 19.5,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b035",
+    "text": "OPÉRATIONNELLES",
+    "bbox": [
+      35.0,
+      120.3,
+      219.1,
+      148.4
+    ],
+    "font_size": 19.5,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b036",
+    "text": "CENTRE DE DONNÉES HUMANITAIRES D’OCHA",
+    "bbox": [
+      36.4,
+      149.3,
+      307.9,
+      166.6
+    ],
+    "font_size": 12.0,
+    "font_name": "BrandonGrotesque-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b037",
+    "text": "CartONG a assuré la traduction de cette fiche conseil, grâce au soutien de CLEAR Global et du ministère français de",
+    "bbox": [
+      35.0,
+      186.6,
+      545.0,
+      200.1
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 1,
+    "block_id": "195_p1_b038",
+    "text": "l'Europe et des Affaires étrangères.",
+    "bbox": [
+      35.0,
+      199.8,
+      189.3,
+      213.3
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b001",
+    "text": "OCHA Centre for Humanitarian Data",
+    "bbox": [
+      227.6,
+      808.8,
+      368.0,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b002",
+    "text": "Mars 2024",
+    "bbox": [
+      35.7,
+      808.8,
+      75.4,
+      819.4
+    ],
+    "font_size": 8.0,
+    "font_name": "OpenSans-SemiBold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b003",
+    "text": "ÉVITEZ LES ESCROQUERIES PAR HAMEÇONNAGE ET FAITES ATTENTION À CE SUR QUOI",
+    "bbox": [
+      35.4,
+      32.2,
+      561.7,
+      50.8
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b004",
+    "text": "VOUS CLIQUEZ",
+    "bbox": [
+      35.4,
+      49.0,
+      131.8,
+      67.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b005",
+    "text": "•\t Lorsque vous recevez des courriels ou des messages suspects, vérifiez toujours l'adresse ou les coordonnées",
+    "bbox": [
+      49.6,
+      72.5,
+      559.4,
+      86.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b006",
+    "text": "de l'expéditeur et ne cliquez sur les liens ou les pièces jointes que si vous avez confiance en l'expéditeur.",
+    "bbox": [
+      63.8,
+      85.7,
+      536.8,
+      99.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b007",
+    "text": "•\t Ne répondez pas aux courriels suspects et ne les transmettez pas à vos collègues.",
+    "bbox": [
+      49.6,
+      105.7,
+      434.8,
+      119.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b008",
+    "text": "•\t Signalez toute activité suspecte à votre équipe d'assistance informatique.",
+    "bbox": [
+      49.6,
+      125.7,
+      398.9,
+      139.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b009",
+    "text": "UTILISEZ LES APPAREILS MOBILES DE MANIÈRE RESPONSABLE",
+    "bbox": [
+      35.4,
+      155.8,
+      416.7,
+      174.4
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b010",
+    "text": "•\t Dans la mesure du possible, utilisez des appareils spécifiques pour le travail. Conservez en permanence vos",
+    "bbox": [
+      49.6,
+      179.3,
+      555.2,
+      193.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b011",
+    "text": "appareils professionnels dans un endroit sûr et évitez de les trimbaler inutilement.",
+    "bbox": [
+      63.8,
+      192.5,
+      439.8,
+      206.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b012",
+    "text": "•\t Utilisez des outils de messagerie validés par votre organisation et qui offrent un cryptage de bout en bout.",
+    "bbox": [
+      49.6,
+      212.5,
+      546.0,
+      226.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b013",
+    "text": "•\t Désactivez ou réduisez au minimum la connectivité Bluetooth.",
+    "bbox": [
+      49.6,
+      232.5,
+      348.2,
+      246.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b014",
+    "text": "•\t Utilisez un réseau privé virtuel (VPN) validé par votre organisation lorsque vous travaillez en ligne.",
+    "bbox": [
+      49.6,
+      252.5,
+      510.7,
+      266.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b015",
+    "text": "Déconnectez-vous toujours de votre/vos compte(s) si vous utilisez un ordinateur ou un appareil partagé.",
+    "bbox": [
+      63.8,
+      265.7,
+      537.7,
+      279.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b016",
+    "text": "•\t Désactivez les fonctions de déverrouillage biométrique, en particulier lorsque vous êtes en transit.",
+    "bbox": [
+      49.6,
+      285.7,
+      511.1,
+      299.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b017",
+    "text": "PROTÉGEZ LES DONNÉES SENSIBLES ET MINIMISEZ LES DONNÉES",
+    "bbox": [
+      35.4,
+      314.0,
+      441.9,
+      332.6
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b018",
+    "text": "•\t Tenez un registre des traitements de données qui indique le niveau de sensibilité de chaque type de",
+    "bbox": [
+      49.6,
+      337.3,
+      525.1,
+      351.5
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b019",
+    "text": "données géré par votre bureau. Révisez régulièrement les niveaux de sensibilité en fonction de l'évolution du",
+    "bbox": [
+      63.8,
+      350.7,
+      561.5,
+      364.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b020",
+    "text": "contexte.",
+    "bbox": [
+      63.8,
+      363.9,
+      105.9,
+      377.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b021",
+    "text": "•\t Ne collectez que la quantité minimale de données nécessaires pour atteindre l'objectif et les finalités d'une",
+    "bbox": [
+      49.6,
+      383.9,
+      553.2,
+      397.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b022",
+    "text": "activité particulière de gestion de données.",
+    "bbox": [
+      63.8,
+      397.1,
+      260.5,
+      411.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b023",
+    "text": "•\t Ne conservez les données sensibles que le temps nécessaire à la réalisation de l'objectif pour lequel elles",
+    "bbox": [
+      49.6,
+      417.1,
+      543.2,
+      431.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b024",
+    "text": "sont traitées et conformément aux directives, lois et réglementations applicables.",
+    "bbox": [
+      63.8,
+      430.3,
+      435.6,
+      444.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b025",
+    "text": "•\t Transférez et stockez les données à l'aide d'outils et de canaux validés par votre organisation (localement sur",
+    "bbox": [
+      49.6,
+      450.3,
+      561.7,
+      464.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b026",
+    "text": "un serveur ou un ordinateur fixe ou portable de l'organisation ; ou sur des serveurs et des systèmes gérés à",
+    "bbox": [
+      63.8,
+      463.5,
+      550.8,
+      477.4
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b027",
+    "text": "distance par le biais d'applications telles que OneDrive, SharePoint et Teams).",
+    "bbox": [
+      63.8,
+      476.7,
+      418.3,
+      490.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b028",
+    "text": "•\t Protégez par mot de passe les fichiers (Word, Excel, PDF) contenant des données sensibles et partagez les",
+    "bbox": [
+      49.6,
+      496.7,
+      544.5,
+      510.6
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b029",
+    "text": "mots de passe des documents par des canaux distincts (par exemple, envoyez par SMS un mot de passe pour",
+    "bbox": [
+      63.8,
+      509.9,
+      561.0,
+      523.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b030",
+    "text": "un document envoyé par courriel).",
+    "bbox": [
+      63.8,
+      523.1,
+      221.7,
+      537.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b031",
+    "text": "•\t Limitez et contrôlez soigneusement le nombre de personnes ayant accès aux données sensibles.",
+    "bbox": [
+      49.6,
+      543.1,
+      502.8,
+      557.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b032",
+    "text": "•\t Définissez un calendrier de conservation et de destruction pour toutes les données gérées et utilisez des",
+    "bbox": [
+      49.6,
+      563.1,
+      539.9,
+      577.0
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b033",
+    "text": "outils adéquats pour la destruction des données.",
+    "bbox": [
+      63.8,
+      576.3,
+      287.1,
+      590.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b034",
+    "text": "•\t Cryptez vos courriels.",
+    "bbox": [
+      49.6,
+      596.3,
+      161.6,
+      610.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b035",
+    "text": "RESSOURCES CLÉS",
+    "bbox": [
+      49.4,
+      635.2,
+      165.7,
+      653.7
+    ],
+    "font_size": 14.0,
+    "font_name": "SourceSansPro-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b036",
+    "text": "•\t Lignes directrices opérationnelles du IASC sur la responsabilité en matière de données dans le",
+    "bbox": [
+      63.6,
+      658.4,
+      520.1,
+      672.7
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b037",
+    "text": "cadre de l'action humanitaire",
+    "bbox": [
+      77.8,
+      671.6,
+      216.4,
+      685.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b038",
+    "text": "•\t Note d'orientation sur la gestion des incidents liés aux données",
+    "bbox": [
+      63.6,
+      691.6,
+      374.1,
+      705.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b039",
+    "text": "•\t Fiche de conseils sur l'utilisation responsable des outils de conférence en ligne",
+    "bbox": [
+      63.6,
+      711.6,
+      446.1,
+      725.8
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-Semibold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b040",
+    "text": "Pour en savoir plus sur la gestion des données sensibles dans les opérations humanitaires, consultez la page",
+    "bbox": [
+      36.0,
+      754.4,
+      519.8,
+      767.9
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-It",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "195",
+    "page_number": 2,
+    "block_id": "195_p2_b041",
+    "text": "Responsabilité des données sur le site web du Centre ou contactez notre équipe à l'adresse centrehumdata@un.org.",
+    "bbox": [
+      36.0,
+      767.5,
+      557.6,
+      781.2
+    ],
+    "font_size": 11.0,
+    "font_name": "SourceSansPro-SemiboldIt",
+    "label": "BODY"
+  }
+]

@@ -1,0 +1,4952 @@
+[
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b001",
+    "text": "Joint Hurricane Testbed",
+    "bbox": [
+      239.6,
+      231.0,
+      722.3,
+      282.1
+    ],
+    "font_size": 44.0,
+    "font_name": "TrebuchetMS",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b002",
+    "text": "Transitioning from Research to Operations",
+    "bbox": [
+      274.0,
+      288.2,
+      692.4,
+      312.8
+    ],
+    "font_size": 22.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b003",
+    "text": "Joint\t\r  Hurricane\t\r  Testbed\t\r  is\t\r  funded\t\r  by\t\r  the\t\r  US\t\r  Weather\t\r  Research\t\r  Program\t\r  in",
+    "bbox": [
+      224.8,
+      523.7,
+      589.5,
+      538.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b004",
+    "text": "NOAA/OAR's\t\r  Oﬃce\t\r  of\t\r  Weather\t\r  and\t\r  Air\t\r  Quality.",
+    "bbox": [
+      290.3,
+      537.7,
+      526.8,
+      552.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b005",
+    "text": "Shirley Murillo – NOAA/AOML",
+    "bbox": [
+      351.8,
+      355.3,
+      588.0,
+      376.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 1,
+    "block_id": "489_p1_b006",
+    "text": "Jiann-Gwo Jiing and Chris Landsea – NOAA/NHC",
+    "bbox": [
+      288.0,
+      399.3,
+      677.6,
+      420.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b001",
+    "text": "  Bridge hurricane research and operations",
+    "bbox": [
+      104.6,
+      184.9,
+      540.6,
+      210.7
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b002",
+    "text": "  Began in 2001 under the USWRP",
+    "bbox": [
+      104.6,
+      230.9,
+      448.0,
+      256.7
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b003",
+    "text": "  Mission: successfully transfer new technology, research",
+    "bbox": [
+      104.6,
+      276.9,
+      677.3,
+      302.7
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b004",
+    "text": "results and observational advances from research groups",
+    "bbox": [
+      126.6,
+      303.9,
+      692.9,
+      329.5
+    ],
+    "font_size": 22.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b005",
+    "text": "to operational centers",
+    "bbox": [
+      126.6,
+      329.9,
+      353.1,
+      355.5
+    ],
+    "font_size": 22.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b006",
+    "text": "  Testing is done at NHC or EMC",
+    "bbox": [
+      104.6,
+      376.9,
+      428.3,
+      402.7
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 2,
+    "block_id": "489_p2_b007",
+    "text": "Joint Hurricane Testbed (JHT) since 2001",
+    "bbox": [
+      92.9,
+      95.4,
+      724.9,
+      132.6
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 3,
+    "block_id": "489_p3_b001",
+    "text": "US Weather Research Program’s vision",
+    "bbox": [
+      138.7,
+      80.7,
+      629.2,
+      113.2
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b001",
+    "text": "USWRP Goals relating to",
+    "bbox": [
+      177.0,
+      87.5,
+      615.2,
+      131.6
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b002",
+    "text": "hurricane landfall forecasting",
+    "bbox": [
+      133.2,
+      132.5,
+      659.2,
+      176.6
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b003",
+    "text": "  To reduce landfall track and intensity forecast errors by 20%.",
+    "bbox": [
+      104.6,
+      223.8,
+      687.0,
+      247.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b004",
+    "text": "  To increase warning lead-time to and beyond 24 hours with",
+    "bbox": [
+      104.6,
+      265.8,
+      664.2,
+      289.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b005",
+    "text": "95% confidence without increasing the present 3-to -1 over",
+    "bbox": [
+      126.6,
+      286.8,
+      662.7,
+      310.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b006",
+    "text": "warning.",
+    "bbox": [
+      126.6,
+      308.8,
+      216.7,
+      332.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b007",
+    "text": "  To make skillful (compared to persistence) forecasts of gale-",
+    "bbox": [
+      104.6,
+      350.8,
+      677.4,
+      374.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b008",
+    "text": "and hurricane-force radii out to 48 hours with 95%",
+    "bbox": [
+      126.6,
+      371.8,
+      583.7,
+      395.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b009",
+    "text": "confidence.",
+    "bbox": [
+      126.6,
+      393.8,
+      244.4,
+      417.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b010",
+    "text": "  To extend quantitative precipitation forecasts out to 3 days",
+    "bbox": [
+      104.6,
+      434.8,
+      668.4,
+      458.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b011",
+    "text": "and enhance skill of day-3 predictions to improve inland",
+    "bbox": [
+      126.6,
+      456.8,
+      637.9,
+      480.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 4,
+    "block_id": "489_p4_b012",
+    "text": "flooding forecasts.",
+    "bbox": [
+      126.6,
+      478.8,
+      305.9,
+      502.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b001",
+    "text": "Major Activities 2001-2011",
+    "bbox": [
+      146.5,
+      72.8,
+      638.2,
+      116.9
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b002",
+    "text": "  Funded initial round of 10 projects for a first year (FY01)  (Mar - Sep",
+    "bbox": [
+      59.4,
+      176.8,
+      707.9,
+      200.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b003",
+    "text": "2001)",
+    "bbox": [
+      86.4,
+      197.8,
+      141.8,
+      221.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b004",
+    "text": "  Developed Terms of Reference (Mar 2001- May 2002)",
+    "bbox": [
+      59.4,
+      245.8,
+      562.0,
+      269.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b005",
+    "text": "  Appointed Director and 2 administrative assistants (all 25% NOAA FTE)",
+    "bbox": [
+      59.4,
+      292.8,
+      721.0,
+      316.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b006",
+    "text": "(2001)",
+    "bbox": [
+      86.4,
+      314.8,
+      149.1,
+      338.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b007",
+    "text": "  Formed Steering Committee (Mar 2002)",
+    "bbox": [
+      59.4,
+      362.8,
+      446.4,
+      386.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b008",
+    "text": "  Procured hardware (Q3 2002)",
+    "bbox": [
+      59.4,
+      409.8,
+      355.1,
+      433.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b009",
+    "text": "  Hired IT Facilitator (Jul 2002)",
+    "bbox": [
+      59.4,
+      457.8,
+      358.1,
+      481.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 5,
+    "block_id": "489_p5_b010",
+    "text": "Building the JHT 2001-02",
+    "bbox": [
+      55.2,
+      126.8,
+      421.5,
+      163.9
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 6,
+    "block_id": "489_p6_b001",
+    "text": "Public",
+    "bbox": [
+      464.9,
+      446.8,
+      524.0,
+      466.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 6,
+    "block_id": "489_p6_b002",
+    "text": "Private",
+    "bbox": [
+      170.6,
+      446.8,
+      235.6,
+      466.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 6,
+    "block_id": "489_p6_b003",
+    "text": "PIs/POCs connect on",
+    "bbox": [
+      554.2,
+      475.1,
+      726.1,
+      496.0
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 6,
+    "block_id": "489_p6_b004",
+    "text": "public JHT side",
+    "bbox": [
+      576.0,
+      496.1,
+      704.3,
+      517.0
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b001",
+    "text": "•  Preparation, revision, and legal review of Announcement of",
+    "bbox": [
+      55.2,
+      188.7,
+      731.4,
+      216.7
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b002",
+    "text": "Federal Funding Opportunities (AFFO)",
+    "bbox": [
+      82.2,
+      213.7,
+      496.5,
+      241.5
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b003",
+    "text": "•  AFFO released through Federal Register Notice (FRN)",
+    "bbox": [
+      55.2,
+      251.4,
+      666.9,
+      279.5
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b004",
+    "text": "–  Open to government, academic, and private sector applicants",
+    "bbox": [
+      91.2,
+      288.6,
+      676.9,
+      312.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b005",
+    "text": "worldwide",
+    "bbox": [
+      113.2,
+      309.8,
+      212.3,
+      333.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b006",
+    "text": "–  List forecast center priorities",
+    "bbox": [
+      91.2,
+      342.6,
+      395.2,
+      366.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b007",
+    "text": "–  List forecast center IT configuration, available data and format",
+    "bbox": [
+      91.2,
+      377.4,
+      715.5,
+      400.8
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b008",
+    "text": "–  List project selection criteria",
+    "bbox": [
+      91.2,
+      409.6,
+      382.5,
+      433.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b009",
+    "text": "–  List criteria for operational acceptance",
+    "bbox": [
+      91.2,
+      442.6,
+      473.0,
+      466.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b010",
+    "text": "•  Review of pre-applications",
+    "bbox": [
+      55.2,
+      475.4,
+      375.8,
+      503.5
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b011",
+    "text": "•  Review and score of full proposals",
+    "bbox": [
+      55.2,
+      513.4,
+      456.0,
+      541.5
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b012",
+    "text": "Activities associated with each funding cycle",
+    "bbox": [
+      87.5,
+      125.3,
+      659.2,
+      157.8
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b013",
+    "text": "Major Activities 2001-2011",
+    "bbox": [
+      164.6,
+      70.6,
+      630.4,
+      112.4
+    ],
+    "font_size": 36.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 7,
+    "block_id": "489_p7_b014",
+    "text": "Cont.",
+    "bbox": [
+      697.2,
+      71.3,
+      745.2,
+      91.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b001",
+    "text": "•  JHT Directors recommend projects for funding",
+    "bbox": [
+      55.2,
+      188.7,
+      590.3,
+      216.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b002",
+    "text": "•  NHC assigns Point of Contacts (POC) for each project. POCs",
+    "bbox": [
+      55.2,
+      223.3,
+      728.2,
+      251.3
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b003",
+    "text": "work with PIs and forecasters to define timelines/",
+    "bbox": [
+      82.2,
+      246.3,
+      623.6,
+      274.1
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b004",
+    "text": "deliverables",
+    "bbox": [
+      82.2,
+      270.3,
+      219.8,
+      298.1
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b005",
+    "text": "•  Real-time testing and evaluation activities",
+    "bbox": [
+      55.2,
+      307.4,
+      553.7,
+      335.5
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b006",
+    "text": "•  PIs present progress (annual reports) at annual",
+    "bbox": [
+      55.2,
+      344.7,
+      593.5,
+      372.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b007",
+    "text": "Interdepartmental Hurricane Conference (IHC) (www.ofcm.gov)",
+    "bbox": [
+      82.2,
+      370.7,
+      683.5,
+      398.5
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b008",
+    "text": "•  Review of second year funding for 2-year projects",
+    "bbox": [
+      55.2,
+      408.7,
+      626.7,
+      436.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b009",
+    "text": "Activities associated with each funding cycle",
+    "bbox": [
+      83.7,
+      141.8,
+      655.4,
+      174.3
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b010",
+    "text": "Major Activities 2001-2011",
+    "bbox": [
+      150.7,
+      70.6,
+      616.6,
+      112.4
+    ],
+    "font_size": 36.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 8,
+    "block_id": "489_p8_b011",
+    "text": "Cont.",
+    "bbox": [
+      697.2,
+      80.8,
+      745.2,
+      100.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b001",
+    "text": "•  PIs submit final reports when projects end",
+    "bbox": [
+      55.2,
+      189.5,
+      534.4,
+      216.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b002",
+    "text": "•  POCs and forecasters provide feedback to the JHT",
+    "bbox": [
+      55.2,
+      226.5,
+      631.4,
+      253.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b003",
+    "text": "•  JHT document IT evaluation on each project",
+    "bbox": [
+      55.2,
+      264.5,
+      558.9,
+      291.7
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b004",
+    "text": "•  JHT prepare final evaluation results and submit to NHC",
+    "bbox": [
+      55.2,
+      300.1,
+      675.4,
+      327.3
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b005",
+    "text": "Director",
+    "bbox": [
+      82.2,
+      323.1,
+      172.9,
+      349.9
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b006",
+    "text": "•  NHC Director makes final decisions on operational acceptance",
+    "bbox": [
+      55.2,
+      358.1,
+      754.6,
+      385.3
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b007",
+    "text": "(for non-modeling projects)",
+    "bbox": [
+      82.2,
+      381.1,
+      389.0,
+      407.9
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b008",
+    "text": "•  NHC/EMC/NCO implement accepted projects/techniques",
+    "bbox": [
+      55.2,
+      416.1,
+      695.8,
+      443.3
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b009",
+    "text": "Activities associated with each cycle",
+    "bbox": [
+      55.1,
+      126.6,
+      578.0,
+      162.4
+    ],
+    "font_size": 32.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b010",
+    "text": "Major Activities 2001-2011",
+    "bbox": [
+      119.0,
+      74.7,
+      624.5,
+      119.4
+    ],
+    "font_size": 40.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 9,
+    "block_id": "489_p9_b011",
+    "text": "Cont.",
+    "bbox": [
+      697.2,
+      71.3,
+      745.2,
+      91.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 10,
+    "block_id": "489_p10_b001",
+    "text": "•  Completed five rounds of projects",
+    "bbox": [
+      55.2,
+      191.9,
+      567.8,
+      228.2
+    ],
+    "font_size": 32.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 10,
+    "block_id": "489_p10_b002",
+    "text": "•  Final evaluations on fifth round projects completed",
+    "bbox": [
+      91.2,
+      240.9,
+      659.9,
+      268.1
+    ],
+    "font_size": 24.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 10,
+    "block_id": "489_p10_b003",
+    "text": "•  Sixth round projects started in 2011",
+    "bbox": [
+      55.2,
+      284.9,
+      592.1,
+      321.2
+    ],
+    "font_size": 32.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 10,
+    "block_id": "489_p10_b004",
+    "text": "Major Activities 2001-2011",
+    "bbox": [
+      149.0,
+      100.1,
+      654.5,
+      144.7
+    ],
+    "font_size": 40.0,
+    "font_name": "Arial-BoldMT",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b001",
+    "text": "JHT Infrastructure",
+    "bbox": [
+      79.2,
+      57.7,
+      382.7,
+      97.1
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b002",
+    "text": "Personnel",
+    "bbox": [
+      80.7,
+      120.5,
+      183.9,
+      146.1
+    ],
+    "font_size": 22.0,
+    "font_name": "TrebuchetMS-Italic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b003",
+    "text": "  Quarter-time Director (NOAA FTE)",
+    "bbox": [
+      80.7,
+      161.5,
+      450.0,
+      187.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b004",
+    "text": "  7-member Steering Committee",
+    "bbox": [
+      80.7,
+      202.5,
+      418.9,
+      228.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b005",
+    "text": "  Three from NOAA (one NHC), two from DOD, and two from the",
+    "bbox": [
+      116.7,
+      230.1,
+      650.5,
+      251.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b006",
+    "text": "academic community",
+    "bbox": [
+      138.7,
+      247.1,
+      315.5,
+      268.0
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b007",
+    "text": "  NHC member serves as co-Chair",
+    "bbox": [
+      116.7,
+      270.1,
+      401.0,
+      291.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b008",
+    "text": "  Two quarter-time administrative assistants (NOAA FTE)",
+    "bbox": [
+      80.7,
+      307.5,
+      661.5,
+      333.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b009",
+    "text": "  One IT Facilitator (contractor)",
+    "bbox": [
+      80.7,
+      348.5,
+      413.7,
+      374.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b010",
+    "text": "Computing Resources",
+    "bbox": [
+      80.7,
+      389.5,
+      298.3,
+      415.1
+    ],
+    "font_size": 22.0,
+    "font_name": "TrebuchetMS-Italic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b011",
+    "text": "  Server and workstations",
+    "bbox": [
+      80.7,
+      430.5,
+      350.6,
+      456.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 11,
+    "block_id": "489_p11_b012",
+    "text": "  Software",
+    "bbox": [
+      80.7,
+      471.5,
+      202.0,
+      497.3
+    ],
+    "font_size": 22.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b001",
+    "text": "What does it take to support the JHT?",
+    "bbox": [
+      91.2,
+      45.7,
+      547.2,
+      89.8
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b002",
+    "text": "JHT Steering Committee:",
+    "bbox": [
+      321.1,
+      267.3,
+      490.4,
+      283.6
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b003",
+    "text": "  Ed Rappaport (NHC – Co-chair)",
+    "bbox": [
+      321.1,
+      283.3,
+      528.5,
+      299.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b004",
+    "text": "  Ed Fukada (Joint Typhoon Warning Center)",
+    "bbox": [
+      321.1,
+      300.3,
+      603.7,
+      316.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b005",
+    "text": "  Jeff Hawkins (Naval Research Laboratory)",
+    "bbox": [
+      321.1,
+      317.3,
+      598.8,
+      333.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b006",
+    "text": "  John Gamache (Hurricane Research Division)",
+    "bbox": [
+      321.1,
+      334.3,
+      617.3,
+      350.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b007",
+    "text": "  Liz Ritchie (University of Arizona)",
+    "bbox": [
+      321.1,
+      351.3,
+      547.6,
+      367.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b008",
+    "text": "  Vijay Tallapragada (Environmental Modeling Center)",
+    "bbox": [
+      321.1,
+      367.3,
+      663.5,
+      383.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b009",
+    "text": "  Hugh Willoughby (Florida International University)",
+    "bbox": [
+      321.1,
+      384.3,
+      652.2,
+      400.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings2",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b010",
+    "text": "JHT Principal Investigators and other funded participants",
+    "bbox": [
+      78.6,
+      430.1,
+      458.3,
+      446.3
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b011",
+    "text": "  John Cortinas and staff (OWAQ)",
+    "bbox": [
+      78.6,
+      446.1,
+      295.3,
+      462.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b012",
+    "text": "  NHC and EMC forecaster and technical points of contact",
+    "bbox": [
+      78.6,
+      463.1,
+      445.5,
+      479.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b013",
+    "text": "  NHC/Technical Support Branch IT staff",
+    "bbox": [
+      78.6,
+      480.1,
+      334.9,
+      496.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Wingdings",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b014",
+    "text": "JHT Staff:",
+    "bbox": [
+      83.9,
+      121.2,
+      189.5,
+      149.1
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b015",
+    "text": "•  Jiann-Gwo Jiing (JHT Director)",
+    "bbox": [
+      83.9,
+      148.8,
+      352.3,
+      169.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b016",
+    "text": "•  Jose Salazar (JHT IT specialist)",
+    "bbox": [
+      83.9,
+      170.8,
+      353.5,
+      191.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b017",
+    "text": "•  Shirley Murillo (JHT Admin. Asst.)",
+    "bbox": [
+      83.9,
+      191.8,
+      373.4,
+      212.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 12,
+    "block_id": "489_p12_b018",
+    "text": "•  Chris Landsea (JHT Admin. Asst.)",
+    "bbox": [
+      83.9,
+      213.8,
+      368.7,
+      234.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b001",
+    "text": "Logistics",
+    "bbox": [
+      65.7,
+      110.0,
+      145.6,
+      130.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b002",
+    "text": "Dedicated physical space in operations, offices",
+    "bbox": [
+      92.7,
+      147.0,
+      477.6,
+      167.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b003",
+    "text": "Personnel",
+    "bbox": [
+      65.7,
+      184.0,
+      154.0,
+      204.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b004",
+    "text": "TPC dedicating about 1.5 FTE spread across ~12 people",
+    "bbox": [
+      92.7,
+      221.0,
+      544.6,
+      241.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b005",
+    "text": "0.5 FTE reimbursed by USWRP for quarter-time JHT Director and one quarter-time JHT",
+    "bbox": [
+      124.2,
+      245.5,
+      674.5,
+      261.8
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b006",
+    "text": "administrative assistant",
+    "bbox": [
+      123.7,
+      258.5,
+      281.3,
+      274.8
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b007",
+    "text": "TPC contributing 1.0 FTE, including TPC member on JHT Steering Committee, forecasters, and",
+    "bbox": [
+      124.2,
+      278.5,
+      723.8,
+      294.8
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b008",
+    "text": "technical support staff",
+    "bbox": [
+      123.7,
+      291.5,
+      270.5,
+      307.8
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b009",
+    "text": "Forecaster and technical points of contact (POC)",
+    "bbox": [
+      92.7,
+      324.0,
+      492.5,
+      344.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b010",
+    "text": "Programming, system administration, and network support",
+    "bbox": [
+      92.7,
+      362.0,
+      572.4,
+      382.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b011",
+    "text": "Administrative support",
+    "bbox": [
+      92.7,
+      399.0,
+      282.0,
+      419.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b012",
+    "text": "Computing Resources",
+    "bbox": [
+      65.7,
+      436.0,
+      251.9,
+      456.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b013",
+    "text": "Network connectivity",
+    "bbox": [
+      92.7,
+      474.0,
+      270.3,
+      494.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b014",
+    "text": "Operational data flow",
+    "bbox": [
+      92.7,
+      511.0,
+      275.1,
+      531.9
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 13,
+    "block_id": "489_p13_b015",
+    "text": "NHC Contributions to JHT",
+    "bbox": [
+      65.1,
+      63.8,
+      483.4,
+      103.3
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b001",
+    "text": "JHT Proposal Review Criteria",
+    "bbox": [
+      150.7,
+      91.7,
+      641.7,
+      135.9
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b002",
+    "text": "  Relevance to program goals (40 pts)",
+    "bbox": [
+      104.6,
+      182.8,
+      464.7,
+      206.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b003",
+    "text": "  Research maturity (10 pts)",
+    "bbox": [
+      126.6,
+      209.9,
+      369.5,
+      230.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b004",
+    "text": "  Priority-to-payoff factors (25 pts)",
+    "bbox": [
+      126.6,
+      235.9,
+      424.7,
+      256.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b005",
+    "text": "  Other agency use (5 pts)",
+    "bbox": [
+      126.6,
+      260.9,
+      352.8,
+      281.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b006",
+    "text": "  Technical merit (40 pts)",
+    "bbox": [
+      104.6,
+      299.8,
+      353.0,
+      323.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b007",
+    "text": "  Risk-to-payoff factors (10 pts)",
+    "bbox": [
+      126.6,
+      327.9,
+      397.5,
+      348.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b008",
+    "text": "  Testing (10 pts)",
+    "bbox": [
+      126.6,
+      352.9,
+      279.1,
+      373.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b009",
+    "text": "  Operational usage (10 pts)",
+    "bbox": [
+      126.6,
+      378.9,
+      368.5,
+      399.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b010",
+    "text": "  Technical compatibility (10 pts)",
+    "bbox": [
+      126.6,
+      403.9,
+      410.3,
+      424.9
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b011",
+    "text": "  Overall qualification of applicants (10 pts)",
+    "bbox": [
+      104.6,
+      443.8,
+      512.9,
+      467.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 14,
+    "block_id": "489_p14_b012",
+    "text": "  Project costs (10 pts)",
+    "bbox": [
+      104.6,
+      484.8,
+      323.3,
+      508.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b001",
+    "text": "Factors in NHC Director’s Decisions for",
+    "bbox": [
+      125.6,
+      65.4,
+      675.9,
+      100.3
+    ],
+    "font_size": 30.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b002",
+    "text": "Operational Implementation",
+    "bbox": [
+      198.7,
+      101.4,
+      602.7,
+      136.3
+    ],
+    "font_size": 30.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b003",
+    "text": "(Listed in the AFFO announcement)",
+    "bbox": [
+      245.9,
+      136.8,
+      552.2,
+      158.8
+    ],
+    "font_size": 19.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b004",
+    "text": "Forecast or Analysis Benefit: expected improvement in",
+    "bbox": [
+      111.6,
+      205.3,
+      576.8,
+      226.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b005",
+    "text": "operational forecast and/or analysis accuracy",
+    "bbox": [
+      111.6,
+      224.3,
+      486.6,
+      245.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b006",
+    "text": "Efficiency:  adherence to forecaster time constraints and ease of",
+    "bbox": [
+      111.6,
+      269.3,
+      648.4,
+      290.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b007",
+    "text": "use needs",
+    "bbox": [
+      111.6,
+      289.3,
+      196.1,
+      310.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b008",
+    "text": "Compatibility:  IT compatibility with operational hardware,",
+    "bbox": [
+      111.6,
+      334.3,
+      606.4,
+      355.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b009",
+    "text": "software, data, communications, etc.",
+    "bbox": [
+      111.6,
+      354.3,
+      422.8,
+      375.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b010",
+    "text": "Sustainability:  availability of resources to operate, upgrade, and/",
+    "bbox": [
+      111.6,
+      399.3,
+      659.4,
+      420.2
+    ],
+    "font_size": 18.0,
+    "font_name": "Trebuchet-BoldItalic",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 15,
+    "block_id": "489_p15_b011",
+    "text": "or provide support",
+    "bbox": [
+      111.6,
+      419.3,
+      266.0,
+      440.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b001",
+    "text": "JHT Summary 2001-12",
+    "bbox": [
+      383.2,
+      98.9,
+      688.7,
+      131.4
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b002",
+    "text": "•  Number of projects supported: 75",
+    "bbox": [
+      144.7,
+      150.1,
+      446.5,
+      171.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b003",
+    "text": "•  62 completed",
+    "bbox": [
+      180.7,
+      171.1,
+      324.0,
+      192.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b004",
+    "text": "•  39.5 accepted for operational implementation",
+    "bbox": [
+      216.7,
+      193.1,
+      619.3,
+      214.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b005",
+    "text": "•  6 projects completed but rejected",
+    "bbox": [
+      216.7,
+      214.1,
+      524.0,
+      235.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b006",
+    "text": "•  9.5 projects completed but pending further investigation",
+    "bbox": [
+      216.7,
+      236.1,
+      706.1,
+      257.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b007",
+    "text": "(decisions deferred)",
+    "bbox": [
+      238.7,
+      257.1,
+      406.0,
+      278.0
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b008",
+    "text": "•  12 projects started in fall 2011",
+    "bbox": [
+      144.7,
+      279.1,
+      422.3,
+      300.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b009",
+    "text": "•  Implementation",
+    "bbox": [
+      144.7,
+      344.1,
+      306.1,
+      365.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b010",
+    "text": "•  35.5 projects implemented: (including 4 5th round projects)",
+    "bbox": [
+      180.7,
+      366.1,
+      696.3,
+      387.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b011",
+    "text": "•  10 numerical modeling related projects implemented by",
+    "bbox": [
+      216.7,
+      387.1,
+      700.7,
+      408.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b012",
+    "text": "EMC/NCO:",
+    "bbox": [
+      238.7,
+      409.1,
+      327.8,
+      430.0
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b013",
+    "text": "•  24.5 projects implemented by NHC:",
+    "bbox": [
+      180.7,
+      430.1,
+      498.1,
+      451.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 16,
+    "block_id": "489_p16_b014",
+    "text": "•  4 projects accepted but not yet fully implemented by NHC:",
+    "bbox": [
+      180.7,
+      452.1,
+      689.3,
+      473.1
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b001",
+    "text": "Implementation",
+    "bbox": [
+      79.2,
+      106.1,
+      371.6,
+      150.2
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b002",
+    "text": "  Some relatively easy",
+    "bbox": [
+      104.6,
+      185.1,
+      369.7,
+      214.4
+    ],
+    "font_size": 25.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b003",
+    "text": "  Some very complicated",
+    "bbox": [
+      104.6,
+      243.1,
+      399.9,
+      272.4
+    ],
+    "font_size": 25.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b004",
+    "text": "  NHC contributes ~0.5 FTE/yr on implementation",
+    "bbox": [
+      104.6,
+      301.1,
+      681.2,
+      330.4
+    ],
+    "font_size": 25.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b005",
+    "text": "  JHT IT facilitator assists in the process",
+    "bbox": [
+      104.6,
+      359.1,
+      572.2,
+      388.4
+    ],
+    "font_size": 25.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b006",
+    "text": "  NCEP/EMC and NCO also contributed",
+    "bbox": [
+      104.6,
+      417.1,
+      557.9,
+      446.4
+    ],
+    "font_size": 25.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 17,
+    "block_id": "489_p17_b007",
+    "text": "Operational Centers are not funded for this task",
+    "bbox": [
+      195.1,
+      503.3,
+      579.3,
+      523.4
+    ],
+    "font_size": 18.0,
+    "font_name": "Arial-ItalicMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 18,
+    "block_id": "489_p18_b001",
+    "text": "Rappaport et al. 2012 - The Joint Hurricane Test Bed, Its first decade of",
+    "bbox": [
+      97.9,
+      464.3,
+      684.4,
+      485.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 18,
+    "block_id": "489_p18_b002",
+    "text": "tropical cyclone research-to-operations activities reviewed, BAMS, March",
+    "bbox": [
+      97.9,
+      485.3,
+      695.2,
+      506.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 18,
+    "block_id": "489_p18_b003",
+    "text": "issue.",
+    "bbox": [
+      97.9,
+      507.3,
+      149.3,
+      528.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 18,
+    "block_id": "489_p18_b004",
+    "text": "62 projects by topic area",
+    "bbox": [
+      307.7,
+      114.6,
+      515.6,
+      135.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 18,
+    "block_id": "489_p18_b005",
+    "text": "JHT first five rounds",
+    "bbox": [
+      255.9,
+      69.2,
+      572.6,
+      106.3
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 19,
+    "block_id": "489_p19_b001",
+    "text": "Highlights of implemented projects",
+    "bbox": [
+      110.9,
+      51.7,
+      692.4,
+      93.5
+    ],
+    "font_size": 36.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 19,
+    "block_id": "489_p19_b002",
+    "text": "Track guidance",
+    "bbox": [
+      302.6,
+      84.8,
+      501.3,
+      128.9
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 19,
+    "block_id": "489_p19_b003",
+    "text": "GFDL",
+    "bbox": [
+      265.2,
+      330.8,
+      317.5,
+      350.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 19,
+    "block_id": "489_p19_b004",
+    "text": "HWRF",
+    "bbox": [
+      385.2,
+      546.2,
+      444.2,
+      566.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 19,
+    "block_id": "489_p19_b005",
+    "text": "Guidance on guidance",
+    "bbox": [
+      560.1,
+      454.7,
+      743.1,
+      475.6
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b001",
+    "text": "Highlights of implemented projects",
+    "bbox": [
+      126.7,
+      50.1,
+      675.9,
+      89.5
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b002",
+    "text": "Intensity guidance",
+    "bbox": [
+      310.1,
+      89.3,
+      488.6,
+      113.7
+    ],
+    "font_size": 21.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b003",
+    "text": "Inner core SST",
+    "bbox": [
+      553.2,
+      335.3,
+      678.9,
+      355.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b004",
+    "text": "Probability of",
+    "bbox": [
+      152.9,
+      506.9,
+      262.0,
+      527.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b005",
+    "text": "rapid intensification",
+    "bbox": [
+      127.9,
+      527.9,
+      287.0,
+      548.0
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b006",
+    "text": "108 120",
+    "bbox": [
+      372.3,
+      309.7,
+      420.3,
+      321.1
+    ],
+    "font_size": 11.3,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b007",
+    "text": "Forecast Time (hr)",
+    "bbox": [
+      231.7,
+      327.8,
+      341.0,
+      339.2
+    ],
+    "font_size": 11.3,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b008",
+    "text": "Percent Improvement",
+    "bbox": [
+      122.8,
+      159.3,
+      136.7,
+      265.5
+    ],
+    "font_size": 11.3,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b009",
+    "text": "Atlantic (All Cases)",
+    "bbox": [
+      181.9,
+      157.8,
+      258.4,
+      165.7
+    ],
+    "font_size": 7.8,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b010",
+    "text": "Atlantic (Near Land)",
+    "bbox": [
+      181.9,
+      168.8,
+      263.2,
+      176.7
+    ],
+    "font_size": 7.8,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 20,
+    "block_id": "489_p20_b011",
+    "text": "Revised SHIPS intensity forecast scheme",
+    "bbox": [
+      97.2,
+      349.8,
+      439.4,
+      369.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b001",
+    "text": "Highlights of implemented projects",
+    "bbox": [
+      126.7,
+      50.1,
+      675.9,
+      89.5
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b002",
+    "text": "Improved use of observations",
+    "bbox": [
+      258.6,
+      89.3,
+      540.1,
+      113.7
+    ],
+    "font_size": 21.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b003",
+    "text": "VORTRAC (Intensity estimates",
+    "bbox": [
+      55.2,
+      335.3,
+      312.9,
+      355.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b004",
+    "text": "using coastal 88-D radars)",
+    "bbox": [
+      55.2,
+      356.3,
+      271.3,
+      376.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b005",
+    "text": "Airborne Doppler Winds",
+    "bbox": [
+      351.8,
+      346.2,
+      552.9,
+      366.3
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b006",
+    "text": "SFMR",
+    "bbox": [
+      381.3,
+      542.4,
+      437.3,
+      562.5
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b007",
+    "text": "Satellite intensity and",
+    "bbox": [
+      561.2,
+      321.8,
+      741.3,
+      341.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 21,
+    "block_id": "489_p21_b008",
+    "text": "size estimates",
+    "bbox": [
+      561.2,
+      342.8,
+      680.2,
+      362.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 22,
+    "block_id": "489_p22_b001",
+    "text": "Highlights of implemented projects",
+    "bbox": [
+      126.7,
+      50.1,
+      675.9,
+      89.5
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 22,
+    "block_id": "489_p22_b002",
+    "text": "New products",
+    "bbox": [
+      332.0,
+      89.3,
+      466.7,
+      113.7
+    ],
+    "font_size": 21.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 22,
+    "block_id": "489_p22_b003",
+    "text": "Rainfall CLIPER",
+    "bbox": [
+      85.2,
+      368.8,
+      220.3,
+      388.9
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 22,
+    "block_id": "489_p22_b004",
+    "text": "Probabilistic wind forecast",
+    "bbox": [
+      475.2,
+      371.3,
+      688.3,
+      391.4
+    ],
+    "font_size": 18.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b001",
+    "text": "Funding Distribution",
+    "bbox": [
+      224.2,
+      57.5,
+      579.6,
+      101.6
+    ],
+    "font_size": 38.0,
+    "font_name": "TrebuchetMS",
+    "label": "H3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b002",
+    "text": "5th Round (2009-2011)",
+    "bbox": [
+      90.6,
+      146.4,
+      329.8,
+      170.5
+    ],
+    "font_size": 20.0,
+    "font_name": "Tahoma-Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b003",
+    "text": "6th Round (2011-2013)",
+    "bbox": [
+      444.8,
+      145.2,
+      689.4,
+      169.4
+    ],
+    "font_size": 20.0,
+    "font_name": "Tahoma-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b004",
+    "text": "University",
+    "bbox": [
+      187.2,
+      429.6,
+      270.6,
+      451.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b005",
+    "text": "University",
+    "bbox": [
+      532.7,
+      423.6,
+      616.1,
+      445.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b006",
+    "text": "DOD/Navy",
+    "bbox": [
+      55.2,
+      225.6,
+      144.1,
+      247.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b007",
+    "text": "NOAA",
+    "bbox": [
+      295.2,
+      213.6,
+      347.2,
+      235.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b008",
+    "text": "NOAA",
+    "bbox": [
+      623.2,
+      213.6,
+      675.2,
+      235.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b009",
+    "text": "DOD/Navy Private 2%",
+    "bbox": [
+      439.2,
+      190.7,
+      634.0,
+      223.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b010",
+    "text": "Private",
+    "bbox": [
+      163.2,
+      190.7,
+      222.9,
+      212.5
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b011",
+    "text": "22%",
+    "bbox": [
+      247.2,
+      261.6,
+      290.1,
+      283.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b012",
+    "text": "12%",
+    "bbox": [
+      571.2,
+      237.6,
+      614.1,
+      259.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b013",
+    "text": "80%",
+    "bbox": [
+      547.2,
+      351.6,
+      590.1,
+      373.3
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b014",
+    "text": "61%",
+    "bbox": [
+      205.2,
+      352.7,
+      248.1,
+      374.5
+    ],
+    "font_size": 18.0,
+    "font_name": "Tahoma",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b015",
+    "text": "Includes\t\r  NOAA\t\r  cooperaFve\t\r  inst.",
+    "bbox": [
+      490.4,
+      448.3,
+      679.9,
+      465.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 23,
+    "block_id": "489_p23_b016",
+    "text": "Includes\t\r  NOAA\t\r  cooperaFve\t\r  inst.",
+    "bbox": [
+      142.4,
+      449.3,
+      331.9,
+      466.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 24,
+    "block_id": "489_p24_b001",
+    "text": "Figure from Rappaport et al. 2012",
+    "bbox": [
+      457.3,
+      481.8,
+      678.3,
+      498.1
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS-Italic",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b001",
+    "text": "2011-2012 Major JHT Activities - 5th round",
+    "bbox": [
+      70.7,
+      87.7,
+      749.7,
+      128.0
+    ],
+    "font_size": 36.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b002",
+    "text": "  February – August 2011",
+    "bbox": [
+      61.2,
+      139.5,
+      301.0,
+      162.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b003",
+    "text": "  Testing of 5th round (2009-2011) projects",
+    "bbox": [
+      83.2,
+      164.7,
+      434.3,
+      185.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b004",
+    "text": "  August 2011",
+    "bbox": [
+      61.2,
+      201.5,
+      199.8,
+      224.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b005",
+    "text": "  9 Projects completed (5th Rd)",
+    "bbox": [
+      83.2,
+      226.7,
+      349.6,
+      247.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b006",
+    "text": "  JHT final evaluation/report on 5th round projects (through December)",
+    "bbox": [
+      83.2,
+      249.7,
+      656.4,
+      270.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b007",
+    "text": "  Decision on acceptance for implementation (NHC and EMC Directors)",
+    "bbox": [
+      83.2,
+      273.7,
+      668.7,
+      294.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b008",
+    "text": "  March 2012",
+    "bbox": [
+      61.2,
+      310.5,
+      194.6,
+      333.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 25,
+    "block_id": "489_p25_b009",
+    "text": "  Final decision made",
+    "bbox": [
+      83.2,
+      335.7,
+      271.5,
+      356.1
+    ],
+    "font_size": 18.0,
+    "font_name": "Wingdings2",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 26,
+    "block_id": "489_p26_b001",
+    "text": "Highlights of 5th Round Completed Projects",
+    "bbox": [
+      72.8,
+      49.9,
+      708.7,
+      91.7
+    ],
+    "font_size": 36.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 26,
+    "block_id": "489_p26_b002",
+    "text": "HWRF-GFDN coupled model- Ginis",
+    "bbox": [
+      55.2,
+      551.1,
+      325.4,
+      569.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 26,
+    "block_id": "489_p26_b003",
+    "text": "Ocean Model Parameterizations - Shay",
+    "bbox": [
+      441.2,
+      549.6,
+      740.0,
+      567.5
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 26,
+    "block_id": "489_p26_b004",
+    "text": "Improved Wind Probabilities – DeMaria/Knaff",
+    "bbox": [
+      43.2,
+      304.9,
+      345.7,
+      320.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 26,
+    "block_id": "489_p26_b005",
+    "text": "Enhanced ATCF - Sampson",
+    "bbox": [
+      433.2,
+      305.1,
+      645.7,
+      323.0
+    ],
+    "font_size": 16.0,
+    "font_name": "Arial-BoldMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b001",
+    "text": "JHT: The Process",
+    "bbox": [
+      92.6,
+      128.4,
+      324.3,
+      160.9
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b002",
+    "text": "Call for Proposals – drafted and disseminated (bi-annually)",
+    "bbox": [
+      99.5,
+      210.7,
+      629.6,
+      233.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b003",
+    "text": "Principal Investigators apply for funding through NOAA",
+    "bbox": [
+      99.5,
+      241.7,
+      592.9,
+      264.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b004",
+    "text": "7 member Steering Committee rates all proposals",
+    "bbox": [
+      99.5,
+      272.7,
+      550.8,
+      295.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b005",
+    "text": "Funded projects are tested during 1 or 2 hurricane seasons in",
+    "bbox": [
+      99.5,
+      303.7,
+      656.5,
+      326.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b006",
+    "text": "conjunction with NHC/EMC points of contact",
+    "bbox": [
+      99.4,
+      334.7,
+      506.5,
+      357.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b007",
+    "text": "At the project’s end, each are evaluated by NHC/EMC staff",
+    "bbox": [
+      99.5,
+      365.7,
+      637.0,
+      388.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b008",
+    "text": "Implementation of successful projects are then carried out",
+    "bbox": [
+      99.5,
+      397.7,
+      635.1,
+      420.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 27,
+    "block_id": "489_p27_b009",
+    "text": "by NHC/EMC staff/PIs",
+    "bbox": [
+      99.4,
+      428.7,
+      300.2,
+      451.9
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b001",
+    "text": "Forecaster Priorities",
+    "bbox": [
+      79.2,
+      60.8,
+      398.3,
+      100.2
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b002",
+    "text": "(Listed in the AFFO announcement)",
+    "bbox": [
+      79.2,
+      99.9,
+      385.5,
+      121.9
+    ],
+    "font_size": 19.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b003",
+    "text": "Second Round (2003)",
+    "bbox": [
+      138.0,
+      136.8,
+      330.5,
+      160.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b004",
+    "text": "1.  Intensity change, rapid intensification",
+    "bbox": [
+      79.2,
+      180.6,
+      384.4,
+      199.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b005",
+    "text": "2.  “Guidance on guidance” for track,",
+    "bbox": [
+      79.2,
+      219.6,
+      358.0,
+      238.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b006",
+    "text": "intensity and precipitation –",
+    "bbox": [
+      106.2,
+      238.6,
+      312.6,
+      257.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b007",
+    "text": "probabilistic",
+    "bbox": [
+      106.2,
+      257.6,
+      200.1,
+      276.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b008",
+    "text": "3.  Precipitation amount and distribution",
+    "bbox": [
+      79.2,
+      296.6,
+      380.8,
+      315.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b009",
+    "text": "4.  Reduce the occurrence of guidance",
+    "bbox": [
+      79.2,
+      335.6,
+      364.1,
+      354.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b010",
+    "text": "and official track outliers",
+    "bbox": [
+      106.2,
+      355.6,
+      293.4,
+      374.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b011",
+    "text": "5.  Implement improved observational",
+    "bbox": [
+      79.2,
+      394.6,
+      361.4,
+      413.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b012",
+    "text": "systems in the storm and its",
+    "bbox": [
+      106.2,
+      413.6,
+      312.3,
+      432.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b013",
+    "text": "environment",
+    "bbox": [
+      106.2,
+      432.6,
+      201.5,
+      451.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b014",
+    "text": "Sixth Round (2011)",
+    "bbox": [
+      477.5,
+      136.8,
+      650.9,
+      160.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b015",
+    "text": "1.  intensity change, rapid intensification",
+    "bbox": [
+      409.2,
+      180.6,
+      714.5,
+      199.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b016",
+    "text": "2.  Improved observational systems in the",
+    "bbox": [
+      409.2,
+      219.6,
+      716.5,
+      238.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b017",
+    "text": "storm and its environment",
+    "bbox": [
+      436.2,
+      238.6,
+      630.4,
+      257.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b018",
+    "text": "3.  “Guidance on guidance” for track,",
+    "bbox": [
+      409.2,
+      277.6,
+      688.0,
+      296.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b019",
+    "text": "intensity and precipitation",
+    "bbox": [
+      436.2,
+      296.6,
+      631.9,
+      315.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b020",
+    "text": "4.  Storm surge, coastal inundation",
+    "bbox": [
+      409.2,
+      335.6,
+      668.9,
+      354.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b021",
+    "text": "modeling/applications",
+    "bbox": [
+      436.2,
+      355.6,
+      601.5,
+      374.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b022",
+    "text": "5.  Improved and extended track",
+    "bbox": [
+      409.2,
+      394.6,
+      652.5,
+      413.3
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b023",
+    "text": "guidance) and identify and removal of",
+    "bbox": [
+      436.2,
+      413.6,
+      715.1,
+      432.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 28,
+    "block_id": "489_p28_b024",
+    "text": "outliers",
+    "bbox": [
+      436.2,
+      432.6,
+      495.4,
+      451.2
+    ],
+    "font_size": 16.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b001",
+    "text": "Modeling Priorities",
+    "bbox": [
+      79.2,
+      52.5,
+      371.8,
+      91.9
+    ],
+    "font_size": 34.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b002",
+    "text": "(Provided by EMC)",
+    "bbox": [
+      79.2,
+      91.4,
+      222.0,
+      111.2
+    ],
+    "font_size": 17.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b003",
+    "text": "Second Round (2003)",
+    "bbox": [
+      138.0,
+      118.8,
+      330.5,
+      142.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b004",
+    "text": "Improved model development to advance",
+    "bbox": [
+      106.2,
+      162.5,
+      371.0,
+      178.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b005",
+    "text": "track and intensity forecasts",
+    "bbox": [
+      106.2,
+      178.5,
+      289.8,
+      194.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b006",
+    "text": "Improved boundary layer representation for",
+    "bbox": [
+      106.2,
+      215.5,
+      386.0,
+      231.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b007",
+    "text": "coupled air/sea/land models-hurricane",
+    "bbox": [
+      106.2,
+      232.5,
+      356.6,
+      248.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b008",
+    "text": "rainfall and inland flooding problem",
+    "bbox": [
+      106.2,
+      249.5,
+      336.6,
+      265.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b009",
+    "text": "Improved targeting strategies for hurricane",
+    "bbox": [
+      106.2,
+      286.5,
+      382.5,
+      302.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b010",
+    "text": "surveillance missions",
+    "bbox": [
+      106.2,
+      302.5,
+      241.5,
+      318.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b011",
+    "text": "Transforming results from field programs,",
+    "bbox": [
+      106.2,
+      339.5,
+      371.6,
+      355.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b012",
+    "text": "e.g., Coupled Boundary Layers/Air-Sea",
+    "bbox": [
+      106.2,
+      356.5,
+      354.3,
+      372.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b013",
+    "text": "Transfer (CBLAST), into tangible results for",
+    "bbox": [
+      106.2,
+      373.5,
+      380.1,
+      389.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b014",
+    "text": "NWP models.",
+    "bbox": [
+      106.2,
+      390.5,
+      192.6,
+      406.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b015",
+    "text": "Diagnostic studies of storm scale structure",
+    "bbox": [
+      106.2,
+      426.5,
+      377.5,
+      442.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b016",
+    "text": "changes from high resolution models",
+    "bbox": [
+      106.2,
+      443.5,
+      340.4,
+      459.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b017",
+    "text": "Sixth Round (2011)",
+    "bbox": [
+      477.5,
+      124.8,
+      650.9,
+      148.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b018",
+    "text": "General model improvements to advance",
+    "bbox": [
+      436.2,
+      168.5,
+      698.9,
+      184.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b019",
+    "text": "NCEP global model track forecasts, improve",
+    "bbox": [
+      436.2,
+      184.5,
+      715.8,
+      200.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b020",
+    "text": "5-7 day",
+    "bbox": [
+      436.2,
+      201.5,
+      490.7,
+      217.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b021",
+    "text": "Diagnostic techniques to further increase",
+    "bbox": [
+      436.2,
+      238.5,
+      699.6,
+      254.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b022",
+    "text": "the utility of global models in forecasting",
+    "bbox": [
+      436.2,
+      255.5,
+      700.9,
+      271.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b023",
+    "text": "tropical cyclone genesis",
+    "bbox": [
+      436.2,
+      272.5,
+      590.5,
+      288.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b024",
+    "text": "Improvements specific to operational HWRF",
+    "bbox": [
+      436.2,
+      308.5,
+      715.9,
+      324.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 29,
+    "block_id": "489_p29_b025",
+    "text": "modeling system",
+    "bbox": [
+      436.2,
+      325.5,
+      545.0,
+      341.7
+    ],
+    "font_size": 14.0,
+    "font_name": "TrebuchetMS",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b001",
+    "text": "2011-2012 Major JHT Activities - 6th round",
+    "bbox": [
+      95.3,
+      58.0,
+      706.7,
+      95.2
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b002",
+    "text": "Primary\t\r  Area\t\r  of\t\r  Focus",
+    "bbox": [
+      85.2,
+      305.1,
+      274.6,
+      344.2
+    ],
+    "font_size": 32.0,
+    "font_name": "Calibri-Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b003",
+    "text": "#\t\r  of\t\r  Projects",
+    "bbox": [
+      545.7,
+      313.9,
+      655.4,
+      341.0
+    ],
+    "font_size": 24.0,
+    "font_name": "Arial-BoldMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b004",
+    "text": "Improvements\t\r  to\t\r  dynamical\t\r  models\t\r  (for\t\r  track,",
+    "bbox": [
+      85.2,
+      358.9,
+      466.3,
+      383.4
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b005",
+    "text": "intensity,\t\r  and\t\r  precipitaFon\t\r  forecasts)",
+    "bbox": [
+      85.2,
+      382.9,
+      393.4,
+      407.4
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b006",
+    "text": "StaFsFcal\t\r  intensity\t\r  forecast\t\r  guidance",
+    "bbox": [
+      85.2,
+      414.1,
+      391.6,
+      438.6
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b007",
+    "text": "Enhancements\t\r  to\t\r  observed\t\r  data,\t\r  assimilaFon",
+    "bbox": [
+      85.2,
+      445.3,
+      458.7,
+      469.8
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b008",
+    "text": "Tropical\t\r  cyclone\t\r  structure/wind/wave\t\r  distribuFon",
+    "bbox": [
+      85.2,
+      476.5,
+      497.0,
+      501.0
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b009",
+    "text": "Total",
+    "bbox": [
+      85.2,
+      507.7,
+      132.1,
+      532.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b010",
+    "text": "• 6th round funding recommendation",
+    "bbox": [
+      82.9,
+      125.8,
+      483.5,
+      153.9
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b011",
+    "text": "• Steering committee review proposals – Complete Feb 2011",
+    "bbox": [
+      118.9,
+      153.4,
+      606.5,
+      174.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b012",
+    "text": "• Rank and select proposals for funding",
+    "bbox": [
+      118.9,
+      175.4,
+      442.2,
+      196.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b013",
+    "text": "• Work with Grants Office to fund selected projects",
+    "bbox": [
+      118.9,
+      196.4,
+      537.4,
+      217.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b014",
+    "text": "• Find Point of contacts among NHC forecasters and support staff",
+    "bbox": [
+      118.9,
+      218.4,
+      652.5,
+      239.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b015",
+    "text": "• Work with PIs to setup timelines for their projects",
+    "bbox": [
+      118.9,
+      234.8,
+      541.0,
+      262.7
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 30,
+    "block_id": "489_p30_b016",
+    "text": "• 6th round Projects (12) began Aug-Sept 2011",
+    "bbox": [
+      82.9,
+      261.8,
+      582.3,
+      289.9
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 32,
+    "block_id": "489_p32_b001",
+    "text": "Average forecaster rating by topic area",
+    "bbox": [
+      102.3,
+      52.4,
+      697.3,
+      89.6
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 32,
+    "block_id": "489_p32_b002",
+    "text": "50 projects (1-4 JHT rounds)",
+    "bbox": [
+      274.5,
+      94.8,
+      535.8,
+      118.0
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b001",
+    "text": "Upcoming in 2012",
+    "bbox": [
+      121.8,
+      107.7,
+      401.0,
+      144.8
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b002",
+    "text": "• Decision on 5th round projects",
+    "bbox": [
+      66.7,
+      179.2,
+      416.1,
+      207.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b003",
+    "text": "• Final reports for 5th round projects",
+    "bbox": [
+      102.7,
+      206.9,
+      437.9,
+      230.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b004",
+    "text": "• POC feedback",
+    "bbox": [
+      102.7,
+      230.9,
+      243.9,
+      254.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b005",
+    "text": "• JHT final review/reports to NHC Director for acceptance",
+    "bbox": [
+      102.7,
+      254.9,
+      634.4,
+      278.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b006",
+    "text": "• Test and evaluation",
+    "bbox": [
+      66.7,
+      279.2,
+      295.9,
+      307.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b007",
+    "text": "• Prepare real-time testing & evaluation for 6th round projects",
+    "bbox": [
+      102.7,
+      307.9,
+      676.3,
+      331.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b008",
+    "text": "• Set up necessary software code and data flow",
+    "bbox": [
+      102.7,
+      331.9,
+      531.4,
+      355.3
+    ],
+    "font_size": 20.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b009",
+    "text": "• Implement newly accepted projects (NHC)",
+    "bbox": [
+      66.7,
+      356.2,
+      544.6,
+      384.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b010",
+    "text": "• Draft and publish 7th round announcement",
+    "bbox": [
+      66.7,
+      385.2,
+      556.1,
+      413.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b011",
+    "text": "• Funding Opportunity (summer 2012)",
+    "bbox": [
+      102.7,
+      414.2,
+      517.8,
+      442.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 33,
+    "block_id": "489_p33_b012",
+    "text": "• Review and recommend pre-applications",
+    "bbox": [
+      66.7,
+      443.2,
+      524.0,
+      471.2
+    ],
+    "font_size": 24.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 34,
+    "block_id": "489_p34_b001",
+    "text": "JHT Web site: for additional info",
+    "bbox": [
+      103.3,
+      76.4,
+      539.3,
+      108.9
+    ],
+    "font_size": 28.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 34,
+    "block_id": "489_p34_b002",
+    "text": "www.nhc.noaa.gov/jht",
+    "bbox": [
+      101.8,
+      137.6,
+      292.9,
+      158.5
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 34,
+    "block_id": "489_p34_b003",
+    "text": "Thank you",
+    "bbox": [
+      482.7,
+      226.6,
+      648.1,
+      263.7
+    ],
+    "font_size": 32.0,
+    "font_name": "TrebuchetMS-Bold",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b001",
+    "text": "Joint Hurricane Testbed",
+    "bbox": [
+      239.6,
+      231.0,
+      722.3,
+      282.1
+    ],
+    "font_size": 44.0,
+    "font_name": "TrebuchetMS",
+    "label": "H1"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b002",
+    "text": "Transitioning from Research to Operations",
+    "bbox": [
+      274.0,
+      288.2,
+      692.4,
+      312.8
+    ],
+    "font_size": 22.0,
+    "font_name": "ArialMT",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b003",
+    "text": "Joint\t\r  Hurricane\t\r  Testbed\t\r  is\t\r  funded\t\r  by\t\r  the\t\r  US\t\r  Weather\t\r  Research\t\r  Program\t\r  in",
+    "bbox": [
+      224.8,
+      523.7,
+      589.5,
+      538.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b004",
+    "text": "NOAA/OAR's\t\r  Oﬃce\t\r  of\t\r  Weather\t\r  and\t\r  Air\t\r  Quality.",
+    "bbox": [
+      290.3,
+      537.7,
+      526.8,
+      552.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b005",
+    "text": "Shirley Murillo – NOAA/AOML",
+    "bbox": [
+      351.8,
+      355.3,
+      588.0,
+      376.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  },
+  {
+    "pdf_id": "489",
+    "page_number": 35,
+    "block_id": "489_p35_b006",
+    "text": "Jiann-Gwo Jiing and Chris Landsea – NOAA/NHC",
+    "bbox": [
+      288.0,
+      399.3,
+      677.6,
+      420.2
+    ],
+    "font_size": 18.0,
+    "font_name": "TrebuchetMS",
+    "label": "H4"
+  }
+]

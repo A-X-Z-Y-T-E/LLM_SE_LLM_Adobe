@@ -1,0 +1,122 @@
+[
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b001",
+    "text": "[image]",
+    "bbox": [
+      32.0,
+      53.2,
+      64.8,
+      67.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b002",
+    "text": "Ask a Librarian",
+    "bbox": [
+      32.0,
+      65.2,
+      98.7,
+      79.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b003",
+    "text": "Resource Not In Archive",
+    "bbox": [
+      32.0,
+      95.9,
+      206.2,
+      116.6
+    ],
+    "font_size": 15.0,
+    "font_name": "Nimbus Sans Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b004",
+    "text": "The Resource you requested is not in this archive.",
+    "bbox": [
+      32.0,
+      127.1,
+      254.3,
+      140.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b005",
+    "text": "More options:",
+    "bbox": [
+      32.0,
+      159.1,
+      92.6,
+      172.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b006",
+    "text": "Try Searching all pages under http://www.loc.gov/staff/copyright/ir/",
+    "bbox": [
+      32.0,
+      181.1,
+      325.4,
+      194.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b007",
+    "text": "notices/2006/",
+    "bbox": [
+      32.0,
+      193.1,
+      91.5,
+      206.9
+    ],
+    "font_size": 10.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "146",
+    "page_number": 1,
+    "block_id": "146_p1_b008",
+    "text": "OpenWayback 2.3.0",
+    "bbox": [
+      268.3,
+      215.0,
+      368.0,
+      230.1
+    ],
+    "font_size": 11.0,
+    "font_name": "Nimbus Sans Regular",
+    "label": "BODY"
+  }
+]

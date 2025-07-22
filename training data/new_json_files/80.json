@@ -1,0 +1,5522 @@
+[
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b001",
+    "text": "Analysis of Medicare Part D Enrollees",
+    "bbox": [
+      205.9,
+      325.1,
+      520.2,
+      345.1
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b002",
+    "text": "Who Use Antidepressant",
+    "bbox": [
+      257.5,
+      353.2,
+      468.7,
+      373.2
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b003",
+    "text": "or Antipsychotic Medications",
+    "bbox": [
+      239.4,
+      381.3,
+      486.7,
+      401.3
+    ],
+    "font_size": 20.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b004",
+    "text": "March 5, 2015",
+    "bbox": [
+      319.6,
+      408.3,
+      405.0,
+      422.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b005",
+    "text": "Medicare Drug Benefit and C & D Data Group",
+    "bbox": [
+      288.0,
+      728.8,
+      553.8,
+      742.8
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 1,
+    "block_id": "80_p1_b006",
+    "text": "Division of Clinical and Operational Performance",
+    "bbox": [
+      278.2,
+      748.4,
+      563.7,
+      762.5
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b001",
+    "text": "Analysis of Medicare Part D Enrollees Who Use Antidepressant",
+    "bbox": [
+      123.6,
+      66.9,
+      491.6,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b002",
+    "text": "or Antipsychotic Medications",
+    "bbox": [
+      221.1,
+      86.6,
+      394.2,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b003",
+    "text": "March 5, 2015",
+    "bbox": [
+      270.8,
+      105.9,
+      343.9,
+      117.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b004",
+    "text": "Antidepressants and antipsychotics are two of the six protected classes under the Medicare prescription drug",
+    "bbox": [
+      36.0,
+      137.5,
+      571.8,
+      149.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b005",
+    "text": "benefit (Part D).  Part D plan sponsors are required to include substantially all of the medications in these",
+    "bbox": [
+      36.0,
+      154.3,
+      550.6,
+      166.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b006",
+    "text": "classes on their formularies.  This summary presents a descriptive analysis of the use of antidepressant (AD)",
+    "bbox": [
+      36.0,
+      171.3,
+      563.0,
+      183.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b007",
+    "text": "and antipsychotic (AP) medications among Medicare Part D enrollees in calendar year (CY) 2012 in a Question",
+    "bbox": [
+      36.0,
+      188.1,
+      573.4,
+      200.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b008",
+    "text": "(Q) and Answer (A) format.",
+    "bbox": [
+      36.0,
+      205.0,
+      184.4,
+      217.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b009",
+    "text": "The proportion of the Part D enrolled population that used either an AD or AP medication during 2012 is",
+    "bbox": [
+      36.0,
+      238.6,
+      547.0,
+      250.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b010",
+    "text": "presented (Q1).  For these two user populations, a series of descriptive utilization statistics are provided (Q2,",
+    "bbox": [
+      36.0,
+      255.5,
+      569.0,
+      267.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b011",
+    "text": "Q3), and then broken down by sex and four age groups (Q4), and cross-use (Q5).",
+    "bbox": [
+      36.0,
+      272.3,
+      438.9,
+      284.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b012",
+    "text": "Finally, comparisons between AD and AP users by the number of unique medications (Q6) and therapeutic",
+    "bbox": [
+      36.0,
+      306.0,
+      557.2,
+      318.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 2,
+    "block_id": "80_p2_b013",
+    "text": "classes of medications used are provided (Q7).",
+    "bbox": [
+      36.0,
+      322.9,
+      265.4,
+      334.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b001",
+    "text": "Methodology",
+    "bbox": [
+      36.0,
+      66.9,
+      117.7,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b002",
+    "text": "Study Population",
+    "bbox": [
+      36.0,
+      100.6,
+      139.2,
+      114.7
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b003",
+    "text": "The study population was comprised of Medicare Part D enrollees who used AP or AD medications, and is",
+    "bbox": [
+      36.0,
+      119.9,
+      552.7,
+      131.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b004",
+    "text": "defined as beneficiaries who had one or more prescription drug event (PDE) claim(s) for an AD or AP",
+    "bbox": [
+      36.0,
+      136.8,
+      527.0,
+      148.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b005",
+    "text": "medication in the 2012 Standard Analytic File (SAF) accessed February 10, 2014.  Part D enrollees in",
+    "bbox": [
+      36.0,
+      153.6,
+      523.4,
+      165.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b006",
+    "text": "standalone Prescription Drug Plans (PDPs) and Medicare Advantage Prescription Drug Plans (MA-PDs) were",
+    "bbox": [
+      36.0,
+      170.4,
+      561.2,
+      182.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b007",
+    "text": "included in this analysis.",
+    "bbox": [
+      36.0,
+      187.3,
+      162.1,
+      199.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b008",
+    "text": "Antidepressant and Antipsychotic Medications, Unique Drugs and Drug Names, Therapeutic",
+    "bbox": [
+      36.0,
+      218.6,
+      572.1,
+      232.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b009",
+    "text": "Classifications, and Fills",
+    "bbox": [
+      36.0,
+      238.3,
+      175.4,
+      252.3
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b010",
+    "text": "AD and AP medications were identified from an internally developed list of National Drug Codes (NDCs) that",
+    "bbox": [
+      36.0,
+      257.6,
+      565.1,
+      269.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b011",
+    "text": "were active during 2012.",
+    "bbox": [
+      36.0,
+      274.4,
+      164.9,
+      286.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b012",
+    "text": "Unique drugs were defined at the Medi-Span Generic Product Identifier (GPI-10) level which identifies a drug",
+    "bbox": [
+      36.0,
+      308.1,
+      569.4,
+      320.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b013",
+    "text": "by its generic entity name (e.g., nortriptyline hydrochloride or megestrol acetate instead of Pamelor® or",
+    "bbox": [
+      36.0,
+      324.9,
+      545.1,
+      336.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b014",
+    "text": "Megace®).  Medications with different dosages or strengths retain a common name under this scheme.",
+    "bbox": [
+      36.0,
+      339.4,
+      547.1,
+      353.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b015",
+    "text": "Therapeutic classes were defined using the GPI-2 therapeutic classification associated with an NDC.",
+    "bbox": [
+      36.0,
+      375.5,
+      528.1,
+      387.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b016",
+    "text": "One fill was defined as a single PDE claim, and fills were not adjusted for days supply.  The proportions of fills",
+    "bbox": [
+      36.0,
+      409.1,
+      569.2,
+      421.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b017",
+    "text": "by therapeutic class were calculated as the count of fills per therapeutic class as the numerator divided by the",
+    "bbox": [
+      36.0,
+      426.1,
+      574.0,
+      438.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b018",
+    "text": "denominator of total number of fills.",
+    "bbox": [
+      36.0,
+      442.9,
+      222.7,
+      454.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b019",
+    "text": "When possible, comparisons were made to the general Part D population.",
+    "bbox": [
+      36.0,
+      476.6,
+      404.7,
+      488.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b020",
+    "text": "Presence of Psychosis",
+    "bbox": [
+      36.0,
+      509.3,
+      165.2,
+      523.3
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b021",
+    "text": "The presence of a diagnosis of psychosis was identified during 2012 by the presence of RxHCC category 58",
+    "bbox": [
+      36.0,
+      528.5,
+      555.4,
+      540.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b022",
+    "text": "from the Part D risk adjustment model, which is based on ICD-9 diagnosis code of 295.xx (i.e., schizophrenic",
+    "bbox": [
+      36.0,
+      545.3,
+      562.8,
+      557.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 3,
+    "block_id": "80_p3_b023",
+    "text": "disorders).",
+    "bbox": [
+      36.0,
+      562.3,
+      93.6,
+      574.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 4,
+    "block_id": "80_p4_b001",
+    "text": "Q1:  What proportion of the Part D population used antidepressant or antipsychotics?",
+    "bbox": [
+      36.0,
+      66.9,
+      541.5,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 4,
+    "block_id": "80_p4_b002",
+    "text": "A:   In 2012, 71.2% of Part D enrollees had no AD or AP use, and 28.8% (or 9.7 million (M) enrollees) used at",
+    "bbox": [
+      36.0,
+      101.7,
+      562.0,
+      113.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 4,
+    "block_id": "80_p4_b003",
+    "text": "least one of these two types of drugs.  (Chart 1)",
+    "bbox": [
+      54.0,
+      118.5,
+      288.2,
+      130.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 4,
+    "block_id": "80_p4_b004",
+    "text": "Additional breakouts for the type of AD and/or AP use are discussed next.",
+    "bbox": [
+      36.0,
+      534.4,
+      403.3,
+      546.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b001",
+    "text": "Q2:  What proportion of Medicare Part D enrollees used either an antidepressant or",
+    "bbox": [
+      36.0,
+      66.9,
+      526.8,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b002",
+    "text": "antipsychotic medication?  What proportion of enrollees had a diagnosis of psychosis",
+    "bbox": [
+      63.0,
+      86.6,
+      561.8,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b003",
+    "text": "and what was the prevalence of their antidepressant or antipsychotic medication use?",
+    "bbox": [
+      63.0,
+      106.3,
+      568.1,
+      120.3
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b004",
+    "text": "A:   Overall, 28.8% of Part D enrollees used either an AP or AD medication in 2012.  This was split between",
+    "bbox": [
+      36.0,
+      142.3,
+      554.8,
+      154.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b005",
+    "text": "25.8% of Part D enrollees who had any AD use and 7.9% who had any AP use.    A smaller proportion of",
+    "bbox": [
+      54.0,
+      159.3,
+      557.9,
+      171.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b006",
+    "text": "Part D enrollees (4.8%) used both an AD and an AP.  (Table 1)1",
+    "bbox": [
+      54.0,
+      173.5,
+      358.9,
+      188.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b007",
+    "text": " A small proportion of Part D enrollees had a diagnosis of psychosis (3.7% or 1,241,455).",
+    "bbox": [
+      67.7,
+      207.3,
+      515.9,
+      222.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b008",
+    "text": "Approximately 68% of these enrollees filled a prescription for an AP during 2012 (or",
+    "bbox": [
+      85.7,
+      227.2,
+      496.1,
+      239.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b009",
+    "text": "[342,183+498,999]/1,241,455). This was comprised of 27.6% of enrollees with a psychosis diagnosis",
+    "bbox": [
+      85.7,
+      244.1,
+      573.9,
+      256.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b010",
+    "text": "who used only an AP and 40.2% who used both an AP and an AD.",
+    "bbox": [
+      85.7,
+      260.9,
+      405.6,
+      272.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b011",
+    "text": " Approximately 31.7% of all AP users had a claim with diagnosis of psychosis in 2012 (or",
+    "bbox": [
+      67.6,
+      281.4,
+      511.1,
+      296.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b012",
+    "text": "[342,183+498,999]/2,655,166).",
+    "bbox": [
+      85.6,
+      301.2,
+      240.5,
+      313.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b013",
+    "text": "As % of",
+    "bbox": [
+      334.5,
+      350.2,
+      365.9,
+      360.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b014",
+    "text": "Part D",
+    "bbox": [
+      336.7,
+      362.9,
+      364.4,
+      372.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b015",
+    "text": "enrollees",
+    "bbox": [
+      330.0,
+      375.7,
+      368.3,
+      385.4
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b016",
+    "text": "As % of",
+    "bbox": [
+      404.3,
+      362.9,
+      435.6,
+      372.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b017",
+    "text": "subpopulation",
+    "bbox": [
+      389.2,
+      375.7,
+      447.6,
+      385.4
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b018",
+    "text": "Part D population",
+    "bbox": [
+      69.0,
+      390.7,
+      140.8,
+      400.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b019",
+    "text": "33,795,041",
+    "bbox": [
+      273.8,
+      390.7,
+      319.8,
+      400.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b020",
+    "text": "100%",
+    "bbox": [
+      338.3,
+      390.7,
+      361.1,
+      400.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b021",
+    "text": "No antidepressant or antipsychotic use",
+    "bbox": [
+      69.0,
+      420.7,
+      229.8,
+      430.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b022",
+    "text": "24,055,948",
+    "bbox": [
+      273.8,
+      420.7,
+      319.8,
+      430.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b023",
+    "text": "71.2%",
+    "bbox": [
+      336.7,
+      420.7,
+      361.8,
+      430.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b024",
+    "text": "Any Antidepressant or Antipsychotic use",
+    "bbox": [
+      69.0,
+      435.7,
+      234.0,
+      445.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b025",
+    "text": "9,739,093",
+    "bbox": [
+      279.0,
+      435.7,
+      319.8,
+      445.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b026",
+    "text": "28.8%",
+    "bbox": [
+      336.7,
+      435.7,
+      361.8,
+      445.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b027",
+    "text": "Subpopulation: AD/AP Users",
+    "bbox": [
+      69.0,
+      465.7,
+      185.8,
+      475.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b028",
+    "text": "Any Antidepressant use",
+    "bbox": [
+      69.0,
+      480.7,
+      165.9,
+      490.4
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b029",
+    "text": "8,721,483",
+    "bbox": [
+      279.0,
+      480.7,
+      319.8,
+      490.4
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b030",
+    "text": "25.8%",
+    "bbox": [
+      336.7,
+      480.7,
+      361.8,
+      490.4
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b031",
+    "text": "100.0%",
+    "bbox": [
+      405.0,
+      481.4,
+      435.3,
+      491.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b032",
+    "text": "Antidepressant use only",
+    "bbox": [
+      75.8,
+      495.7,
+      174.3,
+      505.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b033",
+    "text": "7,083,927",
+    "bbox": [
+      279.0,
+      495.7,
+      319.8,
+      505.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b034",
+    "text": "21.0%",
+    "bbox": [
+      337.5,
+      496.5,
+      362.4,
+      506.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b035",
+    "text": "81.2%",
+    "bbox": [
+      410.2,
+      495.7,
+      435.1,
+      505.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b036",
+    "text": "Any Antipsychotic use",
+    "bbox": [
+      69.0,
+      525.7,
+      157.7,
+      535.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b037",
+    "text": "2,655,166",
+    "bbox": [
+      279.0,
+      525.7,
+      319.8,
+      535.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b038",
+    "text": "7.9%",
+    "bbox": [
+      339.8,
+      525.7,
+      359.6,
+      535.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b039",
+    "text": "100.0%",
+    "bbox": [
+      405.0,
+      526.4,
+      435.3,
+      536.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b040",
+    "text": "Antipsychotic use only",
+    "bbox": [
+      75.8,
+      540.7,
+      168.3,
+      550.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b041",
+    "text": "1,017,610",
+    "bbox": [
+      279.0,
+      540.7,
+      319.8,
+      550.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b042",
+    "text": "3.0%",
+    "bbox": [
+      339.8,
+      541.5,
+      359.4,
+      551.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b043",
+    "text": "38.3%",
+    "bbox": [
+      410.2,
+      540.7,
+      435.1,
+      550.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b044",
+    "text": "Antidepressant and Antipsychotic use",
+    "bbox": [
+      69.0,
+      570.7,
+      222.0,
+      580.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b045",
+    "text": "1,637,556",
+    "bbox": [
+      279.0,
+      570.7,
+      319.8,
+      580.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b046",
+    "text": "4.8%",
+    "bbox": [
+      339.8,
+      571.5,
+      359.6,
+      581.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b047",
+    "text": "100.0%",
+    "bbox": [
+      405.0,
+      571.5,
+      435.3,
+      581.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b048",
+    "text": "Subpopulation: Any diagnosis of psychosis",
+    "bbox": [
+      69.0,
+      600.7,
+      238.2,
+      610.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b049",
+    "text": "1,241,455",
+    "bbox": [
+      279.0,
+      600.7,
+      319.8,
+      610.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b050",
+    "text": "3.7%",
+    "bbox": [
+      339.8,
+      600.7,
+      359.6,
+      610.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b051",
+    "text": "100.0%",
+    "bbox": [
+      405.0,
+      601.5,
+      435.3,
+      611.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b052",
+    "text": "Only AD use",
+    "bbox": [
+      75.8,
+      615.7,
+      125.5,
+      625.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b053",
+    "text": "184,605",
+    "bbox": [
+      286.5,
+      615.7,
+      319.8,
+      625.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b054",
+    "text": "0.5%",
+    "bbox": [
+      339.8,
+      615.7,
+      359.6,
+      625.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b055",
+    "text": "14.9%",
+    "bbox": [
+      410.2,
+      615.7,
+      435.1,
+      625.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b056",
+    "text": "Only AP use",
+    "bbox": [
+      75.8,
+      630.7,
+      124.7,
+      640.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b057",
+    "text": "342,183",
+    "bbox": [
+      286.5,
+      630.7,
+      319.8,
+      640.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b058",
+    "text": "1.0%",
+    "bbox": [
+      339.8,
+      630.7,
+      359.6,
+      640.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b059",
+    "text": "27.6%",
+    "bbox": [
+      410.2,
+      630.7,
+      435.1,
+      640.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b060",
+    "text": "AP and AD use",
+    "bbox": [
+      75.8,
+      645.7,
+      134.4,
+      655.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b061",
+    "text": "498,999",
+    "bbox": [
+      286.5,
+      645.7,
+      319.8,
+      655.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b062",
+    "text": "1.5%",
+    "bbox": [
+      339.8,
+      645.7,
+      359.6,
+      655.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b063",
+    "text": "40.2%",
+    "bbox": [
+      410.2,
+      645.7,
+      435.1,
+      655.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b064",
+    "text": "No new AP/AD fills during 2012*",
+    "bbox": [
+      75.8,
+      660.7,
+      209.2,
+      670.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b065",
+    "text": "215,668",
+    "bbox": [
+      286.5,
+      660.7,
+      319.8,
+      670.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b066",
+    "text": "0.6%",
+    "bbox": [
+      339.8,
+      660.7,
+      359.6,
+      670.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b067",
+    "text": "17.4%",
+    "bbox": [
+      410.2,
+      660.7,
+      435.1,
+      670.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b068",
+    "text": "* Note: Does not include fills in 2011 that extended into 2012",
+    "bbox": [
+      56.2,
+      675.7,
+      306.2,
+      685.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b069",
+    "text": "Table 1: Prevalence of AD and AP use Among Part D enrollees, 2012",
+    "bbox": [
+      56.2,
+      335.2,
+      331.8,
+      345.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b070",
+    "text": "1  Antipsychotics may also have approved indications for other conditions (such as major depression or bipolar disease) without",
+    "bbox": [
+      36.0,
+      731.3,
+      554.8,
+      743.7
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 5,
+    "block_id": "80_p5_b071",
+    "text": "psychoses.",
+    "bbox": [
+      45.0,
+      745.9,
+      97.8,
+      755.8
+    ],
+    "font_size": 10.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b001",
+    "text": "Q3:   How many unique antidepressant or antipsychotic medications were used by AD and",
+    "bbox": [
+      36.0,
+      66.9,
+      562.8,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b002",
+    "text": "AP users?",
+    "bbox": [
+      67.6,
+      86.6,
+      127.0,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b003",
+    "text": "A:  Over three-fourths of AD and AP users used only one unique drug per class.  (Chart 2)",
+    "bbox": [
+      36.0,
+      121.3,
+      470.2,
+      133.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b004",
+    "text": " Among AD users (which represented 25.8% of the Part D population or 8.7 M enrollees), 76.3% used",
+    "bbox": [
+      54.0,
+      152.5,
+      563.2,
+      167.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b005",
+    "text": "one unique AD drug in 2012, 19.3% used two unique drugs, and 4.4% used three or more.",
+    "bbox": [
+      72.0,
+      172.5,
+      517.0,
+      184.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b006",
+    "text": " Similarly, among AP users (which represented 7.9% of the Part D population or 2.7 M enrollees), about",
+    "bbox": [
+      54.0,
+      186.9,
+      574.7,
+      202.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 6,
+    "block_id": "80_p6_b007",
+    "text": "79.7% used only one unique AP drug, 15.5% used two, and 4.8% used three or more.",
+    "bbox": [
+      72.0,
+      206.8,
+      498.0,
+      218.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b001",
+    "text": "Q4:  Did the use of antidepressant or antipsychotic medications differ by sex?  What was the",
+    "bbox": [
+      36.0,
+      66.9,
+      575.8,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b002",
+    "text": "breakdown by age? Are age distributions similar for men and women?",
+    "bbox": [
+      67.6,
+      86.6,
+      479.2,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b003",
+    "text": "A:   Users of AD medications were disproportionately more female compared to the general Part D population",
+    "bbox": [
+      36.0,
+      121.3,
+      574.8,
+      133.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b004",
+    "text": "(68.9% vs 58.2% female).  Users of AP medications were proportionately similar by sex (59.2% vs 58.2%",
+    "bbox": [
+      54.0,
+      136.0,
+      559.0,
+      148.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b005",
+    "text": "female).  (Table 2)",
+    "bbox": [
+      54.0,
+      150.6,
+      145.2,
+      162.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b006",
+    "text": " A higher proportion of Part D enrollees who only used AP medications were male compared to the Part",
+    "bbox": [
+      54.0,
+      179.6,
+      577.7,
+      194.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b007",
+    "text": "D population (47.6% vs 41.8% male).",
+    "bbox": [
+      72.0,
+      199.6,
+      258.5,
+      211.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b008",
+    "text": "  A higher proportion of Part D enrollees who used both AD and AP medications were female than the",
+    "bbox": [
+      54.0,
+      213.9,
+      567.1,
+      229.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b009",
+    "text": "Part D population (63.4% vs 58.2% female).",
+    "bbox": [
+      72.0,
+      233.9,
+      285.5,
+      245.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b010",
+    "text": "As % of",
+    "bbox": [
+      357.0,
+      318.3,
+      386.7,
+      327.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b011",
+    "text": "Part D",
+    "bbox": [
+      359.3,
+      330.3,
+      382.1,
+      339.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b012",
+    "text": "Male",
+    "bbox": [
+      418.5,
+      329.7,
+      438.4,
+      339.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b013",
+    "text": "Female",
+    "bbox": [
+      461.3,
+      329.7,
+      490.9,
+      339.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b014",
+    "text": "Medicare Population1",
+    "bbox": [
+      75.0,
+      343.2,
+      163.2,
+      355.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b015",
+    "text": "50,829,000",
+    "bbox": [
+      297.7,
+      346.0,
+      338.3,
+      355.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b016",
+    "text": "45.2%",
+    "bbox": [
+      416.3,
+      346.2,
+      441.3,
+      356.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b017",
+    "text": "54.8%",
+    "bbox": [
+      464.3,
+      345.5,
+      489.3,
+      355.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b018",
+    "text": "Part D Population",
+    "bbox": [
+      75.0,
+      360.5,
+      146.8,
+      370.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b019",
+    "text": "33,795,041",
+    "bbox": [
+      297.7,
+      361.0,
+      338.3,
+      370.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b020",
+    "text": "100.0%",
+    "bbox": [
+      366.0,
+      361.0,
+      392.8,
+      370.0
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b021",
+    "text": "41.8%",
+    "bbox": [
+      416.3,
+      360.5,
+      441.3,
+      370.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b022",
+    "text": "58.2%",
+    "bbox": [
+      464.3,
+      360.5,
+      489.3,
+      370.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b023",
+    "text": "Any Part D Drug use",
+    "bbox": [
+      81.8,
+      374.7,
+      162.9,
+      384.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b024",
+    "text": "31,282,441",
+    "bbox": [
+      297.7,
+      375.3,
+      338.3,
+      384.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b025",
+    "text": "92.6%",
+    "bbox": [
+      368.3,
+      374.7,
+      393.3,
+      384.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b026",
+    "text": "40.8%",
+    "bbox": [
+      416.3,
+      374.7,
+      441.3,
+      384.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b027",
+    "text": "59.2%",
+    "bbox": [
+      464.3,
+      374.7,
+      489.3,
+      384.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b028",
+    "text": "No antidepressant or antipsychotic use",
+    "bbox": [
+      81.8,
+      400.2,
+      242.6,
+      410.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b029",
+    "text": "24,055,948",
+    "bbox": [
+      297.7,
+      400.8,
+      338.3,
+      409.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b030",
+    "text": "71.2%",
+    "bbox": [
+      368.3,
+      400.2,
+      393.3,
+      410.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b031",
+    "text": "45.5%",
+    "bbox": [
+      416.3,
+      400.2,
+      441.3,
+      410.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b032",
+    "text": "54.5%",
+    "bbox": [
+      464.3,
+      400.2,
+      489.3,
+      410.0
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b033",
+    "text": "Any Antidepressant or Antipsychotic use",
+    "bbox": [
+      81.8,
+      413.0,
+      246.8,
+      422.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b034",
+    "text": "9,739,093",
+    "bbox": [
+      302.3,
+      413.5,
+      338.3,
+      422.6
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b035",
+    "text": "28.8%",
+    "bbox": [
+      368.3,
+      413.0,
+      393.3,
+      422.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b036",
+    "text": "41.9%",
+    "bbox": [
+      416.3,
+      413.0,
+      441.3,
+      422.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b037",
+    "text": "58.1%",
+    "bbox": [
+      464.3,
+      413.0,
+      489.3,
+      422.7
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b038",
+    "text": "AD/AP Users",
+    "bbox": [
+      75.0,
+      456.5,
+      127.5,
+      466.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b039",
+    "text": "Any Antidepressant use2",
+    "bbox": [
+      81.8,
+      470.5,
+      171.8,
+      481.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b040",
+    "text": "8,721,481",
+    "bbox": [
+      302.3,
+      472.8,
+      338.3,
+      481.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b041",
+    "text": "25.8%",
+    "bbox": [
+      370.5,
+      472.8,
+      392.8,
+      481.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b042",
+    "text": "31.1%",
+    "bbox": [
+      417.0,
+      472.8,
+      439.3,
+      481.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b043",
+    "text": "68.9%",
+    "bbox": [
+      465.0,
+      472.8,
+      487.3,
+      481.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b044",
+    "text": "Antidepressant use only",
+    "bbox": [
+      95.3,
+      484.8,
+      195.0,
+      493.8
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b045",
+    "text": "7,083,926",
+    "bbox": [
+      302.3,
+      485.5,
+      338.3,
+      494.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b046",
+    "text": "21.0%",
+    "bbox": [
+      370.5,
+      485.5,
+      392.7,
+      494.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b047",
+    "text": "29.8%",
+    "bbox": [
+      417.0,
+      485.5,
+      439.2,
+      494.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b048",
+    "text": "70.2%",
+    "bbox": [
+      465.0,
+      485.5,
+      487.2,
+      494.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b049",
+    "text": "Any Antipsychotic use2",
+    "bbox": [
+      81.8,
+      510.3,
+      165.8,
+      521.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b050",
+    "text": "2,655,164",
+    "bbox": [
+      302.3,
+      512.5,
+      338.3,
+      521.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b051",
+    "text": "7.9%",
+    "bbox": [
+      375.0,
+      512.5,
+      392.8,
+      521.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b052",
+    "text": "40.8%",
+    "bbox": [
+      417.0,
+      512.5,
+      439.3,
+      521.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b053",
+    "text": "59.2%",
+    "bbox": [
+      465.0,
+      512.5,
+      487.3,
+      521.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b054",
+    "text": "Antipsychotic use only",
+    "bbox": [
+      95.3,
+      524.5,
+      186.1,
+      533.5
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b055",
+    "text": "1,017,609",
+    "bbox": [
+      302.3,
+      525.3,
+      338.3,
+      534.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b056",
+    "text": "3.0%",
+    "bbox": [
+      375.0,
+      525.3,
+      392.7,
+      534.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b057",
+    "text": "47.6%",
+    "bbox": [
+      417.0,
+      525.3,
+      439.2,
+      534.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b058",
+    "text": "52.4%",
+    "bbox": [
+      465.0,
+      525.3,
+      487.2,
+      534.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b059",
+    "text": "Antidepressant and antipsychotic use2",
+    "bbox": [
+      81.8,
+      550.0,
+      222.1,
+      561.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b060",
+    "text": "1,637,555",
+    "bbox": [
+      302.3,
+      552.3,
+      338.3,
+      561.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b061",
+    "text": "4.8%",
+    "bbox": [
+      375.0,
+      552.3,
+      392.8,
+      561.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b062",
+    "text": "36.6%",
+    "bbox": [
+      417.0,
+      552.3,
+      439.3,
+      561.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b063",
+    "text": "63.4%",
+    "bbox": [
+      465.0,
+      552.3,
+      487.3,
+      561.3
+    ],
+    "font_size": 9.0,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b064",
+    "text": "Sex",
+    "bbox": [
+      445.5,
+      306.5,
+      459.7,
+      316.2
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b065",
+    "text": "Table 2: Breakout of Antidepressant and Antipsychotic Use by Sex , 2012",
+    "bbox": [
+      56.2,
+      293.7,
+      350.6,
+      303.5
+    ],
+    "font_size": 9.8,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b066",
+    "text": "1 source: http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMS-Statistics-Reference-",
+    "bbox": [
+      56.2,
+      564.8,
+      499.2,
+      574.6
+    ],
+    "font_size": 8.3,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b067",
+    "text": "Booklet/Downloads/CMS_Stats_2013_final.pdf#tablei4",
+    "bbox": [
+      56.2,
+      577.6,
+      248.9,
+      585.9
+    ],
+    "font_size": 8.3,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 7,
+    "block_id": "80_p7_b068",
+    "text": "2 Numbers differ slightly from those in Table 1 due to 5 beneficiaries having missing genders in the enrollment table",
+    "bbox": [
+      56.2,
+      588.8,
+      458.1,
+      598.6
+    ],
+    "font_size": 8.3,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b001",
+    "text": "Compared to the Part D population, a higher proportion of AP and AD users were less than 65 years of age.",
+    "bbox": [
+      54.0,
+      66.5,
+      577.9,
+      78.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b002",
+    "text": "(Table 3)",
+    "bbox": [
+      54.0,
+      81.3,
+      102.1,
+      93.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b003",
+    "text": " Among AD users, 30.1% were under 65.",
+    "bbox": [
+      54.0,
+      110.2,
+      267.8,
+      125.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b004",
+    "text": " A higher proportion of AP users were under 65 (49.5%).",
+    "bbox": [
+      54.0,
+      127.8,
+      350.9,
+      142.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b005",
+    "text": " Whereas, for the Part D population, 19.2% of enrollees were under 65.",
+    "bbox": [
+      54.0,
+      145.2,
+      424.5,
+      160.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b006",
+    "text": "This trend was also present when stratified by age and sex:",
+    "bbox": [
+      54.0,
+      181.9,
+      346.8,
+      193.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b007",
+    "text": " For AD users, 38.1% of male AD users and 26.5% of female AD users were under 65, compared to",
+    "bbox": [
+      54.0,
+      211.0,
+      547.8,
+      226.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b008",
+    "text": "22.9% male and 16.6% female under 65 in the Part D population.",
+    "bbox": [
+      72.0,
+      231.0,
+      390.7,
+      243.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b009",
+    "text": " For AP users, use by those under 65 was more pronounced, and 59.8% of male AP users and 42.5% of",
+    "bbox": [
+      54.0,
+      245.4,
+      568.7,
+      260.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b010",
+    "text": "female AP users were under 65.",
+    "bbox": [
+      72.0,
+      265.4,
+      235.4,
+      277.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b011",
+    "text": "Across all age categories, the proportion of AD and AP use was lowest for those 85 years and older (13.5%",
+    "bbox": [
+      54.0,
+      296.8,
+      573.0,
+      308.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b012",
+    "text": "of AD users and 14.1% of AP users were within that age group).  This was comparable to the overall Part D",
+    "bbox": [
+      54.0,
+      311.5,
+      573.2,
+      323.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b013",
+    "text": "population and consistent regardless of sex.",
+    "bbox": [
+      54.0,
+      326.1,
+      276.5,
+      338.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b014",
+    "text": "Study Sample",
+    "bbox": [
+      55.9,
+      405.3,
+      101.9,
+      413.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b015",
+    "text": "< 65",
+    "bbox": [
+      268.2,
+      410.9,
+      282.4,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b016",
+    "text": "65-74",
+    "bbox": [
+      295.2,
+      410.9,
+      314.9,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b017",
+    "text": "75-84",
+    "bbox": [
+      325.2,
+      410.9,
+      345.0,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b018",
+    "text": "85+",
+    "bbox": [
+      359.1,
+      410.9,
+      371.9,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b019",
+    "text": "< 65",
+    "bbox": [
+      389.8,
+      410.9,
+      403.9,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b020",
+    "text": "65-74 75-84",
+    "bbox": [
+      411.7,
+      410.9,
+      456.5,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b021",
+    "text": "85+",
+    "bbox": [
+      465.6,
+      410.9,
+      478.4,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b022",
+    "text": "< 65",
+    "bbox": [
+      496.3,
+      410.9,
+      510.4,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b023",
+    "text": "65-74 75-84",
+    "bbox": [
+      520.7,
+      410.9,
+      565.5,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b024",
+    "text": "85+",
+    "bbox": [
+      574.6,
+      410.9,
+      587.4,
+      419.1
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b025",
+    "text": "Part D population",
+    "bbox": [
+      55.9,
+      421.6,
+      117.0,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b026",
+    "text": "100.0%",
+    "bbox": [
+      223.8,
+      421.6,
+      248.9,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b027",
+    "text": "19.2%",
+    "bbox": [
+      265.1,
+      421.6,
+      285.9,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b028",
+    "text": "42.3%",
+    "bbox": [
+      295.2,
+      421.6,
+      316.0,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b029",
+    "text": "25.9%",
+    "bbox": [
+      325.2,
+      421.6,
+      346.1,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b030",
+    "text": "12.6%",
+    "bbox": [
+      355.3,
+      421.6,
+      376.1,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b031",
+    "text": "22.9% 43.6% 24.6% 8.8%",
+    "bbox": [
+      386.6,
+      421.6,
+      480.1,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b032",
+    "text": "16.6%",
+    "bbox": [
+      493.1,
+      421.6,
+      514.0,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b033",
+    "text": "41.3% 26.9% 15.3%",
+    "bbox": [
+      520.7,
+      421.6,
+      591.6,
+      429.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b034",
+    "text": "Any Drug use",
+    "bbox": [
+      61.5,
+      432.2,
+      106.2,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b035",
+    "text": "92.6%",
+    "bbox": [
+      228.2,
+      432.2,
+      249.0,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b036",
+    "text": "18.9%",
+    "bbox": [
+      265.1,
+      432.2,
+      285.9,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b037",
+    "text": "41.6%",
+    "bbox": [
+      295.2,
+      432.2,
+      316.0,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b038",
+    "text": "26.6%",
+    "bbox": [
+      325.2,
+      432.2,
+      346.1,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b039",
+    "text": "12.9%",
+    "bbox": [
+      355.3,
+      432.2,
+      376.1,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b040",
+    "text": "22.3% 43.2% 25.4% 9.1%",
+    "bbox": [
+      386.6,
+      432.2,
+      480.1,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b041",
+    "text": "16.5%",
+    "bbox": [
+      493.1,
+      432.2,
+      514.0,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b042",
+    "text": "40.6% 27.3% 15.6%",
+    "bbox": [
+      520.7,
+      432.2,
+      591.6,
+      440.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b043",
+    "text": "No antidepressant or antipsychotic use",
+    "bbox": [
+      61.5,
+      453.5,
+      195.9,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b044",
+    "text": "71.2%",
+    "bbox": [
+      226.9,
+      453.5,
+      247.7,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b045",
+    "text": "14.1%",
+    "bbox": [
+      265.1,
+      453.5,
+      285.9,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b046",
+    "text": "46.1%",
+    "bbox": [
+      295.2,
+      453.5,
+      316.0,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b047",
+    "text": "27.6%",
+    "bbox": [
+      325.2,
+      453.5,
+      346.1,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b048",
+    "text": "12.2%",
+    "bbox": [
+      355.3,
+      453.5,
+      376.1,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b049",
+    "text": "17.6% 47.6% 26.1% 8.7%",
+    "bbox": [
+      386.6,
+      453.5,
+      480.1,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b050",
+    "text": "11.2% 44.9% 28.8% 15.0%",
+    "bbox": [
+      493.8,
+      453.5,
+      591.6,
+      461.7
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b051",
+    "text": "Any Antidepressant or Antipsychotic use",
+    "bbox": [
+      61.5,
+      467.3,
+      199.4,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b052",
+    "text": "28.8%",
+    "bbox": [
+      226.3,
+      467.3,
+      247.1,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b053",
+    "text": "31.9%",
+    "bbox": [
+      265.1,
+      467.3,
+      285.9,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b054",
+    "text": "32.7%",
+    "bbox": [
+      295.2,
+      467.3,
+      316.0,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b055",
+    "text": "21.8%",
+    "bbox": [
+      325.2,
+      467.3,
+      346.1,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b056",
+    "text": "13.6%",
+    "bbox": [
+      355.3,
+      467.3,
+      376.1,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b057",
+    "text": "41.1% 30.2% 19.4% 9.2%",
+    "bbox": [
+      386.6,
+      467.3,
+      480.1,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b058",
+    "text": "27.3%",
+    "bbox": [
+      493.1,
+      467.3,
+      514.0,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b059",
+    "text": "34.0% 22.9% 15.8%",
+    "bbox": [
+      520.7,
+      467.3,
+      591.6,
+      475.4
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b060",
+    "text": "Antidepressant or Antipsychotic users",
+    "bbox": [
+      61.5,
+      491.7,
+      191.1,
+      499.9
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b061",
+    "text": "Any Antidepressant use",
+    "bbox": [
+      67.2,
+      502.4,
+      147.4,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b062",
+    "text": "25.8%",
+    "bbox": [
+      226.3,
+      502.4,
+      247.1,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b063",
+    "text": "30.1%",
+    "bbox": [
+      265.1,
+      502.4,
+      285.9,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b064",
+    "text": "34.1%",
+    "bbox": [
+      295.2,
+      502.4,
+      316.0,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b065",
+    "text": "22.3%",
+    "bbox": [
+      325.2,
+      502.4,
+      346.1,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b066",
+    "text": "13.5%",
+    "bbox": [
+      355.3,
+      502.4,
+      376.1,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b067",
+    "text": "38.1% 32.1% 20.3% 9.4%",
+    "bbox": [
+      386.6,
+      502.4,
+      480.1,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b068",
+    "text": "26.5%",
+    "bbox": [
+      493.1,
+      502.4,
+      514.0,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b069",
+    "text": "34.9% 23.1% 15.4%",
+    "bbox": [
+      520.7,
+      502.4,
+      591.6,
+      510.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b070",
+    "text": "Antidepressant use only",
+    "bbox": [
+      72.8,
+      513.0,
+      155.2,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b071",
+    "text": "21.0%",
+    "bbox": [
+      226.3,
+      513.0,
+      247.1,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b072",
+    "text": "25.2%",
+    "bbox": [
+      265.1,
+      513.0,
+      285.9,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b073",
+    "text": "37.5%",
+    "bbox": [
+      295.2,
+      513.0,
+      316.0,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b074",
+    "text": "23.8%",
+    "bbox": [
+      325.2,
+      513.0,
+      346.1,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b075",
+    "text": "13.5%",
+    "bbox": [
+      355.3,
+      513.0,
+      376.1,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b076",
+    "text": "31.5% 36.2% 22.4% 9.8%",
+    "bbox": [
+      386.6,
+      513.0,
+      480.1,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b077",
+    "text": "22.5%",
+    "bbox": [
+      493.1,
+      513.0,
+      514.0,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b078",
+    "text": "38.1% 24.4% 15.0%",
+    "bbox": [
+      520.7,
+      513.0,
+      591.6,
+      521.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b079",
+    "text": "Any Antipsychotic use",
+    "bbox": [
+      67.2,
+      531.2,
+      142.4,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "HH3"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b080",
+    "text": "7.9%",
+    "bbox": [
+      228.8,
+      531.2,
+      245.2,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b081",
+    "text": "49.5%",
+    "bbox": [
+      265.1,
+      531.2,
+      285.9,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b082",
+    "text": "19.9%",
+    "bbox": [
+      295.2,
+      531.2,
+      316.0,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b083",
+    "text": "16.4%",
+    "bbox": [
+      325.2,
+      531.2,
+      346.1,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b084",
+    "text": "14.1%",
+    "bbox": [
+      355.3,
+      531.2,
+      376.1,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b085",
+    "text": "59.8% 18.4% 13.7% 8.0%",
+    "bbox": [
+      386.6,
+      531.2,
+      480.1,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b086",
+    "text": "42.5%",
+    "bbox": [
+      493.1,
+      531.2,
+      514.0,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b087",
+    "text": "21.0% 18.3% 18.2%",
+    "bbox": [
+      520.7,
+      531.2,
+      591.6,
+      539.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b088",
+    "text": "Antipsychotic use only",
+    "bbox": [
+      72.8,
+      541.9,
+      150.2,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b089",
+    "text": "3.0%",
+    "bbox": [
+      228.8,
+      541.9,
+      245.2,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b090",
+    "text": "46.6%",
+    "bbox": [
+      265.1,
+      541.9,
+      285.9,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b091",
+    "text": "21.5%",
+    "bbox": [
+      295.2,
+      541.9,
+      316.0,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b092",
+    "text": "17.6%",
+    "bbox": [
+      325.2,
+      541.9,
+      346.1,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b093",
+    "text": "14.4%",
+    "bbox": [
+      355.3,
+      541.9,
+      376.1,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b094",
+    "text": "58.0% 19.5% 14.4% 8.1%",
+    "bbox": [
+      386.6,
+      541.9,
+      480.1,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b095",
+    "text": "36.2%",
+    "bbox": [
+      493.1,
+      541.9,
+      514.0,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b096",
+    "text": "23.3% 20.4% 20.1%",
+    "bbox": [
+      520.7,
+      541.9,
+      591.6,
+      550.0
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b097",
+    "text": "Both Antidepressant and antipsychotic use",
+    "bbox": [
+      67.2,
+      563.1,
+      214.2,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b098",
+    "text": "4.8%",
+    "bbox": [
+      228.8,
+      563.1,
+      245.2,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b099",
+    "text": "31.9%",
+    "bbox": [
+      265.1,
+      563.1,
+      285.9,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b100",
+    "text": "32.7%",
+    "bbox": [
+      295.2,
+      563.1,
+      316.0,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b101",
+    "text": "21.8%",
+    "bbox": [
+      325.2,
+      563.1,
+      346.1,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b102",
+    "text": "13.6%",
+    "bbox": [
+      355.3,
+      563.1,
+      376.1,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b103",
+    "text": "41.1% 30.2% 19.4%",
+    "bbox": [
+      387.3,
+      563.1,
+      458.2,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b104",
+    "text": "9.2%",
+    "bbox": [
+      466.8,
+      563.1,
+      483.3,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b105",
+    "text": "27.3% 34.0% 22.9% 15.8%",
+    "bbox": [
+      493.8,
+      563.1,
+      591.6,
+      571.3
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b106",
+    "text": "Table 3: Age Distributions of Antidepressant and Antipsychotic Drug Users, 2012",
+    "bbox": [
+      55.9,
+      356.4,
+      328.2,
+      364.6
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b107",
+    "text": "% of",
+    "bbox": [
+      230.0,
+      378.4,
+      246.3,
+      386.5
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b108",
+    "text": "Part D",
+    "bbox": [
+      226.3,
+      389.0,
+      249.4,
+      397.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b109",
+    "text": "populatio",
+    "bbox": [
+      220.6,
+      399.7,
+      253.2,
+      407.8
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b110",
+    "text": "Age",
+    "bbox": [
+      314.0,
+      389.0,
+      326.8,
+      397.2
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b111",
+    "text": "Male",
+    "bbox": [
+      426.1,
+      377.7,
+      442.7,
+      385.9
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b112",
+    "text": "Female",
+    "bbox": [
+      528.8,
+      377.7,
+      553.6,
+      385.9
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b113",
+    "text": "Age",
+    "bbox": [
+      428.0,
+      389.6,
+      440.8,
+      397.8
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 8,
+    "block_id": "80_p8_b114",
+    "text": "Age",
+    "bbox": [
+      534.5,
+      389.6,
+      547.3,
+      397.8
+    ],
+    "font_size": 8.1,
+    "font_name": "Calibri,Bold",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 9,
+    "block_id": "80_p9_b001",
+    "text": "Q5:  Are antipsychotics used by antidepressant users?  And conversely, are antidepressants",
+    "bbox": [
+      36.0,
+      66.9,
+      568.8,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 9,
+    "block_id": "80_p9_b002",
+    "text": "used by antipsychotic users?",
+    "bbox": [
+      63.0,
+      86.6,
+      235.4,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 9,
+    "block_id": "80_p9_b003",
+    "text": "A:  A high proportion of AD users did not use an AP medication (81.2%).  However, a majority of AP users also",
+    "bbox": [
+      36.0,
+      120.7,
+      571.3,
+      132.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 9,
+    "block_id": "80_p9_b004",
+    "text": "used an AD medication, and only 38.3% of AP users did not use an AD.  (Chart 3)",
+    "bbox": [
+      49.6,
+      137.5,
+      442.5,
+      149.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b001",
+    "text": "Q6:  How many unique medications were used by antidepressant or antipsychotic users",
+    "bbox": [
+      36.0,
+      66.9,
+      547.9,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b002",
+    "text": "overall?  How did this compare to the Part D population?",
+    "bbox": [
+      63.0,
+      86.6,
+      403.6,
+      100.6
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b003",
+    "text": "A:  Chart 4 shows the distribution of the number of unique drugs used by each population (measured at the",
+    "bbox": [
+      36.0,
+      122.1,
+      562.7,
+      134.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b004",
+    "text": "GPI-10 level).  The number of unique drugs used by both the Part D population and AD and AP users was",
+    "bbox": [
+      49.6,
+      136.7,
+      560.2,
+      148.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b005",
+    "text": "wide and ranged from 1 to over 40 medications.",
+    "bbox": [
+      49.6,
+      151.3,
+      292.4,
+      163.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b006",
+    "text": "Each population exhibited a distribution which was skewed to the right.  A distribution that is skewed to the",
+    "bbox": [
+      49.6,
+      180.6,
+      580.6,
+      192.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b007",
+    "text": "right means that the population used a high number of unique drugs.",
+    "bbox": [
+      49.6,
+      195.3,
+      395.3,
+      207.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b008",
+    "text": "On average, AD and AP users utilized more unique drugs overall than the Part D population.  As you can",
+    "bbox": [
+      49.6,
+      224.5,
+      556.8,
+      236.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b009",
+    "text": "see, the distributions for the AD and AP users are slightly more skewed to the right (tapers after 20 drugs)",
+    "bbox": [
+      49.6,
+      239.2,
+      567.1,
+      251.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b010",
+    "text": "than the general Part D population (tapers after 15 drugs).",
+    "bbox": [
+      49.6,
+      251.5,
+      342.1,
+      265.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b011",
+    "text": "Also, in reviewing the peak (or mode), a higher proportion of the Part D population appeared to use about 5",
+    "bbox": [
+      49.6,
+      283.3,
+      578.6,
+      295.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 10,
+    "block_id": "80_p10_b012",
+    "text": "unique drugs, and  AD and AP users used about 8 to 9 unique drugs.",
+    "bbox": [
+      49.6,
+      297.9,
+      388.5,
+      309.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b001",
+    "text": "Q7:  What other classes of medications were used by antidepressant or antipsychotic users?",
+    "bbox": [
+      36.0,
+      66.9,
+      580.0,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b002",
+    "text": "A:  When PDE claims were aggregated by the therapeutic classification (measured by GPI-2) associated with",
+    "bbox": [
+      36.0,
+      100.8,
+      563.1,
+      112.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b003",
+    "text": "the AD or AP NDC, the resulting profiles of drug use across all drug classifications were very similar between",
+    "bbox": [
+      49.6,
+      117.7,
+      577.5,
+      129.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b004",
+    "text": "AD users, AP users, and the general Part D population. (Chart 5)",
+    "bbox": [
+      49.6,
+      134.5,
+      367.7,
+      146.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b005",
+    "text": "While similar profiles exist overall for the 3 study populations, there were slight differences in the",
+    "bbox": [
+      49.6,
+      168.3,
+      527.6,
+      180.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b006",
+    "text": "proportion of fills among three therapeutic groups: cardiovasculars, analgesics, and central nervous system",
+    "bbox": [
+      49.6,
+      182.9,
+      574.2,
+      194.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b007",
+    "text": "(CNS) medications.  Specifically,",
+    "bbox": [
+      49.6,
+      197.5,
+      206.8,
+      209.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b008",
+    "text": " There was a slightly higher proportion of fills for cardiovascular medications for the Part D",
+    "bbox": [
+      72.0,
+      224.4,
+      531.0,
+      239.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b009",
+    "text": "population.",
+    "bbox": [
+      90.0,
+      244.4,
+      148.9,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b010",
+    "text": " There were slightly higher proportions of fills for analgesics and CNS medications2 for AD and AP",
+    "bbox": [
+      72.0,
+      258.7,
+      560.8,
+      273.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b011",
+    "text": "users.",
+    "bbox": [
+      90.0,
+      278.7,
+      121.7,
+      290.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Calibri",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b012",
+    "text": " There was a higher proportion of fills for CNS medications for AP users compared to AD users.",
+    "bbox": [
+      72.0,
+      293.0,
+      549.8,
+      308.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Symbol",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b013",
+    "text": "2 “CNS medications” under this therapeutic classification system is comprised of Anticonvulsants, Musculoskeletal Therapy",
+    "bbox": [
+      36.0,
+      732.7,
+      560.3,
+      744.4
+    ],
+    "font_size": 10.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 11,
+    "block_id": "80_p11_b014",
+    "text": "Agents, Antiparkinson Agents, and Neuromuscular and Antimyasthenic Agents.",
+    "bbox": [
+      36.0,
+      744.4,
+      381.3,
+      756.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b001",
+    "text": "Conclusions",
+    "bbox": [
+      36.0,
+      66.9,
+      108.1,
+      80.9
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b002",
+    "text": "The prevalence of antidepressant use in the Part D enrolled Medicare population was moderate.  Users of",
+    "bbox": [
+      36.0,
+      99.9,
+      575.1,
+      113.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b003",
+    "text": "antidepressants were more likely to be women than men which was disproportionate to the general Part",
+    "bbox": [
+      36.0,
+      116.1,
+      574.2,
+      130.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b004",
+    "text": "D population.",
+    "bbox": [
+      36.0,
+      132.3,
+      118.2,
+      146.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b005",
+    "text": "Overall, the highest proportion of antidepressant use by age category was found in those between 65 and",
+    "bbox": [
+      36.0,
+      164.5,
+      575.4,
+      178.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b006",
+    "text": "74 years of age followed by those under 65.  Use of antidepressants was higher in men under 65 than",
+    "bbox": [
+      36.0,
+      180.7,
+      553.9,
+      194.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b007",
+    "text": "women of the same age.",
+    "bbox": [
+      36.0,
+      196.9,
+      160.9,
+      211.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b008",
+    "text": "In contrast to antidepressant use, the prevalence of any antipsychotic use in the Part D enrolled Medicare",
+    "bbox": [
+      36.0,
+      229.3,
+      576.0,
+      243.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b009",
+    "text": "population was low.  Users of antipsychotics were also more likely to be women than men, and the",
+    "bbox": [
+      36.0,
+      245.4,
+      540.9,
+      259.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b010",
+    "text": "overall proportion of women and men using antipsychotics was similar to the Part D enrolled population,",
+    "bbox": [
+      36.0,
+      261.6,
+      576.3,
+      275.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b011",
+    "text": "and identical to the proportion of users of Part D drugs.  However, a higher proportion of Part D enrollees",
+    "bbox": [
+      36.0,
+      277.9,
+      576.8,
+      291.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b012",
+    "text": "who only used antipsychotic medications were male, and almost half of the users of antipsychotic",
+    "bbox": [
+      36.0,
+      294.1,
+      535.8,
+      308.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b013",
+    "text": "medications were under 65.",
+    "bbox": [
+      36.0,
+      310.2,
+      181.7,
+      324.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b014",
+    "text": "The majority of antidepressant and antipsychotic medication users used only one medication from these",
+    "bbox": [
+      36.0,
+      342.5,
+      572.1,
+      356.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b015",
+    "text": "classes.  Users of antidepressants and antipsychotics used more unique medications than other Part D",
+    "bbox": [
+      36.0,
+      358.7,
+      558.3,
+      372.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b016",
+    "text": "enrollees, but the aggregation of fills across therapeutic categories was very similar to that of other Part",
+    "bbox": [
+      36.0,
+      374.9,
+      568.3,
+      389.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b017",
+    "text": "D enrollees.  This suggests that while fills within a therapeutic class were similar to the Part D population,",
+    "bbox": [
+      36.0,
+      391.1,
+      577.7,
+      405.2
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b018",
+    "text": "there was use of more unique drugs within a class.  In the case of cardiovasculars, analgesics, and central",
+    "bbox": [
+      36.0,
+      407.3,
+      572.6,
+      421.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b019",
+    "text": "nervous system (CNS) medications, antidepressant and antipsychotic medication users had more fills.",
+    "bbox": [
+      36.0,
+      423.6,
+      561.0,
+      437.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b020",
+    "text": "Questions: If you have questions related to this analysis, please email the PartDPolicy@cms.hhs.gov and",
+    "bbox": [
+      36.0,
+      455.8,
+      581.0,
+      469.9
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b021",
+    "text": "include “CMS.gov Part D Analysis Question” in the subject line and reference the title and date of the",
+    "bbox": [
+      36.0,
+      472.0,
+      548.0,
+      486.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b022",
+    "text": "paper in the body of the email.",
+    "bbox": [
+      36.0,
+      488.2,
+      199.4,
+      502.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b023",
+    "text": "Limitations",
+    "bbox": [
+      36.0,
+      545.4,
+      104.1,
+      559.4
+    ],
+    "font_size": 14.0,
+    "font_name": "Calibri,Bold",
+    "label": "HH2"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b024",
+    "text": "This analysis is claims-based and, as a result, there are several points to be kept in mind.  Identification of",
+    "bbox": [
+      36.0,
+      576.2,
+      576.2,
+      590.3
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b025",
+    "text": "antidepressant and antipsychotic users is based on claims alone, and there is no discrimination made",
+    "bbox": [
+      36.0,
+      592.4,
+      555.0,
+      606.5
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b026",
+    "text": "between beneficiaries who have prolonged drug use and those with one-time (or episodic) use.  The",
+    "bbox": [
+      36.0,
+      608.6,
+      549.2,
+      622.7
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b027",
+    "text": "reported numbers accordingly reflect a point estimate of any use of an antidepressant or antipsychotic",
+    "bbox": [
+      36.0,
+      624.7,
+      562.6,
+      638.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b028",
+    "text": "medication and thus represent the upper bound of the true prevalence of use.",
+    "bbox": [
+      36.0,
+      640.9,
+      434.5,
+      655.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b029",
+    "text": "Similarly, to the extent that these medications are disproportionately used in distinct sub-populations",
+    "bbox": [
+      36.0,
+      673.3,
+      558.7,
+      687.4
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b030",
+    "text": "within the broader Medicare population, demographic characteristics such as sex and age can be",
+    "bbox": [
+      36.0,
+      689.5,
+      531.2,
+      703.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b031",
+    "text": "influenced. This analysis did not stratify by any other underlying sub-populations (e.g., those in long-term",
+    "bbox": [
+      36.0,
+      705.6,
+      578.0,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "80",
+    "page_number": 12,
+    "block_id": "80_p12_b032",
+    "text": "care facilities) other than by sex and age and are instead presented in aggregate.",
+    "bbox": [
+      36.0,
+      721.8,
+      448.2,
+      735.8
+    ],
+    "font_size": 12.0,
+    "font_name": "Cambria",
+    "label": "BODY"
+  }
+]

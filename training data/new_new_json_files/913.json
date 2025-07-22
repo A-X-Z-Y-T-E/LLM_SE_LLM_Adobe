@@ -1,0 +1,3257 @@
+[
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b001",
+    "text": "Idaho Transportation Department",
+    "bbox": [
+      225.6,
+      21.9,
+      389.4,
+      35.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "TITLE"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b002",
+    "text": "200 Highest Hour Statistics",
+    "bbox": [
+      239.7,
+      35.7,
+      375.2,
+      49.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b003",
+    "text": "At Continuous Counter Sites",
+    "bbox": [
+      236.8,
+      49.5,
+      378.3,
+      62.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b004",
+    "text": "1998 Traffic Year",
+    "bbox": [
+      262.7,
+      74.9,
+      351.8,
+      88.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b005",
+    "text": "Site ID:",
+    "bbox": [
+      36.0,
+      101.3,
+      76.7,
+      114.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b006",
+    "text": "002140 004.144",
+    "bbox": [
+      93.6,
+      101.3,
+      180.1,
+      114.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b007",
+    "text": "County:",
+    "bbox": [
+      450.9,
+      101.3,
+      492.5,
+      114.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b008",
+    "text": "ADA",
+    "bbox": [
+      558.4,
+      101.3,
+      592.9,
+      114.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b009",
+    "text": "Location:   #080 SH-21 Boise River Bridge, Boise (Eckert Rd.",
+    "bbox": [
+      36.0,
+      116.3,
+      365.9,
+      129.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b010",
+    "text": "Axle Factor Group:",
+    "bbox": [
+      36.0,
+      131.8,
+      133.1,
+      145.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b011",
+    "text": "Growth Factor Group:",
+    "bbox": [
+      367.2,
+      131.8,
+      477.6,
+      145.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b012",
+    "text": "Seasonal Factor Group:",
+    "bbox": [
+      36.0,
+      146.8,
+      152.4,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b013",
+    "text": "FHWA Functional Class:",
+    "bbox": [
+      367.2,
+      146.8,
+      492.2,
+      160.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b014",
+    "text": "Annual",
+    "bbox": [
+      52.2,
+      173.6,
+      90.6,
+      186.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b015",
+    "text": "Highest",
+    "bbox": [
+      52.2,
+      187.4,
+      92.6,
+      200.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b016",
+    "text": "Begin",
+    "bbox": [
+      464.4,
+      187.4,
+      496.1,
+      200.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b017",
+    "text": "Hour",
+    "bbox": [
+      52.2,
+      201.2,
+      79.9,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b018",
+    "text": "Volume",
+    "bbox": [
+      157.1,
+      201.2,
+      198.7,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b019",
+    "text": "%AADT",
+    "bbox": [
+      241.2,
+      201.2,
+      287.5,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b020",
+    "text": "+Dir%",
+    "bbox": [
+      332.9,
+      201.2,
+      368.6,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b021",
+    "text": "Date",
+    "bbox": [
+      424.3,
+      201.2,
+      450.0,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b022",
+    "text": "Time",
+    "bbox": [
+      509.4,
+      201.2,
+      537.6,
+      214.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b023",
+    "text": "797",
+    "bbox": [
+      161.4,
+      215.5,
+      209.4,
+      228.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b024",
+    "text": "21.2",
+    "bbox": [
+      252.3,
+      215.5,
+      285.3,
+      228.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b025",
+    "text": "55.7",
+    "bbox": [
+      338.7,
+      215.5,
+      368.7,
+      228.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b026",
+    "text": "Sat 27JUN",
+    "bbox": [
+      409.4,
+      215.5,
+      470.8,
+      228.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b027",
+    "text": "11:00",
+    "bbox": [
+      508.3,
+      215.5,
+      544.7,
+      228.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b028",
+    "text": "614",
+    "bbox": [
+      161.4,
+      229.3,
+      209.4,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b029",
+    "text": "16.4",
+    "bbox": [
+      252.3,
+      229.3,
+      285.3,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b030",
+    "text": "43.2",
+    "bbox": [
+      338.7,
+      229.3,
+      368.7,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b031",
+    "text": "Thu 16JUL",
+    "bbox": [
+      408.1,
+      229.3,
+      472.1,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b032",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      229.3,
+      544.7,
+      242.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b033",
+    "text": "605",
+    "bbox": [
+      161.4,
+      243.1,
+      209.4,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b034",
+    "text": "16.1",
+    "bbox": [
+      252.3,
+      243.1,
+      285.3,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b035",
+    "text": "43.8",
+    "bbox": [
+      338.7,
+      243.1,
+      368.7,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b036",
+    "text": "Thu 12MAR",
+    "bbox": [
+      404.8,
+      243.1,
+      475.4,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b037",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      243.1,
+      544.7,
+      256.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b038",
+    "text": "598",
+    "bbox": [
+      161.4,
+      256.9,
+      209.4,
+      270.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b039",
+    "text": "15.9",
+    "bbox": [
+      252.3,
+      256.9,
+      285.3,
+      270.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b040",
+    "text": "50.0",
+    "bbox": [
+      338.7,
+      256.9,
+      368.7,
+      270.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b041",
+    "text": "Fri 17JUL",
+    "bbox": [
+      410.8,
+      256.9,
+      469.5,
+      270.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b042",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      256.9,
+      544.7,
+      270.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b043",
+    "text": "598",
+    "bbox": [
+      161.4,
+      270.7,
+      209.4,
+      284.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b044",
+    "text": "15.9",
+    "bbox": [
+      252.3,
+      270.7,
+      285.3,
+      284.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b045",
+    "text": "50.0",
+    "bbox": [
+      338.7,
+      270.7,
+      368.7,
+      284.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b046",
+    "text": "Sun 19JUL",
+    "bbox": [
+      408.4,
+      270.7,
+      471.8,
+      284.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b047",
+    "text": "16:00",
+    "bbox": [
+      508.4,
+      270.7,
+      544.7,
+      284.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b048",
+    "text": "577",
+    "bbox": [
+      161.4,
+      284.4,
+      209.4,
+      297.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b049",
+    "text": "15.4",
+    "bbox": [
+      252.3,
+      284.4,
+      285.3,
+      297.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b050",
+    "text": "29.3",
+    "bbox": [
+      338.7,
+      284.4,
+      368.7,
+      297.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b051",
+    "text": "Thu 23APR",
+    "bbox": [
+      406.8,
+      284.4,
+      473.4,
+      297.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b052",
+    "text": "16:00",
+    "bbox": [
+      508.4,
+      284.4,
+      544.7,
+      297.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b053",
+    "text": "576",
+    "bbox": [
+      161.4,
+      298.2,
+      209.4,
+      311.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b054",
+    "text": "15.3",
+    "bbox": [
+      252.3,
+      298.2,
+      285.3,
+      311.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b055",
+    "text": "46.7",
+    "bbox": [
+      338.7,
+      298.2,
+      368.7,
+      311.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b056",
+    "text": "Tue 21JUL",
+    "bbox": [
+      408.4,
+      298.2,
+      471.7,
+      311.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b057",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      298.2,
+      544.7,
+      311.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b058",
+    "text": "566",
+    "bbox": [
+      161.4,
+      312.0,
+      209.4,
+      325.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b059",
+    "text": "15.1",
+    "bbox": [
+      252.3,
+      312.0,
+      285.3,
+      325.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b060",
+    "text": "48.8",
+    "bbox": [
+      338.7,
+      312.0,
+      368.7,
+      325.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b061",
+    "text": "Thu 28MAY",
+    "bbox": [
+      404.4,
+      312.0,
+      475.8,
+      325.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b062",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      312.0,
+      544.7,
+      325.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b063",
+    "text": "561",
+    "bbox": [
+      161.4,
+      325.8,
+      209.4,
+      339.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b064",
+    "text": "14.9",
+    "bbox": [
+      252.3,
+      325.8,
+      285.3,
+      339.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b065",
+    "text": "52.8",
+    "bbox": [
+      338.7,
+      325.8,
+      368.7,
+      339.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b066",
+    "text": "Sun 19JUL",
+    "bbox": [
+      408.4,
+      325.8,
+      471.8,
+      339.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b067",
+    "text": "15:00",
+    "bbox": [
+      508.4,
+      325.8,
+      544.7,
+      339.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b068",
+    "text": "555",
+    "bbox": [
+      161.4,
+      339.6,
+      209.4,
+      352.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b069",
+    "text": "14.8",
+    "bbox": [
+      252.3,
+      339.6,
+      285.3,
+      352.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b070",
+    "text": "53.3",
+    "bbox": [
+      338.7,
+      339.6,
+      368.7,
+      352.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b071",
+    "text": "Sat 27JUN",
+    "bbox": [
+      409.4,
+      339.6,
+      470.8,
+      352.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b072",
+    "text": "10:00",
+    "bbox": [
+      508.3,
+      339.6,
+      544.7,
+      352.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b073",
+    "text": "554",
+    "bbox": [
+      161.4,
+      353.4,
+      209.4,
+      366.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b074",
+    "text": "14.8",
+    "bbox": [
+      252.3,
+      353.4,
+      285.3,
+      366.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b075",
+    "text": "52.0",
+    "bbox": [
+      338.7,
+      353.4,
+      368.7,
+      366.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b076",
+    "text": "Sun 19JUL",
+    "bbox": [
+      408.4,
+      353.4,
+      471.8,
+      366.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b077",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      353.4,
+      544.7,
+      366.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b078",
+    "text": "549",
+    "bbox": [
+      161.4,
+      367.2,
+      209.4,
+      380.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b079",
+    "text": "14.6",
+    "bbox": [
+      252.3,
+      367.2,
+      285.3,
+      380.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b080",
+    "text": "43.2",
+    "bbox": [
+      338.7,
+      367.2,
+      368.7,
+      380.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b081",
+    "text": "Tue 21APR",
+    "bbox": [
+      407.1,
+      367.2,
+      473.1,
+      380.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b082",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      367.2,
+      544.7,
+      380.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b083",
+    "text": "548",
+    "bbox": [
+      161.4,
+      381.0,
+      209.4,
+      394.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b084",
+    "text": "14.6",
+    "bbox": [
+      252.3,
+      381.0,
+      285.3,
+      394.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b085",
+    "text": "43.6",
+    "bbox": [
+      338.7,
+      381.0,
+      368.7,
+      394.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b086",
+    "text": "Wed 10JUN",
+    "bbox": [
+      405.8,
+      381.0,
+      474.4,
+      394.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b087",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      381.0,
+      544.7,
+      394.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b088",
+    "text": "547",
+    "bbox": [
+      161.4,
+      394.8,
+      209.4,
+      408.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b089",
+    "text": "14.6",
+    "bbox": [
+      252.3,
+      394.8,
+      285.3,
+      408.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b090",
+    "text": "47.3",
+    "bbox": [
+      338.7,
+      394.8,
+      368.7,
+      408.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b091",
+    "text": "Tue 04AUG",
+    "bbox": [
+      405.8,
+      394.8,
+      474.4,
+      408.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b092",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      394.8,
+      544.7,
+      408.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b093",
+    "text": "547",
+    "bbox": [
+      161.4,
+      408.6,
+      209.4,
+      421.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b094",
+    "text": "14.6",
+    "bbox": [
+      252.3,
+      408.6,
+      285.3,
+      421.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b095",
+    "text": "48.6",
+    "bbox": [
+      338.7,
+      408.6,
+      368.7,
+      421.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b096",
+    "text": "Sat 18JUL",
+    "bbox": [
+      410.1,
+      408.6,
+      470.1,
+      421.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b097",
+    "text": "16:00",
+    "bbox": [
+      508.3,
+      408.6,
+      544.7,
+      421.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b098",
+    "text": "543",
+    "bbox": [
+      161.4,
+      422.3,
+      209.4,
+      435.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b099",
+    "text": "14.5",
+    "bbox": [
+      252.3,
+      422.3,
+      285.3,
+      435.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b100",
+    "text": "44.2",
+    "bbox": [
+      338.7,
+      422.3,
+      368.7,
+      435.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b101",
+    "text": "Wed 22APR",
+    "bbox": [
+      405.2,
+      422.3,
+      475.1,
+      435.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b102",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      422.3,
+      544.7,
+      435.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b103",
+    "text": "542",
+    "bbox": [
+      161.4,
+      436.1,
+      209.4,
+      449.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b104",
+    "text": "14.4",
+    "bbox": [
+      252.3,
+      436.1,
+      285.3,
+      449.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b105",
+    "text": "46.7",
+    "bbox": [
+      338.7,
+      436.1,
+      368.7,
+      449.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b106",
+    "text": "Tue 28JUL",
+    "bbox": [
+      408.4,
+      436.1,
+      471.7,
+      449.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b107",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      436.1,
+      544.7,
+      449.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b108",
+    "text": "541",
+    "bbox": [
+      161.4,
+      449.9,
+      209.4,
+      463.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b109",
+    "text": "14.4",
+    "bbox": [
+      252.3,
+      449.9,
+      285.3,
+      463.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b110",
+    "text": "46.8",
+    "bbox": [
+      338.7,
+      449.9,
+      368.7,
+      463.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b111",
+    "text": "Thu 02APR",
+    "bbox": [
+      406.8,
+      449.9,
+      473.4,
+      463.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b112",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      449.9,
+      544.7,
+      463.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b113",
+    "text": "537",
+    "bbox": [
+      161.4,
+      463.7,
+      209.4,
+      477.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b114",
+    "text": "14.3",
+    "bbox": [
+      252.3,
+      463.7,
+      285.3,
+      477.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b115",
+    "text": "51.0",
+    "bbox": [
+      338.7,
+      463.7,
+      368.7,
+      477.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b116",
+    "text": "Wed 29JUL",
+    "bbox": [
+      406.5,
+      463.7,
+      473.7,
+      477.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b117",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      463.7,
+      544.7,
+      477.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b118",
+    "text": "533",
+    "bbox": [
+      161.4,
+      477.5,
+      209.4,
+      490.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b119",
+    "text": "14.2",
+    "bbox": [
+      252.3,
+      477.5,
+      285.3,
+      490.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b120",
+    "text": "41.1",
+    "bbox": [
+      338.7,
+      477.5,
+      368.7,
+      490.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b121",
+    "text": "Mon 01JUN",
+    "bbox": [
+      405.8,
+      477.5,
+      474.4,
+      490.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b122",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      477.5,
+      544.6,
+      490.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b123",
+    "text": "533",
+    "bbox": [
+      161.4,
+      491.3,
+      209.4,
+      504.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b124",
+    "text": "14.2",
+    "bbox": [
+      252.3,
+      491.3,
+      285.3,
+      504.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b125",
+    "text": "42.4",
+    "bbox": [
+      338.7,
+      491.3,
+      368.7,
+      504.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b126",
+    "text": "Thu 19MAR",
+    "bbox": [
+      404.8,
+      491.3,
+      475.4,
+      504.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b127",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      491.3,
+      544.7,
+      504.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b128",
+    "text": "531",
+    "bbox": [
+      161.4,
+      505.1,
+      209.4,
+      518.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b129",
+    "text": "14.1",
+    "bbox": [
+      252.3,
+      505.1,
+      285.3,
+      518.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b130",
+    "text": "46.1",
+    "bbox": [
+      338.7,
+      505.1,
+      368.7,
+      518.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b131",
+    "text": "Thu 03SEP",
+    "bbox": [
+      408.1,
+      505.1,
+      472.1,
+      518.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b132",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      505.1,
+      544.7,
+      518.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b133",
+    "text": "530",
+    "bbox": [
+      161.4,
+      518.9,
+      209.4,
+      532.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b134",
+    "text": "14.1",
+    "bbox": [
+      252.3,
+      518.9,
+      285.3,
+      532.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b135",
+    "text": "43.4",
+    "bbox": [
+      338.7,
+      518.9,
+      368.7,
+      532.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b136",
+    "text": "Mon 20APR",
+    "bbox": [
+      405.1,
+      518.9,
+      475.1,
+      532.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b137",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      518.9,
+      544.7,
+      532.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b138",
+    "text": "529",
+    "bbox": [
+      161.4,
+      532.7,
+      209.4,
+      546.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b139",
+    "text": "14.1",
+    "bbox": [
+      252.3,
+      532.7,
+      285.3,
+      546.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b140",
+    "text": "45.2",
+    "bbox": [
+      338.7,
+      532.7,
+      368.7,
+      546.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b141",
+    "text": "Wed 11MAR",
+    "bbox": [
+      403.1,
+      532.7,
+      477.0,
+      546.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b142",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      532.7,
+      544.7,
+      546.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b143",
+    "text": "528",
+    "bbox": [
+      161.4,
+      546.5,
+      209.4,
+      559.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b144",
+    "text": "14.1",
+    "bbox": [
+      252.3,
+      546.5,
+      285.3,
+      559.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b145",
+    "text": "46.4",
+    "bbox": [
+      338.7,
+      546.5,
+      368.7,
+      559.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b146",
+    "text": "Wed 15JUL",
+    "bbox": [
+      406.5,
+      546.5,
+      473.7,
+      559.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b147",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      546.5,
+      544.7,
+      559.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b148",
+    "text": "527",
+    "bbox": [
+      161.4,
+      560.2,
+      209.4,
+      573.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b149",
+    "text": "14.0",
+    "bbox": [
+      252.3,
+      560.2,
+      285.3,
+      573.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b150",
+    "text": "43.1",
+    "bbox": [
+      338.7,
+      560.2,
+      368.7,
+      573.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b151",
+    "text": "Tue 28APR",
+    "bbox": [
+      407.1,
+      560.2,
+      473.1,
+      573.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b152",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      560.2,
+      544.7,
+      573.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b153",
+    "text": "524",
+    "bbox": [
+      161.4,
+      574.0,
+      209.4,
+      587.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b154",
+    "text": "14.0",
+    "bbox": [
+      252.3,
+      574.0,
+      285.3,
+      587.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b155",
+    "text": "43.1",
+    "bbox": [
+      338.7,
+      574.0,
+      368.7,
+      587.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b156",
+    "text": "Fri 01MAY",
+    "bbox": [
+      407.1,
+      574.0,
+      473.1,
+      587.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b157",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      574.0,
+      544.7,
+      587.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b158",
+    "text": "523",
+    "bbox": [
+      161.4,
+      587.8,
+      209.4,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b159",
+    "text": "13.9",
+    "bbox": [
+      252.3,
+      587.8,
+      285.3,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b160",
+    "text": "47.4",
+    "bbox": [
+      338.7,
+      587.8,
+      368.7,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b161",
+    "text": "Tue 30JUN",
+    "bbox": [
+      407.8,
+      587.8,
+      472.4,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b162",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      587.8,
+      544.7,
+      601.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b163",
+    "text": "523",
+    "bbox": [
+      161.4,
+      601.6,
+      209.4,
+      614.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b164",
+    "text": "13.9",
+    "bbox": [
+      252.3,
+      601.6,
+      285.3,
+      614.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b165",
+    "text": "46.8",
+    "bbox": [
+      338.7,
+      601.6,
+      368.7,
+      614.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b166",
+    "text": "Fri 14AUG",
+    "bbox": [
+      408.1,
+      601.6,
+      472.1,
+      614.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b167",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      601.6,
+      544.7,
+      614.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b168",
+    "text": "522",
+    "bbox": [
+      161.4,
+      615.4,
+      209.4,
+      628.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b169",
+    "text": "13.9",
+    "bbox": [
+      252.3,
+      615.4,
+      285.3,
+      628.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b170",
+    "text": "41.8",
+    "bbox": [
+      338.7,
+      615.4,
+      368.7,
+      628.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b171",
+    "text": "Mon 27JUL",
+    "bbox": [
+      406.4,
+      615.4,
+      473.8,
+      628.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b172",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      615.4,
+      544.7,
+      628.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b173",
+    "text": "514",
+    "bbox": [
+      161.4,
+      629.1,
+      209.4,
+      642.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b174",
+    "text": "13.7",
+    "bbox": [
+      252.3,
+      629.1,
+      285.3,
+      642.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b175",
+    "text": "49.0",
+    "bbox": [
+      338.7,
+      629.1,
+      368.7,
+      642.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b176",
+    "text": "Thu 23JUL",
+    "bbox": [
+      408.1,
+      629.1,
+      472.1,
+      642.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b177",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      629.1,
+      544.7,
+      642.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b178",
+    "text": "505",
+    "bbox": [
+      161.4,
+      642.9,
+      209.4,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b179",
+    "text": "13.4",
+    "bbox": [
+      252.3,
+      642.9,
+      285.3,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b180",
+    "text": "44.8",
+    "bbox": [
+      338.7,
+      642.9,
+      368.7,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b181",
+    "text": "Wed 29APR",
+    "bbox": [
+      405.2,
+      642.9,
+      475.1,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b182",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      642.9,
+      544.7,
+      656.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b183",
+    "text": "497",
+    "bbox": [
+      161.4,
+      656.7,
+      209.4,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b184",
+    "text": "13.2",
+    "bbox": [
+      252.3,
+      656.7,
+      285.3,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b185",
+    "text": "53.3",
+    "bbox": [
+      338.7,
+      656.7,
+      368.7,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b186",
+    "text": "Sat 18JUL",
+    "bbox": [
+      410.1,
+      656.7,
+      470.1,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b187",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      656.7,
+      544.7,
+      670.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b188",
+    "text": "489",
+    "bbox": [
+      161.4,
+      670.5,
+      209.4,
+      683.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b189",
+    "text": "13.0",
+    "bbox": [
+      252.3,
+      670.5,
+      285.3,
+      683.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b190",
+    "text": "52.8",
+    "bbox": [
+      338.7,
+      670.5,
+      368.7,
+      683.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b191",
+    "text": "Sat 25JUL",
+    "bbox": [
+      410.1,
+      670.5,
+      470.1,
+      683.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b192",
+    "text": "13:00",
+    "bbox": [
+      508.3,
+      670.5,
+      544.7,
+      683.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b193",
+    "text": "485",
+    "bbox": [
+      161.4,
+      684.3,
+      209.4,
+      697.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b194",
+    "text": "12.9",
+    "bbox": [
+      252.3,
+      684.3,
+      285.3,
+      697.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b195",
+    "text": "46.2",
+    "bbox": [
+      338.7,
+      684.3,
+      368.7,
+      697.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b196",
+    "text": "Mon 30MAR",
+    "bbox": [
+      403.1,
+      684.3,
+      477.1,
+      697.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b197",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      684.3,
+      544.7,
+      697.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b198",
+    "text": "482",
+    "bbox": [
+      161.4,
+      698.1,
+      209.4,
+      711.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b199",
+    "text": "12.8",
+    "bbox": [
+      252.3,
+      698.1,
+      285.3,
+      711.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b200",
+    "text": "47.7",
+    "bbox": [
+      338.7,
+      698.1,
+      368.7,
+      711.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b201",
+    "text": "Mon 20JUL",
+    "bbox": [
+      406.4,
+      698.1,
+      473.8,
+      711.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b202",
+    "text": "17:00",
+    "bbox": [
+      508.3,
+      698.1,
+      544.7,
+      711.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b203",
+    "text": "100",
+    "bbox": [
+      81.0,
+      711.9,
+      111.0,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b204",
+    "text": "476",
+    "bbox": [
+      161.4,
+      711.9,
+      209.4,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b205",
+    "text": "12.7",
+    "bbox": [
+      252.3,
+      711.9,
+      285.3,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b206",
+    "text": "48.7",
+    "bbox": [
+      338.7,
+      711.9,
+      368.7,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b207",
+    "text": "Wed 16SEP",
+    "bbox": [
+      406.5,
+      711.9,
+      473.7,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b208",
+    "text": "17:00",
+    "bbox": [
+      508.4,
+      711.9,
+      544.7,
+      725.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b209",
+    "text": "200",
+    "bbox": [
+      81.0,
+      725.7,
+      111.0,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b210",
+    "text": "429",
+    "bbox": [
+      161.4,
+      725.7,
+      209.4,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b211",
+    "text": "11.4",
+    "bbox": [
+      252.3,
+      725.7,
+      285.3,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b212",
+    "text": "71.3",
+    "bbox": [
+      338.7,
+      725.7,
+      368.7,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b213",
+    "text": "Tue 07APR",
+    "bbox": [
+      407.1,
+      725.7,
+      476.1,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b214",
+    "text": "7:00",
+    "bbox": [
+      511.4,
+      725.7,
+      541.7,
+      739.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b215",
+    "text": "A05 Creation Date/Time:",
+    "bbox": [
+      36.0,
+      741.0,
+      161.6,
+      754.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b216",
+    "text": "31MAR99:10:42:11",
+    "bbox": [
+      219.5,
+      741.0,
+      397.9,
+      754.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "913",
+    "page_number": 1,
+    "block_id": "913_p1_b217",
+    "text": "Page  1 of  1",
+    "bbox": [
+      515.6,
+      741.0,
+      579.0,
+      754.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRoman",
+    "label": "BODY"
+  }
+]

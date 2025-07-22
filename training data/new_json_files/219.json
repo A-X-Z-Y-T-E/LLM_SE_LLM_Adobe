@@ -1,0 +1,1847 @@
+[
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b001",
+    "text": "MESSAGE NO:",
+    "bbox": [
+      90.0,
+      78.3,
+      175.7,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b002",
+    "text": "MESSAGE DATE:",
+    "bbox": [
+      306.2,
+      78.3,
+      417.2,
+      91.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b003",
+    "text": "MESSAGE STATUS:",
+    "bbox": [
+      90.0,
+      117.9,
+      203.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b004",
+    "text": "CATEGORY:",
+    "bbox": [
+      306.0,
+      117.9,
+      380.6,
+      131.2
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b005",
+    "text": "TYPE:",
+    "bbox": [
+      90.0,
+      137.7,
+      129.0,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b006",
+    "text": "PUBLIC",
+    "bbox": [
+      306.0,
+      137.7,
+      354.7,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b007",
+    "text": "NON-PUBLIC",
+    "bbox": [
+      414.0,
+      137.7,
+      492.6,
+      151.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b008",
+    "text": "SUB-TYPE:",
+    "bbox": [
+      90.0,
+      157.5,
+      165.0,
+      170.8
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b009",
+    "text": "FR CITE:",
+    "bbox": [
+      90.0,
+      197.1,
+      140.7,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b010",
+    "text": "FR CITE DATE:",
+    "bbox": [
+      306.0,
+      197.1,
+      391.6,
+      210.4
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b011",
+    "text": "REFERENCE",
+    "bbox": [
+      90.0,
+      242.6,
+      161.6,
+      255.9
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b012",
+    "text": "MESSAGE #",
+    "bbox": [
+      90.0,
+      256.4,
+      158.0,
+      269.7
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b013",
+    "text": "(s):",
+    "bbox": [
+      90.0,
+      270.2,
+      112.0,
+      283.5
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b014",
+    "text": "CASE #(s):",
+    "bbox": [
+      90.0,
+      296.0,
+      148.7,
+      309.3
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b015",
+    "text": "EFFECTIVE DATE:",
+    "bbox": [
+      90.0,
+      362.7,
+      201.1,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b016",
+    "text": "COURT CASE #:",
+    "bbox": [
+      306.1,
+      362.7,
+      395.7,
+      376.0
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b017",
+    "text": "PERIOD OF REVIEW:",
+    "bbox": [
+      90.0,
+      402.3,
+      216.7,
+      415.6
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b018",
+    "text": "PERIOD COVERED:",
+    "bbox": [
+      90.0,
+      441.8,
+      208.4,
+      455.1
+    ],
+    "font_size": 12.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b019",
+    "text": "2156114",
+    "bbox": [
+      216.4,
+      74.7,
+      269.9,
+      93.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b020",
+    "text": "03/05/1992",
+    "bbox": [
+      212.6,
+      440.1,
+      281.3,
+      459.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b021",
+    "text": "PRE-Preliminary",
+    "bbox": [
+      214.7,
+      136.7,
+      297.3,
+      152.0
+    ],
+    "font_size": 11.2,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b022",
+    "text": "A-462-102, A-462-202, A-462-302,",
+    "bbox": [
+      209.4,
+      293.6,
+      394.1,
+      310.1
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b023",
+    "text": "A-463-102, A-463-202, A-463-302",
+    "bbox": [
+      209.4,
+      307.5,
+      390.8,
+      324.0
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b024",
+    "text": "Active",
+    "bbox": [
+      215.2,
+      115.7,
+      252.6,
+      134.6
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b025",
+    "text": "06/04/1992",
+    "bbox": [
+      416.1,
+      76.0,
+      484.8,
+      94.9
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b026",
+    "text": "Antidumping",
+    "bbox": [
+      417.0,
+      114.1,
+      493.4,
+      133.0
+    ],
+    "font_size": 13.7,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 1,
+    "block_id": "219_p1_b027",
+    "text": "Message Date: 06/04/1992         Message Number: 2156114         Page 1 of 5",
+    "bbox": [
+      50.0,
+      749.1,
+      463.6,
+      765.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b001",
+    "text": "Notice of Lifting of Suspension Date: 03/05/1992",
+    "bbox": [
+      36.0,
+      23.1,
+      293.5,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b002",
+    "text": "TO:        { Directors Of Field Operations, Port Directors }",
+    "bbox": [
+      36.0,
+      83.1,
+      332.8,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b003",
+    "text": "FROM:  { Director AD/CVD & Revenue Policy & Programs }",
+    "bbox": [
+      36.0,
+      123.1,
+      351.4,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b004",
+    "text": "RE:        A-463-402, A-463-502, A-464-102, A-464-202, A-464-302, A-464-302",
+    "bbox": [
+      36.0,
+      163.1,
+      452.2,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b005",
+    "text": "MESSAGE NO: 2156114                        DATE: 06 04 1992",
+    "bbox": [
+      36.0,
+      203.1,
+      415.6,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b006",
+    "text": "CATEGORY: ADA                            TYPE: PRE",
+    "bbox": [
+      36.0,
+      223.1,
+      384.2,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b007",
+    "text": "REFERENCE:                      REFERENCE DATE:",
+    "bbox": [
+      36.0,
+      243.1,
+      402.8,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b008",
+    "text": "CASES:  A - 462 - 102                A - 462 - 202",
+    "bbox": [
+      36.0,
+      263.1,
+      372.2,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b009",
+    "text": "A - 462 - 302                A - 463 - 102",
+    "bbox": [
+      36.0,
+      283.1,
+      348.2,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b010",
+    "text": "A - 463 - 202                A - 463 - 302",
+    "bbox": [
+      36.0,
+      303.1,
+      348.2,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b011",
+    "text": "PERIOD COVERED:              TO",
+    "bbox": [
+      36.0,
+      343.1,
+      368.2,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b012",
+    "text": "LIQ SUSPENSION DATE:  03 05 1992",
+    "bbox": [
+      36.0,
+      383.1,
+      396.2,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b013",
+    "text": "TO: REGIONAL DIRECTORS, COMMERCIAL OPERATIONS",
+    "bbox": [
+      36.0,
+      423.1,
+      475.5,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b014",
+    "text": "DISTRICT DIRECTORS, AREA AND PORT DIRECTORS",
+    "bbox": [
+      36.0,
+      443.1,
+      460.8,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b015",
+    "text": "FROM: DIRECTOR, IMPORT SPECIALIST DIVISION",
+    "bbox": [
+      36.0,
+      483.1,
+      442.8,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b016",
+    "text": "RE: A-463-402, A-463-502, A-464-102, A-464-202, A-464-302,",
+    "bbox": [
+      36.0,
+      523.1,
+      436.2,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b017",
+    "text": "A-464-302",
+    "bbox": [
+      36.0,
+      543.1,
+      322.2,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b018",
+    "text": "RE: PRELIMINARY DETERMINATION OF SALES AT  LESS THAN  FAIR VALUE:",
+    "bbox": [
+      36.0,
+      603.1,
+      520.8,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b019",
+    "text": "URANIUM FROM KAZAKHSTAN, KYRGYZSTAN, RUSSIA, TAJIKISTAN, UKRAINE,",
+    "bbox": [
+      36.0,
+      623.1,
+      534.8,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b020",
+    "text": "AND UZBEKISTAN; AND PRELIMINARY DETERMINATIONS OF  SALES  AT  NOT",
+    "bbox": [
+      36.0,
+      643.1,
+      530.1,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b021",
+    "text": "LESS   THAN   FAIR  VALUE:   URANIUM  FROM  ARMENIA,  AZERBAIJAN,",
+    "bbox": [
+      36.0,
+      663.1,
+      496.1,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b022",
+    "text": "BYELARUS, GEORGIA, MOLDOVA, AND TURKMENISTAN",
+    "bbox": [
+      36.0,
+      683.1,
+      472.8,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b023",
+    "text": "1.  THE DEPARTMENT OF  COMMERCE  WILL PUBLISHED  IN  THE  FEDERAL",
+    "bbox": [
+      36.0,
+      723.1,
+      521.4,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b024",
+    "text": "REGISTER ON JUNE 3, 1992, NOTICE OF ITS PRELIMINARY DETERMINATION",
+    "bbox": [
+      36.0,
+      743.1,
+      521.5,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b025",
+    "text": "OF  SALES  AT   LESS  THAN  FAIR  VALUE  REGARDING  URANIUM  FROM",
+    "bbox": [
+      36.0,
+      763.1,
+      507.5,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b026",
+    "text": "KAZAKHSTAN,  KYRGYZSTAN,   RUSSIA,   TAJIKISTAN,   UKRAINE,   AND",
+    "bbox": [
+      36.0,
+      783.1,
+      495.5,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 2,
+    "block_id": "219_p2_b027",
+    "text": "Message Date: 06/04/1992         Message Number: 2156114         Page 2 of 5",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b001",
+    "text": "UZBEKISTAN; AND NOTICE OF  ITS PRELIMINARY DETERMINATION OF SALES",
+    "bbox": [
+      36.0,
+      43.1,
+      530.1,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b002",
+    "text": "AT  NOT  LESS  THAN  FAIR  VALUE REGARDING URANIUM  FROM ARMENIA,",
+    "bbox": [
+      36.0,
+      63.1,
+      522.1,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b003",
+    "text": "AZERBAIJAN, BYELARUS, GEORGIA, MOLDOVA, AND TURKMENISTAN.",
+    "bbox": [
+      36.0,
+      83.1,
+      513.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b004",
+    "text": "2.  THE PRODUCTS COVERED BY  THESE INVESTIGATIONS INCLUDE NATURAL",
+    "bbox": [
+      36.0,
+      123.1,
+      538.8,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b005",
+    "text": "URANIUM IN  THE  FORM  OF URANIUM ORES  AND CONCENTRATES; NATURAL",
+    "bbox": [
+      36.0,
+      143.1,
+      540.7,
+      159.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b006",
+    "text": "URANIUM METAL  AND NATURAL URANIUM COMPOUNDS; ALLOYS, DISPERSIONS",
+    "bbox": [
+      36.0,
+      163.1,
+      554.1,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b007",
+    "text": "(INCLUDING CERMETS),  CERAMIC  PRODUCTS  AND  MIXTURES CONTAINING",
+    "bbox": [
+      36.0,
+      183.1,
+      534.1,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b008",
+    "text": "NATURAL URANIUM OR NATURAL URANIUM COMPOUNDS; URANIUM ENRICHED IN",
+    "bbox": [
+      36.0,
+      203.1,
+      548.0,
+      219.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b009",
+    "text": "U235 AND  ITS COMPOUNDS; ALLOYS, DISPERSIONS (INCLUDING CERMETS),",
+    "bbox": [
+      36.0,
+      243.1,
+      529.5,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b010",
+    "text": "CERAMIC PRODUCTS,  AND  MIXTURES CONTAINING URANIUM  ENRICHED  IN",
+    "bbox": [
+      36.0,
+      263.1,
+      535.4,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b011",
+    "text": "U235  OR COMPOUNDS OF URANIUM ENRICHED IN  U235.  HIGHLY ENRICHED",
+    "bbox": [
+      36.0,
+      283.1,
+      532.1,
+      299.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b012",
+    "text": "URANIUM, WHICH IS URANIUM ENRICHED TO  A U235 CONCENTRATION LEVEL",
+    "bbox": [
+      36.0,
+      303.1,
+      538.1,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b013",
+    "text": "AT  OR  ABOVE  20 PERCENT, IS EXCLUDED FROM  THE SCOPE  OF  THESE",
+    "bbox": [
+      36.0,
+      323.1,
+      519.5,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b014",
+    "text": "INVESTIGATIONS. THE  URANIUM SUBJECT  TO  THESE INVESTIGATIONS IS",
+    "bbox": [
+      36.0,
+      343.1,
+      520.1,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b015",
+    "text": "PROVIDED  FOR  UNDER  SUBHEADINGS  2612.10.00.00,  2844.10.10.00,",
+    "bbox": [
+      36.0,
+      363.1,
+      490.9,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b016",
+    "text": "2844.10.20.10,   2844.10.20.25,   2844.10.20.50,   2844.10.20.55,",
+    "bbox": [
+      36.0,
+      383.1,
+      429.6,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b017",
+    "text": "2844.10.50.00, 2844.20.00.10, 2844.20.00.20,  2844.20.00.30,  AND",
+    "bbox": [
+      36.0,
+      403.1,
+      445.0,
+      419.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b018",
+    "text": "2844.20.00.50, OF THE HARMONIZED TARIFF SCHEDULE (HTS).  ALTHOUGH",
+    "bbox": [
+      36.0,
+      423.1,
+      516.8,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b019",
+    "text": "THE HTS SUBHEADINGS ARE PROVIDED FOR CONVENIENCE AND CUSTOMS",
+    "bbox": [
+      36.0,
+      443.1,
+      544.1,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b020",
+    "text": "PURPOSES,  THE  WRITTEN  DESCRIPTION  OF   THE  SCOPE  OF   THESE",
+    "bbox": [
+      36.0,
+      463.1,
+      509.5,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b021",
+    "text": "PROCEEDINGS IS DISPOSITIVE.",
+    "bbox": [
+      36.0,
+      483.1,
+      391.5,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b022",
+    "text": "3.  THE  U.S.  CUSTOMS SERVICE SHALL  SUSPEND LIQUIDATION OF  ALL",
+    "bbox": [
+      36.0,
+      523.1,
+      506.8,
+      539.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b023",
+    "text": "ENTRIES   OF   URANIUM   FROM   KAZAKHSTAN,  KYRGYZSTAN,  RUSSIA,",
+    "bbox": [
+      36.0,
+      543.1,
+      508.8,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b024",
+    "text": "TAJIKISTAN, UKRAINE AND UZBEKISTAN THAT ARE ENTERED, OR WITHDRAWN",
+    "bbox": [
+      36.0,
+      563.1,
+      542.1,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b025",
+    "text": "FROM WAREHOUSE, FOR CONSUMPTION ON  OR AFTER MARCH 5, 1992, WHICH",
+    "bbox": [
+      36.0,
+      583.1,
+      548.7,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b026",
+    "text": "IS 90 DAYS PRIOR TO THE DATE OF PUBLICATION OF THIS NOTICE IN THE",
+    "bbox": [
+      36.0,
+      603.1,
+      512.8,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b027",
+    "text": "FEDERAL  REGISTER   DUE   TO   THE  DETERMINATION  THAT  CRITICAL",
+    "bbox": [
+      36.0,
+      623.1,
+      504.1,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b028",
+    "text": "CIRCUMSTANCES EXIST.   THE  U.S. CUSTOMS SERVICE SHALL REQUIRE  A",
+    "bbox": [
+      36.0,
+      643.1,
+      522.8,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b029",
+    "text": "CASH DEPOSIT OR  THE POSTING OF  A  BOND EQUAL TO 115.82 PERCENT.",
+    "bbox": [
+      36.0,
+      663.1,
+      522.2,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b030",
+    "text": "DUE TO  THE DEPARTMENT'S PRELIMINARY NEGATIVE DETERMINATIONS WITH",
+    "bbox": [
+      36.0,
+      683.1,
+      545.1,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b031",
+    "text": "RESPECT  TO ARMENIA, AZERBAIJAN, BYELARUS, GEORGIA, MOLDOVA,  AND",
+    "bbox": [
+      36.0,
+      703.1,
+      533.5,
+      719.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b032",
+    "text": "TURKMENISTAN, CUSTOMS SHALL NOT SUSPEND LIQUIDATION OF ENTRIES OF",
+    "bbox": [
+      36.0,
+      723.1,
+      547.4,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b033",
+    "text": "URANIUM FROM THESE COUNTRIES.",
+    "bbox": [
+      36.0,
+      743.1,
+      414.8,
+      759.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b034",
+    "text": "4.  FOR INVESTIGATION PURPOSES ONLY, THESE ANTIDUMPING DUTY CASES",
+    "bbox": [
+      36.0,
+      783.1,
+      537.5,
+      799.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 3,
+    "block_id": "219_p3_b035",
+    "text": "Message Date: 06/04/1992         Message Number: 2156114         Page 3 of 5",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b001",
+    "text": "HAVE   BEEN   ASSIGNED   THE   FOLLOWING  INVESTIGATION  NUMBERS:",
+    "bbox": [
+      36.0,
+      43.1,
+      512.1,
+      59.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b002",
+    "text": "A-834-802, A-835-802, A-821-802, A-842-802, A-823-802, A-844-802,",
+    "bbox": [
+      36.0,
+      63.1,
+      452.2,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b003",
+    "text": "A-831-802,  A-832-802,  A-822-802,  A-833-802,   A-841-802,   AND",
+    "bbox": [
+      36.0,
+      83.1,
+      441.6,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b004",
+    "text": "A-843-802, WHICH CORRESPOND TO EACH COUNTRY IN  THE ORDER EACH IS",
+    "bbox": [
+      36.0,
+      103.1,
+      535.4,
+      119.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b005",
+    "text": "LISTED IN THE TITLE ABOVE.",
+    "bbox": [
+      36.0,
+      123.1,
+      378.2,
+      139.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b006",
+    "text": "5.  FOR CUSTOMS REPORTING PURPOSES, PLEASE USE THE FOLLOWING CASE",
+    "bbox": [
+      36.0,
+      163.1,
+      549.5,
+      179.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b007",
+    "text": "NUMBERS:",
+    "bbox": [
+      36.0,
+      183.1,
+      332.9,
+      199.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b008",
+    "text": "RUSSIA             A-462-102",
+    "bbox": [
+      36.0,
+      223.1,
+      346.9,
+      239.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b009",
+    "text": "BELARUS            A-462-202",
+    "bbox": [
+      36.0,
+      243.1,
+      354.9,
+      259.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b010",
+    "text": "UKRAINE            A-462-302",
+    "bbox": [
+      36.0,
+      263.1,
+      352.2,
+      279.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b011",
+    "text": "ARMENIA            A-463-102",
+    "bbox": [
+      36.0,
+      303.1,
+      353.5,
+      319.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b012",
+    "text": "AZERBAIJAN         A-463-202",
+    "bbox": [
+      36.0,
+      323.1,
+      362.9,
+      339.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b013",
+    "text": "GEORGIA            A-463-302",
+    "bbox": [
+      36.0,
+      343.1,
+      354.9,
+      359.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b014",
+    "text": "KAZAKHSTAN         A-463-402",
+    "bbox": [
+      36.0,
+      363.1,
+      368.9,
+      379.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b015",
+    "text": "KYRGYZSTAN         A-463-502",
+    "bbox": [
+      36.0,
+      383.1,
+      370.2,
+      399.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b016",
+    "text": "MOLDOVA            A-464-102",
+    "bbox": [
+      36.0,
+      423.1,
+      358.9,
+      439.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b017",
+    "text": "TAJIKISTAN         A-464-202",
+    "bbox": [
+      36.0,
+      443.1,
+      356.9,
+      459.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b018",
+    "text": "TURKMENISTAN       A-464-302",
+    "bbox": [
+      36.0,
+      463.1,
+      376.8,
+      479.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b019",
+    "text": "UZBEKISTAN         A-464-402",
+    "bbox": [
+      36.0,
+      483.1,
+      364.2,
+      499.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b020",
+    "text": "6.  IF  THERE ARE  ANY QUESTIONS REGARDING THIS MATTER BY CUSTOMS",
+    "bbox": [
+      36.0,
+      543.1,
+      529.5,
+      559.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b021",
+    "text": "OFFICERS, THEY  SHOULD  CONTACT  THE  IMPORT SPECIALIST DIVISION,",
+    "bbox": [
+      36.0,
+      563.1,
+      516.1,
+      579.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b022",
+    "text": "OTHER AGENCY BRANCH (202-566-8651), OR SEND AN EMAIL TO ATTRIBUTE",
+    "bbox": [
+      36.0,
+      583.1,
+      526.1,
+      599.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b023",
+    "text": "\"HQ  OAB\".   THE  IMPORTING PUBLIC  AND  OTHER INTERESTED PARTIES",
+    "bbox": [
+      36.0,
+      603.1,
+      511.3,
+      619.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b024",
+    "text": "SHOULD CONTACT LARRY SULLIVAN  OF  THE  OFFICE  OF COUNTERVAILING",
+    "bbox": [
+      36.0,
+      623.1,
+      533.4,
+      639.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b025",
+    "text": "INVESTIGATIONS,   IMPORT   ADMINISTRATION,  INTERNATIONAL   TRADE",
+    "bbox": [
+      36.0,
+      643.1,
+      509.4,
+      659.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b026",
+    "text": "ADMINISTRATION,   U.S.   DEPARTMENT   OF   COMMERCE,   TELEPHONE:",
+    "bbox": [
+      36.0,
+      663.1,
+      508.8,
+      679.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b027",
+    "text": "(202)377-0114.",
+    "bbox": [
+      36.0,
+      683.1,
+      331.5,
+      699.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b028",
+    "text": "THERE ARE NO RESTRICTIONS ON RELEASE OF THE ABOVE INFORMATION.",
+    "bbox": [
+      36.0,
+      723.1,
+      534.8,
+      739.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b029",
+    "text": "NANCY MCTIERNAN",
+    "bbox": [
+      36.0,
+      763.1,
+      366.2,
+      779.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 4,
+    "block_id": "219_p4_b030",
+    "text": "Message Date: 06/04/1992         Message Number: 2156114         Page 4 of 5",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 5,
+    "block_id": "219_p5_b001",
+    "text": "Company Details",
+    "bbox": [
+      36.0,
+      23.1,
+      160.7,
+      39.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 5,
+    "block_id": "219_p5_b002",
+    "text": "*Party Indicator Value:",
+    "bbox": [
+      36.0,
+      63.1,
+      155.4,
+      79.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 5,
+    "block_id": "219_p5_b003",
+    "text": "I = Importer, M = Manufacturer, E = Exporter, S = Sold To Party",
+    "bbox": [
+      36.0,
+      83.1,
+      373.5,
+      99.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "219",
+    "page_number": 5,
+    "block_id": "219_p5_b004",
+    "text": "Message Date: 06/04/1992         Message Number: 2156114         Page 5 of 5",
+    "bbox": [
+      50.0,
+      799.1,
+      463.6,
+      815.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  }
+]

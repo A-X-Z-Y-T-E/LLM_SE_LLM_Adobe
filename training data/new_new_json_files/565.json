@@ -1,0 +1,332 @@
+[
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b001",
+    "text": "C25",
+    "bbox": [
+      54.5,
+      78.1,
+      79.8,
+      94.6
+    ],
+    "font_size": 12.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b002",
+    "text": "Measurement of the absolute energy and energy spread of the ESRF electron beam",
+    "bbox": [
+      54.5,
+      90.0,
+      582.2,
+      109.3
+    ],
+    "font_size": 14.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b003",
+    "text": "using undulator radiation",
+    "bbox": [
+      54.5,
+      104.0,
+      215.7,
+      123.3
+    ],
+    "font_size": 14.0,
+    "font_name": "Helvetica-Bold",
+    "label": "HH1"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b004",
+    "text": "Eric Tarazona and P. Elleaume",
+    "bbox": [
+      108.5,
+      134.2,
+      277.3,
+      148.0
+    ],
+    "font_size": 10.0,
+    "font_name": "Helvetica",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b005",
+    "text": "ESRF, BP 220, 38043 Grenoble Cedex, France",
+    "bbox": [
+      108.5,
+      147.0,
+      289.3,
+      157.0
+    ],
+    "font_size": 9.0,
+    "font_name": "TimesNewRomanPS-ItalicMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b006",
+    "text": "Two simple methods of characterization of the energy and energy spread of the electron beam have",
+    "bbox": [
+      108.5,
+      167.0,
+      504.5,
+      178.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b007",
+    "text": "been developed at the ESRF. Both are based on the analysis of the x-ray spectrum from an",
+    "bbox": [
+      108.5,
+      178.0,
+      504.5,
+      189.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b008",
+    "text": "undulator.",
+    "bbox": [
+      108.5,
+      189.0,
+      149.3,
+      200.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b009",
+    "text": "The first allows the absolute energy of the electrons to be determined. It is based on the",
+    "bbox": [
+      108.5,
+      211.0,
+      504.5,
+      222.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b010",
+    "text": "dependence between the harmonics’ wavelengths and the electron beam energy. The x-ray beam is",
+    "bbox": [
+      108.5,
+      222.0,
+      504.5,
+      233.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b011",
+    "text": "monochromatized at 21 keV by a silicon crystal in backscattering geometry. By adjusting the",
+    "bbox": [
+      108.5,
+      233.0,
+      504.5,
+      244.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b012",
+    "text": "magnetic gap, one makes the undulator third harmonic coincide with the energy selected by the",
+    "bbox": [
+      108.5,
+      244.0,
+      504.7,
+      255.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b013",
+    "text": "crystal. The electron beam energy is deduced from the gap value and the knowledge of the",
+    "bbox": [
+      108.5,
+      255.0,
+      504.5,
+      266.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b014",
+    "text": "undulator period and photon wavelength. The main errors come from the uncertainties regarding",
+    "bbox": [
+      108.5,
+      266.0,
+      504.5,
+      277.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b015",
+    "text": "the undulator parameters (magnetic field and period). The effects of the uncertainties in the",
+    "bbox": [
+      108.5,
+      277.0,
+      504.5,
+      288.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b016",
+    "text": "magnetic field are minimized by working at low field (K=0.37). The accuracy currently obtained is",
+    "bbox": [
+      108.5,
+      288.0,
+      504.2,
+      299.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b017",
+    "text": "better than 10-3.",
+    "bbox": [
+      108.5,
+      299.0,
+      171.0,
+      310.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b018",
+    "text": "The energy spread measurement is performed by a second method which is based on the change in",
+    "bbox": [
+      108.5,
+      321.0,
+      504.5,
+      332.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b019",
+    "text": "the shape of the harmonics’ profile with energy spread. It is deduced from the measured ratio",
+    "bbox": [
+      108.5,
+      332.0,
+      504.5,
+      343.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b020",
+    "text": "between the height of the seventh harmonic peak at 29 keV and that of the secondary maximum.",
+    "bbox": [
+      108.5,
+      343.0,
+      504.5,
+      354.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b021",
+    "text": "The measured low current energy spread is 1.1 x 10 -3 +/- 20%. It increases with the single bunch",
+    "bbox": [
+      108.5,
+      354.0,
+      504.5,
+      365.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  },
+  {
+    "pdf_id": "565",
+    "page_number": 1,
+    "block_id": "565_p1_b022",
+    "text": "current due to turbulent bunch lengthening.",
+    "bbox": [
+      108.5,
+      365.0,
+      281.8,
+      376.0
+    ],
+    "font_size": 10.0,
+    "font_name": "TimesNewRomanPSMT",
+    "label": "BODY"
+  }
+]
