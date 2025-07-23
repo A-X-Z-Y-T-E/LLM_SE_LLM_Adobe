@@ -308,6 +308,8 @@ credentials.json
 *.feather
 *.xlsx
 *.xls
+*.npy
+*.npz
 
 # Image files (if not essential to the project)
 *.jpg
@@ -340,6 +342,9 @@ credentials.json
 *.docx
 *.ppt
 *.pptx
+*.txt
+*.json
+*.jsonl
 
 # IDE and editor files
 .sublime-project
@@ -427,3 +432,104 @@ scripts.py
 uv.lock
 .python-version
 pyproject.toml
+
+# Data directories and files - EXCLUDE ALL DATA FROM GIT
+data/
+training_data/
+output/
+outputs/
+results/
+graphs/
+processed/
+raw_data/
+extracted/
+features/
+models/
+checkpoints/
+logs/
+
+# PDF files and document data
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.txt
+*.json
+*.jsonl
+
+# Model and training files
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.model
+*.weights
+*.ckpt
+*.safetensors
+
+# CSV and data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.npy
+*.npz
+
+# Annotation and label files
+*_annotations.json
+*_features.json
+*_processed.json
+*_labels.json
+*_mappings.json
+
+# Graph and tensor files
+*_graph.pt
+*_graphs.pt
+*_tensors.pt
+combined_*.pt
+
+# Training logs and outputs
+training_logs/
+tensorboard_logs/
+wandb/
+mlruns/
+
+# Temporary processing files
+temp/
+tmp/
+cache/
+.cache/
+
+# Large datasets
+datasets/
+corpus/
+documents/
+pdfs/
+images/
+
+*.bat
+install_pytorch.py
+training_data_old/
+__init__.py
+experiments/
+optimized_models/
+Test_data/
+testing/
+training_data_old/
+quick_test.py
+retrain_with_class_weights.py
+train_balanced_model_v3.py
+train_calibrated_model_v6.py
+train_improved_model_v7.py
+train_optimal_model_v4.py
+train_optimal_model_v5.py
+train_revolutionary_model_v7.py
+training_example.py
+view_graphs.py
+test_dataset.py

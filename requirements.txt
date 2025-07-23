@@ -6,6 +6,14 @@ scikit-learn==1.3.2
 numpy==1.24.3
 pandas==2.0.3
 
+# PyTorch Ecosystem - LATEST VERSION 2.5.0 FOR RTX 4050 (CUDA 12.4 compatible)
+# torch==2.5.0+cu124
+# torchvision==0.20.0+cu124  
+# torchaudio==2.5.0+cu124
+
+# PyTorch Geometric - Install separately for CUDA
+# torch-geometric==2.5.0
+
 # Data Visualization
 matplotlib==3.7.2
 seaborn==0.12.2
@@ -22,11 +30,8 @@ jupyter==1.0.0
 notebook==7.0.6
 ipykernel==6.25.2
 
-# File and OS utilities (usually included with Python but good to specify)
-# json - built-in
-# os - built-in  
-# re - built-in
-# sys - built-in
-# time - built-in
-# collections - built-in
-# logging - built-in
+# LangChain and utilities
+langchain
+langchain-groq
+aiohttp
+python-dotenv
