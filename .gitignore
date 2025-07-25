@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
+*.py[cod]
 *$py.class
 
 # C extensions
@@ -26,7 +26,6 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -533,7 +532,25 @@ train_revolutionary_model_v7.py
 training_example.py
 view_graphs.py
 test_dataset.py
-extractor/text_extractor_from_pdf.py
 test_docker.py
 test_v8_outline_generator.py
 check_versions.py
+check_versions.py
+
+# Remove these from tracking but keep locally
+extractor/text_extractor_from_pdf.py
+test_ml_vectors.py
+training_data/ml_ready_vectors/
+training_data_old/
+
+# Sample outputs (keep locally for testing)
+sample_data_output/
+
+# Large model files (use Git LFS if needed)
+*.pth
+*.pt
+
+# Test and temporary files
+test_*.py
+*_test.py
+temp_*.json
