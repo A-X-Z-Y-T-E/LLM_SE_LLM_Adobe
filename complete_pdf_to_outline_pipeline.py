@@ -9,7 +9,7 @@ import fitz  # PyMuPDF
 from pathlib import Path
 from typing import Dict, List, Tuple, Any, Optional
 import sys
-import time
+import time,re
 from datetime import datetime
 
 # Add necessary paths
@@ -36,52 +36,26 @@ except ImportError as e:
 
 
 class PDFTextExtractor:
-    """Enhanced PDF text extraction matching feature_engineering.py requirements."""
+    """Enhanced PDF text extraction focusing on meaningful sentences and headings."""
     
     @staticmethod
     def extract_text_blocks_from_pdf(pdf_path: str) -> List[Dict[str, Any]]:
         """
-        Extract text blocks from PDF with exact format expected by feature_engineering.py.
-        Enhanced with robust error handling for PyMuPDF issues.
-        
-        Args:
-            pdf_path (str): Path to PDF file
-            
-        Returns:
-            List of text block dictionaries in exact format for feature_engineering.py
+        Extract meaningful text blocks from PDF, filtering out noise and focusing on sentences.
         """
         pdf_path = Path(pdf_path)
         if not pdf_path.exists():
             raise FileNotFoundError(f"PDF file not found: {pdf_path}")
         
-        print(f"📄 Extracting text from: {pdf_path.name}")
+        print(f"📄 Extracting meaningful text from: {pdf_path.name}")
         
         blocks = []
         block_counter = 0
         doc = None
         
         try:
-            # Open document with error handling
             doc = fitz.open(str(pdf_path))
-            
-            # Get page count safely
-            try:
-                page_count = doc.page_count
-            except Exception as e:
-                print(f"⚠️ Error getting page count: {e}")
-                # Try alternative method
-                try:
-                    page_count = len(doc)
-                except:
-                    # Fallback: try to iterate through pages
-                    page_count = 0
-                    try:
-                        while True:
-                            page = doc.load_page(page_count)
-                            page_count += 1
-                    except:
-                        pass
-            
+            page_count = doc.page_count
             print(f"   📄 Document has {page_count} pages")
             
             # Process each page
@@ -90,37 +64,13 @@ class PDFTextExtractor:
                     page = doc.load_page(page_num)
                     text_dict = page.get_text("dict")
                     
-                    for block_idx, block in enumerate(text_dict.get("blocks", [])):
-                        if "lines" in block:  # Text block
-                            for line_idx, line in enumerate(block["lines"]):
-                                for span_idx, span in enumerate(line.get("spans", [])):
-                                    text = span.get("text", "").strip()
-                                    
-                                    if text:  # Only include non-empty text
-                                        # Extract bbox coordinates
-                                        bbox = span.get("bbox", [0, 0, 0, 0])
-                                        
-                                        # Determine bold/italic from flags
-                                        flags = span.get("flags", 0)
-                                        is_bold = bool(flags & 16)  # Bold flag
-                                        is_italic = bool(flags & 2)  # Italic flag
-                                        
-                                        # Create block in EXACT format expected by feature_engineering.py
-                                        block_data = {
-                                            "pdf_id": pdf_path.stem,
-                                            "page_number": page_num + 1,
-                                            "block_id": f"{pdf_path.stem}_p{page_num+1}_b{block_counter:03d}",
-                                            "text": text,
-                                            "bbox": [float(bbox[0]), float(bbox[1]), float(bbox[2]), float(bbox[3])],
-                                            "font_size": float(span.get("size", 12.0)),
-                                            "font_name": span.get("font", ""),
-                                            "is_bold": is_bold,
-                                            "is_italic": is_italic,
-                                            "label": "BODY"  # Default label for processing
-                                        }
-                                        
-                                        blocks.append(block_data)
-                                        block_counter += 1
+                    # Group spans into lines first, then filter
+                    page_blocks = PDFTextExtractor._extract_meaningful_text_from_page(
+                        text_dict, page_num, pdf_path, block_counter
+                    )
+                    
+                    blocks.extend(page_blocks)
+                    block_counter += len(page_blocks)
                 
                 except Exception as page_error:
                     print(f"⚠️ Error processing page {page_num + 1}: {page_error}")
@@ -128,84 +78,8 @@ class PDFTextExtractor:
             
         except Exception as e:
             print(f"❌ Error opening/processing PDF: {e}")
-            print("   Trying alternative extraction method...")
             
-            # Alternative extraction method using simpler approach
-            try:
-                if doc is None:
-                    doc = fitz.open(str(pdf_path))
-                
-                # Use simple text extraction
-                for page_num in range(10):  # Try up to 10 pages
-                    try:
-                        page = doc.load_page(page_num)
-                        text_blocks_simple = page.get_text("blocks")
-                        
-                        for block_idx, block in enumerate(text_blocks_simple):
-                            if len(block) >= 5:  # block format: (x0, y0, x1, y1, text, ...)
-                                text = block[4].strip()
-                                if text:
-                                    block_data = {
-                                        "pdf_id": pdf_path.stem,
-                                        "page_number": page_num + 1,
-                                        "block_id": f"{pdf_path.stem}_p{page_num+1}_b{block_counter:03d}",
-                                        "text": text,
-                                        "bbox": [float(block[0]), float(block[1]), float(block[2]), float(block[3])],
-                                        "font_size": 12.0,  # Default
-                                        "font_name": "",
-                                        "is_bold": False,
-                                        "is_italic": False,
-                                        "label": "BODY"
-                                    }
-                                    blocks.append(block_data)
-                                    block_counter += 1
-                                    
-                    except Exception as alt_page_error:
-                        if page_num == 0:  # If first page fails, it's a serious error
-                            print(f"❌ Cannot read any pages from PDF: {alt_page_error}")
-                            break
-                        else:
-                            # End of document reached
-                            break
-                            
-            except Exception as alt_error:
-                print(f"❌ Alternative extraction also failed: {alt_error}")
-                
-                # Last resort: try to extract just text without formatting
-                try:
-                    if doc is None:
-                        doc = fitz.open(str(pdf_path))
-                    
-                    page = doc.load_page(0)  # Try just first page
-                    simple_text = page.get_text()
-                    
-                    if simple_text.strip():
-                        # Split into paragraphs and create basic blocks
-                        paragraphs = [p.strip() for p in simple_text.split('\n\n') if p.strip()]
-                        
-                        for idx, para in enumerate(paragraphs[:50]):  # Limit to 50 paragraphs
-                            block_data = {
-                                "pdf_id": pdf_path.stem,
-                                "page_number": 1,
-                                "block_id": f"{pdf_path.stem}_p1_b{idx:03d}",
-                                "text": para,
-                                "bbox": [0.0, float(idx * 20), 500.0, float((idx + 1) * 20)],
-                                "font_size": 12.0,
-                                "font_name": "",
-                                "is_bold": False,
-                                "is_italic": False,
-                                "label": "BODY"
-                            }
-                            blocks.append(block_data)
-                        
-                        print(f"   ⚠️ Used simple text extraction: {len(blocks)} paragraphs")
-                    
-                except Exception as final_error:
-                    print(f"❌ All extraction methods failed: {final_error}")
-                    raise Exception(f"Cannot extract text from PDF: {pdf_path.name}")
-        
         finally:
-            # Always close the document
             if doc:
                 try:
                     doc.close()
@@ -213,10 +87,224 @@ class PDFTextExtractor:
                     pass
         
         if not blocks:
-            raise Exception(f"No text could be extracted from PDF: {pdf_path.name}")
+            raise Exception(f"No meaningful text could be extracted from PDF: {pdf_path.name}")
         
-        print(f"   ✅ Extracted {len(blocks)} text blocks")
+        print(f"   ✅ Extracted {len(blocks)} meaningful text blocks")
         return blocks
+    
+    @staticmethod
+    def _extract_meaningful_text_from_page(text_dict, page_num, pdf_path, start_counter):
+        """Extract meaningful text blocks from a single page."""
+        meaningful_blocks = []
+        block_counter = start_counter
+        
+        for block_idx, block in enumerate(text_dict.get("blocks", [])):
+            if "lines" in block:  # Text block
+                # Process each line as a potential text unit
+                for line_idx, line in enumerate(block["lines"]):
+                    line_text = ""
+                    line_bbox = None
+                    line_font_info = []
+                    
+                    # Collect all spans in this line to form complete text
+                    for span in line.get("spans", []):
+                        span_text = span.get("text", "").strip()
+                        if span_text:
+                            line_text += span_text + " "
+                            line_font_info.append({
+                                "font_size": span.get("size", 12.0),
+                                "font_name": span.get("font", ""),
+                                "is_bold": bool(span.get("flags", 0) & 16),
+                                "is_italic": bool(span.get("flags", 0) & 2),
+                                "bbox": span.get("bbox", [0, 0, 0, 0])
+                            })
+                            
+                            # Extend line bbox
+                            span_bbox = span.get("bbox", [0, 0, 0, 0])
+                            if line_bbox is None:
+                                line_bbox = list(span_bbox)
+                            else:
+                                line_bbox[0] = min(line_bbox[0], span_bbox[0])
+                                line_bbox[1] = min(line_bbox[1], span_bbox[1])
+                                line_bbox[2] = max(line_bbox[2], span_bbox[2])
+                                line_bbox[3] = max(line_bbox[3], span_bbox[3])
+                    
+                    line_text = line_text.strip()
+                    
+                    # Apply filters to determine if this is meaningful text
+                    if PDFTextExtractor._is_meaningful_text(line_text, line_font_info, page_num):
+                        # Get dominant font characteristics
+                        dominant_info = PDFTextExtractor._get_dominant_font_info(line_font_info)
+                        
+                        block_data = {
+                            "pdf_id": pdf_path.stem,
+                            "page_number": page_num + 1,
+                            "block_id": f"{pdf_path.stem}_p{page_num+1}_b{block_counter:03d}",
+                            "text": line_text,
+                            "bbox": line_bbox if line_bbox else [0, 0, 0, 0],
+                            "font_size": dominant_info["font_size"],
+                            "font_name": dominant_info["font_name"],
+                            "is_bold": dominant_info["is_bold"],
+                            "is_italic": dominant_info["is_italic"],
+                            "label": "BODY"  # Default label for processing
+                        }
+                        
+                        meaningful_blocks.append(block_data)
+                        block_counter += 1
+        
+        return meaningful_blocks
+    
+    @staticmethod
+    def _is_meaningful_text(text: str, font_info: List[Dict], page_num: int) -> bool:
+        """
+        Determine if text is meaningful (not noise like page numbers, version info, etc.).
+        """
+        if not text or len(text.strip()) < 3:
+            return False
+        
+        # Length filters - focus on sentences and headings
+        if len(text) > 100:  # Too long for headings, might be body text
+            return False
+        
+        if len(text) < 5:  # Too short to be meaningful
+            return False
+        
+        text_lower = text.lower().strip()
+        
+        # NOISE PATTERNS TO EXCLUDE
+        noise_patterns = [
+            # Page numbers and navigation
+            r'^page \d+',
+            r'^\d+ of \d+$',
+            r'^page \d+ of \d+$',
+            r'^\d+$',  # Just numbers
+            
+            # Version and date patterns
+            r'^version \d',
+            r'^v\d+\.\d+',
+            r'^version \d+\.\d+',
+            r'^\d{4}$',  # Just year
+            r'^\w{3} \d{1,2}, \d{4}$',  # Date format like "May 31, 2014"
+            r'^\d{1,2} \w{3} \d{4}$',  # Date format like "31 MAY 2014"
+            
+            # Copyright and legal
+            r'^©',
+            r'^copyright',
+            r'all rights reserved',
+            r'international software testing qualifications board$',
+            
+            # URLs and technical references
+            r'www\.',
+            r'http',
+            r'\.com',
+            r'\.org',
+            r'@.*\.',
+            
+            # Document structure noise
+            r'^\.{3,}',  # Dots (table of contents)
+            r'^_{3,}',   # Underscores
+            r'^-{3,}',   # Dashes
+            
+            # Very short meaningless fragments
+            r'^\w{1,2}$',  # 1-2 characters
+            r'^[^\w\s]+$',  # Only special characters
+            
+            # Specific unwanted content patterns
+            r'^board$',
+            r'^international$',
+            r'^software testing$',
+            r'^qualifications$',
+            r'^may 31, 2014$',
+            r'^version 2014$',
+        ]
+        
+        # Check against noise patterns
+        for pattern in noise_patterns:
+            if re.search(pattern, text_lower):
+                return False
+        
+        # POSITIVE INDICATORS FOR MEANINGFUL TEXT
+        meaningful_score = 0
+        
+        # 1. Contains multiple words (likely sentences or headings)
+        words = text.split()
+        if len(words) >= 2:
+            meaningful_score += 2
+        elif len(words) == 1 and len(text) >= 8:  # Single meaningful word
+            meaningful_score += 1
+        
+        # 2. Proper sentence characteristics
+        if any(text.endswith(punct) for punct in ['.', '!', '?', ':']):
+            meaningful_score += 2
+        
+        # 3. Contains common meaningful words
+        meaningful_words = [
+            'introduction', 'overview', 'conclusion', 'summary', 'chapter', 'section',
+            'testing', 'development', 'software', 'agile', 'method', 'process',
+            'requirements', 'design', 'implementation', 'management', 'quality',
+            'the', 'and', 'or', 'in', 'on', 'with', 'for', 'to', 'of', 'is', 'are'
+        ]
+        
+        if any(word in text_lower for word in meaningful_words):
+            meaningful_score += 1
+        
+        # 4. Structural patterns that indicate headings
+        if re.match(r'^\d+\.?\d*\s+\w+', text):  # Numbered sections
+            meaningful_score += 3
+        
+        # 5. Title case suggests headings
+        if len(words) >= 2:
+            title_case_words = sum(1 for word in words if word[0].isupper())
+            if title_case_words / len(words) >= 0.6:  # 60% title case
+                meaningful_score += 2
+        
+        # 6. Font characteristics (if available)
+        if font_info:
+            avg_font_size = sum(info["font_size"] for info in font_info) / len(font_info)
+            if avg_font_size >= 14:  # Larger fonts often indicate headings
+                meaningful_score += 2
+            
+            if any(info["is_bold"] for info in font_info):
+                meaningful_score += 1
+        
+        # 7. Avoid very common footer/header text
+        common_footers = [
+            'international software testing qualifications board',
+            'istqb',
+            'foundation level',
+            'agile tester'
+        ]
+        
+        # If it's just a common footer/header phrase, reduce score
+        if any(footer in text_lower for footer in common_footers) and len(words) <= 4:
+            meaningful_score -= 2
+        
+        # Require minimum score to be considered meaningful
+        return meaningful_score >= 3
+    
+    @staticmethod
+    def _get_dominant_font_info(font_info: List[Dict]) -> Dict:
+        """Get the dominant font characteristics from a list of font info."""
+        if not font_info:
+            return {
+                "font_size": 12.0,
+                "font_name": "",
+                "is_bold": False,
+                "is_italic": False
+            }
+        
+        # Calculate averages and most common values
+        font_sizes = [info["font_size"] for info in font_info]
+        font_names = [info["font_name"] for info in font_info]
+        bold_flags = [info["is_bold"] for info in font_info]
+        italic_flags = [info["is_italic"] for info in font_info]
+        
+        return {
+            "font_size": sum(font_sizes) / len(font_sizes),
+            "font_name": max(set(font_names), key=font_names.count) if font_names else "",
+            "is_bold": sum(bold_flags) > len(bold_flags) / 2,  # Majority rule
+            "is_italic": sum(italic_flags) > len(italic_flags) / 2
+        }
 
 
 class ModelV8OutlineGenerator:
