@@ -146,7 +146,7 @@ graph TD
 
 ### **1. Clone Repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/A-X-Z-Y-T-E/LLM_SE_LLM_Adobe.git
 cd LLM_SE_LLM_Adobe
 ```
 
