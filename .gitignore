@@ -534,3 +534,6 @@ training_example.py
 view_graphs.py
 test_dataset.py
 extractor/text_extractor_from_pdf.py
+test_docker.py
+test_v8_outline_generator.py
+check_versions.py
