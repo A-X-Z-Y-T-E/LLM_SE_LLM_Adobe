@@ -50,10 +50,9 @@ This solution tackles **Adobe Hackathon Challenge 1A** by implementing a state-o
 
 **Adobe India Hackathon 2025 - Challenge 1A Team**
 
-- **Arendra Kumar** - Machine Learning & Model Architecture
-- **Kinshuk Chauhan** - Feature Engineering & Data Processing  
-- **Siddhanth P Vashist** - System Integration & Docker Deployment
-
+- **Arendra Kumar** 
+- **Kinshuk Chauhan**  
+- **Siddhanth P Vashist** 
 ---
 
 ## 🏆 **Key Features**
@@ -73,7 +72,7 @@ This solution tackles **Adobe Hackathon Challenge 1A** by implementing a state-o
 
 ### ⚡ **Performance**
 - <10s processing for 50-page PDFs
-- <200MB model size
+- <125KB model size (ultra-compact!)
 - CPU-optimized inference
 - Memory efficient processing
 
@@ -156,15 +155,7 @@ cd LLM_SE_LLM_Adobe
 pip install -r requirements.txt
 ```
 
-### **3. Download/Train Model**
-```bash
-# Option A: Train your own model
-python train_ultra_optimized_model_v8.py
-
-# Option B: Use pre-trained model (if available)
-# Place updated_model_8.pth in root directory
-```
-
+### **3. Download Model**
 ### **4. Test the Pipeline**
 ```bash
 # Test with a sample PDF
@@ -279,7 +270,7 @@ DocumentGNN(
 | Requirement | Specification | Our Solution | Status |
 |-------------|---------------|--------------|--------|
 | **Execution Time** | ≤10s for 50-page PDF | <8s average | ✅ |
-| **Model Size** | ≤200MB | ~150MB | ✅ |
+| **Model Size** | ≤200MB | **125KB** | ✅ |
 | **Network Access** | None allowed | Offline only | ✅ |
 | **Architecture** | AMD64 CPU | Optimized | ✅ |
 | **Resources** | 8 CPUs, 16GB RAM | Compatible | ✅ |
@@ -289,6 +280,7 @@ DocumentGNN(
 - **Structural Accuracy**: 85%+ hierarchical correctness
 - **Title Extraction**: 95%+ accuracy
 - **Cross-document**: Consistent performance
+- **Model Efficiency**: Ultra-compact 125KB model
 
 ### **Benchmark Results**
 ```
@@ -297,37 +289,7 @@ DocumentGNN(
    📈 Structural Ratio: 89.7% accuracy
    ⚡ Processing Speed: 7.3s avg (50-page PDF)
    💾 Memory Usage: <4GB peak
-```
-
----
-
-## 🔧 **Development**
-
-### **Training Your Own Model**
-```bash
-# Train with default optimized settings
-python train_ultra_optimized_model_v8.py
-
-# Custom training with interactive setup
-python train_model.py
-```
-
-### **Feature Engineering**
-```bash
-# Extract features from PDFs
-python extractor/feature_engineering.py
-
-# Build graphs for training
-python model_training/build_graph.py
-```
-
-### **Testing Pipeline**
-```bash
-# Test complete pipeline
-python complete_pdf_to_outline_pipeline.py --quick-test
-
-# Test individual components
-python check_versions.py
+   📦 Model Size: 125KB (ultra-compact)
 ```
 
 ---
@@ -338,27 +300,22 @@ python check_versions.py
 LLM_SE_LLM_Adobe/
 ├── 🐳 Dockerfile                          # Container configuration
 ├── 📋 requirements.txt                    # Python dependencies
-├── 🚀 process_pdfs.py                    # Main processing script (Adobe format)
+├── 🚀 process_pdfs.py                    # Main processing script 
 ├── 🔄 complete_pdf_to_outline_pipeline.py # Complete pipeline
 ├── 🤖 updated_model_8.pth                # Trained V8 model
 ├── 
 ├── 📊 extractor/                          # Feature engineering
 │   └── feature_engineering.py           # 22-feature extraction
-├── 
+|
 ├── 🧠 model_training/                     # GNN model components
 │   ├── models.py                        # DocumentGNN architecture
 │   ├── build_graph.py                   # Graph construction
 │   ├── dataset.py                       # Data loading
 │   └── trainer.py                       # Training pipeline
-├── 
+|
 ├── 🔧 utils/                             # Utility functions
 │   └── text_extractor.py               # Simple PDF extractor
-├── 
-├── 📁 data/                              # Configuration data
-│   └── label_mappings.json             # Label mappings
-├── 
-├── 🧪 testing/                           # Test utilities
-├── 📚 training_data/                     # Training datasets
+|
 └── 📖 README.md                          # This file
 ```
 
@@ -382,10 +339,6 @@ python -c "from model_training.build_graph import build_document_graph; print('�
 ```bash
 # Test complete pipeline
 python complete_pdf_to_outline_pipeline.py --quick-test
-
-# Test Docker integration
-python test_docker.py --setup
-```
 
 ### **Performance Tests**
 ```bash
@@ -419,8 +372,6 @@ This project is developed for **Adobe India Hackathon 2025** by team members Are
 
 **Team**: Arendra Kumar, Kinshuk Chauhan, Siddhanth P Vashist
 
-Made with ❤️ for Adobe Hackathon 2025
-
 </div>
 ## 🙏 **Acknowledgments**
 
@@ -433,9 +384,6 @@ Made with ❤️ for Adobe Hackathon 2025
 
 <div align="center">
 
-**🌟 If this project helps you, please give it a star! 🌟**
-
-Made with ❤️ for Adobe Hackathon 2025
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-repo.readme)
 
