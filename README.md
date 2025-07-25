@@ -189,16 +189,6 @@ docker run --rm \
   --network none \
   pdf-processor
 ```
-
-### **Test Docker Setup**
-```bash
-# Test Docker build and run
-python test_docker.py
-
-# Interactive testing
-python test_docker.py --interactive
-```
-
 ---
 
 ## 🧠 **Model Details**
@@ -230,7 +220,8 @@ DocumentGNN(
 <summary><strong>🎨 Stylistic Features (3)</strong></summary>
 
 - Font size normalization
-- Bold/italic detection
+- Bold detection
+- Italic detection
 
 </details>
 
