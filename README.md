@@ -11,6 +11,8 @@
 
 *Transforming PDFs into structured hierarchical outlines with 90%+ accuracy*
 
+**Team Members**: Arendra Kumar, Kinshuk Chauhan, Siddhanth P Vashist
+
 </div>
 
 ---
@@ -18,6 +20,7 @@
 ## 📋 **Table of Contents**
 
 - [🎯 Overview](#-overview)
+- [👥 Team](#-team)
 - [🏆 Key Features](#-key-features)
 - [🏗️ Architecture](#️-architecture)
 - [🚀 Quick Start](#-quick-start)
@@ -27,7 +30,6 @@
 - [🔧 Development](#-development)
 - [📁 Project Structure](#-project-structure)
 - [🧪 Testing](#-testing)
-- [🤝 Contributing](#-contributing)
 
 ---
 
@@ -41,6 +43,16 @@ This solution tackles **Adobe Hackathon Challenge 1A** by implementing a state-o
 - 🎯 **High Accuracy**: 90%+ heading detection precision
 - 🐳 **Production Ready**: Fully containerized with Docker
 - 🔄 **Robust Pipeline**: Multiple fallback mechanisms
+
+---
+
+## 👥 **Team**
+
+**Adobe India Hackathon 2025 - Challenge 1A Team**
+
+- **Arendra Kumar** - Machine Learning & Model Architecture
+- **Kinshuk Chauhan** - Feature Engineering & Data Processing  
+- **Siddhanth P Vashist** - System Integration & Docker Deployment
 
 ---
 
@@ -331,8 +343,7 @@ LLM_SE_LLM_Adobe/
 ├── 🤖 updated_model_8.pth                # Trained V8 model
 ├── 
 ├── 📊 extractor/                          # Feature engineering
-│   ├── feature_engineering.py           # 22-feature extraction
-│   └── text_extractor_from_pdf.py      # PDF text extraction
+│   └── feature_engineering.py           # 22-feature extraction
 ├── 
 ├── 🧠 model_training/                     # GNN model components
 │   ├── models.py                        # DocumentGNN architecture
@@ -387,41 +398,30 @@ python -m memory_profiler complete_pdf_to_outline_pipeline.py
 
 ---
 
-## 🤝 **Contributing**
-
-We welcome contributions! Here's how to get started:
-
-### **Development Setup**
-```bash
-# Clone and setup
-git clone <repo-url>
-cd LLM_SE_LLM_Adobe
-pip install -r requirements.txt
-
-# Create feature branch
-git checkout -b feature/your-feature-name
-```
-
-### **Code Style**
-- Follow PEP 8 guidelines
-- Add docstrings to all functions
-- Include type hints where possible
-- Test your changes thoroughly
-
-### **Submitting Changes**
-1. 🔍 Test your changes locally
-2. 📝 Update documentation if needed
-3. 🚀 Create pull request with clear description
-4. ✅ Ensure all checks pass
-
----
-
 ## 📄 **License**
 
-This project is developed for **Adobe India Hackathon 2025**. All code uses open-source libraries and frameworks.
+This project is developed for **Adobe India Hackathon 2025** by team members Arendra Kumar, Kinshuk Chauhan, and Siddhanth P Vashist. All code uses open-source libraries and frameworks.
 
 ---
 
+## 🙏 **Acknowledgments**
+
+- **Adobe India** for hosting the hackathon
+- **PyTorch Team** for the deep learning framework
+- **PyTorch Geometric** for graph neural network support
+- **PyMuPDF** for robust PDF processing
+
+---
+
+<div align="center">
+
+**🌟 Adobe India Hackathon 2025 - Challenge 1A Solution 🌟**
+
+**Team**: Arendra Kumar, Kinshuk Chauhan, Siddhanth P Vashist
+
+Made with ❤️ for Adobe Hackathon 2025
+
+</div>
 ## 🙏 **Acknowledgments**
 
 - **Adobe India** for hosting the hackathon
