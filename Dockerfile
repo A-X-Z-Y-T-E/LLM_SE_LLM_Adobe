@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 python:3.10-slim-bullseye
+FROM python:3.10-slim
 
 # Ensure all system packages are up-to-date to reduce vulnerabilities
 RUN apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y && apt-get clean
@@ -32,8 +32,7 @@ COPY process_pdfs.py .
 COPY complete_pdf_to_outline_pipeline.py .
 COPY extractor/ ./extractor/
 COPY model_training/ ./model_training/
-COPY utils/ ./utils/
-COPY data/ ./data/
+
 
 # Copy the trained model
 COPY updated_model_8.pth .
@@ -54,4 +53,4 @@ RUN python -c "import torch; print(f'PyTorch version: {torch.__version__}'); pri
 RUN python -c "import torch; model_data = torch.load('updated_model_8.pth', map_location='cpu'); print('✅ V8 model loads successfully on CPU')" || echo "⚠️ V8 model not found - will use fallback"
 
 # Run the PDF processing script
-CMD ["python", "process_pdfs.py"]
+CMD ["python", "./process_pdfs.py"]
