@@ -1,8 +1,8 @@
 # PyTorch 2.5.0 CPU-only for Docker compatibility (Adobe Challenge requirement)
-torch==2.5.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.5.0 --index-url https://download.pytorch.org/whl/cpu
 torch-geometric==2.5.0
-torchvision==0.20.0+cpu --index-url https://download.pytorch.org/whl/cpu
-torchaudio==2.5.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torchvision==0.20.0 --index-url https://download.pytorch.org/whl/cpu
+torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cpu
 
 # PDF processing - matching your version
 PyMuPDF==1.23.17
